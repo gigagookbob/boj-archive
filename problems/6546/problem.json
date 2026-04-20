@@ -12,7 +12,7 @@
       "output": "300 420 moveto\n310 420 lineto\n310 430 lineto\nstroke\nshowpage\n300 420 moveto\n310 420 lineto\n310 410 lineto\n320 410 lineto\n320 420 lineto\nstroke\nshowpage\n"
     }
   ],
-  "hint": "<p><img alt=\"\" src=\"/upload/images2/edge.gif\" style=\"height:128px; width:65px\"/></p>",
+  "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:128px; width:65px\"/></p>",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2003",
   "level": 5,
   "tags": [

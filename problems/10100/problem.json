@@ -12,7 +12,7 @@
       "output": "2 3 4 5 8 10 9\n7 8 4\n1 5 7 6 3\n"
     }
   ],
-  "hint": "<p>The following picture illustrates the street network and the three senior–compatible tours that may be used to cover it.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"/upload/images2/p.png\" style=\"height: 221px; line-height: 20.8px; width: 270px;\"/></p>\n<p>Note that there are several solutions to this example, among them some with only two tours.</p>",
+  "hint": "<p>The following picture illustrates the street network and the three senior–compatible tours that may be used to cover it.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 221px; line-height: 20.8px; width: 270px;\"/></p>\n<p>Note that there are several solutions to this example, among them some with only two tours.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2014, yclock",
   "level": 18,
   "tags": [

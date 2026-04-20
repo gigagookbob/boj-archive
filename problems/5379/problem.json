@@ -12,7 +12,7 @@
       "output": "2.828\n60.000\n"
     }
   ],
-  "hint": "<p><img alt=\"\" src=\"/upload/images2/island.png\" style=\"height:218px; width:225px\"/></p>\n<p>The island group as described by the second test case in the sample input. Indicated is the optimal path from the bottom left island to the top right one, which is the path that minimizes the total distance covered over water (indicated by the dashed lines).</p>",
+  "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:218px; width:225px\"/></p>\n<p>The island group as described by the second test case in the sample input. Indicated is the optimal path from the bottom left island to the top right one, which is the path that minimizes the total distance covered over water (indicated by the dashed lines).</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2012 Preliminaries",
   "level": 16,
   "tags": [

@@ -12,7 +12,7 @@
       "output": "Case 1: 6\nCase 2: 5\nCase 3: 100\n"
     }
   ],
-  "hint": "<p>첫 번째 예제의 경우에 아래와 같이 6개의 짝을 만들 수 있다.</p>\r\n\r\n<p><img alt=\"\" src=\"/upload/images2/rna.png\" style=\"height:134px; width:497px\" /></p>\r\n",
+  "hint": "<p>첫 번째 예제의 경우에 아래와 같이 6개의 짝을 만들 수 있다.</p>\r\n\r\n<p><img alt=\"\" src=\"1.png\" style=\"height:134px; width:497px\" /></p>\r\n",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2012, baekjoon, y305205",
   "level": null,
   "tags": [],

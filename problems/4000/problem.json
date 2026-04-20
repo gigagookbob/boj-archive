@@ -24,7 +24,7 @@
       "output": "The union of Aastria and Abstria is not equal to Aabstria\n"
     }
   ],
-  "hint": "<ul>\n<li>첫 번째 예제: <img alt=\"\" src=\"/upload/images2/kingdom1.png\" style=\"height:198px; width:207px\"/></li>\n<li>두 번째 예제: <img alt=\"\" src=\"/upload/images2/kingdom2.png\" style=\"height:176px; width:150px\"/></li>\n<li>세 번째 예제: <img alt=\"\" src=\"/upload/images2/ai.png\" style=\"height:190px; line-height:1.6em; opacity:0.9; width:214px\"/></li>\n<li>네 번째 예제: <img alt=\"\" src=\"/upload/images2/kingdom4.png\" style=\"height:153px; width:372px\"/></li>\n</ul>",
+  "hint": "<ul>\n<li>첫 번째 예제: <img alt=\"\" src=\"2.png\" style=\"height:198px; width:207px\"/></li>\n<li>두 번째 예제: <img alt=\"\" src=\"3.png\" style=\"height:176px; width:150px\"/></li>\n<li>세 번째 예제: <img alt=\"\" src=\"1.png\" style=\"height:190px; line-height:1.6em; opacity:0.9; width:214px\"/></li>\n<li>네 번째 예제: <img alt=\"\" src=\"4.png\" style=\"height:153px; width:372px\"/></li>\n</ul>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2012",
   "level": 29,
   "tags": [

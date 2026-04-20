@@ -12,7 +12,7 @@
       "output": "4.02443315986596061862\n6.40615451586960205077\n3.82842712474619029095\n-1"
     }
   ],
-  "hint": "<p>첫 번째 테스트 케이스는 다음 그림과 같다.</p>\n<p><img alt=\"\" src=\"/upload/codershigh2015/figure_3.png\" style=\"height:615px; width:815px\"/></p>\n<p>위 그림에서 큰 원은 각각의 화재를 진압할 수 있는 영역을, 작은 원은 소방서의 위치를 나타낸다.</p>",
+  "hint": "<p>첫 번째 테스트 케이스는 다음 그림과 같다.</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:615px; width:815px\"/></p>\n<p>위 그림에서 큰 원은 각각의 화재를 진압할 수 있는 영역을, 작은 원은 소방서의 위치를 나타낸다.</p>",
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, tae",
   "level": 25,
   "tags": [

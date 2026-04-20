@@ -12,7 +12,7 @@
       "output": "5\n"
     }
   ],
-  "hint": "<p><img alt=\"\" src=\"/upload/images/pave.png\" style=\"height:282px; width:334px\" /></p>\r\n\r\n<p>위의 그림은 예제를 그래프로 나타낸 것이다. 굵은 도로는 포장된 도로이다.</p>\r\n\r\n<p><img alt=\"\" src=\"/upload/images/pave2.png\" style=\"height:158px; width:905px\" /></p>\r\n\r\n<p>상근이와 선영이의 훈련 조건을 만족 시키는 경로는 위와 같이 다섯 가지가 있다. 만약, 도로 1-3, 3-5, 2-5를 폭파시킨다면, 상근이와 선영이는 훈련을 할 수 없다. 이때, 총 폭파 비용은 5이다.</p>\r\n\r\n<p>도로 2-4와 2-5를 폭파시켜도 된다. 하지만, 총 폭파 비용이 6이 된다.&nbsp;</p>\r\n",
+  "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:282px; width:334px\" /></p>\r\n\r\n<p>위의 그림은 예제를 그래프로 나타낸 것이다. 굵은 도로는 포장된 도로이다.</p>\r\n\r\n<p><img alt=\"\" src=\"2.png\" style=\"height:158px; width:905px\" /></p>\r\n\r\n<p>상근이와 선영이의 훈련 조건을 만족 시키는 경로는 위와 같이 다섯 가지가 있다. 만약, 도로 1-3, 3-5, 2-5를 폭파시킨다면, 상근이와 선영이는 훈련을 할 수 없다. 이때, 총 폭파 비용은 5이다.</p>\r\n\r\n<p>도로 2-4와 2-5를 폭파시켜도 된다. 하지만, 총 폭파 비용이 6이 된다.&nbsp;</p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2007, Day 2, baekjoon",
   "level": 23,
   "tags": [

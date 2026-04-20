@@ -12,7 +12,7 @@
       "output": "89 89 2\n19 100 5\n61 19 0\n"
     }
   ],
-  "hint": "<p>89, 145, 42, 20, 4, 16, 37, 58 사이클</p>\r\n\r\n<p><img alt=\"\" src=\"/upload/images/cycle1.png\" style=\"height:384px; width:389px\" /></p>\r\n\r\n<p>1 사이클</p>\r\n\r\n<p><img alt=\"\" src=\"/upload/images/cycle2.png\" style=\"height:305px; width:288px\" /></p>\r\n",
+  "hint": "<p>89, 145, 42, 20, 4, 16, 37, 58 사이클</p>\r\n\r\n<p><img alt=\"\" src=\"1.png\" style=\"height:384px; width:389px\" /></p>\r\n\r\n<p>1 사이클</p>\r\n\r\n<p><img alt=\"\" src=\"2.png\" style=\"height:305px; width:288px\" /></p>\r\n",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2010 Arab Collegiate Programming Contest, baekjoon, veydpz",
   "level": 8,
   "tags": [

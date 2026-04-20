@@ -16,7 +16,7 @@
       "output": "5\n"
     }
   ],
-  "hint": "<p><img alt=\"\" src=\"/upload/images/socket.png\" style=\"height:108px; width:252px\" /></p>\r\n\r\n<p>예제의 경우 위와 같이 꽂으면 컴퓨터 5개를 사용할 수 있다.</p>\r\n",
+  "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:108px; width:252px\" /></p>\r\n\r\n<p>예제의 경우 위와 같이 꽂으면 컴퓨터 5개를 사용할 수 있다.</p>\r\n",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2012, baekjoon",
   "level": 9,
   "tags": [

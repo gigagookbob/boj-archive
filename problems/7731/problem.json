@@ -12,7 +12,7 @@
       "output": "1 7 2 3 1\n"
     }
   ],
-  "hint": "<p><img alt=\"\" src=\"/upload/images2/nei.png\" style=\"height:169px; width:193px\"/></p>\n<p>Points having two neighbours are: (3,1) and (3,3), points with three neighbours are: (1,1), (0,2) and (1,3). Point (2,2) has four neighbours, point (4,0) does not have any neighbours and all remaining points have exactly one neighbour each.</p>",
+  "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:169px; width:193px\"/></p>\n<p>Points having two neighbours are: (3,1) and (3,3), points with three neighbours are: (1,1), (0,2) and (1,3). Point (2,2) has four neighbours, point (4,0) does not have any neighbours and all remaining points have exactly one neighbour each.</p>",
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2007",
   "level": 0,
   "tags": [],

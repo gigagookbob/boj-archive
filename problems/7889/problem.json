@@ -12,7 +12,7 @@
       "output": "2\n6\n1\n8\n"
     }
   ],
-  "hint": "<p>마지막 예제의 경우에 아래와 같이 8가지가 가능하다.</p>\r\n\r\n<p><img alt=\"\" src=\"/upload/images/cheap.png\" style=\"height:207px; width:480px\" /></p>\r\n",
+  "hint": "<p>마지막 예제의 경우에 아래와 같이 8가지가 가능하다.</p>\r\n\r\n<p><img alt=\"\" src=\"1.png\" style=\"height:207px; width:480px\" /></p>\r\n",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2008, baekjoon, bachjs",
   "level": 19,
   "tags": [

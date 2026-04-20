@@ -12,7 +12,7 @@
       "output": "5\n"
     }
   ],
-  "hint": "<p>A diagram of the input:</p>\n<p> </p>\n<p><img alt=\"\" src=\"/upload/images2/Bexample.png\" style=\"height:229px; width:251px\"/></p>\n<p>An example optimal solution is:</p>\n<ol>\n<li>Rotate (2,2) clockwise. Step to (1,2).</li>\n<li>Rotate (3,2) counterclockwise. Step to (2,2).</li>\n<li>Rotate (3,2) counterclockwise. Step to (3,2).</li>\n<li>Rotate (3,1) clockwise. Step to (3,1).</li>\n<li>Rotate (3,1) clockwise. Step to (4,1).</li>\n</ol>",
+  "hint": "<p>A diagram of the input:</p>\n<p> </p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:229px; width:251px\"/></p>\n<p>An example optimal solution is:</p>\n<ol>\n<li>Rotate (2,2) clockwise. Step to (1,2).</li>\n<li>Rotate (3,2) counterclockwise. Step to (2,2).</li>\n<li>Rotate (3,2) counterclockwise. Step to (3,2).</li>\n<li>Rotate (3,1) clockwise. Step to (3,1).</li>\n<li>Rotate (3,1) clockwise. Step to (4,1).</li>\n</ol>",
   "source": ", Contest, Waterloo's local Programming Contests, 27 September, 2009",
   "level": 0,
   "tags": [],

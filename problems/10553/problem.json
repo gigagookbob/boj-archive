@@ -16,7 +16,7 @@
       "output": "61\n...................#########.\n...................#.......#.\n...................#.......#.\n######............##.......##\n#....#............#.........#\n#....######.......#.........#\n#.........#.......#.........#\n#.........######..#.........#\n#..............#..#.........#\n#..............#..#.........#\n*****************************\n"
     }
   ],
-  "hint": "<p>Clarification of the first example: Blue color denotes the skyscrapers’ silhouette (character ‘#’), whereas yellow is the part of abscissa located on Vincent’s painting (character ‘*’).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"/upload/images2/ex.png\" style=\"height:285px; width:602px\"/></p>",
+  "hint": "<p>Clarification of the first example: Blue color denotes the skyscrapers’ silhouette (character ‘#’), whereas yellow is the part of abscissa located on Vincent’s painting (character ‘*’).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:285px; width:602px\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #3",
   "level": 9,
   "tags": [
