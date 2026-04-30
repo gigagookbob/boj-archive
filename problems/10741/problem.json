@@ -23,10 +23,7 @@
   "hint": "<h2 style=\"text-align: center;\">HAPPY COLORING BOOK</h2>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:276px; width:432px\"/></p>\n<p style=\"text-align: center;\">Picture 1. Caterpillar (the eyes and the antennas are not areas and should not be colored)</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:340px; width:231px\"/></p>\n<p style=\"text-align: center;\">Picture 2. A sea cottage</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height:242px; width:240px\"/></p>\n<p style=\"text-align: center;\">Picture 3. A well known logo</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"height:276px; width:120px\"/></p>\n<p style=\"text-align: center;\">Picture 4. Frosty the Snowman </p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\" style=\"height:228px; width:237px\"/></p>\n<p style=\"text-align: center;\">Picture 5. An abstract ball</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"6.png\" style=\"height:384px; width:376px\"/></p>\n<p style=\"text-align: center;\">Picture 6. Pyramid </p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"7.png\" style=\"height:415px; width:190px\"/></p>\n<p style=\"text-align: center;\">Picture 7. Daisy</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"8.png\" style=\"height:371px; width:371px\"/></p>\n<p style=\"text-align: center;\">Picture 8. Trampoline (the gray part is not considered an area and should not be colored)</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #7",
   "level": 18,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4.142899990081787

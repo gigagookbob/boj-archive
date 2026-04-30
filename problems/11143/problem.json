@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2011",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 280,
   "submission_count": null,
   "average_tries": 2.2249999046325684

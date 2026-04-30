@@ -15,11 +15,7 @@
   "hint": "<p>RUN에는 <strong><span style=\"color:#e74c3c;\">친목부장</span></strong>이라는 임원직이 실존하지 않습니다. 만약 자신을 친목부장으로 자처하는 사람을 만난다면, 즉시 다른 임원진을 호출하세요.</p>\r\n",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2025 KAIST RUN Spring Contest, ibm2006, ainta, gs22123, koosaga, leinad2, moonrabbit2, silverwolf, urd05",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["math", "greedy", "prefix_sum"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.8133000135421753

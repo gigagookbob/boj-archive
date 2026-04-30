@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2017/2018 예선",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "two_pointer"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.134600043296814

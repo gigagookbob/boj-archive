@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2007",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.521699905395508

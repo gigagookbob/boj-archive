@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2020",
   "level": 21,
-  "tags": [
-    "dp",
-    "sweeping",
-    "traceback"
-  ],
+  "tags": ["dp", "sweeping", "traceback"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 6

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 단국대학교, DSPC 2025 (Dankook Univ. SWAG Programming Contest), University, 경희대학교, 2025 경희대학교 shake! 예선, yyyy7089, dinojaemin, jinhan814, jthis, jwpassion1, kcits970, lighter, m4ushold, sadtreap, sendol, sjhi00, tony9402",
   "level": 16,
-  "tags": [
-    "dp",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["dp", "geometry", "line_intersection"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.1378999948501587

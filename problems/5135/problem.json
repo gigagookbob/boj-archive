@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2011: Famous Computer Scientists",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "greedy"
-  ],
+  "tags": ["ad_hoc", "case_work", "greedy"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.6666998863220215

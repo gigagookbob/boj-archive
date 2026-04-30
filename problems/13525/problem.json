@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2016",
   "level": 6,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.871000051498413

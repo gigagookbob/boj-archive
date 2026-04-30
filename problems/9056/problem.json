@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2007, measurezero",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 275,
   "submission_count": null,
   "average_tries": 1.4218000173568726

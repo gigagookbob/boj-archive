@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ndb796",
   "level": 12,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 1455,
   "submission_count": null,
   "average_tries": 2.022700071334839

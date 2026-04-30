@@ -15,10 +15,7 @@
   "hint": "<p>The picture below illustrates the example. The numbered points are the shops. The point  is the optimal position of the warehouse.<br/>\n<img alt=\"\" src=\"2.gif\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2005/2006, Stage 2, koosaga",
   "level": 18,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 4.5833001136779785

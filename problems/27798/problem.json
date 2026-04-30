@@ -15,11 +15,7 @@
   "hint": "<p>The strings <code>()0000()</code>, <code>(1)0(((()))1)</code> and <code>(1)(11)000</code> are not valid solutions to Sample Cases #1, #2 and #3, respectively, only because they are not of minimum length. In addition, <code>1)(</code> and <code>)(1</code> are not valid solutions to Sample Case #4 because they contain unmatched parentheses and the nesting depth is 0 at the position where there is a 1.</p>\n<p>You can create sample inputs that are valid only for Test Set 2 by removing the parentheses from the example strings mentioned in the problem statement.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2020, Qualification Round",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.0967999696731567

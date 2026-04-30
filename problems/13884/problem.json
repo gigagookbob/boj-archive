@@ -15,10 +15,7 @@
   "hint": "<p>예제 입력의 첫 번째 데이터 세트인,</p>\r\n\r\n<p>1 3</p>\r\n\r\n<p>1 3 2</p>\r\n\r\n<p>는 다음과 같은 삭삽 정렬 과정을 거칩니다.</p>\r\n\r\n<p>3을 선택하여 삭제하고, 배열의 맨 뒤에 삽입하여</p>\r\n\r\n<p>1 2 3</p>\r\n\r\n<p><span style=\"font-family:Arial,&quot;Helvetica Neue&quot;,Helvetica,Tahoma,sans-serif\">으로 1번의 삭삽 정렬 과정을 수행하여 정렬을 종료하여</span></p>\r\n\r\n<p>1 1</p>\r\n\r\n<p><span style=\"font-family:Arial,&quot;Helvetica Neue&quot;,Helvetica,Tahoma,sans-serif\">을 출력합니다.</span></p>\r\n",
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2016 Greater New York Programming Contest, devetude",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 166,
   "submission_count": null,
   "average_tries": 2.0662999153137207

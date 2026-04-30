@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO Holiday Bonus 2010 Contest, Gold",
   "level": 18,
-  "tags": [
-    "math",
-    "probability",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "probability", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

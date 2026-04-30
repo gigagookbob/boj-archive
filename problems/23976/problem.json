@@ -23,9 +23,7 @@
   "hint": "<p>leading zero는 숫자로 이루어진 문자열에서 0을 제외한 첫 번째 숫자 앞에 오는 모든 숫자 0을 의미한다.</p>\n<p>단, \"0\"은 leading zero에 해당하지 않는다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2021, hyoseok, bsyun0571, hellogaon, hibye1217, jh05013, mksmk606, palilo, pjshwa",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 2.2267000675201416

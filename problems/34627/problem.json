@@ -15,11 +15,7 @@
   "hint": "<p><strong>Explanation of the first test case:</strong></p>\n<p>The Krug starts at $(0,0)$ and Doran starts at $(1,1)$. On the Krug's turn, she can only move to $(0,0)$, $(0,1)$, or $(1,0)$.</p>\n<p>Doran, starting at $(1,1)$, can reach any cell on the $3 \\times 3$ grid in a single move. Therefore, no matter where the Krug moves, Doran can always move to her cell on his first turn. The Krug's survival time is $1$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 206px; height: 209px;\"/></p>\n<p><strong>Explanation of the second test case:</strong></p>\n<p>The Krug starts at $(1,1)$ and Doran at $(0,1)$. To survive Doran's first turn, the Krug must move to a cell that Doran cannot reach. The only such cell is $(2,1)$.</p>\n<p>After the Krug moves to $(2,1)$, Doran moves to $(1,1)$ to get closer.</p>\n<p>Now, for her second move, the Krug must again move to a cell Doran can't reach, which is $(3,1)$. Doran then moves to $(2,1)$.</p>\n<p>At this point, no matter where the Krug moves for her third turn, Doran can always reach her cell. It can be shown that this is an optimal strategy for both, and therefore the Krug's survival time is $3$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 268px; height: 271px;\"/></p>",
   "source": "Contest, Codeforces, Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2), djm03178, aerae, ainta, gs20036, kckyoung2, ncy09, qwerasdfzxcl, sadtreap, urd05, we12223, wizardrabbit",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "game_theory"
-  ],
+  "tags": ["math", "greedy", "game_theory"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.1538000106811523

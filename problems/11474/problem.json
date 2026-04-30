@@ -15,10 +15,7 @@
   "hint": "<p>In the example above, the first two triples are satisfied whereas the last one is not. Therefore, at least half of all triples are satisfied.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2015",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 3.774199962615967

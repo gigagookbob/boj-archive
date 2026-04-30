@@ -15,10 +15,7 @@
   "hint": null,
   "source": "leejseo",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 2.1666998863220215

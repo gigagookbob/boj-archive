@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2015 University Graduates Test, Round B APAC Test, Contest, Google, Kick Start, Google Kick Start 2014, Round B",
   "level": 10,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.7826000452041626

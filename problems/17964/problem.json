@@ -23,13 +23,7 @@
   "hint": "<p>In the first example, the 1-perfect tree is defined by array [1, 2, 1, 2] (i.e. p<sub>2</sub> = 1, w<sub>2</sub> = 2, p<sub>3</sub> = 1, w<sub>3</sub> = 2). The 2-perfect tree is defined by array [1, 2, 2, 1] (i.e p<sub>2</sub> = 1, w<sub>2</sub> = 2, p<sub>3</sub> = 2, w<sub>3</sub> = 1). Here are illustrations of the 1-perfect tree and the 2-perfect tree respectively (path from vertex 1 to vertex n is drawn with bold lines):</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 315px; height: 161px;\"/></p>\n<p>In the second example, there are no k-perfect trees, that can be obtained by permuting array a.</p>\n<p>In the third example, only 4-perfect tree and 5-perfect tree can be obtained. These are defined by arrays [1, 4, 2, 4, 3, 4, 4, 4, 4, 5] and [1, 4, 2, 4, 3, 4, 4, 4, 5, 4] respectively. Here are illustrations of them:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 261px; height: 198px;\"/></p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2019, Contest, Open Cup, 2019/2020 Season, Stage 6: Grand Prix of Southeastern Europe",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "hash_set",
-    "sorting",
-    "set"
-  ],
+  "tags": ["ad_hoc", "data_structures", "hash_set", "sorting", "set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

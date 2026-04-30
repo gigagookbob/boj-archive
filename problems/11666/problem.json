@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2015, koosaga",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 2.261199951171875

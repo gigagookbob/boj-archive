@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2025, CCC 2025 Senior Division",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "set"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5788999795913696

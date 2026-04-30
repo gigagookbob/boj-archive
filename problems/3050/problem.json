@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #2, baekjoon",
   "level": 14,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 196,
   "submission_count": null,
   "average_tries": 2.1122000217437744

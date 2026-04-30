@@ -15,11 +15,7 @@
   "hint": "<p>В примере, на первом ходу Алекс не угадает загаданную Марти зебру с вероятностью $p_1 = \\frac{3}{4}$, а на втором --- с вероятностью $p_2 = \\frac{8}{9}$. Поэтому вероятность, с которой Алекс не угадает ни одну из черных в белую полоску зебр, равна $p = \\frac{2}{3}$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 28, 2020, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 28, 2020, Advanced",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5

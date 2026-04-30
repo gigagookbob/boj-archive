@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, University of Virginia High School Programming Contest, UVa HSPC 2011",
   "level": 9,
-  "tags": [
-    "math",
-    "dp",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "dp", "string", "arithmetic"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 4.478300094604492

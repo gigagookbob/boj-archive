@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2026, 1차 선발고사, azberjibiou",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "segtree"
-  ],
+  "tags": ["data_structures", "ad_hoc", "segtree"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.6175999641418457

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, imgosari, rdd6584, wjin0526",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking",
-    "tsp"
-  ],
+  "tags": ["bruteforcing", "backtracking", "tsp"],
   "accepted_user_count": 16028,
   "submission_count": null,
   "average_tries": 2.8399999141693115

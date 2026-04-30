@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ntopia, goooora, bnb2011",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 1677,
   "submission_count": null,
   "average_tries": 1.7674000263214111

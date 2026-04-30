@@ -10,9 +10,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2024, Practice",
   "level": 13,
-  "tags": [
-    "randomization"
-  ],
+  "tags": ["randomization"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.769200086593628

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2010",
   "level": 20,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 4.157899856567383

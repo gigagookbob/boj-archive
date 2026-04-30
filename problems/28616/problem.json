@@ -23,11 +23,7 @@
   "hint": "<p>Значения зараженности, которые могут возможны в первом примере: $0$ (все цифры лишние), $3$, $12$, $24$, $123$ и $234$. Максимальное из них --- $234$, что и является ответом.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, February 13, 2022",
   "level": 12,
-  "tags": [
-    "greedy",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["greedy", "math", "number_theory"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5.25

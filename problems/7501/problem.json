@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC 2010",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "miller_rabin"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "miller_rabin"],
   "accepted_user_count": 378,
   "submission_count": null,
   "average_tries": 3.3227999210357666

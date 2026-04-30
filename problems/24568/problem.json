@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2022, CCC 2022 Junior Division",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 5644,
   "submission_count": null,
   "average_tries": 1.4501999616622925

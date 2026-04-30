@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 파댕이컵, 파댕이컵, invrtd_h, ksoosung77, mugamta, naeby, qvixnh22, rustiebeats, utilforever",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 369,
   "submission_count": null,
   "average_tries": 1.7940000295639038

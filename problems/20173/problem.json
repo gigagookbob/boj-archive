@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2020, yclock",
   "level": 13,
-  "tags": [
-    "dp",
-    "constructive"
-  ],
+  "tags": ["dp", "constructive"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 2.035900115966797

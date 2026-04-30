@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, FallSpot 2009",
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "string"
-  ],
+  "tags": ["dp", "prefix_sum", "string"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

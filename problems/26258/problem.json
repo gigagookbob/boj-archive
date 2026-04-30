@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, SW마에스트로, 제13기 알고리즘 대회, chansol, jyheo98, leeh18, man_of_learning, seungwuk98, tony9402",
   "level": 8,
-  "tags": [
-    "binary_search",
-    "math"
-  ],
+  "tags": ["binary_search", "math"],
   "accepted_user_count": 353,
   "submission_count": null,
   "average_tries": 2.410799980163574

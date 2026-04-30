@@ -15,10 +15,7 @@
   "hint": "<p>To make all numbers equal 2 Kevin needs at least 5 minutes. One of the possible sequence of operations:</p>\n<ol>\n<li>Apply min operation to a<sub>6</sub>, it will be equal to 2.</li>\n<li>Apply max operation to a<sub>4</sub>, it will be equal to 2.</li>\n<li>Apply max operation to a<sub>3</sub>, it will be equal to 5.</li>\n<li>Apply min operation to a<sub>2</sub>, it will be equal to 2.</li>\n<li>Apply min operation to a<sub>3</sub>, it will be equal to 2.</li>\n</ol>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2019, Contest, Open Cup, 2019/2020 Season, Stage 6: Grand Prix of Southeastern Europe",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 2.7669999599456787

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCO 2014",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.9318000078201294

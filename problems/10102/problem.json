@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCC 2014 Junior Division, baekjoon",
   "level": 3,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 10237,
   "submission_count": null,
   "average_tries": 1.5226000547409058

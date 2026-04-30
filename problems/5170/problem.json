@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2008: Murder Mystery",
   "level": 12,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 4.3333001136779785

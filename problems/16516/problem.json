@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2018",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "sorting", "ad_hoc"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.340399980545044

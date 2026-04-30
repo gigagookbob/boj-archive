@@ -15,10 +15,7 @@
   "hint": "<p>입출력 예시에서 경기는 4개, 위원은 3명이 있다. 각 경기를 개최하는데 필요한 비용은 5, 3, 1, 4이다.</p>\r\n\r\n<ul>\r\n\t<li>위원 1의 심사 기준은 4이다. 비용이 4 이하인 경기 중에서 가장 재미있는 경기는 2이다.</li>\r\n\t<li>위원 2의 심사 기준은 3이다. 비용이 3 이하인 경기 중에서 가장 재미있는 경기는 2이다.</li>\r\n\t<li>위원 3의 심사 기준은 2이다. 비용이 2 이하인 경기 중에서 가장 재미있는 경기는 3이다.</li>\r\n</ul>\r\n\r\n<p>경기 2가 2표, 3이 1표를 획득했다. 가장 많은 표를 얻은 경기는 2이다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2013/2014 예선, baekjoon, 79brue, wjdwithyou",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1070,
   "submission_count": null,
   "average_tries": 1.603700041770935

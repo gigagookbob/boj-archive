@@ -15,13 +15,7 @@
   "hint": null,
   "source": "bupjae, tncks0121, BaaaaaaaaaaarkingDog, djm03178, melthetensai",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "binary_search",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "binary_search", "set", "hash_set"],
   "accepted_user_count": 77041,
   "submission_count": null,
   "average_tries": 3.176800012588501

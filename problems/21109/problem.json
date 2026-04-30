@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 7: North American Contest 1",
   "level": 24,
-  "tags": [
-    "fft",
-    "math",
-    "sqrt_decomposition"
-  ],
+  "tags": ["fft", "math", "sqrt_decomposition"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2012, baekjoon",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 1.302299976348877

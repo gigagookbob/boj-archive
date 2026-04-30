@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2020 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2020 아주대학교 프로그래밍 경시대회 APC, Div.2, spectaclehong, edenooo, jwvg0425, kyo20111, xtalxlr",
   "level": 20,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["implementation", "dp", "graphs", "trees", "dp_tree"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7726999521255493

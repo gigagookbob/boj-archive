@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2011 ACM-ICPC Asia Phuket Regional Programming Contest, baekjoon, jh05013",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.0302999019622803

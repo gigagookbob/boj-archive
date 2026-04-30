@@ -19,10 +19,7 @@
   "hint": null,
   "source": "moonrabbit2",
   "level": 13,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 2.0964999198913574

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2004, CCC 2004 Junior Division",
   "level": 14,
-  "tags": [
-    "implementation",
-    "simulation",
-    "recursion"
-  ],
+  "tags": ["implementation", "simulation", "recursion"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

@@ -19,12 +19,7 @@
   "hint": "<p>두 수의 Bitwise XNOR 연산은 두 수를 이진수로 변환한 뒤, 각 비트를 비교하여 같으면 $1$, 다르면 $0$을 비트별로 계산하는 연산이다. 예로, $1100_{(2)}\\text{ XNOR } 0110_{(2)}=0101_{(2)}$가 된다.</p>\r\n",
   "source": "University, 한양대학교, 제10회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, hibye1217, cologne, mjhmjh1104, seonah, solvedac, yijw0930",
   "level": 19,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination",
-    "xor_basis"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination", "xor_basis"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.769200086593628

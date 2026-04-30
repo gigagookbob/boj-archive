@@ -23,9 +23,7 @@
   "hint": "<p>예제 1의 경우에 만들 수 있는 올바른 괄호 문자열은 ()와 (()) 이다.</p>\n<p>예제 2의 경우에는 ()만 만들 수 있다.</p>",
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.157900094985962

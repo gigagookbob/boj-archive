@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2015 Arab Collegiate Programming Contest",
   "level": 22,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "ternary_search"
-  ],
+  "tags": ["convex_hull", "geometry", "ternary_search"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2025 연세대학교 프로그래밍 경진대회, ystaeyoon113, coconut99, leo020630, lky7674, playsworld16, pyb1031, tlsdydaud1",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.3415000438690186

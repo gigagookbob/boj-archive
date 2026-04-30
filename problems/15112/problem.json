@@ -31,11 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2017 Pacific Northwest Region Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2017 Pacific Northwest Region Programming Contest, Division 2, ICPC, Regionals, North America, Southeast USA Regional, 2017 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2017 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2017 Mid-Atlantic USA Regional Contest, jh05013",
   "level": 19,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation"
-  ],
+  "tags": ["implementation", "data_structures", "simulation"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.8276000022888184

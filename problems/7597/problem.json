@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2008",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 1.1294000148773193

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2010",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "two_pointer",
-    "deque"
-  ],
+  "tags": ["data_structures", "greedy", "two_pointer", "deque"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.4544999599456787

@@ -23,13 +23,7 @@
   "hint": "<p>Clarification of the second example: Take a look at the illustration in the statement.</p>\n<p>Clarification of the third example: All the trains can be lined up on the same platform without any problems.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #3",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "binary_search",
-    "tree_set",
-    "lis"
-  ],
+  "tags": ["data_structures", "greedy", "binary_search", "tree_set", "lis"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.4285999536514282

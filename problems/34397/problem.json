@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2022, Advanced",
   "level": 15,
-  "tags": [
-    "math",
-    "combinatorics",
-    "backtracking",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "combinatorics", "backtracking", "inclusion_and_exclusion"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

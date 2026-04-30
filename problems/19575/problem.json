@@ -15,10 +15,7 @@
   "hint": "<p>입출력 방식이 느리면 여러 줄을 입력받거나 출력할 때 시간초과가 날 수 있다.</p>\n<p>C++을 사용하고 있고 <code>cin</code>/<code>cout</code>을 사용하고자 한다면, <code>cin.tie(NULL)</code>과 <code>sync_with_stdio(false)</code>를 둘 다 적용해 주고, <code>endl</code> 대신 개행문자(<code>\\n</code>)를 쓰자. 단, 이렇게 하면 더 이상 <code>scanf</code>/<code>printf</code>/<code>puts</code>/<code>getchar</code>/<code>putchar</code> 등 C의 입출력 방식을 사용하면 안 된다.</p>\n<p>Java를 사용하고 있다면, <code>Scanner</code>와 <code>System.out.println</code> 대신 <code>BufferedReader</code>와 <code>BufferedWriter</code>를 사용할 수 있다. <code>BufferedWriter.flush</code>는 맨 마지막에 한 번만 하면 된다.</p>\n<p>Python을 사용하고 있다면, <code>input</code> 대신 <code>sys.stdin.readline</code>을 사용할 수 있다.</p>\n<p>마지막으로, Pypy3은 Python 3와 같은 문법을 가지면서 일반적으로 더 빠르게 동작한다. 연산량이 많은 문제에서 Python을 사용하고자 한다면 Pypy로 제출하는 것을 권장한다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 2, malkoring, jh05013, jhnah917, Lawali, leejseo, pichulia, shiftpsh",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 443,
   "submission_count": null,
   "average_tries": 2.6366000175476074

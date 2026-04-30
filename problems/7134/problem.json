@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, Final Round, Gymnasium, Olympiad, Estonian Informatics Olympiad, 2016-17, Final Round, Advanced",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.4286000728607178

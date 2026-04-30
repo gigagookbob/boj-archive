@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2023/2024",
   "level": 21,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.735300064086914

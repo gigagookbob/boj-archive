@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Second elimination round, 2018-2019",
   "level": 9,
-  "tags": [
-    "math",
-    "binary_search",
-    "arithmetic"
-  ],
+  "tags": ["math", "binary_search", "arithmetic"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.3213999271392822

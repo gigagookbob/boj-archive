@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO US Open 2002 Contest, Orange",
   "level": 0,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

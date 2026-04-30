@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2002, dark2840, jh05013, onjo0127",
   "level": 15,
-  "tags": [
-    "graphs",
-    "greedy",
-    "constructive",
-    "degree_sequence"
-  ],
+  "tags": ["graphs", "greedy", "constructive", "degree_sequence"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.266700029373169

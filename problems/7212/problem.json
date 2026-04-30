@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2019/2020, National Round (2), 7-9 Classes",
   "level": 8,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.266700029373169

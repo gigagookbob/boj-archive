@@ -23,13 +23,7 @@
   "hint": "<p>В первом примере, Кэл сначала должен дойти до квадрата $(1, 2)$ за $8$ шагов. Коснуться камня $(1, 1)$. Перейти в соседний справа квадрат. Коснуться камня $(2, 3)$. Затем, дойти до квадрата $(3, 2)$ за $7$ шагов. Коснуться камня $(2, 2)$. Перейти в соседний слева квадрат. После чего, его маршрут закончится. Суммарно он потратит $8 + 1 + 7 + 1 = 17$ единиц времени.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, May 11, 2020",
   "level": 12,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

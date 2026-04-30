@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 15,
-  "tags": [
-    "graphs",
-    "sweeping",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "sweeping", "dag", "topological_sorting"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.857100009918213

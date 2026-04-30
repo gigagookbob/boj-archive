@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2010, Olympiad, International Autumn Tournament in Informatics, 2010, Group B (Juniors)",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "mitm",
-    "sorting"
-  ],
+  "tags": ["binary_search", "mitm", "sorting"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.8437999486923218

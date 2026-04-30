@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2012/2013, Contest #4, baekjoon",
   "level": 16,
-  "tags": [
-    "math",
-    "data_structures",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "data_structures", "exponentiation_by_squaring"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.2462000846862793

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2007 Pacific Northwest Region Programming Contest, baekjoon, zfsiet",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 6115,
   "submission_count": null,
   "average_tries": 1.8375999927520752

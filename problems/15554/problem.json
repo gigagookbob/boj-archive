@@ -23,11 +23,7 @@
   "hint": "<p>예제 1의 경우에 승원이는 3개의 미술품을 가지고 있고, 크기와 가치는 다음과 같다.</p>\r\n\r\n<ul>\r\n\t<li>1번 미술품의 크기는 2, 가치는 3.</li>\r\n\t<li>2번 미술품의 크기는 11, 가치는 2.</li>\r\n\t<li>3번 미술품의 크기는 4, 가치는 5</li>\r\n</ul>\r\n\r\n<p>이때는, 1번과 3번을 전시하면&nbsp;S &minus; (A<sub>max</sub> &minus; A<sub>min</sub>) = 6가 되고, 가장 큰 값이다.</p>\r\n\r\n<ul>\r\n\t<li>크기가 가장 큰 미술품은 3번이다. 따라서, A<sub>max</sub> = 4.</li>\r\n\t<li>크기가 가장 작은 미술품은 1번이다. 따라서,&nbsp;A<sub>min</sub> = 2.</li>\r\n\t<li>전시할 미술품 가치의 합은&nbsp;3 + 5 = 8 이다.</li>\r\n</ul>\r\n\r\n<p>따라서,&nbsp;S = 8 이고,&nbsp; S &minus; (A<sub>max</sub> &minus; A<sub>min</sub>) 는 6이다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2017/2018",
   "level": 16,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum"],
   "accepted_user_count": 334,
   "submission_count": null,
   "average_tries": 2.12280011177063

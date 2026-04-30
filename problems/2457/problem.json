@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2011, 초등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2011, 중등부, fail, junah, nosqeil24, onlyhim, tony9402",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 5453,
   "submission_count": null,
   "average_tries": 3.500999927520752

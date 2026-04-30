@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 1999, Day 1, kcm1700",
   "level": 12,
-  "tags": [
-    "dp",
-    "string",
-    "traceback"
-  ],
+  "tags": ["dp", "string", "traceback"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 4.781799793243408

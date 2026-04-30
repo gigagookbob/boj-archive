@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1997 연습 세션, baekjoon",
   "level": 3,
-  "tags": [
-    "string",
-    "implementation"
-  ],
+  "tags": ["string", "implementation"],
   "accepted_user_count": 3168,
   "submission_count": null,
   "average_tries": 2.0274999141693115

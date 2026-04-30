@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2011, fredhur",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 338,
   "submission_count": null,
   "average_tries": 2.9437999725341797

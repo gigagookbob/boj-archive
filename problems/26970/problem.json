@@ -15,11 +15,7 @@
   "hint": "<p>Initially, the following pairs of mountains can see each other: $(1, 2)$, $(2, 3)$, $(2, 5)$, $(3, 4)$, $(3, 5)$, $(4, 5)$, a total of $6$.</p>\n<p>After the first update, mountain $4$ has a height of $4$, which doesn't block any visibility but does make it so that $4$ can now see $2$, making the new answer $7$.</p>\n<p>After the second update, mountain $1$ has a height of $5$, which doesn't block any visibility but does make it so that $1$ can now see $3$, $4$, and $5$, making the new answer $10$.</p>\n<p>After the third update, mountain $3$ has a height of $5$, which blocks mountain $1$ from seeing mountain $4$, blocks mountain $2$ from seeing mountains $4$ and $5$, and doesn't allow itself to see any more mountains since it can already see all of them, making the new answer $7$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2022 December Contest, Gold",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "tree_set"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.742900013923645

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2023-2024 Season, USACO 2024 US Open Contest, Silver",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["dp", "data_structures", "stack"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.857100009918213

@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2012, pichulia",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "bitmask",
-    "shortest_path",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["dp", "graphs", "bitmask", "shortest_path", "dp_bitfield", "tsp"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.9544999599456787

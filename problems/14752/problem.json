@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2017",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.746299982070923

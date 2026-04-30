@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제4회 kriiicon, august14",
   "level": 23,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "combinatorics", "probability", "linearity_of_expectation"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2173999547958374

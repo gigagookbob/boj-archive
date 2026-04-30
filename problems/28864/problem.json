@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Advanced",
   "level": 15,
-  "tags": [
-    "graphs",
-    "constructive",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "constructive", "bipartite_graph"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3.3333001136779785

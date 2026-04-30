@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>The frame is big enough to fit the entire table on the wall. The largest number inside the frame is 4, so that is the only number written on the table on the piece of paper.</p>\n<p>Clarification of the second example:</p>\n<p>All possible frame positions are shown in the picture below. The largest number for each of the positions is written in red.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 486px; height: 265px;\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.7200000286102295

@@ -19,12 +19,7 @@
   "hint": "<p><strong>Clarification of the first example:</strong> We see that Niko has almost only defensive players at his service, so he can only use the formation 10-0-0, the infamous “parking the bus”.</p>\n<p><strong>Clarification of the second example:</strong> For formation 4-4-2, he can put players 1, 2, 9 and 10 as defense, players 4, 5, 6 and 7 as midfielders, and players 3 and 8 as offense. For formation 3-5-2, he can put players 4, 9 and 10 as defense, players 1, 2, 5, 6 and 7 as midfielders, and players 3 and 8 as offense. Formation 4-3-3 can’t be set up because the coach has only 2 offensive players.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #6",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.2105000019073486

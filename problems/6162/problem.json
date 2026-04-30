@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2014: Drought",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 463,
   "submission_count": null,
   "average_tries": 2.1489999294281006

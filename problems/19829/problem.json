@@ -15,10 +15,7 @@
   "hint": "<p>In the example, the longest segment without neighboring houses of the same color is from the house 4 to the house 7. The colors of the houses are $[3, 2, 1, 2]$ and its length is 4 houses.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2018",
   "level": 6,
-  "tags": [
-    "implementation",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "two_pointer"],
   "accepted_user_count": 141,
   "submission_count": null,
   "average_tries": 1.7375999689102173

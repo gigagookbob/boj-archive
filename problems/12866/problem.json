@@ -15,11 +15,7 @@
   "hint": null,
   "source": "jh05013",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic",
-    "combinatorics"
-  ],
+  "tags": ["math", "arithmetic", "combinatorics"],
   "accepted_user_count": 462,
   "submission_count": null,
   "average_tries": 2.218600034713745

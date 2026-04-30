@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 중등부, koosaga",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum", "two_pointer"],
   "accepted_user_count": 164,
   "submission_count": null,
   "average_tries": 2.298799991607666

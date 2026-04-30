@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the second example: Matej can buy a plot of land consisting of two adjacent cells of cost $1$. The total price is then $1 + 1 = 2$, and the distance between it and the magic numbers is $|3 - 2| + |4 - 2| = 3$.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #6",
   "level": 14,
-  "tags": [
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["prefix_sum", "two_pointer"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.6315999031066895

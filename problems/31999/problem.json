@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, 한국정보기술진흥원, 제2회 청소년 IT경시대회, 고등부, ai4youej, flappybird",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "maximum_subarray"
-  ],
+  "tags": ["data_structures", "segtree", "maximum_subarray"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.476199984550476

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2008",
   "level": 18,
-  "tags": [
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["string", "suffix_array"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.357100009918213

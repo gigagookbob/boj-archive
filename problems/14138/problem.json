@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2009, alex9801",
   "level": 10,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

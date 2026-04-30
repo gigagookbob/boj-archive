@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, November 12, 2011, Basic",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "bitmask"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "bitmask"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.6029000282287598

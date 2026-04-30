@@ -19,12 +19,7 @@
   "hint": "<p>In the first example above, subset {a<sub>1</sub>, a<sub>2</sub>, b<sub>2</sub>, b<sub>3</sub>} is blanketed by matching {(a<sub>1</sub>, b<sub>2</sub>),(a<sub>2</sub>, b<sub>3</sub>)} and has weight 21. Subsets {a<sub>3</sub>, b<sub>2</sub>, b<sub>3</sub>} and {a<sub>2</sub>, a<sub>3</sub>, b<sub>2</sub>, b<sub>3</sub>} are both blanketed by matching {(a<sub>2</sub>, b<sub>3</sub>),(a<sub>3</sub>, b<sub>2</sub>)}, and have weights 21 and 23 respectively. All the other subsets either weigh less than 21 or are not blanketed by any matching. For example, subset {a<sub>2</sub>, a<sub>3</sub>, b<sub>1</sub>, b<sub>3</sub>} has weight 26, but is not blanketed by any matching, so it’s not included in the count.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2016, Contest, Open Cup, 2016/2017 Season, Stage 8: Grand Prix of Europe",
   "level": 22,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "hall"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "hall"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.4615000486373901

@@ -15,10 +15,7 @@
   "hint": "<p>For the second and fourth test cases, the only way to illuminate everything is to activate every light. Therefore, for these cases, the only good subset is the set containing all lights.</p>\n<p>For the third test case, as long as either of the two lights is activated, everything will be illuminated. Therefore, the sets $\\{1\\}$, $\\{2\\}$, and $\\{1, 2\\}$ are good.</p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 13,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

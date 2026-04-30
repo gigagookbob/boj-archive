@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2002 Greater New York Programming Contest, kyo20111",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.6612999439239502

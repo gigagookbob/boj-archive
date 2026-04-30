@@ -19,11 +19,7 @@
   "hint": "<p>При изчисляване на данъка във втория пример се получава следния низ: 182764125. Седмата цифра е равна на 1.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2013, Group D",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.774999976158142

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO November 2005 Contest, Silver, sait2000, doju",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 423,
   "submission_count": null,
   "average_tries": 2.210400104522705

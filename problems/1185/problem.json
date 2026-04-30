@@ -15,10 +15,7 @@
   "hint": "<p>민식이가 먼저 4번 나라에 도착한 다음 4-5-4-2-3-2-1-2-4 순서대로 나라를 방문하면 총 176 비용이 드는 것을 알 수 있다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO November 2008 Contest, Gold, author6, qjrmsktso2",
   "level": 17,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 814,
   "submission_count": null,
   "average_tries": 1.4742000102996826

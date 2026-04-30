@@ -15,12 +15,7 @@
   "hint": "<p>Sample Case #1 is the one explained in the statement. Besides the possible optimal order given above, other orders like 6, 5, 4, 4 also maximize the number of groups with only fresh chocolate, although the groups that get the fresh chocolate are not necesarily the same. Notice that we only care about the number of groups that get the best experience, not the total number of people in them.</p>\n<p>In Sample Case #2, the groups are the same as in Case #1, but the packs contain two pieces each. In this case, several ways of ordering them — for instance, 4, 4, 6, 5 — make all groups get only fresh chocolate.</p>\n<p>In Sample Case #3, all groups are single individuals, and they will all eat from the same pack. Of course, only the first one to come in is going to get a freshly opened pack.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 2",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc",
-    "number_theory"
-  ],
+  "tags": ["math", "greedy", "ad_hoc", "number_theory"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.4890999794006348

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14",
   "level": 18,
-  "tags": [
-    "math",
-    "probability",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "probability", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.30430006980896

@@ -39,11 +39,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "math",
-    "combinatorics",
-    "case_work"
-  ],
+  "tags": ["math", "combinatorics", "case_work"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.458699941635132

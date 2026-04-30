@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2006 Mid-Central Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 1588,
   "submission_count": null,
   "average_tries": 1.621500015258789

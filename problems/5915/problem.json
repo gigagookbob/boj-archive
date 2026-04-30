@@ -15,11 +15,7 @@
   "hint": "<h4>Output Details</h4><p>Picking both edges with length 1 and any edge with length 2 yields a minimum spanning tree of length 4.</p><p></p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO December 2011 Contest, Gold",
   "level": 18,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "mst"
-  ],
+  "tags": ["graphs", "bruteforcing", "mst"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 3.0980000495910645

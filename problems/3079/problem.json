@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2012/2013, Contest #3, baekjoon, donghoon0709, kjo7811, qja0950, 1142308, djm03178, dntmdxor99, hoonbae, msphere, redsiwon",
   "level": 11,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 5285,
   "submission_count": null,
   "average_tries": 4.011499881744385

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "sait2000, eric00513, hyperbolic, jthis, parkky, tlsdydaud1, WeissBlume",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 4.305600166320801

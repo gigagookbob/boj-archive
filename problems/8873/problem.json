@@ -15,9 +15,7 @@
   "hint": "<p><a href=\"https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/data/8873_images.zip\">https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/data/8873_images.zip</a> 에서 문제 설명에 나온 9가지 예제를 다운받을 수 있습니다.</p>",
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2013, Day 1, jh05013",
   "level": 0,
-  "tags": [
-    "heuristics"
-  ],
+  "tags": ["heuristics"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 29.769800186157227

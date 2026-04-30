@@ -19,9 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"훈련을 통과할 수 있는 경우과 불가능한 경우의 예시\" src=\"1.png\" style=\"width: 76.15%;\"/></p>\n<p>첫 번째 예시에서 훈련을 통과할 수 있는 경우와 불가능한 경우의 예시이다. 빨간 점은 세 번째 총알 자국의 위치, 파란 점은 세 점의 외심을 의미한다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2018 서울대학교 프로그래밍 경시대회, Division 1, doju",
   "level": 19,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4.217400074005127

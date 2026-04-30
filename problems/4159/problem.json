@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 26 Septemeber, 2010, baekjoon",
   "level": 8,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 403,
   "submission_count": null,
   "average_tries": 2.491300106048584

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2019",
   "level": 25,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 3.7142999172210693

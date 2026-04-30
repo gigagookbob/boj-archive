@@ -15,11 +15,7 @@
   "hint": "<p>В примере штраф придется заплатить только жильцам 6-й квартиры.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2012",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 202,
   "submission_count": null,
   "average_tries": 1.4157999753952026

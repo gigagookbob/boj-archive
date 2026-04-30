@@ -19,10 +19,7 @@
   "hint": "<p>The first example has the following possible straights: $1$, $2$, $3$, $4$, and $5$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2020",
   "level": 14,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.299999952316284

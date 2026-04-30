@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제12회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, 0xchaser, mathtw1030, 79brue, azberjibiou, hibye1217, jthis, leo020630, mhy908, sadtreap, tlsdydaud1",
   "level": 17,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.6512000560760498

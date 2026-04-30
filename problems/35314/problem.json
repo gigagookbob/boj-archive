@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2026. 01-02., pyb1031, utilforever",
   "level": 22,
-  "tags": [
-    "graphs",
-    "grid_graph",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "grid_graph", "bipartite_matching"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.7999999523162842

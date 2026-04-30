@@ -15,10 +15,7 @@
   "hint": "<p>기약 분수 - 이 문제에서 답이 정수가 아닌 분수일 경우 $p/q$ 꼴인 기약 분수로 출력해야하며, 기약 분수란 $p, q$의 최대 공약수가 1인 경우를 이야기한다. 예제 3의 경우 2/9 가 정답이며 4/18 이나 6/27 등은 기약 분수가 아니므로 정답으로 인정하지 않는다.</p>\r\n",
   "source": null,
   "level": 7,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 1.7874000072479248

@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 189px; height: 120px;\"/></p>\n<p>One of the possible constructions in the example.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2010",
   "level": 20,
-  "tags": [
-    "backtracking",
-    "dp",
-    "implementation"
-  ],
+  "tags": ["backtracking", "dp", "implementation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

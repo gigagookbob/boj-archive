@@ -15,12 +15,7 @@
   "hint": "<p>In the sample, where there are $N = 2$ friends, the program should output two lists. Indeed, for the two lists in the sample output, the friends cannot both win at the same time, no matter the order in which they visit the monster nests. Note that there are many other valid answers.</p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2025, Day 1",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["ad_hoc", "constructive", "knapsack", "traceback"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

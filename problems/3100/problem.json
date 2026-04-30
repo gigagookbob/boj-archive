@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2010, School Competition - Seniors, baekjoon",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 179,
   "submission_count": null,
   "average_tries": 2.4860000610351562

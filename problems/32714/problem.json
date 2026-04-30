@@ -23,10 +23,7 @@
   "hint": "<p>$N = 3$일 때 풀이</p>\n<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"5.png\" style=\"height: 292px; width: 200px;\"/></td>\n<td><img alt=\"\" src=\"6.png\" style=\"height: 287px; width: 200px;\"/></td>\n<td><img alt=\"\" src=\"7.png\" style=\"height: 287px; width: 200px;\"/></td>\n</tr>\n<tr>\n<td><strong>초기상태</strong></td>\n<td><strong>1턴</strong> - 건덕이: 말 이동</td>\n<td><strong>1턴</strong> - 건구스: 방벽 설치</td>\n</tr>\n<tr>\n<td><img alt=\"\" src=\"8.png\" style=\"height: 284px; width: 200px;\"/></td>\n<td><img alt=\"\" src=\"9.png\" style=\"height: 288px; width: 200px;\"/></td>\n<td><img alt=\"\" src=\"10.png\" style=\"height: 291px; width: 200px;\"/></td>\n</tr>\n<tr>\n<td><strong>2턴</strong> - 건덕이: 말 이동</td>\n<td><strong>2턴</strong> - 건구스: 방벽 설치</td>\n<td><strong>3턴</strong> - 건덕이: 말 이동 후 도착</td>\n</tr>\n</tbody>\n</table>\n<p>건덕이와 건구스가 최선으로 게임할 때 말이 $3$턴 후 $N$행에 도착하게 된다.</p>",
   "source": "University, 건국대학교, 2024 건국대학교 프로그래밍 경진대회 (KUPC), yookwi, dabbler1, delena0702, dldyou, gs22123, jaesang00, kckyoung2, w8385",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 183,
   "submission_count": null,
   "average_tries": 1.4917999505996704

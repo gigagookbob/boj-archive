@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Summer Algorithm Camp Contest, 중급, yunny_world, cologne, cozyyg, dlguq0107, kipa00, lem0nad3, lky7674",
   "level": 6,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "arithmetic"],
   "accepted_user_count": 314,
   "submission_count": null,
   "average_tries": 4.410799980163574

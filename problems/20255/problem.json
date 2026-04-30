@@ -15,11 +15,7 @@
   "hint": "<p>The rules are revised from the Chapter 2 “The Laws of Table Tennis” of The International Table Tennis Federation (ITTF) Handbook 2020.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2020",
   "level": 15,
-  "tags": [
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "math", "probability"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.3912999629974365

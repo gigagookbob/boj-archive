@@ -15,11 +15,7 @@
   "hint": "<p>N+1번째 페리 수열에는 N번째 페리 수열의 모든 분수에 N+1과 서로소인 N 이하의 자연수의 개수만큼의 분수가 추가로 들어간다.</p>\r\n",
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2014 Greater New York Programming Contest, portableangel",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "euler_phi"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 1.7767000198364258

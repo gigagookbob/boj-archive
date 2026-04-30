@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2025 중앙대학교 프로그래밍 경진대회 (CPC), skjd1234, asdarwin03, dkvltmxhf, halin, jinhan814, jk410, kevinlys00, mujigae, nflight11, qvixnh22, sksms1375, tony9402, utilforever, wapas, yup0927",
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 237,
   "submission_count": null,
   "average_tries": 2.2574000358581543

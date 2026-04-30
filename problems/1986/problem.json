@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2005 East Central Regional Contest, yukariko",
   "level": 10,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1211,
   "submission_count": null,
   "average_tries": 2.184999942779541

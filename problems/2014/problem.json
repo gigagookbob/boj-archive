@@ -15,13 +15,7 @@
   "hint": null,
   "source": "tiro25, djm03178",
   "level": 15,
-  "tags": [
-    "math",
-    "data_structures",
-    "number_theory",
-    "set",
-    "priority_queue"
-  ],
+  "tags": ["math", "data_structures", "number_theory", "set", "priority_queue"],
   "accepted_user_count": 3378,
   "submission_count": null,
   "average_tries": 4.18209981918335

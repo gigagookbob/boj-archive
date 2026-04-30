@@ -15,10 +15,7 @@
   "hint": "<p>802cm 랜선에서 4개, 743cm 랜선에서 3개, 457cm 랜선에서 2개, 539cm 랜선에서 2개를 잘라내 모두 11개를 만들 수 있다.</p>",
   "source": "baekjoon, helloworld123, djm03178, peter5264, plzrun, skydreamer21, twicedtna, iriszero",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 49199,
   "submission_count": null,
   "average_tries": 4.411300182342529

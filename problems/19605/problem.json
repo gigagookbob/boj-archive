@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2020, CCC 2020 Junior Division",
   "level": 7,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 1.4026999473571777

@@ -15,10 +15,7 @@
   "hint": "<p>For the first test case, an optimal sequence of changes is $31 \\implies 32 \\implies 16 \\implies 8 \\implies 9 \\implies 10 \\implies 11 \\implies 12 \\implies 13$.</p>\n<p>For the second test case, an optimal sequence of changes is $12 \\implies 6 \\implies 7 \\implies 8$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 January Contest, Silver",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "bitmask"],
   "accepted_user_count": 144,
   "submission_count": null,
   "average_tries": 1.520799994468689

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2011 Day 2",
   "level": 18,
-  "tags": [
-    "case_work",
-    "greedy",
-    "math"
-  ],
+  "tags": ["case_work", "greedy", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4

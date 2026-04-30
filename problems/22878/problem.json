@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021, Contest, Open Cup, 2021/2022 Season, Stage 17: Grand Prix of Seoul, cki86201, doju, evenharder, functionx, jh05013, koosaga, pichulia, xiaowuc1",
   "level": 19,
-  "tags": [
-    "math",
-    "sorting"
-  ],
+  "tags": ["math", "sorting"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 1.4508999586105347

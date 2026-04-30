@@ -15,13 +15,7 @@
   "hint": "<p>The maximum strength can be observed to be with the group of cows numbered\n$1, 2, 3, 4$. The minimum number of friends of any cow in this group within the\ngroup is $3$, so the answer is $4\\cdot 3=12$. \n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2022 December Contest, Gold",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "greedy",
-    "set",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "greedy", "set", "disjoint_set"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.2978999614715576

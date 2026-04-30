@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #4, WeissBlume, kesakiyo",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation", "prefix_sum"],
   "accepted_user_count": 214,
   "submission_count": null,
   "average_tries": 2.761699914932251

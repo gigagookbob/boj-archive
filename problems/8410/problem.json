@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\">All possible ways of shaking hands.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2006",
   "level": 14,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5625

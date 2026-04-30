@@ -19,9 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Jeśli w pierwszym teście przykładowym założymy, że litera ‘P’ oznacza kolor zielony, litera ‘A’ oznacza kolor żółty, zaś litera ‘Z’ oznacza kolor niebieski, to wybrany ciąg ruchów maluje planszę w następujący sposób:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 713px; height: 200px;\"/></p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 14,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.3333001136779785

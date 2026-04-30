@@ -15,10 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, powergee, tlsdydaud1, tony9402, WeissBlume",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 1.6638000011444092

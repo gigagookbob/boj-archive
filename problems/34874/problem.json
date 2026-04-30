@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, 한국정보기술진흥원, 제5회 청소년 IT경시대회, 초등부, Contest, 한국정보기술진흥원, 제5회 청소년 IT경시대회, 중등부, Contest, 한국정보기술진흥원, 제5회 청소년 IT경시대회, 고등부, ai4youej",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 184,
   "submission_count": null,
   "average_tries": 1.3532999753952026

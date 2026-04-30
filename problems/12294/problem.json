@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, World Finals",
   "level": 22,
-  "tags": [
-    "math",
-    "geometry",
-    "convex_hull",
-    "rotating_calipers"
-  ],
+  "tags": ["math", "geometry", "convex_hull", "rotating_calipers"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.642899990081787

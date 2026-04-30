@@ -15,10 +15,7 @@
   "hint": "<p>In this example, the first half of the array initially has $1$ inversion, and the second half has $3$ inversions. After swapping the $5$th and $6$th bits with each other, both subarrays have $0$ inversions.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 US Open Contest, Gold",
   "level": 20,
-  "tags": [
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "two_pointer"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.413800001144409

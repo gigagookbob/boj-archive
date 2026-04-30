@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2006, Regional Competition - Seniors, baekjoon",
   "level": 18,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 2.015899896621704

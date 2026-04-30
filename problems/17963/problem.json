@@ -23,10 +23,7 @@
   "hint": "<p>A cube at coordinates (x, y, z) will generate a shadow at line x and column y in the n × m projection and line x and column z in the n × h projection (indexed from 0).</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2019, Contest, Open Cup, 2019/2020 Season, Stage 6: Grand Prix of Southeastern Europe",
   "level": 15,
-  "tags": [
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["constructive", "implementation"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.5757999420166016

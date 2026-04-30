@@ -35,11 +35,7 @@
   "hint": "<p>Did we put min number of min in the title? Min.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 6: Um_nik mod 998 244 353 Contest",
   "level": 22,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "precomputation"
-  ],
+  "tags": ["bruteforcing", "case_work", "precomputation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

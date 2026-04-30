@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 1996 Mid-Atlantic Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "string",
-    "recursion",
-    "regex"
-  ],
+  "tags": ["string", "recursion", "regex"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 1.75

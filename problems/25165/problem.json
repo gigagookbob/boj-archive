@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제4회 가톨릭대학교 프로그래밍 경진대회 (CCPC), chan120317, geon08, gjdms611, kgstiger, kimcoding, rhkgkrwkhj, rhs0266, tony9402, tyoungs",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 476,
   "submission_count": null,
   "average_tries": 1.8487000465393066

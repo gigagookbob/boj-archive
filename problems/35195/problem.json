@@ -31,10 +31,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2025 Preliminaries",
   "level": 6,
-  "tags": [
-    "string",
-    "parity"
-  ],
+  "tags": ["string", "parity"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.093000054359436

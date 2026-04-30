@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2002, ICPC, Regionals, Europe, Central European Regional Contest, CERC 2002",
   "level": 20,
-  "tags": [
-    "dp",
-    "implementation"
-  ],
+  "tags": ["dp", "implementation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

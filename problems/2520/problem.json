@@ -15,11 +15,7 @@
   "hint": "<p>&nbsp; 첫 번째 테스트 케이스에서 주어진 재료를 가지고 바나나 팬케익 10개, 딸기 팬케익 1개, 초콜릿 팬케익 4개, 호두 팬케익 1개를 만들 수 있다.</p>\r\n\r\n<p>&nbsp; 두 번째 테스트 케이스에서 주어진 재료 중 밀가루가 팬케익 30개를 만들 수 있는 양이다.</p>\r\n",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2011 연습 세션, doju",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 532,
   "submission_count": null,
   "average_tries": 2.075200080871582

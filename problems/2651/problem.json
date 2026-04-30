@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1998, 초등부, chrisais9, x32_noah, flyiceball, moon960323, kyo20111, jung2381187",
   "level": 12,
-  "tags": [
-    "dp",
-    "traceback"
-  ],
+  "tags": ["dp", "traceback"],
   "accepted_user_count": 502,
   "submission_count": null,
   "average_tries": 4.113500118255615

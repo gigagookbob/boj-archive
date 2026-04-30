@@ -15,10 +15,7 @@
   "hint": "<p>이진 문자열이란, $\\tt{0}$과 $\\tt{1}$로만 이루어진 문자열을 말한다. 이진 문자열의 예시로는 <code>\"</code>$\\tt{000}$<code>\"</code>, <code>\"</code>$\\tt{01010}$<code>\"</code>, <code>\"</code>$\\tt{1010}$<code>\"</code>, <code>\"</code>$\\tt{11}$<code>\"</code>등이 있다.</p>\n<p>수열 $(p_1, p_2, p_3, p_4)$이 수열 $(q_1, q_2, q_3, q_4)$보다 사전 순으로 앞선다는 것은 $p_1 = q_1, p_2 = q_2, \\cdots, p_{i-1} = q_{i-1}$이고 $p_i &lt; q_i$인 정수 $i (1\\leq i\\leq 4)$가 존재하는 것이다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 09., jthis, lunarlity, chogahui05, cologne, kiwiyou, pjshwa, pyb1031, snrnsidy, swoon, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.5111000537872314

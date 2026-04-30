@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2015 South Central USA Regional Programming Contest, ICPC, Regionals, North America, Mid-Atlantic Regional, 2015 Mid-Atlantic Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "math",
-    "binary_search",
-    "physics"
-  ],
+  "tags": ["math", "binary_search", "physics"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.6485999822616577

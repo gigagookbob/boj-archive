@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2.5385000705718994

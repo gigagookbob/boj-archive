@@ -15,12 +15,7 @@
   "hint": "<p>유리수를 기약분수로 나타냈을 때 $\\frac{a}{b}$인 경우 이 수를 소수인 $p$로 나눈 나머지는 $a\\equiv c\\cdot b\\pmod p$를 만족하는 $0$ 이상 $p$ 미만의 정수 $c$이며, $b$가 $p$의 배수가 아니라면 이 값은 유일하다.</p>\n<p>이 문제에서는 가능한 모든 입력에 대해 $A_0,\\cdots ,A_{N-1}$과 $B_0,\\cdots ,B_{N-1}$이 유리수이고 각 수를 기약분수로 나타냈을 때 분모가 $998\\, 244\\, 353$의 배수가 아니라는 것을 증명할 수 있다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022, ho94949, functionx, hyperbolic, kclee2172, queued_q",
   "level": 24,
-  "tags": [
-    "math",
-    "combinatorics",
-    "divide_and_conquer",
-    "fft"
-  ],
+  "tags": ["math", "combinatorics", "divide_and_conquer", "fft"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.6110999584198

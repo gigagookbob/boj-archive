@@ -15,9 +15,7 @@
   "hint": "<h4>Output Details</h4>\n<p>In the example above, Bessie can reach 342 total units of grass if she locates herself in the middle of the grid.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO March 2014 Contest, Silver, leeh18",
   "level": 12,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 2.6965999603271484

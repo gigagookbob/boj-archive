@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2020",
   "level": 17,
-  "tags": [
-    "geometry",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["geometry", "constructive", "case_work"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.9444000720977783

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, imgosari, jjacks, orihehe, ehdrms121, etyoungsu",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "bitmask", "backtracking"],
   "accepted_user_count": 11241,
   "submission_count": null,
   "average_tries": 3.656599998474121

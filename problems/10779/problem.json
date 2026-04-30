@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2015",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "binary_search", "sparse_table"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.1600000858306885

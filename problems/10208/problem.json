@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2014: Greek Mythology",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2

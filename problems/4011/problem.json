@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2009",
   "level": 22,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 158,
   "submission_count": null,
   "average_tries": 2.4809999465942383

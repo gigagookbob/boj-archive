@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 2013",
   "level": 14,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.3333001136779785

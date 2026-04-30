@@ -15,10 +15,7 @@
   "hint": "<p>처음 위치 기준 왼쪽에서 $5,\\ 6,\\ 2,\\ 3,\\ 4,\\ 7,\\ 8,\\ 1$번째 돌을 순서대로 가져가면 $3$번째 돌과 $5$번째 돌을 가져갈 때 점수를 얻어 $13$점이 된다.</p>\r\n",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021 예선, Contest, Open Cup, 2021/2022 Season, Stage 17: Grand Prix of Seoul, ainta, cki86201, jh05013, koosaga, xiaowuc1",
   "level": 19,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 454,
   "submission_count": null,
   "average_tries": 3.303999900817871

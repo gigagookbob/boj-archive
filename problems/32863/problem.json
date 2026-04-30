@@ -15,9 +15,7 @@
   "hint": "<p>입력 예제는 본문에 주어진 그림과 같다. 또한 조건을 만족하는 원을 항상 찾을 수 있음이 보장된다.</p>",
   "source": "University, 한양대학교, 제11회 한양대학교 프로그래밍 경시대회(HCPC), Beginner Division, my3, ingyu1008, jk410, juneharold, mjhmjh1104",
   "level": 13,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.8276000022888184

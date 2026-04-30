@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 곰곰컵, 제2회 곰곰컵, pichulia, chogahui05, jthis, jyheo98, pjshwa, r4pidstart, tony9402",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 244,
   "submission_count": null,
   "average_tries": 2.0738000869750977

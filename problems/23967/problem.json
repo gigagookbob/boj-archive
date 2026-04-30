@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2018, Round E",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.3171000480651855

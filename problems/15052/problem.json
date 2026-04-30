@@ -19,14 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2017",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "geometry",
-    "ternary_search",
-    "tsp"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "geometry", "ternary_search", "tsp"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 7.25

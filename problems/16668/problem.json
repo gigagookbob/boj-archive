@@ -19,11 +19,7 @@
   "hint": "<p>For n = 1 the only permutation is interval-free. For n = 4 two interval-free permutations are (2, 4, 1, 3) and (3, 1, 4, 2). For n = 5 — (2, 4, 1, 5, 3), (2, 5, 3, 1, 4), (3, 1, 5, 2, 4), (3, 5, 1, 4, 2), (4, 1, 3, 5, 2), and (4, 2, 5, 1, 3). We will not list all 28146 for n = 9, but for example (4, 7, 9, 5, 1, 8, 2, 6, 3), (2, 4, 6, 1, 9, 7, 3, 8, 5), (3, 6, 9, 4, 1, 5, 8, 2, 7), and (8, 4, 9, 1, 3, 6, 2, 7, 5) are interval-free.</p>\n<p>The exact value for n = 20 is 264111424634864638.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NERC 2018",
   "level": 26,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.2221999168395996

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2023-2024 Season, USACO 2023 December Contest, Silver",
   "level": 15,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 1.7569999694824219

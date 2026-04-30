@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, India, The 2009 ACM-ICPC Asia Amritapuri Regional Contest, baekjoon, gratus907",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "prefix_sum",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "prefix_sum", "trie"],
   "accepted_user_count": 470,
   "submission_count": null,
   "average_tries": 2.2957000732421875

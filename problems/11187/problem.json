@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2012",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.6715999841690063

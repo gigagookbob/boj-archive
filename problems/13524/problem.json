@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2016",
   "level": 12,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.8621000051498413

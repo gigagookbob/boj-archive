@@ -19,11 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 16,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "bellman_ford"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 6.065199851989746

@@ -23,11 +23,7 @@
   "hint": "<p>In Sample 1, if we connect vertices $0$ and $5$, the graph become connected, and the cost is $1 + 6 = 7$.</p>\n<p>In Sample 2, we can't make the graph connected.</p>\n<p>In Sample 3, the graph is connected, regardless of whether we do something or not.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "greedy", "disjoint_set"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.6666998863220215

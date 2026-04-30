@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2014: Greek Mythology",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "parsing"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.4615000486373901

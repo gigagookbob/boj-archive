@@ -27,11 +27,7 @@
   "hint": "<p>В первом примере Таня могла быть на курорте два раза: первый раз начиная за день до зимы и заканчивая в 1-й день зимы; второй раз начиная в последний день зимы и заканчивая в 1-й день после зимы.</p>\n<p>Таким образом, Таня могла провести в городе второй и третий дни зимы.</p>\n<p>Во втором примере Таня могла быть на курорте один раз, например, начиная со второго дня зимы и заканчивая пятым днём зимы. Таким образом, Таня могла провести в городе три дня --- в первый, в шестой и в седьмой дни зимы.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2016",
   "level": 13,
-  "tags": [
-    "dp",
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["dp", "greedy", "binary_search"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.1666998863220215

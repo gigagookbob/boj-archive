@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 1: Songyang Chen Contest 1",
   "level": 23,
-  "tags": [
-    "fft",
-    "math"
-  ],
+  "tags": ["fft", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.5713999271392822

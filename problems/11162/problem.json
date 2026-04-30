@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2013",
   "level": 5,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.107100009918213

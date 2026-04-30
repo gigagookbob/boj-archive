@@ -15,12 +15,7 @@
   "hint": "<ul>\n<li>W niektórych grupach testów nie ma zapytań pierwszego ani drugiego typu oraz zachodzi m = n − 1.</li>\n<li>W niektórych grupach testów we wszystkich zapytaniach trzeciego typu zachodzi z<sub>i</sub> = 10<sup>15</sup>.</li>\n</ul>\n<p>Dla każdego wyżej wymienionego przypadku istnieje co najmniej jedna grupa, która go spełnia. Grupy te dla obu warunków mogą być rozłączne lub nie.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 28,
-  "tags": [
-    "trees",
-    "offline_queries",
-    "link_cut_tree",
-    "top_tree"
-  ],
+  "tags": ["trees", "offline_queries", "link_cut_tree", "top_tree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 5.5

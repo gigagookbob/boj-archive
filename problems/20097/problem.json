@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2017, Practice",
   "level": 16,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive", "backtracking"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.421099901199341

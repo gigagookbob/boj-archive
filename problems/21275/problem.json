@@ -27,10 +27,7 @@
   "hint": "<p>C++의 long long type과 Java의 Long 타입 변수가 가질 수 있는 값의 범위는 -2<sup>63</sup> 이상 2<sup>63</sup> 미만 입니다.</p>",
   "source": "Contest, BOJ User Contest, 류호석배 알고리즘 코딩 테스트, 제2회 류호석배 알고리즘 코딩 테스트, rhs0266, BaaaaaaaaaaarkingDog, dlstj0923, tony9402",
   "level": 9,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 570,
   "submission_count": null,
   "average_tries": 2.52810001373291

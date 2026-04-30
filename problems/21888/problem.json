@@ -23,11 +23,7 @@
   "hint": "<p>In the first sample input splitting with the maximum sum is 52, 8;</p>\n<p>In the second sample input splitting with the maximum sum is 90, 5, 0;</p>\n<p>Consider all splitting for the third sample input:</p>\n<ol>\n<li>0, 7, 800 --- valid splitting, sum is 807;</li>\n<li>0, 78, 00 --- invalid splitting, there is a leading zero in $00$;</li>\n<li>0, 780, 0 --- valid splitting, sum is 780;</li>\n<li>07, 8, 00 --- invalid splitting, there are leading zeros in $00$ and $07$;</li>\n<li>07, 80, 0 --- invalid splitting, there is a leading zero in $07$;</li>\n<li>078, 0, 0 --- invalid splitting, there is a leading zero in $078$.</li>\n</ol>\n<p>Thus a splitting with the maximum sum is 0, 7, 800.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Elimination round 1, 2017-2018",
   "level": 20,
-  "tags": [
-    "math",
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["math", "string", "suffix_array"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

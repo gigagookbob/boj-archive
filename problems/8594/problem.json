@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2010, Stage 1",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.7273000478744507

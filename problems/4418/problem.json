@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 17 October, 1998",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.8163000345230103

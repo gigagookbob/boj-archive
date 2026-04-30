@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>The pastures and paths form the vertices and edges of a square.</p><h4>Output Details</h4><p>Bessie can either choose to label pastures 1 and 3 with 'J' signs, or alternatively pastures 2 and 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO US Open 2014 Contest, Bronze",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "bipartite_graph"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 2.4193999767303467

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 충남대학교, 생각하는 프로그래밍 대회, isku, wjdwithyou",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "grid_graph"],
   "accepted_user_count": 3925,
   "submission_count": null,
   "average_tries": 1.5541000366210938

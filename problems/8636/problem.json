@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2007, Stage 2",
   "level": 9,
-  "tags": [
-    "graphs",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["graphs", "permutation_cycle_decomposition"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.0541000366210938

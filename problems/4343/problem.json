@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 28 September, 2002",
   "level": 13,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 358,
   "submission_count": null,
   "average_tries": 3.0697999000549316

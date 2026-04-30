@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2020",
   "level": 13,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.5526000261306763

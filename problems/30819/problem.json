@@ -19,9 +19,7 @@
   "hint": "<p>In the first sample, the resulting string contains correct bracket subsequence of length $4$: \"<code>()()</code>\".</p>\n<p>In the second sample, the resulting string contains correct bracket subsequence of length $4$: \"<code>(())</code>\".</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2015-16, Day 2",
   "level": 14,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

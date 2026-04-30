@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO US Open 2004 Contest, Green",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree"
-  ],
+  "tags": ["data_structures", "sorting", "segtree"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2.6538000106811523

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제6회 보라매컵, sjimed, dlalswp25, junhopark, onjo0127, serin",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "segtree", "binary_search"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.25

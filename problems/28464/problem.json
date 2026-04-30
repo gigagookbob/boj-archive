@@ -23,10 +23,7 @@
   "hint": "<p>박 모 씨는 성우의 라이벌이다.</p>",
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Summer Algorithm Camp Contest, 초급, lem0nad3, 2093ab, cologne, cozyyg, dlguq0107, kipa00, lky7674, yunny_world",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 875,
   "submission_count": null,
   "average_tries": 1.299399971961975

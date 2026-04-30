@@ -19,13 +19,7 @@
   "hint": "<p>소수란 $2$ 이상의 정수 중에서 $1$과 자기 자신으로만 나누어떨어지는 수이다.</p>",
   "source": "University, 경북대학교, 2023 Goricon, hamuim, exqt, hyperbolic, leo020630, utilforever",
   "level": 10,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "constructive",
-    "primality_test"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "constructive", "primality_test"],
   "accepted_user_count": 248,
   "submission_count": null,
   "average_tries": 2.4839000701904297

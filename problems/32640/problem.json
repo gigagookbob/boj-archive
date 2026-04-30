@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2024 Sogang Programming Contest, Champion, hulahula3247, alex9801, jinhan814, jk410",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

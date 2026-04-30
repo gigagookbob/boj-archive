@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2011/2012",
   "level": 9,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 4.430200099945068

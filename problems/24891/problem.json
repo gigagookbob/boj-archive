@@ -23,10 +23,7 @@
   "hint": "<p>단어 마방진의 정렬 순서는 마방진에 적힌 모든 문자를 순서대로 이어 만든 하나의 문자열의 정렬 순서와 같다.</p>\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"width: 100px;\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\">A</td>\n<td style=\"text-align: center;\">C</td>\n<td style=\"text-align: center;\"> </td>\n<td style=\"text-align: center;\">A</td>\n<td style=\"text-align: center;\">B</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">C</td>\n<td style=\"text-align: center;\">A</td>\n<td style=\"text-align: center;\"> </td>\n<td style=\"text-align: center;\">B</td>\n<td style=\"text-align: center;\">A</td>\n</tr>\n</tbody>\n</table>\n<p>위 두 마방진의 경우, 각각 ACCA, ABBA의 정렬 순서와 같으므로 아래와 같이 정렬된다.</p>\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"width: 100px;\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\">A</td>\n<td style=\"text-align: center;\">B</td>\n<td style=\"text-align: center;\"> </td>\n<td style=\"text-align: center;\">A</td>\n<td style=\"text-align: center;\">C</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">B</td>\n<td style=\"text-align: center;\">A</td>\n<td style=\"text-align: center;\"> </td>\n<td style=\"text-align: center;\">C</td>\n<td style=\"text-align: center;\">A</td>\n</tr>\n</tbody>\n</table>",
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 1, Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 3, ingyu1008, ahgus89, cgiosy, chunghan, jhnah917, knon0501",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 268,
   "submission_count": null,
   "average_tries": 2.753700017929077

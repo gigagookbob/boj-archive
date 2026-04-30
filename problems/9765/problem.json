@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2013, baekjoon, wider93",
   "level": 9,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "euclidean"],
   "accepted_user_count": 187,
   "submission_count": null,
   "average_tries": 1.7968000173568726

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2007",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "hash_set"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.40910005569458

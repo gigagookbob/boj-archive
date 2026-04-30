@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2019",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "segtree",
-    "set"
-  ],
+  "tags": ["data_structures", "ad_hoc", "segtree", "set"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.452399969100952

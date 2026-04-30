@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 2.369999885559082

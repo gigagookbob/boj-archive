@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2022, qwerasdfzxcl, whqkrkt04",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "dp",
-    "dp_tree",
-    "smaller_to_larger",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "dp", "dp_tree", "smaller_to_larger", "trees"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 4.6153998374938965

@@ -19,12 +19,7 @@
   "hint": "<p>Clarification of the example : Mirko has a total of 4 aces, 2 kings, 1 queen and 1 jack in his hand. This totals to 4 * 4 + 2 * 3 + 1 * 2 + 1 * 1 = 25 honor points. </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #4",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 442,
   "submission_count": null,
   "average_tries": 1.1062999963760376

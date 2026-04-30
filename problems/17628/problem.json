@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2019",
   "level": 14,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["math", "ad_hoc", "bitmask"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.4118000268936157

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2023 Summer), maker29, 2093ab, chansol, cologne, dhlee1031, dlguq0107, kipa00, lky7674, nflight11",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "priority_queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "priority_queue"],
   "accepted_user_count": 578,
   "submission_count": null,
   "average_tries": 2.9791998863220215

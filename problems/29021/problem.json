@@ -15,12 +15,7 @@
   "hint": "<p>最初のデータセットでは，4 人の候補者の得票数の積は常に 0 となるため，その総和も 0 となる．</p>\n<p>二番目のデータセットでは，2 人の候補者が 255 票ずつ得たとき，またそのときに限り，得票数を連結したものを IPv2 アドレスとみなせる．したがって，<i>255 × 255 = 65025</i> が答えとなる．</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2023",
   "level": 21,
-  "tags": [
-    "math",
-    "combinatorics",
-    "exponentiation_by_squaring",
-    "fft"
-  ],
+  "tags": ["math", "combinatorics", "exponentiation_by_squaring", "fft"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.6470999717712402

@@ -31,11 +31,7 @@
   "hint": "<p>The picture below explains the first sample. Images on the left represent 3D views of different stages of the game. In the middle, the images are flattened 2D versions of the corresponding 3D views. Finally, images on the right represent the stages of the game according to the described model (although for the sake of clarity, each character “<code>1</code>” has been replaced by a given symbol, and each character “<code>0</code>” is shown as an empty space).</p>\n<p>It can be seen in the top three images that the nut (having three pins) and the bolt start separated. The second group of three images shows the situation of the game after the nut has been moved four rows down (towards the head of the bolt). Then the nut is rotated one position, moved down two more rows, rotated four positions in the opposite direction, and finally moved down three rows, which solves the puzzle. Note that in this case the nut has not been flipped, nor moved up (away from the head of the bolt).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 459px; height: 898px;\"/></p>",
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.4737000465393066

@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2023/2024 예선 1",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 289,
   "submission_count": null,
   "average_tries": 1.128000020980835

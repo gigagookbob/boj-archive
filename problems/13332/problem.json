@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2016",
   "level": 22,
-  "tags": [
-    "graphs",
-    "flow",
-    "circulation"
-  ],
+  "tags": ["graphs", "flow", "circulation"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.283600091934204

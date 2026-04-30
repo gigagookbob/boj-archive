@@ -15,14 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2023 POSTECH Programming Contest, Contest, University, POSTECH, 2023 POSTECH Programming Contest, Open Contest, slah007, eaststar, hyperbolic, jthis, leo020630, menborong, tlsdydaud1, tony9402",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.0185000896453857

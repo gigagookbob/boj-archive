@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2025 Sogang Programming Contest, Master, dong_gas, jinhan814, jk410, jthis, tmdgud0617, wbcho0504, woohyun_jng",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 235,
   "submission_count": null,
   "average_tries": 1.7233999967575073

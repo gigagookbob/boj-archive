@@ -15,10 +15,7 @@
   "hint": "<p>Antisymmetric fragments are: 01 (occurs twice), 10 (also twice), 0101, 1100, and 001011.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 2",
   "level": 18,
-  "tags": [
-    "string",
-    "manacher"
-  ],
+  "tags": ["string", "manacher"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.9419000148773193

@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the second example: The possible choices for ($l$, $r$) are: (1, 1),(2, 2),(3, 3),(1, 3).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #4",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "math",
-    "segtree",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "math", "segtree", "sqrt_decomposition"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3.4286000728607178

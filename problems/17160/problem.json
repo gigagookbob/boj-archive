@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2019",
   "level": 27,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "crt"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "crt"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.880000114440918

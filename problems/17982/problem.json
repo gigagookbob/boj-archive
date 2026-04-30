@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2019",
   "level": 8,
-  "tags": [
-    "math",
-    "case_work"
-  ],
+  "tags": ["math", "case_work"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.5

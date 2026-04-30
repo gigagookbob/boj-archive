@@ -15,9 +15,7 @@
   "hint": "<p>In the sample, $N = 3$, and Seat $0$, $1$, $2$ are occupied by a man, occupied by a woman and vacant, respectively.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 14,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2

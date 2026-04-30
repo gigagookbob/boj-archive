@@ -31,11 +31,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2016, exponential_e",
   "level": 12,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.6865999698638916

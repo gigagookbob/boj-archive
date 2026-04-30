@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #1, portableangel",
   "level": 3,
-  "tags": [
-    "math",
-    "constructive",
-    "arithmetic"
-  ],
+  "tags": ["math", "constructive", "arithmetic"],
   "accepted_user_count": 496,
   "submission_count": null,
   "average_tries": 1.3971999883651733

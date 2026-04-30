@@ -19,11 +19,7 @@
   "hint": "<p>$X$와 $Y$는 $2^{31}-1$보다 클 수 있으므로 C/C++에서는 long long 타입, Java에서는 long 타입을 이용해 저장하는 것을 권장한다.</p>",
   "source": "University, 숭실대학교, 2024 SCON, jhnah917, cologne, kipa00, kyo20111, m4ushold, mingyu331, yclock",
   "level": 3,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "string", "arithmetic"],
   "accepted_user_count": 879,
   "submission_count": null,
   "average_tries": 1.3242000341415405

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2021",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "prefix_sum",
-    "euler_phi"
-  ],
+  "tags": ["math", "dp", "number_theory", "prefix_sum", "euler_phi"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.0434999465942383

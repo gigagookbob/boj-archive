@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2010",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1003,
   "submission_count": null,
   "average_tries": 1.3209999799728394

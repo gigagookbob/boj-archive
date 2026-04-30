@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2012 Pacific Northwest Region Programming Contest, School, PLU High School Programming Contest, PLU 2013, Advanced, baekjoon",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set"
-  ],
+  "tags": ["data_structures", "segtree", "set"],
   "accepted_user_count": 224,
   "submission_count": null,
   "average_tries": 1.6875

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2016, RCC 2016 Elimination Round",
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2.076900005340576

@@ -99,13 +99,7 @@
   "hint": "<p><em>If you manage to get WA in this problem and we reasonably believe that you did not intentionally try to do so, we might give you a cookie somehow.</em></p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 13: Grand Prix of Bytedance",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "dp", "graphs", "combinatorics", "probability"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

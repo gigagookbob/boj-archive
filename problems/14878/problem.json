@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, sait2000",
   "level": 22,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "fft"
-  ],
+  "tags": ["math", "prefix_sum", "fft"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.2709999084472656

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2010, Final Exam #1, baekjoon",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "offline_queries",
-    "pst"
-  ],
+  "tags": ["data_structures", "segtree", "offline_queries", "pst"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 4.9721999168396

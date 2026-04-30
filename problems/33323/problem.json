@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2024, Day 7: Farewell Contest",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree"
-  ],
+  "tags": ["data_structures", "trees", "segtree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

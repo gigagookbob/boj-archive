@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 22,
-  "tags": [
-    "trees",
-    "offline_queries",
-    "lca",
-    "euler_tour_technique",
-    "mo"
-  ],
+  "tags": ["trees", "offline_queries", "lca", "euler_tour_technique", "mo"],
   "accepted_user_count": 160,
   "submission_count": null,
   "average_tries": 3.481300115585327

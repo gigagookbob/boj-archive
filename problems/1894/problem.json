@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 1999, seok9311, ploffer11",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["math", "implementation", "geometry"],
   "accepted_user_count": 577,
   "submission_count": null,
   "average_tries": 2.8924999237060547

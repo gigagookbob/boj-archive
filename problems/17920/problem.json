@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, LiU Coding Challenge 2018",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1175999641418457

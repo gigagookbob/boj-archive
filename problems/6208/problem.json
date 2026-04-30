@@ -15,9 +15,7 @@
   "hint": "<p>Taking the 3rd, 5th and 6th components gives a connected roller-coaster with fun value 17 and cost 7. Taking the first two components would give a more fun roller-coaster (25) but would be over budget.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO December 2006 Contest, Silver",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 131,
   "submission_count": null,
   "average_tries": 2.198499917984009

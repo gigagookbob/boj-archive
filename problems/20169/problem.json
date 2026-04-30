@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2020",
   "level": 19,
-  "tags": [
-    "implementation",
-    "geometry",
-    "binary_search",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "binary_search", "simulation"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.7778000831604004

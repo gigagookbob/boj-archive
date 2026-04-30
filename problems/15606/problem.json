@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2017, tony9402",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["math", "greedy", "bruteforcing"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 3.0843000411987305

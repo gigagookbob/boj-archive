@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Second elimination round, 2018-2019",
   "level": 23,
-  "tags": [
-    "dp",
-    "binary_search"
-  ],
+  "tags": ["dp", "binary_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.400000095367432

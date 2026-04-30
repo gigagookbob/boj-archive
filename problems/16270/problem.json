@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Elimination Round",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "prime_factorization"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.8157999515533447

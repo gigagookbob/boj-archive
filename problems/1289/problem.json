@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, Final Exam #1, author6, hayman42",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["math", "dp", "trees", "dp_tree"],
   "accepted_user_count": 902,
   "submission_count": null,
   "average_tries": 3.036600112915039

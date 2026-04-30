@@ -15,13 +15,7 @@
   "hint": "<p><b>Wyjaśnienie:</b> W pierwszym przypadku testowym rozpoczynający grę może napisać jedynie 1, co od razu kończy grę. W drugim zaś opłaca się napisać 2 i pozwolić przeciwnikowi napisać 1.</p>",
   "source": "Camp, POI Training Camp, ONTAK 2011",
   "level": 20,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["dp", "math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 5

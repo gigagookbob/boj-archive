@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Apple_Cplus, kyo20111",
   "level": 11,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "traceback",
-    "maximum_subarray"
-  ],
+  "tags": ["dp", "prefix_sum", "traceback", "maximum_subarray"],
   "accepted_user_count": 405,
   "submission_count": null,
   "average_tries": 3.525899887084961

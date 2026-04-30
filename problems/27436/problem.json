@@ -15,10 +15,7 @@
   "hint": null,
   "source": "hijkl2e",
   "level": 9,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 170,
   "submission_count": null,
   "average_tries": 4.152900218963623

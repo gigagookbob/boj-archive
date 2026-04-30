@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, <em>Little Square</em> can replace the first number with $13879$ and the third number with $448$. The number $M$ will become $1387998448997831$ which is a palindrome. There is no solution with less than two replacements.</p>\n<p>In the second example, <em>Little Square</em> can replace the third number with $1347743112554$.</p>",
   "source": "Contest, infO(1) Cup, infO(1) Cup 2021 International Round 연습 세션",
   "level": 13,
-  "tags": [
-    "dp",
-    "greedy",
-    "string"
-  ],
+  "tags": ["dp", "greedy", "string"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

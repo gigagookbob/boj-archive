@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2005 Day 1",
   "level": 21,
-  "tags": [
-    "dp",
-    "greedy",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "greedy", "bitmask", "dp_bitfield"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 26

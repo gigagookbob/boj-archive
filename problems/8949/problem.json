@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, Regional Competition - Seniors, joonas",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 1919,
   "submission_count": null,
   "average_tries": 1.405900001525879

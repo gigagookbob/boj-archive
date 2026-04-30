@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 2017 선린 봄맞이 교내대회, wookje, rory143",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 7093,
   "submission_count": null,
   "average_tries": 1.6694999933242798

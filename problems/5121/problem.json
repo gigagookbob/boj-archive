@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2012: End of the World",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 1.3621000051498413

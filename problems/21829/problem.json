@@ -10,9 +10,7 @@
   "hint": null,
   "source": "Contest, JOI Open Contest, JOI Open Contest 2014",
   "level": 18,
-  "tags": [
-    "divide_and_conquer"
-  ],
+  "tags": ["divide_and_conquer"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 3.367300033569336

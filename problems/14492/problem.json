@@ -19,11 +19,7 @@
   "hint": "<p>예제1의 연산 결과는 다음과 같다.</p>\n<pre>\n1 1 1\n1 1 1\n0 0 1\n\n따라서 1의 개수는 7이다.</pre>\n<p>예제2의 연산 결과는 다음과 같다.</p>\n<pre>\n0 0\n1 1</pre>\n<p>따라서 1의 개수는 2이다.</p>",
   "source": "School, 선린인터넷고등학교, 2017 선린 봄맞이 교내대회, wookje",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "linear_algebra"
-  ],
+  "tags": ["math", "implementation", "linear_algebra"],
   "accepted_user_count": 886,
   "submission_count": null,
   "average_tries": 1.2280000448226929

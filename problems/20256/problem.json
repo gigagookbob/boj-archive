@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, 2020 ICPC Asia Taipei-Hsinchu Regional",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 1.4020999670028687

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2012, CCC 2012 Junior Division",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2856,
   "submission_count": null,
   "average_tries": 2.3477001190185547

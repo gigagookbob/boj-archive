@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest 2006",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["math", "greedy", "bruteforcing"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.107100009918213

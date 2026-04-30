@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2011, schezar",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7741999626159668

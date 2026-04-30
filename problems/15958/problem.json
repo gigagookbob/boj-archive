@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, 카카오 코드 페스티벌, 카카오 코드 페스티벌 2018 예선",
   "level": 23,
-  "tags": [
-    "cht",
-    "dp"
-  ],
+  "tags": ["cht", "dp"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 4.326499938964844

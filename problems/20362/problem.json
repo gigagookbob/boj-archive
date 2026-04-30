@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2020, orihehe, ahgus89, chogahui05, dlstj0923, hunni10, junie, kyo20111, rdd6584",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 879,
   "submission_count": null,
   "average_tries": 1.2513999938964844

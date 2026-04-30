@@ -15,10 +15,7 @@
   "hint": "<p>In this example, the combination of readings from segments 2 and 3 tell us that the flow rate through these segments is somewhere in the range $[11, 14]$, since only this range is consistent with both the readings $[10,14]$ and $[11,15]$. In mile 1, exactly 1 unit of flow enters on an on-ramp, so prior to mile 1, the flow rate must be in the range $[10, 13]$. In mile 4, between 2 and 3 units exits on an off-ramp, so the range of possible flow rates after this is $[8,12]$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 February Contest, Bronze",
   "level": 10,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 229,
   "submission_count": null,
   "average_tries": 2.8122000694274902

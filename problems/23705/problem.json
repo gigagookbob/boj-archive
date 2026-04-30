@@ -19,12 +19,7 @@
   "hint": "<p>In the first example after the modification the permutation is $[0, 4, 5, 6, 1, 2, 3, 7]$. Its cyclic shift with the minimal number of inversions is $[1, 2, 3, 7, 0, 4, 5, 6]$.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 16: Grand Prix of Moscow",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "trees",
-    "maximum_subarray",
-    "splay_tree"
-  ],
+  "tags": ["data_structures", "trees", "maximum_subarray", "splay_tree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.1666998863220215

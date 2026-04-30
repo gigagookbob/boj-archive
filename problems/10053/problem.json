@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2014, ntopia",
   "level": 19,
-  "tags": [
-    "bfs",
-    "dp",
-    "game_theory",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dp", "game_theory", "graphs", "graph_traversal"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 3.642899990081787

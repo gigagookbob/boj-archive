@@ -23,12 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:217px; width:607px\"/></p>\n<p style=\"text-align: center;\">Figure 5: Illustrations of the second and third sample test</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2016, Croatian Olympiad in Informatics 2016",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["binary_search", "dp", "dp_tree", "trees"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.512200117111206

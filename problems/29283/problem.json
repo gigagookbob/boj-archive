@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, March 17, 2014",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 184,
   "submission_count": null,
   "average_tries": 2.0488998889923096

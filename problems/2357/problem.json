@@ -15,10 +15,7 @@
   "hint": null,
   "source": "seawon0808",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 12238,
   "submission_count": null,
   "average_tries": 1.8575999736785889

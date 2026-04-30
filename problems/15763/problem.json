@@ -15,10 +15,7 @@
   "hint": "<p>In this example, no single cow can claim victory. However, if cows C and X team up, they can win via the C-X-C diagonal. Also, if cows X and O team up, they can win via the middle row.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 US Open Contest, Bronze",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 280,
   "submission_count": null,
   "average_tries": 2.782099962234497

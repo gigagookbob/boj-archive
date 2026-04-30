@@ -15,12 +15,7 @@
   "hint": null,
   "source": "moonrabbit2",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "lazyprop"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.2439000606536865

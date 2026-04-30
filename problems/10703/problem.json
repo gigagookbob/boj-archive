@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #6, kyma123",
   "level": 10,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 754,
   "submission_count": null,
   "average_tries": 4.018599987030029

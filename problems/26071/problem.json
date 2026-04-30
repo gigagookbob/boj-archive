@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 곰곰컵, 제2회 곰곰컵, bnb2011, chogahui05, jthis, jyheo98, pichulia, pjshwa, r4pidstart, tony9402",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "case_work"],
   "accepted_user_count": 411,
   "submission_count": null,
   "average_tries": 2.946500062942505

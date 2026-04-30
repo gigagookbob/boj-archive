@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2020, hibye1217",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 11307,
   "submission_count": null,
   "average_tries": 1.9522000551223755

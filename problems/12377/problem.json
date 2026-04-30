@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2012, Round 2",
   "level": 19,
-  "tags": [
-    "sorting",
-    "geometry",
-    "randomization"
-  ],
+  "tags": ["sorting", "geometry", "randomization"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.125

@@ -15,9 +15,7 @@
   "hint": "<p>First, Byton should go to shop $1$, not buying anything. Then, he should go to shop $2$ and buy the products $2$ and $4$. Next, he can buy product $3$ in shop $3$ and finally buy product $1$ in shop $4$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 5: Warsaw U Contest, XVIII Open Cup named after E.V. Pankratiev Onsite",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.368399977684021

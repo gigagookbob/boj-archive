@@ -19,11 +19,7 @@
   "hint": "<p>디미고 교칙은 불건전한 이성교제에 엄격하다.</p>",
   "source": "School, 한국디지털미디어고등학교, 제2회 디미고 프로그래밍 챌린지, ian0704, 99asdfg, deom, dkim110807, ecode, qvixnh22, seungchan0325, tlsdydaud1, utilforever",
   "level": 4,
-  "tags": [
-    "implementation",
-    "greedy",
-    "pigeonhole_principle"
-  ],
+  "tags": ["implementation", "greedy", "pigeonhole_principle"],
   "accepted_user_count": 613,
   "submission_count": null,
   "average_tries": 1.9200999736785889

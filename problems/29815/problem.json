@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2023 HPEC (Hanyang Programming Evaluation Contest), Intermediate, bsheep0304, hansoyo, hibye1217, jjaewon9, jrdora, myyh1234, opusdeisong",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.200000047683716

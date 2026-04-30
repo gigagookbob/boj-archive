@@ -15,9 +15,7 @@
   "hint": "<p>For the second sample data, a 3-tooth gear along with a 4-tooth gear may yield 12 different combinations of directions, with total cost exactly being 7. So you should print the value of $\\ln 12$, which is approximately 2.484906650.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 5: Grand Prix of Weihai, Division 1",
   "level": 14,
-  "tags": [
-    "knapsack"
-  ],
+  "tags": ["knapsack"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

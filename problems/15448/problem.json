@@ -19,13 +19,7 @@
   "hint": "<p>For the first example, inspecting buildings 1 and 3 guarantees a nice building will be found.</p>\n<p>For the second example, one optimal strategy is to always inspect building 3 first.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 24 June, 2017",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "bitmask",
-    "game_theory",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "trees", "bitmask", "game_theory", "dp_bitfield"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, 2016 ACM-ICPC Asia-Manila Regional Programming Contest 연습 세션",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 2032,
   "submission_count": null,
   "average_tries": 2.4444000720977783

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2010",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4.705900192260742

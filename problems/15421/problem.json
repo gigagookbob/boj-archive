@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2017",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "geometry", "tree_set", "set"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.529400110244751

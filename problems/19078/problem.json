@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 5: Moscow IPT Contest",
   "level": 22,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "dp_sum_over_subsets"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.368399977684021

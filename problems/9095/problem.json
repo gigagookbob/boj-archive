@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Taejon 2001 연습 세션, baekjoon, standardraccoon, wjrqur1200",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 73011,
   "submission_count": null,
   "average_tries": 1.5325000286102295

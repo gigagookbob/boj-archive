@@ -23,10 +23,7 @@
   "hint": "<p>Pojašnjenja probnih primjera: Lijevo je prikaz bojanja zastave prvog probnom prijema, u sredini drugog probnog prijema, i desno trećeg probnog primjera.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 469px; height: 200px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Croatian Olympiad in Informatics for Girls 2023",
   "level": 12,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.266700029373169

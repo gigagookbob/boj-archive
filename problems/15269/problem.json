@@ -19,11 +19,7 @@
   "hint": "<p>Sample 1: <img alt=\"\" src=\"1.png\" style=\"height:71px; width:79px\"/></p>\n<p>Sample 2: <img alt=\"\" src=\"2.png\" style=\"height:276px; width:273px\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2017, Contest, Open Cup, 2017/2018 Season, Stage 8: Grand Prix of Europe",
   "level": 19,
-  "tags": [
-    "implementation",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["implementation", "geometry", "sweeping"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.5952000617980957

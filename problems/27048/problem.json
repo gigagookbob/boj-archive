@@ -15,10 +15,7 @@
   "hint": "<p>There are six fence posts: 1, 2, 3, 4, 5, and 6. Of the two Cowpulets, one grazes between posts 2 &amp; 3, and the other grazes between posts 3 &amp; 4.</p>\n<p>Between fence posts 3 and 6 (an interval of size 3) there is only one Cowpulet.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO November 2003 Contest, Orange",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "two_pointer"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 3.0213000774383545

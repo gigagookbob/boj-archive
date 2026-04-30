@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2012, 초등부, erin207",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 1023,
   "submission_count": null,
   "average_tries": 2.4251999855041504

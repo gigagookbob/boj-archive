@@ -15,10 +15,7 @@
   "hint": "<p>In Case #1, suppose that the only vowel is <em>a</em> and the only consonant is <em>h</em>. Then the possible valid words of length 4 are: <em>aaaa</em>, <em>aaha</em>, <em>ahaa</em>, <em>haaa</em>, <em>haha</em>.</p>\n<p>In Case #2 (which would not appear in the Small dataset 1), suppose that the two vowels are <em>a</em> and <em>e</em> and the only consonant is <em>h</em>. Then the possible valid words of length 2 are: <em>aa</em>, <em>ae</em>, <em>ea</em>, <em>ee</em>, <em>ha</em>, <em>he</em>.</p>",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2016, Code Jam to I/O for Women 2016",
   "level": 6,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 205,
   "submission_count": null,
   "average_tries": 1.2828999757766724

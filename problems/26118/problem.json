@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2022, Day 2",
   "level": 11,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.5

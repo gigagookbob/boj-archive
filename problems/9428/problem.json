@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2013 South Central USA Regional Programming Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 1.4048000574111938

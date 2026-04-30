@@ -15,9 +15,7 @@
   "hint": "<p>In the first test case, there are the following $2$ ways to fill the area:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 420px; height: 172px;\"/></p>\n<p>In the second test case, there is a unique way to fill the area:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 124px; height: 180px;\"/></p>",
   "source": "Contest, Codeforces, Codeforces Round 633 (Div. 2), spongbob9876",
   "level": 4,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 1.4852999448776245

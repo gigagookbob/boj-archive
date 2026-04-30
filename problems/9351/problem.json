@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, ACM Jordanian Collegiate Programming Contest, JCPC 2012",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 4.506700038909912

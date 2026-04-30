@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2022",
   "level": 21,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.5

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "author6, degurii, imgosari, djm03178",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 9589,
   "submission_count": null,
   "average_tries": 3.1419999599456787

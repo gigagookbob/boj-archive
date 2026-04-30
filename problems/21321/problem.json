@@ -27,11 +27,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2021 IGRUS Newbie Programming Contest, kjjgo35, Lawali, rhs0266, tony9402, wjdclgns12",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.0625

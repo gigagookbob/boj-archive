@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2011, Day 2, planetarynebula",
   "level": 26,
-  "tags": [
-    "greedy",
-    "binary_search",
-    "sqrt_decomposition"
-  ],
+  "tags": ["greedy", "binary_search", "sqrt_decomposition"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 3.601900100708008

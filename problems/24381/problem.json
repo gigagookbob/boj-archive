@@ -23,10 +23,7 @@
   "hint": "<p>Обяснение на пример едно: 10010100 → 100 → 0</p>\n<p>Обяснение на пример две: 1010010100 → 1010 → 00</p>\n<p>Обяснение на пример три: Входният низ не е равномерен.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2013, Group C",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

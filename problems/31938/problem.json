@@ -15,11 +15,7 @@
   "hint": "<p>어떤 트럭이 다른 트럭이 지나간 도로를 이용하는 경우 그 트럭을 뒤따라간다고 한다.</p>\n<p>$K$대의 트럭이 거리가 $d$인 도로를 한 줄로 함께 이동할 때 가장 선두에 있는 트럭은 $d$, 나머지 $K-1$대의 트럭은 각각 ${9 \\over 10} d$의 운송비가 필요하므로 총 ${{9K+1} \\over 10} d$의 운송비가 필요하다.</p>",
   "source": "University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 2, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Open Contest, sungjae0506, blackking26, kaorin, ksi4495, lky7674, lycoris1600, mujigae, qvixnh22, sjh1224",
   "level": 16,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 4.104899883270264

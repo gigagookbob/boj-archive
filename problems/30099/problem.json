@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 2023 GSHS CS Seminar, ibm2006, alex0211, benedict0724, flappybird, jk410, lisifu, mjhmjh1104, mugil2005, mwryan, puppy",
   "level": 16,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["math", "implementation", "ad_hoc"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.865399956703186

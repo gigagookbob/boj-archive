@@ -19,12 +19,7 @@
   "hint": "<p>모든 상황에서 실은 서로 다른 두 개의 구슬을 연결할 때만 이용될 수 있다. 즉, 하나의 구슬에만 연결된 실이 존재해서는 안 된다.</p>",
   "source": "School, DGUPC, 제 1회 DGUPC, haruki291sa, kiwiyou, leo020630, parkky, utilforever, wjdclgns12",
   "level": 21,
-  "tags": [
-    "string",
-    "trees",
-    "kmp",
-    "tree_isomorphism"
-  ],
+  "tags": ["string", "trees", "kmp", "tree_isomorphism"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 6.81820011138916

@@ -19,13 +19,7 @@
   "hint": "<p>In the first test case, we can perform two operations: <code><span style=\"color:#EA3323;\">AAB</span>BB</code> $\\to$ <code><span style=\"color:#0000f5;\">BAA</span>BB</code> and then <code>BA<span style=\"color:#ea3323;\">ABB</span></code> $\\to$ <code>BA<span style=\"color:#0000f5;\">BBA</span></code>.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Beginner Round",
   "level": 13,
-  "tags": [
-    "greedy",
-    "string",
-    "ad_hoc",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["greedy", "string", "ad_hoc", "parity", "invariant"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.3077000379562378

@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "knapsack"
-  ],
+  "tags": ["dp", "bruteforcing", "knapsack"],
   "accepted_user_count": 219,
   "submission_count": null,
   "average_tries": 3.3561999797821045

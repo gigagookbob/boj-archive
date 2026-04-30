@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2019: daVinci",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.2972999811172485

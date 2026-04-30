@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2015 연세대학교 프로그래밍 경시대회, jsa3824",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 457,
   "submission_count": null,
   "average_tries": 2.1466000080108643

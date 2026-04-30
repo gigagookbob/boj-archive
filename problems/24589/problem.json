@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Atlantic Regional, 2021 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, North Central North America Regional, 2021 North Central NA Regional Contest",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.4483000040054321

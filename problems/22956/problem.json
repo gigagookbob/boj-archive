@@ -19,10 +19,7 @@
   "hint": "<p>다음은 예제 1번의 그림이다.</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height: 266px; width: 750px;\"/><br/>\n </p>",
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 초급, swoon, gumgood, gunwookim, kyo20111, lky7674, pichulia",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.651400089263916

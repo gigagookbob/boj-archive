@@ -15,10 +15,7 @@
   "hint": "<p>출력 버퍼를 비우는 방법은 다음과 같다.</p>\n<ul>\n<li>C: <code>fflush(stdout)</code></li>\n<li>C++: <code>std::cout &lt;&lt; std::flush</code></li>\n<li>Java: <code>System.out.flush()</code></li>\n<li>Python: <code>sys.stdout.flush()</code></li>\n</ul>\n<p>이외의 언어에 대해서는 언어별 명세를 참고해야 한다.</p>",
   "source": "School, 서울과학고등학교, SciOI 2024, kdy40929, mingyu331, 79brue, azberjibiou, jk410, kuhyaku, math_rabbit_1028",
   "level": 21,
-  "tags": [
-    "math",
-    "randomization"
-  ],
+  "tags": ["math", "randomization"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 9.81820011138916

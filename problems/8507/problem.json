@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2008",
   "level": 20,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.375

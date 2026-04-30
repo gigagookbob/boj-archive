@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2010, CCC 2010 Junior Division",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 1.615399956703186

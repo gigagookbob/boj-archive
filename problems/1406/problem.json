@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, National Competition #1 - Juniors, author5, wkd48632, djm03178, naong606, jh05013, djm03178",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "stack",
-    "linked_list"
-  ],
+  "tags": ["data_structures", "stack", "linked_list"],
   "accepted_user_count": 31134,
   "submission_count": null,
   "average_tries": 3.555999994277954

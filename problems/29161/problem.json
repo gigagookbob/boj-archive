@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2023 Summer), starwh03, chansol, cologne, kipa00, lky7674",
   "level": 22,
-  "tags": [
-    "trees",
-    "divide_and_conquer",
-    "centroid",
-    "centroid_decomposition"
-  ],
+  "tags": ["trees", "divide_and_conquer", "centroid", "centroid_decomposition"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 5.930200099945068

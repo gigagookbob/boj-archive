@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Bronze",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["bruteforcing", "sorting", "sweeping"],
   "accepted_user_count": 282,
   "submission_count": null,
   "average_tries": 2.0957000255584717

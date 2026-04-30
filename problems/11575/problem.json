@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2015 인하대학교 프로그래밍 경시대회, pppgod",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1881,
   "submission_count": null,
   "average_tries": 1.5549999475479126

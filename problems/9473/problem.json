@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2013 Greater New York Programming Contest",
   "level": 15,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.6666998863220215

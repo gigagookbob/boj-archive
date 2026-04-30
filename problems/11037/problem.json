@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, Vietnam High School Programming Contest, HSPC 2014, doju",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "binary_search",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "sorting", "binary_search", "backtracking"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 2.327500104904175

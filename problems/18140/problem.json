@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, 2019 ICPC Asia Taipei-Hsinchu Regional",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

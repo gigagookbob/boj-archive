@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC 2010",
   "level": 14,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

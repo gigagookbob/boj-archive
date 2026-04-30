@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 2, stonejjun03, aeren, ahgus89, gs18115, jh05013, jhwest2",
   "level": 24,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "math"
-  ],
+  "tags": ["convex_hull", "geometry", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.733299970626831

@@ -23,12 +23,7 @@
   "hint": "<p>In the first example Senya likes integers $5$, $7$ and $13$.</p>\n<p>In the second example all integers in the range contain $0$ in their decimal respresentation.</p>\n<p>In the third example Senya likes integer $283$, since $283$, $83$ and $3$ are all prime.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2017",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "precomputation",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "precomputation", "primality_test"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 3.7221999168395996

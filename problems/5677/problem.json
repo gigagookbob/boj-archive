@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2012",
   "level": 19,
-  "tags": [
-    "case_work",
-    "graphs",
-    "lca",
-    "topological_sorting",
-    "trees",
-    "dag"
-  ],
+  "tags": ["case_work", "graphs", "lca", "topological_sorting", "trees", "dag"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.1110999584198

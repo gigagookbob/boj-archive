@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, Croatian Olympiad in Informatics 2002",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc", "simulation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.3157999515533447

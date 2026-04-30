@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2021, Camp, Petrozavodsk Programming Camp, Winter 2022, Day 4: NCPC+BAPC+CTU 2021 Selection",
   "level": 22,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "greedy"
-  ],
+  "tags": ["backtracking", "bitmask", "greedy"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.4286000728607178

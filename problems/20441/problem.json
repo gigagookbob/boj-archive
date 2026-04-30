@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2020, TheKinGoD, dlstj0923, hellogaon, rhs0266, tony9402",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "lazyprop"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.0713999271392822

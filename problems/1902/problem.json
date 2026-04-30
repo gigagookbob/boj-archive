@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, Final Exam #2, jh05013",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "geometry", "parametric_search"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.9815000295639038

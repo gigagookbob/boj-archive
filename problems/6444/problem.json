@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1995, Contest, CTU FEE Local Contest, CTU FEE 2003, baekjoon, waylight3, kks227, jh05013",
   "level": 17,
-  "tags": [
-    "dag",
-    "dp",
-    "graphs",
-    "parsing",
-    "string",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "dp", "graphs", "parsing", "string", "topological_sorting"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 4.359399795532227

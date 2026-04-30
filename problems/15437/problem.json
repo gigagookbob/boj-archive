@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 1 October, 2016",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.8723000288009644

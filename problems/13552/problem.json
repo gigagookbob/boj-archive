@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 5,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "pythagoras"
-  ],
+  "tags": ["geometry", "geometry_3d", "pythagoras"],
   "accepted_user_count": 324,
   "submission_count": null,
   "average_tries": 3.9321000576019287

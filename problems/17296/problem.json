@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회 예선, jh05013",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 289,
   "submission_count": null,
   "average_tries": 2.6886000633239746

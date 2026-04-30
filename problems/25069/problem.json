@@ -15,13 +15,7 @@
   "hint": "<table class=\"table table-bordered th-center td-center table-center-40\">\n<tbody>\n<tr>\n<th>Operations</th>\n<th>${a_n}$</th>\n<th>Password</th>\n</tr>\n<tr>\n<td>Initial</td>\n<td><code>WE</code></td>\n<td>$(0,1,1,1)$</td>\n<td>$\\frac{2}{3}$</td>\n</tr>\n<tr>\n<td>After 1st update</td>\n<td><code>WEE</code></td>\n<td>$(0,1,2,1)$</td>\n<td>$\\frac{3}{4}$</td>\n</tr>\n<tr>\n<td>After 2nd update</td>\n<td><code>EWE</code></td>\n<td>$(1,1,1,1)$</td>\n<td>$\\frac{5}{3}$</td>\n</tr>\n<tr>\n<td>After 3rd update</td>\n<td><code>EEW</code></td>\n<td>$(2,2)$</td>\n<td>$\\frac{5}{2}$</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2021",
   "level": 24,
-  "tags": [
-    "math",
-    "data_structures",
-    "trees",
-    "linear_algebra",
-    "splay_tree"
-  ],
+  "tags": ["math", "data_structures", "trees", "linear_algebra", "splay_tree"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2015, kks227, ntopia",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 5812,
   "submission_count": null,
   "average_tries": 1.6332000494003296

@@ -39,11 +39,7 @@
   "hint": "<p>사실 C에는 <code>else if</code>문이 따로 없다는 사실을 알고 있는가? 우리가 <code>else if</code>라고 알고 있는 구문은 사실 일반적인 <code>else</code>의 본문에서 중괄호를 생략하고 <code>if</code>문으로 채운 경우에 해당한다.</p>",
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2024 중앙대학교 프로그래밍 경진대회 (CPC), Open Contest, dlaud5379, dohoon, hjroh0315, jk410, mujigae, pjshwa, utilforever, wapas",
   "level": 16,
-  "tags": [
-    "string",
-    "parsing",
-    "recursion"
-  ],
+  "tags": ["string", "parsing", "recursion"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.4000000953674316

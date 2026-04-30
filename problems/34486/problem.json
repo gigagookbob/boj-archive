@@ -31,10 +31,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2025",
   "level": 21,
-  "tags": [
-    "graphs",
-    "greedy"
-  ],
+  "tags": ["graphs", "greedy"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

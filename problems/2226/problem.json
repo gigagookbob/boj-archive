@@ -19,10 +19,7 @@
   "hint": null,
   "source": "algorithm777",
   "level": 12,
-  "tags": [
-    "dp",
-    "arbitrary_precision"
-  ],
+  "tags": ["dp", "arbitrary_precision"],
   "accepted_user_count": 621,
   "submission_count": null,
   "average_tries": 2.455699920654297

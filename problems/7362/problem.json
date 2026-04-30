@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2000 East Central Regional Contest",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "graphs",
-    "mst"
-  ],
+  "tags": ["bruteforcing", "graphs", "mst"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 18.399999618530273

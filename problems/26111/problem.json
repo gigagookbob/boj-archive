@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2022",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "string",
-    "stack"
-  ],
+  "tags": ["data_structures", "string", "stack"],
   "accepted_user_count": 350,
   "submission_count": null,
   "average_tries": 1.6057000160217285

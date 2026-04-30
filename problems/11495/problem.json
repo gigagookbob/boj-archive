@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2015, kks227",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "flow", "grid_graph"],
   "accepted_user_count": 785,
   "submission_count": null,
   "average_tries": 3.1057000160217285

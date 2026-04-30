@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Qualification Round",
   "level": 12,
-  "tags": [
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["constructive", "backtracking"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.75

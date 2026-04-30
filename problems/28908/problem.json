@@ -19,11 +19,7 @@
   "hint": "<p>В первом тесте из условия максимальный объем достигается при $w_{2, 2} = 2$, $w_{2, 3} = 1$, $w_{i, j} = 0$ для всех остальных столбиков. Легко убедиться, что все необходимые условия при этом выполняются, а общий объем воды равен $3$.</p>\n<p>Во втором тесте из условия только на двух столбиках может располагаться вода: максимальный объем достигается при $w_{2, 2} = 1$, $w_{2, 3} = 1$, $w_{i, j} = 0$ для всех остальных столбиков. Общий объем воды равен $2$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, March 10, 2018",
   "level": 17,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

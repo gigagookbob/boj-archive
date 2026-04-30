@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 11th Latvian olympiad in informatics, Stage III (Country)",
   "level": 15,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.7826000452041626

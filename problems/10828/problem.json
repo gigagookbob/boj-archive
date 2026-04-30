@@ -19,11 +19,7 @@
   "hint": null,
   "source": "baekjoon, deunlee, djm03178",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "stack"],
   "accepted_user_count": 90590,
   "submission_count": null,
   "average_tries": 2.5439000129699707

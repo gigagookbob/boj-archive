@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NERC 2018",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 267,
   "submission_count": null,
   "average_tries": 1.898900032043457

@@ -15,10 +15,7 @@
   "hint": "<p>In sample case #4, note that the answer cannot be <code>15 10</code>; that minimizes the absolute difference, but does not minimize the Coders' score. Nor can the answer be <code>05 10</code>; that minimizes the absolute difference and the Coders' score, but does not minimize the Jammers' score.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 1B",
   "level": 6,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.8286000490188599

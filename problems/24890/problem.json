@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 2, kyo20111, cgiosy, edenooo, jhnah917, Lawali",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.6922999620437622

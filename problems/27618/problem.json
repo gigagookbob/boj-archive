@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2022-2023 East Central Regional Contest",
   "level": 9,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.708299994468689

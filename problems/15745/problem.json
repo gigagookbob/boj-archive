@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 February Contest, Gold",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "tree_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "disjoint_set", "tree_set", "offline_queries"],
   "accepted_user_count": 175,
   "submission_count": null,
   "average_tries": 1.8457000255584717

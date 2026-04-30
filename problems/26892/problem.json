@@ -27,10 +27,7 @@
   "hint": "<p>De potentiella hacker-adresserna i de tre första exemplen är:</p>\n<pre>\npo.pe     kartis.com      abbe\nso.pe     katris.com      abbi\nso.se     kartix.com      ebba\n          katrix.com      ebbi\n          kattix.com      ibba\n          kartiz.com      ibbe\n          katriz.com\n          kattiz.com\n</pre>\n<p>Notera avsaknaden av exempelvis \"karris.com\" och \"ebbe\" där samma fel gjorts två gånger.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, Final",
   "level": 11,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.083299994468689

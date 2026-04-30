@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2020/2021 예선 2",
   "level": 18,
-  "tags": [
-    "dp",
-    "binary_search"
-  ],
+  "tags": ["dp", "binary_search"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.0369999408721924

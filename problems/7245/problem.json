@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2021/2022, District Stage, 10-12 Classes",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.1633000373840332

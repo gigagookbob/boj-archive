@@ -15,10 +15,7 @@
   "hint": "<p>정의역이 $D$, 공역이 $C$인 <strong>함수</strong> $f : D \\rightarrow C$는 집합 $D$의 각 원소에 대해 집합 $C$의 원소를 하나씩 대응시키는 규칙이다. 이때 모든 대응값은 $C$에 속하며, 함수는 $D$의 모든 원소에 대해 정의되어야 한다. 즉, 모든 $x \\in D$에 대해 유일한 $f(x) \\in C$가 존재하는 대응 규칙을 의미한다.</p>\n<p>함수 $f: D \\rightarrow C$의 <strong>치역</strong>은 정의역 $D$의 원소들이 $f$에 의해 실제로 대응되는 공역 $C$의 원소들의 집합이다. 즉, $f$의 치역은  $\\{ f(x) \\mid x \\in D \\} \\subseteq C$을 의미한다.</p>",
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Div.2, School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Open Contest, dkim110807, gs22059, gs22123, iccodly, jthis, junwoojune, mj1000j, sadtreap, swlee0202",
   "level": 6,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 196,
   "submission_count": null,
   "average_tries": 1.6633000373840332

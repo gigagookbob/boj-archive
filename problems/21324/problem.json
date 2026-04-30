@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Final",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.976699948310852

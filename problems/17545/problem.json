@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2019 Preliminaries",
   "level": 12,
-  "tags": [
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "math", "probability"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.253499984741211

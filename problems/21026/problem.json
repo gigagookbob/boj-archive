@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2019, ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2021 연습 세션",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["math", "data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.736799955368042

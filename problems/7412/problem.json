@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2002",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mcmf", "mfmc"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, tncks0121",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 2127,
   "submission_count": null,
   "average_tries": 2.723599910736084

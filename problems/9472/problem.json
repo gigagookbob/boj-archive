@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2013 Greater New York Programming Contest, baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 195,
   "submission_count": null,
   "average_tries": 1.5025999546051025

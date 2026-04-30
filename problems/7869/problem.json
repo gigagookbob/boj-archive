@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Far Eastern Russia Regional Contest, NEERC Far-Eastern Subregional 2000, baekjoon, kazel, rootcucu, jung2381187",
   "level": 14,
-  "tags": [
-    "math",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["math", "geometry", "case_work"],
   "accepted_user_count": 1754,
   "submission_count": null,
   "average_tries": 3.077500104904175

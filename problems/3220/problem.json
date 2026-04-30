@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, National Competition #2 - Seniors",
   "level": 19,
-  "tags": [
-    "dp",
-    "hashing",
-    "math",
-    "number_theory",
-    "rabin_karp",
-    "string"
-  ],
+  "tags": ["dp", "hashing", "math", "number_theory", "rabin_karp", "string"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 5.714300155639648

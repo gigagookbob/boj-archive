@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2004",
   "level": 18,
-  "tags": [
-    "graphs",
-    "articulation",
-    "bcc"
-  ],
+  "tags": ["graphs", "articulation", "bcc"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 2.878000020980835

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2012",
   "level": 19,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

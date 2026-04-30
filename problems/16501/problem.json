@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 ERICA Software-Up Programming Contest, League B, portableangel",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 1.9687999486923218

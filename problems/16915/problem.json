@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, portableangel",
   "level": 18,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 305,
   "submission_count": null,
   "average_tries": 2.4851999282836914

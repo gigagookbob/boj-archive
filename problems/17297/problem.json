@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회 예선, wookje",
   "level": 12,
-  "tags": [
-    "dp",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["dp", "divide_and_conquer", "recursion"],
   "accepted_user_count": 653,
   "submission_count": null,
   "average_tries": 2.075000047683716

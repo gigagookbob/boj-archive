@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2003",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "dp",
-    "lis"
-  ],
+  "tags": ["binary_search", "dp", "lis"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

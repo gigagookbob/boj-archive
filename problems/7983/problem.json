@@ -15,10 +15,7 @@
   "hint": "<p>1&ndash;5일에는 놀고, 6&ndash;7일에는 1번째 과제를, 8&ndash;10일에는 3번째 과제를 한다. 11&ndash;12일에는 놀고, 13&ndash;13 일에 2번째 과제를 한다.</p>\r\n",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2012, School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2016 송년대회, koosaga",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 1275,
   "submission_count": null,
   "average_tries": 2.062700033187866

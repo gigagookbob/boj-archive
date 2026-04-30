@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 08., heeda0528, chogahui05, hibye1217, kiwiyou, kongum, pjshwa, rustiebeats, tony9402, utilforever",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 225,
   "submission_count": null,
   "average_tries": 2.475600004196167

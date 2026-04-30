@@ -15,13 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>Object 1 is made from 12 squares, object 2 is made from 3 squares, and object 3 is made from 5 squares. The shapes of the objects are those in the figure above.</p>\n<h4>Output Details</h4>\n<p>If we slide object 3 to the east by one position, then slide object 2 north by one position, then slide object 1 west by three positions, then the bounding boxes of the three objects will no longer share any overlap in common.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO US Open 2012 Contest, Silver",
   "level": 17,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "geometry",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "geometry", "bfs"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.5

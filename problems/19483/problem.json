@@ -15,10 +15,7 @@
   "hint": "<p>There are 50 non-sample testcases in this problem.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 5: Petr Mitrichev Contest 14",
   "level": 16,
-  "tags": [
-    "dp",
-    "randomization"
-  ],
+  "tags": ["dp", "randomization"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.142899990081787

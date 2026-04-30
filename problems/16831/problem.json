@@ -23,10 +23,7 @@
   "hint": "<p>In the first example, the XOR sum is 0 in the initial state, but the game is going because nobody moves yet. First Alice takes a stone and the XOR sum becomes 1, then Bob takes the last stone and the XOR sum becomes 0. Therefore, Alice will win, and Bob will lose.</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2018 Day 3",
   "level": 20,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 2.440700054168701

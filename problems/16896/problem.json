@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "math",
-    "game_theory"
-  ],
+  "tags": ["math", "game_theory"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.03410005569458

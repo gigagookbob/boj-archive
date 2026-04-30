@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 8: UESTC Selection",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask"
-  ],
+  "tags": ["dp", "bitmask"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

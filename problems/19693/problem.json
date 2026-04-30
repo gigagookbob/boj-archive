@@ -31,12 +31,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2018",
   "level": 24,
-  "tags": [
-    "dp",
-    "data_structures",
-    "priority_queue",
-    "slope_trick"
-  ],
+  "tags": ["dp", "data_structures", "priority_queue", "slope_trick"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 1.5175000429153442

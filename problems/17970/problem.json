@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2019, alex9801",
   "level": 24,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 2.9419000148773193

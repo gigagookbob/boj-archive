@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Summer Contest, mickeyjung, cologne, dohoon, eric00513, flakepowders, gs20036, parkky, runnie0427, utilforever, yongwhan",
   "level": 23,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "smaller_to_larger"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "smaller_to_larger"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 4

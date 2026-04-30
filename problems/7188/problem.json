@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2015-16, Final Round, Advanced",
   "level": 22,
-  "tags": [
-    "coordinate_compression",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["coordinate_compression", "graphs", "graph_traversal"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2002",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.923099994659424

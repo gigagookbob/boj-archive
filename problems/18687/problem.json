@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2016 Arab Collegiate Programming Contest",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "sliding_window"
-  ],
+  "tags": ["binary_search", "sliding_window"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 5.8333001136779785

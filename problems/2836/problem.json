@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2011, Croatian Olympiad in Informatics 2011, baekjoon, jake0713, kks227, oxoo2m",
   "level": 13,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 1410,
   "submission_count": null,
   "average_tries": 2.7397000789642334

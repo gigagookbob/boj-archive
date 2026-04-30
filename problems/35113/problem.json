@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2025, js9028, 79brue, bnb2011, dbrua1222, jinhan814, jthis, oh040411, tlsdydaud1, yyyy7089",
   "level": 16,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.6970000267028809

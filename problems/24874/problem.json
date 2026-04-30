@@ -27,11 +27,7 @@
   "hint": "<p>В первом примере подходят все перестановки столбцов.</p>\n<p>Во втором примере единственная подходящая перестановка --- $10+20=30$. $01+02=03$ не считается из-за наличия ведущих нулей.</p>\n<p>В третьем примере возможны варианты $10121+21909=32030$ и $12101+20919=33020$, причём каждый из них может быть получен двумя разными перестановками.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2021",
   "level": 19,
-  "tags": [
-    "math",
-    "arithmetic",
-    "combinatorics"
-  ],
+  "tags": ["math", "arithmetic", "combinatorics"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 5.3846001625061035

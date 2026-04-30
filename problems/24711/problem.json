@@ -15,12 +15,7 @@
   "hint": "<p>In the example, we have $\\mathit{seed} = 0$, so Bob always receives the correct answer from Alice. It is reasonable for Bob to directly use binary search in this test case, but it does not apply to other possible situations.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 6: ICPC Camp Day 1: PKU Contest",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["ad_hoc", "binary_search", "math", "number_theory"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 5

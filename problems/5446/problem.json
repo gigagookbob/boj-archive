@@ -15,12 +15,7 @@
   "hint": "<p>8번만에 원하는 파일만 삭제할 수 있는 예 중 하나는 다음과 같다.</p>\r\n\r\n<p>&quot;BAPC.*&quot;, &quot;filt*&quot;, &quot;filename*&quot;, &quot;clean&quot;, &quot;cleanup.IN1&quot;, &quot;cleanup.IN2&quot;, &quot;cleanup.out&quot;, &quot;p*&quot;</p>\r\n",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2010 Preliminaries, kks227",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "trees", "trie"],
   "accepted_user_count": 540,
   "submission_count": null,
   "average_tries": 2.7741000652313232

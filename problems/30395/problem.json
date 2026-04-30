@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 1회 DGUPC, blackkarn, iansong, kiwiyou, leo020630, parkky, utilforever, wjdclgns12",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 436,
   "submission_count": null,
   "average_tries": 2.25

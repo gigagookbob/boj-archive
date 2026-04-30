@@ -15,12 +15,7 @@
   "hint": "<p>The points (-1.414213562, -1.414213562) and (-1.414213562, 1.414213562) are also hit by the same brightness and are distance R from Earth, but are closer to each other than (0, 2) and (0, -2).</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2013, Group A (Seniors)",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "calculus",
-    "geometry",
-    "math"
-  ],
+  "tags": ["binary_search", "calculus", "geometry", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 5.8333001136779785

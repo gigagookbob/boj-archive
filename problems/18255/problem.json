@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, India, The 2009 ACM-ICPC Asia Amritapuri Regional Contest",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "euclidean"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.4500000476837158

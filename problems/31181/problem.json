@@ -15,10 +15,7 @@
   "hint": "<p>For the first sample test case, we select the vertices in the order of $1, 3, 4, 5, 2, 6$, resulting in the weighted tree of the following image. It's obvious that the longest simple path is of length $16$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 9: Grand Prix of Nanjing",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees"
-  ],
+  "tags": ["dp", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3

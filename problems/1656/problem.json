@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 1999, ZZangZZang",
   "level": 13,
-  "tags": [
-    "geometry",
-    "physics"
-  ],
+  "tags": ["geometry", "physics"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 6.545499801635742

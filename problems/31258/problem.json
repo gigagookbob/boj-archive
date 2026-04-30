@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2011, Group D",
   "level": 5,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "sorting", "arithmetic"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.3478000164031982

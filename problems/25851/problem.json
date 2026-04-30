@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Round 1A)",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "tree_set",
-    "two_pointer",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "tree_set", "two_pointer", "set"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.4285999536514282

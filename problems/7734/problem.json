@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2007",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "tsp"
-  ],
+  "tags": ["bruteforcing", "tsp"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.90910005569458

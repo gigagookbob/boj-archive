@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2003",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting",
-    "set"
-  ],
+  "tags": ["greedy", "sorting", "set"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 5.155600070953369

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2019 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2019 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Pacific Northwest Regional, 2019 ICPC Pacific Northwest Region, Division 2",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "sorting",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "string", "sorting", "set", "tree_set"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.5568000078201294

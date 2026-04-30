@@ -15,10 +15,7 @@
   "hint": "<p>Here, cow 4 is not compatible with any of cows 1, 2, or 3, and cows 1 and 3 are also not compatible.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Gold",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["data_structures", "inclusion_and_exclusion"],
   "accepted_user_count": 184,
   "submission_count": null,
   "average_tries": 2.440200090408325

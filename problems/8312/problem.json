@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 1.5181000232696533

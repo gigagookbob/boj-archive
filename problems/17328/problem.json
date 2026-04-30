@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2010",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "pst",
-    "segtree"
-  ],
+  "tags": ["data_structures", "priority_queue", "pst", "segtree"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.25

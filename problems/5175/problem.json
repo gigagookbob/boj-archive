@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2007: Programming Contest Programming Contest, portableangel",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 2.066699981689453

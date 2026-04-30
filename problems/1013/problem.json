@@ -15,10 +15,7 @@
   "hint": null,
   "source": "bumsoo0515, tkddn5623, xhdtlsid2, AIAI",
   "level": 11,
-  "tags": [
-    "string",
-    "regex"
-  ],
+  "tags": ["string", "regex"],
   "accepted_user_count": 6717,
   "submission_count": null,
   "average_tries": 2.6542000770568848

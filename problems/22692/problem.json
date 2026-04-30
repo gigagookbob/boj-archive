@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2007 Day 2",
   "level": 12,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

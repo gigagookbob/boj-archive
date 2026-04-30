@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2025!, qwerasdfzxcl, cki86201",
   "level": 23,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "case_work",
-    "parity",
-    "bitset"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "case_work", "parity", "bitset"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2

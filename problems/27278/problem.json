@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제1회 보라매컵 본선, 99asdfg, asdarwin03, amsminn, chansol, eaststar, eric00513, gangminson, kiwiyou, max804, mjhmjh1104, tony9402",
   "level": 10,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.151700019836426

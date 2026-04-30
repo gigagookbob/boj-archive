@@ -23,9 +23,7 @@
   "hint": "<p>For the first sample, the 6 ways are:</p>\n<pre>\nBB   BB   BR   BR   BB   BB\nBB   BR   BR   BR   BR   BB\nBR   BR   BR   RR   RR   RR</pre>",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2017 Pacific Northwest Region Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2017 Pacific Northwest Region Programming Contest, Division 2",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.9242000579833984

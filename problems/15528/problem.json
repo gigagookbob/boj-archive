@@ -27,12 +27,7 @@
   "hint": "<p>Regarding the first example, the minimum time to complete only the first request is 4 seconds. All the two requests can be completed within 4 seconds too. See the below figure.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:245px; width:400px\"/></p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2017",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "lazyprop", "segtree"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

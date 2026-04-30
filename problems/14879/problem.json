@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "lis",
-    "maximum_subarray"
-  ],
+  "tags": ["dp", "bruteforcing", "lis", "maximum_subarray"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 12.25

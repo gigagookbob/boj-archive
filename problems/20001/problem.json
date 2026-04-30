@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제4회 생각하는 프로그래밍 대회, siontama, jh05013",
   "level": 4,
-  "tags": [
-    "implementation",
-    "utf8"
-  ],
+  "tags": ["implementation", "utf8"],
   "accepted_user_count": 1701,
   "submission_count": null,
   "average_tries": 1.5720000267028809

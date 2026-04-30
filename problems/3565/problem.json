@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2008, baekjoon",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation",
-    "dp"
-  ],
+  "tags": ["math", "implementation", "dp"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.5999999046325684

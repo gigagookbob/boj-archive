@@ -15,9 +15,7 @@
   "hint": null,
   "source": "kyt9412",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 5567,
   "submission_count": null,
   "average_tries": 2.5271999835968018

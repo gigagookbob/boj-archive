@@ -23,9 +23,7 @@
   "hint": "<!--<p><iframe seamless=\"\" src=\"1.png\" style=\"border: 0; width: 100%; height: 120px;\">This Too Will Pass by Day Of Mourning</iframe></p>-->\n<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"2.png\" width=\"560\"></iframe></p>",
   "source": "baekjoon, thak00",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 7899,
   "submission_count": null,
   "average_tries": 2.4779999256134033

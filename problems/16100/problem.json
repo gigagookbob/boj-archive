@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2017 ACM South Pacific Programming Contest",
   "level": 14,
-  "tags": [
-    "greedy",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "prefix_sum", "two_pointer"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7726999521255493

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2005: Summer on the Beach",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.2726999521255493

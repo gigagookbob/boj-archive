@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2023 송년대회, benedict0724, gunwookim, kclee2172, leinad2, mjhmjh1104",
   "level": 16,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "case_work",
-    "game_theory"
-  ],
+  "tags": ["greedy", "ad_hoc", "case_work", "game_theory"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.2978999614715576

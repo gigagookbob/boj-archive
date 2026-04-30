@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2015/2016",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.15939998626709

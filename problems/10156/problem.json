@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2014, 초등부, adream, baekjoon",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 21657,
   "submission_count": null,
   "average_tries": 1.5748000144958496

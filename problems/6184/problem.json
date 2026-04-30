@@ -15,10 +15,7 @@
   "hint": "<p>There are three cows with one lane to drive on, a speed decrease of 1, and a minimum speed limit of 5.</p>\n<p>Two cows are possible, by putting either cow with speed 5 first and the cow with speed 7 second.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO US Open 2008 Contest, Silver",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.4773000478744507

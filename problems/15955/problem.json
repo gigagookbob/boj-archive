@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, 카카오 코드 페스티벌, 카카오 코드 페스티벌 2018 예선",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "sorting", "disjoint_set", "offline_queries"],
   "accepted_user_count": 281,
   "submission_count": null,
   "average_tries": 3.6405999660491943

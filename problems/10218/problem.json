@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li>1번 케이스의 경우 UR은 불가능하다. 최초 공의 위치가 네 번째 줄 중앙에 있을 수도 있기 때문이다.</li>\n<li>2번 케이스의 경우 10번 이내로 빼낼 수 있는 방법은 존재하지 않는다.</li>\n<li>3번 케이스의 경우 어떤 방향으로 기울여도 빼낼 수 있는 방법은 존재하지 않는다.</li>\n</ul>",
   "source": "Contest, Coder's High, Coder's High 2014, kcm1700",
   "level": 16,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 247,
   "submission_count": null,
   "average_tries": 3.060699939727783

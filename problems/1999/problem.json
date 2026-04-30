@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO March 2003 Contest, Green",
   "level": 12,
-  "tags": [
-    "dp",
-    "data_structures",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "data_structures", "bruteforcing"],
   "accepted_user_count": 293,
   "submission_count": null,
   "average_tries": 2.0443999767303467

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "pjshwa, amsminn, bnb2011, heeda0528, lms0806, swoon, tony9402",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "lucas"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "lucas"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 2.61899995803833

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ZZangZZang, alex9801, paldad, rhdqor213",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 23138,
   "submission_count": null,
   "average_tries": 3.74180006980896

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2018 Sogang Programming Contest, Master, semteo04",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 5210,
   "submission_count": null,
   "average_tries": 2.3036000728607178

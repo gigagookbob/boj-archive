@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 03., pyb1031, chogahui05, cologne, jthis, lky7674, tony9402, utilforever",
   "level": 20,
-  "tags": [
-    "graphs",
-    "greedy",
-    "mst"
-  ],
+  "tags": ["graphs", "greedy", "mst"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.25

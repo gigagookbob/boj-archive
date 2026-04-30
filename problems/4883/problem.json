@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2010 Arab Collegiate Programming Contest, baekjoon, pathfinder",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 2914,
   "submission_count": null,
   "average_tries": 3.7248001098632812

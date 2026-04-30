@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "prime_factorization"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 2.5952000617980957

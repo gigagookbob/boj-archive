@@ -31,10 +31,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:127px; width:651px\"/></p>\n<p style=\"text-align:center\">Figure A2. Illustration of Sample Input 1</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2017",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 1.067199945449829

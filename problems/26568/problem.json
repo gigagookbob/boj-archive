@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2019, Advanced",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.8399999141693115

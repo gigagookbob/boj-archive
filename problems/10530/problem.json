@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2014",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.5788999795913696

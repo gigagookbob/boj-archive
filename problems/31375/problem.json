@@ -15,11 +15,7 @@
   "hint": "<p>You do not need to minimize the number of edges.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 13: Grand Prix of Three Capitals",
   "level": 13,
-  "tags": [
-    "bipartite_graph",
-    "constructive",
-    "graphs"
-  ],
+  "tags": ["bipartite_graph", "constructive", "graphs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.4285999536514282

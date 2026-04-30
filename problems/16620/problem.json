@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2018 ACM South Pacific Programming Contest",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "bruteforcing",
-    "combinatorics",
-    "precomputation"
-  ],
+  "tags": ["math", "dp", "bruteforcing", "combinatorics", "precomputation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.5332999229431152

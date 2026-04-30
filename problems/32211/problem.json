@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 08., cologne, chogahui05, pjshwa, utilforever",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["ad_hoc", "permutation_cycle_decomposition"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.4544999599456787

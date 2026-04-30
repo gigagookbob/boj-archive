@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2016",
   "level": 5,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "geometry", "arithmetic"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 1.5448999404907227

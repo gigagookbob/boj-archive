@@ -19,10 +19,7 @@
   "hint": "<p>1번 예제는 2022년 카타르 월드컵 조별예선을 바탕으로 만들어졌다.</p>",
   "source": "dhyang24, eric00513, hjroh0315, kiwiyou, lms0806, martinok1103, mingyu331, tony9402",
   "level": 11,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.4286000728607178

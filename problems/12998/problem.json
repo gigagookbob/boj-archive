@@ -23,11 +23,7 @@
   "hint": "<p>입력 1은 {1,2}, {0,3}의 2가지 경우가 있다.</p>\n<p>입력 2는 {2,2}의 1가지 경우가 있다.</p>\n<p>입력 3은 {1,2,2}, {0,3,2}, {1,3,1}의 3가지 경우가 있다.</p>",
   "source": null,
   "level": 18,
-  "tags": [
-    "math",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.399999976158142

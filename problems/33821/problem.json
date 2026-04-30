@@ -15,9 +15,7 @@
   "hint": "<p>Pierwszego dnia Bajtosia w trakcie wyliczanki mogła wskazywać kolejno przedmioty $2$, $1$, $2$, $3$, $2$.</p>\n<p>Trzeciego dnia użyła krótkiej wyliczanki i zaczęła bawić się pierwszą wskazaną zabawką.</p>\n<p>Natomiast piątego mogła wskazać kolejno przedmioty $1$, $2$, $3$, $4$, $3$, $2$, $1$, $2$, $1$.</p>\n<p>Dla żadnego z pozostałych dni nie istnieje odpowiednia wyliczanka.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2025",
   "level": 16,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

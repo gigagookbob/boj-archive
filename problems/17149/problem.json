@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2019, Croatian Olympiad in Informatics 2019",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.3055999279022217

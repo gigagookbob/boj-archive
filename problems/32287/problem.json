@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 프로그래밍 챌린지, 제2회 선린 프로그래밍 챌린지, bsh071230, kaorin, myyh1234, tyoungs, utilforever",
   "level": 14,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3

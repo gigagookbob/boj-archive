@@ -19,13 +19,7 @@
   "hint": null,
   "source": "hibye1217, mujigae, pyb1031, utilforever",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "sweeping",
-    "deque"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "sweeping", "deque"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.1666998863220215

@@ -15,11 +15,7 @@
   "hint": "<p>For the first sample, one firefly could cover all the units.</p>\n<p>For the second sample, one possible best way is that each firefly covers all the units with the same second coordinate, which involves three fireflies.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 2: Jingzhe Tang Contest",
   "level": 25,
-  "tags": [
-    "combinatorics",
-    "math",
-    "mitm"
-  ],
+  "tags": ["combinatorics", "math", "mitm"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

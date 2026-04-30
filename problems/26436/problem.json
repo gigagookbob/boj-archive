@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round H",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 3.0999999046325684

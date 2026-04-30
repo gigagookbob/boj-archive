@@ -19,12 +19,7 @@
   "hint": "<p>두 입력 예 모두에 대한 그림이다.\r\n</p>\r\n<p><img alt=\"\" src=\"1.png\" style=\"height:214px; width:416px\" /></p>\r\n\r\n<p>입력 예 1에 대한 가능한 해답이다. 분홍색 부분이 다리이다.\r\n</p>\r\n\r\n\r\n<p><img alt=\"\" src=\"2.png\" style=\"height:210px; width:410px\" /></p>\r\n\r\n<p>입력 예 2에 대한 가능한 해답이다.\r\n</p>\r\n\r\n\r\n<p><img alt=\"\" src=\"3.png\" style=\"height:216px; width:410px\" /></p>",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2015",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.620300054550171

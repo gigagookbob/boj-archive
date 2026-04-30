@@ -19,12 +19,7 @@
   "hint": "<p><strong>아래에서 설명하는 예시는 예제 입출력의 상황과 다름에 주의한다.</strong></p>\n<p>$N = 4$인 경우 플레이어가 첫 턴에서 더미 카드가 아닌, 정수가 적힌 카드를 선택한 턴의 예시는 아래와 같다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" width=\"600\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" width=\"600\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" width=\"600\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" width=\"600\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\" width=\"600\"/></p>\n<p>만약 딜러의 패에서 더미 카드를 가져오거나 플레이어가 더미 카드를 딜러에게 준 경우, 아래 예시와 같이 더미 카드를 받은 쪽에서는 카드 쌍이 만들어지지 않으므로 아무 일도 일어나지 않는다.</p>\n<p>아래 예시는 $N = 4$일 때 플레이어가 첫 턴에 더미 카드를 딜러에게 받고 받은 더미 카드를 다시 딜러에게 돌려주는 예시이다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"6.png\" width=\"600\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"7.png\" width=\"600\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"8.png\" width=\"600\"/></p>",
   "source": "University, 인하대학교, 2024 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2024 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, aym506, 39dll, chlwnsgud7, dabbler1, dongggle, gumgood, jinhan814, jinik9903, lky7674, ths101, wjdclgns12, yooshnn",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "sorting", "simulation"],
   "accepted_user_count": 269,
   "submission_count": null,
   "average_tries": 2.3234000205993652

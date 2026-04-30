@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2008",
   "level": 17,
-  "tags": [
-    "dp",
-    "lcs"
-  ],
+  "tags": ["dp", "lcs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4

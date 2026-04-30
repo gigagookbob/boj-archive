@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2004 Day 1",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.199999809265137

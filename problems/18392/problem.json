@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Afghanistan, ICPC Asia Kabul Regional Contest 2019",
   "level": 8,
-  "tags": [
-    "implementation",
-    "parsing",
-    "sorting",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "sorting", "string"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.32260000705719

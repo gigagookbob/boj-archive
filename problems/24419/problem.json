@@ -19,11 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, chansol, jhnah917, jinhan814, jthis, sait2000, tony9402",
   "level": 9,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 401,
   "submission_count": null,
   "average_tries": 1.8029999732971191

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, AMER Semifinal",
   "level": 13,
-  "tags": [
-    "dp",
-    "greedy",
-    "implementation",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "greedy", "implementation", "math", "probability"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.3333001136779785

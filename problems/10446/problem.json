@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2014",
   "level": 27,
-  "tags": [
-    "math",
-    "graphs"
-  ],
+  "tags": ["math", "graphs"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.9655001163482666

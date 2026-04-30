@@ -15,11 +15,7 @@
   "hint": "<p>예제 입력의 2번째 테스트 케이스는 빈 줄 입니다.</p>\r\n",
   "source": "ICPC, Regionals, North America, Greater New York Region, 2007 Greater New York Programming Contest, baekjoon, Nada, hyakintoss",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "trees",
-    "stack"
-  ],
+  "tags": ["data_structures", "trees", "stack"],
   "accepted_user_count": 505,
   "submission_count": null,
   "average_tries": 2.0732998847961426

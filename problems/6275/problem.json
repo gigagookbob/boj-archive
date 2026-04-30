@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Shanghai, Shanghai Regional Contest 2004",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "tsp"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.200000047683716

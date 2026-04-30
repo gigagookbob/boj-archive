@@ -15,11 +15,7 @@
   "hint": "<p>The first cow pats the second and third cows; the second cows pats no cows; etc.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO December 2008 Contest, Silver",
   "level": 9,
-  "tags": [
-    "implementation",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["implementation", "math", "number_theory"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.4129999876022339

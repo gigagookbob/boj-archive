@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2010",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "coordinate_compression"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.9677000045776367

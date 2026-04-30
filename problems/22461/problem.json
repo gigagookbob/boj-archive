@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2012 Day 2",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.1332999467849731

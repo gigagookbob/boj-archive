@@ -23,13 +23,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2018_01, james248, bupjae, doju, jung2381187",
   "level": 19,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "parsing",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "string", "parsing", "stack"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 5.481900215148926

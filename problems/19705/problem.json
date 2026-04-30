@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2017",
   "level": 20,
-  "tags": [
-    "graphs",
-    "trees",
-    "mst",
-    "lca",
-    "hld"
-  ],
+  "tags": ["graphs", "trees", "mst", "lca", "hld"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.666700005531311

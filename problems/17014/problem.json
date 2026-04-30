@@ -15,12 +15,7 @@
   "hint": "<p>You may have heard about Goldbach’s conjecture, which states that every even integer greater than 2 can be expressed as the sum of two prime numbers. There is no known proof, yet, so if you want to be famous, prove that conjecture (after you finish the CCC).</p>\n<p>This problem can be used to help verify that conjecture, since every even integer can be written as 2N, and your task is to find two primes A and B such that 2N=A+B.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCC 2019 Senior Division",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.0213000774383545

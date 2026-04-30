@@ -19,9 +19,7 @@
   "hint": "<p>어떤 그래프 $G=(V,E)$와 어떤 정점 집합 $A \\subseteq V$에 대해, <strong>$A$에 의해 유도된 부분 그래프</strong>는 $A$에 포함된 정점과 양쪽 끝점이 모두 $A$에 해당하는 간선 전부로 이루어진 부분 그래프로 정의됩니다.</p>\r\n\r\n<p><strong>연결된 지배 집합</strong>에 대한 정의를 이해하기 어려운 경우 <a href=\"https://en.wikipedia.org/wiki/Connected_dominating_set\">영어 위키백과의 &quot;Connected dominating set&quot; 문서</a>를 참고할 수 있습니다.</p>\r\n",
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division, hjroh0315, dhyang24, eggx50000, naeby, utilforever",
   "level": 13,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.1231000423431396

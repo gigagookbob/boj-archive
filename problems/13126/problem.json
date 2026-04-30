@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 2: Nexon Arena, koosaga",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.111100196838379

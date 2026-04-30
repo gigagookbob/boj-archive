@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, October 20, 2012, Basic",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

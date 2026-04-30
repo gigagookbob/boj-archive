@@ -19,12 +19,7 @@
   "hint": null,
   "source": "koosaga, taesick",
   "level": 30,
-  "tags": [
-    "data_structures",
-    "trees",
-    "link_cut_tree",
-    "top_tree"
-  ],
+  "tags": ["data_structures", "trees", "link_cut_tree", "top_tree"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 9

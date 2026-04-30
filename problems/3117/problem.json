@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #2 - Seniors, baekjoon",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "sparse_table"],
   "accepted_user_count": 676,
   "submission_count": null,
   "average_tries": 1.8121000528335571

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2009 in Tokyo",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.2105000019073486

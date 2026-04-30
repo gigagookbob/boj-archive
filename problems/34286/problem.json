@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2025",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.2381000518798828

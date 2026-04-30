@@ -15,11 +15,7 @@
   "hint": "<p>As presented, this encryption scheme is only trivially secure. In fact it offers no security at all if the algorithm is known to the attacker. The key is the string of numbers needed to decide where the pauses should be inserted to recover the message, but with the method shown here, this information is encoded in and easily recovered from the encrypted data. Even should some other method be chosen to scramble the length information in the encoding, secrecy of the algorithm is the real key in this technique. Modifications of Ohaver’s technique do exist in which the security is not based on the secrecy of the algorithm.</p>",
   "source": "ICPC, Regionals, North America, Greater New York Region, 2001 Greater New York Programming Contest, portableangel",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "simulation"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.3011000156402588

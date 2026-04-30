@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 11., nflight11, chogahui05, cologne, kiwiyou, tony9402, utilforever",
   "level": 17,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.7143000364303589

@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2011, baekjoon, doju",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 3387,
   "submission_count": null,
   "average_tries": 2.150899887084961

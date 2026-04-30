@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2025-2026 Northwestern Russia Qualification",
   "level": 12,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

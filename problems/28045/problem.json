@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 21,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "bipartite_matching"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "bipartite_matching"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.7999999523162842

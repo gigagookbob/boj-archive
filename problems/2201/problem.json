@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2005",
   "level": 14,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 639,
   "submission_count": null,
   "average_tries": 1.9296000003814697

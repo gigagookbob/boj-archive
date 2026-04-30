@@ -31,12 +31,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 768px; height: 345px;\"/></p>\n<p style=\"text-align: center;\">Figure A.2: Illustration of Sample Input 2, showing all possible end configurations of the game when Peter went first and played optimally to win. The blue blocks are the initial configuration. Peter needs to put one of <code>circle 1</code>, <code>square 2</code> or <code>triangle 3</code> on top of <code>circle 2</code> in order to win. Each of these options corresponds to one row of the figure. Blocks placed by Peter are coloured in red, and blocks placed by Amy are coloured in yellow. As the last two blocks are always of type <code>triangle 1</code>, they are shown in grey. If, for instance, Peter first puts <code>circle 1</code> (as depicted in the first row), then Peter can win by mirroring the following moves by Amy.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2023",
   "level": 23,
-  "tags": [
-    "geometry",
-    "parametric_search",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["geometry", "parametric_search", "game_theory", "sprague_grundy"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 6.230800151824951

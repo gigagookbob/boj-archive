@@ -15,9 +15,7 @@
   "hint": "<p>Here is the decision tree for the first testcase:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 728px; height: 414px;\"/></p>\n<p>Each edge means either changing one digit or comparing x with the number currently on the display. In the leaves of the tree Flaaffy is already sure what the hidden number is.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 5: Radewoosh + mnbvmar Contest, Contest, Open Cup, 2019/2020 Season, Stage 2: Grand Prix of Warsaw",
   "level": 26,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

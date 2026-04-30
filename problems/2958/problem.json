@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #3, baekjoon, jchyeon0814",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "dag"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra", "dag"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 3.803299903869629

@@ -27,9 +27,7 @@
   "hint": "<p>예제 입력 1에서 비트 문자열 &quot;100101&quot;은 연속 코드가 &quot;1 3 2&quot;인 비트 문자열로 재배열되어야 한다. 즉, &quot;100011&quot;이나 &quot;011100&quot; 둘 중 한 가지 문자열로 재배열되어야 하는 것이다. &quot;011100&quot;으로 문자열을 바꾸기 위해서는 4번의 연산이 필요하지만 &quot;100011&quot;로 바꾸기 위해서는 1번의 연산이면 충분하다. 따라서 이 경우에는 1이 답이다.</p>\r\n",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2014 in Tokyo, junie, baemin0103, YunGoon",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 206,
   "submission_count": null,
   "average_tries": 1.4611999988555908

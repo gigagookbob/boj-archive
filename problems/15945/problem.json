@@ -15,10 +15,7 @@
   "hint": "<p>A<sub>1</sub> += A<sub>2</sub> 를 수행하면 [3, 2, 3]이 되어 최댓값 - 최솟값이 1이 된다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2018, ainta, bluehyena123",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 2.774600028991699

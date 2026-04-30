@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, paranocean, thinksong1",
   "level": 20,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 458,
   "submission_count": null,
   "average_tries": 9.05679988861084

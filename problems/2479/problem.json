@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2010, 초등부, coke",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "traceback"],
   "accepted_user_count": 1282,
   "submission_count": null,
   "average_tries": 2.464900016784668

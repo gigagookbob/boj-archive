@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 곰곰컵, 제2회 곰곰컵, r4pidstart, bnb2011, chogahui05, jthis, jyheo98, lms0806, pichulia, pjshwa, tony9402",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 219,
   "submission_count": null,
   "average_tries": 2.1735000610351562

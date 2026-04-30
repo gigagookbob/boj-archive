@@ -15,9 +15,7 @@
   "hint": null,
   "source": "School, University of Maryland High School Programming Contest, HSPC 2014 연습 세션",
   "level": 2,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 548,
   "submission_count": null,
   "average_tries": 1.222599983215332

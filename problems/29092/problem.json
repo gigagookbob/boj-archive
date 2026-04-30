@@ -23,12 +23,7 @@
   "hint": "<p>В первом примере Колобку выгодно, например, увеличить первый элемент массива на 3, сделав его равным 7.</p>\n<p>Тогда $h=[7, 2, 6]$, $G[1] = 0$, $G[2] = 1$ и $G[3] = 1$, сумма $S(h) = (1 - 0) + (2 - 1) + (3 - 1) = 1 + 1 + 2 = 4$. Добиться значения $S(h) &lt; 4$ невозможно.</p>\n<p>Во втором примере $m = 2$ и увеличить первый элемент так сильно не получится. После любого действия Колобка $S(h)$ будет равно 5 или 6, пример действия, которое приводит к значению 5  --- увеличить первый элемент на 1, получив массив $[5, 2, 6]$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, March 27, 2016",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sparse_table",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "sparse_table", "stack"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

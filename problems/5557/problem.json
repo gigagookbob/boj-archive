@@ -19,9 +19,7 @@
   "hint": "<p>예제 1의 경우 다음과 같이 10가지 방법이 있다.</p>\r\n\r\n<ul>\r\n\t<li>8+3-2-4+8-7-2-4-0+8=8</li>\r\n\t<li>8+3-2-4+8-7-2-4+0+8=8</li>\r\n\t<li>8+3+2+4-8-7+2-4-0+8=8</li>\r\n\t<li>8+3+2+4-8-7+2-4+0+8=8</li>\r\n\t<li>8+3+2-4+8-7+2+4-0-8=8</li>\r\n\t<li>8+3+2-4+8-7+2+4+0-8=8</li>\r\n\t<li>8-3+2+4-8+7+2+4-0-8=8</li>\r\n\t<li>8-3+2+4-8+7+2+4+0-8=8</li>\r\n\t<li>8-3+2-4+8+7+2-4-0-8=8</li>\r\n\t<li>8-3+2-4+8+7+2-4+0-8=8</li>\r\n</ul>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2010/2011 예선, baekjoon, rim, eovh1962, mwy3055",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 9116,
   "submission_count": null,
   "average_tries": 2.03629994392395

@@ -19,13 +19,7 @@
   "hint": "<p>1번 예제에서는 4 0 0 1 2, 96 98 94 97 94 등도 답이 될 수 있다. 2번 예제를 만족하는 해는 없음을 쉽게 알 수 있으므로 -1을 출력한다.</p>",
   "source": "School, 대구과학고등학교, 2017 대곽 Codejam 정보경시대회, tlwpdus, jh05013",
   "level": 18,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "prefix_sum",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "prefix_sum", "dfs"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.8213999271392822

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 2, Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 3, rkdtkdtn0706, ahgus89, cgiosy, chunghan, jhnah917, jinhan814, kyo20111, Lawali, runnie0427, tony9402",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation", "backtracking"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 5.276299953460693

@@ -19,13 +19,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:150px; width:158px\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2017, Contest, Open Cup, 2017/2018 Season, Stage 8: Grand Prix of Europe",
   "level": 20,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "math",
-    "probability",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "math", "probability", "shortest_path"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.3213999271392822

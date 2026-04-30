@@ -15,11 +15,7 @@
   "hint": "<p>Пояснение к примеру: зелёным цветом выделена область, отражение которой видно в зеркале, для каждой из четырёх сторон; пунктиром --- отрезки от рабочего места Стэна до границ зеркала.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 681px; height: 180px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 15, 2016, Advanced",
   "level": 24,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "geometry", "prefix_sum"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

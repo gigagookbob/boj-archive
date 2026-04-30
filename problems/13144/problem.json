@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016, functionx, tncks0121",
   "level": 12,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 4191,
   "submission_count": null,
   "average_tries": 2.8036000728607178

@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample, Luna could start by swapping the third and the fourth friend. After this swap the line looks as follows: 3 1 1 2 2 3.</p>\n<p>Then, she can send the couple with number 1 and the couple with number 2 on a date (in any order). Once she does so, the two friends with number 3 are now adjacent in line and Luna can send them on a date, too.</p>\n<p>Overall this solution takes 4 actions: one swap and three dates.</p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2021, Day 1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.871000051498413

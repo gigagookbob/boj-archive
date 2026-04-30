@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2020, Contest, Open Cup, 2020/2021 Season, Stage 17: Grand Prix of Southern Europe",
   "level": 11,
-  "tags": [
-    "dag",
-    "graphs",
-    "greedy",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "greedy", "topological_sorting"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.3799999952316284

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 1,
-  "tags": [
-    "implementation",
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["implementation", "arithmetic", "math"],
   "accepted_user_count": 159018,
   "submission_count": null,
   "average_tries": 2.022599935531616

@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2017 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, South Central USA Regional, 2017 South Central USA Regional Programming Contest",
   "level": 13,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2173999547958374

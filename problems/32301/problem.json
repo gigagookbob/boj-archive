@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2024 Goricon, hamuim, dohoon, hyperbolic, skeep194",
   "level": 17,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.697700023651123

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, SCCC 2016 Summer Contest, hyo123bin, palilo",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "divide_and_conquer",
-    "stack"
-  ],
+  "tags": ["data_structures", "segtree", "divide_and_conquer", "stack"],
   "accepted_user_count": 1182,
   "submission_count": null,
   "average_tries": 1.7064000368118286

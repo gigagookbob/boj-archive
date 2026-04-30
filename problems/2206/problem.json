@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ntopia, djm03178, jh05013, Picasso, rich1055, sait2000, tetepiti149, YunGoon",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 32946,
   "submission_count": null,
   "average_tries": 3.9918999671936035

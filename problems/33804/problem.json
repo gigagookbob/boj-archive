@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2025 KAIST RUN Spring Contest, bubbler, ainta, gs22123, koosaga, leinad2, moonrabbit2, silverwolf, urd05",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.7777999639511108

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #3, Division 2, havana723, solvedac, cologne, cozyyg, gs18115, seonah, shiftpsh",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 20048,
   "submission_count": null,
   "average_tries": 1.8666000366210938

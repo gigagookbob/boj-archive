@@ -59,11 +59,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 13: Grand Prix of Bytedance",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "segtree"
-  ],
+  "tags": ["data_structures", "ad_hoc", "segtree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

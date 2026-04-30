@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, eric00513",
   "level": 15,
-  "tags": [
-    "greedy",
-    "string",
-    "sorting",
-    "game_theory"
-  ],
+  "tags": ["greedy", "string", "sorting", "game_theory"],
   "accepted_user_count": 292,
   "submission_count": null,
   "average_tries": 5.383600234985352

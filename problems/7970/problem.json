@@ -15,11 +15,7 @@
   "hint": "<p>There is a double-row of 18 soldiers in the figure. Arrows indicate the swaps that rearrange the soldiers in a proper way.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.gif\" style=\"height:80px; width:325px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2004/2005, Stage 3",
   "level": 13,
-  "tags": [
-    "graphs",
-    "greedy",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "greedy", "bipartite_graph"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.90910005569458

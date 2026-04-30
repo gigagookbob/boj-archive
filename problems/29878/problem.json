@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2021-22, Final Round",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2

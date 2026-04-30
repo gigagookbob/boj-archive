@@ -19,9 +19,7 @@
   "hint": "<p>Sample 1: There are infinitely many strings which can be balanced by only one swap. Dave’s string is the shortest of them</p>\n<p>Sample 2: String “))(()(” can be balanced by 4 swaps, but the output should be “)())((” because it is the minimum in lexicographic order.</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2016",
   "level": 12,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.649999976158142

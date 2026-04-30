@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 가을맞이 알고리즘 챌린지, Beginner Division, amsminn, hibye1217, jhnah917, quickn, tony9402",
   "level": 12,
-  "tags": [
-    "graphs",
-    "greedy",
-    "set"
-  ],
+  "tags": ["graphs", "greedy", "set"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 2.509200096130371

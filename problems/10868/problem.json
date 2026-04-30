@@ -15,11 +15,7 @@
   "hint": null,
   "source": "kyaryunha_cpp",
   "level": 15,
-  "tags": [
-    "segtree",
-    "sparse_table",
-    "data_structures"
-  ],
+  "tags": ["segtree", "sparse_table", "data_structures"],
   "accepted_user_count": 9419,
   "submission_count": null,
   "average_tries": 1.7857999801635742

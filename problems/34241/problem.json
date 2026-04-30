@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2025, Day 2",
   "level": 24,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

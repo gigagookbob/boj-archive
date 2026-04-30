@@ -27,9 +27,7 @@
   "hint": "<p>jwpassion1은 실제로 교통카드를 환불하고 받은 $490$원을 가지고있다.</p>",
   "source": "University, 경희대학교, 경희대학교 2025 봄 프로그래밍 경시대회 (KHSPC 2025), jwpassion1, kcits970, minjunnick, nflight11, overnap, qvixnh22, tlsdydaud1, tony9402, yyyy7089",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 162,
   "submission_count": null,
   "average_tries": 2.3085999488830566

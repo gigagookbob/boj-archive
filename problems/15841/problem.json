@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, Malaysia National Programming Contest, Al-Khawarizmi National Programming Contest 2018",
   "level": 5,
-  "tags": [
-    "math",
-    "dp",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "dp", "arbitrary_precision"],
   "accepted_user_count": 780,
   "submission_count": null,
   "average_tries": 2.2808001041412354

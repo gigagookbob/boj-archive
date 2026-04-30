@@ -27,9 +27,7 @@
   "hint": null,
   "source": "baekjoon, blast",
   "level": 10,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 1912,
   "submission_count": null,
   "average_tries": 2.3206000328063965

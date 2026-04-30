@@ -19,12 +19,7 @@
   "hint": "<p>In the first sample test $P(x)^3 = 1 + 3x + 3x^2 + x^3$, having all 4 coefficients odd.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 8: Grand Prix of Dolgoprudny",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["math", "dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 8.58329963684082

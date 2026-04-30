@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2002, 초등부, wkd48632, erin207, siklee",
   "level": 8,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 2982,
   "submission_count": null,
   "average_tries": 2.6833999156951904

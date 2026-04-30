@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Round 1C",
   "level": 6,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.0285999774932861

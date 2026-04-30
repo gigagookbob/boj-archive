@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2013, Group D",
   "level": 5,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.1791000366210938

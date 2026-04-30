@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2006",
   "level": 22,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.101699948310852

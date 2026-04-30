@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2001",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.0369999408721924

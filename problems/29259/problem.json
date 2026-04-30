@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 OVA ~한여름의 수학여행 편~, bubbler, hyperbolic, index, sait2000, sprout_429",
   "level": 21,
-  "tags": [
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["geometry", "constructive"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.0434999465942383

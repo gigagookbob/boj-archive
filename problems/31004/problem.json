@@ -19,9 +19,7 @@
   "hint": "<p>언어별로 표준 출력 버퍼를 비우는 방법은 다음과 같다. 이외의 언어는 각 언어의 레퍼런스 페이지를 참고하여라.</p>\n<ul>\n<li>C: <code>fflush(stdout);</code></li>\n<li>C++: <code>std::cout &lt;&lt; std::flush;</code></li>\n<li>Java: <code>System.out.flush();</code></li>\n<li>Python: <code>sys.stdout.flush()</code></li>\n</ul>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 12., rustiebeats, bnb2011, chogahui05, cologne, djs100201, heeda0528, hibye1217, kiwiyou, pjshwa, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 122,
   "submission_count": null,
   "average_tries": 2.1638998985290527

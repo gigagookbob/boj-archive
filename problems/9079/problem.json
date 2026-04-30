@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2004",
   "level": 10,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 862,
   "submission_count": null,
   "average_tries": 1.4767999649047852

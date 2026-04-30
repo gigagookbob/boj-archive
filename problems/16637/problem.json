@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon, rlgns9999",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 8650,
   "submission_count": null,
   "average_tries": 2.269200086593628

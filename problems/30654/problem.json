@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ibm2006, mingyu331, sait2000, wider93",
   "level": 21,
-  "tags": [
-    "math",
-    "graphs",
-    "number_theory",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["math", "graphs", "number_theory", "shortest_path", "dijkstra"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 6.407400131225586

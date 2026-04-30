@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 9: Carnegie Mellon U Contest",
   "level": 20,
-  "tags": [
-    "gaussian_elimination",
-    "linear_algebra",
-    "math",
-    "probability"
-  ],
+  "tags": ["gaussian_elimination", "linear_algebra", "math", "probability"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.8696000576019287

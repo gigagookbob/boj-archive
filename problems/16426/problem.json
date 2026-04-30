@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2018 Southeast USA Regional Programming Contest, Division 2",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 1.2288000583648682

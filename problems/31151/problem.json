@@ -23,10 +23,7 @@
   "hint": "<p>Let's look at the first sample. We can cast the \"Poison\" spell at most once. Let's look at what will happen if we cast this spell during the first round.</p>\n<ul>\n<li>During the first round, we apply a \"Poison\" spell, so at the end of this round there will be $0$ regeneration stacks, and $1$ poison stack. Therefore, the $hp$ will decrease by $X + P\\cdot 1 - R\\cdot 0 = 1011$ this round.</li>\n<li>At the beginning of the second round, the boss will cast the \"Regeneration\" spell, so there will be $1$ regeneration stack and $1$ poison stack at the end of the second round. So, the $hp$ will decrease by $X + P\\cdot 1 - R\\cdot 1 = 1010$ this round. Overall, the health of the boss decreased by $1011 + 1010 = 2021$.</li>\n</ul>\n<p>Now let's look at what will happen if we cast this spell during the second round.</p>\n<ul>\n<li>During the first round, no spells are applied, so at the end of this round there will be $0$ regeneration stacks, and $0$ poison stacks. Therefore, the $hp$ will decrease by $X + P\\cdot 0 - R\\cdot 0 = 1010$ this round.</li>\n<li>At the beginning of the second round, the boss will cast the \"Regeneration\" spell, so that there will be one regeneration stack after that. Then, we will we apply a \"Poison\" spell, decreasing the number of regeneration stacks by one. So, there will be $0$ regeneration stacks and $1$ poison stack at the end of the second round. Therefore, the $hp$ will decrease by $X + P\\cdot 1 - R\\cdot 0 = 1011$ this round. Overall, the health of the boss decreased by $1010 + 1011 = 2021$ again.</li>\n</ul>\n<p>So, no matter when we cast the \"Poison\" spell in this sample, we will still decrease the $hp$ by $2021$.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe, ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2021",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.666700005531311

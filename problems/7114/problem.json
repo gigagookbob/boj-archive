@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 11th Latvian olympiad in informatics, Stage II (District/City)",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.1379001140594482

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2012",
   "level": 0,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 3

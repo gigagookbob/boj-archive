@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 6: PKU Contest 2",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "case_work",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "case_work", "primality_test"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.016700029373169

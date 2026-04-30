@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, Lebanese Collegiate Programming Contest, LCPC 2011",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.7069000005722046

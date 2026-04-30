@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제5회 생각하는 프로그래밍 대회, siontama, jh05013, kohandy, kyo20111",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 530,
   "submission_count": null,
   "average_tries": 2.4075000286102295

@@ -23,11 +23,7 @@
   "hint": "<p>In the first sample, the string will undergo the following transformations:</p>\n<p><code>AAA</code> $\\to$ <code>ABB</code> $\\to$ <code>ABC</code>.</p>\n<p>In the second sample, the string already contains exactly one <code>A</code>, one <code>B</code> and one <code>C</code>.</p>\n<p>In the third sample, the string will undergo the following transformation:</p>\n<p><code>ABABCABAB</code> $\\to$ <code>CCABCABAB</code>. Now, it contains each letter $3$ times.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe, ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2021",
   "level": 17,
-  "tags": [
-    "constructive",
-    "case_work",
-    "two_pointer"
-  ],
+  "tags": ["constructive", "case_work", "two_pointer"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.759999990463257

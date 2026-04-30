@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2013/2014 Spring Training Camp",
   "level": 19,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "sorting"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "sorting"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.8461999893188477

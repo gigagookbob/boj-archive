@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO US Open 2006 Contest, Gold, Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO US Open 2006 Contest, Silver",
   "level": 12,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.9714000225067139

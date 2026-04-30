@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2025 ICPC Pacific Northwest Regional, Division 2",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.4544999599456787

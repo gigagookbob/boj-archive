@@ -15,13 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 410px; height: 210px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2007, Day 1",
   "level": 21,
-  "tags": [
-    "hashing",
-    "parsing",
-    "string",
-    "trees",
-    "tree_isomorphism"
-  ],
+  "tags": ["hashing", "parsing", "string", "trees", "tree_isomorphism"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.588200092315674

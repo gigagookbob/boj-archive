@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Summer 2023, Day 1: Starting Contest",
   "level": 17,
-  "tags": [
-    "implementation",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "sorting", "ad_hoc"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.819999933242798

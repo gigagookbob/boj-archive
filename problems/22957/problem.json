@@ -23,11 +23,7 @@
   "hint": "<p>$2^{63}-1$ 은 8byte 자료형으로 표현할 수 있다.</p>\n<p>하지만 예제 2 출력값인 $357335535573573353577573355337$ 은 8byte 자료형으로 표현할 수 없다.</p>",
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 중급, swoon, gumgood, gunwookim, kyo20111, lky7674, pichulia",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "dp_digit"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.228600025177002

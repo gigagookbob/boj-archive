@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2022 IamCoder Qualification Test, mjhmjh1104, arnold518, benedict0724, jk410, lisifu, songc",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "greedy", "ad_hoc"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 4.787899971008301

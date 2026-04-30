@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2012, Day 2, kalmiaa",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lca"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lca"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 4.814300060272217

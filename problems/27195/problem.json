@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2022",
   "level": 15,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

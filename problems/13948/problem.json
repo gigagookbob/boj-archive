@@ -15,9 +15,7 @@
   "hint": "<p>In the example above, the first 9 steps simply move all the disks, without reordering, to the rod in row 6, column 5 — immediately to the left of the target rod in the lower-right corner. In the following step, the stack of five disks from the top of the rod — (6, 5, 4, 3, 2) bottom to top — are moved to the target rod. Finally, disk 1 is moved to the target rod obtaining the target bottom-to-top order (6, 5, 4, 3, 2, 1).</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2016, Contest, Open Cup, 2016/2017 Season, Stage 8: Grand Prix of Europe",
   "level": 25,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.9048000574111938

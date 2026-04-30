@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2020",
   "level": 12,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "pythagoras"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "pythagoras"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.272700071334839

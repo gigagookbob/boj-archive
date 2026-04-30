@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2008 연습 세션",
   "level": 19,
-  "tags": [
-    "backtracking",
-    "case_work",
-    "math",
-    "number_theory",
-    "recursion"
-  ],
+  "tags": ["backtracking", "case_work", "math", "number_theory", "recursion"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

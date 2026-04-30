@@ -19,12 +19,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 4.275899887084961

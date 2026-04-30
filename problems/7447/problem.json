@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 1998, Contest, CTU FEE Local Contest, CTU FEE 2004",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.2222000360488892

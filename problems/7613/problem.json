@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, MIT, The MIT Programming Contest, 2008-09, MIT Programming Contest Individual Round 2008, qja0950",
   "level": 22,
-  "tags": [
-    "dp",
-    "sorting",
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["dp", "sorting", "geometry", "convex_hull"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7726999521255493

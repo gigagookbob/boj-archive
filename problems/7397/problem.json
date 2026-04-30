@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2003",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "number_theory", "arbitrary_precision"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.4838999509811401

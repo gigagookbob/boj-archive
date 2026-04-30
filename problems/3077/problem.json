@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2012/2013, Contest #3, baekjoon",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "set", "hash_set"],
   "accepted_user_count": 861,
   "submission_count": null,
   "average_tries": 1.784000039100647

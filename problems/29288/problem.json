@@ -23,11 +23,7 @@
   "hint": "<p>В случае, если вариантов ответа несколько, выведите лексикографически минимальную пару. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, March 22, 2014",
   "level": 9,
-  "tags": [
-    "math",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["math", "sorting", "prefix_sum"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.416700005531311

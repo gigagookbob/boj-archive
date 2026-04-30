@@ -15,12 +15,7 @@
   "hint": "<p>Alice picks a single card, the one with 3, which grants her three points. Bob takes both the remaining cards, for which he receives one point. The games ends with three to one score, hence Alice wins by two points.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 3",
   "level": 16,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "game_theory"
-  ],
+  "tags": ["dp", "greedy", "sorting", "game_theory"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.7625000476837158

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2016 Southeast USA Regional Programming Contest, Division 2, mystika",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 7918,
   "submission_count": null,
   "average_tries": 1.1617000102996826

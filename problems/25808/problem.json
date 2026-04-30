@@ -19,10 +19,7 @@
   "hint": "<p>Explanation of the First Sample Input/Output:</p>\n<p>This data set corresponds to the configuration illustrated in the above picture.</p>\n<p>There are 4 channels and 4 bots.</p>\n<p>Bot 1 is in Channel 1 and forwards messages to Channel 2.</p>\n<p>Bot 2 is in Channel 2 and forwards messages to Channels 3 and 4.</p>\n<p>Bot 3 is in Channel 3 and forwards messages to Channels 3 and 4.</p>\n<p>Bot 4 is in Channel 2 and forwards messages to Channel 2.</p>\n<p>Messages posted in Channel 1 will get to all the other channels. This is the only such channel.</p>",
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Final Round)",
   "level": 17,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.7691999673843384

@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample test case the gantry is of length 3, the first gantry crane has 2 operations in its task list while the second gantry crane has 4 operations in its task list. At least 6 time steps are necessary for both gantry cranes to finish their assigned tasks.</p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th>Time</th>\n<th>Gantry Crane 1</th>\n<th>Gantry Crane 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Operate at 1</td>\n<td>Operate at 3</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Operate at 1</td>\n<td>Operate at 3</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Idle at 1</td>\n<td>Move from 3 to 2</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Idle at 1</td>\n<td>Operate at 2</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Idle at 1</td>\n<td>Move from 2 to 3</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Idle at 1</td>\n<td>Operate at 3</td>\n</tr>\n</tbody>\n</table>\n<p>In the second sample test case the gantry is of length 4 and both gantry cranes have to perform 4 operations. At least 9 time steps are necessary for both gantry cranes to finish their assigned tasks.</p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th>Time</th>\n<th>Gantry Crane 1</th>\n<th>Gantry Crane 2</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Operate at 1</td>\n<td>Operate at 4</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Move from 1 to 2</td>\n<td>Move from 4 to 3</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Operate at 2</td>\n<td>Operate at 3</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Move from 2 to 3</td>\n<td>Move from 3 to 4</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Operate at 3</td>\n<td>Idle at 4</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Move from 3 to 2</td>\n<td>Move from 4 to 3</td>\n</tr>\n<tr>\n<td>7</td>\n<td>Move from 2 to 1&amp; Operate at 3</td>\n</tr>\n<tr>\n<td>8</td>\n<td>Operate at 1</td>\n<td>Move from 3 to 4</td>\n</tr>\n<tr>\n<td>9</td>\n<td>Idle at 1</td>\n<td>Operate at 4</td>\n</tr>\n</tbody>\n</table>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2020",
   "level": 20,
-  "tags": [
-    "dp",
-    "implementation"
-  ],
+  "tags": ["dp", "implementation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.75

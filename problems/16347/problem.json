@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2018",
   "level": 15,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "segtree",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "segtree", "linked_list"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.9375

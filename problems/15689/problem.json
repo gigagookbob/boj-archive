@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2018",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "probability"
-  ],
+  "tags": ["math", "dp", "graphs", "probability"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.7254999876022339

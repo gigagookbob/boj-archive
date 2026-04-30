@@ -23,13 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\">Image shows some possible solutions of sample test cases.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2022",
   "level": 16,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.7609000205993652

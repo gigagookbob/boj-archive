@@ -15,11 +15,7 @@
   "hint": "<p>The $8$ tractor intervals, in order, are $[1, 5], [2, 10], [3, 11], [4, 12], [6, 13], [7, 14], [8, 15], [9, 16]$.</p>\n<p>For the $4$th query, there are three shortest paths between the $1$st and $5$th tractor: $1$ to $2$ to $5$, $1$ to $3$ to $5$, and $1$ to $4$ to $5$. These shortest paths all have length $2$.</p>\n<p>Additionally, every tractor $1,2,3,4,5$ is part of one of the three shortest paths mentioned earlier, and since $1,2,4,5$ are special, there are $4$ special tractors such that there exists at least one shortest path from tractor $1$ to $5$ containing it.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Platinum",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "prefix_sum",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "prefix_sum", "sparse_table"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.2400000095367432

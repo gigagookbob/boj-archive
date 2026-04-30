@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2005",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "trees",
-    "stack",
-    "lca"
-  ],
+  "tags": ["data_structures", "graphs", "trees", "stack", "lca"],
   "accepted_user_count": 605,
   "submission_count": null,
   "average_tries": 2.8893001079559326

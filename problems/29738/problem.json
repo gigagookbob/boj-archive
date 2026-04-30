@@ -15,9 +15,7 @@
   "hint": "<p><strong>Round 1</strong>은 <strong>Round 1A</strong>, <strong>Round 1B</strong>, <strong>Round 1C</strong>로 이루어진 $3$개의 라운드 중 $1$개의 라운드에서 상위 $1\\,500$등 안에 들면 다음 라운드로 진출하는 방식이나 문제에서는 서술 편의상 $4\\,500$등으로 표현했다.</p>",
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, aig0016, eric00513, kiwiyou, ksoosung77, lms0806, nflight11, pill27211, pjshwa, r4pidstart, sedev57, starbow, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1758,
   "submission_count": null,
   "average_tries": 1.552899956703186

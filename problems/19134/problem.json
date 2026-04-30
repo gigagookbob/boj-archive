@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 3: Chinese Contest",
   "level": 17,
-  "tags": [
-    "math",
-    "greedy",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "greedy", "arbitrary_precision"],
   "accepted_user_count": 243,
   "submission_count": null,
   "average_tries": 2.3703999519348145

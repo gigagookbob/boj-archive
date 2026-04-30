@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2013 Rocky Mountain Regional Contest, lll4592, chogahui05",
   "level": 9,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 175,
   "submission_count": null,
   "average_tries": 2.9314000606536865

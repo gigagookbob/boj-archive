@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #3",
   "level": 8,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "parsing"
-  ],
+  "tags": ["string", "bruteforcing", "parsing"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.3125

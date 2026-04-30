@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, we move the 2 dogs to the end of the line.</p>\n<p>In the second test case, we move the last lion before the first dog</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2017",
   "level": 23,
-  "tags": [
-    "case_work",
-    "dp"
-  ],
+  "tags": ["case_work", "dp"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.3333001136779785

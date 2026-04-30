@@ -15,11 +15,7 @@
   "hint": "<p>For each of the non-<code>IMPOSSIBLE</code> cases, the sample output shows only one possible answer. There are many valid answers for these inputs.</p>\n<p>Note that only sample cases #1, #2, and #3 would appear in Small dataset 1. Any of the sample cases could appear in Small dataset 2.</p>",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2016, Code Jam to I/O for Women 2016",
   "level": 8,
-  "tags": [
-    "string",
-    "constructive",
-    "randomization"
-  ],
+  "tags": ["string", "constructive", "randomization"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.3518999814987183

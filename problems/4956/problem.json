@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:1191px; width:1016px\"/></p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2010 Japan Domestic Contest",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.0678000450134277

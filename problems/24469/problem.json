@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example: Since there is only one friend, his garage is already connected to itself, so there is no need for building any roads.</p>\n<p>Clarification of the third example: If roads are built between friends 1 and 2, 2 and 3, and between 3 and 4, everyone will be connected, and the total cost will be (7 + 3) + (3 + 3) + (3 + 5) = 24.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #4",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.3225998878479004

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2021 IGRUS Newbie Programming Contest, 39dll, Lawali, rhs0266, tony9402, wjdclgns12",
   "level": 15,
-  "tags": [
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["greedy", "binary_search"],
   "accepted_user_count": 170,
   "submission_count": null,
   "average_tries": 3.9470999240875244

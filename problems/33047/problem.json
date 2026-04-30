@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 마작컵, 마작컵 2024 - 우인전 3/4 님만 오면 ㄱ, havana723, shiftpsh, cologne, gs18115, moonrabbit2",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "prefix_sum", "sweeping"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.7454999685287476

@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 US Open Contest, Gold",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.3902000188827515

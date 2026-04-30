@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2022 Winter), tae826, chansol, cheetose, eaststar, gumgood, heeda0528, jh05013, jwvg0425, lky7674, pichulia",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 536,
   "submission_count": null,
   "average_tries": 1.5765000581741333

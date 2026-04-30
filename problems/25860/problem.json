@@ -19,10 +19,7 @@
   "hint": "<p>Sample Explanation: In the first sample case, Anya’s head is near the top of the bed 40 centimeters from the left end of the bed, but her body is veering completely to the right. Since there is only 110 cm to the right and Anya is 115 cm tall, 5 cm of her is off the bed. In the second sample case, Anya’s head is 40 cm below where her head was for the first sample case, but she’s sleeping in a diagonal in the direction of where the hour hand of a clock would be at 4:30. In this configuration, she has enough room to fit on the bed, since she can go up to 110 cm to the right and 150 cm down.</p>",
   "source": "University, University of Central Florida, 2019 Local Programming Contest",
   "level": 9,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.3529000282287598

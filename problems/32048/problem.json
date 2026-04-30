@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2024 Japan Domestic Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "case_work"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "bfs", "case_work"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 1.1953999996185303

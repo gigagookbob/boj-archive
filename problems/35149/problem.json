@@ -35,10 +35,7 @@
   "hint": "<p>이 게임은 고려대학교의 한 응애가 만들었다. 기획, 디자인, 개발까지의 탄생스토리와 설치 QR을 <a href=\"https://yurim.it.kr/nemodemic\">여기</a>에서 볼 수 있다.</p>\r\n",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), Div. 2, leeyou6757, foxpython, cywohoy, ezh8n, kidw0124, sksms1375, sshs29hanul, tlsdydaud1, utilforever",
   "level": 4,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 217,
   "submission_count": null,
   "average_tries": 1.5206999778747559

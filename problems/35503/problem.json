@@ -23,11 +23,7 @@
   "hint": "<p>태그를 배우기 위한 조건의 예시로 <code>2 1 1 2 2 4</code>가 주어지는 경우: 선행 조건은 2개가 존재하며, 1개의 태그(1번)를 배우거나 2개의 태그(2, 4번)를 배우는 경우 이 태그를 배울 수 있음을 나타낸다.</p>",
   "source": "University, 국민대학교, 2026 KPSC Spring Algorithm Challenge, kangsm02, chan120714, kevinlys00, playsworld16, shinhuichan, sjhi00",
   "level": 21,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["dp", "bitmask", "dp_sum_over_subsets"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.6923000812530518

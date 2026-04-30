@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2021, leedongbin",
   "level": 15,
-  "tags": [
-    "greedy",
-    "trees"
-  ],
+  "tags": ["greedy", "trees"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 2.233799934387207

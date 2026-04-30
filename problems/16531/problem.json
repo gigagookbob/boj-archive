@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2018, pinebananais",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "constructive",
-    "recursion",
-    "sorting"
-  ],
+  "tags": ["bitmask", "constructive", "recursion", "sorting"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.6087000370025635

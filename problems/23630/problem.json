@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2021 Goricon, holmane333, djs100201, jh05013, wbcho0504, WeissBlume",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "bitmask"],
   "accepted_user_count": 339,
   "submission_count": null,
   "average_tries": 1.9645999670028687

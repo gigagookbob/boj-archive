@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2018 SCAL-MOOKJA, University, 중앙대학교, 2018 SCAL-MOOKJA, wjddn0728",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 3862,
   "submission_count": null,
   "average_tries": 1.4138000011444092

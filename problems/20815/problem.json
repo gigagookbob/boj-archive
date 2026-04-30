@@ -19,10 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 274px; height: 88px;\"/></p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2020, Qualification",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "dp"
-  ],
+  "tags": ["bruteforcing", "dp"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2016, Group A (Seniors)",
   "level": 19,
-  "tags": [
-    "math",
-    "data_structures",
-    "geometry",
-    "set",
-    "convex_hull"
-  ],
+  "tags": ["math", "data_structures", "geometry", "set", "convex_hull"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

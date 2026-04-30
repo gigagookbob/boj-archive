@@ -15,13 +15,7 @@
   "hint": "<p>The optimal solution in this example is to change the a into b, change the d into e, and then change both e’s into c’s. This will take $1+4+0+0=5$ days, and the final combo string will be bbccc.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2019 December Contest, Gold",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "prefix_sum",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["dp", "graphs", "prefix_sum", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 2.12280011177063

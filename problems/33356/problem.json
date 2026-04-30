@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 3: ABalobanov Contest 1 supported by Pinely",
   "level": 12,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

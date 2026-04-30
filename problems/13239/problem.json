@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2016 AIPO Preliminary Round, songuno1",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 320,
   "submission_count": null,
   "average_tries": 1.3468999862670898

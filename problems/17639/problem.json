@@ -23,10 +23,7 @@
   "hint": "<p>In the first example the current distance from the entrance to your home is already 20. You cannot decrease it to 14 by placing turrets.</p>\n<p>In the second example the invaders have to go around the turret at (10, 47) which increases the distance between the entrance and your home from 30 to 32. The second turret in this example output is useless and illustrates that you do not have to minimize the number of turrets, and that the turrets can be placed outside the part of the grid that contains the entrance and the exit.</p>\n<p>The third example output is shown below, using E for the entrance, H for the home and asterisks for turrets.</p>\n<pre>\n.......\n..*....\n..*....\n.E*.*H.\n....*..\n.....*.\n.......</pre>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2019, Practice",
   "level": 15,
-  "tags": [
-    "case_work",
-    "implementation"
-  ],
+  "tags": ["case_work", "implementation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1

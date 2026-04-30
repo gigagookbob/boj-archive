@@ -15,10 +15,7 @@
   "hint": "<p>The two possible assignments are</p>\n<pre>\n(B,E,S,I,G,O,M) = (2, 5, 7, 9,  1, 16, 19) -&gt; 51,765\n                = (2, 5, 7, 9,  1, 16, 2 ) -&gt; 34,510\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO US Open 2015 Contest, Silver",
   "level": 13,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.299999952316284

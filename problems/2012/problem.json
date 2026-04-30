@@ -15,10 +15,7 @@
   "hint": null,
   "source": "disy, djm03178, qja0950",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 6562,
   "submission_count": null,
   "average_tries": 2.530900001525879

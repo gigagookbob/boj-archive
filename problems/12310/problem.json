@@ -15,12 +15,7 @@
   "hint": "<p>The first test case is the case described in the problem statement - two passengers meet at station 3 and swap tickets. In the second test case the two passengers don't meet at all, so they can't swap tickets (and so the city incurs no loss). In the third case, only one of the early passengers can swap tickets with the later passenger.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 2",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "stack"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.4211000204086304

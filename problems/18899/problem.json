@@ -19,10 +19,7 @@
   "hint": "<p>In Sample 1, computing the value of the encryption function on $123$ gives $1 + 2 + 3 + 12 + 13 + 23 + 123 = 177$.</p>\n<p>In Sample 2, there is no sequence whose encrypted value is $42$.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2017",
   "level": 15,
-  "tags": [
-    "backtracking",
-    "math"
-  ],
+  "tags": ["backtracking", "math"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.392899990081787

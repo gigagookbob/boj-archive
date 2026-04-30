@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2020",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1

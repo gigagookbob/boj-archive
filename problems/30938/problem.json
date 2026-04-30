@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 225px; height: 230px;\"/></p>\n<p style=\"text-align: center;\">Figure K.1. Sample Interaction</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2023 Asia Yokohama Regional",
   "level": 17,
-  "tags": [
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["geometry", "binary_search"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 4.536600112915039

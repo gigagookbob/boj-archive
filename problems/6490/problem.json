@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 1996 Mid-Atlantic Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "math",
-    "simulation",
-    "statistics"
-  ],
+  "tags": ["implementation", "math", "simulation", "statistics"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #7",
   "level": 20,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "kmp",
-    "math",
-    "string"
-  ],
+  "tags": ["combinatorics", "dp", "kmp", "math", "string"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.9285999536514282

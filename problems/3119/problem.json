@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, Final Exam #1, baekjoon, lovinix, project42da",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "set",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "set", "sweeping"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 4.5

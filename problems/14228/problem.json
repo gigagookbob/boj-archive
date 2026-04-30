@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 10,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 4.305099964141846

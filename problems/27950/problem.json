@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가지컵, 2023 가지컵, mingyu331, functionx, jihwan_0319, kiwiyou, sait2000, wapas, wider93, yup0927",
   "level": 23,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4.285699844360352

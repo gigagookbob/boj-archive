@@ -15,11 +15,7 @@
   "hint": "<p>In the example, there exist three perfect matchings:</p>\n<ol>\n<li>red $(1, 1)$, blue $(2, 2)$</li>\n<li>red $(1, 2)$, blue $(2, 1)$</li>\n<li>red $(1, 2)$, red $(2, 1)$</li>\n</ol>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 7: North American Contest 1",
   "level": 28,
-  "tags": [
-    "math",
-    "graphs",
-    "linear_algebra"
-  ],
+  "tags": ["math", "graphs", "linear_algebra"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 3.9000000953674316

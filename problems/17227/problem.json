@@ -27,13 +27,7 @@
   "hint": "<p>예제3, 예제4는 서브태스크1에서 나오지 않는다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 600px; height: 282px;\"/></p>\n<p style=\"text-align: center;\">&lt;그림2&gt; 서브태스크1에서 나올 수 있는 패턴 그래프의 형태</p>",
   "source": "University, 아주대학교, 2019 아주대학교 프로그래밍 경시대회 APC, Div.1, Acka",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "game_theory",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "game_theory", "dag", "topological_sorting"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.18179988861084

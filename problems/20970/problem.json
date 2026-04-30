@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 January Contest, Silver",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["graphs", "graph_traversal", "permutation_cycle_decomposition"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 1.8759000301361084

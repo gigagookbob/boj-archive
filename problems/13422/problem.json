@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회, game2k",
   "level": 12,
-  "tags": [
-    "prefix_sum",
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["prefix_sum", "two_pointer", "sliding_window"],
   "accepted_user_count": 1471,
   "submission_count": null,
   "average_tries": 3.2135000228881836

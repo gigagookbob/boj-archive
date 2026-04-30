@@ -27,11 +27,7 @@
   "hint": "<p>이 문제를 푼 여러분들이 모든 운영진을 처리해버린 바람에 다음 MatKor Cup은 열릴 수 없게 되었다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL, alex04, devluyten, kidw0124, leeminjae, ezh8n, foxpython, pani, tlsdydaud1, utilforever, w8385",
   "level": 21,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.2857000827789307

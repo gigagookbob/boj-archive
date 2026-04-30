@@ -23,13 +23,7 @@
   "hint": null,
   "source": "hibye1217, kiwiyou, wider93",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dp_digit"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "dp_digit"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.700000047683716

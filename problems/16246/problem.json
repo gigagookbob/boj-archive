@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Warm-up Round",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["ad_hoc", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.27269983291626

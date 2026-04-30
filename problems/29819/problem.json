@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case: There are $7$ cities. Alice starts at coordinate $-6$ and Bob starts at point $10$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 1024px; height: 51px;\"/></p>\n<p>One possible optimal way to visit all cities is as follows ($i \\xrightarrow{x} j$ means to go from $i$ to $j$, driving $x$ distance):</p>\n<ul>\n<li>Alice visits the cities (given in order): $A \\xrightarrow{0} \\text{city }6 \\xrightarrow{9} \\text{city }1$.</li>\n<li>Bob visits the cities (given in order): $B \\xrightarrow{1} \\text{city }5 \\xrightarrow{1} \\text{city }3 \\xrightarrow{4} \\text{city }4 \\xrightarrow{8} \\text{city }7 \\xrightarrow{1} \\text{city }2$.</li>\n</ul>\n<p>Alice drives for a total of $0 + 9 = 9$ distance and Bob drives for a total of $1 + 1 + 4 + 8 + 1 = 15$ distance. The total distance driven by both Alice and Bob is $9 + 15 = 24$. It can be proven that there is no way to drive less than $24$ distance, thus the answer is $24$.</p>\n<p>In the second test case, Alice and Bob are both already at city $2$. Bob can visit the city $2$ then city $1$, driving $2,000,000,000$ total distance. Note that Alice can choose to do nothing.</p>\n<p>In the third test case, Alice can visit the only city, driving from point $4$ to point $1$ for $3$ distance. Bob does nothing.</p>",
   "source": "Olympiad, Malaysian Computing Olympiad, MCO 2023",
   "level": 9,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2

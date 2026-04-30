@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:255px; width:465px\" /></p>\r\n\r\n<p>위의 그림은 주어진 예제의&nbsp;사각형을&nbsp;위쪽 둘레가 최댓값이 되도록 배치한 모습이다.</p>\r\n\r\n<p>위쪽 둘레가 포함하는 변은&nbsp;DC, CG, GF, FJ, JI, IM, ML, LP,&nbsp;PO 이다. 그래서 총 길이의 합은 68이 된다.</p>\r\n",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2008, baek1134",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 304,
   "submission_count": null,
   "average_tries": 2.207200050354004

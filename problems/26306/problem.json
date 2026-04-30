@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2022",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 4.199999809265137

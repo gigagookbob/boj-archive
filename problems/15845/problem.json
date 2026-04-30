@@ -23,9 +23,7 @@
   "hint": "<p>Explanation for the 1st sample case</p>\n<p>On the first sample, the first and the third team did not solve any problem, and the second team solved the first problem. Therefore, the second team is the winner.</p>\n<p>Explanation for the 2nd sample case</p>\n<p>On the second sample, the first team solved the second problem, the second team solved the first problem, and the third team did not solve any problem. Since the first team has a smaller index than the second team, the first team is the winner.</p>\n<p>Explanation for the 3rd sample case</p>\n<p>On the third sample, there is only one team thus the winner is obvious.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, ACM-ICPC Regional Contest, Jakarta 2017",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 1.3357000350952148

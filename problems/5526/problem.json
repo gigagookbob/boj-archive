@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2012/2013 연습 세션, Olympiad, Japanese Olympiad in Informatics, JOI 2007/2008, Olympiad, Japanese Olympiad in Informatics, JOI 2013/2014 연습 세션",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "two_pointer",
-    "mitm"
-  ],
+  "tags": ["binary_search", "two_pointer", "mitm"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.3708000183105469

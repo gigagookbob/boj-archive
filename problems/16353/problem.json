@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2018, alex9801",
   "level": 0,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

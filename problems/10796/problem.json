@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2015, kcm1700",
   "level": 23,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.8889000415802

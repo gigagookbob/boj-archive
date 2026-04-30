@@ -35,13 +35,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2019/2020 예선 2",
   "level": 17,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "parsing",
-    "string",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "parsing", "string", "trees"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.9500000476837158

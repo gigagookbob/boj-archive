@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2007 Rocky Mountain Regional Contest",
   "level": 8,
-  "tags": [
-    "arithmetic",
-    "implementation",
-    "math",
-    "recursion"
-  ],
+  "tags": ["arithmetic", "implementation", "math", "recursion"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3912999629974365

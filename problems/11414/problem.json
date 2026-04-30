@@ -15,11 +15,7 @@
   "hint": "<p>자연수는 1이상의 정수이다.</p>\r\n",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2015, kks227, exponential_e",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 331,
   "submission_count": null,
   "average_tries": 4.969799995422363

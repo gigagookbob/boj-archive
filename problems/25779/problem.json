@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2022 Local Programming Contest (Final Round)",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "binary_search",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "binary_search", "inclusion_and_exclusion"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.2857000827789307

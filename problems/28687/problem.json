@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Div. 1, University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Open Contest - Phase 1, eoaud0108, kidw0124, shiftpsh, sshs29hanul, tlsdydaud1, utilforever, yijw0930",
   "level": 16,
-  "tags": [
-    "implementation",
-    "dp",
-    "set"
-  ],
+  "tags": ["implementation", "dp", "set"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.6666998863220215

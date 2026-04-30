@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2010 Round One",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 1.3926000595092773

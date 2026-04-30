@@ -15,12 +15,7 @@
   "hint": "<p>Here is the sequence of moves for the first case (note that shooting the portal gun does not count as a move):</p>\n<ol>\n<li>Move one step east.</li>\n<li>Shoot a blue portal north.</li>\n<li>Shoot a yellow portal south.</li>\n<li>Move one step north through the blue portal.</li>\n<li>Shoot a blue portal east.</li>\n<li>Move one step south through the yellow portal.</li>\n<li>Move one step west.</li>\n<li>Eat your delicious and moist cake.</li>\n</ol>\n<p>Portal<sup>TM</sup> is a trademark of Valve Inc. Valve Inc. does not endorse and has no involvement with Google Code Jam.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Round 3",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.8824000358581543

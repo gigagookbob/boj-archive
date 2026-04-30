@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "inclusion_and_exclusion"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 2.1096999645233154

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, March 27, 2011",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

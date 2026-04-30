@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 2회 DGUPC, kes0716, kwoncycle, mjhmjh1104, qwerasdfzxcl, tlsdydaud1",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.8621000051498413

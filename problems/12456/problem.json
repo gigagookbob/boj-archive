@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Google Code Jam Japan 2011, Code Jam Japan 2011 予選, soyuz67",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 3.1719000339508057

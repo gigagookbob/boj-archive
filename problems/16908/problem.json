@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, jhnah917, djm03178",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "string",
-    "hashing",
-    "suffix_array"
-  ],
+  "tags": ["data_structures", "string", "hashing", "suffix_array"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 5.90910005569458

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2023, leedongbin, azberjibiou, leo020630, mjhmjh1104, rdd6584",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "math",
-    "pigeonhole_principle",
-    "prefix_sum"
-  ],
+  "tags": ["ad_hoc", "math", "pigeonhole_principle", "prefix_sum"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.272700071334839

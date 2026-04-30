@@ -23,12 +23,7 @@
   "hint": "<p>Let a → b denote that friend a has a crush on friend b.</p>\n<p>For the first example, f(0, 1) = g(2) = 1, f(0, 2) = g(3) = 2, f(1, 2) = g(2) = 1. So 0 → 2, 2 → 1, and 1 → 0, so there is one love triangle.</p>\n<p>For the second example, 1 → 0, 2 → 0, and 2 → 1, so there are zero love triangles.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 4 March, 2017",
   "level": 22,
-  "tags": [
-    "combinatorics",
-    "math",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["combinatorics", "math", "number_theory", "prefix_sum"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

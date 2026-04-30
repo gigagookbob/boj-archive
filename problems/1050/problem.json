@@ -43,13 +43,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "string",
-    "set",
-    "parsing"
-  ],
+  "tags": ["data_structures", "graphs", "string", "set", "parsing"],
   "accepted_user_count": 411,
   "submission_count": null,
   "average_tries": 5.973199844360352

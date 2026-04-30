@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ndb796, ssong269",
   "level": 11,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 7446,
   "submission_count": null,
   "average_tries": 3.239500045776367

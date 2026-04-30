@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, National Competition #2 - Juniors, baekjoon, adh0463",
   "level": 15,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "set", "linked_list"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 4.473999977111816

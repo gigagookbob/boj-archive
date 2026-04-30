@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2023 SciCom Qualification Test, qwerasdfzxcl, 79brue, azberjibiou, physics07",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 1.9537999629974365

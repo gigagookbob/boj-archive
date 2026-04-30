@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2018, 초등부, Olympiad, 한국정보올림피아드, KOI 2018, 중등부, eric00513, jh05013, Conatuseus",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 2597,
   "submission_count": null,
   "average_tries": 2.641900062561035

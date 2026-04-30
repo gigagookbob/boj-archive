@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2004, CCC 2004 Junior Division",
   "level": 2,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 1752,
   "submission_count": null,
   "average_tries": 1.4189000129699707

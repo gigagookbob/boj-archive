@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2006 Mid-Atlantic Regional Programming Contest, occidere, jh05013",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2623,
   "submission_count": null,
   "average_tries": 1.6325000524520874

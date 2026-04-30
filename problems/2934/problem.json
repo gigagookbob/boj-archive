@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, Croatian Regional Competition in Informatics 2009, Olympiad, Croatian Highschool Competitions in Informatics, 2009, Regional Competition - Seniors, baekjoon, metadata",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "difference_array"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "difference_array"],
   "accepted_user_count": 889,
   "submission_count": null,
   "average_tries": 1.7187999486923218

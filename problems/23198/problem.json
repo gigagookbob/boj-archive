@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2020",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "math",
-    "segtree"
-  ],
+  "tags": ["data_structures", "math", "segtree"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.9215999841690063

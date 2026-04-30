@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:139px; width:139px\"/></p>\n<p>젤리를 위에서 바라보면 위와 같고, 아무리 잘 잘라도 3 개 조각의 부피는 2, 3, 4 가 되어야 한다.</p>",
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14, kks227",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2006, Day 2",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "graphs", "sparse_table"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.8889000415802

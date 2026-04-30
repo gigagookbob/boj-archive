@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2025 February Contest, Gold",
   "level": 22,
-  "tags": [
-    "dp",
-    "graphs",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "graphs", "bitmask", "dp_bitfield"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

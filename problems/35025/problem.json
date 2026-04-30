@@ -23,12 +23,7 @@
   "hint": "<p>A possible sequence of moves for the first test is shown below:</p>\n<p style=\"text-align: center;\">$\\{\\} \\xrightarrow{\\texttt{insert 2}} \\{2\\} \\xrightarrow{\\texttt{insert 2}} \\{2, 2\\} \\xrightarrow[\\texttt{score += 4}]{\\texttt{merge, x = 2}} \\{4\\} \\xrightarrow{\\texttt{insert 4}} \\{4, 4\\} \\xrightarrow[\\texttt{score += 8}]{\\texttt{merge, x = 4}} \\{8\\} $</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2025-2026 Northwestern Russia Regional Contest",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["math", "dp", "greedy", "constructive"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #2, cologne, solvedac, ai4youej, bnb2011, chansol, cologne, cozyyg, gs18115, havana723, jh05013, moonrabbit2, pichulia, shiftpsh",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 610,
   "submission_count": null,
   "average_tries": 2.0179998874664307

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2017",
   "level": 16,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 1.1455999612808228

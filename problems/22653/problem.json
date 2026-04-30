@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2009 Day 3",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.0714000463485718

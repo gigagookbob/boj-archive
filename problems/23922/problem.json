@@ -15,9 +15,7 @@
   "hint": "<p>In Sample Case #1, the maximum number of coins collected can be 14, if Mike follows this path: (1,1) -&gt; (2,2) -&gt; (3,3)</p>\n<p>In Sample Case #2, the maximum number of coins collected can be 9, if Mike follows this path: (2,3) -&gt; (3,4).</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round G",
   "level": 6,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.434000015258789

@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Qualification",
   "level": 12,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["math", "implementation", "greedy", "string"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

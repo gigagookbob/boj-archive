@@ -15,9 +15,7 @@
   "hint": "<p>가령 [1] [4 5]와 같이 선택한다면 0 + 0 + 2 가 된다. (구간을 여러 분할하면 여러 분할의 각 첫 구간은 피로 회복을 할 수 없다) 위의 예에서는 [3 5]구간을 선택하면 0 + 4 + 2 가 되어 최대가 된다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO January 2005 Contest, Gold",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 2.5104000568389893

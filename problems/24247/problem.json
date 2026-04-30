@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2021",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "greedy",
-    "math"
-  ],
+  "tags": ["bruteforcing", "greedy", "math"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.119999885559082

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação da SBC 2024",
   "level": 5,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory"
-  ],
+  "tags": ["math", "dp", "number_theory"],
   "accepted_user_count": 334,
   "submission_count": null,
   "average_tries": 1.1346999406814575

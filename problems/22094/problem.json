@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2014, RCC 2014 Fourth Qualification Round",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["implementation", "greedy", "case_work"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.4166998863220215

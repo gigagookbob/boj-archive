@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예제에서, 이환이는 한 번의 놀이를 한다.</p>\r\n\r\n<ol>\r\n\t<li>첫 번째 카드 <code>R</code>(바위)은 두 번째 카드 <code>S</code>(가위)를 이기므로 두 카드를 서로 바꾼다. 이때 배열은 <code>SRPSP</code>가 된다.</li>\r\n\t<li>두 번째 카드 <code>R</code>(바위)은 세 번째 카드 <code>P</code>(보)에게 지므로 위치를 바꾸지 않는다.</li>\r\n\t<li>세 번째 카드 <code>P</code>(보)는 네 번째 카드 <code>S</code>(가위)에게 지므로 위치를 바꾸지 않는다.</li>\r\n\t<li>네 번째 카드 <code>S</code>(가위)는 마지막 카드 <code>P</code>(보)를 이기므로 두 카드를 서로 바꾼다. 이때 배열은 <code>SRPPS</code>가 된다.</li>\r\n</ol>\r\n\r\n<p>따라서 놀이가 끝난 후 카드들의 배열은 <code>SRPPS</code>이다.</p>\r\n\r\n<p>두 번째 예제에서, 이환이는 세 번의 놀이를 한다. 각 놀이가 끝난 후 카드들의 배열은 다음과 같이 변한다.</p>\r\n\r\n<p><code>RSRRRRRRSR</code> $\\rightarrow$ <code>SRRRRRRSRR</code> $\\rightarrow$ <code>SRRRRRSRRR</code> $\\rightarrow$ <code>SRRRRSRRRR</code></p>\r\n\r\n<p>따라서 놀이가 끝난 후 카드들의 배열은 <code>SRRRRSRRRR</code>이다.&nbsp;</p>\r\n",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021, Contest, Open Cup, 2021/2022 Season, Stage 17: Grand Prix of Seoul, benedict0724, ainta, cki86201, doju, evenharder, functionx, jh05013, koosaga, pichulia, taeyeon_ss, xiaowuc1",
   "level": 19,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 1.8312000036239624

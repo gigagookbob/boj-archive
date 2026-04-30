@@ -19,13 +19,7 @@
   "hint": "<p>예제 1의 경우에 다음과 같이 정답을 구할 수 있다.</p>\n<ul>\n<li>M = 0: 00</li>\n<li>M = 1: 00</li>\n<li>M = 2: 00</li>\n<li>M = 3: 00, 03, 21, 30, 12</li>\n</ul>\n<p>예제 2의 경우에는 다음과 같이 정답을 구할 수 있다.</p>\n<ul>\n<li>M = 0: 00</li>\n<li>M = 1: 00</li>\n<li>M = 2: 00, 20</li>\n<li>M = 3: 00, 12, 20</li>\n<li>M = 4: 00, 04, 12, 20, 40</li>\n</ul>",
   "source": "baekjoon",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "fft",
-    "generating_function"
-  ],
+  "tags": ["math", "dp", "number_theory", "fft", "generating_function"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.9583001136779785

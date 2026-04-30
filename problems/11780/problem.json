@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall", "traceback"],
   "accepted_user_count": 4885,
   "submission_count": null,
   "average_tries": 2.1445000171661377

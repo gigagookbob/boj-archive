@@ -15,9 +15,7 @@
   "hint": "<p>In this example, the initial string COW expands as follows:</p>\n<pre>\nCOW -&gt; COWWCO -&gt; COWWCOOCOWWC\n                 12345678</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 January Contest, Silver",
   "level": 12,
-  "tags": [
-    "recursion"
-  ],
+  "tags": ["recursion"],
   "accepted_user_count": 217,
   "submission_count": null,
   "average_tries": 2.783400058746338

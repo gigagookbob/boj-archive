@@ -19,9 +19,7 @@
   "hint": "<p>In Sample 1 for $x=2,y=1$, we can set $q_1 = p_1, q_2 = p_2^{-1}, q_3 = p_3$ and get $q_3(q_2(q_1(2)))=1$.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 15: Grand Prix of Tokyo",
   "level": 20,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.894700050354004

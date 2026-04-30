@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2019 1차대회, 초등부",
   "level": 4,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "stack"],
   "accepted_user_count": 13147,
   "submission_count": null,
   "average_tries": 2.3011999130249023

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2013, 2e718, apjw6112, roeniss, chad9349, ohs1122, racoo340, baekjoon",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "crt"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "crt"],
   "accepted_user_count": 17448,
   "submission_count": null,
   "average_tries": 3.6201999187469482

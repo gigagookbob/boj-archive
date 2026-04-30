@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2017 AIPO Preliminary Round",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 365,
   "submission_count": null,
   "average_tries": 1.2355999946594238

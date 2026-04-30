@@ -10,11 +10,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2021 Spring CS1 Final Mock Exam, giwon1574",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 4.392300128936768

@@ -15,11 +15,7 @@
   "hint": "<p>Explanation of the sample input: The first ball is in the juggler’s hand and should be dropped third; the second ball is immediately clockwise from the first ball and should be dropped second; the third ball is immediately clockwise from the second ball and should be dropped last.</p>",
   "source": "University, North American Invitational Programming Contest, UCIPC 2012",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.5

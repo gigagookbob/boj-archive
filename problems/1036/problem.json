@@ -31,13 +31,7 @@
   "hint": null,
   "source": "baekjoon, eric00513, jh05013, YunGoon, clrmt",
   "level": 14,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "string",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "greedy", "string", "arbitrary_precision"],
   "accepted_user_count": 1752,
   "submission_count": null,
   "average_tries": 3.7083001136779785

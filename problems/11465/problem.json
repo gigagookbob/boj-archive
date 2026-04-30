@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2015",
   "level": 18,
-  "tags": [
-    "sorting",
-    "geometry",
-    "case_work",
-    "line_intersection"
-  ],
+  "tags": ["sorting", "geometry", "case_work", "line_intersection"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 5

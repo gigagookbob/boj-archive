@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round G",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["math", "implementation", "sorting", "geometry"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.2308000326156616

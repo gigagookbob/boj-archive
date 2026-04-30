@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2020, rdd6584, chogahui05, hunni10, kyo20111",
   "level": 20,
-  "tags": [
-    "case_work",
-    "dp"
-  ],
+  "tags": ["case_work", "dp"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.3889000415802002

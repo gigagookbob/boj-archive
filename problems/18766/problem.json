@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 5,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 558,
   "submission_count": null,
   "average_tries": 1.299299955368042

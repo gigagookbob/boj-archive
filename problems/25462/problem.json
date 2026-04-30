@@ -23,12 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Na intervalu od $2$. do $3$. elementa nema inverzija jer je $3&lt;5$. Interval od $1$. do $5$. elementa je zapravo cijeli niz. Inverzije su u tom slučaju parovi elemenata s indeksima $(1, 2)$, $(1, 4)$, $(1, 5)$, $(2, 4)$, $(2, 5)$, $(3, 4)$ i $(3, 5)$.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2022, Junior Final Exam #1",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "offline_queries",
-    "mo"
-  ],
+  "tags": ["data_structures", "segtree", "offline_queries", "mo"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.506500005722046

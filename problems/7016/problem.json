@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2012 Japan Domestic Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "math",
-    "simulation",
-    "sorting"
-  ],
+  "tags": ["implementation", "math", "simulation", "sorting"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.5455000400543213

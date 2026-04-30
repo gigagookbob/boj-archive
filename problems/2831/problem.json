@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #1, baekjoon, jh05013",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "two_pointer"],
   "accepted_user_count": 870,
   "submission_count": null,
   "average_tries": 2.7309999465942383

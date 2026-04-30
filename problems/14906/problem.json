@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2017 ERICA Programming Contest, League A (일반), hun3555, jh05013",
   "level": 12,
-  "tags": [
-    "string",
-    "recursion",
-    "regex"
-  ],
+  "tags": ["string", "recursion", "regex"],
   "accepted_user_count": 268,
   "submission_count": null,
   "average_tries": 2.496299982070923

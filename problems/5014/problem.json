@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2011, baekjoon, fkrdnjs23, luniro, sh0705k",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 18696,
   "submission_count": null,
   "average_tries": 2.836899995803833

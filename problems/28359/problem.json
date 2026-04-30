@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제7회 천하제일 코딩대회, junseo, cgiosy, chansol, cs71107, gs18115, jhnah917, kyo20111, tlsdydaud1",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc", "constructive"],
   "accepted_user_count": 234,
   "submission_count": null,
   "average_tries": 1.7350000143051147

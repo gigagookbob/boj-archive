@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2025, Day 2",
   "level": 27,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "trees",
-    "case_work"
-  ],
+  "tags": ["math", "ad_hoc", "trees", "case_work"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

@@ -15,11 +15,7 @@
   "hint": "<p>There is only one organisation available: Z0’s subordinates are Z1 and Z3; Z1 and Z2 have no subordinates, and Z3’s only subordinate is Z2. When Z0 decides to initiate a round of ordering (let us call this time ”0”), it sends off an order request to Z1 and Z3. At time 10, Z1 and Z3 receive the message. Z3 takes three seconds to read the message, and, at time 13, Z3 has read the message and it fires off a request to its subordinate, Z2. At time 23, Z2 receives Z3’s message, and has ot think for seven seconds. At time 30, Z2 is done thinking. Z2 has no subordinates, so it sends its order list to its superior Z3. At time 40, Z3 receives the order list, and has to think for three seconds. At time 43, then, Z3 combines Z2’s order list with its own and sends the combined order list to Z0, and it is received at time 53. At time 60, after fifty seconds of thought, Z1 has finished reading Z0’s initial message. Z1 promptly sends its order list to Z0, which receives the list at time 70. After receiving this message, Z0 is in possession of all of the purchase orders sent to Spamway, thus terminating the round of ordering.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2005, CCO 2005",
   "level": 14,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

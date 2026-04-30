@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 1쿨, sait2000, djs100201, eric00513, flappybird, heeda0528, hyperbolic, index, kiwiyou, martinok1103, sivcde0405",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2475,
   "submission_count": null,
   "average_tries": 1.1708999872207642

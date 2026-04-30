@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2020, ICPC, Regionals, North America, Southern California Regional, 2020 Southern California Regional",
   "level": 20,
-  "tags": [
-    "bipartite_matching",
-    "floyd_warshall",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["bipartite_matching", "floyd_warshall", "graphs", "shortest_path"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.5455000400543213

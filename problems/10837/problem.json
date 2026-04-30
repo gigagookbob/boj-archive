@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2015, 고등부, Olympiad, 한국정보올림피아드, KOI 2015, 중등부",
   "level": 9,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 2126,
   "submission_count": null,
   "average_tries": 2.7253000736236572

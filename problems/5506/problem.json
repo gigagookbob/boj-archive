@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 1998, Day 1, ch1515",
   "level": 14,
-  "tags": [
-    "sorting",
-    "bitmask"
-  ],
+  "tags": ["sorting", "bitmask"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4.882400035858154

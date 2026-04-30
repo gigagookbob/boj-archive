@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #1",
   "level": 8,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.4358999729156494

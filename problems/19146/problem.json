@@ -15,10 +15,7 @@
   "hint": "<p>In the first game, one of the optimal strategies for Roland is the following one: on his first turn, he toggles the first and the second switches. For any possible Patrick's move, there will be exactly one bulb that is turned on at the end of the game, so Roland wins anyway.</p>\n<p>In the second game, regardless of the Ronald's move, Patrick can turn off all the bulbs.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 4: Moscow SU Tapirs Contest 2",
   "level": 24,
-  "tags": [
-    "backtracking",
-    "randomization"
-  ],
+  "tags": ["backtracking", "randomization"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 9.5

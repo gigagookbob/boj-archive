@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", University, UT Invitational Programming Contest, UT Invitational Programming Contest 2019",
   "level": 19,
-  "tags": [
-    "implementation",
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["implementation", "dp", "dp_digit"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

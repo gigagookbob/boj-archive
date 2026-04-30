@@ -15,10 +15,7 @@
   "hint": "<p>이 문제의 원본 문제에는 \"전광판을 끄기 전에는 왼쪽에 있는 엘리베이터만 탈 수 있고, 끈 이후에는 오른쪽에 있는 엘리베이터만 탈 수 있다.\" 라는 말이 없다. 이 조건이 있어야 공식 풀이가 맞다.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2008",
   "level": 9,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 156,
   "submission_count": null,
   "average_tries": 2.820499897003174

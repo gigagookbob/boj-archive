@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2003",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 5878,
   "submission_count": null,
   "average_tries": 2.3919999599456787

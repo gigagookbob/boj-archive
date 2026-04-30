@@ -23,13 +23,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2020 SciOI #1, blackking26, ho94949, pichulia",
   "level": 26,
-  "tags": [
-    "math",
-    "string",
-    "ad_hoc",
-    "case_work",
-    "fft"
-  ],
+  "tags": ["math", "string", "ad_hoc", "case_work", "fft"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 11.764699935913086

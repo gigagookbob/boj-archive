@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, February 15, 2020",
   "level": 11,
-  "tags": [
-    "greedy",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "binary_search", "parametric_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.625

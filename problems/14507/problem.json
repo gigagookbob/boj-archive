@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2017, Contest, Open Cup, 2016/2017 Season, Stage 16: Grand Prix of America",
   "level": 26,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "geometry_3d",
-    "min_enclosing_circle"
-  ],
+  "tags": ["geometry", "convex_hull", "geometry_3d", "min_enclosing_circle"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3.3499999046325684

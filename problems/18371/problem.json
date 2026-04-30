@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"width: 122px; height: 112px; float: right;\"/>Routes of length 1: 1 → 2, 5 → 3, 4 → 5.</p>\n<p>Routes of length 2: 2 → 3, 3 → 4, 4 → 5 → 3.</p>\n<p>Routes of length 3: 4 → 6, 1 → 2 → 3, 3 → 4 → 5, 5 → 3 → 4.</p>\n<p>One possible eleventh shortest route (of length 4) is the following: 5 → 3 → 4 → 5.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2014/2015, Stage 3",
   "level": 23,
-  "tags": [
-    "dp",
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["dp", "exponentiation_by_squaring", "math"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3

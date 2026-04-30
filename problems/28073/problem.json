@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, 청정수 Round, University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, Open Contest, tkfkddl59323, djs100201, dong_gas, eaststar, hulahula3247, jthis, mjhmjh1104, pjshwa, yunny_world",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "traceback"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 7.064499855041504

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021, Contest, Open Cup, 2021/2022 Season, Stage 17: Grand Prix of Seoul, tlwpdus, cki86201, functionx, koosaga, xiaowuc1",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "flow",
-    "circulation"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "flow", "circulation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3

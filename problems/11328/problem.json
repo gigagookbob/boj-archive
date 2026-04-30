@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2014, veydpz, older",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 7098,
   "submission_count": null,
   "average_tries": 2.364500045776367

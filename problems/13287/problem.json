@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2016 Japan Domestic Contest",
   "level": 23,
-  "tags": [
-    "binary_search",
-    "circulation",
-    "flow",
-    "two_pointer",
-    "graphs"
-  ],
+  "tags": ["binary_search", "circulation", "flow", "two_pointer", "graphs"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.299999952316284

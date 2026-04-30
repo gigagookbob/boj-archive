@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2015 South Central USA Regional Programming Contest",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 299,
   "submission_count": null,
   "average_tries": 1.097000002861023

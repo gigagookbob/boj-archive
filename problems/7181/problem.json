@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2015-16, Final Round, Basic",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 255,
   "submission_count": null,
   "average_tries": 1.2274999618530273

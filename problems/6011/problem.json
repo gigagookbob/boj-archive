@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO December 2009 Contest, Silver",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.6713999509811401

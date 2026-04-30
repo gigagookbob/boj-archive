@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2023, Coxie, 39dll, akim9905, hibye1217, leo020630, lky7674, nick832, overnap, pani, shjohw12, wjdclgns12",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 387,
   "submission_count": null,
   "average_tries": 3.1189000606536865

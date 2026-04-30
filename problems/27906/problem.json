@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, , cozyyg, jh05013, pichulia, sorohue, wapas",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "bitmask",
-    "math"
-  ],
+  "tags": ["ad_hoc", "bitmask", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.5455000400543213

@@ -19,10 +19,7 @@
   "hint": "<p>1번 예제는 다음과 같은 방법으로 두 입력 예제에서 러시아 국기를 만들 수 있다.</p>\r\n\r\n<p><img alt=\"\" src=\"1.png\" /></p>\r\n\r\n<p><img alt=\"\" src=\"2.png\" style=\"height:201px; width:251px\" /></p>\r\n\r\n<p><img alt=\"\" src=\"3.png\" style=\"height:201px; width:251px\" /></p>\r\n\r\n<p>2번 예제는 이렇게 생겼다.</p>\r\n\r\n<p><img alt=\"\" src=\"4.png\" style=\"height:301px; width:701px\" /></p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2015/2016 예선, sutekine",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 457,
   "submission_count": null,
   "average_tries": 1.3828999996185303

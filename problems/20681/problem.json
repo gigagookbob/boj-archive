@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2020",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "offline_queries"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.7044999599456787

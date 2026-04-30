@@ -15,9 +15,7 @@
   "hint": "<p>จาก R=2, C=2, K=3 จะได้ว่า ทุ่งหญ้ากว้าง 2 หน่วย ยาว 2 หน่วย และทิกเกอร์จะต้องกระโดดเด้งดึ๋งเป็นจํานวน 3 ก้าว โดยทิกเกอร์จะสามารถกระโดดเด้งดึ๋งได้ทั้งสิ้น 36 วิธี ดังนี้ </p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:343px; width:643px\"/></p>\n<p><img alt=\"\" src=\"3.png\" style=\"height:180px; width:640px\"/></p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2014",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.235300064086914

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2011, Final Exam - Additional competition for juniors, baekjoon",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 129,
   "submission_count": null,
   "average_tries": 2.4419000148773193

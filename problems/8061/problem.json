@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1998/1999, Stage 2, adh0463, koosaga, zych1751",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 315,
   "submission_count": null,
   "average_tries": 1.9523999691009521

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2023: P-22",
   "level": 13,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

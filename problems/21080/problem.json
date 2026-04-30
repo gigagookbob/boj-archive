@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 4: PKU Contest 1, ICPC Camp Day 2",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

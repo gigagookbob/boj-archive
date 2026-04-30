@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 생각하는 프로그래밍 대회, isku, xb205, leejuhu",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "set",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "trees", "set", "trie"],
   "accepted_user_count": 6052,
   "submission_count": null,
   "average_tries": 1.4759000539779663

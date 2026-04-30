@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2021",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["dp", "greedy", "sorting"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 4.11359977722168

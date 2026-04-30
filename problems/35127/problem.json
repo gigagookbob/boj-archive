@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2025 ICPC Asia Yokohama Regional Contest",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.8421000242233276

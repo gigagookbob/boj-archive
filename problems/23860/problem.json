@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open 2020-2021, Qualification, Contest 2",
   "level": 13,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

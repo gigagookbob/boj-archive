@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2015-16, Open Competition",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

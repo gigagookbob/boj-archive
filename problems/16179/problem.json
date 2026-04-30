@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2009",
   "level": 7,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.2034000158309937

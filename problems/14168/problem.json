@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2016 December Contest, Gold, rdd6584",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 212,
   "submission_count": null,
   "average_tries": 2.3773999214172363

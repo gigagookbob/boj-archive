@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2011",
   "level": 5,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 263,
   "submission_count": null,
   "average_tries": 1.4904999732971191

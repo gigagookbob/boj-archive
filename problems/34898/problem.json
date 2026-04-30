@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서울시립대학교, 2025 서울시립대학교 프로그래밍 경진대회 (UOSPC), ckj31110, 99asdfg, dinojaemin, exzile_27, jms020820, m4ushold, qqq831347, tlsdydaud1, tony9402",
   "level": 16,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.5676000118255615

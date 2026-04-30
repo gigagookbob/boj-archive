@@ -15,10 +15,7 @@
   "hint": "<p>In the first sample case, <strong>M</strong> is already a <em>checkerboard matrix</em>.</p>\n<p>In the second sample case, Mija can turn <strong>M</strong> into a <em>checkerboard matrix</em> by swapping columns 1 and 2 and then swapping rows 1 and 2.</p>\n<p>In the third sample case, Mija can never turn <strong>M</strong> into a <em>checkerboard matrix</em>; it doesn't have enough 1s.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, World Finals",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "math"
-  ],
+  "tags": ["ad_hoc", "math"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.5384999513626099

@@ -31,11 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2020",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 4.27269983291626

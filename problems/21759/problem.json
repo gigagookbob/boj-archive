@@ -15,14 +15,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2021 1차대회, 중등부, dohoon",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 256,
   "submission_count": null,
   "average_tries": 4.996099948883057

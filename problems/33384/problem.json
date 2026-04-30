@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 6: olmrgcsi And His Friends’ Contest",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.3157999515533447

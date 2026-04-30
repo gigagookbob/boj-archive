@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2015 연세대학교 프로그래밍 경시대회, portableangel",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 1864,
   "submission_count": null,
   "average_tries": 2.010200023651123

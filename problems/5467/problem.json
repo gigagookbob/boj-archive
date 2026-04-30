@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2008, Day 1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "string",
-    "sorting",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "sorting", "trees", "trie"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 2.032900094985962

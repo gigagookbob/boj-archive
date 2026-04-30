@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO January 2006 Contest, Silver",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "geometry",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "geometry", "bfs", "bitmask"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.1666998863220215

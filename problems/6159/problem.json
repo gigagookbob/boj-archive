@@ -15,11 +15,7 @@
   "hint": "<p>The four pairs are as follows: cow 1 and cow 3; cow 1 and cow 4; cow 2 and cow 4; and finally cow 3 and cow 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO January 2008 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "sorting", "two_pointer"],
   "accepted_user_count": 1120,
   "submission_count": null,
   "average_tries": 1.7107000350952148

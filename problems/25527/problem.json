@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2022 Japan Domestic Contest",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 309,
   "submission_count": null,
   "average_tries": 1.1748000383377075

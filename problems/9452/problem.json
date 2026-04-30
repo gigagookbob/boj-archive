@@ -23,10 +23,7 @@
   "hint": "<p>The first expression computes squared length of the vector X in Euclidean metrics.</p>\n<p>The second expression result does not depend on X and always equals to zero.</p>\n<p>The actual result of the third expression is −35397485.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2013",
   "level": 18,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 5.699999809265137

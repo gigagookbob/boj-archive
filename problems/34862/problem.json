@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, 2025 ICPC Asia Seoul Regional",
   "level": 16,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.6167000532150269

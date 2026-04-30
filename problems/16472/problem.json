@@ -15,9 +15,7 @@
   "hint": "<p>abbcaccba에서 답은 cacc가 된다. 번역기가 인식할 수 있는 알파벳의 종류는 최대 2개이고, 알파벳의 종류를 최대 2개만 가지면서 가장 긴 연속된 문자열이 cacc이다. 따라서 답은 cacc의 길이인 4가 된다. </p>",
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Advanced Division, algyurithm, jh05013, park780172",
   "level": 12,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 2375,
   "submission_count": null,
   "average_tries": 2.418100118637085

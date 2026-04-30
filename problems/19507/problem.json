@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 8: DPRK Contest",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "trie"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -15,10 +15,7 @@
   "hint": "<p>For the third test, Bobo can choose the $3$-rd, $4$-th and $5$-th rectangles.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 9. Xi Lin Contest, Grand Prix of China, Contest, Open Cup, 2016/2017 Season, Stage 11: Grand Prix of China",
   "level": 22,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.4000000953674316

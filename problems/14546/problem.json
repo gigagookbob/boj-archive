@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, South Africa Regional Contest, Beninese Collegiate Programming Contest, The 2016 Beninese Collegiate Programming Contest, leehosu01, jh05013",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 1.504699945449829

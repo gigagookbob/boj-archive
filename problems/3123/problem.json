@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, National Competition #1 - Juniors, baekjoon",
   "level": 14,
-  "tags": [
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["implementation", "geometry"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.4177000522613525

@@ -15,12 +15,7 @@
   "hint": "<p>The optimal betting strategy consists of betting on the second outcome with the first bookmaker and on the first outcome with the third and fourth bookmaker. In case of the first outcome, we will earn 1.6 + 1.9 − 3 = 0.5 and in case of the second outcome 3.7 − 3 = 0.7. So we’re guaranteed 0.5 euros regardless of the outcome.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2017, Day 1",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "greedy", "sorting", "two_pointer"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.8205000162124634

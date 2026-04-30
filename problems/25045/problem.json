@@ -19,10 +19,7 @@
   "hint": "<p>예제와 같이 답이 int 범위를 초과할 수 있으니, 64bit 정수 자료형 (C/C++: long long, Java: long)을 이용해야 합니다.</p>",
   "source": "University, DGIST, 2022 DGIST 현풍전산배 알고리즘 대회, bnb2011, ekwoo, gumgood, jhnah917, lky7674, tae826, tony9402",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 426,
   "submission_count": null,
   "average_tries": 2.2276999950408936

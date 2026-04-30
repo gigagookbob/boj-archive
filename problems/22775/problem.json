@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2004 ACM South Pacific Programming Contest",
   "level": 13,
-  "tags": [
-    "implementation",
-    "string",
-    "trees",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "trees", "parsing"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

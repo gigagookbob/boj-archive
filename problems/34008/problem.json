@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제2회 임스의 메이플컵, menborong, nflight11, pichulia, ruykun, tony9402",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "case_work",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "case_work", "priority_queue"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 22.066699981689453

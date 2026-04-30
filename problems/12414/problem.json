@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, EuroPython 2012, EuroPython 2012, isku",
   "level": 12,
-  "tags": [
-    "graphs",
-    "set",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "set", "dag", "topological_sorting"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5937999486923218

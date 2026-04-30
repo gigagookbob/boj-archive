@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 23,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "sqrt_decomposition"
-  ],
+  "tags": ["bruteforcing", "geometry", "sqrt_decomposition"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 6.554100036621094

@@ -19,9 +19,7 @@
   "hint": "<p>무지가 이동할 때는 언제나 $X$축 혹은 $Y$축에 평행하게 이동함을 유의하라.</p>",
   "source": "University, 성균관대학교, 2022 SKKU 프로그래밍 대회 in 소프트의 밤, deuslovelt, bnb2011, heeda0528, jthis, jyheo98, leeh18, leo020630, max804",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3

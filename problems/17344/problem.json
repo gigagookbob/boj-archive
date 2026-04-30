@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2006",
   "level": 21,
-  "tags": [
-    "dp",
-    "implementation"
-  ],
+  "tags": ["dp", "implementation"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2018, Group E",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 210,
   "submission_count": null,
   "average_tries": 1.2475999593734741

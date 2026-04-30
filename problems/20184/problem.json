@@ -31,9 +31,7 @@
   "hint": "<p>스코어보드를 HTML 표로 생성하는 BOJ의 소스 코드를 이용해서 이 문제의 데이터를 만들었다.</p>",
   "source": "baekjoon, pichulia",
   "level": 19,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 6.57889986038208

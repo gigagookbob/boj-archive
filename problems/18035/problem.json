@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2019",
   "level": 19,
-  "tags": [
-    "greedy",
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["greedy", "string", "suffix_array"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.594599962234497

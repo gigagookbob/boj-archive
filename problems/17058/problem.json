@@ -15,13 +15,7 @@
   "hint": "<p>Explanations:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 591px; height: 466px;\"/></p>",
   "source": "ICPC, Regionals, Asia Pacific, Vietnam, 2016 Nha Trang Regional Contest",
   "level": 14,
-  "tags": [
-    "math",
-    "data_structures",
-    "binary_search",
-    "prefix_sum",
-    "stack"
-  ],
+  "tags": ["math", "data_structures", "binary_search", "prefix_sum", "stack"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

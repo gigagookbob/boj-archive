@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 7: Peking U Contest",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "priority_queue",
-    "slope_trick"
-  ],
+  "tags": ["dp", "data_structures", "priority_queue", "slope_trick"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

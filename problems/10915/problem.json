@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제2회 kriiICPC, august14",
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 1.289199948310852

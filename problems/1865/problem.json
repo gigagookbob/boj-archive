@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO December 2006 Contest, Gold, artichoke42, jh05013",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "bellman_ford"],
   "accepted_user_count": 11447,
   "submission_count": null,
   "average_tries": 4.527299880981445

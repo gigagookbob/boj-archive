@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2020",
   "level": 21,
-  "tags": [
-    "centroid",
-    "greedy",
-    "trees"
-  ],
+  "tags": ["centroid", "greedy", "trees"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.794100046157837

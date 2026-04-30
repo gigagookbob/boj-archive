@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2016, Practice",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "randomization"
-  ],
+  "tags": ["ad_hoc", "binary_search", "randomization"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3.2702999114990234

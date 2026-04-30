@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제3회 초콜릿컵, bubbler, ingyu1008, naeby, quickn, solvedac, sorohue, tlsdydaud1, utilforever, vkdldjvkdnj",
   "level": 19,
-  "tags": [
-    "graphs",
-    "trees",
-    "grid_graph",
-    "articulation"
-  ],
+  "tags": ["graphs", "trees", "grid_graph", "articulation"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.4909000396728516

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 1998, Day 1",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["bruteforcing", "set"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.2161999940872192

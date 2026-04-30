@@ -15,11 +15,7 @@
   "hint": "<p>In the last test case, there is only one possible move besides \"<code>1 +</code>\", namely, \"<code>0 0</code>\" (skip the turn). It is a drawing move, though; hence, it will not be accepted.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Regional Contest",
   "level": 20,
-  "tags": [
-    "implementation",
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["implementation", "prefix_sum", "game_theory"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2000000476837158

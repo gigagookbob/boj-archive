@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2015-16, Preliminary Round, Gymnasium",
   "level": 9,
-  "tags": [
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "string"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2

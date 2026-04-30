@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Small & Large Lighter Cup, 2023 4분기 Small & Large Lighter Cup, rustiebeats, cologne, kidw0124, sshs29hanul, utilforever",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.149999976158142

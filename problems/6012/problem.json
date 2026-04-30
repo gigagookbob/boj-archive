@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO December 2009 Contest, Bronze",
   "level": 8,
-  "tags": [
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "recursion"],
   "accepted_user_count": 181,
   "submission_count": null,
   "average_tries": 1.1601999998092651

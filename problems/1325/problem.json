@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2008, baekjoon, mwy3055, na982, djm03178, doju, jung2381187",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 13929,
   "submission_count": null,
   "average_tries": 5.091599941253662

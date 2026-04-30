@@ -19,11 +19,7 @@
   "hint": "<p>Sample Input $1$ specifies that there are two raw materials <code>WoodenGear</code> and <code>MetalSprocket</code> that have a cost of $1$ and $3$, respectively. The input also specifies two intermediate components. The <code>Capstone</code> component requires five <code>StrongChassis</code> and two <code>WoodenGear</code> and the <code>StrongChassis</code> requires three <code>WoodenGear</code> and five <code>MetalSprocket</code>. The cost of a single <code>StrongChasis</code> is therefore $3 \\times 1 + 5 \\times 3 = 18$, and the total cost of the <code>Capstone</code> contraption is thus $5 \\times 18 + 2 \\times 1 = 92$.</p>",
   "source": ", School, CS@Mines, CS@Mines HSPC 2022, Advanced",
   "level": 10,
-  "tags": [
-    "dp",
-    "data_structures",
-    "set"
-  ],
+  "tags": ["dp", "data_structures", "set"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1

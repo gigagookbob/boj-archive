@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2014",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 458,
   "submission_count": null,
   "average_tries": 1.565500020980835

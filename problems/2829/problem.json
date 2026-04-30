@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #1, baekjoon, jh05013, august14",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 241,
   "submission_count": null,
   "average_tries": 2.460599899291992

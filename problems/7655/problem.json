@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2009",
   "level": 10,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.058799982070923

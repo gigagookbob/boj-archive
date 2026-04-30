@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제5회 보라매컵, onjo0127, dlalswp25, protalk, sebinkim",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.495300054550171

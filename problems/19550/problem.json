@@ -27,11 +27,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020, pichulia, queued_q, evenharder, shiftpsh, tncks0121",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "greedy", "sparse_table"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 4.981800079345703

@@ -15,9 +15,7 @@
   "hint": "<p>Note that the last two sample cases would not appear in the Small dataset.</p>\n<p>For sample case #1, there are many possible answers; for example, another is <code>BYBRYR</code>. Note that <code>BYRYRB</code> would <em>not</em> be a valid answer; remember that the stalls form a ring, and the first touches the last!</p>\n<p>In sample case #2, there are only three stalls, and each stall is a neighbor of the other two, so the two unicorns with yellow manes would have to be neighbors, which is not allowed.</p>\n<p>For sample case #3, note that arranging the unicorns in the same color pattern as the Google logo (<code>BRYBGR</code>) would not be valid, since a unicorn with a blue mane would be a neighbor of a unicorn with a green mane, and both of those manes share blue hairs.</p>\n<p>In sample case #4, no two unicorns with yellow manes can be neighbors, and no two unicorns with violet manes can be neighbors.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 1B, alex9801",
   "level": 15,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.3461999893188477

@@ -15,11 +15,7 @@
   "hint": "<p>1234567 -&gt; 28 -&gt; 10 -&gt; 1 (NO)</p>",
   "source": "author5, sait2000",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 6765,
   "submission_count": null,
   "average_tries": 3.07450008392334

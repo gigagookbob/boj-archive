@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Advanced Division, dajinstory, jh05013",
   "level": 16,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 3.1563000679016113

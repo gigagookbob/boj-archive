@@ -23,11 +23,7 @@
   "hint": "<p>Pojašnjenje drugog probnog primjera:</p>\n<p>Mogući izbori za $A$ i $B$ su: $(0, 1),(2, 3),(2, 4),(3, 4),(5, 6),(5, 7),(6, 7)$. Ukupno ih je sedam.</p>\n<p>Slika u tekstu odgovara odabiru $A = 2$ i $B = 4$.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2025, Croatian Olympiad in Informatics 2025",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

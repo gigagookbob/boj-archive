@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2007",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy"
-  ],
+  "tags": ["data_structures", "greedy"],
   "accepted_user_count": 223,
   "submission_count": null,
   "average_tries": 2.8027000427246094

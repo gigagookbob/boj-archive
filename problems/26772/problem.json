@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2020, Stage 1",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 820,
   "submission_count": null,
   "average_tries": 1.4158999919891357

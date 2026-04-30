@@ -19,11 +19,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 9,
-  "tags": [
-    "implementation",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["implementation", "geometry", "geometry_3d"],
   "accepted_user_count": 1923,
   "submission_count": null,
   "average_tries": 1.4882999658584595

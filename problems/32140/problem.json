@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제1회 피갤컵, hamuim, amel, kdh9949, plast, pyb1031",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "sqrt_decomposition",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "sqrt_decomposition", "set"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 32

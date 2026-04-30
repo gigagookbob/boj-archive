@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2013",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "invariant"
-  ],
+  "tags": ["math", "ad_hoc", "invariant"],
   "accepted_user_count": 226,
   "submission_count": null,
   "average_tries": 2.8584001064300537

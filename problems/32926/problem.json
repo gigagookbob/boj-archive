@@ -23,10 +23,7 @@
   "hint": "<p>In the first test, the only strings that can be typed with Kevin's keyboard are prefixes of \"<code>winwinwinwin...</code>\". Since you can not start the string with any letter other than '<code>w</code>', any lowercase English letter except '<code>w</code>' is a correct answer.</p>\n<p>In the second test, \"<code>bb</code>\" and \"<code>cc</code>\" are other possible answers.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Regional Contest",
   "level": 13,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2000000476837158

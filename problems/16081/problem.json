@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, Mongolia, Mongolia National Programming Contest, Mongolia National Programming Contest 2018",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1764999628067017

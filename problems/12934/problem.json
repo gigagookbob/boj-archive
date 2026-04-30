@@ -27,10 +27,7 @@
   "hint": "<p>윤호가 1, 2, 4 턴을 이기고, 동혁이가 3, 5, 6 턴을 이겼다면 가능한 결과이다. 윤호의 승리 횟수가 최소가 되는 경우는 윤호가 1, 6 턴을 이기고, 동혁이가 2, 3, 4, 5를 이긴 것이다.</p>",
   "source": "baekjoon, cheetose",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 327,
   "submission_count": null,
   "average_tries": 1.6299999952316284

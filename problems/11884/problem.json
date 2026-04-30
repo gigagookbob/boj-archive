@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA4",
   "level": 21,
-  "tags": [
-    "dp",
-    "dp_digit",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["dp", "dp_digit", "math", "number_theory"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.2222000360488892

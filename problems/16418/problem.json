@@ -23,11 +23,7 @@
   "hint": "<p>In the first example, if you replace the 0s like this:</p>\n<p><strong>9</strong> 8 4 3 <strong>2</strong> <strong>1</strong></p>\n<p>Then every pair of numbers in the sequence is an inversion, for a total of 15. </p>",
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2018 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2018 Pacific Northwest Region Programming Contest, Division 1",
   "level": 22,
-  "tags": [
-    "cht",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["cht", "dp", "prefix_sum"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 5.142899990081787

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Second elimination round, 2018-2019, heeda0528",
   "level": 15,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 3.614000082015991

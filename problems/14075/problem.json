@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2015",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 240,
   "submission_count": null,
   "average_tries": 1.3166999816894531

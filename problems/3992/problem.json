@@ -15,11 +15,7 @@
   "hint": "<p>In the above example, one possible set of new intervals that each gang would control after redistribution is given below.</p>\n<ul>\n<li>The first gang would control an interval between 7/2 = 3.5 and 12/2 = 6 miles which has length of 5/2 and is a subinterval of its original (2, 6).</li>\n<li>The second gang would control an interval between 2/2 = 1 and 7/2 = 3.5 miles which has length of 5/2 and is a subinterval of its original (1, 4).</li>\n<li>The third gang would control an interval between 16/2 = 8 and 21/2 = 10.5 miles which has length of 5/2 and is a subinterval of its original (8, 12).</li>\n</ul>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2012",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "cht",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "cht", "parametric_search"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 5.7754998207092285

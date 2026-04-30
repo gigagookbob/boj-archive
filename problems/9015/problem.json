@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2012, WeissBlume, rdd6584, baekjoon",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "geometry",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "geometry", "set", "hash_set"],
   "accepted_user_count": 637,
   "submission_count": null,
   "average_tries": 5.080100059509277

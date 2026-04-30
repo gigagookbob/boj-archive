@@ -23,14 +23,7 @@
   "hint": "<p>동우의 마음씨는 착하다는 것이 정론이다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제2회 고려대학교 MatKor Cup: 2023 Winter, eoaud0108, kidw0124, amel, wnguscjf01",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.38100004196167

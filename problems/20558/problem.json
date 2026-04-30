@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2020 송년대회, Camp, Petrozavodsk Programming Camp, Winter 2021, Day 9: Grand Prix of Suwon, Contest, Open Cup, 2020/2021 Season, Stage 13: Grand Prix of Suwon, moonrabbit2, dlalswp25, koosaga, sebinkim",
   "level": 23,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "cht"
-  ],
+  "tags": ["dp", "prefix_sum", "cht"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.9614999294281006

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, IDTcup, 제 2회 IDTcup, messi",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "case_work",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "case_work", "lazyprop"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 5.097599983215332

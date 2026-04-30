@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2016 Greater New York Programming Contest, gallopsys, hun3555, whdgurclzls, jaehoo1, rubix",
   "level": 4,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 601,
   "submission_count": null,
   "average_tries": 2.384399890899658

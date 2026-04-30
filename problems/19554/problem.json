@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2020 연습 세션",
   "level": 8,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 359,
   "submission_count": null,
   "average_tries": 2.5876998901367188

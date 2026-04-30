@@ -35,10 +35,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제4회 kriiicon, august14",
   "level": 20,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.131600022315979

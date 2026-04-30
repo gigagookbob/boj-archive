@@ -15,11 +15,7 @@
   "hint": "<p>In this example, the shape of the JOI kingdom is as follows.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 283px; height: 158px;\"/></p>\n<p>The number of voters in each province is 3, 5, 7, 10, respectively. In this sample output, the provinces are divided into electoral districts as follows.</p>\n<ul>\n<li>Electoral District 1 : Province 1 and Province 3</li>\n<li>Electoral District 2 : Province 2</li>\n<li>Electoral District 3 : Province 4</li>\n</ul>\n<p>The number of voters in each electoral district is 10, 5, 10, respectively. The weight of a single vote for each electoral district is 0.1, 0.2, 0.1, respectively. Therefore, the vote-value disparity is 0.2/0.1 = 2. If X = 1.5, Y = 3, we have ((3−2)/(3−1.5))<sup>2</sup> × 100 = 44.4444444444··· and this output is worth 44.4444444444··· points.</p>\n<p>In this sample input, the following division is not allowed because the Electoral District 2 does not form a connected region.</p>\n<ul>\n<li>Electoral District 1 : Province 1</li>\n<li>Electoral District 2 : Province 2 and Province 4</li>\n<li>Electoral District 3 : Province 3</li>\n</ul>",
   "source": "Contest, JOI Open Contest, JOI Open Contest 2013",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "heuristics"
-  ],
+  "tags": ["ad_hoc", "constructive", "heuristics"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.9500000476837158

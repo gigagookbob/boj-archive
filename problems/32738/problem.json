@@ -15,12 +15,7 @@
   "hint": "<p>Here is the move used in the first sample case:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 494px; height: 152px;\"/></p>\n<p>In the second sample case, the lock is already in the target position, so no moves are needed.</p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["ad_hoc", "constructive", "math", "number_theory"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.384600043296814

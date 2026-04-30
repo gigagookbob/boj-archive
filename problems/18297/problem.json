@@ -19,11 +19,7 @@
   "hint": "<p>Note that the order in which switches are pressed is not important, and that it is never necessary to press twice the same switch. Thus, a solution can be fully described by the set of switches pressed. There might be several solutions, i.e., several adequate sets of switches. In that case, your output should just represent one such solution.</p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019",
   "level": 23,
-  "tags": [
-    "gaussian_elimination",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["gaussian_elimination", "linear_algebra", "math"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.8889000415802002

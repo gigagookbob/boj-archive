@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2019 Sogang Programming Contest, Champion, shiftpsh, jh05013",
   "level": 22,
-  "tags": [
-    "trees",
-    "hashing",
-    "centroid",
-    "tree_isomorphism"
-  ],
+  "tags": ["trees", "hashing", "centroid", "tree_isomorphism"],
   "accepted_user_count": 241,
   "submission_count": null,
   "average_tries": 4.647299766540527

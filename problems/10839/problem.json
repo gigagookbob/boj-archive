@@ -19,10 +19,7 @@
   "hint": "<p>예제 1은 문제의 그림이고, 예제 2는 모든 점이 v<sub>0</sub>으로부터 조명을 받는 예</p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2015, 중등부",
   "level": 19,
-  "tags": [
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "convex_hull"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 3.589600086212158

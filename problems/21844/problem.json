@@ -23,13 +23,7 @@
   "hint": "<p>In the first sample, the alien’s alphabet consists of the same 26 characters as the English alphabet. When encoding <code>a</code> as 1, <code>b</code> as 2, and so on, the three words in the first input are <code>second</code>, <code>virtual</code>, and <code>boi</code>. The keyboard can be built as follows: the characters <code>e</code>, <code>d</code>, <code>l</code>, <code>o</code>, <code>r</code>, <code>u</code>, and <code>v</code> are on the left side, while the characters <code>a</code>, <code>b</code>, <code>c</code>, <code>i</code>, <code>n</code>, <code>s</code>, and <code>t</code> are on the right side, and the other 12 unused characters are distributed evenly.</p>\n<p>In the second sample, the same encoding is used for the words <code>hello</code> and <code>world</code>. Because the first word contains the character <code>l</code> twice without any character between the two occurrences, it is impossible to build a valid keyboard that alternates sides between the two corresponding keystrokes.</p>\n<p>In the third sample, one optimal possibility is to put the keys <code>1</code>, <code>3</code>, <code>5</code>, and <code>6</code> on the left side, and the keys <code>2</code> and <code>4</code> on the right side.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2021, kyo20111",
   "level": 21,
-  "tags": [
-    "dp",
-    "graphs",
-    "knapsack",
-    "bitset",
-    "bipartite_graph"
-  ],
+  "tags": ["dp", "graphs", "knapsack", "bitset", "bipartite_graph"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.894700050354004

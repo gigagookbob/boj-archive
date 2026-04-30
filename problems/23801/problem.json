@@ -19,11 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, bnb2011, jhnah917, palilo",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 376,
   "submission_count": null,
   "average_tries": 4.17549991607666

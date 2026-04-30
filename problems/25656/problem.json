@@ -15,12 +15,7 @@
   "hint": "<p>In the first sample, the cycle 1-2-5-4-3-1 has the maximum range of $5$, since the maximum value on the cycle is $3$, and the minimum value on the cycle is $-2$, so the maximum range of a cycle is $3-(-2)=5$. It can be shown that there are no cycles with a range larger than $5$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 2: ZJU Contest 1",
   "level": 21,
-  "tags": [
-    "bcc",
-    "flow",
-    "graphs",
-    "implementation"
-  ],
+  "tags": ["bcc", "flow", "graphs", "implementation"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

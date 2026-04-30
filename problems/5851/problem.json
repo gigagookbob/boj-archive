@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 9 cows in the lineup, with breed IDs 2, 7, 3, 7, 7, 3, 7, 5, 7. FJ would like to remove up to 1 breed ID from this lineup.</p><h4>Output Details</h4><p>By removing all cows with breed ID 3, the lineup reduces to 2, 7, 7, 7, 7, 5, 7.  In this new lineup, there is a contiguous block of 4 cows with the same breed ID (7).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO January 2013 Contest, Gold",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "set", "tree_set", "two_pointer"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.8514000177383423

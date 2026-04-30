@@ -15,12 +15,7 @@
   "hint": "<p>The following image shows how to place dominoes in the first sample:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 2: Pavel Khaustov Contest 2",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "dp_connection_profile"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "dp_connection_profile"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 4.75

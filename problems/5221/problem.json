@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, University of Maryland High School Programming Contest, HSPC 2012",
   "level": 7,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["string", "bruteforcing", "sorting"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.6851999759674072

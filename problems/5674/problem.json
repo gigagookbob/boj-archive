@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2012",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "game_theory",
-    "bipartite_matching"
-  ],
+  "tags": ["ad_hoc", "binary_search", "game_theory", "bipartite_matching"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

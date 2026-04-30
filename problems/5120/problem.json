@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2012: Mars Rover",
   "level": 15,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

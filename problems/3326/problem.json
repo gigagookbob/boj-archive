@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2008, Day 1",
   "level": 18,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 6.199999809265137

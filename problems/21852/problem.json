@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2021",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "greedy", "sparse_table"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 5.307700157165527

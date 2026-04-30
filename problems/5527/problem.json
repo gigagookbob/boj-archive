@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2012/2013, baekjoon, jhnah917, zych1751",
   "level": 12,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 467,
   "submission_count": null,
   "average_tries": 1.9121999740600586

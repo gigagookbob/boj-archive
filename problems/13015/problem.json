@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ntopia",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2892,
   "submission_count": null,
   "average_tries": 1.5200999975204468

@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2016 East Central Regional Contest",
   "level": 14,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.5

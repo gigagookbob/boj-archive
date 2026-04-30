@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2018",
   "level": 8,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "parsing",
-    "euclidean"
-  ],
+  "tags": ["math", "string", "number_theory", "parsing", "euclidean"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.4878000020980835

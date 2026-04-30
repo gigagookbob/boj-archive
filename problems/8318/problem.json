@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "game_theory",
-    "greedy",
-    "math",
-    "probability"
-  ],
+  "tags": ["ad_hoc", "game_theory", "greedy", "math", "probability"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.333299994468689

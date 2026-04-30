@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 9, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 9, 2019, Advanced",
   "level": 7,
-  "tags": [
-    "math",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["math", "geometry", "constructive"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5455000400543213

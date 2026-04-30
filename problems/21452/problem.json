@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2008",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "string",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "string", "set"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

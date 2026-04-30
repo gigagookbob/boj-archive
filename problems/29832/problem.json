@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2022-23, Preliminary Round",
   "level": 9,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

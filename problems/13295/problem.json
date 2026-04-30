@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2016",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.829800009727478

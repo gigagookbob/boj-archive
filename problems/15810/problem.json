@@ -15,10 +15,7 @@
   "hint": "<p>1, 2, 3번 스태프가 각각 5분, 7분, 3분씩 걸린다면 3분이 지났을 때 3번 스태프가 1개, 5분에 1번 스태프가 1개, 6분에 3번 스태프가 1개를, 7분에 2번 스태프가 1개를, 9분에 3번 스태프가 1개를, 10분에 1번 스태프가 1개를, 12분에 3번 스태프가 1개를, 14분에 2번 스태프가 마지막 1개를 만들면 총 14분으로 최소 시간이 걸린다. </p>",
   "source": "University, 전북대학교, 2018 전북대학교 프로그래밍 경진대회, joonas, tncks0121",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 1651,
   "submission_count": null,
   "average_tries": 3.3422000408172607

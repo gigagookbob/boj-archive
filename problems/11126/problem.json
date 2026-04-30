@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2009",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "probability",
-    "knapsack"
-  ],
+  "tags": ["math", "dp", "probability", "knapsack"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.9375

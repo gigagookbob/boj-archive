@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2006",
   "level": 14,
-  "tags": [
-    "greedy",
-    "string",
-    "prefix_sum",
-    "backtracking",
-    "recursion"
-  ],
+  "tags": ["greedy", "string", "prefix_sum", "backtracking", "recursion"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 8.33329963684082

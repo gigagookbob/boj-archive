@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2023-2024",
   "level": 21,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "cht"
-  ],
+  "tags": ["geometry", "convex_hull", "cht"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.157900094985962

@@ -23,13 +23,7 @@
   "hint": "<p>In the first example test, Charlie can execute \"<code>rm ab*</code>\" to delete files \"<code>abc</code>\" and \"<code>abd</code>\", and then execute \"<code>rm *</code>\" to delete files \"<code>a</code>\" and \"<code>b</code>\". Note that he can't just run \"<code>rm *</code>\" immediately, because initially all four files match an empty prefix.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Regional Contest",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "dp",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "dp", "string", "trees", "trie"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.850000023841858

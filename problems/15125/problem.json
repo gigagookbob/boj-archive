@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2017 Southeast USA Regional Programming Contest, Division 1",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "dp",
-    "priority_queue",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "dp", "priority_queue", "tree_set", "set"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

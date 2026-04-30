@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2009, Stage 1",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "arbitrary_precision",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "arbitrary_precision", "euclidean"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.5744999647140503

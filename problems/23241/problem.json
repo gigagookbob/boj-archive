@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2021, rdd6584",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 4.8333001136779785

@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2017",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["binary_search", "bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 6.952400207519531

@@ -15,10 +15,7 @@
   "hint": "<p>In the first case, the first tribe attacks three times: on day 0 it hits the interval [0,2] at height 10, on day 2 it hits [3,5] at height 8 and on day 4 it hits [6,8] at height 6; all three attacks succeed. Then the second tribe attacks three times, each time at height 8 - on day 10 it hits [2,3] (this succeeds, for example at position 2.5, where the Wall has still height 0), on day 17 it hits [4,5] (this fails, the Wall is already of height 8 in the interval [3, 5], which covers [4, 5]), and on day 24 it hits [6,7] (this succeeds, as the Wall there was of height 6).</p>\n<p>In the second case there are three tribes, and their attacks intermingle. The sequence is as follows:</p>\n<ul>\n<li>On day 0, Tribe 2 attacks [0,1] at height 7 and succeeds.</li>\n<li>On day 1, Tribe 1 attacks [0,5] at height 10, and Tribe 2 attacks [2,3] at height 9. Both attacks succeed (as they were simultaneous, the Wall built after the attack of the first tribe isn't there in time to stop the second tribe).</li>\n<li>On day 2, Tribe 2 attacks [4,5] at height 11 and succeeds (the Wall there was at height 10).</li>\n<li>On day 3, Tribe 1 attacks [8,13] at height 10 and succeeds. Simultaneously, Tribe 3 attacks [0,5] at height 1 and fails (there's a Wall of heights 10 and 11 there).</li>\n<li>On day 4 Tribe 3 attacks [4,9] at height 1 and succeeds (there was no Wall between 5 and 8).</li>\n<li>Finally, on day 5 Tribe 3 attacks [8,13] at height 1 and fails (since a Wall of height 10 is there).</li>\n</ul>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 1C",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.375

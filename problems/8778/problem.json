@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/><img alt=\"\" src=\"2.png\"/><img alt=\"\" src=\"3.png\"/></p>",
   "source": "Contest, Spot, HotSpot 2011",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["ad_hoc", "geometry"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

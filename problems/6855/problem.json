@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2006, CCC 2006 Junior Division",
   "level": 0,
-  "tags": [
-    "arithmetic",
-    "implementation",
-    "math"
-  ],
+  "tags": ["arithmetic", "implementation", "math"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.625

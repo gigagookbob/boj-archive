@@ -15,10 +15,7 @@
   "hint": "<p>For the first test case in the sample input, the contest has 6 problems (A-F) and the competition lasts 100 minutes. The times that you will use for each problem are given in the second line, i.e. Problem A uses15 minutes, Problem B uses 23 minutes, Problem C uses 41 minutes and so on.</p>\n<p>For the best score in this particular contest, you will solve at most 5 problems. The last problem that you can solve is submitted at 85 minutes and will have the total time of 228. You will not have time to solve problem C. </p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2015 ACM-ICPC Asia Phuket Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 1.6196999549865723

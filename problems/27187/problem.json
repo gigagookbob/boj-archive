@@ -19,12 +19,7 @@
   "hint": "<p>In the first example, participants need receive at least four points to get the winner's diploma. Alexey can start solving the third problem, then skip the fourth problem and get four points by solving two tasks.</p>\n<p>In the second example, it is enough to solve only the second problem and receive three points.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2022",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "tree_set",
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "tree_set", "two_pointer", "sliding_window"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.3077000379562378

@@ -15,9 +15,7 @@
   "hint": "<p>All letters are worth 1 point except 'C', which is worth 10 points.  We  receive the letters 'D', 'C', 'O', 'R', and 'W'.</p>\n<p>The word 'COW' is worth 12 points, and we can form it using a subset of the letters in our input.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO February 2004 Contest, Blue",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.588200092315674

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2004 Japan Domestic Contest, leehosu01",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 3.297300100326538

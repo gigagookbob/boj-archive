@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, September 17, 2011",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "queue",
-    "simulation"
-  ],
+  "tags": ["data_structures", "implementation", "queue", "simulation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.7894999980926514

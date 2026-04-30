@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 ERICA Software-Up Programming Contest, League A, nunomi0",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["bruteforcing", "sorting", "binary_search"],
   "accepted_user_count": 434,
   "submission_count": null,
   "average_tries": 2.80649995803833

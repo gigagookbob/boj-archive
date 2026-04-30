@@ -23,11 +23,7 @@
   "hint": null,
   "source": null,
   "level": 23,
-  "tags": [
-    "fft",
-    "math",
-    "sqrt_decomposition"
-  ],
+  "tags": ["fft", "math", "sqrt_decomposition"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.7894999980926514

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, 2016 ACM-ICPC Asia-Manila Regional Programming Contest 연습 세션",
   "level": 20,
-  "tags": [
-    "divide_and_conquer",
-    "divide_and_conquer_optimization",
-    "dp"
-  ],
+  "tags": ["divide_and_conquer", "divide_and_conquer_optimization", "dp"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.512200117111206

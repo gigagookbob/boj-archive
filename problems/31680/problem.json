@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #4",
   "level": 24,
-  "tags": [
-    "math",
-    "data_structures",
-    "trees",
-    "segtree",
-    "combinatorics"
-  ],
+  "tags": ["math", "data_structures", "trees", "segtree", "combinatorics"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

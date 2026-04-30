@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, October 18, 2020",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.7647000551223755

@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2014/2015 Spring Training Camp",
   "level": 17,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.2972999811172485

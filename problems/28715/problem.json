@@ -15,11 +15,7 @@
   "hint": "<p>В первом тесте замок можно открыть за два действия следующим образом:</p>\n<ol>\n<li>Перекрасить вершину $1$ в белый цвет.</li>\n<li>Запустить цепную реакцию из вершины $1$, она уничтожит все вершины.</li>\n</ol>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 5, 2019",
   "level": 14,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

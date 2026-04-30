@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2024, leedongbin, aeren, dabbler1, gs22123, iccodly, kimyh9797, penguin1234",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.047599792480469

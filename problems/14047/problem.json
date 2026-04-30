@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2016, CCO 2016 Qualifying Round",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "math"
-  ],
+  "tags": ["data_structures", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

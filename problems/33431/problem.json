@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 3: ZJU Contest",
   "level": 21,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

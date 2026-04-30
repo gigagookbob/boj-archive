@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 5 July, 2003",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1

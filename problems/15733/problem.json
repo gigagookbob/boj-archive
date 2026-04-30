@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 HEPC, PRIME, msgee",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 14695,
   "submission_count": null,
   "average_tries": 1.179900050163269

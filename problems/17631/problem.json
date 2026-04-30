@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2019",
   "level": 14,
-  "tags": [
-    "bfs",
-    "dijkstra",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "dijkstra", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.3157999515533447

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 08., bubbler, pyb1031, utilforever",
   "level": 19,
-  "tags": [
-    "graphs",
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["graphs", "greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.941200017929077

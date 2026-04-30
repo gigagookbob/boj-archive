@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제4회 생각하는 프로그래밍 대회, siontama, jh05013",
   "level": 12,
-  "tags": [
-    "graphs",
-    "sorting",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "sorting", "shortest_path", "dijkstra"],
   "accepted_user_count": 636,
   "submission_count": null,
   "average_tries": 2.5125999450683594

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1999",
   "level": 17,
-  "tags": [
-    "geometry",
-    "heuristics"
-  ],
+  "tags": ["geometry", "heuristics"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

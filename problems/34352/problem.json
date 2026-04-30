@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, JOI Open Contest, JOI Open Contest 2025",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "binary_search",
-    "pst"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "binary_search", "pst"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3

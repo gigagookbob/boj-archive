@@ -23,13 +23,7 @@
   "hint": "<p>예제 1: f(3, 0) = 3이 최댓값이다.</p>\n<p>예제 2: f(2, 1) = 3이 최댓값이다.</p>\n<p>예제 3: f(5, 0) = 8이 최댓값이다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2018, jihoon, mym0404, sait2000, sg05008",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "set",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "set", "primality_test", "sieve"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 5.142899990081787

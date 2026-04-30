@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 396px; height: 238px;\"/></p>\n<p>На картинке изображен пример. $b_1 = \\frac{2}{26*4} = \\frac{1}{52}$, $b_2 = \\frac{3}{40*3} = \\frac{1}{40}$, $b_3 = \\frac{2}{20*4} = \\frac{1}{40}$.</p>\n<p>Обратите внимание, что кольцо является точкой.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, October 19, 2013, Basic",
   "level": 7,
-  "tags": [
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["geometry", "sorting"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.7691999673843384

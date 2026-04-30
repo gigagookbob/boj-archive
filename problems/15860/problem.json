@@ -10,10 +10,7 @@
   "hint": null,
   "source": ", Olympiad, Baltic Olympiad in Informatics, BOI 2018 연습 세션",
   "level": 8,
-  "tags": [
-    "game_theory",
-    "randomization"
-  ],
+  "tags": ["game_theory", "randomization"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 3.5999999046325684

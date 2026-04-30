@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Southern Programming Contest, Thailand Southern Programming Contest 2015",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 241,
   "submission_count": null,
   "average_tries": 1.56850004196167

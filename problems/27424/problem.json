@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Summer 2023, Day 1: Starting Contest",
   "level": 24,
-  "tags": [
-    "combinatorics",
-    "divide_and_conquer",
-    "fft",
-    "math"
-  ],
+  "tags": ["combinatorics", "divide_and_conquer", "fft", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

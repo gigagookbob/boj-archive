@@ -15,10 +15,7 @@
   "hint": "<p>Before any updates, twelve substrings contain exactly 1 \"bessie\" and 1 string contains exactly 2 \"bessie\"s, so the total number of bessies is $12\\cdot 1 + 1 \\cdot 2 = 14$.</p>\n<p>After one update, $t$ is \"belsiebessie.\" Seven substrings contain exactly one \"bessie.\"</p>\n<p>After two updates, $t$ is \"belsiesessie.\" Only the entire string contains \"bessie.\"</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 US Open Contest, Platinum",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.399999976158142

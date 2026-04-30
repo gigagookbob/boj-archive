@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 강원도 대학생 코딩 경진대회, 2024 강원도 대학생 코딩경진대회, junie, ahgus89, onjo0127, silverwolf",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set"],
   "accepted_user_count": 243,
   "submission_count": null,
   "average_tries": 1.4896999597549438

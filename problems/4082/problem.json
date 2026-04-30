@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2011 Southeast USA Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.4000000953674316

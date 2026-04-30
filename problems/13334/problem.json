@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2016, topology",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "sweeping",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "sorting", "sweeping", "priority_queue"],
   "accepted_user_count": 4341,
   "submission_count": null,
   "average_tries": 2.539299964904785

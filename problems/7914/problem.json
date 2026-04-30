@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2011",
   "level": 20,
-  "tags": [
-    "bipartite_matching",
-    "flow",
-    "mfmc",
-    "graphs"
-  ],
+  "tags": ["bipartite_matching", "flow", "mfmc", "graphs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.733299970626831

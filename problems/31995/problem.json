@@ -23,10 +23,7 @@
   "hint": "<p>첫 번째 예시의 모든 경우의 수는 위의 그림과 같다.</p>\n<p>두 번째 예시에서는 두 게임말을 대각선으로 이웃하게 올려둘 수 없으므로, 정답은 $0$이다.</p>",
   "source": "Contest, 한국정보기술진흥원, 제2회 청소년 IT경시대회, 초등부, Contest, 한국정보기술진흥원, 제2회 청소년 IT경시대회, 중등부, Contest, 한국정보기술진흥원, 제3회 청소년 IT경시대회, 예비소집, ai4youej",
   "level": 4,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 776,
   "submission_count": null,
   "average_tries": 1.1778000593185425

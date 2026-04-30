@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2008 Day 2",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 5.3333001136779785

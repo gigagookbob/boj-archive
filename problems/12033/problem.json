@@ -15,11 +15,7 @@
   "hint": "<p dir=\"ltr\">예제의 첫 번째 테스트 케이스인 Case #1은 문제에서 예로들어서 설명한 세 개의 물품에 대한 정상가격과 할인가격 6개입니다. 또한 예제의 Case #2에서는 여러 품목이 동일한 가격을 가질 수 있고, 어떤 품목의 할인가격이 다른 품목 정상가격과 같을 수도 있습니다.</p>\r\n",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2016, Code Jam to I/O for Women 2016",
   "level": 6,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing"],
   "accepted_user_count": 599,
   "submission_count": null,
   "average_tries": 1.881500005722046

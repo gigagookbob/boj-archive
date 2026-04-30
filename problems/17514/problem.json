@@ -23,11 +23,7 @@
   "hint": "<p>Sequence $p_1, p_2, \\cdots, p_{n}$ is lexicographically smaller than another sequence $q_1, q_2, \\cdots, q_{m}$ if and only if one of the following holds:</p>\n<ul>\n<li>There exists a unique $j$ ($0 \\le j &lt; \\min(n, m)$) where $p_1 = q_1$, $p_2 = q_2$, $\\cdots$, $p_{j} = q_{j}$ and $p_{j+1} &lt; q_{j+1}$.</li>\n<li>$n &lt; m$ and $p_1 = q_1$, $p_2 = q_2$, $\\cdots$, $p_n = q_n$. In other words, $p$ is a strict prefix of $q$.</li>\n</ul>",
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2019 KAIST 9th ICPC Mock Competition, Contest, Open Cup, 2019/2020 Season, Stage 5: Grand Prix of Korea, koosaga",
   "level": 17,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 2.309499979019165

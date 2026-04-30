@@ -19,9 +19,7 @@
   "hint": "<p>The input data are correct and terminate with an end of file. The program prints the result to the standard output from the beginning of a line. </p>\n<p>Input/output samples are in the table below. There are two tests. Each consists of only one target. For the first one n=1, a1=3, b1=0, c1=0, and the maximum number of points is 3. For the second one n=1, a1=1, b1=2, c1=3, and the maximum number of points is 1.The result consists of the maximum number of points John can win, printed from the beginning of the line.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2013, doju",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.6666998863220215

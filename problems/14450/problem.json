@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 January Contest, Gold",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 229,
   "submission_count": null,
   "average_tries": 1.8209999799728394

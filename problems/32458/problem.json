@@ -19,9 +19,7 @@
   "hint": "<p>The problem description is a fiction written by ChatGPT.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2024",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2086,
   "submission_count": null,
   "average_tries": 1.3207000494003296

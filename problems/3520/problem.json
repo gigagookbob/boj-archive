@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2010",
   "level": 25,
-  "tags": [
-    "cactus",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy"
-  ],
+  "tags": ["cactus", "dfs", "graphs", "graph_traversal", "greedy"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

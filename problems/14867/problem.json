@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2017, 고등부, apjw6112, lobo_prix",
   "level": 14,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "graph_traversal",
-    "set",
-    "bfs"
-  ],
+  "tags": ["graphs", "data_structures", "graph_traversal", "set", "bfs"],
   "accepted_user_count": 2035,
   "submission_count": null,
   "average_tries": 2.295799970626831

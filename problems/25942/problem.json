@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2015 Local Programming Contest",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "combinatorics",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["ad_hoc", "combinatorics", "math", "number_theory"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2

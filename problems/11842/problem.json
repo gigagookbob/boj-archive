@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2012",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "implementation",
-    "math",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "implementation", "math", "sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.933300018310547

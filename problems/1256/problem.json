@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, juseong",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 5213,
   "submission_count": null,
   "average_tries": 3.0622000694274902

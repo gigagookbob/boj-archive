@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 1, knon0501, jhnah917, jinhan814, Lawali",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 5.3333001136779785

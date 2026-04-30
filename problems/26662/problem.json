@@ -15,9 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Rysunek po lewej przedstawia początkową piramidę o wysokości 5; każde kółko symbolizuje jedną butelkę, a liczba oznacza rok produkcji wina.</p>\n<p>Rysunek po prawej przedstawia przykładową kolejność, w jakiej podczaszy mógł wybierać butelki: wybrane butelki oznaczone są przerywanymi kółkami, a liczba oznacza jako która z kolei dana butelka została wybrana (zauważ, że po każdym wyborze piramida jest stabilna). Kolejno wybrane butelki mają roczniki 1999, 2010, 2019, 1500, 1600, 710 i 850; królowi przypadnie w udziale rocznik 710.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 382px; height: 154px;\"/></p>",
   "source": "Contest, Algorithmic Engagements, PA 2019",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

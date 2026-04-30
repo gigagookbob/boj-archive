@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 7: Peking U Contest",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.9032000303268433

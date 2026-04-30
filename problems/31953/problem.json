@@ -19,12 +19,7 @@
   "hint": "<p>For the first sample, the minimum total walking distance is $2$. We can destroy the set of houses at $\\{2,5\\}$, $\\{4,5\\}$ or $\\{5,6\\}$.</p>\n<p>For the second sample, we can destroy the set of houses at $\\{6, 31415926\\}$ for a minimum total walking distance of $4$. Note that even though the minimum walking distance can be achieved in multiple ways, it is only counted once since the set of destroyed houses is the same.</p>",
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2024",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "graphs", "greedy", "stack"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.666700005531311

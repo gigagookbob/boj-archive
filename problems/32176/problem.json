@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2024 중앙대학교 프로그래밍 경진대회 (CPC), Contest, University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2024 중앙대학교 프로그래밍 경진대회 (CPC), Open Contest, juyoung0609, dlaud5379, halin, hjroh0315, jk410, mujigae, pjshwa, utilforever, wapas",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 2.511899948120117

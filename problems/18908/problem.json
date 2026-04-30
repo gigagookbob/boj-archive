@@ -39,11 +39,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 16: Grand Prix of Moscow",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.6363999843597412

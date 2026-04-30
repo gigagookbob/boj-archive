@@ -19,10 +19,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<ul>\n<li>The fourth declaration is incorrect because class “circle” has already been defined in the third row.</li>\n<li>The sixth declaration is incorrect because class “object” hasn’t been defined yet.</li>\n<li>The eighth declaration is correct because class “object” has now been declared, and the sixth declaration was discarded, so class “runnable” hasn’t been defined yet.</li>\n<li>The tenth declaration is incorrect because otherwise the following diamond forms: “shape”, “applet”, “square”, “runnable”.</li>\n</ul>\n<p>Clarification of the second example:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"3.png\" style=\"height:298px; width:172px\"/></p>\n<ul>\n<li>The tenth declaration is incorrect because otherwise the following diamond forms: “x”, “g”, “y”, “d” (and many other).</li>\n</ul>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2016, Croatian Olympiad in Informatics 2016",
   "level": 21,
-  "tags": [
-    "bitset",
-    "graphs"
-  ],
+  "tags": ["bitset", "graphs"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

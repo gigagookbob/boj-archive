@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2003",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.1875

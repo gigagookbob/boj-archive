@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2005 (Single)",
   "level": 6,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["implementation", "greedy", "sorting"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.8912999629974365

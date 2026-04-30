@@ -15,11 +15,7 @@
   "hint": "<p>In the example Mile can use the following four pieces:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 146px; height: 149px;\"/></p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open 2020-2021, Qualification, Contest 1",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "stack"
-  ],
+  "tags": ["data_structures", "implementation", "stack"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.720900058746338

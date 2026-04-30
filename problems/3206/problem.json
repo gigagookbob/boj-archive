@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, Regional Competition - Juniors",
   "level": 12,
-  "tags": [
-    "backtracking",
-    "dp",
-    "string"
-  ],
+  "tags": ["backtracking", "dp", "string"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3

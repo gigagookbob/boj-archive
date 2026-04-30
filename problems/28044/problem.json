@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 14,
-  "tags": [
-    "greedy",
-    "case_work",
-    "knapsack"
-  ],
+  "tags": ["greedy", "case_work", "knapsack"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.8909000158309937

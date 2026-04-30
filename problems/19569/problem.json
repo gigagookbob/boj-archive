@@ -19,12 +19,7 @@
   "hint": "<p>이 문제는 muse와 게임을 하는 문제이다. 따라서 muse가 당신이 어떤 수를 두었는지 확인하려면, 당신은 출력을 할 때마다 버퍼를 비워 줘야 한다. 출력을 한 번 할 때마다 출력 명령문 바로 아래 줄에 다음과 같은 문장을 추가하면 된다.</p>\n<ul>\n<li>C / C++의 경우: <code>fflush(stdout);</code></li>\n<li>python의 경우: <code>sys.stdout.flush()</code></li>\n</ul>",
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제1회 코드 챔피언십, 79brue",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "game_theory",
-    "traceback"
-  ],
+  "tags": ["math", "dp", "game_theory", "traceback"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 2.1919000148773193

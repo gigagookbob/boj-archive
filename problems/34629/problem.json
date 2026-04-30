@@ -15,11 +15,7 @@
   "hint": "<p><strong>Explanation of the first test case, first query (1 1):</strong></p>\n<p>The subarray is $[4]$.</p>\n<ol>\n<li>Poby: $4\\to \\left\\lfloor \\tfrac{4}{2}\\right\\rfloor=2$. The array is $[2]$.</li>\n<li>Rekkles: $2\\to 3$. The array is $[3]$.</li>\n<li>Poby: $3\\to \\left\\lfloor \\tfrac{3}{2}\\right\\rfloor=1$. The array is $[1]$, so the game ends.</li>\n</ol>\n<p>It can be shown that this strategy is optimal for both players. Therefore, the value of the array $[4]$ is $2$.</p>\n<p><strong>Explanation of the first test case, second query (1 2):</strong></p>\n<p>The subarray is $[4,3]$.</p>\n<ol>\n<li>Poby: $3\\to \\left\\lfloor \\tfrac{3}{2}\\right\\rfloor=1$. The array is $[4,1]$.</li>\n<li>Rekkles: $4\\to 5$. The array is $[5,1]$.</li>\n<li>Poby: $5\\to \\left\\lfloor \\tfrac{5}{2}\\right\\rfloor=2$. The array is $[2,1]$.</li>\n<li>Rekkles: $2\\to 3$. The array is $[3,1]$.</li>\n<li>Poby: $3\\to \\left\\lfloor \\tfrac{3}{2}\\right\\rfloor=1$. The array is $[1,1]$, so the game ends.</li>\n</ol>\n<p>It can be shown that this strategy is optimal for both players. Therefore, the value of the array $[4,3]$ is $3$.</p>",
   "source": "Contest, Codeforces, Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2), qwerasdfzxcl, djm03178, sadtreap, urd05",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "prefix_sum", "game_theory"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.0693999528884888

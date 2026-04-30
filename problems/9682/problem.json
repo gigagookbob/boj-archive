@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2013",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "ternary_search"
-  ],
+  "tags": ["binary_search", "ternary_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

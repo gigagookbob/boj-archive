@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 1: Jagiellonian U Contest",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "lcs"
-  ],
+  "tags": ["dp", "greedy", "lcs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.5237998962402344

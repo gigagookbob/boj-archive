@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2012, baekjoon",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 3163,
   "submission_count": null,
   "average_tries": 1.7474000453948975

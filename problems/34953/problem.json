@@ -19,11 +19,7 @@
   "hint": "<p>$A$를 뒤집은 문자열은 $A$의 가장 뒤쪽 문자부터 순서대로 읽은 문자열이고, $A$의 부분 문자열은 $A$에서 연속한 몇 개의 문자를 선택해 같은 순서로 이어 붙여 만든 문자열이다.</p>",
   "source": "School, 서울과학고등학교, SciOI 2025, kdy40929, kuhyaku, mhy908, mj1000j, ncy09, octane, realpsdoingdamyoo, utilforever",
   "level": 6,
-  "tags": [
-    "greedy",
-    "string",
-    "constructive"
-  ],
+  "tags": ["greedy", "string", "constructive"],
   "accepted_user_count": 248,
   "submission_count": null,
   "average_tries": 1.4556000232696533

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2025 SCON, jms020820, cologne, dohyonne, jhnah917, jhwest2, junseo, kyo20111, m4ushold, moonlit, rkaskan506, ryute, w8385",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 1.3393000364303589

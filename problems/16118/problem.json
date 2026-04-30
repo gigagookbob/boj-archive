@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"첫 번째 예제에 대한 그림\" height=\"240\" src=\"1.png\" width=\"395\"/></p>\n<p>5번 그루터기에 달빛을 비추면 달빛 여우가 달빛 늑대보다 먼저 도착할 수 있다. 4번 그루터기에 달빛을 비추면 달빛 여우와 달빛 늑대가 동시에 도착한다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2018 서울대학교 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2018 서울대학교 프로그래밍 경시대회, Division 2, doju, august14",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 1832,
   "submission_count": null,
   "average_tries": 4.71019983291626

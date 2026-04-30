@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, October 23, 2021",
   "level": 19,
-  "tags": [
-    "math",
-    "sorting",
-    "bitmask",
-    "two_pointer"
-  ],
+  "tags": ["math", "sorting", "bitmask", "two_pointer"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

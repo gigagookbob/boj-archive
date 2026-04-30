@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2018",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "implementation",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "implementation", "segtree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

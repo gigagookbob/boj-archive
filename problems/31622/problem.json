@@ -35,13 +35,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2023/2024 예선 2",
   "level": 21,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "math"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.875

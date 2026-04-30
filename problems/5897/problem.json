@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>The 4 cows form the corners of a square.</p><h4>Output Details</h4><p>There are 4 lines of symmetry -- one vertical, one horizontal, and two diagonal.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO February 2012 Contest, Gold",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "geometry",
-    "set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "geometry", "set"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.5455000400543213

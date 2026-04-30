@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 25 September, 2004",
   "level": 20,
-  "tags": [
-    "math",
-    "statistics",
-    "gradient_descent"
-  ],
+  "tags": ["math", "statistics", "gradient_descent"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 8.899999618530273

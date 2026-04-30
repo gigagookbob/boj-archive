@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 춘배컵, 2023 제1회 춘배컵, gggkik, lkh3happy, tyoungs, utilforever",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "sqrt_decomposition",
-    "stack"
-  ],
+  "tags": ["data_structures", "sqrt_decomposition", "stack"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.200000047683716

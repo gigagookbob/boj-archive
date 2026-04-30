@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 285px; height: 157px;\"/></p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 1999, 고등부, martinok1103",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation",
-    "flood_fill"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation", "flood_fill"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3.2702999114990234

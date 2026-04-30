@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2017 Rocky Mountain Regional Contest",
   "level": 15,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["backtracking", "bitmask", "bruteforcing", "implementation"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.59089994430542

@@ -15,10 +15,7 @@
   "hint": "<p>This is illustrated below. The dashed lines represent the changed elevations without slopes $b_i$ of their corresponding properties.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 704px; height: 250px;\"/></p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2025",
   "level": 24,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.299999952316284

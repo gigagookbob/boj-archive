@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2013, baekjoon",
   "level": 18,
-  "tags": [
-    "math",
-    "calculus",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "calculus", "numerical_analysis"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 8.36299991607666

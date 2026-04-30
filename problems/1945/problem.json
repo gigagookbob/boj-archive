@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2004, author5",
   "level": 14,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 254,
   "submission_count": null,
   "average_tries": 2.1338999271392822

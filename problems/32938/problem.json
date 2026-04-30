@@ -19,10 +19,7 @@
   "hint": "<p>예제 1에서, 조건에 따라 지옥문을 만들 수 있는 순서쌍의 개수는 3개이다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 600px; height: 191px;\"/></p>",
   "source": "University, 서울시립대학교, 2024 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 2, University, 서울시립대학교, 2024 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 1, pwj6800, ai4youej, tyoungs",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.680000066757202

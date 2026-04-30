@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: It is possible to have the following sets of jokes at the party: {2}, {2, 3}, {2, 3, 4}, {1, 2, 3, 4}, {1, 2}, {1, 2, 3}.</p>\n<p>Clarification of the second example: The only possible sets of jokes are: {3}, {3, 4}, {3, 4, 5}. Notice that the person telling joke 6 cannot be at the party because, in that case, the set of jokes {4, 6} is not a set of consecutive numbers. </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #1",
   "level": 20,
-  "tags": [
-    "bitset",
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["bitset", "dp", "dp_tree", "trees"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.119999885559082

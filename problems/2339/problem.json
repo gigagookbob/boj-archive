@@ -19,10 +19,7 @@
   "hint": null,
   "source": "lky7674, skyde47",
   "level": 15,
-  "tags": [
-    "implementation",
-    "divide_and_conquer"
-  ],
+  "tags": ["implementation", "divide_and_conquer"],
   "accepted_user_count": 668,
   "submission_count": null,
   "average_tries": 2.776900053024292

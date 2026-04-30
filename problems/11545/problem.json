@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2015",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "knapsack",
-    "bipartite_graph"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "knapsack", "bipartite_graph"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.7999999523162842

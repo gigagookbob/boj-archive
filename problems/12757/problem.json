@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2016 전북대 프로그래밍 경진대회, yukariko, seecimi",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "binary_search", "set", "hash_set"],
   "accepted_user_count": 351,
   "submission_count": null,
   "average_tries": 3.250699996948242

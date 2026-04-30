@@ -19,9 +19,7 @@
   "hint": null,
   "source": "cheetose",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.4888999462127686

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2021 Goricon, holmane333, djs100201, jh05013, wbcho0504, WeissBlume",
   "level": 15,
-  "tags": [
-    "implementation",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["implementation", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 3.0299999713897705

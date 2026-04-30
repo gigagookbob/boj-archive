@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2015",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "greedy"
-  ],
+  "tags": ["bruteforcing", "greedy"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.9458999633789062

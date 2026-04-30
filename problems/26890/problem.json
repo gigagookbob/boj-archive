@@ -19,10 +19,7 @@
   "hint": "<p>Låt oss förklara det första indataexemplet. Du köper slut på de $8$ billigaste bäddarna för en total kostnad på $2400$, sedan köper du två av de lite dyrare bäddarna för en total kostnad på $1000$. Slutpriset blir $3400$.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, Final",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.4483000040054321

@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2014",
   "level": 18,
-  "tags": [
-    "geometry",
-    "set"
-  ],
+  "tags": ["geometry", "set"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.6666998863220215

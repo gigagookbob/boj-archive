@@ -23,12 +23,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: Ako se i Adrian i Vedran odluče pridržavati rasporeda od prvog napisanog dana, tada će se obojica na računalu igrati trećeg i petog dana (počevši od sutra). Može se pokazati da gospođa Maliand ne može napraviti bolje rasporede.</p>\n<p>Pojašnjenje drugog probnog primjera: Budući da se Vedran uopće ne snije igrati na računalu, rješenje je $0$ neovisno o Adrianovom rasporedu i njeogovoj odluci o početku pridržavanja rasporda.</p>\n<p>Pojašnjenje trećeg probnog primjera: Ako se Adrian odluči pridržavati rasporeda od prvog napisanog dana, a Vedran od četvrtog napisanog dana, tada će se obojica na računalu igrati četvrtog, petog, osmog, devetog i desetg dana (počevši od sutra). Može se pokazati da gospođa Maliand ne može napraviti bolje rasporede.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2022, Final Exam #1",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "number_theory", "constructive", "pigeonhole_principle"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

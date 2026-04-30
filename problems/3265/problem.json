@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, National Competition #2 - Seniors, baekjoon",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "constructive"
-  ],
+  "tags": ["data_structures", "greedy", "set", "constructive"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 3.6582000255584717

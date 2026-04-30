@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2020",
   "level": 19,
-  "tags": [
-    "kmp",
-    "string"
-  ],
+  "tags": ["kmp", "string"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 4.185200214385986

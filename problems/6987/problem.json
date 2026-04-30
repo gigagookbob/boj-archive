@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2008, 초등부, Olympiad, 한국정보올림피아드, KOI 2008, 중등부, dlwocks31, kyo20111, djm03178",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 3959,
   "submission_count": null,
   "average_tries": 3.2964999675750732

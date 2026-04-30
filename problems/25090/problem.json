@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, there are multiple ways to form a straight using all $4$ dice. One possible way is shown in the image above.</p>\n<p>In Sample Case #2, since none of the dice can show an integer greater than $5$, there is no way to have a straight with more than 55 dice. There are multiple ways to form a straight with exactly $5$ dice. For example, pick the integers $4$ and $5$ for both $d5$⁠'s and then integers $1$, $2$, and $3$ for three of the $d4$⁠'s to form $1$, $2$, $3$, $4$, $5$.</p>\n<p>In Sample Case #3, it is possible to form the straight $1$, $2$, $3$, $4$, $5$, $6$, $7$, $8$, $9$ by discarding one $d4$ and using the $d4$⁠'s, $d5$, and $d6$ to get $1$ through $4$; the $d7$⁠'s to get $5$ through $7$; and the $d10$⁠'s to get $8$ and $9$. There is no way to form a straight of length $10$, so this is the best that can be done.</p>\n<p>In Sample Case #4, we can only form a straight of length $1$, but we can do so by picking any integer for the $d10$ we are given.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Qualification Round",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 1.1259000301361084

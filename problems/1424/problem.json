@@ -35,10 +35,7 @@
   "hint": "<p>예제 1의 경우 한 시디에 최대 두 곡까지 밖에 넣을 수 없다.</p>",
   "source": "baekjoon, dabbler1",
   "level": 11,
-  "tags": [
-    "math",
-    "case_work"
-  ],
+  "tags": ["math", "case_work"],
   "accepted_user_count": 244,
   "submission_count": null,
   "average_tries": 4.954899787902832

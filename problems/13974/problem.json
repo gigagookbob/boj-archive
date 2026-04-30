@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, WeissBlume, jh05013",
   "level": 19,
-  "tags": [
-    "dp",
-    "knuth"
-  ],
+  "tags": ["dp", "knuth"],
   "accepted_user_count": 784,
   "submission_count": null,
   "average_tries": 2.1849000453948975

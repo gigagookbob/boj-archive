@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2021-22, Final Round",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.475000023841858

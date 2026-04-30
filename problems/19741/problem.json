@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2017",
   "level": 5,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "primality_test"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 1.3758000135421753

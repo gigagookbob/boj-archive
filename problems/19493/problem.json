@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 6: Warsaw U Contest, XVI Open Cup Onsite",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "greedy", "set", "coordinate_compression"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 5.75

@@ -23,10 +23,7 @@
   "hint": "<p>Второй тест из примера подробно разобран в условии задачи.</p>\n<p>Для третьего теста из примера существует решение из одной операции расслоения, но поскольку минимизировать количество операций не требуется, приведенный в примере ответ также является правильным. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2018",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "randomization"
-  ],
+  "tags": ["ad_hoc", "randomization"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2

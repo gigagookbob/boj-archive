@@ -15,9 +15,7 @@
   "hint": "<ul>\n<li>1번 상자: 0 = 0<sub>(2)</sub>, 3 = 11<sub>(2)</sub> 이므로, 1은 총 2개</li>\n<li>2번 상자: 1 = 1<sub>(2)</sub>, 2 = 10<sub>(2)</sub> 이므로, 1은 총 2개</li>\n</ul>\n<p>상자에 있는 수들이 중복되지 않고, 각 상자마다 그 안에 들어 있는 수를 이진수로 나타냈을 때 나타나는 1의 개수의 합이 2로 서로 같으므로, 이 분배는 완벽주의자인 나에게도 만족스러운 분배인 것이다.</p>",
   "source": "Contest, kriiicon, 제3회 kriiicon, august14",
   "level": 11,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 1.2143000364303589

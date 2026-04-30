@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2023 SCON, jhnah917, cologne, edenooo, junseo, kyo20111, ryute",
   "level": 13,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 242,
   "submission_count": null,
   "average_tries": 1.4668999910354614

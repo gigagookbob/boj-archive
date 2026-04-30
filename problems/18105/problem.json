@@ -23,12 +23,7 @@
   "hint": "<p>Иллюстрация к первому примеру <img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 298px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Qualification",
   "level": 22,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4.6666998863220215

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "jh05013, TAMREF",
   "level": 17,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 1942,
   "submission_count": null,
   "average_tries": 3.772900104522705

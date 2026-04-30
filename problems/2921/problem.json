@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #1, baekjoon, silvercube",
   "level": 3,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 5930,
   "submission_count": null,
   "average_tries": 1.2415000200271606

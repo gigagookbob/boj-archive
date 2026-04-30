@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2011, baekjoon, koyh1200",
   "level": 11,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 494,
   "submission_count": null,
   "average_tries": 2.344099998474121

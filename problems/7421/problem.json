@@ -15,10 +15,7 @@
   "hint": "<p>The sample input and output do not contain digit '0' because it looks the same as the symbol for the chemical element oxygen. The actual tests may contain any allowed characters.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2001",
   "level": 11,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

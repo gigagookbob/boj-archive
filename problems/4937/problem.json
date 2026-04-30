@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2005 Arab Collegiate Programming Contest",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.9847999811172485

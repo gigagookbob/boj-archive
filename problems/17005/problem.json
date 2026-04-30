@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2019, Contest, Open Cup, 2018/2019 Season, Stage 14: Grand Prix of America",
   "level": 23,
-  "tags": [
-    "math",
-    "graphs",
-    "number_theory",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["math", "graphs", "number_theory", "shortest_path", "dijkstra"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4.571400165557861

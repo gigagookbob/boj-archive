@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #6",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.2609000205993652

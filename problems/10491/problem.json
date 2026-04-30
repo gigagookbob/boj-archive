@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2012",
   "level": 4,
-  "tags": [
-    "string",
-    "parsing"
-  ],
+  "tags": ["string", "parsing"],
   "accepted_user_count": 342,
   "submission_count": null,
   "average_tries": 1.9443999528884888

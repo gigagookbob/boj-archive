@@ -23,14 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Baltic Olympiad in Informatics, BOI 2023",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree", "rerooting"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -19,13 +19,7 @@
   "hint": "<p>승원이의 실력 등급은 7이다. 1번 표적에서 시작할 경우 승원이는 4번 표적으로 간 후 끝까지 해당 표적에 머무른다. 2번 표적이나 4번 표적에서 시작할 경우 승원이는 끝까지 해당 표적에 머무른다. 3번 표적에서 시작할 경우 승원이는 실력 등급이 8인 궁수를 이기고 2번 표적에 끝까지 머무른다.</p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2009, Day 1, koosaga, sky1357",
   "level": 28,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "binary_search", "data_structures", "greedy", "segtree"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.8421000242233276

@@ -15,12 +15,7 @@
   "hint": "<p>Here is how the versions of the matrix will look like:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 276px; height: 200px;\"/></p>\n<p>The number in a circle is the version, the numbers in rhombuses are queries of type $3$.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe, ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2021",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "pst",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "pst", "segtree"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.25

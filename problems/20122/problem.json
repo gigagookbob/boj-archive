@@ -23,11 +23,7 @@
   "hint": "<p>호반우가 모든 사람을 죽이지 않아도 된다.</p>",
   "source": "University, 경북대학교, 2020 Goricon, skeep194",
   "level": 17,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 5.305600166320801

@@ -15,14 +15,7 @@
   "hint": "<p>\"code\" and \"jam\" both appear in the dictionary. Although \"cooperation\" is an English word, it doesn't appear in the dictionary; \"aabea\" does.</p>\n<p>Note that to make the sample case visible in the problem statement, the size of the dictionary in the sample case does not satisfy the limits.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 1B",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "string",
-    "trees",
-    "hashing",
-    "trie"
-  ],
+  "tags": ["dp", "data_structures", "string", "trees", "hashing", "trie"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

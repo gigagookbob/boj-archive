@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2019",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.3529000282287598

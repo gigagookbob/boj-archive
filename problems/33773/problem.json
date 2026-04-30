@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: Each placement of the picture is valid as long as it covers at most one nail.</p>\n<p>Clarification of the second example: The picture cannot be placed in a way that it covers positions $(3, 1)$ and $(4, 1)$ simultaneously.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #5",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum",
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["bruteforcing", "prefix_sum", "two_pointer", "sliding_window"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

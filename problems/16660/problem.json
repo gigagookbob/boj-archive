@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NERC 2018",
   "level": 18,
-  "tags": [
-    "dp",
-    "implementation"
-  ],
+  "tags": ["dp", "implementation"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.8213999271392822

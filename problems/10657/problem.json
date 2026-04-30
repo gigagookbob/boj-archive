@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO December 2014 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "stack"],
   "accepted_user_count": 313,
   "submission_count": null,
   "average_tries": 1.610200047492981

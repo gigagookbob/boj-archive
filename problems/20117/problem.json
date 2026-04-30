@@ -15,10 +15,7 @@
   "hint": "<p>어떤 묶음에 있는 호반우의 품질이 [1, 2, 3, 4] 라고 하면 중간값인 3으로 모든 호반우의 품질을 계산한다. 따라서 이 묶음의 총 가격은 3 × 4 = 12 가 된다.</p>\n<p>품질이 [6, 3, 9] 라고 하면 중간값인 6으로 모든 호반우의 품질을 계산한다. 따라서 이 묶음의 총 가격은 6 × 3 = 18 이 된다.</p>",
   "source": "University, 경북대학교, 2020 Goricon, skeep194",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 639,
   "submission_count": null,
   "average_tries": 1.6260000467300415

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2013 in Aizu",
   "level": 11,
-  "tags": [
-    "dp",
-    "backtracking"
-  ],
+  "tags": ["dp", "backtracking"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 1.0769000053405762

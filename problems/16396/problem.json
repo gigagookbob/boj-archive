@@ -15,9 +15,7 @@
   "hint": "<p>예제 설명</p>\n<p style=\"text-align: center;\"><img height=\"180px\" src=\"https://wonjaek36.github.io/assets/2018-contest/2_example.png\" width=\"500px\"/></p>\n<ul>\n<li>주황색 선: 준섭이가 그린 선</li>\n<li>녹색 선: 직선 좌표에 투사한 선</li>\n</ul>",
   "source": "University, 홍익대학교, 2018 홍익대학교 컴퓨터공학과 코딩대회, loyong, jh05013, tony9402",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1432,
   "submission_count": null,
   "average_tries": 1.9979000091552734

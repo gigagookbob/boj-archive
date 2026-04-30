@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO February 2003 Contest, Orange",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 2.5606000423431396

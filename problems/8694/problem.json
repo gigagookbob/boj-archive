@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Intermediate Group)",
   "level": 15,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.5455000400543213

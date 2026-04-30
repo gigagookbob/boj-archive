@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>Bessie's dance consists of the instructions \"front right foot forward\", \"front right foot pivot\", and \"rear left foot back\".</p>\n<h4>Output Details</h4>\n<p>Bessie needs a 4 x 4 stage to complete her dance. Her feet move as follows:</p>\n<pre>\n.. .. .. .. \n.. .. .. .. (facing north)\n.. .. FL FR \n.. .. RL RR \n</pre>\n<p>After FRF:</p>\n<pre>\n.. .. .. .. \n.. .. .. FR (facing north)\n.. .. FL .. \n.. .. RL RR \n</pre>\n<p>After FRP:</p>\n<pre>\n.. RL FL .. \n.. RR .. FR (facing east)\n.. .. .. .. \n.. .. .. .. \n</pre>\n<p>After RLB:</p>\n<pre>\nRL .. FL ..\n.. RR .. FR (facing east)\n.. .. .. ..\n.. .. .. ..\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO US Open 2013 Contest, Bronze",
   "level": 10,
-  "tags": [
-    "implementation",
-    "geometry",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "simulation"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2

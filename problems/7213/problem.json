@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2020/2021, School Stage, 7-9 Classes",
   "level": 6,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.3243000507354736

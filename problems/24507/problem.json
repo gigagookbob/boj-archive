@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 블롭컵, 제1회 블롭컵, gunwookim, flappybird, jjang36524, lighton, mjhmjh1104, tlsdydaud1",
   "level": 23,
-  "tags": [
-    "math",
-    "constructive",
-    "parity"
-  ],
+  "tags": ["math", "constructive", "parity"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 2.5397000312805176

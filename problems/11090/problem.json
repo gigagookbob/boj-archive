@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2015",
   "level": 19,
-  "tags": [
-    "greedy",
-    "game_theory",
-    "invariant"
-  ],
+  "tags": ["greedy", "game_theory", "invariant"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.4138000011444092

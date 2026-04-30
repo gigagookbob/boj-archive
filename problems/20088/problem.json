@@ -10,10 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2016, Day 2",
   "level": 20,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.7894999980926514

@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:162px; width:288px\" /></p>\r\n",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2008/2009, Stage 1, jjwdi0, kwanghyunon",
   "level": 24,
-  "tags": [
-    "dp",
-    "greedy",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "trees", "dp_tree"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 7.75

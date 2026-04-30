@@ -15,13 +15,7 @@
   "hint": "<p>Wysokości źdźbeł trawy gatunków 1, 2, 3, 4 przed i po kolejnych skoszeniach trawy pokazuje poniższa tabelka.</p>\n<table class=\"table table-bordered\" style=\"width: 50%;\">\n<thead>\n<tr>\n<th style=\"text-align: center;\">Dzień</th>\n<th style=\"text-align: center;\">Przed skoszeniem</th>\n<th style=\"text-align: center;\">Po skoszeniu</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">1</td>\n<td style=\"text-align: center;\">1, 2, 4, 3</td>\n<td style=\"text-align: center;\">1, 1, 1, 1</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">2</td>\n<td style=\"text-align: center;\">2, 3, 5, 4</td>\n<td style=\"text-align: center;\">2, 2, 2, 2</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">3</td>\n<td style=\"text-align: center;\">3, 4, 6, 5</td>\n<td style=\"text-align: center;\">0, 0, 0, 0</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">4</td>\n<td style=\"text-align: center;\">1, 2, 4, 3</td>\n<td style=\"text-align: center;\">1, 2, 4, 3</td>\n</tr>\n</tbody>\n</table>",
   "source": "Contest, Algorithmic Engagements, PA 2015",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "lazyprop",
-    "segtree",
-    "stack"
-  ],
+  "tags": ["binary_search", "data_structures", "lazyprop", "segtree", "stack"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.6666998863220215

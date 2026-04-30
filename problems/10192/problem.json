@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2014, Advanced",
   "level": 11,
-  "tags": [
-    "backtracking",
-    "bruteforcing",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["backtracking", "bruteforcing", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

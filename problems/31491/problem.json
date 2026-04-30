@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2023-2024",
   "level": 15,
-  "tags": [
-    "graphs",
-    "greedy",
-    "ad_hoc",
-    "trees"
-  ],
+  "tags": ["graphs", "greedy", "ad_hoc", "trees"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.2400000095367432

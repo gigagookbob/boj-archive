@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2014-15, Open Competition",
   "level": 6,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "string", "arithmetic", "parsing"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.16129994392395

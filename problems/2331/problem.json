@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO US Open 2002 Contest, Green, Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO US Open 2002 Contest, Orange",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 7355,
   "submission_count": null,
   "average_tries": 1.9996000528335571

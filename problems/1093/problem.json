@@ -27,9 +27,7 @@
   "hint": null,
   "source": "baekjoon, klimmek55, kcm1700",
   "level": 18,
-  "tags": [
-    "mitm"
-  ],
+  "tags": ["mitm"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 3.868000030517578

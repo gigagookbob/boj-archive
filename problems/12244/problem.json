@@ -15,13 +15,7 @@
   "hint": "<p>Sample Explanation</p>\n<p>In the first case, there is only one way to form a valid train by joining string <em>\"ab\"</em> to <em>\"bbbc\"</em> to <em>\"cd\"</em> in this order.</p>\n<p>While in the second case, there are 4 possible ways to form a valid train. Notice that there are two different sets of connected cars represented by the string <em>\"aa\"</em>, so there are two different ways to order these two strings and to group them to be one set of connected cars <em>\"aaaa\"</em>. Also there is only one way to order set of cars <em>\"bc\"</em> with <em>\"c\"</em> in only one way to be <em>\"bcc\"</em>. After that you can order <em>\"aaaa\"</em> and <em>\"bcc\"</em> in two different ways. So totally there are 2*2 = 4 ways to form a valid train.</p>\n<p>In the third sample case, there is no possible way to form a valid train, as if joined in any of the two ways <em>\"abc\"+\"bcd\"</em> or <em>\"bcd\"+\"abc\"</em>, there will be two letters of <em>\"b\"</em> and <em>\"c\"</em> not consecutive.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Round 1C",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "bruteforcing",
-    "combinatorics",
-    "implementation",
-    "math"
-  ],
+  "tags": ["ad_hoc", "bruteforcing", "combinatorics", "implementation", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.18179988861084

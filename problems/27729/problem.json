@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2022, 39dll, akim9905, deuslovelt, eaststar, jthis, leeh18, rasauq1122, tony9402",
   "level": 16,
-  "tags": [
-    "math",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["math", "constructive", "case_work"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.6888999938964844

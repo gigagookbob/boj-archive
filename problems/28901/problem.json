@@ -23,10 +23,7 @@
   "hint": "<p>В первом тестовом примере существует единственная подходящая последовательность количеств изобретенных технологий, так как все плиты известны.</p>\n<p>Во втором тестовом примере надписи на обеих плитах невозможно прочитать, поэтому подойдет любая пара неотрицательных чисел.</p>\n<p>В третьем тестовом примере нельзя получить сумму, равную $5$, из четырех чисел, каждое из которых хотя бы $2$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, February 25, 2018",
   "level": 7,
-  "tags": [
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["greedy", "implementation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.1332999467849731

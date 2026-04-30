@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2014 Arab Collegiate Programming Contest, john6014",
   "level": 3,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 1206,
   "submission_count": null,
   "average_tries": 1.9038000106811523

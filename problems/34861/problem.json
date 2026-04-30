@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, 2025 ICPC Asia Seoul Regional",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "offline_queries",
-    "mo"
-  ],
+  "tags": ["data_structures", "segtree", "offline_queries", "mo"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.3333001136779785

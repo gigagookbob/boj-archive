@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1995",
   "level": 17,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "heuristics"
-  ],
+  "tags": ["graphs", "bruteforcing", "heuristics"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.5999999046325684

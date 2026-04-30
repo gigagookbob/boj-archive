@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2010, Day 1",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["data_structures", "greedy", "math", "prefix_sum"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.625

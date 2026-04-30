@@ -19,13 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 509px; height: 320px;\"/></p>\n<p style=\"text-align: center;\">Figure C.1: Map of the second sample case</p>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2018",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "floyd_warshall"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting", "floyd_warshall"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 1.871899962425232

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round C",
   "level": 19,
-  "tags": [
-    "parsing",
-    "randomization",
-    "string"
-  ],
+  "tags": ["parsing", "randomization", "string"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

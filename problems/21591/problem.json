@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Division Championships, 2021 ICPC North America Division Championships",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 2112,
   "submission_count": null,
   "average_tries": 1.3792999982833862

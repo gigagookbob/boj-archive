@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2017",
   "level": 15,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "precomputation"
-  ],
+  "tags": ["implementation", "bruteforcing", "precomputation"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 1.1509000062942505

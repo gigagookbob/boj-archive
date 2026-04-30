@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2016",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "bitmask",
-    "probability"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "bitmask", "probability"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.5881999731063843

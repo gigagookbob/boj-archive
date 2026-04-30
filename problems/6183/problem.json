@@ -15,10 +15,7 @@
   "hint": "<p>There are 5 cows, and their names are \"Bessie\", \"Jonathan\", \"Montgomery\", \"Alicia\", and \"Angola\". The 3 good strings are \"se\", \"nGo\", and \"Ont\".</p>\n<p>\"Bessie\" contains \"se\", \"Jonathan\" contains \"Ont\", \"Montgomery\" contains both \"nGo\" and \"Ont\", Alicia contains none of the good strings, and \"Angola\" contains \"nGo\".</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO US Open 2008 Contest, Silver",
   "level": 10,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.229699969291687

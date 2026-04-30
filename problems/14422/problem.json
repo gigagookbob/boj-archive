@@ -27,13 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2016/2017",
   "level": 23,
-  "tags": [
-    "bfs",
-    "dijkstra",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "dijkstra", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.605299949645996

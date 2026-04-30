@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025, mingyu331, 79brue, cki86201, evenharder, functionx, kdh9949, kipa00, kuhyaku, leo020630, queued_q, qwerasdfzxcl, seonah",
   "level": 20,
-  "tags": [
-    "trees",
-    "constructive"
-  ],
+  "tags": ["trees", "constructive"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 3.703700065612793

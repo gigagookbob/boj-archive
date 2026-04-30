@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2012",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation",
-    "sorting"
-  ],
+  "tags": ["implementation", "simulation", "sorting"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.0556000471115112

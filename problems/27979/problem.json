@@ -23,11 +23,7 @@
   "hint": null,
   "source": "riroan, aru0504, hjroh0315, kth990303, lms0806, pjshwa, tony9402, utilforever",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc"],
   "accepted_user_count": 178,
   "submission_count": null,
   "average_tries": 1.6854000091552734

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 1, University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 2, say4838, heeda0528, mbae059, qvixnh22, skeep194, swoon, tony9402, utilforever, vkdldjvkdnj",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "dijkstra"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 3.751199960708618

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2007 East Central Regional Contest",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "string"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.5455000400543213

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2007 in Tokyo",
   "level": 13,
-  "tags": [
-    "dp",
-    "implementation",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "implementation", "math", "probability"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.09089994430542

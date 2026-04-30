@@ -19,12 +19,7 @@
   "hint": "<p>어떤 입력이 주어져도 주어진 횟수 내에 제시된 모양을 만들 수 있다. 제시된 모양을 만드는 방법은 유일하지 않을 수 있다.</p>",
   "source": "University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Open Contest, mujigae, sungjae0506, blackking26, kaorin, ksi4495, lky7674, lycoris1600, ohwphil, qvixnh22, sjh1224",
   "level": 20,
-  "tags": [
-    "bitmask",
-    "case_work",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["bitmask", "case_work", "constructive", "implementation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.5

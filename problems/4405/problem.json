@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 25 September, 1999",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.7143000364303589

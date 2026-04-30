@@ -15,13 +15,7 @@
   "hint": "<p>Please note that the example describes the grid from the above figures.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2009",
   "level": 11,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "combinatorics",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "combinatorics", "dfs"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.9722000360488892

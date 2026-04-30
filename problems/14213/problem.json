@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #4",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "trees", "trie"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4

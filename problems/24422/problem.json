@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics for Girls, JOIG 2021/2022",
   "level": 9,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.1973999738693237

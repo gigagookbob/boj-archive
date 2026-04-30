@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Winter Contest, flakepowders, eric00513, hjroh0315, parkky, ssamt, tony9402",
   "level": 22,
-  "tags": [
-    "math",
-    "combinatorics",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "combinatorics", "exponentiation_by_squaring"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.217400074005127

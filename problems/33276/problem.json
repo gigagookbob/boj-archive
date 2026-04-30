@@ -15,10 +15,7 @@
   "hint": "<p>두 정수 $a$, $b$에 대해 $a \\oplus b$는 $a$와 $b$를 XOR한 값으로 정의한다.</p>\n<p>부분 수열은 수열에서 $0$개 이상의 수를 제거하여 만든 수열을 의미한다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 01., gggkik, cologne, jthis, lky7674, utilforever",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "bitmask"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.4688000679016113

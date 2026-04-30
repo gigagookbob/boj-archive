@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, jsa3824",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "prefix_sum",
-    "case_work"
-  ],
+  "tags": ["implementation", "bruteforcing", "prefix_sum", "case_work"],
   "accepted_user_count": 1590,
   "submission_count": null,
   "average_tries": 2.365999937057495

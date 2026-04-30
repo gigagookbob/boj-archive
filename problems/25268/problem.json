@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2022",
   "level": 6,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "constructive",
-    "randomization"
-  ],
+  "tags": ["string", "bruteforcing", "constructive", "randomization"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 2.168100118637085

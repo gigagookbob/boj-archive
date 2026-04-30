@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2009, 초등부, eric00513, djm03178",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 27007,
   "submission_count": null,
   "average_tries": 1.7662999629974365

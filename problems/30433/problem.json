@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2023",
   "level": 26,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

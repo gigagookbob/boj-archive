@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2019",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1803,
   "submission_count": null,
   "average_tries": 1.36489999294281

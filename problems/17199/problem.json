@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 US Open Contest, Bronze",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 552,
   "submission_count": null,
   "average_tries": 1.8406000137329102

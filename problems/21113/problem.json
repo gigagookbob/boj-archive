@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 7: North American Contest 1",
   "level": 8,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.1666998863220215

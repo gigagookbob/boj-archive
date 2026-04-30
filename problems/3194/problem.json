@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2005, National Competition #2 - Juniors",
   "level": 14,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.0625

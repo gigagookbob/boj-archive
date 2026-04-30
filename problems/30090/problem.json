@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 한국정보기술진흥원, 제1회 청소년 IT경시대회, 초등부, Contest, 한국정보기술진흥원, 제1회 청소년 IT경시대회, 고등부, martinok1103",
   "level": 11,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["string", "bruteforcing", "backtracking"],
   "accepted_user_count": 281,
   "submission_count": null,
   "average_tries": 3.7402000427246094

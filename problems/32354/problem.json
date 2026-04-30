@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST HAJE 프로그래밍 대회, harnel_tngn, cologne, gs20036, juneharold, kaistray, mathking1021, shortcakesweets",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "trees",
-    "stack"
-  ],
+  "tags": ["data_structures", "trees", "stack"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.835400104522705

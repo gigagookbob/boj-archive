@@ -23,13 +23,7 @@
   "hint": "<p>Clarification of the first example: Jurica will move book 1 one place to the right, then lift book 2 and move it over to the first place of the first shelf. He lifts book 5 and places it on the fourth place on the second shelf.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #7",
   "level": 23,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy",
-    "lis"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "greedy", "lis"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.200000047683716

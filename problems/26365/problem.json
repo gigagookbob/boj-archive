@@ -23,10 +23,7 @@
   "hint": "<p>Opis trećeg primjera: Žute (osjenčane) domine su one koje se mogu pomaknuti sa svoje originalne pozicije.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 242px; height: 257px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2019, Junior Final Exam #2",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

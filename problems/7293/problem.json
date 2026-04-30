@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2005",
   "level": 18,
-  "tags": [
-    "bipartite_matching",
-    "flow",
-    "geometry",
-    "graphs"
-  ],
+  "tags": ["bipartite_matching", "flow", "geometry", "graphs"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.75

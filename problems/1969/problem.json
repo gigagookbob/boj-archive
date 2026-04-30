@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2006, tncks0121, sohnjunior, jsa3824, previc1",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "greedy", "string", "bruteforcing"],
   "accepted_user_count": 6694,
   "submission_count": null,
   "average_tries": 1.70169997215271

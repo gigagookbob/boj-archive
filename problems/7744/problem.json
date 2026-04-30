@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2004",
   "level": 19,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.9211000204086304

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2010, Group E",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 629,
   "submission_count": null,
   "average_tries": 1.3831000328063965

@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 2: Nexon Arena, kcm1700",
   "level": 21,
-  "tags": [
-    "articulation",
-    "bcc",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["articulation", "bcc", "dp", "dp_tree", "graphs", "trees"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 3.076900005340576

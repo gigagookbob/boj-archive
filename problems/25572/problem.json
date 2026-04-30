@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li><code>spi_e</code> could lead to <code>spike</code>, <code>spine</code> and <code>spire</code></li>\n<li><code>ch_ir</code> could lead to <code>chair</code> and <code>choir</code></li>\n<li><code>cho__</code> could lead to <code>choir</code> and <code>chore</code></li>\n</ul>\n<p>The only word that can be used in the game is: <code>speed</code>.</p>",
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2017",
   "level": 20,
-  "tags": [
-    "hashing",
-    "string"
-  ],
+  "tags": ["hashing", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 5.199999809265137

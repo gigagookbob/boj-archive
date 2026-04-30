@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #5, baekjoon, jongseo_park, tncks0121, csehydrogen, jh05013, upple1, vyu, rdd6584",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 51335,
   "submission_count": null,
   "average_tries": 3.6221001148223877

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup, stonejjun03",
   "level": 20,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 166,
   "submission_count": null,
   "average_tries": 2.379499912261963

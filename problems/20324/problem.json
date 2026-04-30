@@ -15,10 +15,7 @@
   "hint": "<p><strong>Pojašnjenje probnog primjera</strong>: u trećoj državi iznos 6 moguće je isplatiti koristeći dvije kovanice (6 = 3 + 3), no pohlepni algoritam koristi tri kovanice (6 = 4 + 1 + 1).</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2020",
   "level": 11,
-  "tags": [
-    "dp",
-    "binary_search"
-  ],
+  "tags": ["dp", "binary_search"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.200000047683716

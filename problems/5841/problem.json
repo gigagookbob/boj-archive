@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 cows.  Cows 1 and 2 have the same breed, and cows 1 and 3 have different breeds.</p><h4>Output Details</h4><p>The following six breed assignments are possible for the first 3 cows: HHG, HHJ, GGH, GGJ, JJH, JJG.  For each of these, we can have 3 possible breed assignments for the 4th cow, giving a total of 18 different assignments consistent with FJ's list.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO March 2013 Contest, Bronze",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 2.2105000019073486

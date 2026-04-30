@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 ERICA Software-Up Programming Contest, League A",
   "level": 5,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "string", "arithmetic"],
   "accepted_user_count": 556,
   "submission_count": null,
   "average_tries": 1.586300015449524

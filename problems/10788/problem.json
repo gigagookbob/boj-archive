@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2015",
   "level": 23,
-  "tags": [
-    "dp",
-    "greedy",
-    "string",
-    "case_work"
-  ],
+  "tags": ["dp", "greedy", "string", "case_work"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.047600030899048

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2012, yclock",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.878000020980835

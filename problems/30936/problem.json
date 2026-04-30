@@ -27,11 +27,7 @@
   "hint": "<p>For Sample Input 1, the only way that conforms to the decision is to send $0.5$ mL from the bottle $1$ and $2.5$ mL from the bottle $2$ put together in a bottle to the institute $1$, and a bottle of the rest to the institute $2$.</p>\n<p>For Sample Input 2, the distribution agreement cannot be fulfilled.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2023 Asia Yokohama Regional",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "geometry", "sorting"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.9500000476837158

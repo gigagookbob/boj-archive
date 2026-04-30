@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2024 POSTECH Programming Contest, Open Contest, kwoncycle, menborong, hyperbolic, jk410, leo020630, pasa3232, petamingks, pjshwa, slah007",
   "level": 20,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 4.968800067901611

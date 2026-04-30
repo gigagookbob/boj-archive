@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2005, kcm1700",
   "level": 12,
-  "tags": [
-    "implementation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "backtracking"],
   "accepted_user_count": 11914,
   "submission_count": null,
   "average_tries": 2.157900094985962

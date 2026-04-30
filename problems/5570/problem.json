@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2009/2010 예선, baekjoon, SORINAMU",
   "level": 19,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 3.680000066757202

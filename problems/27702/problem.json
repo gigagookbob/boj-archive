@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2011",
   "level": 7,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["implementation", "ad_hoc", "case_work"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.2726999521255493

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 1: XXI All-Siberian Programming Contest",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "graphs"
-  ],
+  "tags": ["data_structures", "disjoint_set", "graphs"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.2660000324249268

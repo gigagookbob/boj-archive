@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2014 Japan Domestic Contest",
   "level": 13,
-  "tags": [
-    "geometry",
-    "implementation"
-  ],
+  "tags": ["geometry", "implementation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

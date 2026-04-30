@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Hangzhou, Hangzhou Regional Contest 2005",
   "level": 21,
-  "tags": [
-    "graphs",
-    "geometry",
-    "line_intersection",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "geometry", "line_intersection", "planar_graph"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

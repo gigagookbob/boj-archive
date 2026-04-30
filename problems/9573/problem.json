@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>Each dial is numbered 1..50.  Farmer John's combination is (1,2,3), and the master combination is (5,6,7).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO November 2013 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 247,
   "submission_count": null,
   "average_tries": 2.0404999256134033

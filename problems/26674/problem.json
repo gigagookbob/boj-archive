@@ -15,10 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: W kolejnych puszkach farba jest odpowiednio: niebieska, zielona, żółta, zielona, zielona, brązowa, pomarańczowa, żółta i biała. Zielony kolor występuje zatem w trzech puszkach.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 11,
-  "tags": [
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "difference_array"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.2856999635696411

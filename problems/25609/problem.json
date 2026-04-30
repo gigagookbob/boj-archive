@@ -19,13 +19,7 @@
   "hint": "<p>첫 번째 예제에서, 주어진 그래프와 그래프의 최소 스패닝 트리는 다음과 같다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 335px; height: 329px;\"/><img alt=\"\" src=\"2.png\" style=\"width: 335px; height: 329px;\"/></p>\n<p>그래프의 모든 정점들을 포함하는 연결된 부분 그래프 중에서 간선의 가중치의 합이 최소인 것을 최소 스패닝 트리라고 한다.</p>\n<p>최소 스패닝 트리의 가중치란 최소 스패닝 트리에 포함되는 간선의 가중치의 합을 의미한다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2022 서울대학교 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2022 서울대학교 프로그래밍 경시대회, Division 1 (Open Contest), sebinkim, IHHI, kipa00, moonrabbit2, sjimed",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "bitmask",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "bitmask", "disjoint_set", "mst"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.3461999893188477

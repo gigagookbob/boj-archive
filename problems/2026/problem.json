@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO December 2003 Contest, Green, adh0463, Lawali, mj2park, luniro",
   "level": 14,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 852,
   "submission_count": null,
   "average_tries": 3.901400089263916

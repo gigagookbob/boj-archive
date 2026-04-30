@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2010, baekjoon",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 939,
   "submission_count": null,
   "average_tries": 1.4814000129699707

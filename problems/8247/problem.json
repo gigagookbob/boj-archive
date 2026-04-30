@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2012",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "bitmask"
-  ],
+  "tags": ["data_structures", "sorting", "set", "bitmask"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.0952000617980957

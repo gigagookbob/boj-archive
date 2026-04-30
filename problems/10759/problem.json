@@ -15,9 +15,7 @@
   "hint": "<p>위 예제에서 만들 수 있는 팰린드롬은 아래와 같다.</p>\r\n\r\n<ul>\r\n\t<li>1 x &quot;ABCDCBA&quot;</li>\r\n\t<li>1 x &quot;ABCWCBA&quot;</li>\r\n\t<li>6 x &quot;ABXZXBA&quot;</li>\r\n\t<li>4 x &quot;ABXDXBA&quot;</li>\r\n</ul>\r\n\r\n<p>1 + 1 + 6 + 4 = 12</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO US Open 2015 Contest, Gold, algoshipda",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 2.4110000133514404

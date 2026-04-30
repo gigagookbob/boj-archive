@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2001 연습 세션, baekjoon, 10_J, irikong",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 10648,
   "submission_count": null,
   "average_tries": 1.8138999938964844

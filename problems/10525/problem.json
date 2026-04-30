@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2014",
   "level": 16,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy",
-    "trees"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "greedy", "trees"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.4477999210357666

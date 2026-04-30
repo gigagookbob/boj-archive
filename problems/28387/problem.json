@@ -23,12 +23,7 @@
   "hint": "<p>Pojašnjenje drugog probnog primjera:</p>\n<p>Podintervali duljine tri u prvoj permutaciji su $(2\\,4\\,1)$ i $(4\\,1\\,3)$, a u drugoj $(1\\,2\\,3)$ i $(2\\,3\\,4)$. Za presjeke imamo:</p>\n<p>$$\\{2, 4, 1\\} ∩ \\{1, 2, 3\\} = \\{1, 2\\}, \\{2, 4, 1\\} ∩ \\{2, 3, 4\\} = \\{2, 4\\},$$ $$\\{4, 1, 3\\} ∩ \\{1, 2, 3\\} = \\{1, 3\\}, \\{4, 1, 3\\} ∩ \\{2, 3, 4\\} = \\{3, 4\\},$$</p>\n<p>pa vidimo da sličnost iznosi 2 te da se postiže za četiri para podintervala.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Croatian Olympiad in Informatics 2023",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "offline_queries",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "offline_queries", "segtree", "sweeping"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

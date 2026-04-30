@@ -15,13 +15,7 @@
   "hint": "<p><strong>First Case</strong></p>\n<p>Only one cleaner. Electrical point is at (0, 0) and D = 10, d = 1. So the person handling this cleaner will be moving around a circle with 10 unit radius centering at (0, 0). Since d = 1, the cleaner will be able to clean any dirt with in 1 unit distance from him. The region cleaned by the cleaner is denoted by black region in the following picture:</p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:141px; width:142px\"/></p>\n<p>Here the black region is bounded by two circles both centering at co-ordinate (0, 0). Radii of the circles are 11 and 9. So the area covered = π × (11<sup>2</sup> − 9<sup>2</sup>) = 125.663706.</p>\n<p><strong>Second Case</strong></p>\n<p>Two cleaners. Electrical point of first cleaner is at (0, 0) and the point for second cleaner is at (13, 0). For first cleaner D = 7, d = 1 while for second cleaner D = 10, d = 1. The region cleaned by the cleaners is denoted by black region in the following picture:</p>\n<p><img alt=\"\" src=\"3.png\" style=\"height:155px; width:204px\"/></p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2013",
   "level": 25,
-  "tags": [
-    "calculus",
-    "case_work",
-    "geometry",
-    "green",
-    "math"
-  ],
+  "tags": ["calculus", "case_work", "geometry", "green", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 7

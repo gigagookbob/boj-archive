@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제의 출력을 이진수로 나타내면 다음과 같다.</p>\r\n\r\n<p>$$ \\begin{aligned} 6 &amp;= 0110_{(2)} \\\\ 9 &amp;= 1001_{(2)} \\end{aligned} $$</p>\r\n\r\n<p>각 위치의 비트를 비교했을 때 서로 다른 비트의 수는 $4$개이므로 해밍 거리는 $4$이며, 이것이 최대이다.</p>\r\n\r\n<p>두 번째 예제의 출력을 이진수로 나타내면 다음과 같다.</p>\r\n\r\n<p>$$ \\begin{aligned} 29 &amp;= 11101_{(2)} \\\\ 26 &amp;= 11010_{(2)} \\end{aligned} $$</p>\r\n\r\n<p>각 위치의 비트를 비교했을 때 서로 다른 비트의 수는 $3$개이므로 해밍 거리는 $3$이며, 이것이 최대이다.</p>\r\n",
   "source": "University, UNIST-DGIST-POSTECH, 2025 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2025 UDPC), Senior Division, queued_q, bnb2011, ekwoo, jinhan814, jthis, kwoncycle, leo020630, playsworld16, slah007, tony9402",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.6548000574111938

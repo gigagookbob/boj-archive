@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2019",
   "level": 3,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 831,
   "submission_count": null,
   "average_tries": 1.7412999868392944

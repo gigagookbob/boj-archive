@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2006 East Central Regional Contest",
   "level": 11,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 2.0455000400543213

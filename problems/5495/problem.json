@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2003, Day 2",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph", "traceback"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

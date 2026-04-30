@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2019 ICPC South Pacific Regionals",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.8733999729156494

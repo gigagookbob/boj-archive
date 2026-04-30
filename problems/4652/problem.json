@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2001 Mid-Central Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.7143000364303589

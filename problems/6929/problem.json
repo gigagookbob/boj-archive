@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2001, CCC 2001 Junior Division",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 1.1030000448226929

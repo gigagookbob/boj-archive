@@ -15,11 +15,7 @@
   "hint": "<p>예제에서 뿌요들은 다음과 같이 떨어진다.:</p>\r\n\r\n<pre>\r\n0 0 0 0    0 0 0 0    0 0 0 0    0 0 0 0    0 0 0 0    \r\n0 0 0 0    0 0 0 0    0 0 0 0    0 0 0 0    0 0 2 0    \r\n0 0 0 0    0 0 0 0    0 0 0 0    0 0 0 0    0 0 3 0\r\n0 0 0 0 -&gt; 0 0 0 0 -&gt; 0 0 0 0 -&gt; 0 0 3 0 -&gt; 0 0 3 0\r\n0 0 0 0    0 0 0 0    0 0 0 0    0 0 3 0    0 0 3 0    \r\n0 0 0 0    0 0 0 1    0 2 3 1    0 2 3 1    0 2 3 1    \r\n0 1 2 0    0 1 2 2    0 1 2 2    0 1 2 2    0 1 2 2  \r\n\r\n           0 0 0 0    0 0 0 0    0 0 0 0    0 0 0 0    \r\n           0 0 2 0    0 0 0 0    0 0 0 0    0 0 0 0    \r\n           0 0 0 0    0 0 0 0    0 0 0 0    0 0 0 0\r\n        -&gt; 0 0 0 0 -&gt; 0 0 0 0 -&gt; 0 0 0 0 -&gt; 0 0 0 0\r\n           0 0 0 0    0 0 0 0    0 0 0 0    0 0 0 0    \r\n           0 2 0 1    0 2 2 1    0 0 0 1    0 0 0 0    \r\n           0 1 2 2    0 1 2 2    0 1 0 0    0 1 0 1  </pre>\r\n",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2018 KAIST RUN Spring Contest, ho94949, jh05013",
   "level": 17,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 2.9066998958587646

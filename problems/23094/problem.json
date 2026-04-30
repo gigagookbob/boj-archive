@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2020",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["math", "dp", "number_theory", "divide_and_conquer", "recursion"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.066699981689453

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO February 2016 Contest, Silver",
   "level": 13,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing"],
   "accepted_user_count": 208,
   "submission_count": null,
   "average_tries": 1.7691999673843384

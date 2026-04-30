@@ -23,11 +23,7 @@
   "hint": "<p>예제 1: abcde의 해시 값은 1 × 31<sup>0</sup> + 2 × 31<sup>1</sup> + 3 × 31<sup>2</sup> + 4 × 31<sup>3</sup> + 5 × 31<sup>4</sup> = 1 + 62 + 2883 + 119164 + 4617605 = 4739715이다.</p>\n<p>예제 2: zzz의 해시 값은 26 × 31<sup>0</sup> + 26 × 31<sup>1</sup> + 26 × 31<sup>2</sup> = 26 + 806 + 24986 = 25818이다.</p>",
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 2, luke0201, hugun1234",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "hashing"
-  ],
+  "tags": ["implementation", "string", "hashing"],
   "accepted_user_count": 25789,
   "submission_count": null,
   "average_tries": 3.297300100326538

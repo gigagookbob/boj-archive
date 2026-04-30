@@ -15,12 +15,7 @@
   "hint": "<p>나이트의 이동을 엄밀하게 표현하면 다음과 같다: 현재 위치가 ($x$, $y$, $z$) 라고 할 때 ($x + dx$, $y + dy$, $z + dz$) 의 위치로 갈 수 있다. 단, {$|dx|$, $|dy|$, $|dz|$} = {$1$, $2$, $3$}이다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 08., kiwiyou, rustiebeats, chogahui05, cologne, heeda0528, lky7674, pjshwa, tony9402, utilforever",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["math", "ad_hoc", "parity", "invariant"],
   "accepted_user_count": 204,
   "submission_count": null,
   "average_tries": 1.8087999820709229

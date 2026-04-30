@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2016 East Central Regional Contest",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

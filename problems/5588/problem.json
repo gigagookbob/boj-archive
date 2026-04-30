@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2007/2008 예선, baekjoon",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "set", "hash_set"],
   "accepted_user_count": 459,
   "submission_count": null,
   "average_tries": 1.363800048828125

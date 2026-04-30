@@ -15,12 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "number_theory", "binary_search", "parametric_search"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.970099925994873

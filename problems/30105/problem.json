@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 09., pjshwa, azberjibiou, chogahui05, heeda0528, kiwiyou, nflight11, rustiebeats, snrnsidy, tony9402, utilforever",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "set", "hash_set"],
   "accepted_user_count": 226,
   "submission_count": null,
   "average_tries": 2.9114999771118164

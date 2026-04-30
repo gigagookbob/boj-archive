@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 미적확통컵, 2022 제1회 미적확통컵, andyjung2104, ai4youej, azberjibiou, eaststar, heeda0528, kiwiyou, parkky, qwerasdfzxcl, wider93",
   "level": 11,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "dag"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "dag"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 1.5347000360488892

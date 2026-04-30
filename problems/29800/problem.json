@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round C",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "graphs"
-  ],
+  "tags": ["data_structures", "disjoint_set", "graphs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

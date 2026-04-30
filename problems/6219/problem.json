@@ -15,12 +15,7 @@
   "hint": "<p>이 범위 안에서의 소수중에 13만&nbsp;&#39;3&#39;을 포함한다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO January 2007 Contest, Bronze, Green55",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 1287,
   "submission_count": null,
   "average_tries": 2.2409000396728516

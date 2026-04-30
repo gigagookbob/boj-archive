@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2015",
   "level": 18,
-  "tags": [
-    "randomization"
-  ],
+  "tags": ["randomization"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.9642999172210693

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2011 Greater New York Programming Contest, arine",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.75

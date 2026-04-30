@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2019, Advanced",
   "level": 0,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

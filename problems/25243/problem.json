@@ -27,12 +27,7 @@
   "hint": "<ul>\n<li>시발역은 열차가 운행을 시작하는 역이고, 종착역은 열차가 운행을 마치는 역입니다.</li>\n<li>문제의 단순화를 위해 아래의 요소들은 무시하셔도 좋습니다.\n\t<ul>\n<li>앙성온천 ~ 충주 구간에 있는 <strong>금가 신호장</strong></li>\n<li>부발역 근처에서 <strong>경강선 전철과의 경합</strong></li>\n<li>부발 기지에 속해 있는 이음 편성의 수</li>\n</ul>\n</li>\n</ul>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 코딩테스트 4회, chogahui05, bnb2011, chansol, mjhmjh1104, parkky, pjshwa, quickn, tony9402",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "priority_queue",
-    "simulation"
-  ],
+  "tags": ["data_structures", "implementation", "priority_queue", "simulation"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.4444000720977783

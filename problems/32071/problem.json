@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2024 2차대회, 초등부, ainta",
   "level": 21,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 4.0605998039245605

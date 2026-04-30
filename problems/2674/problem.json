@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1996, 고등부, korking, snowflake",
   "level": 19,
-  "tags": [
-    "backtracking",
-    "implementation"
-  ],
+  "tags": ["backtracking", "implementation"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 3.233299970626831

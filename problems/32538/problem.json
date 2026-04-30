@@ -39,11 +39,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2024 Preliminaries",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.2258000373840332

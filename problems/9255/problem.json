@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2013: PRISM",
   "level": 6,
-  "tags": [
-    "implementation",
-    "graphs"
-  ],
+  "tags": ["implementation", "graphs"],
   "accepted_user_count": 161,
   "submission_count": null,
   "average_tries": 2.596299886703491

@@ -15,9 +15,7 @@
   "hint": "<p>In the example, the only positive integers $n$ from the range $[5000,10000]$ satisfying the equation for $k=51$ are $7293$, $7854$ and $7905$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 6: Warsaw U Contest, XVI Open Cup Onsite",
   "level": 11,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.0262999534606934

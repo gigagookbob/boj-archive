@@ -15,10 +15,7 @@
   "hint": "<p>W pierwszym zestawie suma liczb jest równa 4 (2+2), podobnie jak iloczyn (2*2).</p>\n<p>W drugim zestawie suma liczb wynosi 7 (2+2+3), natomiast iloczyn jest równy 12 (2*2*3).</p>\n<p>W trzecim zesawie suma liczb wynosi 2 (1+1), natomiast iloczyn jest równy 1 (1*1).</p>",
   "source": "Contest, Spot, HotSpot 2011",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.5199999809265137

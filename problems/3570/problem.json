@@ -23,11 +23,7 @@
   "hint": "<p>In the first example, the optimal abbreviations are “<code>NA</code>” and “<code>INA</code>”.</p>\n<p>In the third example, the optimal abbreviations are “<code>JB</code>” and “<code>BJ</code>”.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2008",
   "level": 20,
-  "tags": [
-    "dp",
-    "implementation",
-    "string"
-  ],
+  "tags": ["dp", "implementation", "string"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

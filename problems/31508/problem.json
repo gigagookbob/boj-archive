@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2023 ICPC Pacific Northwest Region, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2023 ICPC Pacific Northwest Region, Division 2",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 3.0213000774383545

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2007, Stage 2",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 222,
   "submission_count": null,
   "average_tries": 1.094599962234497

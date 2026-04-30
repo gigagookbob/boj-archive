@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2024, Day 1",
   "level": 24,
-  "tags": [
-    "math",
-    "dp",
-    "probability",
-    "heuristics"
-  ],
+  "tags": ["math", "dp", "probability", "heuristics"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

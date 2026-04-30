@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2023, qwerasdfzxcl, 79brue, ibm2006, mjhmjh1104, naeby, solvedac, utilforever, whqkrkt04",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 402,
   "submission_count": null,
   "average_tries": 2.3308000564575195

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, National Competition #1 - Seniors",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "stack",
-    "deque"
-  ],
+  "tags": ["data_structures", "stack", "deque"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

@@ -15,11 +15,7 @@
   "hint": "<p>Cow 1 goes first and tags the nearest cow, cow 2. Cow 2 is eliminated so she does not get a turn. Cow 3 then tags the only remaining cow, cow 1.  She is the last cow left, so she wins.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO November 2006 Contest, Bronze, ICPC, Regionals, Europe, Central European Regional Contest, CERC 2002",
   "level": 7,
-  "tags": [
-    "implementation",
-    "geometry",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "simulation"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.825000047683716

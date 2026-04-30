@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2011 East Central Regional Contest, baekjoon",
   "level": 13,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 4.239999771118164

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round A",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.2187999486923218

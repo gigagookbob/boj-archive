@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2022 Goricon, mokalover, dngnogu, jthis, leo020630, powergee, qotmd01, skeep194",
   "level": 14,
-  "tags": [
-    "math",
-    "binary_search",
-    "calculus",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "binary_search", "calculus", "numerical_analysis"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 5.6545000076293945

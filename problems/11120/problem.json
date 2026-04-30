@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2009",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "math",
-    "prefix_sum",
-    "probability"
-  ],
+  "tags": ["binary_search", "math", "prefix_sum", "probability"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.5416998863220215

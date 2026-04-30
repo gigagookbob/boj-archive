@@ -31,10 +31,7 @@
   "hint": "<p>예제 1의 경우</p>\n<ul>\n<li>1번 줄 (E): 프렛을 누르지 않는다. E를 연주한다.</li>\n<li>2번 줄 (A): 2번 프렛을 누른다. B를 연주한다.</li>\n<li>3번 줄 (D): 2번 프렛을 누른다. E를 연주한다.</li>\n<li>4번 줄 (G): 1번 프렛을 누른다. G#을 연주한다.</li>\n<li>5번 줄 (B): 프렛을 누르지 않는다. B를 연주한다.</li>\n<li>6번 줄 (E): 프렛을 누르지 않는다. E를 연주한다.</li>\n</ul>\n<p>따라서 답은 (2-1)+1 = 2이다.</p>",
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 2.90910005569458

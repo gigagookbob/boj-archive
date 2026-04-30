@@ -19,13 +19,7 @@
   "hint": "<p>В первом примере максимальное значение выражения получится, если удалить первый знак &lt;&lt;<code>+</code>&gt;&gt;. Тогда выражение будет равно $12345 + 67 = 12412$.</p>\n<p>Во втором примере максимальное значение выражения получится, если удалить первый знак &lt;&lt;<code>-</code>&gt;&gt;. Тогда выражение будет равно $1020 - 30 = 990$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, May 11, 2020",
   "level": 12,
-  "tags": [
-    "dp",
-    "string",
-    "bruteforcing",
-    "prefix_sum",
-    "parsing"
-  ],
+  "tags": ["dp", "string", "bruteforcing", "prefix_sum", "parsing"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.8889000415802

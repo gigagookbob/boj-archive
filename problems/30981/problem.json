@@ -23,12 +23,7 @@
   "hint": "<p>$t = n$일 때 선생님의 위치는 $(x_{( \\lfloor{\\frac{n}{10}}\\rfloor \\bmod {p} \\, + \\, 1 )}, y_{( \\lfloor{\\frac{n}{10}}\\rfloor \\bmod {p} \\, + \\, 1 )})$이다.</p>",
   "source": "Contest, BOJ User Contest, 파댕이컵, 파댕이컵, lycoris1600, ksoosung77, qvixnh22, utilforever",
   "level": 17,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 5.5

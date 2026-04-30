@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, cheetose",
   "level": 18,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination",
-    "xor_basis"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination", "xor_basis"],
   "accepted_user_count": 222,
   "submission_count": null,
   "average_tries": 2.4774999618530273

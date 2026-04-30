@@ -15,11 +15,7 @@
   "hint": null,
   "source": "yclock",
   "level": 18,
-  "tags": [
-    "graphs",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["graphs", "math", "number_theory"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 7.06820011138916

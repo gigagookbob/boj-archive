@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2017, Group B (Juniors)",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.5348999500274658

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, imgosari, yehyun",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 25655,
   "submission_count": null,
   "average_tries": 1.493299961090088

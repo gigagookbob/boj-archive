@@ -23,12 +23,7 @@
   "hint": "<p>Mirko M. played against five players that he threw out in three rounds.</p>\n<p>In order to win the maximum possible amount, firstly, he had to throw out three opponents and then two more times one at a time.</p>\n<p>In that case, the amount won is equal to (3/5 + 1/2 + 1/1) · 100 000 = 2.1 · 100 000 = 210 000 kunas.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #4",
   "level": 23,
-  "tags": [
-    "dp",
-    "binary_search",
-    "cht",
-    "alien"
-  ],
+  "tags": ["dp", "binary_search", "cht", "alien"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.8889000415802

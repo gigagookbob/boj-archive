@@ -10,10 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2017, Practice",
   "level": 22,
-  "tags": [
-    "dp",
-    "geometry"
-  ],
+  "tags": ["dp", "geometry"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.272700071334839

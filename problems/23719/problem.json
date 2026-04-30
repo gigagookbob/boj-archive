@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round H",
   "level": 24,
-  "tags": [
-    "math",
-    "trees",
-    "probability",
-    "lca"
-  ],
+  "tags": ["math", "trees", "probability", "lca"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 5

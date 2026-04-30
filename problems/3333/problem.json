@@ -19,12 +19,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:246px; width:245px\"/></p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:241px; width:243px\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2006, Day 1",
   "level": 22,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "sweeping",
-    "parametric_search"
-  ],
+  "tags": ["geometry", "binary_search", "sweeping", "parametric_search"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 3.4727001190185547

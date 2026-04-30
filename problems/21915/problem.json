@@ -15,9 +15,7 @@
   "hint": "<p>Note that Karen couldn’t have announced, for example, <code>cheat 3</code>, as her team would end up revealing the cell at position $(2, 3)$ and ending their turn. Some other correct solutions would be <code>zeta 2</code> or <code>actor 4</code>.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2020, Contest, Open Cup, 2020/2021 Season, Stage 17: Grand Prix of Southern Europe",
   "level": 23,
-  "tags": [
-    "bitmask"
-  ],
+  "tags": ["bitmask"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

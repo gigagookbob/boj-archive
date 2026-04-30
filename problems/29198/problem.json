@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Summer Contest, eric00513, ai4youej, cologne, dohoon, flakepowders, gs20036, jjkmk1013, jk410, juneekim7, kiwiyou, leo020630, mickeyjung, parkky, petamingks, utilforever, yongwhan",
   "level": 8,
-  "tags": [
-    "greedy",
-    "string",
-    "sorting"
-  ],
+  "tags": ["greedy", "string", "sorting"],
   "accepted_user_count": 534,
   "submission_count": null,
   "average_tries": 1.9905999898910522

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, South Africa Regional Contest, The 2002 ACM South Africa Programming Contest",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.1600000858306885

@@ -15,12 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Bajtazar pyta o elementy na pozycjach 3, 4, 5 oraz 6 na swojej liście. Lista Bajtazara w tym przypadku (dla n = 10) składa się kolejno z liczb 1, 3, 7, 9, 11, 13, 17 . . .</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2021/2022, Stage 2",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "binary_search",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "binary_search", "inclusion_and_exclusion"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

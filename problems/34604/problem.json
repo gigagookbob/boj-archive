@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2025 ICPC Asia Pacific Championship",
   "level": 21,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "cactus"
-  ],
+  "tags": ["graphs", "ad_hoc", "cactus"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

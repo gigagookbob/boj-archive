@@ -15,11 +15,7 @@
   "hint": null,
   "source": "tncks0121",
   "level": 15,
-  "tags": [
-    "trees",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["trees", "divide_and_conquer", "recursion"],
   "accepted_user_count": 10704,
   "submission_count": null,
   "average_tries": 2.9426000118255615

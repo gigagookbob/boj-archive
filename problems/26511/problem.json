@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2016, Advanced",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "greedy", "string", "sorting"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 1.263200044631958

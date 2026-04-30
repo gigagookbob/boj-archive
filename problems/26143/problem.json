@@ -15,11 +15,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 24,
-  "tags": [
-    "greedy",
-    "sqrt_decomposition",
-    "cht"
-  ],
+  "tags": ["greedy", "sqrt_decomposition", "cht"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 3.3225998878479004

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제1회 네블컵, rdd6584, wockd9600",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 1033,
   "submission_count": null,
   "average_tries": 5.956399917602539

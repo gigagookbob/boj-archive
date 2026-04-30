@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #2, yang, plzrun",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 2848,
   "submission_count": null,
   "average_tries": 2.0638999938964844

@@ -15,13 +15,7 @@
   "hint": "<p>The input above describes this pipe map:</p>\n<pre>\n                   +------+\n                    | Barn |\n                    +------+\n                       | 1\n                       *\n                    2 / \\ 3\n                         *\n                      4 / \\ 5</pre>\n<p>Pipe 1 is always distance 1 from the barn. Pipes 2 and 3 connect directly to pipe 1 and thus are distance 2 from the barn. Pipes 4 and 5, which connect to pipe 3, are distance 3 from the barn.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO US Open 2008 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "dfs"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 1.6545000076293945

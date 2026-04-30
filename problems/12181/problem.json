@@ -15,9 +15,7 @@
   "hint": "<p>In Case #1, Googlander cannot make any moves. The only possible path is the trivial one consisting of the only square.<br/>\n<br/>\nIn Case #2, Googlander cannot take a step straight ahead, because it would take him off the stage, but he can turn right and then take a step. Once he has done so, he cannot turn right and then take a step, but he can take a step straight ahead. At that point, there are no more moves he can make and the show is over. This is the only possible path he can take.<br/>\n<br/>\nIn Case #3, these are the possible paths:<br/>\n<img alt=\"\" src=\"1.png\" style=\"height:292px; width:445px\"/></p>",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2015, Code Jam to I/O for Women 2015",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.6211999654769897

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2024, Contest, University, 경인지역 대학 연합, shake! 2024, Open Contest, akim9905, bnb2011, Coxie, hamuim, ibm2006, jk410, lky7674, overnap, pani, rustiebeats, shjohw12, swoon, tlsdydaud1, utilforever",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "ad_hoc", "set", "tree_set"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 4.795899868011475

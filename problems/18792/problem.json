@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ho94949",
   "level": 26,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "binary_search",
-    "bitset"
-  ],
+  "tags": ["math", "dp", "number_theory", "binary_search", "bitset"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 3.859800100326538

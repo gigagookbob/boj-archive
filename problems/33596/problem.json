@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, European Championship, The 2024 ICPC European Championship",
   "level": 21,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

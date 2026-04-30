@@ -19,10 +19,7 @@
   "hint": null,
   "source": null,
   "level": 13,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 4.21619987487793

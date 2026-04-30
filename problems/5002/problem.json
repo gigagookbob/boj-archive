@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2012, baekjoon, oopar2",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 668,
   "submission_count": null,
   "average_tries": 2.1661999225616455

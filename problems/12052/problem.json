@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:372px; width:572px\"/></p>\n<p>In the sample case, there are two balloons in the sky, and you have 1 energy point to use. The best solution is to immediately spend 1 energy point to move the balloon at position 3, height 3 down to height 2. Once you've done that, it will take 2 time units for both balloons to reach the tower.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2016 University Graduates Test, Round D APAC Test 2016, Contest, Google, Kick Start, Google Kick Start 2015, Round D",
   "level": 9,
-  "tags": [
-    "backtracking",
-    "bruteforcing"
-  ],
+  "tags": ["backtracking", "bruteforcing"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.529400110244751

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ntopia",
   "level": 22,
-  "tags": [
-    "graphs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "eulerian_path"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 5.892600059509277

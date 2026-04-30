@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2012",
   "level": 14,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["graphs", "data_structures", "disjoint_set", "mst"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.2208000421524048

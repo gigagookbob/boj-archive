@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, the only two winning ways for Gennady to divide the remaining $5$ stones are:</p>\n<ul>\n<li>one pile of $3$ stones and $2$ piles of $1$ stone,</li>\n<li>or one pile of $2$ stones and $3$ piles of $1$ stone.</li>\n</ul>\n<p>In the second example, no matter how Gennady divides the remaining $3$ stones, he is bound to lose.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Regional Contest",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask"
-  ],
+  "tags": ["dp", "bitmask"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.2083001136779785

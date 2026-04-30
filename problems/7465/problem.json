@@ -19,9 +19,7 @@
   "hint": "<p>The picture below illustrates the graveyard for the first example.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 425px; height: 164px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2004",
   "level": 12,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2

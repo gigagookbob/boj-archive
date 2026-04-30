@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, CodeRace 2017, byeop24, YunGoon, young3609",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 803,
   "submission_count": null,
   "average_tries": 1.9364999532699585

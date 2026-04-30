@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2023",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "hashing"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "hashing"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.6666998863220215

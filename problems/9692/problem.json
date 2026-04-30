@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\">The exact result is: (4 + 0 + 0 + 1 + 6 + 0) / 6</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2013",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "implementation", "lazyprop", "segtree"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 5

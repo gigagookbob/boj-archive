@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2016",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "greedy", "sparse_table"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 12.800000190734863

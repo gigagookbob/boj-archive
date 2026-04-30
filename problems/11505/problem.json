@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, adh0463, nosiar, yj9404",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 9947,
   "submission_count": null,
   "average_tries": 2.8884999752044678

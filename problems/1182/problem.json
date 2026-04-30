@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author5, eric00513, jh05013, tncks0121, rdd6584",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 34149,
   "submission_count": null,
   "average_tries": 2.2878000736236572

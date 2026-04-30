@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2018",
   "level": 8,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "arithmetic"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.857100009918213

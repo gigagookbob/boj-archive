@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, University of Maryland High School Programming Contest, HSPC 2011",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "trees",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "trees", "simulation"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.7563999891281128

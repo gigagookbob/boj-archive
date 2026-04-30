@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, Regional Competition - Juniors",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.4205000400543213

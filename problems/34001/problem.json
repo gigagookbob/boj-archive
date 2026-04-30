@@ -19,10 +19,7 @@
   "hint": "<p>임스는 심볼 관련 퀘스트만 진행하여 아케인리버는 235레벨 퀘스트까지만 진행한다.</p>",
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제2회 임스의 메이플컵, lms0806, hiyabye, menborong, nflight11, pichulia, tony9402",
   "level": 3,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 423,
   "submission_count": null,
   "average_tries": 1.5484999418258667

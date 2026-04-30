@@ -15,10 +15,7 @@
   "hint": "<p>입력은 다음과 같은 스카이라인을 나타낸다.</p>\n<pre>\n..........................\n.....XX.........XXX.......\n.XXX.XX.......XXXXXXX.....\nXXXXXXXXXX....XXXXXXXXXXXX</pre>\n<p>다음과 같이 여섯 개의 빌딩이 있을 때가 최소 개수의 빌딩이 있는 상황이다.</p>\n<pre>\n..........................\n.....22.........333.......\n.111.22.......XX333XX.....\nX111X22XXX....XX333XXXXXXX</pre>\n<pre>\n..........................\n.....XX.........XXX.......\n.XXX.XX.......5555555.....\n4444444444....5555555XXXXX</pre>\n<pre>\n..........................\n.....XX.........XXX.......\n.XXX.XX.......XXXXXXX.....\nXXXXXXXXXX....666666666666</pre>",
   "source": "myungwoo",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 3267,
   "submission_count": null,
   "average_tries": 2.42330002784729

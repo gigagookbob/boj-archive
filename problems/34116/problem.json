@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 1차대회, 초등부, Olympiad, 한국정보올림피아드, KOI 2025 1차대회, 중등부",
   "level": 10,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["math", "ad_hoc", "geometry"],
   "accepted_user_count": 364,
   "submission_count": null,
   "average_tries": 1.829699993133545

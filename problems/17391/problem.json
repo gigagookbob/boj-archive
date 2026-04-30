@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, Open Contest, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 초급반, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 중급반, oknkc8, jh05013",
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 866,
   "submission_count": null,
   "average_tries": 1.9144999980926514

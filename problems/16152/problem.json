@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제2회 네블컵, chogahui05",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees"
-  ],
+  "tags": ["data_structures", "trees"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 5.7418999671936035

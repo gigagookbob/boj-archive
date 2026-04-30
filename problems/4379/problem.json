@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 17 January, 2001",
   "level": 12,
-  "tags": [
-    "arbitrary_precision",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "math"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 8.634099960327148

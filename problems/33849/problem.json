@@ -15,10 +15,7 @@
   "hint": "<p>계산 과정에 필요한 수의 값이 32비트 정수 범위를 넘을 수 있음을 유의하라.</p>",
   "source": "University, 부산대학교, 2025 부산대학교 프로그래밍 대회 (PNUPC), Division 1, University, 부산대학교, 2025 부산대학교 프로그래밍 대회 (PNUPC), Division 2",
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 3.941699981689453

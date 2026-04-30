@@ -15,13 +15,7 @@
   "hint": "<h3>Notes</h3>\n<p>It is possible that you can go through the whole cave system before the tide starts dropping. In this case you will be able to wait at the exit for the tide to start dropping, so the answer in this case should be zero (this is the case in the fourth of the sample test cases).</p>\n<p> </p>\n<p>In the first sample test case, there are initially only 33 centimeters between the water level and the ceiling of the eastern square, so after the tide starts going down, you have to wait for at 1.7 seconds to enter it. Once it is accessible, you can start going in - but the water level in the western square is now so low (only 3 centimeters above the floor) that you have to drag your kayak for the next 10 seconds to get to the exit point.</p>\n<p>The initial situation in the second case is better - you have a lot of headroom in adjacent squares, so you can move, for example, to (1, 1) before the tide starts dropping. Once there, you have to wait for the tide to start going down, and the water level to go down to 90cm (that takes one second). Then you can kayak south and then east and get out (in a total of three seconds). Note that you cannot go through the cave at (2, 1), even though the ceiling there is high enough, because there is too little space between the floor of this cave and the ceiling of any caves you could try to enter from ((1, 1) and (2, 0)) - only 10 centimeters in each case.</p>\n<p>The third case is somewhat similar to the first - you have to wait at the starting position until the tide goes down to 50cm. After that you can kayak for the exit - but after three moves (taking three seconds) the water is at 20cm, which is only 10cm above the floor, which means the fourth move will be dragging instead of kayaking.</p>\n<p>In the fourth case you are really lucky! You can immediately go the exit, even before the tide starts leaving, and wait there.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2012, Round 1B",
   "level": 12,
-  "tags": [
-    "bfs",
-    "dijkstra",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "dijkstra", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.7222000360488892

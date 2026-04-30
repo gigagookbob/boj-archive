@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 2: Pavel Khaustov Contest 2",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "math"
-  ],
+  "tags": ["ad_hoc", "constructive", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2023!, kyo20111, ahgus89, cgiosy, cs71107, jhnah917, jhwest2, junseo, wapas",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["ad_hoc", "prefix_sum"],
   "accepted_user_count": 316,
   "submission_count": null,
   "average_tries": 1.61080002784729

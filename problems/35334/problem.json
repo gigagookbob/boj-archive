@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2025-2026 Season, USACO 2026 Second Contest, Gold",
   "level": 19,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "functional_graph"
-  ],
+  "tags": ["implementation", "dp", "graphs", "functional_graph"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

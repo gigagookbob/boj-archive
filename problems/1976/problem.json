@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Martian, tncks0121, doseee, hy2850, sait2000",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 18839,
   "submission_count": null,
   "average_tries": 2.5745999813079834

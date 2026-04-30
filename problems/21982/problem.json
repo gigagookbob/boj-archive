@@ -15,12 +15,7 @@
   "hint": "<p>아래 표에 제공된 각 언어별 예제 코드는&nbsp;H[0 ... n-1]과 W[0 ... n-1]를&nbsp;생성하는 코드이다.&nbsp;아래 코드를 그대로 사용하여도 되고, 이를 직접 구현해도 된다. 출제진이&nbsp;의도한 해법은&nbsp;아래 코드를 사용하며&nbsp;제한 시간 내에 정답을 구한다.</p>\r\n\r\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>C/C++</td>\r\n\t\t\t<td>Java</td>\r\n\t\t\t<td>Pypy3</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<pre>\r\nint n, x;\r\nlong long hs, ha, hb, hc, \r\n&nbsp;         ws, wa, wb, wc;\r\n// stdin에서 입력을 받는다.\r\n\r\nlong long H[n], W[n];\r\n\r\nH[0] = hs % hc + 1;\r\nW[0] = ws % wc + 1;\r\nfor(int i = 1; i &lt;= n-1; i++) {\r\n&nbsp; H[i] = H[i-1] + 1 \r\n&nbsp;      + (H[i-1] * ha + hb) % hc;\r\n&nbsp; W[i] = (W[i-1] * wa + wb) % wc + 1;\r\n}\r\n</pre>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<pre>\r\nint n, x;\r\nlong hs, ha, hb, hc,\r\n&nbsp; &nbsp;  ws, wa, wb, wc;\r\n// stdin에서 입력을 받는다.\r\n\r\nlong[] H = new long[n], W = new long[n];\r\n\r\nH[0] = hs % hc + 1;\r\nW[0] = ws % wc + 1;\r\nfor(int i = 1; i &lt;= n-1; i++) {\r\n&nbsp; H[i] = H[i-1] + 1 \r\n&nbsp;      + (H[i-1] * ha + hb) % hc;\r\n&nbsp; W[i] = (W[i-1] * wa + wb) % wc + 1;\r\n}\r\n</pre>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<pre>\r\nn,x = # stdin에서 입력을 받는다.\r\nhs,ha,hb,hc = # stdin에서 입력을 받는다.\r\nws,wa,wb,wc = # stdin에서 입력을 받는다.\r\n\r\nH, W = [0 for i in range(n)], [0 for i in range(n)]\r\n\r\nH[0] = hs % hc + 1\r\nW[0] = ws % wc + 1\r\nfor i in range(1, n):\r\n&nbsp; H[i] = H[i-1] + 1 + (H[i-1] * ha + hb) % hc\r\n&nbsp; W[i] = (W[i-1] * wa + wb) % wc + 1\r\n</pre>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
   "source": null,
   "level": 16,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "greedy"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick", "greedy"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.3777999877929688

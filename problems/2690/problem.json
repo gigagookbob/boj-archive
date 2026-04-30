@@ -15,11 +15,7 @@
   "hint": "<table class=\"table table-bordered\" style=\"width:25%\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th style=\"width:10%\">입력</th>\r\n\t\t\t<th style=\"width:5%\">심볼</th>\r\n\t\t\t<th style=\"width:10%\">출력 코드</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>AE</td>\r\n\t\t\t<td>&AElig;</td>\r\n\t\t\t<td>[AE]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>ae</td>\r\n\t\t\t<td>&aelig;</td>\r\n\t\t\t<td>[ae]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>OE</td>\r\n\t\t\t<td>&OElig;</td>\r\n\t\t\t<td>[OE]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>oe</td>\r\n\t\t\t<td>&oelig;</td>\r\n\t\t\t<td>[oe]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>ct</td>\r\n\t\t\t<td></td>\r\n\t\t\t<td>[ct]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>ff</td>\r\n\t\t\t<td>ﬀ</td>\r\n\t\t\t<td>[ff]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>fi</td>\r\n\t\t\t<td>ﬁ</td>\r\n\t\t\t<td>[fi]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>fl</td>\r\n\t\t\t<td>ﬂ</td>\r\n\t\t\t<td>[fl]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>ffi</td>\r\n\t\t\t<td>ﬃ</td>\r\n\t\t\t<td>[ffi]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>ffl</td>\r\n\t\t\t<td>ﬄ</td>\r\n\t\t\t<td>[ffl]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>s (short)</td>\r\n\t\t\t<td>s</td>\r\n\t\t\t<td>s</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>s (long)</td>\r\n\t\t\t<td>ſ</td>\r\n\t\t\t<td>[longs]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>si</td>\r\n\t\t\t<td></td>\r\n\t\t\t<td>[longsi]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>sh</td>\r\n\t\t\t<td></td>\r\n\t\t\t<td>[longsh]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>sl</td>\r\n\t\t\t<td></td>\r\n\t\t\t<td>[longsl]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>ss</td>\r\n\t\t\t<td></td>\r\n\t\t\t<td>[longss]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>st</td>\r\n\t\t\t<td>ﬅ</td>\r\n\t\t\t<td>[longst]</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>ssi</td>\r\n\t\t\t<td></td>\r\n\t\t\t<td>[longssi]</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>long과 short s는 혼합해서 사용할 수 있다. 예를 들어, crossstitch는 cro[longs]s[longst]itch이 된다. (cro[longs]s[longs]titch는 정답이 아니다)</p>\r\n",
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2010 Greater New York Programming Contest, arine, baekjoon, hyunha",
   "level": 12,
-  "tags": [
-    "parsing",
-    "regex",
-    "string"
-  ],
+  "tags": ["parsing", "regex", "string"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 5.894700050354004

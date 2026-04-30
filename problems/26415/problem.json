@@ -15,12 +15,7 @@
   "hint": "<p>$X_i$ 는 공집합이어도 된다.</p>\r\n\r\n<p>만약 $X_i$ 의 크기 조건이 없다면, 예제와 유사하게 $K = 1$, $X_1 = \\{1, 2, \\ldots, N\\}$ 을 잡는 자명한 해가 존재한다.</p>\r\n",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 4: KAIST+KOI Contest, Grand Prix of Korea, koosaga, ainta, jhnah917",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "graphs",
-    "tree_decomposition"
-  ],
+  "tags": ["ad_hoc", "constructive", "graphs", "tree_decomposition"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.114300012588501

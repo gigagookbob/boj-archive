@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #5, baekjoon",
   "level": 18,
-  "tags": [
-    "math",
-    "greedy",
-    "prefix_sum",
-    "physics"
-  ],
+  "tags": ["math", "greedy", "prefix_sum", "physics"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.894700050354004

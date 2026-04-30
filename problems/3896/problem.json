@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2007 in Tokyo, baekjoon, csh519, jh05013",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "binary_search",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "binary_search", "primality_test", "sieve"],
   "accepted_user_count": 1736,
   "submission_count": null,
   "average_tries": 1.5615999698638916

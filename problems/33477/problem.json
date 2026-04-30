@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제6회 고려대학교 MatKor Cup: 2025 Winter, kidw0124, eoaud0108, finimage, m4ushold, tlsdydaud1, utilforever, yijw0930",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "case_work",
-    "ternary_search"
-  ],
+  "tags": ["binary_search", "case_work", "ternary_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 10.75

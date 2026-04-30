@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Dla pierwszego zapytania liczba 12 jest najmniejszą wspólną wielokrotnością dla przedziału [2, 4], zawierającego liczby 2, 3 i 4, jak również dla przedziału [1, 4] zawierającego liczby 1, 2, 3 i 4. Ten drugi przedział ma mniejsze a.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2019/2020, Stage 1",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["binary_search", "math", "number_theory"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.9166998863220215

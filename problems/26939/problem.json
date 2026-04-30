@@ -15,10 +15,7 @@
   "hint": "<p>Du kan exempelvis börja med att ta med dig böckerna som ska till hylla 3 och 4. Därefter hämtar du boken som ska till hylla 1 och slutligen tar du boken som ska till hylla -4. </p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2009, Online Qualification",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.7000000476837158

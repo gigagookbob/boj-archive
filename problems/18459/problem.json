@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, you can construct a path with 10 vertices, it will have the same degree sequence and the largest possible maximum matching.</p>\n<p>In the second test case, the only possible tree is a star (one vertex connected with all others), and the largest matching for it is 1.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 3: 300iq Petrozavodsk Contest III, 300iq",
   "level": 18,
-  "tags": [
-    "trees",
-    "constructive",
-    "degree_sequence"
-  ],
+  "tags": ["trees", "constructive", "degree_sequence"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.885699987411499

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2013",
   "level": 11,
-  "tags": [
-    "case_work"
-  ],
+  "tags": ["case_work"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.794100046157837

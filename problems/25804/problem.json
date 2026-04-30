@@ -31,11 +31,7 @@
   "hint": "<p>Picture illustrating the last Sample Input:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 542px; height: 296px;\"/></p>",
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Final Round)",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["implementation", "greedy", "sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.1578999757766724

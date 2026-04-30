@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2019",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "parity"
-  ],
+  "tags": ["data_structures", "segtree", "parity"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.6211999654769897

@@ -15,10 +15,7 @@
   "hint": "<p>Sample Case #1 is the one explained in the statement. Not touching anything does not work, and a single touch would leave an odd number of letters <code>I</code> in total, so the result cannot be balanced. It is explained in the statement how it can be balanced with two touches (there are other ways).</p>\n<p>In Sample Case #2, changing the top left corner to <code>O</code> leaves no letter <code>I</code>, so all halves have the same amount ($0$).</p>\n<p>In Sample Case #3, the installation is already organized according to your requirements, so no touch is needed.</p>",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2022, Code Jam to I/O for Women 2022",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "math"
-  ],
+  "tags": ["ad_hoc", "math"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3600000143051147

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, World Finals",
   "level": 26,
-  "tags": [
-    "case_work",
-    "exponentiation_by_squaring",
-    "graphs",
-    "math",
-    "scc"
-  ],
+  "tags": ["case_work", "exponentiation_by_squaring", "graphs", "math", "scc"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2009/2010 예선, baekjoon",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 15982,
   "submission_count": null,
   "average_tries": 1.142899990081787

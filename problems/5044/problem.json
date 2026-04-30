@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2008, baekjoon, jh05013",
   "level": 20,
-  "tags": [
-    "string",
-    "hashing",
-    "suffix_array"
-  ],
+  "tags": ["string", "hashing", "suffix_array"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 8.359000205993652

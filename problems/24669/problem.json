@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 3: Kazakhstan Contest",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "binary_search", "case_work"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.5555999279022217

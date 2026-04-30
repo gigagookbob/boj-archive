@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제1회 네블컵, rdd6584",
   "level": 20,
-  "tags": [
-    "math",
-    "implementation",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "implementation", "binary_search", "parametric_search"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 7.31820011138916

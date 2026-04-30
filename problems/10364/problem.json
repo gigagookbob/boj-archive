@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, ACM ICPC Asia Kuala Lumpur Regional Contest 2014",
   "level": 20,
-  "tags": [
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["inclusion_and_exclusion", "math"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.4544999599456787

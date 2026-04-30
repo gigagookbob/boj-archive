@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2010, Qualification",
   "level": 8,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.2908999919891357

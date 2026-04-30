@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2006",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "sorting", "priority_queue"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

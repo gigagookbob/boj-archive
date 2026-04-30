@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Taejon 2001, portableangel, leehosu01",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "bitmask"
-  ],
+  "tags": ["math", "implementation", "bitmask"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.4042999744415283

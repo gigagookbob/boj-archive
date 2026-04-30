@@ -19,12 +19,7 @@
   "hint": "<p>Note that the provided sample inputs and outputs are incorrect. The inputs don't respect the constraint $150 \\leq N$.</p>\n<p>In the first sample, there is a single notebook which doesn't fit into the single drawer, therefore a valid assignment doesn't exist.</p>\n<p>In the second sample, Janko's method would successfully assign all notebooks to drawers. First, it would select the last notebook ($6 \\times 1$) or the first drawer ($2 \\times 7$) and assign it to the other one because both have a single option. Now both remaining notebooks fit into both remaining drawers, therefore any assignment will do.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2022",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "probability"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "probability"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.7838000059127808

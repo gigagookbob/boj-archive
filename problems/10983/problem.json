@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2015, University, KAIST, KAIST ICPC Mock Competition, 2015 KAIST 5th ACM-ICPC Mock Competition",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.3912999629974365

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2023, youngjun7, kiwiyou, naeby, qwerasdfzxcl, rustiebeats, shiftpsh, solvedac, utilforever, wjdclgns12",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "segtree",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["binary_search", "data_structures", "segtree", "tree_set", "set"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 3.2044999599456787

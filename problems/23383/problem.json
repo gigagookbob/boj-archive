@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2021, ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2021",
   "level": 10,
-  "tags": [
-    "math",
-    "sorting"
-  ],
+  "tags": ["math", "sorting"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 2.1182000637054443

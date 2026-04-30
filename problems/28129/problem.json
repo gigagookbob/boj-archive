@@ -19,10 +19,7 @@
   "hint": "<p>죄성함다.</p>",
   "source": "University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.2, akim9905, eaststar, gbe0808, hsh8086, jthis, pani, pjshwa, tlsdydaud1, utilforever",
   "level": 14,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 3.0873000621795654

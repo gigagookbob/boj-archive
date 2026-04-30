@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2021",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 393,
   "submission_count": null,
   "average_tries": 1.2238999605178833

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2014, doju",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.5277999639511108

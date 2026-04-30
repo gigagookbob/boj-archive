@@ -27,11 +27,7 @@
   "hint": "<p>2×2 격자 내의 칸을 위치에 따라 좌상, 우상, 좌하, 우하로 구분할 때, 좌상을 시작점으로 하는 시계 방향 및 반시계 방향의 이동은 다음과 같이 정의된다.</p>\n<p>시계 방향은 좌상 → 우상 → 우하 → 좌하 → 좌상 순이며, 반시계 방향은 좌상 → 좌하 → 우하 → 우상 → 좌상 순으로 회전한다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, MOSS Division, University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, Open Contest, jaemkim01, bsyun0571, bumsoo0515, gi1dong2, hellogaon, khj20006, kjmin622, putdata, qsccsq22, rasauq1122, rhdqor213, sjhi00, skeep194, tony9402",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 184,
   "submission_count": null,
   "average_tries": 1.5217000246047974

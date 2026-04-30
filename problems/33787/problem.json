@@ -19,12 +19,7 @@
   "hint": "<p>In the first sample case, we choose the set $\\{0\\}$, and in the second sample case, we choose the set $\\{00, 11\\}$. Neither of these sets contain two strings that differ in exactly one position, and we can show that they are both of maximal size for their given $n$.</p>",
   "source": "University, Rutgers University, Rutgers University Programming Contest Spring 2025",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "bitmask",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "constructive", "bitmask", "parity"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.4193999767303467

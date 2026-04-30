@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2016, Group B (Juniors)",
   "level": 21,
-  "tags": [
-    "graphs",
-    "stoer_wagner"
-  ],
+  "tags": ["graphs", "stoer_wagner"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.279099941253662

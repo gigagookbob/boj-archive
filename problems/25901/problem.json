@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2016 Local Programming Contest",
   "level": 16,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

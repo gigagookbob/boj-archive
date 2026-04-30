@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics for Girls, JOIG 2023/2024",
   "level": 13,
-  "tags": [
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["sorting", "binary_search"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.5134999752044678

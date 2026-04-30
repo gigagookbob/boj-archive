@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016, functionx",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 3784,
   "submission_count": null,
   "average_tries": 1.8393000364303589

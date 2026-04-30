@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Afghanistan, Asia-Kabul ICPC Regional Contest 2018",
   "level": 17,
-  "tags": [
-    "geometry",
-    "heuristics",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "heuristics", "ternary_search"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

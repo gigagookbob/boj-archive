@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO March 2004 Contest, Orange",
   "level": 13,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "bruteforcing", "dag", "topological_sorting"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

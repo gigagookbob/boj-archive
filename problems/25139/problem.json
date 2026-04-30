@@ -23,12 +23,7 @@
   "hint": "<p>Pojašnjenje drugog test primjera: Popis izgleda ovako:</p>\n<pre>\n1-6: abcd, abdc, acbd, acdb, adbc, adcb,\n7-12: <strong>bacd</strong>, badc, bcad, bcda, bdac, bdca,\n13-18: cabd, cadb, cbad, cbda, cdab, cdba,\n19-24: dabc, dacb, dbac, dbca, dcab, <strong>dcba</strong></pre>\n<p>Jedna riječ se nalazi na poziciji 7, dok se druga riječ nalazi na poziciji 24. Razlika je 17.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2014, Junior Croatian Olympiad in Informatics 2014",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "combinatorics"
-  ],
+  "tags": ["math", "implementation", "string", "combinatorics"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.1332999467849731

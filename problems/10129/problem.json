@@ -15,13 +15,7 @@
   "hint": "<p>예제의 첫 번째 새는 1, 3, 5, 7, 8, 9번 나무를 거쳐 간다. 이 새는 3번째 나무에서 5번째 나무로 갈 때와 7번째 나무에서 8번째 나무로 갈 때, 총 두 번 피로감을 느낀다.</p>\r\n",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 2, khsoo01, doju",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "dp_deque"
-  ],
+  "tags": ["dp", "data_structures", "deque", "deque_trick", "dp_deque"],
   "accepted_user_count": 293,
   "submission_count": null,
   "average_tries": 2.580199956893921

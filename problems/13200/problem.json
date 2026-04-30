@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2016 서울대학교 프로그래밍 경시대회, corea",
   "level": 18,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.363600015640259

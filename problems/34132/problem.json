@@ -15,12 +15,7 @@
   "hint": null,
   "source": "hibye1217, minjunnick, mujigae, oh040411, pyb1031, utilforever",
   "level": 16,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "sliding_window"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "sliding_window"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2999999523162842

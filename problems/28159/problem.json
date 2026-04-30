@@ -15,11 +15,7 @@
   "hint": null,
   "source": "sait2000, byeongkeunahn, wider93",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["math", "data_structures", "segtree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

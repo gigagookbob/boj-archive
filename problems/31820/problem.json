@@ -15,14 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2024 KAIST RUN Spring Contest, jinhan814, 79brue, koosaga",
   "level": 24,
-  "tags": [
-    "dp",
-    "data_structures",
-    "trees",
-    "segtree",
-    "dp_tree",
-    "hld"
-  ],
+  "tags": ["dp", "data_structures", "trees", "segtree", "dp_tree", "hld"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.578900098800659

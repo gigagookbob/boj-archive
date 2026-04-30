@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case, each subsequent problem name is similar to the previous one.</p>\n<p>In the second test case, the judges should have chosen \"<code>eight shaped</code>\" for the second year.</p>\n<p>In the third test case, neither \"<code>binary problem</code>\" nor \"<code>logic problem</code>\" is similar to \"<code>judging logic</code>\"; the judges could have chosen either of those problems for the third year.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2025-2026 Northwestern Russia Regional Contest",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "simulation"
-  ],
+  "tags": ["implementation", "data_structures", "set", "simulation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2000000476837158

@@ -15,12 +15,7 @@
   "hint": "<p>Sample Case #1 is the one explained above.</p>\n<p>In Sample Case #2, there must be a total of 2 forward slash diagonals according to the sum of the row totals, but a total of 3 according to the sum of the column totals. It is therefore impossible to follow all rules.</p>\n<p>In Sample Case #3 the only matrices that follow the row and column totals are the following:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\"/><img alt=\"\" src=\"6.png\"/><img alt=\"\" src=\"7.png\"/></p>\n<p>Since the first two contain a square, the third one is the only valid output for this case.</p>\n<p>In Sample Case #4 there is only one way to fill the matrix that follows the row and column totals, shown in the picture below. Note that it produces a single rectangle, shown in blue in the picture. But, since that rectangle is not a square, the matrix is square free.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"8.png\"/></p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 3",
   "level": 21,
-  "tags": [
-    "constructive",
-    "flow",
-    "greedy",
-    "graphs"
-  ],
+  "tags": ["constructive", "flow", "greedy", "graphs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.200000047683716

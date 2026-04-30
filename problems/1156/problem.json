@@ -15,12 +15,7 @@
   "hint": "<ul>\r\n\t<li>Day 1 - 8개의 장난감을 \\$24에 구입한다. 이 날 장난감을 모두 갖고 놀고 밤에 2개는 1번 살균장에 6개는 2번 살균장에 맡긴다.</li>\r\n\t<li>Day 2 - 아침에 어제 1번 살균장에 맡겼던 2개를 \\$4원을 주고 찾아온다. 그리고 갖고 논 후 1개의 장난감을 2번 살균장에 맡긴다.</li>\r\n\t<li>Day 3 - 이틀 전 2번 살균장에 맡겼던 6개의 장난감을 \\$6를 지불하고 찾아온다.</li>\r\n\t<li>Day 4 - 이틀 전 2번 살균장에 맡겼던 1개의 장난감을 \\$1을 지불하고 찾아온다. 이로써 총 지불액은 $35가 된다.</li>\r\n</ul>\r\n\r\n<p>※ Test case의 70%는 D가 500 이하이다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO November 2008 Contest, Gold",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "deque",
-    "ternary_search"
-  ],
+  "tags": ["data_structures", "greedy", "deque", "ternary_search"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 4.058800220489502

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2023-2024 Season, USACO 2024 February Contest, Gold",
   "level": 19,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 3.3845999240875244

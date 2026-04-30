@@ -19,10 +19,7 @@
   "hint": "<p>В первом тесте из условия доктор может, например, сдать первую книгу в 5-ый день, вторую - в 6-ой, а третью - в 3-ий день.</p>\n<p>Во втором тесте доктор не сможет сдать все три книги в срок, так как каждую из них ему нужно сдать во 2-ой или в 3-ий день, что невозможно, так как в день можно сдавать не более одной книги.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Advanced",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.4614999294281006

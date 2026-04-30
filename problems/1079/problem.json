@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 954,
   "submission_count": null,
   "average_tries": 4.135200023651123

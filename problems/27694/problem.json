@@ -15,11 +15,7 @@
   "hint": "<p>For example, when n = 3 there are 3 ways to go up, and for each of them there are 4 ways to go back down.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2013",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.7143000364303589

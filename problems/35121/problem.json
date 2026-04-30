@@ -27,11 +27,7 @@
   "hint": "<p>The following figure depicts the visiting schedules of three seagulls in Sample Output 1. Note that the third seagull stays in the island across years.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 400px; height: 195px;\"/></p>\n<p style=\"text-align: center;\">Figure C.1. Visiting schedules of the seagulls of Sample Output 1</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2025 ICPC Asia Yokohama Regional Contest",
   "level": 20,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.294100046157837

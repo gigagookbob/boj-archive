@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2015 Sogang Programming Contest, Champion, hahaha",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "dp", "combinatorics", "probability"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.6023000478744507

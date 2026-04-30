@@ -47,11 +47,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 250,
   "submission_count": null,
   "average_tries": 1.3600000143051147

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, 79brue, YunGoon",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "bitmask",
-    "dp_digit"
-  ],
+  "tags": ["dp", "greedy", "bitmask", "dp_digit"],
   "accepted_user_count": 659,
   "submission_count": null,
   "average_tries": 3.839200019836426

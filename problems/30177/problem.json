@@ -23,14 +23,7 @@
   "hint": "<p>In the first example, possible assignments for each minimum and maximum are described in picture below. Of course, there are multiple possible assignments for each minimum and maximum.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 327px; height: 260px;\"/></p>\n<p>In the second example, possible assignments for each minimum and maximum are described in picture below. The $f$ value of valid assignment of this tree is always $3$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 264px; height: 123px;\"/></p>\n<p>In the third example, possible assignments for each minimum and maximum are described in picture below. Of course, there are multiple possible assignments for each minimum and maximum.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\" style=\"width: 679px; height: 260px;\"/></p>",
   "source": "Contest, Codeforces, Codeforces Round 633 (Div. 1), Contest, Codeforces, Codeforces Round 633 (Div. 2), spongbob9876",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "parity"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "trees", "dfs", "parity"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.294100046157837

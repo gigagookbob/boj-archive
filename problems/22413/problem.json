@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2015 Day 2",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "bitmask", "dp_bitfield"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 최종 구데기컵 2 2, jh05013",
   "level": 0,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 9.86870002746582

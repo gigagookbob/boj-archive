@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2014",
   "level": 21,
-  "tags": [
-    "case_work",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["case_work", "game_theory", "sprague_grundy"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 3.6033999919891357

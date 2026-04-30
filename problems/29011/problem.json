@@ -19,11 +19,7 @@
   "hint": "<p>В первом примере можно оставить строку как есть, разбить на две строки &lt;&lt;abba&gt;&gt; и &lt;&lt;baab&gt;&gt; (несложно убедиться, что они могут быть получены друг из друга циклическим сдвигом), или разбить на четыре строки &lt;&lt;ab&gt;&gt;, &lt;&lt;ba&gt;&gt;, &lt;&lt;ba&gt;&gt; и &lt;&lt;ab&gt;&gt;, которые так же могут быть получены друг из друга циклическим сдвигом.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, October 3, 2015",
   "level": 11,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "hashing"
-  ],
+  "tags": ["string", "bruteforcing", "hashing"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

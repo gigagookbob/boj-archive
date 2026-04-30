@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2010 Round One",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.3333001136779785

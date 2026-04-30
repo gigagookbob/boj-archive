@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 제1회 하이콘, swoon, Green55, gs18115, pjshwa",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 424,
   "submission_count": null,
   "average_tries": 2.0471999645233154

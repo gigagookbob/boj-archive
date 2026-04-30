@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "geometry",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["geometry", "math", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 6.75

@@ -15,13 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:373px; width:369px\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2015",
   "level": 28,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "lazyprop",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "geometry", "lazyprop", "segtree", "sweeping"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.625

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO February 2008 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 195,
   "submission_count": null,
   "average_tries": 2.051300048828125

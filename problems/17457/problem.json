@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 19: Grand Prix of Daejeon, imeimi2000",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "cht",
-    "kinetic_segtree"
-  ],
+  "tags": ["data_structures", "segtree", "cht", "kinetic_segtree"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.8261001110076904

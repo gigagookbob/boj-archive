@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 8048,
   "submission_count": null,
   "average_tries": 2.4647998809814453

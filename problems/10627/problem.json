@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2014",
   "level": 18,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.9047999382019043

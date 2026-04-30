@@ -23,12 +23,7 @@
   "hint": "<p>예제 1의 경우에 첫째 날이 지난 후에 한 마리의 새에 측정기가 부착되어 있다.</p>\n<p>둘째 날 1/3의 확률로 측정기가 이미 부착된 새를 잡을 것이고, 2/3의 확률로 측정기가 부착되지 않은 새를 잡을 것이다.</p>",
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "dp", "combinatorics", "probability"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 1.9052000045776367

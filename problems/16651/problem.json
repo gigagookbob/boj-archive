@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, the generated string is abbaabb. It contains 20 distinct non-empty substrings: <code>a</code>, <code>b</code>, <code>aa</code>, <code>ab</code>, <code>ba</code>, <code>bb</code>, <code>aab</code>, <code>abb</code>, <code>baa</code>, <code>bba</code>, <code>aabb</code>, <code>abba</code>, <code>baab</code>, <code>bbaa</code>, <code>abbaa</code>, <code>baabb</code>, <code>bbaab</code>, <code>abbaab</code>, <code>bbaabb</code>, <code>abbaabb</code>.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2018",
   "level": 19,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.0399999618530273

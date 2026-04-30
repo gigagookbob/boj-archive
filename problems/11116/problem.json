@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2008, tols91",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 517,
   "submission_count": null,
   "average_tries": 1.3694000244140625

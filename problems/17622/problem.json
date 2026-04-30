@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2019 2차대회, 고등부",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 253,
   "submission_count": null,
   "average_tries": 4.292500019073486

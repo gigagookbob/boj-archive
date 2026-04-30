@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, 2024 POSTECH Programming Contest, Open Contest, hyperbolic, slah007, kwoncycle, leo020630, physics0523, pjshwa",
   "level": 24,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "dp", "combinatorics", "probability"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.294100046157837

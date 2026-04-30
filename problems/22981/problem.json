@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2021 Summer), seastar105, amsminn, ho94949, jhwest2, lky7674, pichulia, shiftpsh, snrnsidy, tae826, wjdclgns12",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 419,
   "submission_count": null,
   "average_tries": 2.7732999324798584

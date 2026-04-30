@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2011, 중등부",
   "level": 14,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing"],
   "accepted_user_count": 631,
   "submission_count": null,
   "average_tries": 2.1712000370025635

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, Vietnam High School Programming Contest, HSPC 2014",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "prefix_sum",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "segtree", "prefix_sum", "sqrt_decomposition"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.5

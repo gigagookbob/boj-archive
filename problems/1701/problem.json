@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2007, baekjoon, dsa2341, klimmek55, atomzeno",
   "level": 14,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 3055,
   "submission_count": null,
   "average_tries": 2.8608999252319336

@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon, lucidash",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["bruteforcing", "geometry", "sweeping"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.8689000606536865

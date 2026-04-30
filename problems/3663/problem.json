@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2010, baekjoon, anjupiter, kipa00",
   "level": 13,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 332,
   "submission_count": null,
   "average_tries": 3.2258999347686768

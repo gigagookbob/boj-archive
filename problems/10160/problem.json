@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2014, 고등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2014, 중등부, mrcamel, baekjoon",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 604,
   "submission_count": null,
   "average_tries": 2.6440000534057617

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2015, algoshipda",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 494,
   "submission_count": null,
   "average_tries": 3.0100998878479004

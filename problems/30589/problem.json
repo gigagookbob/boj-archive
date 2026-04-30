@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Qualification",
   "level": 5,
-  "tags": [
-    "greedy",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["greedy", "geometry", "pythagoras"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.6181999444961548

@@ -15,11 +15,7 @@
   "hint": "<p>N=4인 경우, A는 처음에 4,2,1을 지운다. 칠판에 남은 수는 3으로, B는 3을 지울 수밖에 없어 패배한다.</p>",
   "source": "cozyyg, rory143",
   "level": 13,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["math", "ad_hoc", "game_theory"],
   "accepted_user_count": 1147,
   "submission_count": null,
   "average_tries": 1.5291999578475952

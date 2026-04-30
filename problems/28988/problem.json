@@ -19,11 +19,7 @@
   "hint": "<p>В первом тестовом примере подходят все числа из данного отрезка.</p>\n<p>Во втором тестовом примере подходят числа 90-99 и 109.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, January 28, 2017",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["bruteforcing", "combinatorics", "math"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

@@ -19,14 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2022",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph",
-    "traceback"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "grid_graph", "traceback"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.5714000463485718

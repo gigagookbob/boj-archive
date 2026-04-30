@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2003, Day 2",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.700000047683716

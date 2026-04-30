@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2007, baekjoon, moonhi123, s0j0s, djm03178, kdh6429, shg9411",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "string",
-    "sorting",
-    "trees",
-    "set",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "sorting", "trees", "set", "trie"],
   "accepted_user_count": 12248,
   "submission_count": null,
   "average_tries": 3.0464000701904297

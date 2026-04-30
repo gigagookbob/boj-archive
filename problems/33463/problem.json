@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>The sums are $2 + 2 = 4$, $2 + 4 = 6$, $2 + 5 = 7$, $4 + 4 = 8$, $4 + 5 = 9$, and $5 + 5 = 10$. The result is $4 \\oplus 6 \\oplus 7 \\oplus 8 \\oplus 9 \\oplus 10 = 14$.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #4",
   "level": 20,
-  "tags": [
-    "sorting",
-    "bitmask",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "bitmask", "two_pointer"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4.13040018081665

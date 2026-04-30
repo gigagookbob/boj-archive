@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2009",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["ad_hoc", "flow", "mcmf", "graphs"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.5369999408721924

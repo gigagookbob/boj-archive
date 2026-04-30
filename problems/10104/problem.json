@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCC 2014 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2014, CCC 2014 Senior Division",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 364,
   "submission_count": null,
   "average_tries": 1.4422999620437622

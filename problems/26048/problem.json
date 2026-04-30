@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2022",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.75

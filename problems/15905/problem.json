@@ -23,10 +23,7 @@
   "hint": "<p>2번 예제의 경우 순위가 높은 순서대로 나열하면 아래와 같다.</p>\n<pre>\n7\n7 620\n5 300\n5 420\n4 340\n4 500\n4 510\n2 420\n</pre>\n<p>이때 6등까지의 학생이 5등과 같은 문제 개수를 가지기 때문에, 답은 1이 된다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2018, Acka",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 1116,
   "submission_count": null,
   "average_tries": 1.4874999523162842

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2010/2011 예선, baekjoon, joonas",
   "level": 2,
-  "tags": [
-    "implementation",
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["implementation", "arithmetic", "math"],
   "accepted_user_count": 15905,
   "submission_count": null,
   "average_tries": 1.1792999505996704

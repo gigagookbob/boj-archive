@@ -31,13 +31,7 @@
   "hint": null,
   "source": "baekjoon, sukwoo0711",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "sorting", "set", "hash_set"],
   "accepted_user_count": 16161,
   "submission_count": null,
   "average_tries": 1.7878999710083008

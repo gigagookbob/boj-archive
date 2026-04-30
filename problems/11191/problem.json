@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2012",
   "level": 18,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination",
-    "xor_basis"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination", "xor_basis"],
   "accepted_user_count": 386,
   "submission_count": null,
   "average_tries": 2.212399959564209

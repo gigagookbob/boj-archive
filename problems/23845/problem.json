@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2021, rdd6584",
   "level": 13,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 2.5627999305725098

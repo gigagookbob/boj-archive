@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:188px; width:376px\"/></p>",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2000",
   "level": 16,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics",
-    "burnside"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics", "burnside"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 1.1641000509262085

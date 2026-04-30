@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 1996, baekjoon, apjw6112, jh05013",
   "level": 9,
-  "tags": [
-    "math",
-    "combinatorics",
-    "backtracking",
-    "recursion"
-  ],
+  "tags": ["math", "combinatorics", "backtracking", "recursion"],
   "accepted_user_count": 29938,
   "submission_count": null,
   "average_tries": 1.777899980545044

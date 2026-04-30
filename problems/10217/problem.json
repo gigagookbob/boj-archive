@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's High 2014, tae, kjho1e3, doju, pichulia",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 1308,
   "submission_count": null,
   "average_tries": 10.271400451660156

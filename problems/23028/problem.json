@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제3회 가톨릭대학교 프로그래밍 경진대회 (CCPC), kimcoding, chan120317, gjdms611, kgstiger, ktykty0722, pjh6792, rhs0266, tony9402, tyoungs",
   "level": 6,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 474,
   "submission_count": null,
   "average_tries": 2.3733999729156494

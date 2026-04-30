@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2019",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "case_work"
-  ],
+  "tags": ["data_structures", "segtree", "case_work"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.272700071334839

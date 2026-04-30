@@ -19,11 +19,7 @@
   "hint": "<p>В первом примере Роману выгодно взять $2$ абонемента на неделю, это будет стоить $2 \\cdot 7 = 14$ бурлей и позволит оплатить парковку на $14$ дней.</p>\n<p>Во втором примере выгодно купить $5$ абонементов на неделю и $1$ на день. Количество оплаченных дней будет ровно $36$, а цена составит $1 \\cdot 2 + 5 \\cdot 9 + 0 \\cdot 38 = 47$ бурлей.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2016-17",
   "level": 11,
-  "tags": [
-    "dp",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "greedy", "bruteforcing"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.3636000156402588

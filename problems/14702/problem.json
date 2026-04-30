@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:112px; width:339px\"/></p>\n<p>위의 그림은 첫 번째 요청에 대해 물이 차지하는 영역이 삼각형, 사각형, 오각형을 이루는 경우이다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2017 서울대학교 프로그래밍 경시대회, Division 1, doju",
   "level": 19,
-  "tags": [
-    "geometry",
-    "polygon_area",
-    "two_pointer"
-  ],
+  "tags": ["geometry", "polygon_area", "two_pointer"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.8333001136779785

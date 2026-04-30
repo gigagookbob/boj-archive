@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2005, koosaga",
   "level": 16,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 174,
   "submission_count": null,
   "average_tries": 2.356300115585327

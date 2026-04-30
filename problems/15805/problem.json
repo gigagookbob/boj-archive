@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2018 SCCC Programming Contest, choiking10",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "set"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "set"],
   "accepted_user_count": 507,
   "submission_count": null,
   "average_tries": 2.4892001152038574

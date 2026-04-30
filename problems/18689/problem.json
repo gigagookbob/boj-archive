@@ -15,10 +15,7 @@
   "hint": "<p>The figure below is an example of the first test case:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 490px; height: 504px;\"/></p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2016 Arab Collegiate Programming Contest",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.7407000064849854

@@ -15,9 +15,7 @@
   "hint": "<p>예제로 만들 수 있는 미로는 다음과 같은 모양이며, 편의상 (i, j)에 놓여진 사탕의 개수는 A<sub>i</sub>, B<sub>j</sub>로 표시했다.</p>\n<table class=\"table table-bordered table-center-20 td-center\">\n<tbody>\n<tr>\n<td>0, 4</td>\n<td>0, 1</td>\n<td>0, 9</td>\n<td>0, 7</td>\n</tr>\n<tr>\n<td>7, 4</td>\n<td>7, 1</td>\n<td>7, 9</td>\n<td>7, 7</td>\n</tr>\n<tr>\n<td>1, 4</td>\n<td>1, 1</td>\n<td>1, 9</td>\n<td>1, 7</td>\n</tr>\n<tr>\n<td>7, 4</td>\n<td>7, 1</td>\n<td>7, 9</td>\n<td>7, 7</td>\n</tr>\n<tr>\n<td>6, 4</td>\n<td>6, 1</td>\n<td>6, 9</td>\n<td>7, 7</td>\n</tr>\n<tr>\n<td>7, 4</td>\n<td>7, 1</td>\n<td>7, 9</td>\n<td>7, 7</td>\n</tr>\n<tr>\n<td>6, 4</td>\n<td>6, 1</td>\n<td>6, 9</td>\n<td>6, 7</td>\n</tr>\n</tbody>\n</table>",
   "source": null,
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 1.8430999517440796

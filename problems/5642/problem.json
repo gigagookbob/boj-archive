@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2011 ACM-ICPC Asia Phuket Regional Programming Contest, baekjoon, newdeal",
   "level": 22,
-  "tags": [
-    "game_theory",
-    "precomputation",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "precomputation", "sprague_grundy"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 7.3333001136779785

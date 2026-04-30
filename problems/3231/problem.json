@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2003, Regional Competition - Seniors, kdh9949, movie_jo",
   "level": 8,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 392,
   "submission_count": null,
   "average_tries": 2.392899990081787

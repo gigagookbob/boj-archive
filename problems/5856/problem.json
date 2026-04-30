@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 10 cows and 4 groups.  The first group contains cows 1 and 3, and so on.</p><h4>Output Details</h4><p>In addition to cow #1, FJ must invite cow #3 (due to the first group constraint), cow #4 (due to the second group constraint), and also cow #2 (due to the final group constraint).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO January 2013 Contest, Silver",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "dag",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "dag", "queue"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.7647000551223755

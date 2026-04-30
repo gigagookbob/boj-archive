@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2007 Pacific Northwest Region Programming Contest, baekjoon, dkim",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 3835,
   "submission_count": null,
   "average_tries": 1.4953999519348145

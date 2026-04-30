@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 2: Nyatl Contest 2023",
   "level": 15,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "case_work",
-    "parity"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "case_work", "parity"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.09089994430542

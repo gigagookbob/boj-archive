@@ -19,12 +19,7 @@
   "hint": "<p>문제 제목에 1급 한자를 넣으려고 했으나 실패했다.</p>",
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2024 반년대회, ehlee0815, denniskim, kdh9949, lighton, lisifu, lky7674, mjhmjh1104",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "offline_queries",
-    "mo"
-  ],
+  "tags": ["data_structures", "disjoint_set", "offline_queries", "mo"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

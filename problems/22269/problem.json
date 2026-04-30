@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2020",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["dp", "data_structures", "stack"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.7930999994277954

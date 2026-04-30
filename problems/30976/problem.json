@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 나들이, 첫 번째 나들이, vkdldjvkdnj, iktk, measurezero, mujigae, utilforever, w8385",
   "level": 17,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 1.923699975013733

@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "dp",
-    "kmp",
-    "string"
-  ],
+  "tags": ["dp", "kmp", "string"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.482800006866455

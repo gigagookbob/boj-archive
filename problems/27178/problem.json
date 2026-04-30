@@ -27,12 +27,7 @@
   "hint": "<p>В первом примере после обмена цифр $1$ и $7$ получается число $710$, выигрыш равен $710-15=695$.</p>\n<p>Во втором примере менять цифры местами не выгодно, если оставить число как есть, выигрыш равен $170$, а если поменять, то выигрыш будет равен $710-600=110 &lt; 170$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2022",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "greedy",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "greedy", "implementation", "sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.4667000770568848

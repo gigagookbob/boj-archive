@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2023",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "sweeping"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.0713999271392822

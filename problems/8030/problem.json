@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2000/2001, Stage 1",
   "level": 10,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.6378999948501587

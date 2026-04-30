@@ -35,11 +35,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2025-2026 Northwestern Russia Regional Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "bitmask"
-  ],
+  "tags": ["implementation", "string", "bitmask"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.0526000261306763

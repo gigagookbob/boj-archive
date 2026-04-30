@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 7: Peking U Contest",
   "level": 16,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["greedy", "ad_hoc", "game_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1

@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2013/2014 Spring Training Camp",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "tree_set"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.350000023841858

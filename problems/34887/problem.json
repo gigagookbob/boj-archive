@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2025 한양대학교 ALOHA 단풍컵, gggkik, myyh1234, fs_edge, lkh3happy",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "constructive", "bitmask"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.6363999843597412

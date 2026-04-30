@@ -27,11 +27,7 @@
   "hint": "<p>$x_i\\cdot\\lvert x_i\\rvert$의 절댓값은 $x_i^2$과 같으며, 부호는 $x_i$의 부호와 같다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Div. 1, University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Open Contest - Phase 2, kidw0124, sshs29hanul, cologne, eoaud0108, kipa00, leeminjae, lighter, shiftpsh, utilforever, yijw0930",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["math", "ad_hoc", "geometry"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.2352999448776245

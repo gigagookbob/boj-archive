@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, SCCC 2016 Summer Contest, sys7961, jh05013, jh05013",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 2486,
   "submission_count": null,
   "average_tries": 2.680999994277954

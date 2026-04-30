@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 3 cows.  The time required to milk each cow is 10, 5, and 6, respectively.  Cow 3 must be fully milked before we can start milking cow 2.</p><h4>Output Details</h4><p>Cows 1 and 3 can initially be milked at the same time.  When cow 3 is finished with milking, cow 2 can then begin.  All cows are finished milking after 11 units of time have elapsed.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO February 2013 Contest, Silver",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 1.75

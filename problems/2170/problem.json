@@ -15,10 +15,7 @@
   "hint": null,
   "source": "12345up, jyc9326, kiwiyou, kravi, cs71107",
   "level": 11,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 9823,
   "submission_count": null,
   "average_tries": 2.7311999797821045

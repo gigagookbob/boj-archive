@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #4, Division 1, kipa00, queued_q, solvedac, cologne, gs18115, seonah, shiftpsh",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "tree_set"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 2.269200086593628

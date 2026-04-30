@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2013 Local Programming Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, 청정수컵, 2022 서강대학교 청정수컵, 새내기 Round, duram21, bnb2011, cheetose, gumgood, jh05013, jinhan814, lky7674, tony9402",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 407,
   "submission_count": null,
   "average_tries": 2.167099952697754

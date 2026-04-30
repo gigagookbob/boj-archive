@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 7: Petr Mitrichev Contest 15",
   "level": 20,
-  "tags": [
-    "constructive",
-    "divide_and_conquer",
-    "sqrt_decomposition"
-  ],
+  "tags": ["constructive", "divide_and_conquer", "sqrt_decomposition"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.8333001136779785

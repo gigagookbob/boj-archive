@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2020",
   "level": 22,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["combinatorics", "dp", "math", "probability"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.1538000106811523

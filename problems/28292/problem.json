@@ -27,10 +27,7 @@
   "hint": "<p>다음은 4번째 항까지의 개미 수열을 구하는 과정이다.</p>\n<ol>\n<li>첫 번째 항은 $1$이다.</li>\n<li>첫 번째 항이 $1$이므로 이웃한 같은 숫자들을 묶으면 $(1)$이 된다.</li>\n<li>묶은 숫자가 $1$ 한 개 뿐이므로 숫자와 개수를 붙여 쓰면 $11$이 된다.</li>\n<li>두 번째 항이 $11$이므로 이웃한 같은 숫자들을 묶으면 $(1, 1)$이 된다.</li>\n<li>묶은 숫자가 $1$ 두 개이므로 숫자와 개수를 붙여 쓰면 $12$가 된다.</li>\n<li>세 번째 항이 $12$이므로 이웃한 같은 숫자들을 묶으면 $(1), (2)$가 된다.</li>\n<li>묶은 숫자가 $1$ 한 개, $2$ 한 개이므로 숫자와 개수를 붙여 쓰면 $1121$이 된다.</li>\n</ol>",
   "source": "School, 대구소프트웨어마이스터고등학교, 2023 대구소프트웨어고 프로그래밍 경진대회 (DPC 2023), changwook987, amsminn, chansol, hibye1217, martinok1103, midori, tlsdydaud1, utilforever",
   "level": 6,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 545,
   "submission_count": null,
   "average_tries": 2.1064000129699707

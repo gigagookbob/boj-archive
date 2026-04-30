@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2013 Rocky Mountain Regional Contest, baekjoon",
   "level": 17,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "berlekamp_massey"
-  ],
+  "tags": ["math", "linear_algebra", "berlekamp_massey"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 3.6789000034332275

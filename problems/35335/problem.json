@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2025-2026 Season, USACO 2026 Second Contest, Silver",
   "level": 16,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "ad_hoc", "eulerian_path"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,11 +15,7 @@
   "hint": "<p>첫 예시에서 만약 아무도 요원으로 바꾸지 않으면 1번부터 4번까지 각자의 행복 지수는 0, 2, -3, 1로, 종합 행복 지수가 0+2+(−3) + 1 = 0이 된다.</p>\n<p>그러나 넷 중 몇을 요원으로 대체하면 종합 행복 지수를 2까지 올릴 수 있다. 1, 2번을 요원으로 대체하면, 0+0+0+2=2로 종합 행복 지수가 2가 되며, 이 예시에서 3이상으로 종합 행복 지수를 늘리는 방법은 없기 때문에 답은 2이다.</p>",
   "source": "University, POSTECH, PPC 2018, jhs7jhs",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.5278000831604004

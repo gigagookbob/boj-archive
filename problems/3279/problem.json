@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2001, Regional Competition - Seniors",
   "level": 6,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 1.2308000326156616

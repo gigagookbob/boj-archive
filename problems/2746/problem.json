@@ -15,11 +15,7 @@
   "hint": null,
   "source": "jhnah917",
   "level": 13,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "case_work"
-  ],
+  "tags": ["sorting", "binary_search", "case_work"],
   "accepted_user_count": 148,
   "submission_count": null,
   "average_tries": 4.8242998123168945

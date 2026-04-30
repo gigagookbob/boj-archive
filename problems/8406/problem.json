@@ -15,10 +15,7 @@
   "hint": "<p>Fib<sub>5</sub>에서 적어도 aba가 등장하는 만큼 등장하는 비어있지 않은 부분 단어는 a, b, ab, ba, aba이다.</p>\r\n",
   "source": "Contest, Algorithmic Engagements, PA 2006, baekjoon",
   "level": 26,
-  "tags": [
-    "case_work",
-    "math"
-  ],
+  "tags": ["case_work", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.5

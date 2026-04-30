@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 가능한 방문 순서는 2, 1, 3과 3, 1, 2가 있다. 1, 3, 2가 시간이 더 적게 들지만, 문제의 조건을 만족하지 않는다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #2, baekjoon",
   "level": 17,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 389,
   "submission_count": null,
   "average_tries": 1.9023000001907349

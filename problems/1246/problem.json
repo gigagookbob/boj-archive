@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO November 2008 Contest, Bronze, author6, cokcjswo, jwvg0425",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 3524,
   "submission_count": null,
   "average_tries": 2.1981000900268555

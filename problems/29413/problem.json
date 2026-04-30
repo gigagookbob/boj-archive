@@ -19,12 +19,7 @@
   "hint": "<p>При вычислении налога во втором примере получается следующая строка: $182764125$. Седьмая цифра при этом равна $1$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, November 12, 2011, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, November 12, 2011, Advanced",
   "level": 14,
-  "tags": [
-    "arbitrary_precision",
-    "binary_search",
-    "math",
-    "parametric_search"
-  ],
+  "tags": ["arbitrary_precision", "binary_search", "math", "parametric_search"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.6666998863220215

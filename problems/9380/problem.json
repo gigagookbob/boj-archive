@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2008",
   "level": 15,
-  "tags": [
-    "math",
-    "geometry",
-    "calculus",
-    "polygon_area"
-  ],
+  "tags": ["math", "geometry", "calculus", "polygon_area"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3600000143051147

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, October 20, 2012, Advanced",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["math", "dp", "trees", "dp_tree", "rerooting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

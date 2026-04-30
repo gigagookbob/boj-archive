@@ -15,10 +15,7 @@
   "hint": "<p>$a_5 = 3$ oznacza, że w ciągu $a$ liczba $5$ występuje dokładnie $3$ razy; dokładniej, $a_9 = a_{10} = a_{11} = 5$.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2008, Stage 3",
   "level": 14,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

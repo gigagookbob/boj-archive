@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2016",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set", "tree_set"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.0666999816894531

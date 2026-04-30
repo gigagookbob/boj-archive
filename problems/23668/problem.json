@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 10: Grand Prix of Xi'An",
   "level": 20,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.0625

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, Tunisian Collegiate Programming Contest, TCPC 2013",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "tree_set"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 1.471500039100647

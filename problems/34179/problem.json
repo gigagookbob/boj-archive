@@ -19,11 +19,7 @@
   "hint": "<p>이 문제의 시간 제한이 $0.777$초인 이유는 이번 <a href=\"/contest/view/1536\"><code>제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL</code></a>이 $7$회 대회이기 때문이다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL, alex04, austin0817, devluyten, ezh8n, kidw0124, lighter, mathjuny, osjoon, utilforever, yijw0930",
   "level": 23,
-  "tags": [
-    "graphs",
-    "articulation",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "articulation", "planar_graph"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

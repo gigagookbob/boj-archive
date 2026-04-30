@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 카툰컵, 카툰컵 Zero: ~Prologue~, jbh0224, djeleanor2, eric00513, index, ingyu1008, nflight11, ruykun, utilforever, ychangseok",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 156,
   "submission_count": null,
   "average_tries": 1.6603000164031982

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, EuroPython 2011, EuroPython 2011, Contest, Google, Google's Coding Competitions, GoogleGames 2011, GoogleGames 2011 Pittsburgh",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 347,
   "submission_count": null,
   "average_tries": 1.4437999725341797

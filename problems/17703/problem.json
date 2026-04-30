@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2016/2017 Spring Training Camp",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "segtree",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "geometry", "segtree", "sqrt_decomposition"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.230799913406372

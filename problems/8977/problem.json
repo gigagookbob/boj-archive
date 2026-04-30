@@ -23,11 +23,7 @@
   "hint": "<p>In the first example, the tenth number displayed is 0, followed by 6 and 8. The sum is 14.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, Regional Competition - Seniors, sait2000",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 206,
   "submission_count": null,
   "average_tries": 1.5

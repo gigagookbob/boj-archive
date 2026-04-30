@@ -19,11 +19,7 @@
   "hint": null,
   "source": "jh05013, dohoon, shjohw12, WeissBlume",
   "level": 16,
-  "tags": [
-    "geometry",
-    "case_work",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "case_work", "line_intersection"],
   "accepted_user_count": 230,
   "submission_count": null,
   "average_tries": 4.0782999992370605

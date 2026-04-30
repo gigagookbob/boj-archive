@@ -39,12 +39,7 @@
   "hint": "<p><span style=\"color:#c0392b;\">PARENT_ORIGIN</span>, <span style=\"color:#c0392b;\">ANCHOR_POINT</span>, <span style=\"color:#c0392b;\">POSITION </span>에 대한 설명은 <a href=\"https://dalihub.github.io/docs/native-tutorials/actor\" target=\"_blank\">https://dalihub.github.io/docs/native-tutorials/actor</a> 나 <a href=\"https://docs.tizen.org/application/dotnet/guides/user-interface/nui/view/\">https://docs.tizen.org/application/dotnet/guides/user-interface/nui/view/</a> 의 이미지를 참고하면 좋다.</p>\n<p>GGANALi 의 <span style=\"color:#c0392b;\">SENSITIVE</span> 속성은 Actor 자기 자신의 이벤트만 막지만, 실제 DALi 에서 <span style=\"color:#c0392b;\">SENSITIVE</span> 속성은 자식 Actor의 이벤트도 막는다는 차이점이 있으므로 주의하자. </p>\n<p>subtask 1 의 조건을 만족하는 예제는 [예제 3], [예제 5] 번</p>\n<p>subtask 2 의 조건을 만족하는 예제는 [예제 2], [예제 6], [예제 7] 번</p>\n<p>subtask 4 의 조건을 만족하는 예제는 [예제 1], [예제 4] 번 이다.</p>\n<p>[예제 4] 의 경우, Actor BA 의 CLIP_MODE 여부가 최종 정답에 영항을 주지 않으므로 subtask 3 검수용으로 사용할 수 있다.</p>\n<p> </p>",
   "source": "pichulia, jhnah917, utilforever, wjdclgns12",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "string",
-    "trees"
-  ],
+  "tags": ["data_structures", "implementation", "string", "trees"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3.7142999172210693

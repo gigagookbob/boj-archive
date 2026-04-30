@@ -23,9 +23,7 @@
   "hint": "<p>Pictures for the sample cases are given below:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 250px; height: 250px;\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 250px; height: 250px;\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 250px; height: 250px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 4: Yandex Cup 2018, Contest, Open Cup, 2017/2018 Season, Stage 11: Grand Prix of Khamovniki",
   "level": 17,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 6.1666998863220215

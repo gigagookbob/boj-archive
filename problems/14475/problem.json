@@ -19,11 +19,7 @@
   "hint": "<p>入力例 1 では，部屋を 1 → 2 → 3 → 4 → 5 → 6 → 5 → 8 の順に移動するのが最短となる．</p>\n<p>入力例 2 では，いくつかの部屋の組 (たとえば部屋 1 と部屋 5) を結ぶ廊下が複数ある．</p>\n<p>※各入出力例のデータは，右クリック等によりファイルに保存して利用可能です．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2016/2017 예선",
   "level": 18,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 1.6722999811172485

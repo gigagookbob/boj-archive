@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2002, kyo20111",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "flow",
-    "graphs"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "flow", "graphs"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 5: Belarusian SU Contest",
   "level": 22,
-  "tags": [
-    "math",
-    "combinatorics",
-    "fft"
-  ],
+  "tags": ["math", "combinatorics", "fft"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

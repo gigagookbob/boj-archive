@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, EuroPython 2012, EuroPython 2012",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.1897000074386597

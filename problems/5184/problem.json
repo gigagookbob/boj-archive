@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2007: Final Exams",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.763200044631958

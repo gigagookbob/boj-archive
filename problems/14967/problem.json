@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #1",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "segtree"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.4634000062942505

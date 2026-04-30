@@ -15,15 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2017, Final",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "bitmask",
-    "flow",
-    "dp_bitfield",
-    "mcmf"
-  ],
+  "tags": ["dp", "graphs", "greedy", "bitmask", "flow", "dp_bitfield", "mcmf"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

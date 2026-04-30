@@ -19,9 +19,7 @@
   "hint": null,
   "source": "runnie0427",
   "level": 17,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 514,
   "submission_count": null,
   "average_tries": 2.124500036239624

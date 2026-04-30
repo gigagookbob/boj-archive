@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, Malaysia National Programming Contest, Al-Khawarizmi National Programming Contest 2018",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "queue"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.4177000522613525

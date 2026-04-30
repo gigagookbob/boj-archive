@@ -15,11 +15,7 @@
   "hint": "<p>For the first test case, a valid division is [1, 2], [3, 4], [5], which makes the $1$-st soldier and the $3$-rd soldier upset. [1, 2], [3, 5], [4] is also valid.</p>\n<p>For the second test case, a valid division is [1, 2], [3, 4], [5, 6], [7, 8].</p>\n<p>For the third test case, a valid division is [1, 3], [2, 4].</p>\n<p>For the fourth test case, a valid division is [1, 2, 3, 4].</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 6: Grand Prix of EDG",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "set"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1

@@ -19,11 +19,7 @@
   "hint": "<p>В первом тесте из условия менять высоту колонн не требуется, так как их всего две, и они автоматически удовлетворяют поставленному требованию.</p>\n<p>Во втором тесте из условия оптимальным набором высот колонн будет $3, 7, 11, 15, 19$, а суммарная стоимость изменений есть $|3 - 3| + |7 - 8| + |11 - 10| + |15 - 13| + |19 - 20| = 5$.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2016-17",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "randomization"
-  ],
+  "tags": ["binary_search", "parametric_search", "randomization"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 17.5

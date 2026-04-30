@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2021 ICPC Pacific Northwest Region, Division 1, ICPC, Regionals, North America, Mid-Central Regional, Mid-Central USA Programming Contest 2021, ICPC, Regionals, North America, Northeast North America Regional, 2021 Northeast North America Regional Contest",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "greedy", "math", "probability"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.2381000518798828

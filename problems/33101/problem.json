@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2023",
   "level": 22,
-  "tags": [
-    "graphs",
-    "trees",
-    "dag",
-    "dominator_tree"
-  ],
+  "tags": ["graphs", "trees", "dag", "dominator_tree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

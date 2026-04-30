@@ -19,11 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, chansol, eric00513, jenny00513, jhnah917, jthis, lms0806, parkky, tony9402",
   "level": 5,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 1907,
   "submission_count": null,
   "average_tries": 2.4860999584198

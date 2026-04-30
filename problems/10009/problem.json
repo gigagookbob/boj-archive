@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 8,
-  "tags": [
-    "dp",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["dp", "greedy", "constructive"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.7143000364303589

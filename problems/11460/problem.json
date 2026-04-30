@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2015",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.200000047683716

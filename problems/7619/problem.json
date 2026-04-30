@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, MIT, The MIT Programming Contest, 2008-09, MIT Programming Contest Individual Round 2008, baekjoon",
   "level": 20,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["math", "greedy", "ad_hoc", "case_work"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.25

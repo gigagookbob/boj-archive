@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, Greek Collegiate Programming Contest, GRCPC 2023",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "flood_fill"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 1.436900019645691

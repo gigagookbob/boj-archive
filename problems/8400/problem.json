@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>Staying at house number 1 the crayfish can visit friends from houses 2, 3, 4. Staying at house number 2 the crayfish can visit friends from houses 3, 4, 5. Staying at house number 3 the crayfish can visit friends from houses 2, 4, 5. Staying at house number 4 the crayfish can visit friends from houses 2, 3, 5. Staying at house number 5 the crayfish can visit none of his friends.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2006",
   "level": 18,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

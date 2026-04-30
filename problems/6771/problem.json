@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2012, CCC 2012 Senior Division",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.134600043296814

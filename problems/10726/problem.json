@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:147px; width:699px\"/></p>\n<p>위의 6가지 이다.</p>",
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, august14",
   "level": 25,
-  "tags": [
-    "dp",
-    "dp_connection_profile"
-  ],
+  "tags": ["dp", "dp_connection_profile"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.3125

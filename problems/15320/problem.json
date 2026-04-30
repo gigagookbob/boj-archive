@@ -19,11 +19,7 @@
   "hint": "<p>2번 예제에서 2번 미뢰와 4번 미뢰 사이의 연결을 끊는 것이 고통의 합이 최소가 된다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2017, Acka",
   "level": 19,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 6.0625

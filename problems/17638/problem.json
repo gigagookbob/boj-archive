@@ -19,10 +19,7 @@
   "hint": "<p>The first example equals is described in the problem statement.</p>\n<p>The second example is decoded as A = (0, 1, 2, 3, 4, 5, 6, 7, 8, 9).</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2019, Practice",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #4, HyehwA",
   "level": 18,
-  "tags": [
-    "hashing",
-    "kmp",
-    "rabin_karp",
-    "string"
-  ],
+  "tags": ["hashing", "kmp", "rabin_karp", "string"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.7916998863220215

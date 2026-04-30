@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2007",
   "level": 0,
-  "tags": [
-    "ad_hoc",
-    "heuristics",
-    "precomputation",
-    "tsp"
-  ],
+  "tags": ["ad_hoc", "heuristics", "precomputation", "tsp"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

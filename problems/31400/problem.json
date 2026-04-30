@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #4, Division 1, cologne, solvedac, gs18115, seonah, shiftpsh",
   "level": 18,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc", "binary_search"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.75

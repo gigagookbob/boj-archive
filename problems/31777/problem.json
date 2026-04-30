@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2024 POSTECH Programming Contest, Contest, University, POSTECH, 2024 POSTECH Programming Contest, Open Contest, menborong, hyperbolic, jk410, kwoncycle, leo020630, pasa3232, petamingks, pjshwa, slah007, tony9402",
   "level": 18,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "trees"
-  ],
+  "tags": ["greedy", "ad_hoc", "trees"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.9464000463485718

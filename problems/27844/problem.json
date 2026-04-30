@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 February Contest, Gold",
   "level": 21,
-  "tags": [
-    "dp",
-    "greedy",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "trees", "dp_tree"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 2.319999933242798

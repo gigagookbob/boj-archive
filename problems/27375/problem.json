@@ -15,10 +15,7 @@
   "hint": "<p>화요일 $5$교시부터 $7$교시까지 열리는 수업은 2 5 7과 같이 주어진다.</p>",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2022 고려대학교 프로그래밍 경시대회 (KCPC mini), Div. 2, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2022 고려대학교 프로그래밍 경시대회 (KCPC mini), Open Contest, edwardblue, chansol, gs18115, jhnah917",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 343,
   "submission_count": null,
   "average_tries": 1.6938999891281128

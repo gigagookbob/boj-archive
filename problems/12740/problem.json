@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2016 Spring RUN@KAIST Programming Contest, jihoon",
   "level": 20,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics"
-  ],
+  "tags": ["math", "number_theory", "combinatorics"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.416700005531311

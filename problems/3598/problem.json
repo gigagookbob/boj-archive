@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2007, baekjoon, semtax",
   "level": 18,
-  "tags": [
-    "math",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["math", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 3.2156999111175537

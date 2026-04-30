@@ -15,12 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Jeśli do Bajtazara zgłosi się jeden chętny, to Bajtazar może oddać mu wszystkie swoje znaczki.</p>\n<p>Jeśli będzie dwóch chętnych, to Bajtazar może im dać po dwa znaczki z miasta 1, po jednym znaczku z miasta 42 i po jednym znaczku z miasta 777, czyli w sumie 8 znaczków.</p>\n<p>Jeśli będzie czterech chętnych, to Bajtazar może im dać po jednym znaczku z miasta 1.</p>\n<p>Jeśli będzie więcej niż czterech chętnych, to Bajtazar nie będzie mógł rozdać żadnych znaczków.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 11,
-  "tags": [
-    "math",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["math", "data_structures", "set", "hash_set"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.541700005531311

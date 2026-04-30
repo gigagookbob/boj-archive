@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2016",
   "level": 19,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arbitrary_precision",
-    "calculus"
-  ],
+  "tags": ["math", "ad_hoc", "arbitrary_precision", "calculus"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.157900094985962

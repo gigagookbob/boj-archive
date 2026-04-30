@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division, hjroh0315, biximo, dhyang24, eggx50000, naeby, quickn, utilforever",
   "level": 8,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "degree_sequence"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "degree_sequence"],
   "accepted_user_count": 275,
   "submission_count": null,
   "average_tries": 1.6944999694824219

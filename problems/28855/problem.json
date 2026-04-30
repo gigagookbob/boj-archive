@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, September 30, 2017",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.3157999515533447

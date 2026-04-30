@@ -19,12 +19,7 @@
   "hint": null,
   "source": "kyo20111",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["dp", "graphs", "flow", "mcmf"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.890199899673462

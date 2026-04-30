@@ -15,11 +15,7 @@
   "hint": "<p>In sample case #4, the largest possible circle seats the following kids in the following order: <code>7 9 3 10 4 1</code>. (Any reflection or rotation of this circle would also work.) Note that the kid with student ID 1 is next to the kid with student ID 7, as required, because the list represents a circle.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 1A",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.4687999486923218

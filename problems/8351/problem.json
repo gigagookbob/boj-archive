@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2008",
   "level": 13,
-  "tags": [
-    "bitmask",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["bitmask", "combinatorics", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

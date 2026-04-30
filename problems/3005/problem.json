@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #2, baekjoon, nowkangmin, sky1357",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "sorting", "parsing"],
   "accepted_user_count": 942,
   "submission_count": null,
   "average_tries": 1.5764000415802002

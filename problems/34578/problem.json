@@ -23,10 +23,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera:</p>\n<p>Sve dobre tablice s $2$ retka i $2$ stupca:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 430px; height: 43px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Final Exam #1",
   "level": 17,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

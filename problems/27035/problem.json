@@ -15,10 +15,7 @@
   "hint": "<p>There are 4 boy cows of heights 2, 8, 5, and 5, and there are 4 girl cows of heights 1, 4, 10, and 7.</p>\n<p>The best pairing is as follows (in terms of heights): 2-1 8-10 5-4 5-7. The total sum of height difference for this pairing is 6.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO February 2004 Contest, Blue",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.0644999742507935

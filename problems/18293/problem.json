@@ -15,12 +15,7 @@
   "hint": "<p>The results corresponds to the CO2-cost of the following route:</p>\n<ol>\n<li>from home at (1,1) to station 0 at (2,3) by car for a cost of 100 × ⌈√(1<sup>2</sup> + 2<sup>2</sup>)⌉ = 300,</li>\n<li>to station 2 at (9,3) via transportation mode 2 for a cost of 50 × ⌈√(7<sup>2</sup> + 0<sup>2</sup>)⌉ = 350,</li>\n<li>to the destination at (10,2) by car for a cost of 100 × ⌈√(1<sup>2</sup> + 1<sup>2</sup>)⌉ = 200 for a total of 850.</li>\n</ol>\n<p>This route is valid because the total distance traveled is 3 + 7 + 2 = 12, within the allowed budget of 12.</p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.217400074005127

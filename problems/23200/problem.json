@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2020",
   "level": 21,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack",
-    "bitset"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack", "bitset"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.517199993133545

@@ -19,11 +19,7 @@
   "hint": "<p>Одна из оптимальных стратегий доставки заказов из первого примера изображена на девяти рисунках ниже, при этом выполнение второго заказа не увеличивает прибыль.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 676px; height: 175px;\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\" style=\"width: 673px; height: 175px;\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"6.png\" style=\"width: 673px; height: 175px;\"/></p>\n<p>Во втором примере достаточно один раз клонировать робота для доставки первого заказа, полученной системой роботов доставить второй заказ, а производить дополнительное клонирование для доставки третьего заказа экономически невыгодно.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2024",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

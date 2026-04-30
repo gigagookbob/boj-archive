@@ -19,11 +19,7 @@
   "hint": "<p>In the second example $n = 4$, $l = 2$, $r = l + n - 1 = 5$. The answer is the following: $a_2 = 2 - 1 = 1$, $a_3 = 3 + 1 = 4$, $a_4 = 4 + 1 = 5$, $a_5 = 5 + 1 = 6$. The product of integers from $l$ to $r$ is $2 \\cdot 3 \\cdot 4 \\cdot 5 = 120$. The product of $a_k$ is $a_2 \\cdot a_3 \\cdot a_4 \\cdot a_5 = 1 \\cdot 4 \\cdot 5 \\cdot 6 = 120$. Thus, the segment $[2; 5]$ is flexible.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2018",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "math"
-  ],
+  "tags": ["ad_hoc", "constructive", "math"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.0799999237060547

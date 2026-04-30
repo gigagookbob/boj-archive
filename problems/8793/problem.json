@@ -15,11 +15,7 @@
   "hint": "<p>W teście przykładowym znajdują się trzy zestawy testowe.</p>\n<ul>\n<li>W pierwszym zestawie jedyny wpis na liście oznacza wyjście. Ponieważ dom początkowo jest pusty, a nikt nie wychodzi z pustego domu, Jarek musiał wcześniej przegapić co najmniej jedno zdarzenie - wejście jednej osoby.</li>\n<li>W drugim zestawie Jarek zanotował wejścia trzech osób, ale najwyraźniej nie zauważył ich wyjścia.</li>\n<li>W trzecim zestawie opisana kolejność wejść i wyjść jest możliwa.</li>\n</ul>",
   "source": "Contest, Spot, CoolSpot 2011",
   "level": 5,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "arithmetic"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.8621000051498413

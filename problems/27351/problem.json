@@ -15,12 +15,7 @@
   "hint": "<p>For the first test case, we note that no 2 by 2 garden with 2 types of flowers is possible. Thus we output <code>NO</code>. The other gardens are pictured below:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 657px; height: 156px;\"/></p>",
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2021",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "combinatorics",
-    "constructive",
-    "math"
-  ],
+  "tags": ["ad_hoc", "combinatorics", "constructive", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.4375

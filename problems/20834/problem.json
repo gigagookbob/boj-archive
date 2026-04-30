@@ -27,11 +27,7 @@
   "hint": "<p>Säg att strängen vi ska kryptera är <code>ABCDEFGHIKLMNOPQRST</code>, och att rutnätet har storlek $6 \\times 13$. Så här ser rutnätet ut vid olika tidspunkter i krypteringen:</p>\n<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 369px; height: 170px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 369px; height: 170px;\"/></td>\n</tr>\n<tr>\n<td>Efter 6 bokstäver är skrivna</td>\n<td>Efter 8 bokstäver är skrivna, vi har nu studsat en gång i bottenväggen</td>\n</tr>\n<tr>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 369px; height: 170px;\"/></td>\n<td><img alt=\"\" src=\"4.png\" style=\"width: 369px; height: 170px;\"/></td>\n</tr>\n<tr>\n<td>Efter 14 bostäver är skrivna, vi har nu även studsat i övre och högra väggen</td>\n<td>Efter alla 20 bokstäver är skrivna, notera att vi inte skrev över <code>H</code>:et med ett <code>R</code>, utan vi skrev <code>R</code>:et på nästa lediga plats</td>\n</tr>\n</tbody>\n</table>\n<p>I det här exemplet blir alltså det krypterade meddelandet <code>ATKBSJLCRIMDHNEGQOFP</code>. Exempel 2 är att avkoda <code>ATKBSJLCRIMDHNEGQOFP</code>, vilket då avkodas till <code>ABCDEFGHIKLMNOPQRST</code>.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Qualification",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.09089994430542

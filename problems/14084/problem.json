@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2014 - 1st Round",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "polygon_area"
-  ],
+  "tags": ["bruteforcing", "geometry", "polygon_area"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

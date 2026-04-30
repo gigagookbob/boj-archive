@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 3,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "string", "arithmetic", "parsing"],
   "accepted_user_count": 30555,
   "submission_count": null,
   "average_tries": 1.4465999603271484

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Advanced Division, ingyu1008, andrewmjk1, chansol, jhnah917, my3, tony9402",
   "level": 12,
-  "tags": [
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["two_pointer", "sliding_window"],
   "accepted_user_count": 144,
   "submission_count": null,
   "average_tries": 4.0416998863220215

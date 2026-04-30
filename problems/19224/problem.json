@@ -19,12 +19,7 @@
   "hint": "<p>In the first example, the optimal strategy is to randomly get one of the two relics paying $20$ shards. Then there are two scenarios. </p>\n<p>The first one happens if Gloria receives the first relic. Then she keeps getting random relics until she obtains the second relic. The expected number of shards to spend in this scenario is $20 + 30 = 50$.</p>\n<p>In the second scenario, Gloria initially gets the second relic. Then it is better to buy the first relic for $25$ shards, so the expected number of shards to spend in this scenario is $20 + 25 = 45$.</p>\n<p>Thus, the expected number of shards to spend is $\\frac{50 + 45}{2} = 47.5$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2019",
   "level": 25,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "knapsack",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "knapsack", "math"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2856999635696411

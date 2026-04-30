@@ -15,9 +15,7 @@
   "hint": "<p>5개의 아이스크림과 3가지 섞어먹으면 안 되는 조합이 있다. 1번은 2번 3번과 섞으면 안되고, 3번은 4번과 섞으면 안 된다. 따라서 (1 4 5), (2 3 5), (2 4 5)와 같이 3가지 방법이 있다.</p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2011, baekjoon, eric00513, shiftpsh, uss01",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 4449,
   "submission_count": null,
   "average_tries": 2.401900053024292

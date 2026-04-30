@@ -15,12 +15,7 @@
   "hint": "<p>In this case, the sky map has width 23 and height 15. Just to make it clearer, notice that this input file corresponds to the following picture of the sky.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"2.gif\" style=\"height:226px; width:323px\"/></p>\n<p style=\"text-align:center\">Figure 2. Picture of the sky</p>\n<p>This is one possible result for the sample input above. Notice that this output file corresponds to the following picture.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"3.gif\" style=\"height:226px; width:323px\"/></p>\n<p style=\"text-align:center\">Figure 3. Picture with the clusters marked</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 1998, Day 1",
   "level": 17,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.3076999187469482

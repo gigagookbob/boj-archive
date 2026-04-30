@@ -15,12 +15,7 @@
   "hint": "<p>Верхний рисунок иллюстрирует исходное размещение игрушек в коробках, а нижние — варианты итогового расположения игрушек (оптимальный вариант слева).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 525px; height: 359px;\"/></p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2013-14, Day 2",
   "level": 25,
-  "tags": [
-    "binary_search",
-    "convex_hull",
-    "geometry",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "convex_hull", "geometry", "parametric_search"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 14

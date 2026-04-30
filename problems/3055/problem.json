@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #1, baekjoon, cjstjdgur123, djm03178, jn307742",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 15863,
   "submission_count": null,
   "average_tries": 2.8856000900268555

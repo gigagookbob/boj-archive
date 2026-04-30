@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2011, jellypudding86, topology, jh05013",
   "level": 24,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "trees",
-    "set",
-    "splay_tree"
-  ],
+  "tags": ["implementation", "data_structures", "trees", "set", "splay_tree"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 6.159999847412109

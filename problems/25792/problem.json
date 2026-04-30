@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2022 Local Programming Contest (Qualifying Round)",
   "level": 15,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "geometry", "binary_search", "parametric_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4

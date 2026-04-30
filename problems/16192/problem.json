@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2018 KAIST 8th ACM-ICPC Mock Competition, ho94949",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "voronoi"
-  ],
+  "tags": ["bruteforcing", "geometry", "voronoi"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 1.7621999979019165

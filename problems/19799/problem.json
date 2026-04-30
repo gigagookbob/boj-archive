@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2012",
   "level": 9,
-  "tags": [
-    "dp",
-    "implementation"
-  ],
+  "tags": ["dp", "implementation"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.958299994468689

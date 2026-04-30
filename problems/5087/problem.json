@@ -15,9 +15,7 @@
   "hint": "<p>Cheryl scores 6 points for A, 3, A, 3, A and 5, Tania scores 3 points for 2, 8 and 10.</p>\n<p>Cheryl scores 4 points for 9, 3, 3 and 7, Tania also scores 4 points for 2, 4, 6 and 8.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2011",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 289,
   "submission_count": null,
   "average_tries": 1.3632999658584595

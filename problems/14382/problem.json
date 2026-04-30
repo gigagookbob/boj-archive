@@ -15,11 +15,7 @@
   "hint": "<p dir=\"ltr\">예제 입출력 1번에 대해서, 2 &times; 0 = 0, 3 &times; 0 = 0 등등으로 이어지므로, 블리트릭스는 0외에는 다른 숫자를 기록할 수 없을 것이며, 따라서 영원히 잠에 들 수 없다.</p>\r\n\r\n<p dir=\"ltr\">예제 입출력 2번의 경우, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 순으로 떠올릴 것이며, 0이 가장 마지막에 기록되는 수가 될 것이다. 따라서 10이 마지막 수가 될 것이다.</p>\r\n\r\n<p dir=\"ltr\">예제 입출력 3번의 경우, 2, 4, 6... 등등으로 떠올릴 것이다. 숫자 9는 90 전에는 기록할 수 없다. 90을 떠올렸을 때 이미 블리트릭스는 0~8의 숫자를 적었을 것이므로, 90이 마지막 수가 될 것이다.</p>\r\n\r\n<p dir=\"ltr\">예제 입출력 4번은 블리트릭스가 11, 22, 33, 44, 55, 66, 77, 88, 99, 110 을 떠올릴 것이고, 110이 마지막 수가 될 것이다.</p>\r\n\r\n<p>예제 입출력 5번은 문제에서 설명한 수이다.</p>\r\n",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Qualification Round",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 625,
   "submission_count": null,
   "average_tries": 1.3215999603271484

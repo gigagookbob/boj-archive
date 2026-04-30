@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2015",
   "level": 19,
-  "tags": [
-    "geometry",
-    "two_pointer",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "two_pointer", "polygon_area"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.5769000053405762

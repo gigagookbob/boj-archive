@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 388px; width: 280px;\"/></p>\n<p>다음은 예제 중 첫 번째 쿼리의 답으로 가능한 경로 중 한 가지이다. 그림의 경로는 레이저에 감시당하지 않으며 $(0.5, 5)$에서 $(3.5, 4)$로 이동하는 경로이며 모든 조건을 만족한다. 침입자의 경로는 레이저의 끝점을 스쳐도 무방하다. 전체 경로의 길이는 $10$임을 계산할 수 있다.</p>",
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2025!, songc, cki86201, silverwolf, stonejjun03",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.25

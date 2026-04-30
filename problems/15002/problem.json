@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2017 Preliminaries",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.6363999843597412

@@ -15,10 +15,7 @@
   "hint": "<p>For the first test case, give two bags of corn to both cows $2$ and $3$, then\ngive five bags of corn to both cows $1$ and $2$, resulting in each cow having a\nhunger level of $3$.\n\n</p><p>For the second test case, give two bags to both cows $1$ and $2$, two bags to\nboth cows $2$ and $3$, two bags to both cows $4$ and $5$, and two bags to both\ncows $5$ and $6$, resulting in each cow having a hunger level of $2$. \n\n</p><p>For the remaining test cases, it is impossible to make the hunger levels of the\ncows equal.\n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 January Contest, Bronze",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 182,
   "submission_count": null,
   "average_tries": 2.818700075149536

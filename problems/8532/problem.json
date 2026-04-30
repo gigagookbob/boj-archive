@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2007, koosaga",
   "level": 17,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

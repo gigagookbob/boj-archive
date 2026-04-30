@@ -15,13 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 207px; height: 168px;\"/></p>",
   "source": "School, University of Maryland High School Programming Contest, HSPC 2010 연습 세션",
   "level": 10,
-  "tags": [
-    "graphs",
-    "string",
-    "graph_traversal",
-    "bfs",
-    "parsing"
-  ],
+  "tags": ["graphs", "string", "graph_traversal", "bfs", "parsing"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.842099905014038

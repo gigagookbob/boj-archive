@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, October 20, 2012, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, October 20, 2012, Advanced",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "segtree"
-  ],
+  "tags": ["data_structures", "bruteforcing", "segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.416700005531311

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2021 Winter), shiftpsh, chogahui05, jh05013, jwvg0425, rdd6584",
   "level": 16,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 2.5211000442504883

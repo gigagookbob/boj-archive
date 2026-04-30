@@ -19,9 +19,7 @@
   "hint": "<p>В первом тесте единственным подходящим кодом является &lt;&lt;<code>e</code>&gt;&gt;.</p>\n<p>Во втором тесте подсказке удовлетворяют следующие коды: &lt;&lt;<code>mie</code>&gt;&gt;, &lt;&lt;<code>mim</code>&gt;&gt;, &lt;&lt;<code>mqm</code>&gt;&gt;, &lt;&lt;<code>mqu</code>&gt;&gt;.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 19, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 19, 2019, Advanced",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.3333001136779785

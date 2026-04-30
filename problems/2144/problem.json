@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2000-2001 Season, USACO Spring 2001 Contest, Green, jsa3824",
   "level": 15,
-  "tags": [
-    "dp",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["dp", "geometry", "line_intersection"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.275899887084961

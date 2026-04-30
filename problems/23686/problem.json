@@ -15,12 +15,7 @@
   "hint": "<p>After processing all the queries one possible set of zigzag cycles is $\\{[1,4,3,5], [2,6,4,5]\\}$.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 13: Grand Prix of Bytedance",
   "level": 16,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "parity",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "ad_hoc", "parity", "eulerian_path"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.2308000326156616

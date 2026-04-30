@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2018 홍익대학교 컴퓨터공학과 코딩대회, rltjqdl1138, eric00513, goooora, jh05013",
   "level": 6,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 6191,
   "submission_count": null,
   "average_tries": 1.4329999685287476

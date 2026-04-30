@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2013, baekjoon, HowlingOfSouL, movie_jo, WeissBlume, myungwoo",
   "level": 14,
-  "tags": [
-    "trees",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["trees", "divide_and_conquer", "recursion"],
   "accepted_user_count": 3082,
   "submission_count": null,
   "average_tries": 1.7515000104904175

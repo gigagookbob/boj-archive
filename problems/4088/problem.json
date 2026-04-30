@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2011 Southeast USA Regional Programming Contest",
   "level": 16,
-  "tags": [
-    "dp",
-    "recursion",
-    "trees"
-  ],
+  "tags": ["dp", "recursion", "trees"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.6666998863220215

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2013",
   "level": 20,
-  "tags": [
-    "dp",
-    "implementation",
-    "kmp",
-    "string"
-  ],
+  "tags": ["dp", "implementation", "kmp", "string"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.769200086593628

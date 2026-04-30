@@ -15,13 +15,7 @@
   "hint": "<p>In Case #1, the only solution is to fill all cells with 3s.<br/>\n<br/>\nIn Case #2, the only two solutions are the two depicted in the problem statement.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 2",
   "level": 21,
-  "tags": [
-    "burnside",
-    "case_work",
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["burnside", "case_work", "combinatorics", "dp", "math"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.1379001140594482

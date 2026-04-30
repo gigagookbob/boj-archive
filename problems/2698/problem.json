@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2009 Greater New York Programming Contest, baekjoon, 79brue, jh05013, yehyun",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1780,
   "submission_count": null,
   "average_tries": 1.2786999940872192

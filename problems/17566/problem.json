@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2018",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.01200008392334

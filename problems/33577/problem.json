@@ -19,12 +19,7 @@
   "hint": "<p>'8번 출구'는 원래 <a href=\"https://namu.wiki/w/8%EB%B2%88%20%EC%B6%9C%EA%B5%AC\">이런 비디오 게임</a>이다.</p>\n<p>급식실 사건은 실화를 바탕으로 작성되었다.</p>",
   "source": "School, 한국디지털미디어고등학교, 제2회 디미고 프로그래밍 챌린지, ecode, 99asdfg, dkim110807, ian0704, qvixnh22, seungchan0325, tlsdydaud1, utilforever",
   "level": 14,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "greedy", "simulation", "prefix_sum"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.683500051498413

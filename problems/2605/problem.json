@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2004, 초등부, Apple_Cplus, imn00133",
   "level": 4,
-  "tags": [
-    "implementation",
-    "data_structures"
-  ],
+  "tags": ["implementation", "data_structures"],
   "accepted_user_count": 10399,
   "submission_count": null,
   "average_tries": 1.4536000490188599

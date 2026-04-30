@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2022, rhdqor213, amsminn, bsyun0571, eaststar, hellogaon, hyoseok, mksmk606, rasauq1122, tony9402",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 368,
   "submission_count": null,
   "average_tries": 2.3071000576019287

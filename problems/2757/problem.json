@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2004 Greater New York Programming Contest, baekjoon",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 474,
   "submission_count": null,
   "average_tries": 1.5232000350952148

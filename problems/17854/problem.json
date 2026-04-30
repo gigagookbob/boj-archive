@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2019 East Central Regional Contest",
   "level": 23,
-  "tags": [
-    "linear_programming"
-  ],
+  "tags": ["linear_programming"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.857100009918213

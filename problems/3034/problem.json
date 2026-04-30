@@ -19,11 +19,7 @@
   "hint": "<p><iframe frameborder=\"0\" height=\"480\" src=\"1.png\" width=\"640\"></iframe></p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #4, baekjoon, dreammusic23, kepler186f, sky1357",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 6453,
   "submission_count": null,
   "average_tries": 1.2793999910354614

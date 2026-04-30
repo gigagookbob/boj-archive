@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2017, Novice",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 1167,
   "submission_count": null,
   "average_tries": 1.263100028038025

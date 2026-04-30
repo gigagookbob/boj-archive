@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2021",
   "level": 3,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 1.2431999444961548

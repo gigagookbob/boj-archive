@@ -23,10 +23,7 @@
   "hint": "<p>오히려 ‘성장률이 증가’하는 이유로 어떤 상수 성장률 성장도 설명하지 못하는 데이터의 경우에도 마찬가지로 <span style=\"color:#e74c3c;\"><code>Impossible</code></span>을 출력해야 함에 유의하라.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Div. 1, University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Open Contest - Phase 1, kidw0124, sshs29hanul, yijw0930, shiftpsh, utilforever, wnguscjf01",
   "level": 20,
-  "tags": [
-    "convex_hull",
-    "geometry"
-  ],
+  "tags": ["convex_hull", "geometry"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.1333000659942627

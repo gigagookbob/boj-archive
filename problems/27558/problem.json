@@ -15,11 +15,7 @@
   "hint": "<p>The first input string is the same as its output string, so no keystrokes are required.</p>\n<p>The second input string cannot be changed into its output string because Bessie cannot change one '<code>B</code>' to '<code>A</code>' while keeping the other as '<code>B</code>'.</p>\n<p>The third input string can be changed into its output string by changing '<code>a</code>' to '<code>b</code>'.</p>\n<p>The last input string can be changed into its output string like so: <code>ABCD</code> $\\rightarrow$ <code>EBCD</code> $\\rightarrow$ <code>EACD</code> $\\rightarrow$ <code>BACD</code>.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Silver",
   "level": 19,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["graphs", "ad_hoc", "case_work"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 3.662899971008301

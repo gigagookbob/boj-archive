@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, august14",
   "level": 25,
-  "tags": [
-    "circulation",
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["circulation", "flow", "mcmf", "graphs"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4.571400165557861

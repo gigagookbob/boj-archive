@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO January 2011 Contest, Bronze",
   "level": 5,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 1.1167999505996704

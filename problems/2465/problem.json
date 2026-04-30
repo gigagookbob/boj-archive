@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2011, 고등부",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 742,
   "submission_count": null,
   "average_tries": 1.5755000114440918

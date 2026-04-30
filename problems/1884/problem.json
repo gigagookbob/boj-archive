@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 1998, Day 2, author10",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 338,
   "submission_count": null,
   "average_tries": 2.899399995803833

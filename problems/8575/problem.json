@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2012, Stage 1",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.0929999351501465

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제4회 생각하는 프로그래밍 대회, potion",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 409,
   "submission_count": null,
   "average_tries": 4.185800075531006

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2022 ICPC Sinchon Summer Algorithm Camp Contest, 초급, lms0806, bnb2011, gumgood, jthis, lky7674, tlsdydaud1, tony9402",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures"
-  ],
+  "tags": ["implementation", "data_structures"],
   "accepted_user_count": 1283,
   "submission_count": null,
   "average_tries": 2.6375999450683594

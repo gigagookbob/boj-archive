@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 연습 세션, havana723, shiftpsh, jh05013, kipa00",
   "level": 0,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "ternary_search",
-    "math"
-  ],
+  "tags": ["geometry", "geometry_3d", "ternary_search", "math"],
   "accepted_user_count": 510,
   "submission_count": null,
   "average_tries": 67.13919830322266

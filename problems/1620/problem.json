@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, frogyou2330",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 46285,
   "submission_count": null,
   "average_tries": 2.7307000160217285

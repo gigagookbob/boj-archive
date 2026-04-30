@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2019",
   "level": 19,
-  "tags": [
-    "hashing",
-    "mitm"
-  ],
+  "tags": ["hashing", "mitm"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.9565000534057617

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "h0ngjun7",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "lazyprop"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.4166998863220215

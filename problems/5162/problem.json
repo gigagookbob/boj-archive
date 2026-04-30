@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2009: Economic Crisis",
   "level": 10,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.083299994468689

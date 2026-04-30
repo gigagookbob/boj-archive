@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 3: Ural Contest, Contest, Open Cup, 2017/2018 Season, Stage 2: Grand Prix of Ural",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "prime_factorization"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

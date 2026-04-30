@@ -31,13 +31,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2017/2018",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "dag"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra", "dag"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 2.058799982070923

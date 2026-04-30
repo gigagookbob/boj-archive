@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, akaishuichi, jkh9615",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "set"],
   "accepted_user_count": 1445,
   "submission_count": null,
   "average_tries": 1.4879000186920166

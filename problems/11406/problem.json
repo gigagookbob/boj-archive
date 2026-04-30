@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, sgc109",
   "level": 17,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 697,
   "submission_count": null,
   "average_tries": 1.6154999732971191

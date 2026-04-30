@@ -15,10 +15,7 @@
   "hint": "<p>If the two cows arriving at time 1 go in one bus, cows arriving at times 3 and 4 in the second, and cows arriving at times 10 and 14 in the third, the longest time a cow has to wait is 4 time units (the cow arriving at time 10 waits from time 10 to time 14).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Silver",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 445,
   "submission_count": null,
   "average_tries": 2.1415998935699463

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, 2019 ICPC Asia Taipei-Hsinchu Regional",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "prime_factorization"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.083299994468689

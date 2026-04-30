@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2006 Greater New York Programming Contest, arine, baekjoon",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["math", "dp", "combinatorics", "bitmask", "dp_bitfield"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 1.4601999521255493

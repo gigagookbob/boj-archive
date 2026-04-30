@@ -15,10 +15,7 @@
   "hint": "<p>Cube219가 방어구를 착용할 수 <strong>없을</strong> 수도 있음에 유의하라.</p>\n<p>또한 Python 사용자는 PyPy3로 제출하는 것을 권장한다.</p>",
   "source": "University, 성균관대학교, 2022 SKKU 프로그래밍 대회 in 소프트의 밤, max804, bnb2011, deuslovelt, heeda0528, jthis, jyheo98, leeh18, leo020630, palilo",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 2.5678999423980713

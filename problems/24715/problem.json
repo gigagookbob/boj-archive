@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 6: ICPC Camp Day 1: PKU Contest",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "segtree", "priority_queue"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

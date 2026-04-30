@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #6, arine",
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "bitmask"],
   "accepted_user_count": 289,
   "submission_count": null,
   "average_tries": 2.0518999099731445

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, SpringSpot 2011",
   "level": 8,
-  "tags": [
-    "math",
-    "constructive",
-    "arithmetic"
-  ],
+  "tags": ["math", "constructive", "arithmetic"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.7618999481201172

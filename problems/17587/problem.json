@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2019",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.1555999517440796

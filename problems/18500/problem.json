@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, Croatian Regional Competition in Informatics 2009, Olympiad, Croatian Highschool Competitions in Informatics, 2009, Regional Competition - Juniors, gustjs5419, heize",
   "level": 15,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation", "bfs"],
   "accepted_user_count": 1190,
   "submission_count": null,
   "average_tries": 2.782399892807007

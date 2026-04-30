@@ -15,13 +15,7 @@
   "hint": "<p>Use the 'east' whistle three times, at which point the milk floods the area.  Each haystack ends up saving 1 cow.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO US Open 2008 Contest, Gold",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "ad_hoc",
-    "backtracking",
-    "grid_graph"
-  ],
+  "tags": ["dp", "graphs", "ad_hoc", "backtracking", "grid_graph"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3.2142999172210693

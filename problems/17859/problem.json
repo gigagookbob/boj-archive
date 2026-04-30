@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2019 East Central Regional Contest",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "crt"
-  ],
+  "tags": ["math", "number_theory", "crt"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.0999999046325684

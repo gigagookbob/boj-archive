@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2022",
   "level": 19,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.9129999876022339

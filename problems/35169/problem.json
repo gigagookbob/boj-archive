@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2025 ICPC Asia Jakarta Regional Contest",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2999999523162842

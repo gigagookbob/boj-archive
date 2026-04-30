@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2012",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.1923000812530518

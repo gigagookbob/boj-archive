@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2019 서울대학교 프로그래밍 경시대회, Division 2, namnamseo",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1315,
   "submission_count": null,
   "average_tries": 1.9953999519348145

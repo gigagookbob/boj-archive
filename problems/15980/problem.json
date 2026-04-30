@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제2회 소프트콘, djm03178",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 258,
   "submission_count": null,
   "average_tries": 1.7364000082015991

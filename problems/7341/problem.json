@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 1999",
   "level": 12,
-  "tags": [
-    "geometry",
-    "greedy",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["geometry", "greedy", "implementation", "simulation"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2

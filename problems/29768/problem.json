@@ -23,11 +23,7 @@
   "hint": "<p>팰린드롬은 앞으로 읽으나 뒤로 읽으나 똑같은 문자열을 말한다. 예를 들어 level은 팰린드롬이지만, apple은 아니다.</p>\n<p>부분 문자열이란 문자열에서 연속한 문자 몇 개를 이어 붙인 문자열을 뜻한다. 예를 들어 aba의 부분 문자열은 a, b, a, ab, ba, aba가 있다.</p>\n<p>두 부분 문자열 $A$, $B$가 서로 다르다는건 두 부분 문자열의 길이가 다르거나, $A$의 $i$번째 글자와 $B$의 $i$번째 글자가 다르게 하는 어떤 $i$가 존재함을 뜻한다. 서로 다른 부분 문자열이란 부분 문자열 중 서로 다른 것들이다. 예를 들어 aba의 서로 다른 부분 문자열은 a, b, ab, ba, aba이다.</p>\n<p>사전순은 사전에 쓰이는 문자열의 배열 순서를 말한다. 예를 들어 abc는 acb보다 사전순으로 앞섰고, aa는 aaa보다 사전순으로 앞섰다.</p>",
   "source": "School, 단국대학교부속소프트웨어고등학교, 단대소프트고 2023 알고리즘 대회, gggkik, fs_edge, jk410, kiwiyou, leo020630, MenOfPassion, utilforever",
   "level": 12,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["string", "ad_hoc", "constructive"],
   "accepted_user_count": 256,
   "submission_count": null,
   "average_tries": 1.3905999660491943

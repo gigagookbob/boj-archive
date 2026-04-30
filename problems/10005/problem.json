@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:321px; width:238px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 3",
   "level": 25,
-  "tags": [
-    "constructive",
-    "divide_and_conquer",
-    "geometry"
-  ],
+  "tags": ["constructive", "divide_and_conquer", "geometry"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3.6666998863220215

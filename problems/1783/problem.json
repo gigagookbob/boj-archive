@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, gudori888, han1g, jh05013, luluctrl4, shnoh",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["implementation", "greedy", "case_work"],
   "accepted_user_count": 7081,
   "submission_count": null,
   "average_tries": 2.2490999698638916

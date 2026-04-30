@@ -15,12 +15,7 @@
   "hint": "<p>이 문제는 <a href=\"https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/problem/10960/data.tar.gz\">압축 파일</a>에서 calvin1.in으로 채점을 한다. (예제는 채점하지 않는다)</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2015, Day 2",
   "level": 6,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "constructive",
-    "precomputation"
-  ],
+  "tags": ["graphs", "bruteforcing", "constructive", "precomputation"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 1.527999997138977

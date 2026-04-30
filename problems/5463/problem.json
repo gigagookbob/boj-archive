@@ -15,10 +15,7 @@
   "hint": "<p>다음과 같이 자르면 77개의 건포도를 주고 초콜릿을 자를 수 있다.</p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:82px; width:711px\" /></p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2009, Day 1, koosaga",
   "level": 15,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 332,
   "submission_count": null,
   "average_tries": 1.701799988746643

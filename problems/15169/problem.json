@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2016 ACM South Pacific Programming Contest",
   "level": 21,
-  "tags": [
-    "math",
-    "sorting",
-    "fft"
-  ],
+  "tags": ["math", "sorting", "fft"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.809499979019165

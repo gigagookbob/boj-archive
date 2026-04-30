@@ -23,10 +23,7 @@
   "hint": null,
   "source": null,
   "level": 16,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.5915000438690186

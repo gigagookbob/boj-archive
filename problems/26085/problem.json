@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2022 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2022 Sogang Programming Contest, Master (Open), wbcho0504, bnb2011, chansol, dong_gas, eaststar, gratus907, gumgood, jthis, tony9402",
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "parity",
-    "pigeonhole_principle"
-  ],
+  "tags": ["ad_hoc", "parity", "pigeonhole_principle"],
   "accepted_user_count": 252,
   "submission_count": null,
   "average_tries": 2.0316998958587646

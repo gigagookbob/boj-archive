@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2015 ACM-ICPC Asia Phuket Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "math",
-    "calculus"
-  ],
+  "tags": ["math", "calculus"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 1.710800051689148

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 8 February, 2009",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "math",
-    "physics"
-  ],
+  "tags": ["bruteforcing", "geometry", "math", "physics"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.1666998863220215

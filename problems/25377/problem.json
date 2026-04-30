@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2022 1차대회, 초등부",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 4805,
   "submission_count": null,
   "average_tries": 1.9395999908447266

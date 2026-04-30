@@ -15,12 +15,7 @@
   "hint": "<p>벌금의 기댓값은 확인받을 확률 * 벌금 으로 계산할 수 있으며, 각 운행 경로는 독립적이므로&nbsp;경로 X에서의 기댓값을 E[X], 경로 Y에서의 기댓값을 E[Y]라 할 때, X-Y 경로의 기댓값은 E[X]+E[Y]가 된다.</p>\r\n",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2013 Preliminaries, portableangel",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 4.38100004196167

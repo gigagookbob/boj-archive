@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>The map is divided into squares. Each square of the map can be a street square, a building square, or an entrance/exit square. An entrance/exit square serves as both entrance and exit for that building. There will be no more than 90 street squares in the map.</li>\n<li>People will always follow the shortest path between their origin and destination. No shortest path will exceed 75 squares.</li>\n<li>If there are multiple equal-length shortest paths, the load will be divided equally amongst the paths. For shortest paths, there will be fewer than 50000 equal-length path combinations.</li>\n<li>If a building entrance/exit has multiple sides facing a street (for example, a corner of a building), the pedestrians may enter or exit through any street-facing side.</li>\n<li>All movement will be strictly N, E, S, or W. No diagonal movement is permitted.</li>\n<li>Pedestrians cannot move through buildings or off the edge of the map.</li>\n<li>For convenience, you may ignore the fact that each street section may have two sidewalks.</li>\n<li>Traffic load is not applied to the actual exit/entrance squares themselves.</li>\n<li>If an origin and destination are adjacent on the map, pedestrians may move directly between them. In this case, there is no resulting load placed on any portion of the map because no streets are used.</li>\n</ul>",
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2001 Mid-Atlantic Regional Programming Contest, Contest, CTU FEE Local Contest, CTU FEE 2004",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 10

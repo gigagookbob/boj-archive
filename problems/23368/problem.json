@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2021 Preliminaries",
   "level": 20,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "bitmask",
-    "game_theory",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "ad_hoc", "bitmask", "game_theory", "dp_bitfield"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.8889000415802002

@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["math", "dp", "prefix_sum"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

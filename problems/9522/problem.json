@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #2, baekjoon",
   "level": 22,
-  "tags": [
-    "game_theory",
-    "bipartite_matching"
-  ],
+  "tags": ["game_theory", "bipartite_matching"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 2.2571001052856445

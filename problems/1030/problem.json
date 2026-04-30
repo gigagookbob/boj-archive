@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, cheetose, Apple_Cplus",
   "level": 13,
-  "tags": [
-    "implementation",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["implementation", "divide_and_conquer", "recursion"],
   "accepted_user_count": 1615,
   "submission_count": null,
   "average_tries": 2.1164000034332275

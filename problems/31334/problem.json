@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 5: Grand Prix of Peterhof",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 12

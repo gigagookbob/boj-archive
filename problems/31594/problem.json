@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2024 ICPC Asia Pacific Championship",
   "level": 23,
-  "tags": [
-    "implementation",
-    "graphs",
-    "sorting",
-    "case_work",
-    "planar_graph"
-  ],
+  "tags": ["implementation", "graphs", "sorting", "case_work", "planar_graph"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 4.064499855041504

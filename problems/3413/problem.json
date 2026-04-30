@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2012",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "euler_characteristic",
-    "geometry"
-  ],
+  "tags": ["data_structures", "euler_characteristic", "geometry"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.155600070953369

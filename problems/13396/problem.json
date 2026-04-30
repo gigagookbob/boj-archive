@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "trees"
-  ],
+  "tags": ["combinatorics", "dp", "math", "trees"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.3125

@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, koosaga",
   "level": 9,
-  "tags": [
-    "math",
-    "sorting"
-  ],
+  "tags": ["math", "sorting"],
   "accepted_user_count": 1189,
   "submission_count": null,
   "average_tries": 2.228800058364868

@@ -23,10 +23,7 @@
   "hint": "<p>아래는 시간이 지난 후 예제 격자판의 상태이다.</p>\n<pre>\n.......\n...O...\n....O..\n.......\nOO.....\nOO.....\n\n&lt;초기 상태, 1초 후&gt;\n\nOOOOOOO\nOOOOOOO\nOOOOOOO\nOOOOOOO\nOOOOOOO\nOOOOOOO\n\n&lt;2초 후&gt;\n\nOOO.OOO\nOO...OO\nOOO...O\n..OO.OO\n...OOOO\n...OOOO\n\n&lt;3초 후&gt;\n\nOOOOOOO\nOOOOOOO\nOOOOOOO\nOOOOOOO\nOOOOOOO\nOOOOOOO\n\n&lt;4초 후&gt;\n\n.......\n...O...\n....O..\n.......\nOO.....\nOO.....\n\n&lt;5초 후&gt;\n</pre>",
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 646,
   "submission_count": null,
   "average_tries": 3.8977999687194824

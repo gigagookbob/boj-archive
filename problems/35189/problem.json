@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 4 : Grand Final, stonejjun03, blackking26, TAMREF",
   "level": 23,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph",
-    "bipartite_graph",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "grid_graph", "bipartite_graph", "mfmc"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8696000576019287

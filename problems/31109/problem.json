@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 16: Grand Prix of Urals",
   "level": 14,
-  "tags": [
-    "implementation",
-    "recursion",
-    "string"
-  ],
+  "tags": ["implementation", "recursion", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.125

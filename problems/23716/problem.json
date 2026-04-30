@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round H",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 2.0660998821258545

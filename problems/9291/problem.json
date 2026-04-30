@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, University of Virginia High School Programming Contest, UVa HSPC 2013, kks227, jh05013, paraworld, gj3034",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 878,
   "submission_count": null,
   "average_tries": 2.33489990234375

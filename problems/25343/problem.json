@@ -19,9 +19,7 @@
   "hint": "<ul>\n<li>Python 사용자는 PyPy로 제출하는 것을 권장한다.</li>\n<li><strong>부분 수열</strong>이란 주어진 수열에서 1개 이상의 원소를 골라 원래 순서대로 나열하여 얻은 수열을 말한다.</li>\n<li><strong>증가하는 부분 수열</strong>이란 맨 처음 원소를 제외한 모든 원소가 바로 전 원소보다 큰 수열을 말한다.<br/>\n\t다시 말해, 길이가 $N$인 부분 수열 $A$가 있을 때, $A_{i-1} &lt; A_i (2 \\leq i \\leq N)$을 만족하면 $A$는 증가하는 부분 수열이다.</li>\n<li><strong>최장 증가 부분 수열</strong>이란 주어진 수열의 증가하는 부분 수열 중 길이가 가장 긴 수열을 의미한다.</li>\n</ul>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제6회 천하제일 코딩대회 본선, jhnah917, chansol, jhwest2, kyo20111",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 318,
   "submission_count": null,
   "average_tries": 2.949700117111206

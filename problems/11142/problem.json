@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2011",
   "level": 8,
-  "tags": [
-    "arithmetic",
-    "implementation",
-    "math",
-    "simulation"
-  ],
+  "tags": ["arithmetic", "implementation", "math", "simulation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.4000000953674316

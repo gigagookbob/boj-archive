@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, 79brue, dbfldkfdbgml, jh05013",
   "level": 8,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 11691,
   "submission_count": null,
   "average_tries": 3.8986001014709473

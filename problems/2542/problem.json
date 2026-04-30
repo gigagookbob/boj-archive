@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2007, 중등부",
   "level": 21,
-  "tags": [
-    "geometry",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "half_plane_intersection"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 3.975600004196167

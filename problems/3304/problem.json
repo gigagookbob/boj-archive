@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 243px; height: 242px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2012, Day 1",
   "level": 24,
-  "tags": [
-    "dp",
-    "geometry"
-  ],
+  "tags": ["dp", "geometry"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

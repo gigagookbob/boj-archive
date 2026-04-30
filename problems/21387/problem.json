@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2007",
   "level": 0,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

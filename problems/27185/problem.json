@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2022",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "trie"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.5

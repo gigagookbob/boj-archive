@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2011, baekjoon, djm03178, hist0613",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 3315,
   "submission_count": null,
   "average_tries": 1.8006000518798828

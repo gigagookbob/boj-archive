@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, May 13, 2018, Easy, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, May 13, 2018, Medium",
   "level": 8,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.2308000326156616

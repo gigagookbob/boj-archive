@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 4: Grand Prix of Eurasia",
   "level": 23,
-  "tags": [
-    "bitmask",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["bitmask", "graphs", "trees"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 6.5

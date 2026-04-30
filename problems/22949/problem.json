@@ -23,13 +23,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 16,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation", "bfs"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 2.6407999992370605

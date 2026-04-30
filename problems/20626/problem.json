@@ -31,10 +31,7 @@
   "hint": "<p>In the 3rd and 4th test cases, the player cannot put a white stone on the 4th grid since the chain of the white stones will be surrounded by black stones. This rule is different from the original Go.</p>\n<p>In the 5th test case, the player cannot capture any black stones even if the player put a white stone on the 4th grid. The player cannot capture black stones by surrounding them with the edge of the game board and the white stone. This rule is also different from the original Go.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 5: JAG Summer+ Opening Contest, Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2019 Day 1",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.1200000047683716

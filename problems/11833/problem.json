@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2011, tncks0121",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.3333001136779785

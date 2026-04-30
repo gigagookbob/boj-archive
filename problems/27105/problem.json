@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 1999-2000 Season, USACO Winter 2000 Contest, Green",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.2615000009536743

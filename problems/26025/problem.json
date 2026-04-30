@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2022",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "trees",
-    "constructive"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "trees", "constructive"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.1714000701904297

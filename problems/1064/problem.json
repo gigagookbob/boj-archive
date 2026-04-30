@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, eric00513, rootcucu, yukariko, doju, goro8pyo",
   "level": 7,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 3718,
   "submission_count": null,
   "average_tries": 2.8603999614715576

@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2007/2008",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.899999976158142

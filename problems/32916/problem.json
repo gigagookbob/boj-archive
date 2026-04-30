@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Regional Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic",
-    "parity"
-  ],
+  "tags": ["math", "arithmetic", "parity"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.6296000480651855

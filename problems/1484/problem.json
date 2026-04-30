@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, bsyun0571, ntopia",
   "level": 11,
-  "tags": [
-    "math",
-    "two_pointer"
-  ],
+  "tags": ["math", "two_pointer"],
   "accepted_user_count": 3612,
   "submission_count": null,
   "average_tries": 2.641700029373169

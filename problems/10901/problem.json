@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14",
   "level": 17,
-  "tags": [
-    "string",
-    "case_work",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["string", "case_work", "divide_and_conquer", "recursion"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.4516000747680664

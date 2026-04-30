@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, January 30, 2010",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 4.400000095367432

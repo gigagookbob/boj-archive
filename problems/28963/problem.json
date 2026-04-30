@@ -15,12 +15,7 @@
   "hint": "<p>В первом тесте возможно только одно разбиение, удовлетворяющее ограничениям на абсолютную разность: сначала Кецилий мог быть в реальности номер $24$, а потом в реальности номер $8$.</p>\n<p>Во втором тесте возможны два разбиения: $2 \\rightarrow 48$, $24 \\rightarrow 8$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Advanced",
   "level": 12,
-  "tags": [
-    "implementation",
-    "dp",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "dp", "bruteforcing", "backtracking"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.6666998863220215

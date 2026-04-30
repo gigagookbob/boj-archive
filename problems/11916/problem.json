@@ -15,10 +15,7 @@
   "hint": "<p>1번 타자 : 볼-볼-몸에 맞는 공 (주자 1루)</p>\n<p>2번 타자 : 볼-폭투(주자 2루)-폭투(주자 3루)-볼 (주자 1, 3루)</p>\n<p>3번 타자 : 몸에 맞는 공 (주자 1, 2, 3루)</p>\n<p>4번 타자 : 볼-볼-폭투(1실점, 주자 2, 3루)-볼 (주자 1, 2, 3루)</p>\n<p>5번 타자 : 볼-볼-폭투(1실점, 주자 2, 3루)-폭투(1실점, 주자 1, 3루)</p>",
   "source": "Contest, GENIUSainta.com - oj.uz Contest, OJUZ10",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 247,
   "submission_count": null,
   "average_tries": 1.9879000186920166

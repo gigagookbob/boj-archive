@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2020 KAIST 10th ICPC Mock Competition, Contest, Open Cup, 2020/2021 Season, Stage 3: Grand Prix of Korea, jh05013",
   "level": 25,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "graphs"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "graphs"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.299999952316284

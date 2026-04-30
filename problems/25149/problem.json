@@ -19,10 +19,7 @@
   "hint": "<p>Opis prvog test podatka: Dominik je mogao kupiti:</p>\n<ul>\n<li>četiri Audija, tri Nissana i jednog Ferrarija,</li>\n<li>četiri Audija, tri Nissana i dva Ferrarija,</li>\n<li>četiri Audija, dva Nissana i jednog Ferrarija,</li>\n<li>tri Audija, dva Nissana i jednog Ferrarija.</li>\n</ul>\n<p>Opis drugog test podatka: Jedina je mogućnost pet Audija, dva Nissana i jedan Ferrari.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2017, Junior Croatian Olympiad in Informatics 2017",
   "level": 11,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

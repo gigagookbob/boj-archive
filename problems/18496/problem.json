@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 8: Almost Algoritmic Contest",
   "level": 23,
-  "tags": [
-    "math",
-    "number_theory",
-    "lte"
-  ],
+  "tags": ["math", "number_theory", "lte"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 4.345600128173828

@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2012/2013, Contest #6, baekjoon, chansol",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 749,
   "submission_count": null,
   "average_tries": 3.5915000438690186

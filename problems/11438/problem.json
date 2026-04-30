@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, jyon, spectaclehong, jh05013",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "trees",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "trees", "lca", "sparse_table"],
   "accepted_user_count": 8708,
   "submission_count": null,
   "average_tries": 2.9367001056671143

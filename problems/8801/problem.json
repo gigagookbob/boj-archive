@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, CoolSpot 2011",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation",
-    "sweeping"
-  ],
+  "tags": ["implementation", "simulation", "sweeping"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe",
   "level": 27,
-  "tags": [
-    "math",
-    "combinatorics",
-    "backtracking",
-    "lis"
-  ],
+  "tags": ["math", "combinatorics", "backtracking", "lis"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

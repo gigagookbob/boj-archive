@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.1684000492095947

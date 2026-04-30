@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 춘배컵, 2023 제1회 춘배컵, fs_edge, gggkik, iansong, jinhan814, ksoosung77, lys9546, naeby, nflight11, pjshwa, qvixnh22, rustiebeats, shinm0819, utilforever, wider93, wizardrabbit, ychangseok",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2096,
   "submission_count": null,
   "average_tries": 1.5081000328063965

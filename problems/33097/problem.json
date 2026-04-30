@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2023",
   "level": 18,
-  "tags": [
-    "greedy",
-    "string",
-    "two_pointer",
-    "hashing",
-    "rabin_karp"
-  ],
+  "tags": ["greedy", "string", "two_pointer", "hashing", "rabin_karp"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

@@ -15,10 +15,7 @@
   "hint": "<ul>\r\n\t<li>첫 번째 예제의 경우에, RAID 세트 하나를 변환하면 된다. 새로운 용량은 1500 + 500 = 2000 GB가 된다.</li>\r\n\t<li>두 번째 예제는 600 GB와 700 GB 디스크를 변환하면&nbsp;400 + 600 + 700 + 1000 = 2700 GB, 400 + 1800 + 2100 + 1000 = 5300 GB가 된다. 다른 변환은 모두 비효율적이다.</li>\r\n\t<li>세 번째 예제의 경우는 필요한 용량을 확보할 수 없다.</li>\r\n</ul>\r\n",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2013 Preliminaries",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 3.8129000663757324

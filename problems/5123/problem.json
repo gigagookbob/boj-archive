@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2012: End of the World",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "eulerian_path"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

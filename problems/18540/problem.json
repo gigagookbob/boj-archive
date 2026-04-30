@@ -15,10 +15,7 @@
   "hint": "<p>In the example, no matter how players move, both heaps will be split between them equally.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 7: Oleksandr Kulkov Contest 1, Botan Investment Cup",
   "level": 14,
-  "tags": [
-    "greedy",
-    "game_theory"
-  ],
+  "tags": ["greedy", "game_theory"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.1818000078201294

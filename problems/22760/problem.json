@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2007 Day 3",
   "level": 22,
-  "tags": [
-    "geometry",
-    "randomization",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["geometry", "randomization", "point_in_convex_polygon"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 12

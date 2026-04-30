@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2013",
   "level": 10,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.666700005531311

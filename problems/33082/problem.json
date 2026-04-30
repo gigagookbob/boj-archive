@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2022, ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2023 연습 세션",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.142899990081787

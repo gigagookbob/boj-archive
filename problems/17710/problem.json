@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2015/2016 Spring Training Camp",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "dfs",
-    "divide_and_conquer",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["ad_hoc", "dfs", "divide_and_conquer", "graphs", "graph_traversal"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2023 Sogang Programming Contest, Master, djs100201, bnb2011, crescent_h, dong_gas, jk410, leedongbin, lem0nad3, mjhmjh1104, shiftpsh, snrnsidy, solvedac, utilforever, yunny_world",
   "level": 9,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory"],
   "accepted_user_count": 320,
   "submission_count": null,
   "average_tries": 1.871899962425232

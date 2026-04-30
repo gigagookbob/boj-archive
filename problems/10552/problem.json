@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: Initially, channel 2 was on TV. This channel annoys the youngest and the oldest pensioner, so the youngest gets up enthusiastically and changes the channel so everyone can watch channel 1 together.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #3",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 635,
   "submission_count": null,
   "average_tries": 2.2298998832702637

@@ -15,10 +15,7 @@
   "hint": "<p>마작패 문자열에서 쯔모패를 제외한 패는 반드시 순서대로 나타내야 하기 때문에 <img alt=\"\" class=\"no-responsive\" src=\"13.png\" style=\"vertical-align: middle; height: 3em; display: inline-block;\"/> <span style=\"color:#e74c3c;\"><code>01111222233334m</code></span>과 같은 마작패 문자열은 존재하지 않습니다.</p>",
   "source": "Contest, BOJ User Contest, 마작컵, 마작컵 2024 - 우인전 3/4 님만 오면 ㄱ, alex9801, gs18115, moonrabbit2, shiftpsh",
   "level": 23,
-  "tags": [
-    "dp",
-    "implementation"
-  ],
+  "tags": ["dp", "implementation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

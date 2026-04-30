@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO February 2006 Contest, Gold",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "flow",
-    "graphs"
-  ],
+  "tags": ["bruteforcing", "flow", "graphs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.4544999599456787

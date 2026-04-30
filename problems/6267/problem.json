@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2007",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf",
-    "hungarian"
-  ],
+  "tags": ["graphs", "flow", "mcmf", "hungarian"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.672700047492981

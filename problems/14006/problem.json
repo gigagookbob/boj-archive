@@ -15,10 +15,7 @@
   "hint": "<p>One way Dudu (Dudu is player 1) can win is:</p>\n<h3>First Round</h3>\n<ul>\n<li>Player 1 beats player 3: 4-3</li>\n<li>Player 2 beats player 4: 5-5 + arm wrestling</li>\n</ul>\n<p>Players 1 and 2 advance</p>\n<h3>Second Round</h3>\n<ul>\n<li>Player 1 beats player 2: 1-1 + arm wrestling</li>\n</ul>\n<p>Note that the total amount of points each player did is consistent with the input.</p>\n<p>There are other ways Dudu might have won, but we only want to know if it is possible or not.</p>",
   "source": "School, Cornell University High School Programming Contest, Cornell University High School Programming Contest 2016",
   "level": 9,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.5529000759124756

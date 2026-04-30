@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2024 KAIST 14th ICPC Mock Competition, edward3378, azberjibiou, jhwest2, koosaga, leejseo, seonah, urd05",
   "level": 20,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "rerooting"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.125

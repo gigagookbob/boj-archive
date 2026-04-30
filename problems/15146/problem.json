@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, ACM ICPC South Pacific Divisionals, 2017 South Pacific Divisional Contest",
   "level": 22,
-  "tags": [
-    "graphs",
-    "game_theory",
-    "flow",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "game_theory", "flow", "bipartite_graph"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

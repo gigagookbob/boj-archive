@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2018",
   "level": 18,
-  "tags": [
-    "divide_and_conquer"
-  ],
+  "tags": ["divide_and_conquer"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 4

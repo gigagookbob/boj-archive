@@ -15,11 +15,7 @@
   "hint": "<p>한 간수가 1, 2, 3번 방을, 다른 간수가 4, 5번 방을, 다른 간수가 6번 방을 감시한다고 하면 탈옥 위험도가 최소가 된다.</p>\n<p>1, 2, 3번 방을 감시하는 간수는 총 3명의 죄수를 감시하고 있기 때문에, 1, 2, 3번 방의 탈옥 위험도는 11*3이다.</p>\n<p>4, 5번 방을 감시하는 간수는 총 2명의 죄수를 감시하고 있기 때문에, 4번 방의 탈옥 위험도는 24*2 = 48, 5번 방은 26*2 = 52이다.</p>\n<p>6번 방의 탈옥 위험도는 100이 된다.</p>",
   "source": "baekjoon, simjaemun2",
   "level": 20,
-  "tags": [
-    "dp",
-    "divide_and_conquer",
-    "divide_and_conquer_optimization"
-  ],
+  "tags": ["dp", "divide_and_conquer", "divide_and_conquer_optimization"],
   "accepted_user_count": 723,
   "submission_count": null,
   "average_tries": 2.444000005722046

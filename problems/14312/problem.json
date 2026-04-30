@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round C APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round C",
   "level": 15,
-  "tags": [
-    "dp",
-    "greedy",
-    "game_theory"
-  ],
+  "tags": ["dp", "greedy", "game_theory"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.0666999816894531

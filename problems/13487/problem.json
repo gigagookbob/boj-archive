@@ -19,13 +19,7 @@
   "hint": "<p>Notice that the path may begin and end in the same node. The path with the minimal magic consists of the node with magic 3, so the entire path’s magic is 3 / 1. </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #1, koosaga",
   "level": 20,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "greedy",
-    "math",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "greedy", "math", "trees"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 4.119999885559082

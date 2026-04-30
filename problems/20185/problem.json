@@ -15,10 +15,7 @@
   "hint": null,
   "source": "august14",
   "level": 30,
-  "tags": [
-    "heuristics",
-    "tsp"
-  ],
+  "tags": ["heuristics", "tsp"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 299.79998779296875

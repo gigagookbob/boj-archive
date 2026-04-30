@@ -15,12 +15,7 @@
   "hint": "<p>예제를 나타내는 그림은 다음과 같다. 빨간 노드가 최소 힙의 성질을 위반한다.</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:200px; width:23px\"/> <img alt=\"\" src=\"2.png\" style=\"height:113px; width:250px\"/> <img alt=\"\" src=\"3.png\" style=\"height:116px; width:122px\"/> <img alt=\"\" src=\"4.png\" style=\"height:72px; width:300px\"/></p>",
   "source": "jh05013",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "merge_sort_tree"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "merge_sort_tree"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.7999999523162842

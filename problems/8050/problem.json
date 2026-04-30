@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1999/2000, Stage 3",
   "level": 12,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.8667000532150269

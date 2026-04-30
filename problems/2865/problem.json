@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #3, baekjoon",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 980,
   "submission_count": null,
   "average_tries": 2.200000047683716

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 25 February, 2006",
   "level": 13,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

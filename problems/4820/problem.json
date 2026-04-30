@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2010 Rocky Mountain Regional Contest",
   "level": 20,
-  "tags": [
-    "graphs",
-    "string",
-    "shortest_path",
-    "parsing",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "string", "shortest_path", "parsing", "bellman_ford"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

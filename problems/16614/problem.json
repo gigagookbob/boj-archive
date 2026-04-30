@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2018 ACM South Pacific Programming Contest",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.625

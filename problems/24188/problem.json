@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 163px; height: 204px;\"/></p>\n<p style=\"text-align: center;\">Två möjliga fördelningar av höjder som stämmer överens med exempel $1$.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Qualification",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "graph_traversal", "dag", "topological_sorting"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 1, snrnsidy, jwvg0425, jh05013, jhnah917, Lawali, leejseo, pichulia, shiftpsh",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "euler_phi"],
   "accepted_user_count": 715,
   "submission_count": null,
   "average_tries": 2.9077000617980957

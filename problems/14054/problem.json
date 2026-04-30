@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2016, CCO 2016",
   "level": 15,
-  "tags": [
-    "sweeping"
-  ],
+  "tags": ["sweeping"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

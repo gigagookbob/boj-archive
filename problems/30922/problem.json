@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BOJ Bundle, BOJ Bundle in Math. Vol 1, kiwiyou, utilforever, wider93",
   "level": 23,
-  "tags": [
-    "math",
-    "geometry",
-    "linear_algebra",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "linear_algebra", "geometry_3d"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.733299970626831

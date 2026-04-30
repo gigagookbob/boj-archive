@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2019",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "greedy"
-  ],
+  "tags": ["ad_hoc", "constructive", "greedy"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

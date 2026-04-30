@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере возможны следующие варианты:</p>\n<ol>\n<li>В вольере две цапли. Когда Петя считал ноги, одна цапля стояла на двух ногах, а другая — на одной. Петя насчитал три ноги. Когда Маша считала ноги, обе цапли стояли на двух ногах, Маша насчитала четыре ноги.</li>\n<li>В вольере три цапли. Когда Петя считал ноги, все цапли стояли на одной ноге, Петя насчитал три ноги. Когда Маша считала ноги, одна цапля стояла на двух ногах, а еще две — на одной. Маша насчитала четыре ноги.</li>\n</ol>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2012",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 1.3157999515533447

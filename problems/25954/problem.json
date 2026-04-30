@@ -19,14 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 27,
-  "tags": [
-    "dp",
-    "string",
-    "ad_hoc",
-    "grid_graph",
-    "rerooting",
-    "lcs"
-  ],
+  "tags": ["dp", "string", "ad_hoc", "grid_graph", "rerooting", "lcs"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 1.6730999946594238

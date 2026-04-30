@@ -15,10 +15,7 @@
   "hint": "<p>다음과 같은 4가지 경우만이 존재한다 : {2,2,8,10} / {1,3,7,11} / {0,4,6,12} / {-1,5,5,13}</p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2005, Day 1, koosaga",
   "level": 14,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 305,
   "submission_count": null,
   "average_tries": 3.1442999839782715

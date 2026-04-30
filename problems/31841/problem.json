@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Romanian IOI Selection, Romanian IOI 2017 Selection #1",
   "level": 15,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "number_theory",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "number_theory", "dfs"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.606100082397461

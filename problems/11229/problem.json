@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2015, Contest, Open Cup, 2014/2015 Season, Stage 12: Grand Prix of America",
   "level": 0,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.857100009918213

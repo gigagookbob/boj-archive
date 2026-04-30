@@ -19,10 +19,7 @@
   "hint": null,
   "source": "tncks0121, dreamian",
   "level": 11,
-  "tags": [
-    "dp",
-    "sliding_window"
-  ],
+  "tags": ["dp", "sliding_window"],
   "accepted_user_count": 19163,
   "submission_count": null,
   "average_tries": 2.701900005340576

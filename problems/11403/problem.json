@@ -19,12 +19,7 @@
   "hint": null,
   "source": "baekjoon, degurii, parkky",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 30221,
   "submission_count": null,
   "average_tries": 1.5616999864578247

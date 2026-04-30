@@ -15,11 +15,7 @@
   "hint": null,
   "source": "MenOfPassion",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "ternary_search"
-  ],
+  "tags": ["binary_search", "prefix_sum", "ternary_search"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.7799999713897705

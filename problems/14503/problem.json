@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, adfsfsf, h0ngjun7, jh05013, exponential_e, jh05013, tlsdydaud1",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 32089,
   "submission_count": null,
   "average_tries": 1.8308000564575195

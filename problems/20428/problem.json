@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2018",
   "level": 6,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3.049999952316284

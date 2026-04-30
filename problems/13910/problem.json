@@ -19,9 +19,7 @@
   "hint": "<p>두 번째 예제를 보자. 6그릇을 만들기 위해 처음에 3그릇 크기의 웍을 이용하여 짜장면 3그릇을 만들고 그 다음에 3그릇 크기의 웍으로 짜장면 3그릇을 만들면 총 두 번의 요리로 6그릇을 만들 수 있다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2016 Sogang Programming Contest, Master, kims1006, tncks0121",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 664,
   "submission_count": null,
   "average_tries": 3.1686999797821045

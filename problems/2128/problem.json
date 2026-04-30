@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO US Open 2005 Contest, Silver",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics",
-    "bitmask"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics", "bitmask"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 2.58489990234375

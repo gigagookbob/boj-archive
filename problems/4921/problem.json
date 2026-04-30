@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2006 Arab Collegiate Programming Contest, baekjoon, doju",
   "level": 7,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 512,
   "submission_count": null,
   "average_tries": 2.5039000511169434

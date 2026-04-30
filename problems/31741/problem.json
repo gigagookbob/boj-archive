@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2024 IamCoder Qualification Test, sonamoo, denniskim, gs20036, jk410, junwoojune, lighton, mjhmjh1104",
   "level": 15,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["sorting", "binary_search", "set"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 2.4521000385284424

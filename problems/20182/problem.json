@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 류호석배 알고리즘 코딩 테스트, 제1회 류호석배 알고리즘 코딩 테스트, rhs0266, BaaaaaaaaaaarkingDog, dlstj0923, tony9402",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 530,
   "submission_count": null,
   "average_tries": 2.6452999114990234

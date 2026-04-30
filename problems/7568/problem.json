@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2013, 초등부, apjw6112, eric00513, genius0412, jung2381187, seecimi, rea9lizer, thebjko",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 60189,
   "submission_count": null,
   "average_tries": 1.75600004196167

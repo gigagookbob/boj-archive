@@ -15,11 +15,7 @@
   "hint": "<p>The decoded list of queries:</p>\n<pre>\n5 1 5\n10 1 7\n7 6 6\n8 2 6\n4 1 6\n3 1 2</pre>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2021",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "pst"
-  ],
+  "tags": ["data_structures", "segtree", "pst"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.5587999820709229

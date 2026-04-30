@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ntopia, august14",
   "level": 15,
-  "tags": [
-    "math",
-    "graphs",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "graphs", "exponentiation_by_squaring"],
   "accepted_user_count": 420,
   "submission_count": null,
   "average_tries": 2.364300012588501

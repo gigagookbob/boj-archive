@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2024, Day 1",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "trees",
-    "prefix_sum",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "greedy", "trees", "prefix_sum", "disjoint_set"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.764699935913086

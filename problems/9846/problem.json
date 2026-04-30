@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2008",
   "level": 11,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.190500020980835

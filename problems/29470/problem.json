@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 26, 2012, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 26, 2012, Advanced",
   "level": 16,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "traceback",
-    "tsp"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "traceback", "tsp"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 73.16670227050781

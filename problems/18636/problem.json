@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 6: MIPT Contest",
   "level": 18,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.3529000282287598

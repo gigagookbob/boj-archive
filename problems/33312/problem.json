@@ -15,14 +15,7 @@
   "hint": "<p>On the first test case, removing a vertex twice will make the graph empty. By definition, the number of connected components in the graph with $0$ vertices is $0$. Therefore, the answer is $0$.</p>\n<p>On the second test case, removing two vertices $1$ and $2$ leaves $2$ connected components. As it is impossible to make $3$ connected components with $2$ vertices, the answer is $2$.</p>\n<p>On the third test case, removing two vertices $1$ and $5$ leaves $4$ connected components, which are $\\left\\{ 2,4\\right\\}$, $\\left\\{ 3\\right\\}$, $\\left\\{ 6\\right\\}$, and $\\left\\{ 7\\right\\}$. It can be shown that it is impossible to make $5$ connected components. Therefore, the answer is $4$.</p>",
   "source": "Contest, Codeforces, Codeforces Round 1000 (Div. 2), hjroh0315",
   "level": 14,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "greedy",
-    "trees",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["graphs", "data_structures", "greedy", "trees", "set", "tree_set"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.6270999908447266

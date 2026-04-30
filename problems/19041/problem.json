@@ -15,13 +15,7 @@
   "hint": "<p>Here is the list of such sequences.</p>\n<ol>\n<li>$f=(1)$, $g=(2)$.</li>\n<li>$f=(1)$, $g=(3)$.</li>\n<li>$f=(2)$, $g=(4)$.</li>\n<li>$f=(3)$, $g=(5)$.</li>\n<li>$f=(1,2)$, $g=(2,4)$.</li>\n<li>$f=(1,2)$, $g=(3,4)$.</li>\n<li>$f=(1,3)$, $g=(2,5)$.</li>\n<li>$f=(1,3)$, $g=(3,5)$.</li>\n<li>$f=(1,2,3)$, $g=(2,4,5)$.</li>\n<li>$f=(1,2,3)$, $g=(3,4,5)$.</li>\n</ol>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 1: Songyang Chen Contest 1",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "multi_segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "sweeping", "multi_segtree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.9230999946594238

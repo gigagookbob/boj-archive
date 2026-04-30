@@ -19,12 +19,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "set"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 5.229499816894531

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, World Finals",
   "level": 21,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.0833001136779785

@@ -35,13 +35,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, pichulia, 79brue, chansol, cologne, qwerasdfzxcl, shiftpsh",
   "level": 18,
-  "tags": [
-    "case_work",
-    "dp",
-    "implementation",
-    "math",
-    "probability"
-  ],
+  "tags": ["case_work", "dp", "implementation", "math", "probability"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.642899990081787

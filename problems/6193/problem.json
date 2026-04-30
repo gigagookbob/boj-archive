@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO October 2006 Contest, Gold",
   "level": 9,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 1.819000005722046

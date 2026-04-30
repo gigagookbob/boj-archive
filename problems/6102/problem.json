@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO March 2009 Contest, Gold",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.4375

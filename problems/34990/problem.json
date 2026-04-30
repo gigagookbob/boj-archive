@@ -19,12 +19,7 @@
   "hint": "<p>모든 팀원이 공에 도달 가능한 범위는 평면 내 직선거리가 처리 반경보다 작거나 같은 곳의 모임으로 정의한다.</p>",
   "source": "School, 대전대신고등학교, 제1회 코더즈 코딩페어, gmb9817, kckyoung2, nflight11, thak00, tony9402, toycartoon, utilforever, young_out",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.5810999870300293

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, 2023 POSTECH Programming Contest, Contest, University, POSTECH, 2023 POSTECH Programming Contest, Open Contest, menborong, eaststar, hyperbolic, jthis, kohandy, kwoncycle, leo020630, qjatn0120baek, slah007, tlsdydaud1, tony9402",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.2827999591827393

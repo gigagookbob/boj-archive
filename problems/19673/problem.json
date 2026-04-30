@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2019",
   "level": 21,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

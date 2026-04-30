@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2013 Japan Domestic Contest",
   "level": 19,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "ternary_search",
-    "physics"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "ternary_search", "physics"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.700000047683716

@@ -19,11 +19,7 @@
   "hint": "<p>In this example 1, when you choose w = 4, you can take pictures of all the sections of the events. For example, you can take pictures from the section 1 to 3 by a small camera, and you can take pictures from the section 11 to 18 by a large camera.</p>",
   "source": "Contest, JOI Open Contest, JOI Open Contest 2013",
   "level": 19,
-  "tags": [
-    "dp",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["dp", "binary_search", "parametric_search"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.6742000579833984

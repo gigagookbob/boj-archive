@@ -19,10 +19,7 @@
   "hint": "<p>Explanation for Output for Sample Input 1</p>\n<p>The two beautifully connected pairs are 1, 2 and 3, 4.</p>\n<p>Explanation for Output for Sample Input 2</p>\n<p>All pairs of places form a beautifully connected pair.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCO 2017, tlwpdus",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.6897000074386597

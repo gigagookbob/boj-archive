@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2025!, ibm2006, cki86201, cs71107, jhnah917, silverwolf",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc", "geometry", "constructive"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 1.5782999992370605

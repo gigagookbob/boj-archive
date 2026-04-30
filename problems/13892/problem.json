@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2016 ACM-ICPC Asia-Bangkok Regional Contest",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lca",
-    "pst"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lca", "pst"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 3.276599884033203

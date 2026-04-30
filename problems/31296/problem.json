@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 462px; height: 141px;\"/></p>\n<p>This image shows all possible triangulations of the first pentagon in the example.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 1: Grand Prix of SPb",
   "level": 13,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.857100009918213

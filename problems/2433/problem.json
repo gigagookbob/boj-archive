@@ -15,12 +15,7 @@
   "hint": "<iframe width=\"560\" height=\"315\" src=\"1.png\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2007, baekjoon",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "deque",
-    "sliding_window",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "deque", "sliding_window", "deque_trick"],
   "accepted_user_count": 196,
   "submission_count": null,
   "average_tries": 2.790800094604492

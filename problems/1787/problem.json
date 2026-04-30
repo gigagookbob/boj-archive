@@ -15,11 +15,7 @@
   "hint": "<p>P<sub>8</sub> = 6, P<sub>7</sub> = 6, P<sub>6</sub> = 4, P<sub>5</sub> = 4, P<sub>4</sub> = 2, P<sub>3</sub> = 2, P<sub>2</sub> = 0, P<sub>1</sub> = 0</p>\r\n",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2005/2006, Stage 1, author10",
   "level": 19,
-  "tags": [
-    "dp",
-    "string",
-    "kmp"
-  ],
+  "tags": ["dp", "string", "kmp"],
   "accepted_user_count": 538,
   "submission_count": null,
   "average_tries": 2.8066999912261963

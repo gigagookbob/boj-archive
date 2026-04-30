@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 1, gggkik, fs_edge, jthis, myyh1234, tlsdydaud1",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "disjoint_set"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 21.444400787353516

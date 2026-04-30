@@ -15,12 +15,7 @@
   "hint": "<p>Given <strong>N</strong> points (x<sub>i</sub>, y<sub>i</sub>, z<sub>i</sub>), their center of the mass is the point (x<sub>c</sub>, y<sub>c</sub>, z<sub>c</sub>), where:</p>\n<pre>\nx<sub>c</sub> = (x<sub>1</sub> + x<sub>2</sub> + ... + x<sub>N</sub>) / N\ny<sub>c</sub> = (y<sub>1</sub> + y<sub>2</sub> + ... + y<sub>N</sub>) / N\nz<sub>c</sub> = (z<sub>1</sub> + z<sub>2</sub> + ... + z<sub>N</sub>) / N</pre>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, Round 1C",
   "level": 10,
-  "tags": [
-    "math",
-    "geometry",
-    "ternary_search",
-    "physics"
-  ],
+  "tags": ["math", "geometry", "ternary_search", "physics"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.6182000637054443

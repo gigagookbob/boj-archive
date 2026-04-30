@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, January 31, 2021",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "set"
-  ],
+  "tags": ["data_structures", "set"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.5713999271392822

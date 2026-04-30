@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2019",
   "level": 13,
-  "tags": [
-    "case_work",
-    "regex",
-    "string"
-  ],
+  "tags": ["case_work", "regex", "string"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3.325000047683716

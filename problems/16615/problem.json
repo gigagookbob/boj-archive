@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2018 ACM South Pacific Programming Contest",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "greedy"
-  ],
+  "tags": ["ad_hoc", "greedy"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.047600030899048

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2024",
   "level": 19,
-  "tags": [
-    "greedy",
-    "trees",
-    "binary_search"
-  ],
+  "tags": ["greedy", "trees", "binary_search"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.5

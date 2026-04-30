@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2016",
   "level": 22,
-  "tags": [
-    "math",
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["math", "data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.4314000606536865

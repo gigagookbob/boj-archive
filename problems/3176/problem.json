@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2006, Final Exam #2, baekjoon",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "trees",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "trees", "lca", "sparse_table"],
   "accepted_user_count": 3991,
   "submission_count": null,
   "average_tries": 2.5485000610351562

@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2019 2차대회, 고등부",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 528,
   "submission_count": null,
   "average_tries": 2.456399917602539

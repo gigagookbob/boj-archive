@@ -23,11 +23,7 @@
   "hint": "<p>Sample Input 1</p>\n<p>Notice that all edges come in pairs (0 1 0 and 0 1 1), (1 2 0 and 1 2 1), etc</p>\n<p>The fastest way for Ali is to move from node 0 -&gt; 1 -&gt; 4. This will traverse 2 edges and take 2 hours.</p>\n<p>Sample Input 2</p>\n<p>Ali must either move in the order of node 0 -&gt; 1 -&gt; 2 -&gt; 3 -&gt; 1 -&gt; 4 or 0 -&gt; 1 -&gt; 3 -&gt; 2 -&gt; 1 -&gt; 4.</p>\n<p>To do so, Ali must start out with a value of 1 at node 0. He will then travel along the edge (0 1 1) to node 1. After reaching node 1, he would have a value of 0. He then travels along the edge (1 2 0) as he is unable to travel on the edge (1 4 1) since the value of the road does not match his own value. After reaching node 2, he would have a value of 1 and he can travel along the edge (3 2 1) to reach node 3 with a value of 0. Subsequently, he can travel back to node 1 alone edge (3 1 0) and he would have reached node 1 with a value of 1. Lastly, he can travel the edge (1 4 1) to his destination, node 4.</p>\n<p>Sample Input 3</p>\n<p>There is no way for Ali to reach node 2 from node 0.</p>",
   "source": "Olympiad, Malaysian Computing Olympiad, MCO 2014",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.5191999673843384

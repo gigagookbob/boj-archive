@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 카툰컵, 카툰컵 Zero: ~Prologue~, toycartoon, dbgksdl00, dbrua1222, djeleanor2, eric00513, index, ingyu1008, nflight11, pani, sorohue, utilforever, ychangseok",
   "level": 12,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "parametric_search"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 6.17609977722168

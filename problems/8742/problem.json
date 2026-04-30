@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Intermediate Group)",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.6922999620437622

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2016",
   "level": 6,
-  "tags": [
-    "implementation",
-    "binary_search"
-  ],
+  "tags": ["implementation", "binary_search"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 1.5788999795913696

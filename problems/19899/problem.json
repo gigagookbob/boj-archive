@@ -23,9 +23,7 @@
   "hint": "<p>В первом примере каждое число последовательности является полным квадратом. Минимальный из них — 0, 0<sup>2</sup> = 0.</p>\n<p>Во втором примере последовательность начинается так: −5, −4, −1, 4, 11, 20, . . .. Минимальное неотрицательное целое число, квадрат которого встречается в последовательности — 2, 2<sup>2</sup> = 4.</p>\n<p>В третьем примере последовательность начинается так: 2, 3, 6, 11, 18, . . .. В ней нет квадратов целых чисел.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2019",
   "level": 10,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.6875

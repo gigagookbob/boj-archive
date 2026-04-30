@@ -19,10 +19,7 @@
   "hint": "<p>두 점 $(x_1, y_1)$와 $(x_2, y_2)$ 사이의 유클리드 거리는 $\\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}$이다.</p>",
   "source": "University, 서강대학교, K512컵, 2025 서강대학교 K512컵, lem0nad3, jthis, tony9402, utilforever",
   "level": 8,
-  "tags": [
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["geometry", "pythagoras"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 1.9023000001907349

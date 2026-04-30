@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2005, CCC 2005 Senior Division",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 1.2719999551773071

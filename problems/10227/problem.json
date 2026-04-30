@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2010, Day 1, h0ngjun7, iiiiii, namnamseo",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "prefix_sum", "parametric_search"],
   "accepted_user_count": 266,
   "submission_count": null,
   "average_tries": 2.319499969482422

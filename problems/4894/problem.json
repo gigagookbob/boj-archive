@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:347px; width:416px\"/></p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2009 Arab Collegiate Programming Contest",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.272700071334839

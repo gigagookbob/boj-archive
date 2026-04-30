@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 강원도 대학생 코딩 경진대회, 2024 강원도 대학생 코딩경진대회, ahgus89, junie, onjo0127, silverwolf",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 1.9371000528335571

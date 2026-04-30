@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2024 Fall Automata 래환컵, sooahn07, eric00513, jish0218, ksha123, raehwan0418, sooahn07",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 2.8666999340057373

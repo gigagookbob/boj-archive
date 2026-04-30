@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 23 September, 2000, kks227, dbfldkfdbgml, solarmagic, orihehe",
   "level": 13,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 10476,
   "submission_count": null,
   "average_tries": 1.6791000366210938

@@ -15,9 +15,7 @@
   "hint": "<p>The two sample test cases are shown below. Solid diamonds represent the remaining wooden boards, while hollow diamonds represent the removed wooden boards and round dots represent the coins.</p>\n<table class=\"table table-bordered td-center td-middle\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 290px; height: 156px;\"/></td>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 360px; height: 125px;\"/></td>\n</tr>\n<tr>\n<td>Sample test case No. 1</td>\n<td>Sample test case No. 2</td>\n</tr>\n</tbody>\n</table>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 9: Grand Prix of Nanjing",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2

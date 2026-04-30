@@ -19,10 +19,7 @@
   "hint": "<p>FizzBuzz 문제의 $i=1, \\cdots, 20$에 대한 출력은 다음과 같습니다.</p>\r\n\r\n<pre>\r\n1\r\n2\r\nFizz\r\n4\r\nBuzz\r\nFizz\r\n7\r\n8\r\nFizz\r\nBuzz\r\n11\r\nFizz\r\n13\r\n14\r\nFizzBuzz\r\n16\r\n17\r\nFizz\r\n19\r\nBuzz</pre>\r\n",
   "source": "Contest, solved.ac, solved.ac Grand Arena #2, cologne, solvedac, ai4youej, bnb2011, chansol, cologne, cozyyg, gs18115, havana723, jh05013, moonrabbit2, pichulia, shiftpsh",
   "level": 5,
-  "tags": [
-    "math",
-    "string"
-  ],
+  "tags": ["math", "string"],
   "accepted_user_count": 12712,
   "submission_count": null,
   "average_tries": 1.638200044631958

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2015",
   "level": 18,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "binary_search", "line_intersection"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5556000471115112

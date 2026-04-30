@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, isac322",
   "level": 4,
-  "tags": [
-    "pythagoras",
-    "geometry"
-  ],
+  "tags": ["pythagoras", "geometry"],
   "accepted_user_count": 8768,
   "submission_count": null,
   "average_tries": 1.5950000286102295

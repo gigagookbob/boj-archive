@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 전시관, 제1 전시관, august14",
   "level": 25,
-  "tags": [
-    "math",
-    "combinatorics",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "combinatorics", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.2221999168395996

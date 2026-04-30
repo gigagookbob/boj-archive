@@ -27,12 +27,7 @@
   "hint": "<p>예제 1의 경우 다음과 같은 10가지가 가능하다.</p>\n<pre>\nXX. XX. .X. X.. X.X \nX.. .X. XX. XX. .X. \n\n.XX .XX ..X .X. .X. \n.X. ..X .XX .XX X.X</pre>",
   "source": "baekjoon, ainta",
   "level": 16,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "combinatorics"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.6389000415802

@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 128px;\"/></p>\n<p>Wyjaśnienie do przykładu: Spadek morale poniżej 2/3 grozi tym, że jeśli sabotażystą jest pracownik numer 8, to spowoduje on bunt 4 pracowników (o numerach 3, 7, 8 i 9).</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2016/2017, Stage 1",
   "level": 17,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.857100009918213

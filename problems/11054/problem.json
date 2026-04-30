@@ -15,9 +15,7 @@
   "hint": "<p>예제의 경우 {<strong>1</strong> 5 <strong>2</strong> 1 4 <strong>3</strong> <strong>4</strong> <strong>5</strong> <strong>2</strong> <strong>1</strong>}이 가장 긴 바이토닉 부분 수열이다.</p>",
   "source": "baekjoon, mwy3055, gmldk728, kisu9454, sungbin95",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 28426,
   "submission_count": null,
   "average_tries": 1.9206000566482544

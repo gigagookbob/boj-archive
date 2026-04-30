@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2005: The USC Contest",
   "level": 18,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "sweeping"
-  ],
+  "tags": ["geometry", "line_intersection", "sweeping"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 6

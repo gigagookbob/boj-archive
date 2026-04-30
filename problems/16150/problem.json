@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2018: Protest Contest",
   "level": 13,
-  "tags": [
-    "knapsack"
-  ],
+  "tags": ["knapsack"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

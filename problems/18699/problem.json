@@ -15,11 +15,7 @@
   "hint": "<p>The following image represents the first sample test case, there’s no way to take the point which gives score 100, but we can rotate the square little bit such that it no longer includes the point which gives score -101.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 399px; height: 383px;\"/></p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2017 Arab Collegiate Programming Contest",
   "level": 19,
-  "tags": [
-    "geometry",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["geometry", "sorting", "sweeping"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

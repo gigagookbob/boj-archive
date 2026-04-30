@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2015, jh05013, portableangel",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.1842000484466553

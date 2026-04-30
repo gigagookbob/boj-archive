@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, KBTU Open, KBTU Open 2008",
   "level": 3,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 305,
   "submission_count": null,
   "average_tries": 1.8720999956130981

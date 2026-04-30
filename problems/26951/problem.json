@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2018, KATT 1",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "sliding_window",
-    "mitm"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "sliding_window", "mitm"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

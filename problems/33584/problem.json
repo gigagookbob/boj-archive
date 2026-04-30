@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 한국디지털미디어고등학교, 제2회 디미고 프로그래밍 챌린지, deom, 99asdfg, dkim110807, ecode, ian0704, ldhhello, qvixnh22, seungchan0325, tlsdydaud1, utilforever",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4.6153998374938965

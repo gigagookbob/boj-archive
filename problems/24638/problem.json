@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Regional Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 1.2797000408172607

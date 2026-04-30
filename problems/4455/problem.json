@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:223px; width:321px\"/></p>\n<p style=\"text-align: center;\">Figure 6: First sample case</p>",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2011 Pacific Northwest Region Programming Contest",
   "level": 12,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "grid_graph"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.1500000953674316

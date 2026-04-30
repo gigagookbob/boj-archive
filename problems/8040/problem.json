@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2000/2001, Stage 3",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree", "sweeping"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.6538000106811523

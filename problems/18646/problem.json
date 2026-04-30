@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 7: Petr Mitrichev Contest 15",
   "level": 17,
-  "tags": [
-    "sorting",
-    "ad_hoc",
-    "constructive",
-    "parity"
-  ],
+  "tags": ["sorting", "ad_hoc", "constructive", "parity"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.8824000358581543

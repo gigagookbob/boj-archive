@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, UNIST-DGIST-POSTECH, 2026 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2026 UDPC), Senior Division, haruki291sa, queued_q, 99asdfg, jinhan814, jthis, kwoncycle, leo020630, pyb1031, utilforever",
   "level": 16,
-  "tags": [
-    "graphs",
-    "trees",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["graphs", "trees", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.2381000518798828

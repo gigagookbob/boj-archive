@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 493px; height: 493px;\"/></p>",
   "source": "Camp, JOI Spring Training Camp, JOI 2006/2007 Spring Training Camp",
   "level": 19,
-  "tags": [
-    "euler_characteristic",
-    "geometry"
-  ],
+  "tags": ["euler_characteristic", "geometry"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.875

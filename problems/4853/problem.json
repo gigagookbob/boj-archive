@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2006 Rocky Mountain Regional Contest",
   "level": 9,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.61899995803833

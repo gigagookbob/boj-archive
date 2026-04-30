@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2020 1차대회, 초등부",
   "level": 11,
-  "tags": [
-    "math",
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["math", "graphs", "greedy", "graph_traversal", "bfs"],
   "accepted_user_count": 1582,
   "submission_count": null,
   "average_tries": 3.732599973678589

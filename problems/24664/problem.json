@@ -19,12 +19,7 @@
   "hint": "<p>At the beginning of the first round in Example 1, the zebra is at vertex 1, and the distance to the lion is $4$, so we can conclude that the lion is at vertex 5. In this case, the optimal strategy is to stay at vertex 1 as long as possible, and the answer is equal to $4$.</p>\n<p>At the beginning of the second round, the zebra is at vertex 3, and the distance to the lion is $1$, so we can conclude that the lion is either at vertex 2 or at vertex 4.</p>\n<p>If the zebra moves in the direction of vertex 2, the lion will meet the zebra on the edge after $0.5$ seconds if it started at vertex 2, or at vertex 1 after $3$ seconds if it started at vertex 4. Therefore, the minimum possible time until the zebra meets the lion with this strategy is $0.5$.</p>\n<p>Similarly, if the zebra moves in the direction of vertex 4, the minimum possible time until encountering the lion is also $0.5$.</p>\n<p>If the zebra stays at vertex 3, they would meet after $1$ second if the lion started at vertex 2, or after $1$ second if the lion started at vertex 4. Therefore, the answer is equal to $1$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 1: Kyoto U Contest 2, Contest, Open Cup, 2021/2022 Season, Stage 10: Grand Prix of Kyoto",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "dp",
-    "game_theory",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "dp", "game_theory", "sparse_table"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

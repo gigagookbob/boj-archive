@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2012 Mid-Atlantic Regional Programming Contest, ICPC, Regionals, North America, Southeast USA Regional, 2012 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2012 Southeast USA Regional Programming Contest, Division 2",
   "level": 14,
-  "tags": [
-    "graphs",
-    "sorting",
-    "mst"
-  ],
+  "tags": ["graphs", "sorting", "mst"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.363600015640259

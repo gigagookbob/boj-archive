@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2006 ACM South Pacific Programming Contest",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "math"
-  ],
+  "tags": ["binary_search", "greedy", "math"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2143000364303589

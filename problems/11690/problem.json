@@ -39,12 +39,7 @@
   "hint": null,
   "source": "baekjoon, kaguri",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 502,
   "submission_count": null,
   "average_tries": 3.199199914932251

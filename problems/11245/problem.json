@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand First Round Online, Thailand First Round Online 2014",
   "level": 14,
-  "tags": [
-    "dp",
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["dp", "exponentiation_by_squaring", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

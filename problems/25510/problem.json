@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li>각 $x \\in \\mathbb{Z}[\\sqrt{D}]$에 대해, $x = a + b\\sqrt{D}$ 를 만족하는 정수 $a, b$는 유일하게 존재한다.</li>\n<li>$(a + b\\sqrt{D}) + (c + d\\sqrt{D}) = (a + c) + (b + d)\\sqrt{D}$</li>\n<li>$(a + b\\sqrt{D})(c + d\\sqrt{D}) = (ac + bdD) + (ad + bc)\\sqrt{D}$</li>\n</ul>",
   "source": "TAMREF, aeren, koosaga, topology",
   "level": 27,
-  "tags": [
-    "math",
-    "linear_algebra"
-  ],
+  "tags": ["math", "linear_algebra"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.09089994430542

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제2회 생각하는 프로그래밍 대회, isku",
   "level": 10,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 328,
   "submission_count": null,
   "average_tries": 2.512200117111206

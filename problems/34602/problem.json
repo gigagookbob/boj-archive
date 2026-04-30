@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2025 ICPC Asia Pacific Championship",
   "level": 17,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "prefix_sum", "combinatorics"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.2414000034332275

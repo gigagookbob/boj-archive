@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2012",
   "level": 27,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.3684000968933105

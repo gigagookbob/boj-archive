@@ -15,10 +15,7 @@
   "hint": "<p>In the example, consider the Hamiltonian circuit $1 \\to 2 \\to 3 \\to 1$, with edge weights $|1-2| + |8-5| + |4-10| = 10$. It can be proven that there is no Hamiltonian circuit with sum of weights exceeding $10$, so the answer is $10$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 2: CCPC Contest 1",
   "level": 18,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

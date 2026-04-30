@@ -15,12 +15,7 @@
   "hint": null,
   "source": "eric00513, ekwoo, hibye1217, leo020630, tlsdydaud1, tony9402, wider93",
   "level": 17,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "pigeonhole_principle"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.6730999946594238

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO February 2003 Contest, Green, author6, zxcv551133, thak00",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 4.401500225067139

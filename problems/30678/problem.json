@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 스타보우컵, 제1회 스타보우컵, starbow, flakepowders, jjkmk1013, kiwiyou, leo020630, lycoris1600, naeby, utilforever, yup0927",
   "level": 11,
-  "tags": [
-    "recursion"
-  ],
+  "tags": ["recursion"],
   "accepted_user_count": 484,
   "submission_count": null,
   "average_tries": 1.8285000324249268

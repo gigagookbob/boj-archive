@@ -15,10 +15,7 @@
   "hint": "<p>The minimum number of moves is 1 --- if Farmer John moves the cow in position 4 to position 8, then the cows are at consecutive locations 7, 8, 9. The maximum number of moves is 2. For example, the cow at position 9 could be moved to position 6, then the cow at position 7 could be moved to position 5.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 February Contest, Bronze",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 519,
   "submission_count": null,
   "average_tries": 2.593400001525879

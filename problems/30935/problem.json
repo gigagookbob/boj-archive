@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2023 Asia Yokohama Regional",
   "level": 23,
-  "tags": [
-    "flow",
-    "mfmc",
-    "sorting",
-    "graphs"
-  ],
+  "tags": ["flow", "mfmc", "sorting", "graphs"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.0625

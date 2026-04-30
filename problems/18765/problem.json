@@ -15,12 +15,7 @@
   "hint": "<p>브라우저 콘솔이나 <a href=\"http://nodejs.org/\">Node.js</a>를 이용해 테스트해볼 수 있다.</p>\r\n\r\n<p>채점은&nbsp;Node.js v12.16.1를 이용해서 진행한다.</p>\r\n",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2015",
   "level": 19,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "precomputation",
-    "heuristics"
-  ],
+  "tags": ["implementation", "ad_hoc", "precomputation", "heuristics"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 4.081600189208984

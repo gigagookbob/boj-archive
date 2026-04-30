@@ -15,10 +15,7 @@
   "hint": "<p>In this example, 1 participant was registered in each division prior to the contest. At the end of the contest, 2 participants were registered in bronze and platinum. One way this could have happened is that 2 new participants joined during the contest; one was promoted all the way to platinum, and the other stayed in bronze.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO January 2016 Contest, Bronze",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 622,
   "submission_count": null,
   "average_tries": 1.5465999841690063

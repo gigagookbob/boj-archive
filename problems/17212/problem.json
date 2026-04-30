@@ -19,9 +19,7 @@
   "hint": "<table class=\"table table-bordered\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\">지불 금액</td>\n<td style=\"text-align: center;\">합법 지불</td>\n<td style=\"text-align: center;\">불법 지불(예)</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">12원</td>\n<td style=\"text-align: center;\">7원 x 1개 + 5원 x 1개</td>\n<td style=\"text-align: center;\">5원 x 2개 + 2원 x 1개</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">17원</td>\n<td style=\"text-align: center;\">7원 x 1개 + 5원 x 2개</td>\n<td style=\"text-align: center;\">7원 x 2개 + 2원 x 1개 + 1원 x 1개</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">21원</td>\n<td style=\"text-align: center;\">7원 x 3개</td>\n<td style=\"text-align: center;\">7원 x 2개 + 5원 x 1개 + 2원 x 1개</td>\n</tr>\n</tbody>\n</table>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, ROOKIE League, TheKinGoD, jh05013, ygonepiece",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1916,
   "submission_count": null,
   "average_tries": 1.9744000434875488

@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the third example:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 119px; height: 126px;\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #2",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "trees",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "trees", "constructive"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.8333001136779785

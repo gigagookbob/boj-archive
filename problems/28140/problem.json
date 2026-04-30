@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 05., jthis, amsminn, bnb2011, chogahui05, djs100201, dong_gas, gs11008, heeda0528, pjshwa, rustiebeats, snrnsidy, swoon, utilforever",
   "level": 11,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 276,
   "submission_count": null,
   "average_tries": 2.4855000972747803

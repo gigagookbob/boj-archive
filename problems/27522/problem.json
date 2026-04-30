@@ -15,11 +15,7 @@
   "hint": "<p>레드팀은 2, 4, 5, 6등을 달성하여 총 $20$점을, 블루팀은 1, 3, 7, 8등을 달성하여 총 $19$점을 기록하였다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter), amel, bnb2011, dohoon, heeda0528, jthis, leo020630, mjhmjh1104, pjshwa, tlsdydaud1, utilforever",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 989,
   "submission_count": null,
   "average_tries": 1.519700050354004

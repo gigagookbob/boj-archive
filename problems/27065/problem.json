@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2022!, jhnah917, cgiosy, chansol, edenooo, gustjwkd1007, hibye1217, junseo, kyo20111, leejseo, man_of_learning, ryute, stonejjun03",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "implementation", "number_theory", "primality_test"],
   "accepted_user_count": 560,
   "submission_count": null,
   "average_tries": 1.5786000490188599

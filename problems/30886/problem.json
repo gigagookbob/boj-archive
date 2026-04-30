@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2023 연습 세션",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "geometry", "arithmetic"],
   "accepted_user_count": 250,
   "submission_count": null,
   "average_tries": 1.1679999828338623

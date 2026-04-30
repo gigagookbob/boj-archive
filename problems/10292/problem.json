@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2014",
   "level": 17,
-  "tags": [
-    "graphs",
-    "articulation"
-  ],
+  "tags": ["graphs", "articulation"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 2

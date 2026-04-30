@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:201px; width:192px\"/></p>\n<p>The towns in which an office of The Tailors Guild should open are marked with circles, whereas those in which an office of The Sewers Guild should open are marked with rhombi.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 1",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "parity"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "parity"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 2.085700035095215

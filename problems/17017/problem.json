@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCC 2019 Senior Division",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "divide_and_conquer"
-  ],
+  "tags": ["data_structures", "divide_and_conquer"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 3.5806000232696533

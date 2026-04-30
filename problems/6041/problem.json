@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO March 2010 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.8461999893188477

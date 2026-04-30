@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2025 ICPC Asia Yokohama Regional Contest",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "ad_hoc", "simulation"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.25

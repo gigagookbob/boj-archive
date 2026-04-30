@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2006",
   "level": 20,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring",
-    "linear_algebra"
-  ],
+  "tags": ["math", "exponentiation_by_squaring", "linear_algebra"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.487799882888794

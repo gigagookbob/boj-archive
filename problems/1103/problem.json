@@ -35,12 +35,7 @@
   "hint": null,
   "source": "baekjoon, koosaga",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 4943,
   "submission_count": null,
   "average_tries": 4.407599925994873

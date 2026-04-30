@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2011",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "bitmask",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "bitmask", "trees"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.875

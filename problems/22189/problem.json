@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2011, RCC 2011 First Qualification Round",
   "level": 8,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5262999534606934

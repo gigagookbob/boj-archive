@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCO 2017",
   "level": 20,
-  "tags": [
-    "dp",
-    "constructive",
-    "bitset"
-  ],
+  "tags": ["dp", "constructive", "bitset"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2999999523162842

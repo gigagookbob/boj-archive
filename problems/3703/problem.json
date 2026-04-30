@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2006",
   "level": 10,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["geometry", "binary_search", "parametric_search"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.84089994430542

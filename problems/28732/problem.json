@@ -23,11 +23,7 @@
   "hint": "<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 175px; height: 176px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 172px; height: 176px;\"/></td>\n</tr>\n<tr>\n<td>(a) Первый тест</td>\n<td>(b) Второй тест</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Рис. 2: Пояснение к тестам</p>\n<p>Синим отмечены клетки с полицией, розовым --- клетка с Джокером.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 19, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 19, 2019, Advanced",
   "level": 8,
-  "tags": [
-    "case_work",
-    "implementation",
-    "math"
-  ],
+  "tags": ["case_work", "implementation", "math"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.642899990081787

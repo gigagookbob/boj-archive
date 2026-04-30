@@ -19,13 +19,7 @@
   "hint": "<p>00:01에 방송을 시작해서 01:20에 방송을 끝냈다면 1시간 19분 동안 방송을 한 것이다.</p>\r\n\r\n<p>방송 시작 시각이 방송 종료 시각보다 항상 이르다.</p>\r\n\r\n<p>입력 순서는 방송 날짜의 오름차순이 아닐 수 있다.</p>\r\n",
   "source": "University, 국민대학교, 2023 국민대학교 알고리즘 콘테스트, 2023 국민대학교 알고리즘 콘테스트, University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2023 중앙대학교 프로그래밍 경진대회 (CPC), Division 1, University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2023 중앙대학교 프로그래밍 경진대회 (CPC), Division 2, University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2023 중앙대학교 프로그래밍 경진대회 (CPC), Open Contest, University, 국민대학교, 2023 국민대학교 알고리즘 콘테스트, Open Contest, smmaker118, chansol, halin, hibye1217, kiwiyou, koder0205, menborong, saywoo, shiftpsh, snowflake, tony9402, usb9245, utilforever, uyk0329, wapas, wider93",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 395,
   "submission_count": null,
   "average_tries": 3.291100025177002

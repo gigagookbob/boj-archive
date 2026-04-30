@@ -19,12 +19,7 @@
   "hint": "<p>※ 입력(1)의 직교다각형을 그림으로 나타내면 아래와 같다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height:118px; width:158px\"/></p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2017, 중등부",
   "level": 16,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "sorting",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "sorting", "stack"],
   "accepted_user_count": 751,
   "submission_count": null,
   "average_tries": 4.205100059509277

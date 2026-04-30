@@ -23,10 +23,7 @@
   "hint": "<p>Let us check that the answer to the first example is consistent with the given numbers $a_i$.</p>\n<ol>\n<li>Runner $1$ has upset runners $2$, $4$, and $5$.</li>\n<li>Runner $2$ took the last place and, therefore, has not outperformed anyone. Hence, runner $2$ has performed no upsets.</li>\n<li>The runner with the number $3$ took the first place and, therefore, has upset both runners with larger numbers.</li>\n<li>The runner with the number $4$ has upset a single other runner: runner $5$.</li>\n<li>There are no runners with numbers larger than $5$. Therefore, runner $5$ has performed no upsets.</li>\n</ol>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2025-2026 Northwestern Russia Qualification",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1

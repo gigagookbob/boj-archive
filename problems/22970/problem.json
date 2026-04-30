@@ -27,10 +27,7 @@
   "hint": "<p>대회가 1달 연기되어서 정휘는 기뻐했다고 한다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제5회 천하제일 코딩대회 본선, jhnah917, chansol, kyo20111",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 337,
   "submission_count": null,
   "average_tries": 1.7892999649047852

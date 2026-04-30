@@ -15,11 +15,7 @@
   "hint": "<p>It is known that there will be at least one solution for each given test input.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2003",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "number_theory", "constructive"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.7826000452041626

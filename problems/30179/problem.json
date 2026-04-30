@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample, you can obtain a nested sequence of $4$ rubber bands($1$, $2$, $5$, and $6$) by the conversion shown below. Of course, there are other conversions exist to make a nested sequence of $4$ rubber bands. However, you cannot make sequence of $5$ or more nested rubber bands with given tree.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 847px; height: 300px;\"/></p>\n<p>You can see one of the possible conversions for the second sample below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 442px; height: 150px;\"/></p>",
   "source": "Contest, Codeforces, Codeforces Round 633 (Div. 1), spongbob9876",
   "level": 22,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2023, heewoo1137, rustiebeats, shiftpsh, solvedac, utilforever, wjdclgns12",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "prefix_sum",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "prefix_sum", "bfs", "grid_graph"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 2.776599884033203

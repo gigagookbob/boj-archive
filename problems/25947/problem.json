@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2022",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum"],
   "accepted_user_count": 665,
   "submission_count": null,
   "average_tries": 3.6421000957489014

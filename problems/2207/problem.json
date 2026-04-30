@@ -19,11 +19,7 @@
   "hint": null,
   "source": "jason9319, denfor123, doju, kyaryunha_cpp",
   "level": 17,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 837,
   "submission_count": null,
   "average_tries": 1.6642999649047852

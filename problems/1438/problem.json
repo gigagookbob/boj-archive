@@ -23,10 +23,7 @@
   "hint": "<p>예제 1의 경우 (9,4), (9,6), (14,4), (14,6)을 꼭짓점으로 하는 직사각형을 만들면 된다.</p>",
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 220,
   "submission_count": null,
   "average_tries": 2.5090999603271484

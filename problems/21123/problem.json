@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 8: Belarusian SU Contest, Yandex Cup, Grand Prix of Belarud, Contest, Open Cup, 2020/2021 Season, Stage 12: Grand Prix of Belarus",
   "level": 20,
-  "tags": [
-    "implementation",
-    "prefix_sum",
-    "bitmask"
-  ],
+  "tags": ["implementation", "prefix_sum", "bitmask"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

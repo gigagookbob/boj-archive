@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, Greek Collegiate Programming Contest, GRCPC 2023",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "stack"
-  ],
+  "tags": ["data_structures", "sorting", "stack"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.31820011138916

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2015, 고등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2015, 초등부, mathjuny, y305205, park780172",
   "level": 14,
-  "tags": [
-    "implementation",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "sorting", "prefix_sum"],
   "accepted_user_count": 3353,
   "submission_count": null,
   "average_tries": 4.117800235748291

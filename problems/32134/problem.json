@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제1회 피갤컵, wapas, amel, dabbler1, hamuim, herdson, hyperion1019, ibm2006, kdh9949, kidw0124, lky7674, nick832, plast, pyb1031, skeep194",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "geometry"
-  ],
+  "tags": ["math", "greedy", "geometry"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 3.1586999893188477

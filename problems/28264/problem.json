@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2023, functionx, dohoon, hjroh0315, kiwiyou, sorohue, tony9402, utilforever",
   "level": 24,
-  "tags": [
-    "alien",
-    "binary_search",
-    "dp"
-  ],
+  "tags": ["alien", "binary_search", "dp"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 5.857100009918213

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2004 Mid-Atlantic Regional Programming Contest",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 570,
   "submission_count": null,
   "average_tries": 1.4982000589370728

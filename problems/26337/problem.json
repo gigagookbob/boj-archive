@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2013 Local Programming Contest",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "prefix_sum"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick", "prefix_sum"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

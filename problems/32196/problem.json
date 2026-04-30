@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 한성과학고등학교, 제1회 한성과고 알고리즘 챌린지, chansol, junie, leejseo, messi, TAMREF, wookje",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 183,
   "submission_count": null,
   "average_tries": 2.4372000694274902

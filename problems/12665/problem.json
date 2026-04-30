@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, World Finals",
   "level": 16,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.5356999635696411

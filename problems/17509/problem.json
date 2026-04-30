@@ -15,10 +15,7 @@
   "hint": "<p>The sample input does not necessarily reflect the actual difficulties of the problems.</p>\n<p>The problem statement does not necessarily reflect the actual situation of the contest.</p>",
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2019 KAIST 9th ICPC Mock Competition, jh05013",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 924,
   "submission_count": null,
   "average_tries": 1.1406999826431274

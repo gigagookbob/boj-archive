@@ -23,12 +23,7 @@
   "hint": "<p>어떤 수열의 부분 수열(subsequence)이란, 원래 수열에서 몇 개의 원소를 제거하여 얻을 수 있는 수열을 의미한다. 예를 들어, 수열 $[1, 3, 5]$의 부분 수열로 가능한 것은 $[]$, $[1]$, $[3]$, $[5]$, $[1, 3]$, $[3, 5]$, $[1, 5]$, $[1, 3, 5]$가 있다.</p>\r\n",
   "source": "University, UNIST-DGIST-POSTECH, 2026 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2026 UDPC), Junior Division, 0917ba, 99asdfg, jinhan814, jthis, kwoncycle, leo020630, pyb1031, utilforever",
   "level": 15,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "coordinate_compression"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.6825000047683716

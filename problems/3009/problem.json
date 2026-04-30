@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #1, University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2011, baekjoon, onjo0127, pichulia",
   "level": 3,
-  "tags": [
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["implementation", "geometry"],
   "accepted_user_count": 51026,
   "submission_count": null,
   "average_tries": 1.3604999780654907

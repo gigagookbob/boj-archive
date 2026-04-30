@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO December 2014 Contest, Bronze",
   "level": 14,
-  "tags": [
-    "math",
-    "sorting",
-    "case_work",
-    "sweeping"
-  ],
+  "tags": ["math", "sorting", "case_work", "sweeping"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 3.200000047683716

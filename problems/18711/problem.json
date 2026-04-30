@@ -15,11 +15,7 @@
   "hint": "<p>As a demonstration of the pseudo-random number generator, if a = 2, b = 1, p = 7, R<sub>0</sub> = 2, then the generated numbers are 2, 5, 4, 2, 5, 4, 2, 5, 4, · · · .</p>\n<p>In the last two test cases, a = 4, b = 7, p = 11, R<sub>0</sub> = 5, and therefore the generated sequence is 5, 5, 5, · · · .</p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2018 Arab Collegiate Programming Contest",
   "level": 22,
-  "tags": [
-    "math",
-    "number_theory",
-    "discrete_log"
-  ],
+  "tags": ["math", "number_theory", "discrete_log"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

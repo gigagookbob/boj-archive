@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2019",
   "level": 21,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "ad_hoc"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.981100082397461

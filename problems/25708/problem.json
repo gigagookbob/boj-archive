@@ -23,10 +23,7 @@
   "hint": "<ul>\n<li>Python 사용자는 PyPy로 제출하는 것을 권장한다.</li>\n</ul>",
   "source": "University, 인하대학교, 2022 IGRUS Newbie Programming Contest, aym506, 39dll, chlwnsgud7, gumgood, wjdclgns12, yooshnn, yuja",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 202,
   "submission_count": null,
   "average_tries": 1.7821999788284302

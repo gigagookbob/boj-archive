@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2023, Day 2",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "tree_set"
-  ],
+  "tags": ["dp", "data_structures", "tree_set"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4.173900127410889

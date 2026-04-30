@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 5, 2012, Basic",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["math", "greedy", "ad_hoc", "bitmask"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.125

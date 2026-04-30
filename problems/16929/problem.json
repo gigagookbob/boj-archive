@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 3965,
   "submission_count": null,
   "average_tries": 2.2281999588012695

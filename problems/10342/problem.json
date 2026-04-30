@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2014 Mid-Central Regional Programming Contest",
   "level": 9,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.394700050354004

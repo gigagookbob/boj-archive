@@ -23,11 +23,7 @@
   "hint": "<p>The picture shows the polygons of the asteroids in sample tests.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 562px; height: 211px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2017",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "set"
-  ],
+  "tags": ["data_structures", "geometry", "set"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

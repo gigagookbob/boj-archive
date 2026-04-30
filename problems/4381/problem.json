@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 30 September, 2000",
   "level": 19,
-  "tags": [
-    "greedy",
-    "sorting",
-    "constructive",
-    "traceback"
-  ],
+  "tags": ["greedy", "sorting", "constructive", "traceback"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.935499906539917

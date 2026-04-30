@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2020 Rocky Mountain Regional Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 411,
   "submission_count": null,
   "average_tries": 1.1435999870300293

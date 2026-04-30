@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제3회 피갤컵, pyb1031, kuhyaku",
   "level": 0,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2010 in Tokyo",
   "level": 23,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "calculus",
-    "geometry_3d"
-  ],
+  "tags": ["math", "implementation", "geometry", "calculus", "geometry_3d"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.1087000370025635

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제4회 보라매컵, moonrabbit2, amel, buttercrab, chattermin, kaorin, prarie, serin",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "probability"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "probability"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.4118000268936157

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2009, baekjoon",
   "level": 17,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.875

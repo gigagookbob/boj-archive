@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2006",
   "level": 10,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.3889000415802002

@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:212px; width:247px\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2015, Day 1",
   "level": 21,
-  "tags": [
-    "articulation",
-    "data_structures",
-    "disjoint_set",
-    "graphs"
-  ],
+  "tags": ["articulation", "data_structures", "disjoint_set", "graphs"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 4.71999979019165

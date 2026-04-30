@@ -19,9 +19,7 @@
   "hint": "<p>실제 체스 규칙과 다르게, Pawn A와 Pawn B는 어느 위치에 존재하든 승급을 할 수 없습니다.</p>",
   "source": "University, 인천대학교, INU 코드페스티벌 2024, sk14cj, aeren, dabbler1, gs22123, iccodly, kimyh9797, leedongbin, penguin1234",
   "level": 4,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 366,
   "submission_count": null,
   "average_tries": 2.7295000553131104

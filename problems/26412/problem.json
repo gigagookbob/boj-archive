@@ -23,12 +23,7 @@
   "hint": "<p>In the first example the actual Halin graph is the complete graph on four vertices.</p>\n<p>In the second example the leaves are $[2, 4, 5, 6]$, thus there are four additional edges --- (2, 4), (4, 5), (5, 6), (6, 2).</p>\n<p><em>Note that there is no letter K in the meaningful parts of the statement.</em></p>",
   "source": "Camp, Moscow Pre-Finals ACM ICPC Workshop, Moscow Pre-Finals ACM ICPC Workshop 2018",
   "level": 26,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "implementation",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "implementation", "trees"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

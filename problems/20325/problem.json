@@ -23,14 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2020",
   "level": 24,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "palindrome_tree",
-    "prefix_sum",
-    "string",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "palindrome_tree", "prefix_sum", "string", "trees"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.0526000261306763

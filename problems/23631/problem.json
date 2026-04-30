@@ -19,10 +19,7 @@
   "hint": "<p>아래의 그림은 $N = 15, K = 3$ 인 경우의 예제이다.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"max-width: 700px;width:90%\"/></p>\n<p>총 거리가 $14$인 지점의 $x$좌표는 2이고, 방향은 오른쪽이다. 그래서 답은 <code>\"2 R\"</code>이다.</p>\n<p>$N = 7, K = 2$ 인 경우, $x$좌표가 $-2$인 지점에서 멈추고($2 - 4 = -2$), 방향을 바꾼다. 이후 더 이상 진행할 수 없으므로 정답은 <code>\"-2 R\"</code>이다.</p>",
   "source": "University, 경북대학교, 2021 Goricon, kadrick, ho94949, rhdqor213, djs100201, jh05013, wbcho0504, WeissBlume",
   "level": 10,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 281,
   "submission_count": null,
   "average_tries": 2.925299882888794

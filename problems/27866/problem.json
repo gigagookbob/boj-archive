@@ -23,10 +23,7 @@
   "hint": "<p>문자열 $S$에 대해 $\\left|S\\right|$는 $S$의 길이를 의미한다.</p>",
   "source": "shiftpsh, jh05013, kiwiyou, tlsdydaud1, wider93",
   "level": 1,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 82428,
   "submission_count": null,
   "average_tries": 1.4902000427246094

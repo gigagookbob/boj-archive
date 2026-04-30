@@ -15,10 +15,7 @@
   "hint": null,
   "source": "junie, ahgus89, kclee2172, TAMREF",
   "level": 11,
-  "tags": [
-    "binary_search",
-    "implementation"
-  ],
+  "tags": ["binary_search", "implementation"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.724100112915039

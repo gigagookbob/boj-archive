@@ -19,11 +19,7 @@
   "hint": "<p>Example 1: <img alt=\"\" src=\"1.png\" style=\"height:137px; width:333px\"/></p>\n<p>Example 2: <img alt=\"\" src=\"2.png\" style=\"height:71px; width:335px\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2017",
   "level": 24,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 2.2200000286102295

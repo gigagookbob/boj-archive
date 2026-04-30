@@ -19,11 +19,7 @@
   "hint": "<p>Example 1. In the first two test cases of the first example, we have $S(p) = 0$.</p>\n<p>In the third test case, we have $S(p) = 1$. This is because <code>binary_search(n, p, 2)</code> returns <code>true</code>, although $b_2 = $<code>false</code>.</p>\n<p>In the forth test case, we have $S(p) = 1$. This is because <code>binary_search(n, p, 4)</code> returns <code>true</code>, although $b_4 = $<code>false</code>.</p>\n<p>Example 2. We have $S(p) = 0$ for both test cases.</p>",
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2021",
   "level": 20,
-  "tags": [
-    "constructive",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["constructive", "divide_and_conquer", "recursion"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.09089994430542

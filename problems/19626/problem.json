@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCO 2019",
   "level": 23,
-  "tags": [
-    "centroid",
-    "math",
-    "mitm",
-    "trees"
-  ],
+  "tags": ["centroid", "math", "mitm", "trees"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

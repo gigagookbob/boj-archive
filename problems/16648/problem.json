@@ -19,10 +19,7 @@
   "hint": "<p>In the first test case, the battery drains at a rate of one percent per minute. In 50 minutes after the meeting, the battery level will reach 20 percent and the phone will switch to eco mode. 40 minutes later the phone will run out of battery.</p>\n<p>In the second test case, the phone is already in eco mode. The battery level will be enough for a little less than 11 minutes.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2018",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 433,
   "submission_count": null,
   "average_tries": 1.5241999626159668

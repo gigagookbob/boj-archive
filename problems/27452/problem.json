@@ -15,11 +15,7 @@
   "hint": "<p>위의 정의에 따라,</p>\n<p style=\"text-align: center;\">$S_3 =$ <code>(()())</code></p>\n<p style=\"text-align: center;\">$S_4 =$ <code>(()(()()))</code></p>\n<p style=\"text-align: center;\">$S_5 =$ <code>((()())(()(()())))</code></p>\n<p>이다.</p>",
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2쿨, djm03178, eaststar, hyperbolic, index, kiwiyou, sait2000, sivcde0405",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "recursion"
-  ],
+  "tags": ["math", "dp", "recursion"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 5.655200004577637

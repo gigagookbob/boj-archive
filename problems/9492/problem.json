@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2013 Southeast USA Regional Programming Contest, Division 2",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 334,
   "submission_count": null,
   "average_tries": 1.3502999544143677

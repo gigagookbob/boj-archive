@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon, cko301, eric00513, lety, mystika, dohoon, ldhhello",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "binary_search",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "binary_search", "set", "hash_set"],
   "accepted_user_count": 50619,
   "submission_count": null,
   "average_tries": 2.2916998863220215

@@ -23,10 +23,7 @@
   "hint": "<p>Explanation of the first example: Different scores during the game were: 0:0, 1:0, 2:0, 2:1, 2:2, 2:3. Out of those, there were two ties: 0:0 and 2:2. The largest turnover happened when the opposing team were losing 2:0 and then scored three successive goals, thereby winning 2:3.</p>\n<p>Explanation of the second example: Different scores during the game were: 0:0, 1:0, 1:1, 1:2, 2:2, 3:2, 4:2, 4:3, 5:3, 6:3. Out of those, there were three ties: 0:0, 1:1 and 2:2. The largest turnover happened when City were losing 1:2 and then scored three successive goals and started winning 4:2.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #3",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.9296000003814697

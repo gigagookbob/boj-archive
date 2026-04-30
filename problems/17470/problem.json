@@ -39,9 +39,7 @@
   "hint": null,
   "source": "upple1",
   "level": 17,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 212,
   "submission_count": null,
   "average_tries": 4.721700191497803

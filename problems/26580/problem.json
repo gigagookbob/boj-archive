@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2020, Novice",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 2.0316998958587646

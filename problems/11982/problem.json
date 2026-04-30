@@ -15,11 +15,7 @@
   "hint": "<p>In this example, a cow launched with power 3 at, say, location 5, will cause immediate detonation of hay bales at positions 3 and 8. These then explode (simultaneously) each with blast radius 2, engulfing bales at positions 1 and 10, which next explode (simultaneously) with blast radius 1, engulfing the final bale at position 11, which finally explodes with blast radius 0.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO January 2016 Contest, Gold",
   "level": 19,
-  "tags": [
-    "dp",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["dp", "binary_search", "two_pointer"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 3.6184000968933105

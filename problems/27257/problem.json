@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2016",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 783,
   "submission_count": null,
   "average_tries": 1.5925999879837036

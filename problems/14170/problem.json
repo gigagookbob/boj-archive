@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2016 December Contest, Silver, jason9319",
   "level": 8,
-  "tags": [
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["sorting", "binary_search"],
   "accepted_user_count": 604,
   "submission_count": null,
   "average_tries": 1.7218999862670898

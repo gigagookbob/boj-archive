@@ -35,12 +35,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Advanced Div., 525hm",
   "level": 17,
-  "tags": [
-    "implementation",
-    "dp",
-    "ad_hoc",
-    "recursion"
-  ],
+  "tags": ["implementation", "dp", "ad_hoc", "recursion"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 3.5399999618530273

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCCC 벚꽃맞이 컨테스트, cake_monotone, dyk777, jh05013",
   "level": 20,
-  "tags": [
-    "flow",
-    "graphs"
-  ],
+  "tags": ["flow", "graphs"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.206899881362915

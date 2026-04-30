@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2016, RCC 2016 WarmUp Round",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.8200000524520874

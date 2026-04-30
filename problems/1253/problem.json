@@ -15,12 +15,7 @@
   "hint": "<p>3,4,5,6,7,8,9,10은 좋다.</p>",
   "source": "xhark, jh05013, BaaaaaaaaaaarkingDog, baggomsoon96, jame0313, kevin0928, kiwiyou, tongnamuu",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "sorting", "binary_search", "two_pointer"],
   "accepted_user_count": 15910,
   "submission_count": null,
   "average_tries": 3.95770001411438

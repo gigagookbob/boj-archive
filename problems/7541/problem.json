@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2005 (Single)",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.8451000452041626

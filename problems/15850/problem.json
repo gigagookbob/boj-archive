@@ -15,11 +15,7 @@
   "hint": "<p>Explanation for the 1st sample case</p>\n<p>For the first sample, the first two numbers returned by the random number generator is always 1. Therefore, by asking the random number generator twice, each number from 1 to N will be returned at least twice.</p>\n<p>Explanation for the 2nd sample case</p>\n<p>For the second sample, Aristides already asked one number from the random number generator. Therefore, he only need to ask for one additional number.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, ACM-ICPC Regional Contest, Jakarta 2017",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.5555999279022217

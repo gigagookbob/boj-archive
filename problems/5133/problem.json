@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2011: Famous Computer Scientists",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.276900053024292

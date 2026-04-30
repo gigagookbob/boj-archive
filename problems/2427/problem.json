@@ -23,11 +23,7 @@
   "hint": "<p>첫 번째 예제의 경우 3명씩 3개의 그룹으로 나누면, 각 그룹은 회의가 4분씩 걸리고, 다시 마지막에 3명이 회의에 참석해서 회의를 하면 4분이 걸리므로, 8분이 걸린다.</p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2011, baekjoon, 79brue, tjdwlsdl",
   "level": 20,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["math", "greedy", "bruteforcing"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 4.25

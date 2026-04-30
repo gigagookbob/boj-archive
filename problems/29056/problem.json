@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, November 21, 2015, Advanced",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

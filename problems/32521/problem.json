@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 2회 DGUPC, chang061005, kes0716, kwoncycle, mjhmjh1104, qwerasdfzxcl",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 2.1149001121520996

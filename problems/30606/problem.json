@@ -15,10 +15,7 @@
   "hint": "<p>In the first example test case, no pauses are needed: Kenny can just press the button once.</p>\n<p>In the second example test case, Kenny can press, pause, press to set the timer for $2$ minutes.</p>\n<p>In the third example test case, Kenny can just press the button twice to set the timer for $3$ minutes.</p>\n<p>In the fourth example test case, Kenny can press, press, pause, press to set the timer for $1 + 2 + 1 = 4$ minutes.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Regional Contest",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.0312999486923218

@@ -15,11 +15,7 @@
   "hint": "<p>Первый участник решает первую задачу, второй вторую, а третий --- последние две. Таким образом, суммарный штраф --- 2+2+2+4=10.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, October 19, 2013, Advanced",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

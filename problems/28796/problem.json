@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, October 20, 2018, Basic",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.399999976158142

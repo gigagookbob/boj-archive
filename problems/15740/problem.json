@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, minu0122",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 13369,
   "submission_count": null,
   "average_tries": 1.5602999925613403

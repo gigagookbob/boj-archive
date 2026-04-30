@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 1: 300iq Contest, 300iq, gs18115",
   "level": 26,
-  "tags": [
-    "dp",
-    "binary_search",
-    "constructive",
-    "traceback",
-    "cht",
-    "alien"
-  ],
+  "tags": ["dp", "binary_search", "constructive", "traceback", "cht", "alien"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 7.425000190734863

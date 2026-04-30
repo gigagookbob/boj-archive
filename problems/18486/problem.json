@@ -15,13 +15,7 @@
   "hint": "<p>In the example test case, secondary integers belonging to [8; 16] are 8, 9, 10, 14, and 16, and secondary integers belonging to [157; 174] are 160, 164, 166, and 168.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 5: Gennady Korotkevich Contest 4, Contest, Open Cup, 2018/2019 Season, Stage 11: Grand Prix of Gomel",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc",
-    "case_work",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "ad_hoc", "case_work", "dp_digit"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.875

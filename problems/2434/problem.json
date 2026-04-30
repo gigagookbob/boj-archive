@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2007, baekjoon",
   "level": 19,
-  "tags": [
-    "case_work",
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["case_work", "exponentiation_by_squaring", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.176500082015991

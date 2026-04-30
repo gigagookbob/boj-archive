@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "splay_tree",
-    "rope"
-  ],
+  "tags": ["data_structures", "string", "trees", "splay_tree", "rope"],
   "accepted_user_count": 314,
   "submission_count": null,
   "average_tries": 1.7037999629974365

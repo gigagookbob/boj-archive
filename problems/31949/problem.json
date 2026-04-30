@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2024",
   "level": 16,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.6438000202178955

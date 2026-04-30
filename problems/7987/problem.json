@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:168px; width:251px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2003/2004, Stage 1, k1178k",
   "level": 20,
-  "tags": [
-    "graphs",
-    "greedy"
-  ],
+  "tags": ["graphs", "greedy"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 3

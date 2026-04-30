@@ -15,13 +15,7 @@
   "hint": "<p>The text with highest score is AAAAA. There are 4 occurrences of AA and 3 occurrences of AAA, which makes the score to be 4 * 10 + 3 * 30 = 130. Writing AAAAA requires 5 A each costs 2, thus the total cost is 10.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, ACM ICPC Asia Kuala Lumpur Regional Contest 2014",
   "level": 21,
-  "tags": [
-    "aho_corasick",
-    "data_structures",
-    "dp",
-    "trees",
-    "trie"
-  ],
+  "tags": ["aho_corasick", "data_structures", "dp", "trees", "trie"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.583299994468689

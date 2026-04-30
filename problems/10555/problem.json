@@ -19,13 +19,7 @@
   "hint": "<p>Clarification of the first example: In the beginning, we have the stack S0 = {}. In the first step, we copy S0 and place number 1 on top, so S1 = {1}. In the second step, we copy S1 and place 2 on top of it, S2 = {1, 2}. In the third step we copy S2 and remove number 2 from it, S3 = {1}. In the fourth step we copy S2 and denote the copy with S4, then count the numbers appearing in the newly created stack S4 and stack S3, the only such number is number 1 so the solution is 1. In the fifth step we copy S4 and remove number 2 from it, S5 = {1}.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #3",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "lca",
-    "sparse_table",
-    "stack",
-    "trees"
-  ],
+  "tags": ["data_structures", "lca", "sparse_table", "stack", "trees"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.076900005340576

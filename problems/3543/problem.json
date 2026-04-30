@@ -31,12 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2009",
   "level": 22,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "graphs"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "graphs"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

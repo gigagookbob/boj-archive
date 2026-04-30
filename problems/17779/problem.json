@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, rlaehdgus95",
   "level": 14,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 3964,
   "submission_count": null,
   "average_tries": 2.140500068664551

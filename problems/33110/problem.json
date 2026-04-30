@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2024",
   "level": 17,
-  "tags": [
-    "game_theory",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["game_theory", "math", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.875

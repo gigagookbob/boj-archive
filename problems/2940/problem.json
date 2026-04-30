@@ -23,10 +23,7 @@
   "hint": "<p>In the first example, there are only two children, labeled 1 and 2. The first child should end up with five cards, the second with one.</p>\n<p>After the first purchase, each of the children got one card.</p>\n<p>After the second and third purchases, the first child got both cards both times.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #6",
   "level": 19,
-  "tags": [
-    "flow",
-    "graphs"
-  ],
+  "tags": ["flow", "graphs"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.8333001136779785

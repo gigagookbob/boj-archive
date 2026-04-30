@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, Regional Competition - Juniors",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.9062999486923218

@@ -15,11 +15,7 @@
   "hint": "<p> </p>\n<p>In Sample Case #1, <code>JAMMICCODEEELZZZZZ</code> and <code>ZZZZZJAMMICCODEEEL</code> are the only two valid outputs.</p>\n<p>In Sample Case #2, recall that <i>all</i> towers must be used in the megatower, so even though the first five towers together would form a valid megatower (as in Sample Case #1), the additional <code>EEK</code> makes the case impossible. No matter how the <code>EEL</code> and <code>EEK</code> towers are stacked relative to each other, there will be at least two non-contiguous groups of <code>E</code>s.</p>\n<p>In Sample Case #3, no matter how you stack the towers, either the two <code>O</code>s are not contiguous or the two <code>Y</code>s are not contiguous.</p>\n<p>In Sample Case #4, there are non-<code>H</code> letters in between the <code>H</code>s of <code>HASH</code>, so this case is also impossible.</p>\n<p>In Sample Case #5, this answer is the only valid one. Also notice that the towers are not necessarily all distinct.</p>\n<p>In Sample Case #6, no matter how you stack the towers, the two <code>A</code>s cannot be contiguous.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Round 1C",
   "level": 15,
-  "tags": [
-    "implementation",
-    "graphs",
-    "string"
-  ],
+  "tags": ["implementation", "graphs", "string"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.871000051498413

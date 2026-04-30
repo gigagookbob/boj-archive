@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2008 Southeast USA Regional Programming Contest",
   "level": 15,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "line_intersection", "polygon_area"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3

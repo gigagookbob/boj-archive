@@ -15,11 +15,7 @@
   "hint": "<p>하나의 학교만 보트를 내보내는 방법은 모두 4가지가 있으며,</p>\n<p>두 학교가 모두 보트를 내보내는 방법은 3가지가 있어서, 답은 7이다</p>",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2016, goooora, onjo0127",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 3.157900094985962

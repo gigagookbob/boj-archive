@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 9: Carnegie Mellon U Contest, kyo20111",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "dp",
-    "multi_segtree",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "multi_segtree", "segtree"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 5.642899990081787

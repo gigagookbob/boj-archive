@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2002 in Kanazawa",
   "level": 14,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "implementation", "simulation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

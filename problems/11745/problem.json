@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2015",
   "level": 21,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "dfs"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 7.464300155639648

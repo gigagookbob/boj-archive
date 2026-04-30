@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2021, amsminn, st42597",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "knapsack",
-    "bipartite_graph"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "knapsack", "bipartite_graph"],
   "accepted_user_count": 172,
   "submission_count": null,
   "average_tries": 2.09879994392395

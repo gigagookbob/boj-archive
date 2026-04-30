@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2021 Rocky Mountain Regional Contest",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.4242000579833984

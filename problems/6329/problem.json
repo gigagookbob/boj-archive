@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Mid-Central European Regional Contest, MCERC 2000",
   "level": 16,
-  "tags": [
-    "dp",
-    "bitmask",
-    "game_theory",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "game_theory", "dp_bitfield"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.399999976158142

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2009, 중등부, kyo20111",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "dp",
-    "mitm"
-  ],
+  "tags": ["bitmask", "dp", "mitm"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.5473999977111816

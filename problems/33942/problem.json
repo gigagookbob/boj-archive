@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 경희대학교, 경희대학교 2025 봄 프로그래밍 경시대회 (KHSPC 2025), jwpassion1, minjunnick, nflight11, overnap, qvixnh22, tlsdydaud1, tony9402, yyyy7089",
   "level": 11,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.6606999635696411

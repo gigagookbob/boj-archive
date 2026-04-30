@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, Malaysia National Programming Contest, Al-Khawarizmi National Programming Contest 2013",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1803,
   "submission_count": null,
   "average_tries": 1.3122999668121338

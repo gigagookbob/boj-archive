@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 2",
   "level": 21,
-  "tags": [
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "mcmf", "graphs"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.368399977684021

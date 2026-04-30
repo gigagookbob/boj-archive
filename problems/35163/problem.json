@@ -15,13 +15,7 @@
   "hint": "<p>$20\\, 070\\, 817$는 출제자인 <code>austin0817</code>의 생일에서 가져왔다.</p>\r\n",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, austin0817, foxpython, cywohoy, dong0625, ezh8n, kidw0124, sshs29hanul, tlsdydaud1, utilforever",
   "level": 19,
-  "tags": [
-    "graphs",
-    "case_work",
-    "shortest_path",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "case_work", "shortest_path", "flow", "mfmc"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.3529000282287598

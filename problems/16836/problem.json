@@ -27,11 +27,7 @@
   "hint": "<p>In the last example, the input array is already sorted, which means the input is already a 3-roughly sorted array and no swapping is needed.</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2018 Day 3",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

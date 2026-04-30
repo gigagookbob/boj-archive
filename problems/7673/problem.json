@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2007",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["data_structures", "disjoint_set", "graphs", "trees"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

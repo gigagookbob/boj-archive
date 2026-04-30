@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2022 부산대학교 CodeRace, whquddn55, chansol, jh05013, lky7674, tony9402",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "disjoint_set", "offline_queries"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.6865999698638916

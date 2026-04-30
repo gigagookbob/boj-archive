@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2025",
   "level": 15,
-  "tags": [
-    "dp",
-    "greedy",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "trees", "dp_tree"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1175999641418457

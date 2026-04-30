@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, March 27, 2016",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "priority_queue", "sorting", "two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

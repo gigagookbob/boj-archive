@@ -23,12 +23,7 @@
   "hint": null,
   "source": "jwvg0425, chansol, Green55, jhnah917, jthis, kyo20111",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum",
-    "sweeping",
-    "coordinate_compression"
-  ],
+  "tags": ["bruteforcing", "prefix_sum", "sweeping", "coordinate_compression"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.2609000205993652

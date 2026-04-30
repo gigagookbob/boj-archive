@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2015: Anniversary",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic",
-    "physics"
-  ],
+  "tags": ["math", "arithmetic", "physics"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 1.8976000547409058

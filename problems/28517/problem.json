@@ -23,9 +23,7 @@
   "hint": "<p>Ниже приведены иллюстрации к тестовым примерам.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 768px; height: 209px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, October 9, 2022, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, October 9, 2022, Advanced",
   "level": 9,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.066699981689453

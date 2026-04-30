@@ -23,11 +23,7 @@
   "hint": "<p>$N$의 값이 0일 수 있음에 유의하여라.</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2017 KAIST RUN Spring Contest (HYEA Cup), ho94949",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic",
-    "combinatorics"
-  ],
+  "tags": ["math", "arithmetic", "combinatorics"],
   "accepted_user_count": 522,
   "submission_count": null,
   "average_tries": 2.4482998847961426

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2022, rasauq1122, 39dll, akim9905, deuslovelt, eaststar, jthis, leeh18, tony9402",
   "level": 14,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 5.192299842834473

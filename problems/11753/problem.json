@@ -39,10 +39,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2015 in Tsukuba, functionx",
   "level": 20,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.8547999858856201

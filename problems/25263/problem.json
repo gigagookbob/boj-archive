@@ -19,11 +19,7 @@
   "hint": "<p>The following picture shows the first example:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 162px; height: 89px;\"/></p>\n<p>The first digit of the output is $1$ since it is possible that all islanders now prefer the tie color that village $1$ preferred initially. This could happen as follows: In the first week, village $1$ convinces village $2$ that their tie color is better. After that, there are four people who prefer the tie color of village $1$. Therefore, village $1$ can now convince village $3$ of their tie color, and if afterwards village $3$ convinces village $4$, everybody prefers the tie color that village $1$ preferred initially.</p>\n<p>The last digit of the output is $0$ since it is impossible that village $4$ convinces anyone of their tie color. This is because village $4$ is only connected to village $3$, but village $3$ has more inhabitants.</p>\n<p>Note that the second example is a valid test case for the second subtask.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2022",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "disjoint_set", "smaller_to_larger"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.1723999977111816

@@ -19,11 +19,7 @@
   "hint": "<p>In the first example the first two students can cheat after which the scores becomes 2,2,3 and they both pass the exam.</p>\n<p>In the second example students 2 and 3 can pass the exam but not both at the same time. Note that this test can’t be present in subtasks 2,3 or 4.</p>",
   "source": ", Olympiad, European Junior Olympiad in Informatics, eJOI 2020",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lis"
-  ],
+  "tags": ["data_structures", "segtree", "lis"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.9375

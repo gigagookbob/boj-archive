@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 1C",
   "level": 11,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.263200044631958

@@ -23,9 +23,7 @@
   "hint": "<p>Первый пример:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 160px; height: 161px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 9, 2010, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 9, 2010, Advanced",
   "level": 7,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.1785999536514282

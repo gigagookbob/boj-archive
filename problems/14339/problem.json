@@ -15,14 +15,7 @@
   "hint": "<p>Note that sample cases 5 through 8 would not appear in the Small dataset.</p>\n<p>In sample case 1, the matches in range are 1, 10, 100, and 1000.</p>\n<p>In sample case 2, the match in range is 379009.</p>\n<p>In sample case 3, the matches in range are 12, 34, 1212, 1234, and 3434.</p>\n<p>In sample case 4, there are no matches in range.</p>\n<p>In sample case 5, the matches in range are 1, 10, 11, and 100.</p>\n<p>In sample case 6, the matches in range are 23 and 45.</p>\n<p>In sample case 7, it is possible to form any number in the range.</p>\n<p>In sample case 8, the matches in range are 1, 19, 156, 179, 189, and 199.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, World Finals",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "dp",
-    "hash_set",
-    "parsing",
-    "string",
-    "set"
-  ],
+  "tags": ["data_structures", "dp", "hash_set", "parsing", "string", "set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2999999523162842

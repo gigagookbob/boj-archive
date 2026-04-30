@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2015",
   "level": 25,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "fft"
-  ],
+  "tags": ["math", "implementation", "geometry", "fft"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.407399892807007

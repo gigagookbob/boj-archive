@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample there are $n=7$ seats. There will be $4$ players in total, i.e., Julia and three guests. Julia takes a seat on machine $3$. Her first guest will choose machine $7$ as this machine is maximally far away from Julia. Her second guest will either choose machine $1$ or $5$ as both are equally secluded from the other players. Regardless of this choice, the last guest will choose the other of these two machines in both cases. In the end, machines $1$, $3$, $5$, and $7$ are occupied and there is one empty machine between any two neighbouring players.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2021",
   "level": 13,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.1321001052856445

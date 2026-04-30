@@ -19,13 +19,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "hash_set", "tree_set"],
   "accepted_user_count": 2748,
   "submission_count": null,
   "average_tries": 2.69320011138916

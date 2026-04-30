@@ -15,10 +15,7 @@
   "hint": "<p>We use combinations of the letters <b>N,E,S,W,b</b> to abbreviate the names of the compass points. For example, <b>NEbE</b> stands for <i>north-east by east</i>. The 32 points are equally spaced about the compass. Clockwise, they are: <b>N NbE NNE NEbN NE NEbE ENE EbN E EbS ESE SEbE SE SEbS SSE SbE S SbW SSW SWbS SW SWbW WSW WbS W WbN WNW NWbW NW NWbN NNW NbW.</b></p>",
   "source": ", Contest, Waterloo's local Programming Contests, 20 September, 2003",
   "level": 17,
-  "tags": [
-    "geometry",
-    "math"
-  ],
+  "tags": ["geometry", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

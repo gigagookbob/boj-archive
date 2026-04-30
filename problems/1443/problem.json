@@ -43,12 +43,7 @@
   "hint": null,
   "source": "baekjoon, ho94949",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "set",
-    "backtracking"
-  ],
+  "tags": ["data_structures", "bruteforcing", "set", "backtracking"],
   "accepted_user_count": 343,
   "submission_count": null,
   "average_tries": 2.352799892425537

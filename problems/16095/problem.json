@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 184px; height: 93px;\"/></p>\n<p style=\"text-align: center;\">Figure 1: Illustration of the solution of the Sample Input</p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, Télécom ParisTech Internal Selection, Concours interne de programmation Télécom ParisTech 2017",
   "level": 15,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "parametric_search",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "binary_search", "parametric_search", "bipartite_graph"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.8333001136779785

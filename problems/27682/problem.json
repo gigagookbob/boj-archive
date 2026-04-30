@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, we keep pressing backspace until we delete the typo. In the second test case, it’s faster to press enter immediately, receive an error message and begin anew from an empty prompt.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2014",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "case_work"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.6756999492645264

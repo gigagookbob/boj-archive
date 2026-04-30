@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division, hjroh0315, dhyang24, quickn, utilforever",
   "level": 25,
-  "tags": [
-    "flow",
-    "graphs",
-    "math",
-    "mcmf"
-  ],
+  "tags": ["flow", "graphs", "math", "mcmf"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.666700005531311

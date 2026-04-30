@@ -15,11 +15,7 @@
   "hint": "<p>To push the box to the position (3, 5), the cow just needs to move 3 spaces to the right.</p>\n<p>None of the other three positions are attainable.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2017 December Contest, Platinum",
   "level": 23,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bcc"
-  ],
+  "tags": ["graphs", "graph_traversal", "bcc"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 4.94290018081665

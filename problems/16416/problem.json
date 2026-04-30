@@ -23,10 +23,7 @@
   "hint": "<p>In the first example, a can be retained with 2 dabs:</p>\n<pre>\na#\n#a</pre>\n<p>And b can be retained with 2 dabs:</p>\n<pre>\n#b\nb#</pre>\n<p>So, both a and b can be retained with 2 dabs, just not at the same time.</p>",
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2018 Southeast USA Regional Programming Contest, Division 1",
   "level": 22,
-  "tags": [
-    "flow",
-    "graphs"
-  ],
+  "tags": ["flow", "graphs"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

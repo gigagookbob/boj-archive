@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2024 Fall Automata 상현컵, jish0218, eric00513, ksha123, nymets08, raehwan0418",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "knapsack", "traceback"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.8889000415802

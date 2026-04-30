@@ -15,14 +15,7 @@
   "hint": null,
   "source": "author6, bluespace, baactree, ansol4328, h0ngjun7, Lawali, makerdark98, paldad, ruz, BaaaaaaaaaaarkingDog, jh05013",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "trees",
-    "mst",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "graphs", "trees", "mst", "lca", "sparse_table"],
   "accepted_user_count": 848,
   "submission_count": null,
   "average_tries": 6.3632001876831055

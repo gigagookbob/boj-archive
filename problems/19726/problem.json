@@ -19,12 +19,7 @@
   "hint": "<p>In the second example, you can print any permutation of $1$, $2$ and $3$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2019",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "graphs",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "constructive", "graphs", "implementation"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.407399892807007

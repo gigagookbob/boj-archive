@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 양갈래컵, 제 1회 양갈래컵, iseol421, amylo, ibm2006, index, jyheo98, martinok1103, mingyu331, mymasterpark2, naeby, pretty_pi, sksms1375",
   "level": 5,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 478,
   "submission_count": null,
   "average_tries": 1.6674000024795532

@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 3 fields, at locations (0,2), (5,0), and (4,3).  The contractor will only install pipes of cost at least 11.</p><h4>Output Details</h4><p>FJ cannot build a pipe between the fields at (4,3) and (5,0), since its cost would be only 10.  He therefore builds a pipe between (0,2) and (5,0) at cost 29, and a pipe between (0,2) and (4,3) at cost 17.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO March 2014 Contest, Silver",
   "level": 13,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 919,
   "submission_count": null,
   "average_tries": 3.735599994659424

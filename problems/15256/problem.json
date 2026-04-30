@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2017: Olympics",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.5606000423431396

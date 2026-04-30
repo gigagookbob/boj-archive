@@ -15,11 +15,7 @@
   "hint": "<p>For the first test case, swapping the $1$ at the seventh position with the $3$ in the next position results in $4$ $2$ $3$ $4$ $1$ $2$ $3$ $1$, and then swapping the $1$ at the eighth position with the $4$ at the first position results in $1$ $2$ $3$ $4$ $1$ $2$ $3$ $4$. After these two swaps, all the pairs of lunch boxes at the direct opposite seats are of the same type. Since the goal cannot be achieved with a single swap, the answer is $2$.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2025 Japan Domestic Contest",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "invariant"
-  ],
+  "tags": ["data_structures", "segtree", "invariant"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

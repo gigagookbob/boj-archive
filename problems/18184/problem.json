@@ -27,11 +27,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2019 송년대회, yclock",
   "level": 17,
-  "tags": [
-    "math",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["math", "constructive", "bitmask"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 2.015199899673462

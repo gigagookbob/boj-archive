@@ -15,11 +15,7 @@
   "hint": "<p>(1,5)-(2,6), (2,4)-(3,5), (1,1)-(3,3) 모두가 킬러이고 이 중 (1,1)-(3,3)이 크기가 3으로 가장 크다.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #1, 3587jjh",
   "level": 18,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "hashing"
-  ],
+  "tags": ["dp", "bruteforcing", "hashing"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 2.8768999576568604

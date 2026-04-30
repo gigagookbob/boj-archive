@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2015: German Reunification",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "geometry", "arithmetic"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 1.3214000463485718

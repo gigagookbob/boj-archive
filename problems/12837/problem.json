@@ -15,10 +15,7 @@
   "hint": null,
   "source": "doju",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 2703,
   "submission_count": null,
   "average_tries": 2.2172000408172607

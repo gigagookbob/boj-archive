@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Beginner Division, yjinpark, chansol, dksu40, ingyu1008, jhnah917, thak00, tony9402",
   "level": 10,
-  "tags": [
-    "implementation",
-    "simulation",
-    "case_work"
-  ],
+  "tags": ["implementation", "simulation", "case_work"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 2.664299964904785

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCCC 벚꽃맞이 컨테스트, wookje, pichulia, alex9801",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["math", "implementation", "prefix_sum"],
   "accepted_user_count": 645,
   "submission_count": null,
   "average_tries": 2.074399948120117

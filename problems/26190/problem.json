@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2022",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "euclidean"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 7.433300018310547

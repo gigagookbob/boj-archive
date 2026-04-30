@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2005, Regional Competition - Seniors, topology",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "simulation"],
   "accepted_user_count": 327,
   "submission_count": null,
   "average_tries": 2.4312000274658203

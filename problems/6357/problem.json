@@ -15,13 +15,7 @@
   "hint": "<p>You need to determine the end of one line.In order to make it's easy to determine,there are no extra blank before the end of each line.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1996",
   "level": 11,
-  "tags": [
-    "bfs",
-    "bruteforcing",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "bruteforcing", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.6332999467849731

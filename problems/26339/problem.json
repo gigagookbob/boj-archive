@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2012 Local Programming Contest",
   "level": 12,
-  "tags": [
-    "implementation",
-    "dp",
-    "trees",
-    "simulation",
-    "dp_tree"
-  ],
+  "tags": ["implementation", "dp", "trees", "simulation", "dp_tree"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

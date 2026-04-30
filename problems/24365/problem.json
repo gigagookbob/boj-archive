@@ -15,10 +15,7 @@
   "hint": "<p>Обяснение на примера: От най-дясното цвете 3 пчели ще се преместят на найлявото и тогава на всяко цвете ще има по 3 пчели. Всяка от пчелите, които се преместват, ще прелети по 2 метра. Следователно общият брой прелетени метри ще са 6.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2015, Group E",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 1072,
   "submission_count": null,
   "average_tries": 1.495300054550171

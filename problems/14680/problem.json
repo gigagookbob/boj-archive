@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2017 SCCC Summer Contest, skdudn321",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "linear_algebra"
-  ],
+  "tags": ["math", "implementation", "linear_algebra"],
   "accepted_user_count": 207,
   "submission_count": null,
   "average_tries": 2.879199981689453

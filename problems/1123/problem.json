@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, dotorya, portableangel",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "graphs", "exponentiation_by_squaring"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.983599901199341

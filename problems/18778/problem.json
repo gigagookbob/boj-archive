@@ -15,9 +15,7 @@
   "hint": "<p>There are three cows, and they form an equilateral triple because the Manhattan\ndistance between each pair of cows is equal to two.\n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 February Contest, Platinum",
   "level": 20,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.142899990081787

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, djm03178, doju, ganghe74, alex9801, myungwoo, rim",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "bellman_ford"],
   "accepted_user_count": 14208,
   "submission_count": null,
   "average_tries": 3.6538000106811523

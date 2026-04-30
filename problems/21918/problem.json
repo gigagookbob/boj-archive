@@ -19,10 +19,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 2252,
   "submission_count": null,
   "average_tries": 1.7259999513626099

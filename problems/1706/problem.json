@@ -15,12 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "sorting", "parsing"],
   "accepted_user_count": 1278,
   "submission_count": null,
   "average_tries": 1.909999966621399

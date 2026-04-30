@@ -19,12 +19,7 @@
   "hint": "<p>In the first sample Son Halo can move the second spaceship in the position between the first and the third to solve the problem while keeping 3 other ships at their initial positions.</p>\n<p>In the second sample there are no rope intersections, so all 4 ships can be left at their initial positions.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2014",
   "level": 20,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["dp", "ad_hoc", "binary_search", "lis"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.892899990081787

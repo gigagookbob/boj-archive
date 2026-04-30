@@ -15,10 +15,7 @@
   "hint": "<p>The permutations of size 3 which have 2 inversions are 2, 3, 1 and 3, 1, 2.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2007",
   "level": 16,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.90910005569458

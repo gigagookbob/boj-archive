@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2002",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.2414000034332275

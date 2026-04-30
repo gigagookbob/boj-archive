@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2021",
   "level": 12,
-  "tags": [
-    "dp",
-    "greedy",
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["dp", "greedy", "string", "two_pointer"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2009",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "min_enclosing_circle"
-  ],
+  "tags": ["math", "geometry", "min_enclosing_circle"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.7142999172210693

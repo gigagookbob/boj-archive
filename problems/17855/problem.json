@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2019 East Central Regional Contest",
   "level": 21,
-  "tags": [
-    "geometry",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["geometry", "implementation", "simulation"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

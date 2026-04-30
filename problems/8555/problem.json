@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2002.11",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "implementation"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "implementation"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

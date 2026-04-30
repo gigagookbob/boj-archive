@@ -27,12 +27,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2025 중앙대학교 프로그래밍 경진대회 (CPC), sksms1375, asdarwin03, dkvltmxhf, halin, jinhan814, jk410, kevinlys00, mujigae, nflight11, qvixnh22, tony9402, utilforever, wapas, yup0927",
   "level": 11,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "parametric_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "prefix_sum", "parametric_search", "two_pointer"],
   "accepted_user_count": 185,
   "submission_count": null,
   "average_tries": 2.464900016784668

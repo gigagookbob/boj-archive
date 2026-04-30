@@ -15,10 +15,7 @@
   "hint": "<p><b>Wyjaśnienie do przykładu:</b> W powyższym przykładzie tygrysy o rozmiarach $28$, $18$, $15$ mogą występować na wybiegu number $1$, zaś tygrysy o rozmiarach $10$, $8$ mogą zostać pokazane na wybiegu numer $2$.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2011, Stage 3",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.8667000532150269

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2019 Sogang Programming Contest, Master, semteo04, cozyyg, jh05013, shiftpsh",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 1044,
   "submission_count": null,
   "average_tries": 2.2279999256134033

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 정보 알고리즘경시대회, 2020 선린 정보 알고리즘경시대회, junie",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "binary_search",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "binary_search", "set", "tree_set"],
   "accepted_user_count": 440,
   "submission_count": null,
   "average_tries": 2.7181999683380127

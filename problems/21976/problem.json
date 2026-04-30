@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2021",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "lazyprop",
-    "hashing"
-  ],
+  "tags": ["data_structures", "segtree", "set", "lazyprop", "hashing"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.899999976158142

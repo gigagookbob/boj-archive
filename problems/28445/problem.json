@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 제1회 하이콘, dicohy27, Green55, gs18115, pjshwa, tolelom",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "data_structures", "string", "sorting"],
   "accepted_user_count": 974,
   "submission_count": null,
   "average_tries": 1.2289999723434448

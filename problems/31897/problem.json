@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2022, ICPC, World Finals, ICPC World Finals 2023",
   "level": 15,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "linear_algebra"
-  ],
+  "tags": ["math", "ad_hoc", "linear_algebra"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.4565000534057617

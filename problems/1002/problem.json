@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, baemin0103, koyh1200, doju",
   "level": 8,
-  "tags": [
-    "math",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["math", "geometry", "case_work"],
   "accepted_user_count": 45367,
   "submission_count": null,
   "average_tries": 4.273600101470947

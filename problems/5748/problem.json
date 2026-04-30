@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2006",
   "level": 16,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "greedy"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4

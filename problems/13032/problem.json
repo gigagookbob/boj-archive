@@ -19,10 +19,7 @@
   "hint": "<p>Sample1: 좌표 9에 파괴력이 2인 즉석폭탄을 설치하면 불발폭탄은 하나만 생긴다.</p>\n<p>Sample2: 좌표 1337에 파괴력이 42인 즉석폭탄을 설치하면 불발폭탄은 세개만 생긴다.</p>",
   "source": null,
   "level": 12,
-  "tags": [
-    "dp",
-    "binary_search"
-  ],
+  "tags": ["dp", "binary_search"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.323499917984009

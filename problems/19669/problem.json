@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), Qualification, NOI 2020 Qualification",
   "level": 19,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy",
-    "trees"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "greedy", "trees"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.6296000480651855

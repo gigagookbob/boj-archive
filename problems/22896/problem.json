@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, you can purchase tickets with the integers 4 and 8 on them and then win if 4,5,8,9, or 10 are chosen giving you 5/10=0.5 probability of winning. Purchasing tickets with the integers 6 and 8 on them also yields a 0.5 probability of winning, but no combination yields more.</p>\n<p>In Sample Case #2, 6 and 8 is a possible optimal pair of tickets, which wins when c is one of 6,8,9, or 10. Note that the integers on the tickets are not necessarily given in sorted order.</p>\n<p>In Sample Case #3, every possible c is at distance 0 from an already purchased ticket, so you cannot win regardless of your choices.</p>\n<p>In Sample Case #4, if you pick 3 for at least one of your tickets, you win on c=3, for 1/4=0.25 win probability. There is no way to win when c is any other integer, so that is the best you can do.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 1C",
   "level": 13,
-  "tags": [
-    "greedy",
-    "math",
-    "probability",
-    "sorting"
-  ],
+  "tags": ["greedy", "math", "probability", "sorting"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.6512000560760498

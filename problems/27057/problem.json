@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO March 2003 Contest, Orange",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.9677000045776367

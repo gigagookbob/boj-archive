@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2020 December Contest, Silver",
   "level": 13,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "trees"],
   "accepted_user_count": 299,
   "submission_count": null,
   "average_tries": 2.277600049972534

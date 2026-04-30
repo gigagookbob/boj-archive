@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2019",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "dp",
-    "implementation",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "implementation", "lazyprop", "segtree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

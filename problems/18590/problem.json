@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 1: Songyang Chen Contest 2",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "maximum_subarray"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "maximum_subarray"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 1.7653000354766846

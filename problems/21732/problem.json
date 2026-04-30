@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, IDTcup, 제 3회 IDTcup, Diuven, aeren, whqkrkt04",
   "level": 19,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.3478000164031982

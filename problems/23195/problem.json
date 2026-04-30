@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2020",
   "level": 20,
-  "tags": [
-    "greedy",
-    "string",
-    "manacher"
-  ],
+  "tags": ["greedy", "string", "manacher"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.6943999528884888

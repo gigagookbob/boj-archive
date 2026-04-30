@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제 입력에서 충전을 위해 방문하는 충전소는 $A_i = 3$ 지점의 충전소와 $A_i = 6$ 지점의 충전소이다.</p>",
   "source": "riroan, aru0504, hjroh0315, kth990303, pjshwa, tony9402, utilforever",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 2.3705999851226807

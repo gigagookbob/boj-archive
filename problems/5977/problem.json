@@ -15,13 +15,7 @@
   "hint": "<p>FJ has 5 cows whose efficiencies are 1, 2, 3, 4, and 5, in that order. He wants to choose some of the cows such that their total efficiency is maximized, but he cannot choose more than 2 consecutive cows.</p>\n<p>FJ chooses all cows but the third. The total efficiency of the cows is thus 1 + 2 + 4 + 5 = 12.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO US Open 2011 Contest, Gold, portableangel",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "dp_deque"
-  ],
+  "tags": ["dp", "data_structures", "deque", "deque_trick", "dp_deque"],
   "accepted_user_count": 693,
   "submission_count": null,
   "average_tries": 2.7446000576019287

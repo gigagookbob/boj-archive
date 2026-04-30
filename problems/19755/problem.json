@@ -19,11 +19,7 @@
   "hint": "<p>В первом примере номера будут написаны на ступеньках 1, 10, 20; во втором --- 1, 10, 20, 23.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2016",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.0833001136779785

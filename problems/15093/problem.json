@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2017 East Central Regional Contest",
   "level": 18,
-  "tags": [
-    "arithmetic",
-    "bruteforcing",
-    "dp",
-    "implementation",
-    "math"
-  ],
+  "tags": ["arithmetic", "bruteforcing", "dp", "implementation", "math"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.3157999515533447

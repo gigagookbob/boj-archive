@@ -15,9 +15,7 @@
   "hint": "<p>В примере:</p>\n<ul>\n<li>число $2$ можно представить в виде произведения чисел Фибоначчи единственным способом $2 = 2$;</li>\n<li>число $7$ нельзя представить в виде произведения чисел Фибоначчи;</li>\n<li>число $8$ можно представить двумя способами: $8 = 2 \\cdot 2 \\cdot 2$ и $8 = 8$;</li>\n<li>число $40$ можно представить двумя способами: $40 = 2 \\cdot 2 \\cdot 2 · 5$ и $40 = 5 \\cdot 8$.</li>\n</ul>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2023",
   "level": 12,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.5

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2014",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation",
-    "bitmask"
-  ],
+  "tags": ["math", "implementation", "simulation", "bitmask"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.5217000246047974

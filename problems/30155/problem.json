@@ -15,9 +15,7 @@
   "hint": "<p>In the first test case, f(3) = 7, and so that is the output.</p>\n<p>In the second test case, f(3) = -6 and the answer modulo 10<sup>9</sup>+7 is 1000000001.</p>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2015 ACM-ICPC Asia Chennai Regional Contest",
   "level": 8,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 3

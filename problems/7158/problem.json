@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 테스트 케이스는 문제의 그림과 같은 트리이다.</p>\r\n",
   "source": "University, North American Invitational Programming Contest, UCIPC 2013, baekjoon",
   "level": 24,
-  "tags": [
-    "hashing",
-    "trees"
-  ],
+  "tags": ["hashing", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.3333001136779785

@@ -15,10 +15,7 @@
   "hint": "<p>For the first test case, under optimal play,</p>\n<ol>\n<li>Bessie will stack the middle two cakes. The cakes now have sizes $[40,50,10]$.</li>\n<li>Elsie will eat the leftmost cake. The remaining cakes now have sizes $[50,10]$.</li>\n<li>Bessie stacks the remaining two cakes.</li>\n</ol>\n<p>Bessie will eat $30+20+10=60$ cake, while Elsie will eat $40$ cake.</p>\n<p>The second test case is the reverse of the first, so the answer is the same.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2024 December Contest, Silver",
   "level": 14,
-  "tags": [
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["prefix_sum", "game_theory"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 1.6907999515533447

@@ -15,9 +15,7 @@
   "hint": "<p>1つ目のデータセットではAliceは次のように動くことでコマを脱出させられる。</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 236px; height: 246px;\"/></p>\n<ol>\n<li>初期状態</li>\n<li>Aliceがコマを左に動かす</li>\n<li>Bobは脱出を阻止するために壁を反転させる</li>\n<li>Aliceがコマを上に動かす</li>\n</ol>\n<p>Bobが次の手番で壁の有無を反転させてもさせなくても、 Aliceは次の手番でコマを脱出させられる。</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2015",
   "level": 0,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

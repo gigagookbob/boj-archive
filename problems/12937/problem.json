@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 23,
-  "tags": [
-    "berlekamp_massey",
-    "dp",
-    "math"
-  ],
+  "tags": ["berlekamp_massey", "dp", "math"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.238100051879883

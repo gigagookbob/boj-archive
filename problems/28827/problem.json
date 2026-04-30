@@ -19,11 +19,7 @@
   "hint": "<p>Пояснение к первому тесту, штрихованным отмечены части, которые нужно выкопать:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 149px; height: 175px;\"/></p>\n<p>Пояснение ко второму тесту:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 150px; height: 200px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 24, 2018, Advanced",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "prefix_sum", "parametric_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

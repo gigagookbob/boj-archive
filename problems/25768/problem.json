@@ -15,9 +15,7 @@
   "hint": "<p>Boards from the first test are shown on pictures below. Rows correspond to $x$ coordinates, columns correspond to $y$ coordinates.</p>\n<table class=\"table table-bordered td-center td-middle\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 280px; height: 291px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 356px; height: 362px;\"/></td>\n</tr>\n<tr>\n<td>Board from the first game.</td>\n<td>Board from the second game.</td>\n</tr>\n</tbody>\n</table>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 7: HSE Koresha Contest",
   "level": 23,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 12

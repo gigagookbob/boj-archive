@@ -15,13 +15,7 @@
   "hint": "<p>下の図の例では, 10 本の柱があり, 座標 (4, 2),(5, 2),(5, 3),(4, 3) にある 4 本と座 標 (1, 1),(4, 0),(5, 3),(2, 4) にある 4 本が正方形をなしている. 面積が最大の正方形 は後者で, その面積は 10 である.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 265px; height: 243px;\"/></p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2006/2007",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "geometry",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "geometry", "set", "hash_set"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.3636000156402588

@@ -15,12 +15,7 @@
   "hint": "<p>The six possible orderings at check-out, sorted in (increasing) alphabetical order, are:</p>\n<ol>\n<li>ANT ANTILOPE CAT CAT CAT ANT</li>\n<li>ANT CAT ANTILOPE CAT CAT ANT</li>\n<li>ANT CAT CAT ANTILOPE CAT ANT</li>\n<li>ANT CAT CAT CAT ANT ANTILOPE</li>\n<li>ANT CAT CAT CAT ANTILOPE ANT</li>\n<li>ANTILOPE ANT CAT CAT CAT ANT</li>\n</ol>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019",
   "level": 20,
-  "tags": [
-    "dag",
-    "graphs",
-    "greedy",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "greedy", "topological_sorting"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.733299970626831

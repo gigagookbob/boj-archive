@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2011, 79brue, baekjoon",
   "level": 24,
-  "tags": [
-    "math",
-    "implementation",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "constructive", "case_work"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.3157999515533447

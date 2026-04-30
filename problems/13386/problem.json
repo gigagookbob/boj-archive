@@ -15,13 +15,7 @@
   "hint": "<p>Explanation of Sample Output: The first two 1s indicate that there are 2 trees that are not similar to any other trees. The next number (2) indicates that there are two trees that are similar to each other. Finally, the number 3 indicates that there are three trees that are similar to each other. Notice that the counts of similar trees are listed in increasing order and they sum to 7, which is the total of number given trees.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2015 ACM-ICPC Thailand National Programming Contest",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "trees",
-    "set",
-    "hash_set",
-    "tree_isomorphism"
-  ],
+  "tags": ["data_structures", "trees", "set", "hash_set", "tree_isomorphism"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.6666998863220215

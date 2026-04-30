@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 09., bnb2011, chogahui05, heeda0528, lky7674, pjshwa, utilforever",
   "level": 16,
-  "tags": [
-    "greedy",
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["greedy", "prefix_sum", "difference_array"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.397700071334839

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 동래고등학교, 2022 동래고등학교 정보과학 문제해결 대회, chansol, lluudev, chogahui05, mjhmjh1104, tlsdydaud1, tony9402",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 3.113600015640259

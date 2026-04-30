@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2010 Round One",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "probability"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.7691999673843384

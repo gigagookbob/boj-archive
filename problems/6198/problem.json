@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO November 2006 Contest, Silver, skynet, twinparadox, vl0612, jh05013",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 8719,
   "submission_count": null,
   "average_tries": 2.77810001373291

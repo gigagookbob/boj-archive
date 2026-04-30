@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 332px; height: 232px;\"/></p>\n<p>Stack on the position (2, 2) is not visible and tiles (2, 3), (3, 3) and (3, 4) have no books on it.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2007",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.40910005569458

@@ -31,10 +31,7 @@
   "hint": null,
   "source": "sait2000, 79brue, kyo20111",
   "level": 14,
-  "tags": [
-    "dp",
-    "binary_search"
-  ],
+  "tags": ["dp", "binary_search"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 3.535099983215332

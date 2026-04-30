@@ -15,10 +15,7 @@
   "hint": "<p>The game ends in a finite number of steps because:</p>\n<ol>\n<li>The maximum candy count can never increase.</li>\n<li>The minimum candy count can never decrease.</li>\n<li>No one with more than the minimum amount will ever decrease to the minimum.</li>\n<li>If the maximum and minimum candy count are not the same, at least one student with the minimum amount must have their count increase</li>\n</ol>",
   "source": "ICPC, Regionals, North America, Greater New York Region, 2003 Greater New York Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.2674000263214111

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제4회 보라매컵, serin, amel, kaorin, moonrabbit2, prarie",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["bruteforcing", "ad_hoc"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.81820011138916

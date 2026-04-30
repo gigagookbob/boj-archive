@@ -15,10 +15,7 @@
   "hint": "<p>The first two test cases could appear in the easy input file <code>a1.in</code>, the other two could only appear in the hard input file <code>a2.in</code>.</p>\n<p>One optimal arrangement of digits for each example test case: 10+0, 71+5, 1+2, and 44444+4.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2015",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 209,
   "submission_count": null,
   "average_tries": 1.621999979019165

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2018 송년대회, rkm0959",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "invariant"
-  ],
+  "tags": ["ad_hoc", "constructive", "invariant"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.9595000743865967

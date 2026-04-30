@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2005/2006, Stage 3",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "kmp",
-    "string"
-  ],
+  "tags": ["data_structures", "kmp", "string"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 4.823500156402588

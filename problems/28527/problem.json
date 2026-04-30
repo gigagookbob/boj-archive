@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, October 9, 2022, Advanced",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.3125

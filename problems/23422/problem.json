@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, all packs are already placed in Stepan's favorite order, so there's nothing to do here.</p>\n<p>In the second example, the row 4 is empty, and the packs that should be there have been placed in the rows 5 and 6. The first seven operations of the plan pick the packs of the type 3 from the row 6. Note that this pack is the most distant, so to pick it, the preceding three packs must be picked first. These packs are placed to the row 7 in reverse order; upon the removal of the desired pack of the type 3, they are placed back in the right order. The remaining six operations move two packs of the type 3 from the row 5 to the row 4. This shifts a pack of the type 4 further in this row.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 4: Grand Prix of Eurasia",
   "level": 18,
-  "tags": [
-    "sorting",
-    "constructive",
-    "divide_and_conquer"
-  ],
+  "tags": ["sorting", "constructive", "divide_and_conquer"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

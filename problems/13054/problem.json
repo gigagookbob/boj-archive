@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2016",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["binary_search", "dp", "dp_tree", "trees"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.0525999069213867

@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, January 28, 2017",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.38100004196167

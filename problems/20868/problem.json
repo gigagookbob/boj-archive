@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2018, Final",
   "level": 7,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.3870999813079834

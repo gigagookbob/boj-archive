@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2017 SCCC Summer Contest, skdudn321, vc0612",
   "level": 11,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "ad_hoc", "parity"],
   "accepted_user_count": 315,
   "submission_count": null,
   "average_tries": 2.3492000102996826

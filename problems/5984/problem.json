@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO US Open 2011 Contest, Bronze",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 148,
   "submission_count": null,
   "average_tries": 2.2634999752044678

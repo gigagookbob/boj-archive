@@ -15,9 +15,7 @@
   "hint": "<p>Bessie’s net starts at a size of 7. After she captures the first group of snakes, she changes her net to a size of 9 and keeps that size until the 4th group of snakes, when she changes her net to size 3. The total wasted space is $(7-7) + (9-9) + (9-8) + (3-2) + (3-3) + (3-2) = 3.$</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 US Open Contest, Gold",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 1.527400016784668

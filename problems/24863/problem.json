@@ -23,11 +23,7 @@
   "hint": "<p>In the first sample Katya can win, if she first names the letter \"<code>l</code>\". Seeing the opened letters, she can determine he hidden word.</p>\n<p>In the third sample for all Katya's strategies there is a risk of naming a wrong letter and loosing the turn.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2021",
   "level": 16,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "constructive"
-  ],
+  "tags": ["string", "bruteforcing", "constructive"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4.428599834442139

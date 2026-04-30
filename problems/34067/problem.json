@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2025, Day 1",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "segtree"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

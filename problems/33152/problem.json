@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2024, Contest, University, 경인지역 대학 연합, shake! 2024, Open Contest, akim9905, bnb2011, Coxie, hamuim, ibm2006, jk410, lky7674, overnap, pani, rustiebeats, shjohw12, swoon, tlsdydaud1, utilforever",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 3.440700054168701

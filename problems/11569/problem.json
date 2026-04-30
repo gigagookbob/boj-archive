@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2015 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2015 Sogang Programming Contest, Champion, Nada",
   "level": 17,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 5.380000114440918

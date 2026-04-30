@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2014, 고등부, Olympiad, 한국정보올림피아드, KOI 2014, 중등부, baekjoon",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "set",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "set", "euclidean"],
   "accepted_user_count": 1936,
   "submission_count": null,
   "average_tries": 2.666800022125244

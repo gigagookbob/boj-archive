@@ -15,12 +15,7 @@
   "hint": "<p>In the first case, the large sculpture has five spheres connected in a line, and the small sculpture has one sphere that has three other spheres connected to it. There's no way the smaller sculpture could have been made by removing things from the larger one.</p>\n<p>In the second case, the small sculpture is four spheres connected in a line. These can match the larger sculpture's spheres in the order 2-1-4-5.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, APAC Semifinal",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "bipartite_matching"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "bipartite_matching"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.7647000551223755

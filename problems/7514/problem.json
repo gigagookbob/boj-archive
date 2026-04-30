@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2008 (Single)",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

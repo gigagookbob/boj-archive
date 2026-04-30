@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, ACM-ICPC Regional Jakarta 2010",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "lca",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "lca", "hld"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.2799999713897705

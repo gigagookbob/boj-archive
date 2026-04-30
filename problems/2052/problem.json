@@ -15,10 +15,7 @@
   "hint": null,
   "source": "doju",
   "level": 5,
-  "tags": [
-    "math",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arbitrary_precision"],
   "accepted_user_count": 1454,
   "submission_count": null,
   "average_tries": 2.487600088119507

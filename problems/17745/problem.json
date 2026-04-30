@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2012/2013 Spring Training Camp, xiaowuc1",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 3.878000020980835

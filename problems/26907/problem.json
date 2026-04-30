@@ -19,12 +19,7 @@
   "hint": "<p>Det finns tre kanaler som Johan tittar på. Han börjar direkt med att titta på den första kanalen klockan 00.00, och råkar direkt ut för en reklampaus Han byter då kanal (vilket tar en minut), och stöter oturligt på en reklampaus igen. Han byter därför kanal igen, och samma sak upprepar sig på den tredje kanalen. Johan byter efter tre minuter kanal till första kanalen igen, och kan nu äntligen börja räkna minuterna av kvalitets-TV. Han tittar nu resten av tiden på första kanalen, dvs 1437 minuter.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2014, Online Qualification",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "simulation", "parsing"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.1363999843597412

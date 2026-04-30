@@ -23,13 +23,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2018 송년대회, william202",
   "level": 16,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "geometry",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bruteforcing", "geometry", "bitmask", "dp_bitfield"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 2.5576999187469482

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2010 Mid-Atlantic Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 7.5

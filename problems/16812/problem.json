@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2015 Day 4",
   "level": 21,
-  "tags": [
-    "graphs",
-    "eulerian_path",
-    "hungarian"
-  ],
+  "tags": ["graphs", "eulerian_path", "hungarian"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3

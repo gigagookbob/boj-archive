@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, LiU Coding Challenge 2018",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 131,
   "submission_count": null,
   "average_tries": 1.5724999904632568

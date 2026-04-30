@@ -23,14 +23,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2024",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "math",
-    "sorting",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "math", "sorting", "tree_set", "set"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2609000205993652

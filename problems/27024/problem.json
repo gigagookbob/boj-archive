@@ -15,10 +15,7 @@
   "hint": "<p>Farmer John can use fence posts of height 1 and 3 to appease 2 out of the 3 cows.  The range is 3-1 = 2.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO March 2004 Contest, Blue",
   "level": 7,
-  "tags": [
-    "sorting",
-    "sliding_window"
-  ],
+  "tags": ["sorting", "sliding_window"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.819700002670288

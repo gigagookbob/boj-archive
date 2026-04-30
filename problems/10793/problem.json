@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2015",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "number_theory",
-    "fft"
-  ],
+  "tags": ["math", "data_structures", "number_theory", "fft"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 1.6038000583648682

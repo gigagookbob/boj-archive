@@ -23,11 +23,7 @@
   "hint": "<p>In the first example, you can sort the permutation in three operations:</p>\n<ol>\n<li>Make operation 1: $3, 6, 5, 2, 1, 4$.</li>\n<li>Make operation 2: $2, 1, 4, 3, 6, 5$.</li>\n<li>Make operation 1: $1, 2, 3, 4, 5, 6$.</li>\n</ol>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Offline)",
   "level": 12,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.9810999631881714

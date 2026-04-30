@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2012 Arab Collegiate Programming Contest, portableangel",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 193,
   "submission_count": null,
   "average_tries": 1.5855000019073486

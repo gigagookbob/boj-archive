@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2025 ICPC Pacific Northwest Regional, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2025 ICPC Pacific Northwest Regional, Division 2",
   "level": 6,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "combinatorics", "probability"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.4687999486923218

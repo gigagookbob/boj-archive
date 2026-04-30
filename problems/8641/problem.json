@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2007, Stage 3",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "set"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.4560999870300293

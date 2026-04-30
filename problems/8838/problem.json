@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, CoolSpot 2010",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "stack"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.625

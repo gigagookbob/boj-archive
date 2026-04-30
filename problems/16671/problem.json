@@ -19,10 +19,7 @@
   "hint": "<p>In the first example the optimal plan is to persuade idlers 1, 6, and 8 to do jobs 2, 4, and 6.</p>\n<p>In the second example each job was chosen by some idler, so there is no need to persuade anyone.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NERC 2018",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.2029000520706177

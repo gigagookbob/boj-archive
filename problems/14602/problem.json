@@ -23,10 +23,7 @@
   "hint": "<p>예제1에서, w = 1, median(1) = 1, median(2) = 2, …, median(9) = 9 이므로 입력된 행렬과 동일한 행렬이 답입니다.</p>\n<p>예제2에서 w = 3 이므로 median(1, 2, 3, 4, 5, 6, 7, 8, 9) = 5가 답입니다.</p>\n<p>예제3 정답 행렬의 1행 1열에 위치한 8은 median(5, 1, 2, 12, 10, 3, 8, 12, 19) = 8 연산 과정을 통해 얻어졌습니다.</p>",
   "source": "University, 아주대학교, 2017 아주대학교 프로그래밍 경시대회 (APC), Division 1, lsc4719",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 252,
   "submission_count": null,
   "average_tries": 1.4127000570297241

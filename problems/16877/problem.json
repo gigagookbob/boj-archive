@@ -43,10 +43,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 743,
   "submission_count": null,
   "average_tries": 2.6958000659942627

@@ -15,12 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: W pierwszym przypadku testowym między każdą parą miast da się przejechać bezpośrednio autostradą i niezależnie od tego, które miasta połączymy teleportem nadal będziemy potrzebować baku o pojemności co najmniej $1$ bajtolitr.</p>\n<p>W drugim przypadku testowym, przed ustawieniem teleportu z bakiem pojemności dwóch bajtolitrów nie da się przejechać między miastami o numerach $(1, 4)$; $(1, 5)$ oraz $(2, 5)$. Jednak po ustawieniu teleportu (na przykład pomiędzy miastami o numerach $1$ i $5$) już jest to możliwe.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2025",
   "level": 21,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "bruteforcing", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

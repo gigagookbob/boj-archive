@@ -15,9 +15,7 @@
   "hint": "<p>아래 그림은 3&times;12 벽을 타일로 채운 예시이다.</p>\r\n\r\n<p><img alt=\"\" src=\"1.jpg\" style=\"height:80px; width:273px\" /></p>\r\n",
   "source": ", Contest, Waterloo's local Programming Contests, 24 September, 2005, imgosari",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 18509,
   "submission_count": null,
   "average_tries": 2.6830999851226807

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2015",
   "level": 22,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.125

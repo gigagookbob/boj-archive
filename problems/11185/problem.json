@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2011",
   "level": 12,
-  "tags": [
-    "case_work",
-    "greedy"
-  ],
+  "tags": ["case_work", "greedy"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.058799982070923

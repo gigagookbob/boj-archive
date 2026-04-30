@@ -19,11 +19,7 @@
   "hint": "<p>In the first test a total of $6$ pairs can be made of the three numbers. If the number 1996 is written after 12, the resulting number is $121996 = 7 \\cdot 17428$. The three remaining pairs are described in the problem body.</p>",
   "source": "Contest, Open Cup, 2016/2017 Season, Stage 2: Grand Prix of Eurasia",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics"
-  ],
+  "tags": ["math", "number_theory", "combinatorics"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.4375

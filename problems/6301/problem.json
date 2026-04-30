@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2002",
   "level": 11,
-  "tags": [
-    "dp",
-    "arbitrary_precision"
-  ],
+  "tags": ["dp", "arbitrary_precision"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

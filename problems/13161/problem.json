@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2016, myungwoo, kdr06006",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 817,
   "submission_count": null,
   "average_tries": 4.493299961090088

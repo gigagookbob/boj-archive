@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2024 ICPC Asia Yokohama Regional Contest",
   "level": 23,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["implementation", "ad_hoc", "binary_search"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.6315999031066895

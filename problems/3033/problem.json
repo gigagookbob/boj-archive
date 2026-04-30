@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #5, baekjoon, jh05013, sait2000, seokjin1013, shjohw12, zmfldlwl",
   "level": 18,
-  "tags": [
-    "string",
-    "hashing",
-    "suffix_array",
-    "rabin_karp"
-  ],
+  "tags": ["string", "hashing", "suffix_array", "rabin_karp"],
   "accepted_user_count": 1522,
   "submission_count": null,
   "average_tries": 3.1412999629974365

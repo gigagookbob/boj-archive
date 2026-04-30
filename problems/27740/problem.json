@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2023 중앙대학교 CHAC (ChAOS Hello2023 Algorithm Contest), njw1204, heeda0528, pjshwa, smmaker118, tlsdydaud1, tony9402, wapas",
   "level": 12,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "constructive"
-  ],
+  "tags": ["greedy", "bruteforcing", "constructive"],
   "accepted_user_count": 187,
   "submission_count": null,
   "average_tries": 3.615000009536743

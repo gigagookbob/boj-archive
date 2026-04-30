@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2008/2009 Spring Training Camp",
   "level": 19,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2143000364303589

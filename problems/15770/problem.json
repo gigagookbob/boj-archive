@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2018 KAIST RUN Spring Contest, koosaga, wookje",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 3.3269999027252197

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "jh05013, chogahui05",
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 976,
   "submission_count": null,
   "average_tries": 2.268399953842163

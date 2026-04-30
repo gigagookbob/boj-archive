@@ -19,10 +19,7 @@
   "hint": "<p>예제 1</p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:155px; width:179px\"/></p>\n<p>예제 2</p>\n<p><img alt=\"\" src=\"3.png\" style=\"height:251px; width:371px\"/></p>",
   "source": "baekjoon, deepred, jh05013",
   "level": 12,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 287,
   "submission_count": null,
   "average_tries": 2.473900079727173

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제1회 소프트콘, jwvg0425, tncks0121",
   "level": 9,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 772,
   "submission_count": null,
   "average_tries": 2.2084999084472656

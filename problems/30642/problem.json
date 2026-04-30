@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2023 IGRUS Newbie Programming Contest, yooshnn, 39dll, aym506, gumgood, nunebin, wjdclgns12",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 805,
   "submission_count": null,
   "average_tries": 1.700600028038025

@@ -27,9 +27,7 @@
   "hint": "<p>첫 번째 예제에서는 aab, aac, aba, aca, baa, caa가 조건을 만족한다.</p>\n<p>두 번째 예제에서는 aaa, aac, aba, abb, abc, aca, acb, baa, bab, caa, cab가 조건을 만족한다.</p>\n<p>세 번째 예제에서는 b가 조건을 만족한다.</p>",
   "source": null,
   "level": 23,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2173999547958374

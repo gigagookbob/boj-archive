@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2019",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "sorting", "binary_search", "prefix_sum"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.170699954032898

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2022",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "greedy",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["bruteforcing", "data_structures", "greedy", "tree_set", "set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.399999976158142

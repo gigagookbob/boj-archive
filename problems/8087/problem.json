@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1996/1997, Stage 1",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.294100046157837

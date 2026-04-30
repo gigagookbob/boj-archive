@@ -23,11 +23,7 @@
   "hint": "<p>For Sample Input 1, there are six suitable colorings as listed in the figure below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 468px; height: 300px;\"/></p>\n<p style=\"text-align: center;\">Figure C.2. Suitable colorings in case of $n = 3$ and $k = 2$</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2023 Asia Yokohama Regional",
   "level": 27,
-  "tags": [
-    "math",
-    "combinatorics",
-    "burnside"
-  ],
+  "tags": ["math", "combinatorics", "burnside"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.799999952316284

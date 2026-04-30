@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example: According to the picture in the problem description, the initial arrangement can be ordered in two moves: we first rotate the group with the upper left corner in row 1 and column 1, and then the group with the upper left corner in row 1 and column 2.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2013, Croatian Olympiad in Informatics 2013",
   "level": 22,
-  "tags": [
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["constructive", "implementation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 5.6666998863220215

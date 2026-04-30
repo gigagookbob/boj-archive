@@ -15,9 +15,7 @@
   "hint": "<p>Вот значения $s$. Выделены символы, образующие одну из возможных наибольших неубывающих подпоследовательностей.</p>\n<p><strong>0</strong>1<strong>0</strong>3<strong>02</strong>0</p>\n<p><strong>0</strong>1<strong>0</strong>3<strong>0012</strong>0</p>\n<p><strong>00012</strong>0</p>\n<p><strong>00</strong>21<strong>00</strong></p>\n<p><strong>00</strong>2<strong>00</strong>2<strong>00</strong>21<strong>00</strong></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, May 13, 2018, Hard",
   "level": 26,
-  "tags": [
-    "data_structures"
-  ],
+  "tags": ["data_structures"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 11

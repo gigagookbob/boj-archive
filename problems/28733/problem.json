@@ -19,11 +19,7 @@
   "hint": "<p>В первом тесте Бэтмен может первым действием заменить $2$ на $\\left\\lceil\\sqrt{2 \\cdot 4} \\right\\rceil = 3$, а вторым действием заменить $4$ на $\\left\\lfloor\\sqrt{\\frac{3^2 + 4^2}{2}} \\right\\rfloor = 3$.</p>\n<p>Во втором тесте Бэтмен может первым действием заменить $12$ на $\\left\\lfloor\\sqrt{\\frac{12^2 + 16^2}{2}}\\right\\rfloor = 14$, вторым действием заменить $16$ на $\\left\\lceil\\sqrt{14 \\cdot 16}\\right\\rceil = 15$, и третьим ходом заменить $14$ на $\\left\\lceil\\sqrt{14 \\cdot 15}\\right\\rceil = 15$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 19, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 19, 2019, Advanced",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.9285999536514282

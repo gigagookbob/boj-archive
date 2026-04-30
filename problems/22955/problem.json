@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 초급, whaeun25, gumgood, gunwookim, kyo20111, lky7674, pichulia",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["implementation", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 4.73330020904541

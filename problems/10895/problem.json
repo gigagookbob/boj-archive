@@ -15,10 +15,7 @@
   "hint": "<p>\\(pow_{2}^{3}(2) = 2^{2^{2^{2}}} = 65,536\\)이므로, 이를 3으로 나눈 나머지인 1을 출력한다.</p>",
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14, citizen",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 205,
   "submission_count": null,
   "average_tries": 2.741499900817871

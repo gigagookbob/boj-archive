@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023 예선, leejseo, asdarwin03, bnb2011, egod1537, evenharder, functionx, jh05013, kclee2172, queued_q, silverwolf, tlsdydaud1, wapas, wider93",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 2784,
   "submission_count": null,
   "average_tries": 1.4895999431610107

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2012, john6014, corea, lety, kookmin20103324, jh05013",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["math", "implementation", "geometry"],
   "accepted_user_count": 30245,
   "submission_count": null,
   "average_tries": 2.0929999351501465

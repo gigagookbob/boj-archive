@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, ACM ICPC South Pacific Divisionals, 2016 South Pacific Divisional Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 141,
   "submission_count": null,
   "average_tries": 1.1986000537872314

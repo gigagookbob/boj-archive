@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2023",
   "level": 20,
-  "tags": [
-    "case_work",
-    "data_structures",
-    "implementation",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["case_work", "data_structures", "implementation", "tree_set", "set"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.6110999584198

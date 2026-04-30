@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2009",
   "level": 22,
-  "tags": [
-    "articulation",
-    "graphs"
-  ],
+  "tags": ["articulation", "graphs"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.6470999717712402

@@ -15,11 +15,7 @@
   "hint": "<p>Przykładowym optymalnym rozwiązaniem jest wytłoczenie i pokrycie brokatem pierwszej płyty pierwszego dnia, wytłoczenie drugiej drugiego dnia i pokrycie jej brokatem czwartego dnia, wytłoczenie trzeciej trzeciego dnia i pokrycie jej brokatem piątego dnia, oraz wytłoczenie czwartej płyty szóstego dnia i pokrycie jej brokatem ósmego dnia.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 24,
-  "tags": [
-    "alien",
-    "binary_search",
-    "greedy"
-  ],
+  "tags": ["alien", "binary_search", "greedy"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

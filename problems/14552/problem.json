@@ -31,10 +31,7 @@
   "hint": "<p>첫 번째 예제에서는, 7이 들어오면, 머리가 55, 몸통이 111/222/789/789 형태로 완성 될 수 있다. 두 번째 예제에서는, 모든 패가 대기패이다.  세 번째 예제에서는, 2가 들어오면 머리가 11/22/33/44/66/88/99가 된다. 네 번째 예제에서는, 5가 들어오면 머리가 66 몸통이 111/555/789/789가 된다. 1이 들어오면, 머리가 11/11/55/66/77/88/99 가 되는데, 같은 머리가 2개 있으므로 1은 대기패가 아니다. 다섯 번째 예제에서는, 1이 들어오면 머리가 11, 몸통이 111/234/444/888 이 되지만, 남은 패 중에 1이 존재하지 않으므로(이미 4장을 사용하고 있으므로) 대기패가 아니다.  </p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2017 KAIST RUN Spring Contest (HYEA Cup), ho94949",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 1.7109999656677246

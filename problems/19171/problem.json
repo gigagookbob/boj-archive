@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 5: U of Wroclaw Contest",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d",
-    "heuristics",
-    "gradient_descent"
-  ],
+  "tags": ["math", "geometry", "geometry_3d", "heuristics", "gradient_descent"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 8.66670036315918

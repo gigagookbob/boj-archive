@@ -27,14 +27,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2020 숭고한 연합 Algorithm Camp, Marathon, edenooo",
   "level": 22,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "math",
-    "trees"
-  ],
+  "tags": ["combinatorics", "dp", "dp_tree", "graphs", "math", "trees"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2

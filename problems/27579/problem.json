@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Atlantic Regional, 2022 Mid-Atlantic USA Regional Contest, Division 1, ICPC, Regionals, North America, South Central USA Regional, 2022 South Central USA Regional Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2022 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Mid-Atlantic Regional, 2022 Mid-Atlantic USA Regional Contest, Division 2, ICPC, Regionals, North America, South Central USA Regional, 2022 South Central USA Regional Contest, Division 2, ICPC, Regionals, North America, Southeast USA Regional, 2022 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Pacific Northwest Regional, 2022 ICPC Pacific Northwest Region, Division 2, xiaowuc1",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.3216999769210815

@@ -15,11 +15,7 @@
   "hint": "<p>큐는 $[q_1, q_2, \\cdots, q_n]$으로 표현되는 자료구조입니다. 큐에 원소 $a$를 넣으면, 큐는 $[q_1, q_2, \\cdots, q_n, a]$가 됩니다. 큐에서 원소를 꺼내면, $q_1$를 얻고 큐는 $[q_2, q_3, \\cdots, q_n]$이 됩니다.</p>",
   "source": "University, 건국대학교, 2025 건국대학교 프로그래밍 경진대회 (KUPC), yookwi, aru0504, cmgjol010, hyperbolic, ohwphil, pizzaroot, riroan, rlatjwls3333",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 1.9428999423980713

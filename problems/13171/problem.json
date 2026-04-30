@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제4회 kriiicon 연습 세션, august14, YunGoon, repelit",
   "level": 8,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 1596,
   "submission_count": null,
   "average_tries": 2.2932000160217285

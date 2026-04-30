@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 09., rustiebeats, heeda0528, lky7674, pjshwa, utilforever",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "knapsack"
-  ],
+  "tags": ["math", "dp", "combinatorics", "knapsack"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.948699951171875

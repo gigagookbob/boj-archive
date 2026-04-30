@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2013 Southeast USA Regional Programming Contest, Division 1, seok9311",
   "level": 23,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "bulldozer"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "bulldozer"],
   "accepted_user_count": 194,
   "submission_count": null,
   "average_tries": 3.7112998962402344

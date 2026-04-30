@@ -15,11 +15,7 @@
   "hint": "<p>In the first example the decoded binary sequences are <code>11110000</code> and <code>11010101</code>.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 14: Grand Prix of Wroclaw",
   "level": 23,
-  "tags": [
-    "dp",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "greedy", "prefix_sum"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.200000047683716

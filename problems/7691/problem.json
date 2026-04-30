@@ -15,9 +15,7 @@
   "hint": "<p>If w = 4, h = 4, and m = 4, then the following cuts minimize the area of the largest piece:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:112px; width:109px\"/></p>\n<p>However, if w = 4, h = 4, and m = 3, then the following cuts are optimal:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:117px; width:126px\"/></p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2004",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.25

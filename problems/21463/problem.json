@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2007",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "greedy"
-  ],
+  "tags": ["math", "dp", "greedy"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

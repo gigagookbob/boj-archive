@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, chsun0303, jh05013, purpose",
   "level": 7,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 12580,
   "submission_count": null,
   "average_tries": 1.6416000127792358

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 2, Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 3, eoaud0108, ahgus89, cgiosy, jhnah917, Lawali, runnie0427",
   "level": 14,
-  "tags": [
-    "dp",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["dp", "binary_search", "parametric_search"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 2.1338999271392822

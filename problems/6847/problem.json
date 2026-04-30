@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2007, CCC 2007 Senior Division",
   "level": 9,
-  "tags": [
-    "bfs",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.5

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, 2022 ICPC Asia Tehran Regional Contest",
   "level": 9,
-  "tags": [
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["greedy", "implementation"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.833299994468689

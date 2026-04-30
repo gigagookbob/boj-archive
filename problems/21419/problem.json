@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2006",
   "level": 12,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.066699981689453

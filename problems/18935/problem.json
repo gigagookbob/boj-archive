@@ -19,12 +19,7 @@
   "hint": null,
   "source": null,
   "level": 11,
-  "tags": [
-    "implementation",
-    "parsing",
-    "simulation",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "simulation", "string"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.7000000476837158

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2019",
   "level": 19,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["implementation", "data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 3.0302999019622803

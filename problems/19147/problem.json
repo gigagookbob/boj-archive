@@ -23,11 +23,7 @@
   "hint": "<p>In the first example, the only possible way to construct the wall is to make one level from the only brick of the first type and four bricks of the third type, and another level from all bricks of the second type and one brick of the third type.</p>\n<p>Please note that the time limit is harsh. Some extra optimizations may be required to get the problem accepted.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 4: Moscow SU Tapirs Contest 2",
   "level": 21,
-  "tags": [
-    "implementation",
-    "dp",
-    "backtracking"
-  ],
+  "tags": ["implementation", "dp", "backtracking"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 6.599999904632568

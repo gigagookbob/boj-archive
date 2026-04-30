@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2016",
   "level": 10,
-  "tags": [
-    "math",
-    "arbitrary_precision",
-    "linear_algebra"
-  ],
+  "tags": ["math", "arbitrary_precision", "linear_algebra"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 1.843400001525879

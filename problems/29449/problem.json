@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, March 25, 2012",
   "level": 11,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

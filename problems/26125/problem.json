@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, UNIST, 4th UNIST Algorithm Programming Contest Uni-CODE 2022, chunghan, junie, andrew1010, cs71107, jh05013, jhnah917, junseo, mskim17, queued_q",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 3.8380000591278076

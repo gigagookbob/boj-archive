@@ -19,10 +19,7 @@
   "hint": "<p>이 문제에서 이진 탐색이 위와 같이 정의된 이유는 하이비가 저 방식으로 이진 탐색을 구현하기 때문이다.</p>",
   "source": "hibye1217, chansol, jhnah917, jthis, mjhmjh1104, pjshwa, shjohw12",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "constructive"
-  ],
+  "tags": ["binary_search", "constructive"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.6512000560760498

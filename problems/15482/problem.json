@@ -27,13 +27,7 @@
   "hint": null,
   "source": "baekjoon, bupjae",
   "level": 11,
-  "tags": [
-    "dp",
-    "string",
-    "parsing",
-    "lcs",
-    "utf8"
-  ],
+  "tags": ["dp", "string", "parsing", "lcs", "utf8"],
   "accepted_user_count": 893,
   "submission_count": null,
   "average_tries": 1.698799967765808

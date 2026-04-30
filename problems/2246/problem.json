@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Beijing, Beijing Regional Contest 2005",
   "level": 5,
-  "tags": [
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "sorting"],
   "accepted_user_count": 1489,
   "submission_count": null,
   "average_tries": 2.0450000762939453

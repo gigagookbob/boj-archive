@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 1997",
   "level": 13,
-  "tags": [
-    "dp",
-    "hashing",
-    "string"
-  ],
+  "tags": ["dp", "hashing", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 4.5833001136779785

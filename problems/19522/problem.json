@@ -23,12 +23,7 @@
   "hint": "<p>In Sample 1, if you add $(1, 2)$, you can move between $(1, 1)$ and $(2, 2)$ via $(1, 2)$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 9: Grand Prix of Japan, Contest, Open Cup, 2016/2017 Season, Stage 1: Grand Prix of Japan",
   "level": 17,
-  "tags": [
-    "constructive",
-    "divide_and_conquer",
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["constructive", "divide_and_conquer", "geometry", "sorting"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.6922999620437622

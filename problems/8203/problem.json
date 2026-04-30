@@ -15,11 +15,7 @@
   "hint": "<p>The example considers the lollipop from Fig. 1. The segments numbered from 1 to 3 form a TWT lollipop, worth 5 bythalers. Segment number 2 has vanilla flavour and costs 1 bythaler. There is no way of getting a lollipop worth 7 bythalers out of the one given.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 1",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["math", "ad_hoc", "parity"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 2.5773000717163086

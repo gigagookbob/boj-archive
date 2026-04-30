@@ -15,13 +15,7 @@
   "hint": null,
   "source": "hg7258",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "dfs"],
   "accepted_user_count": 6984,
   "submission_count": null,
   "average_tries": 1.7609000205993652

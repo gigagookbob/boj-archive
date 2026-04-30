@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2012",
   "level": 19,
-  "tags": [
-    "math",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["math", "sorting", "sweeping"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.357100009918213

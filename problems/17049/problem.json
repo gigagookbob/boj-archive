@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #5",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "string", "two_pointer"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.3889000415802

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 US Open Contest, Bronze",
   "level": 15,
-  "tags": [
-    "math",
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["math", "data_structures", "deque"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.5817999839782715

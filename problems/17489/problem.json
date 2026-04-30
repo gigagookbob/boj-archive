@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 건국대학교, 2019 건국대학교 동아리 알프스 프로그래밍 경진대회 (KAPC), aru0504, exponential_e",
   "level": 16,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 6.011899948120117

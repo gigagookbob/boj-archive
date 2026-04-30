@@ -15,11 +15,7 @@
   "hint": "<p>Fred must take 3 classes every day, and for each he has 2 choices. The hall has length 5. His first possible class is located at position 2 and will take 1 unit of energy each day, etc.</p>\n<ul>\n<li>Here is one way to obtain the minimum energy:</li>\n<li>Go to the class at location 2. Energy used: 3</li>\n<li>Next, go to the class at location 4. Energy used: 6</li>\n<li>Then go to the class at location 3. Energy used: 9</li>\n<li>Finally, leave the school at location 5. Energy used: 11</li>\n</ul>",
   "source": ", Contest, Waterloo's local Programming Contests, 2 October, 2011",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "floyd_warshall"
-  ],
+  "tags": ["dp", "graphs", "floyd_warshall"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

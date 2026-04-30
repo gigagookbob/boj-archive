@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:358px; width:394px\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1996, seojeongwook2",
   "level": 12,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.727299928665161

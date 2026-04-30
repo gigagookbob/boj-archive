@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2001/2002, Stage 3, Olympiad, Polish Olympiad in Informatics, POI 1999/2000, Stage 1, Contest, Algorithmic Engagements, PA 2002.05",
   "level": 24,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching",
-    "circulation"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching", "circulation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.4443999528884888

@@ -27,12 +27,7 @@
   "hint": "<p>예제 1의 경우에 정답은 {0}, {0, 1}이 있다.</p>\n<p>예제 4의 경우에 정답은 {0}, {0, 1}, {0, 2}, {0, 3}, {0, 4}, {0, 1, 2, 3}이 있다.</p>",
   "source": "baekjoon",
   "level": 24,
-  "tags": [
-    "math",
-    "dp",
-    "linear_algebra",
-    "xor_basis"
-  ],
+  "tags": ["math", "dp", "linear_algebra", "xor_basis"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7741999626159668

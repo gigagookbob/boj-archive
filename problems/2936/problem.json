@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #6, baekjoon",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "geometry", "case_work"],
   "accepted_user_count": 246,
   "submission_count": null,
   "average_tries": 3.26419997215271

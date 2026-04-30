@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2017 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, South Central USA Regional, 2017 South Central USA Regional Programming Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 427,
   "submission_count": null,
   "average_tries": 1.1030000448226929

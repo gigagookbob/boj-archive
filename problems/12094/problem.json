@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, doju",
   "level": 17,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation", "backtracking"],
   "accepted_user_count": 832,
   "submission_count": null,
   "average_tries": 7.673099994659424

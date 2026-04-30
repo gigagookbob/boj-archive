@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, GSHS x SASA, 제1회 GSHS x SASA 프로그래밍 경시대회, dkim110807, silst2713, dinojaemin, gmroh06, jms020820, kidw0124, sjhi00, sorohue, utilforever",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "geometry",
-    "simulation",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "geometry", "simulation", "parsing"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 2.855799913406372

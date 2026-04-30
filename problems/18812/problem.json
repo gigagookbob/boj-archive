@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2019 ICPC South Pacific Regionals",
   "level": 12,
-  "tags": [
-    "graphs",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["graphs", "greedy", "constructive"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

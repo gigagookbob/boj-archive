@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2015: German Reunification",
   "level": 17,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.4031999111175537

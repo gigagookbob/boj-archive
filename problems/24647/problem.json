@@ -23,12 +23,7 @@
   "hint": "<p>In the first example test, Julia is much faster than Jane. It's best for Julia to move towards Jane as fast as she can, meet her at time $25$ at distance $750$ away from home, and return back home at time $50$.</p>\n<p>In the second example test, Jane is much faster than Julia. It's best for Julia to just wait for Jane at home, where Jane will arrive at time $\\frac{1000}{30}$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Regional Contest",
   "level": 21,
-  "tags": [
-    "math",
-    "greedy",
-    "prefix_sum",
-    "ternary_search"
-  ],
+  "tags": ["math", "greedy", "prefix_sum", "ternary_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.5

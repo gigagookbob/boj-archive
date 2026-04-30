@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2017, Day 2",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "divide_and_conquer",
-    "sqrt_decomposition"
-  ],
+  "tags": ["binary_search", "divide_and_conquer", "sqrt_decomposition"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 3.978300094604492

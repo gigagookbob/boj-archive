@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 춘배컵, 2023 제1회 춘배컵, lys9546, 99asdfg, fs_edge, gggkik, iansong, ksoosung77, pjshwa, qvixnh22, rustiebeats, utilforever, wider93",
   "level": 12,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 2.25

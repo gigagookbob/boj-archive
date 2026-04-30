@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Qualification",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 711,
   "submission_count": null,
   "average_tries": 1.3530000448226929

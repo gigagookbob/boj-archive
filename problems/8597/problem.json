@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p><b>Wyjaśnienie:</b> Jaś może zbudować z wieżyczek nr 2 i nr 3 wieżyczkę (4, 6), a następnie z tej wieżyczki i wieżyczki nr 1 zbudować wieżyczkę (4, 6, 7, 1) o wartości 18.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2010, Stage 1",
   "level": 14,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 5.3333001136779785

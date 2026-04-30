@@ -23,10 +23,7 @@
   "hint": "<p>The corresponding strings are <code>abaa</code> and <code>aaaa</code>.</p>",
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2017",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "hashing"
-  ],
+  "tags": ["binary_search", "hashing"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

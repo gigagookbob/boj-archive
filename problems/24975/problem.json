@@ -15,10 +15,7 @@
   "hint": "<p>For the first test case, the two possible interleaved programs are\n$[\\times 1, \\times 0]$  and $[\\times 0,\\times 1]$. These will both produce the\nexpression $0$ when executed.\n\n</p><p>For the second test case, executing an interleaving of $[\\times 1,\\times 2, +x]$\nand $[+y, \\times 0,\\times 2]$ could produce one of the expressions $0$, $x$, or\n$2\\times x$.\n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Gold",
   "level": 20,
-  "tags": [
-    "dp",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["dp", "inclusion_and_exclusion"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.2044999599456787

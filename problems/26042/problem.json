@@ -15,11 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, lms0806, riroan, sait2000, tony9402",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "queue"],
   "accepted_user_count": 1200,
   "submission_count": null,
   "average_tries": 2.9166998863220215

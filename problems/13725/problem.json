@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 24,
-  "tags": [
-    "math",
-    "fft",
-    "kitamasa"
-  ],
+  "tags": ["math", "fft", "kitamasa"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 2.9154999256134033

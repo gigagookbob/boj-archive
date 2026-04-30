@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2025",
   "level": 15,
-  "tags": [
-    "geometry",
-    "case_work",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "case_work", "line_intersection"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.517199993133545

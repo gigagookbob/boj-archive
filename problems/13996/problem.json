@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2016",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "parsing"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.607100009918213

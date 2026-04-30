@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 건국대학교, 2019 건국대학교 동아리 알프스 프로그래밍 경진대회 (KAPC), han2258",
   "level": 13,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3

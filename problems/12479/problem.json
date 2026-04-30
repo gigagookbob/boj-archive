@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 3",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["bruteforcing", "implementation", "simulation"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.2726999521255493

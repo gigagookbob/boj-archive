@@ -15,12 +15,7 @@
   "hint": "<p>Bessie starts at patch 4 gaining 5 units of energy from the grass there. She then takes the path to patch 5 losing 2 units of energy during her travel. She refuses to eat the lower quality grass at patch 5 and travels to patch 3 again losing 2 units of energy. Finally she eats the grass at patch 3 gaining 6 units of energy for a total of 7 energy.</p>\n<p>Note tha the sample case above is different from test case 1 when you submit.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO US Open 2015 Contest, Silver",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 2.7114999294281006

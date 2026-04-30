@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2017",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting",
-    "physics"
-  ],
+  "tags": ["greedy", "sorting", "physics"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.5537999868392944

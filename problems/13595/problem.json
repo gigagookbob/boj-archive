@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2015",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "parity"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "parity"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.1851999759674072

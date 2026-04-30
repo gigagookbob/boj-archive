@@ -15,9 +15,7 @@
   "hint": "<p>If Farmer John charges $4$, then $3$ cows will attend, allowing him to make\n$3 \\cdot 4 = 12$.\n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2022 December Contest, Bronze",
   "level": 7,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 648,
   "submission_count": null,
   "average_tries": 2.1991000175476074

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2005",
   "level": 10,
-  "tags": [
-    "dp",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["dp", "geometry", "constructive"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5455000400543213

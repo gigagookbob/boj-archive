@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2018, Contest, Open Cup, 2017/2018 Season, Stage 16: Grand Prix of America",
   "level": 21,
-  "tags": [
-    "dp",
-    "trees"
-  ],
+  "tags": ["dp", "trees"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.5332999229431152

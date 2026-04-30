@@ -19,12 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "mst",
-    "segtree"
-  ],
+  "tags": ["data_structures", "graphs", "mst", "segtree"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.5769000053405762

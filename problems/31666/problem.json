@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2023, Division 1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "coordinate_compression"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.1875

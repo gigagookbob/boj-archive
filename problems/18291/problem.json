@@ -15,11 +15,7 @@
   "hint": null,
   "source": "gunwookim, 79brue, jhnah917",
   "level": 11,
-  "tags": [
-    "math",
-    "combinatorics",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "combinatorics", "exponentiation_by_squaring"],
   "accepted_user_count": 827,
   "submission_count": null,
   "average_tries": 2.917799949645996

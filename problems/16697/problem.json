@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2018",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "case_work",
-    "math",
-    "physics"
-  ],
+  "tags": ["binary_search", "case_work", "math", "physics"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 5.928599834442139

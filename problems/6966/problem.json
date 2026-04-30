@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 1998, CCC 1998",
   "level": 5,
-  "tags": [
-    "bruteforcing",
-    "precomputation"
-  ],
+  "tags": ["bruteforcing", "precomputation"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.6376999616622925

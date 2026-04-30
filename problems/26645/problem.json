@@ -19,9 +19,7 @@
   "hint": "<p>문제의 정보는 본 게임과는 다를 수 있으니, 실제로 확인하고 싶다면 <a href=\"http://maplestory.nexon.com/Home/Main\">메이플스토리</a>에 접속해 보자!</p>",
   "source": "School, 경기북과학고등학교, GBS Coding Contest 2022, GBS Coding Contest 2022, School, 경기북과학고등학교, GBS Coding Contest 2022, GBS Coding Contest 2022 Open, g3gogogo, bnb2011, heeda0528, jihookang, jthis, jyheo98, leo020630, pentagon03, snowflake, tlsdydaud1, utilforever",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1004,
   "submission_count": null,
   "average_tries": 2.095599889755249

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, ACM ICPC Asia Kuala Lumpur Regional Contest 2014",
   "level": 18,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.4902000427246094

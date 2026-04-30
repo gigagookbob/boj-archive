@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2024",
   "level": 23,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "disjoint_set",
-    "greedy"
-  ],
+  "tags": ["bruteforcing", "data_structures", "disjoint_set", "greedy"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

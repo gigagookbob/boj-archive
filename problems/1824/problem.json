@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"2.png\" style=\"height:244px; width:278px\" /></p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2005, Practice, author5",
   "level": 18,
-  "tags": [
-    "grid_graph",
-    "bipartite_matching"
-  ],
+  "tags": ["grid_graph", "bipartite_matching"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 3.662899971008301

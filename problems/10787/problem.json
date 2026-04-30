@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2015",
   "level": 17,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search",
-    "calculus",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "binary_search", "calculus", "geometry_3d"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.5

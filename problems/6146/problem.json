@@ -15,12 +15,7 @@
   "hint": "<p>신아는 (1, 2)에 있다. 키파는 예제 입력에서 주어진&nbsp;7개의 웅덩이를 모두 볼 수 있다.</p>\r\n\r\n<pre>\r\n   4 . . . . . . . . \r\n   3 . M . . . . . . \r\nY  2 . . M B M . M . \r\n   1 . M . M . M . . \r\n   0 . . * . . . . . \r\n  -1 . . . . . . . . \r\n    -2-1 0 1 2 3 4 5 \r\n           X\r\n</pre>\r\n\r\n<p>가장 짧은 거리는 아래 그림에서 *로 표시된 길이다.</p>\r\n\r\n<pre>\r\n   4 ******* . . . . \r\n   3 * M . * . . . . \r\nY  2 * . M B M . M . \r\n   1 * M . M . M . . \r\n   0 ***** . . . . . \r\n  -1 . . . . . . . . \r\n    -2-1 0 1 2 3 4 5 \r\n\r\n           X</pre>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO December 2007 Contest, Silver, kipa00",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 482,
   "submission_count": null,
   "average_tries": 1.381700038909912

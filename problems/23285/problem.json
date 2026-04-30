@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "trees"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.3125

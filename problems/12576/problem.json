@@ -15,11 +15,7 @@
   "hint": "<p>The first example test case represents the image above.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 1C",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "dp",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "dp", "priority_queue"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.958299994468689

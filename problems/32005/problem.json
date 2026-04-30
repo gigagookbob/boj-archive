@@ -19,9 +19,7 @@
   "hint": "<p>Opis drugog probnog primjera: Stanje tablice nakon prvog, drugog i trećeg upisa. Primijetite da je treći upis prebrisao prvi.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 199px; height: 200px;\"/> <img alt=\"\" src=\"3.png\" style=\"width: 201px; height: 200px;\"/> <img alt=\"\" src=\"4.png\" style=\"width: 202px; height: 200px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Junior Croatian Olympiad in Informatics 2024",
   "level": 11,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.599999904632568

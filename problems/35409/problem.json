@@ -23,10 +23,7 @@
   "hint": "<p>Open Contest의 경우에는 위의 제출 가능 시간 규칙이 적용되지 않는다.</p>",
   "source": "School, 한국디지털미디어고등학교, 제4회 디미고 프로그래밍 챌린지, ibasic, 99asdfg, djangg7, fill2714, hibye1217, jihoojh09, jjang36524, jms020820, shinhuichan, sorohue, utilforever, woohyun_jng",
   "level": 2,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 350,
   "submission_count": null,
   "average_tries": 1.4571000337600708

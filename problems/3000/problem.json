@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #3, baekjoon",
   "level": 10,
-  "tags": [
-    "math",
-    "geometry",
-    "set",
-    "combinatorics"
-  ],
+  "tags": ["math", "geometry", "set", "combinatorics"],
   "accepted_user_count": 543,
   "submission_count": null,
   "average_tries": 2.246799945831299

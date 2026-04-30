@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2012, Group A (Seniors), inhibitor",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "mst"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 1.8265999555587769

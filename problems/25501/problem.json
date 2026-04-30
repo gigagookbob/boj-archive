@@ -15,11 +15,7 @@
   "hint": "<p>Python 3</p>\n<pre>\n<code>def recursion(s, l, r):\n    if l &gt;= r: return 1\n    elif s[l] != s[r]: return 0\n    else: return recursion(s, l+1, r-1)</code>\n\n<code>def isPalindrome(s):\n    return recursion(s, 0, len(s)-1)</code>\n\n<code>print('ABBA:', isPalindrome('ABBA'))\nprint('ABC:', isPalindrome('ABC'))</code></pre>\n<p>Java 15</p>\n<pre>\n<code>public class Main{\n    public static int recursion(String s, int l, int r){\n        if(l &gt;= r) return 1;\n        else if(s.charAt(l) != s.charAt(r)) return 0;\n        else return recursion(s, l+1, r-1);\n    }\n    public static int isPalindrome(String s){\n        return recursion(s, 0, s.length()-1);\n    }\n    public static void main(String[] args){\n        System.out.println(\"ABBA: \" + isPalindrome(\"ABBA\"));\n        System.out.println(\"ABC: \" + isPalindrome(\"ABC\"));\n    }\n}</code></pre>",
   "source": "School, 선린인터넷고등학교, 선린 정보 알고리즘경시대회, 2022 선린 정보 알고리즘경시대회, jhnah917, cgiosy, chansol, junseo, kyo20111, ryute, stonejjun03",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "recursion"
-  ],
+  "tags": ["implementation", "string", "recursion"],
   "accepted_user_count": 18304,
   "submission_count": null,
   "average_tries": 1.7661000490188599

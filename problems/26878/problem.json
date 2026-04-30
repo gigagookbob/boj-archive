@@ -27,12 +27,7 @@
   "hint": "<p>I exempelfall 1 är det optimalt för Simon att i första rundan lägga ut kortet med värde 1, och i andra rundan lägga ut kortet med värde 2. Då får Nicole $|1-1| + |10-2|=8$ poäng.</p>\n<p>I exempelfall 2 spelar Simon ut korten av värde 2, 5, 1, i den ordningen.</p>\n<p>I exempelfall 3 spelar Simon ut korten av värde 4, 6, 3, 1, i den ordningen.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Final",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "greedy",
-    "prefix_sum",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "greedy", "prefix_sum", "sorting"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1175999641418457

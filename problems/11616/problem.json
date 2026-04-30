@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2015",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics"
-  ],
+  "tags": ["math", "number_theory", "combinatorics"],
   "accepted_user_count": 129,
   "submission_count": null,
   "average_tries": 2.124000072479248

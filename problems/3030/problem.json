@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #5, baekjoon",
   "level": 15,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "case_work", "parsing"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 3.907399892807007

@@ -15,10 +15,7 @@
   "hint": "<p>In the first case, we can show that there will be no crashes if the current schedule is followed. Therefore, the answer is zero.</p>\n<p>In the second case, at $T=4$, there will be a crash, as can be seen in the picture below. We can prove that after canceling one of these trains, the remaining trains will not crash. Therefore, the answer is one.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>",
   "source": "Contest, Codeforces, Codeforces Round 688 (Div. 2), djm03178",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 288,
   "submission_count": null,
   "average_tries": 1.1007000207901

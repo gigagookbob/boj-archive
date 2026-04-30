@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO February 2015 Contest, Silver",
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 1.6748000383377075

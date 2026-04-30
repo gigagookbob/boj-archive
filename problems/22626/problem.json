@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2009 Day 3",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "geometry",
-    "math"
-  ],
+  "tags": ["bruteforcing", "case_work", "geometry", "math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

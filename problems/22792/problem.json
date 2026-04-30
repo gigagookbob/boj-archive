@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, The 2002 ACM Asia Programming Contest - Manila",
   "level": 0,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["string", "bruteforcing", "geometry"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

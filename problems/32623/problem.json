@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2024 SKKU 프로그래밍 대회 in 소프트의 밤, Coxie, ansol4328, gggkik, max804, o9j8w7, playsworld16, shjohw12",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc",
-    "articulation",
-    "bcc"
-  ],
+  "tags": ["graphs", "flow", "mfmc", "articulation", "bcc"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.0587999820709229

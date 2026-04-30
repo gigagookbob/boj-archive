@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2010",
   "level": 9,
-  "tags": [
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["geometry", "case_work"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

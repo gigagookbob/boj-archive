@@ -23,11 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera:</p>\n<p>PETLJA 4 { ISPISI ‘H’ ISPISI ‘A’ }</p>\n<p>Opis drugog probnog primjera:</p>\n<p>PETLJA 2 { ISPISI ‘B’ ISPISI ‘L’ ISPISI ‘A’ } PETLJA 3 { ISPISI ‘A’ } PETLJA 2 { ISPISI ‘B’ ISPISI ‘L’ ISPISI ‘A’ ISPISI ‘A’ }</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Junior Final Exam #1",
   "level": 18,
-  "tags": [
-    "dp",
-    "string",
-    "kmp"
-  ],
+  "tags": ["dp", "string", "kmp"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2023",
   "level": 21,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8260999917984009

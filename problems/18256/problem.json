@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, India, The 2009 ACM-ICPC Asia Amritapuri Regional Contest",
   "level": 5,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.1159000396728516

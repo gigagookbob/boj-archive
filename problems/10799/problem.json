@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2015, 중등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2015, 초등부, djm03178, junqwoopark, baekjoon",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 32562,
   "submission_count": null,
   "average_tries": 1.516700029373169

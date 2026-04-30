@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2019 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2019 ICPC Pacific Northwest Region, Division 1",
   "level": 21,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "geometry",
-    "bulldozer"
-  ],
+  "tags": ["graphs", "bruteforcing", "geometry", "bulldozer"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.615399956703186

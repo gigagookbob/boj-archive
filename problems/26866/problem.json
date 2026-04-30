@@ -15,14 +15,7 @@
   "hint": "<p>In the third example test case, the cube can be moved from $(1, 1)$ to $(4, 4)$ with the following sequence of moves: right, right, right, down, down, and down.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 16,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["implementation", "dp", "graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2017 Rocky Mountain Regional Contest",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["bitmask", "divide_and_conquer", "recursion"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.399999976158142

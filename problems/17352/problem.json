@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회, jh05013",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 2539,
   "submission_count": null,
   "average_tries": 1.9835000038146973

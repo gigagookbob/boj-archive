@@ -27,11 +27,7 @@
   "hint": "<p>Python 사용자는 PyPy로 제출하는 것을 권장합니다.</p>",
   "source": "University, 연세대학교 미래캠퍼스, 2022 연세대학교 미래캠퍼스 슬기로운 코딩생활, jhnah917, cinador, limepencil, baekjoon, junie, yclock",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 255,
   "submission_count": null,
   "average_tries": 4.948999881744385

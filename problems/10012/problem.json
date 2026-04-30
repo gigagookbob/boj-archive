@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "game_theory"
-  ],
+  "tags": ["math", "number_theory", "game_theory"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.0416998863220215

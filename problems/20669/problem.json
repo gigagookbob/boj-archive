@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2020, luke0201, mitslll, august14, dlstj0923, hibye1217, tony9402",
   "level": 17,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 4.610199928283691

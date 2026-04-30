@@ -15,10 +15,7 @@
   "hint": "<p>In both cases Byteasar controls 42 tickets.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2008/2009, Stage 2",
   "level": 17,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.571400165557861

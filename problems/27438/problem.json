@@ -31,10 +31,7 @@
   "hint": null,
   "source": null,
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "precomputation"
-  ],
+  "tags": ["bruteforcing", "precomputation"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 3.03410005569458

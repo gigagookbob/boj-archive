@@ -15,12 +15,7 @@
   "hint": null,
   "source": "eric00513, jthis, parkky, pjshwa, sait2000",
   "level": 15,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "implementation", "number_theory", "euclidean"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 3.142899990081787

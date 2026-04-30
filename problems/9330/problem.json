@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2013 Rocky Mountain Regional Contest",
   "level": 20,
-  "tags": [
-    "2_sat",
-    "graphs",
-    "scc"
-  ],
+  "tags": ["2_sat", "graphs", "scc"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.6470999717712402

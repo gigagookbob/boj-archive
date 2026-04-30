@@ -19,11 +19,7 @@
   "hint": "<p>BOJ 채점 환경에서 <code>int</code> 자료형은 최대 $2^{31}-1=2\\,147\\,483\\,647$까지의 정수를 저장할 수 있고, C/C++의 <code>long long</code>과 Java의 <code>long</code>은 최대 $2^{63}-1=9\\,223\\,372\\,036\\,854\\,775\\,807$까지의 정수를 저장할 수 있다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제7회 천하제일 코딩대회, jhnah917, cgiosy, chansol, cs71107, gs18115, kyo20111, tlsdydaud1",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 2576,
   "submission_count": null,
   "average_tries": 1.2760000228881836

@@ -19,11 +19,7 @@
   "hint": "<p>В первом примере всего три локации, связанные двумя переходами. Максимальный возможный ответ равен $1$, и чтобы его добиться, достаточно ориентировать переходы так, чтобы все три локации образовывали удобную тройку.</p>\n<p>Во втором примере $6$ удобных троек --- это $(1 \\to 2 \\to 3)$, $(2 \\to 3 \\to 1)$, $(3 \\to 1 \\to 2)$, $(1 \\to 4 \\to 3)$, $(4 \\to 3 \\to 1)$ и $(3 \\to 1 \\to 4)$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, February 13, 2022",
   "level": 19,
-  "tags": [
-    "constructive",
-    "eulerian_path",
-    "graphs"
-  ],
+  "tags": ["constructive", "eulerian_path", "graphs"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

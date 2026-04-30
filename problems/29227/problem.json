@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, October 19, 2013, Advanced",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "hld"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 고등부, qwerasdfzxcl",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.1621999740600586

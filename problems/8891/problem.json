@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2012, baekjoon, luke0201, msgee",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 572,
   "submission_count": null,
   "average_tries": 1.8357000350952148

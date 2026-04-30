@@ -23,10 +23,7 @@
   "hint": "<p>En möjlig optimal lösning är denna: Rotera tre gånger på position 3-4 för att få <code>UVVU</code>, rotera sedan en gång på position 2-3 för att slutligen få <code>UUUU</code>, och vi är klara med fyra operationer utförda.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2014, Final",
   "level": 12,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.1538000106811523

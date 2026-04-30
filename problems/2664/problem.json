@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1997, 고등부, silvercube, pichulia, unused, windflower",
   "level": 21,
-  "tags": [
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["implementation", "geometry"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.803299903869629

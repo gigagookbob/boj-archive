@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 3, koosaga",
   "level": 17,
-  "tags": [
-    "geometry",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["geometry", "greedy", "sorting"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.1175999641418457

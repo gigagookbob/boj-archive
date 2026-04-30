@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Platinum",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "probability",
-    "convex_hull"
-  ],
+  "tags": ["math", "geometry", "probability", "convex_hull"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 5.809999942779541

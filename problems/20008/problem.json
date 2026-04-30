@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제4회 생각하는 프로그래밍 대회, potion, jh05013",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 207,
   "submission_count": null,
   "average_tries": 2.072499990463257

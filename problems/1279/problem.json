@@ -27,12 +27,7 @@
   "hint": "<p>가능한 가장 작은 주사위가 (1,2,3,4,5,6)인데, 이 주사위의 평균이 3.5이다. 따라서 3을 넘지 않는 주사위는 없다.</p>",
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "knapsack"
-  ],
+  "tags": ["math", "dp", "combinatorics", "knapsack"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.95770001411438

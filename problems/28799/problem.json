@@ -19,11 +19,7 @@
   "hint": "<p>В первом запросе первого примера начальная сила Кратоса равна 61. После первого сражения она равна $\\lfloor \\frac{61}{1} \\rfloor = 61$. Затем она равна 30, 10, 5, 1, 1 и 1 соответственно.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, October 20, 2018, Advanced",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4

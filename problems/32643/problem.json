@@ -19,13 +19,7 @@
   "hint": "<p><strong>Python 3 사용자는 PyPy3로 제출할 것을 권장한다.</strong></p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2024, gi1dong2, bsyun0571, hellogaon, hyoseok, iccodly, khj20006, putdata, qsccsq22, rasauq1122, rhdqor213, thdwlsdn030818, tony9402, tyoungs, yijw0930",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum", "primality_test", "sieve"],
   "accepted_user_count": 174,
   "submission_count": null,
   "average_tries": 2.0230000019073486

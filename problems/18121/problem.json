@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2019 Sogang Programming Contest, Champion, lvalue, jh05013, kipa00, shiftpsh",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["dp", "data_structures", "string", "trees", "trie"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 29

@@ -31,12 +31,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 19,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "backtracking",
-    "parity"
-  ],
+  "tags": ["greedy", "ad_hoc", "backtracking", "parity"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 7.282599925994873

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "author5, kiwiyou",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set", "tree_set"],
   "accepted_user_count": 6427,
   "submission_count": null,
   "average_tries": 2.1073999404907227

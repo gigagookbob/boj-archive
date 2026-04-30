@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2019",
   "level": 6,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["math", "ad_hoc", "parity"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.1410000324249268

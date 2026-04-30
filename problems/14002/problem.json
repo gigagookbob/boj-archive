@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, harinboy, kkw564",
   "level": 12,
-  "tags": [
-    "dp",
-    "traceback"
-  ],
+  "tags": ["dp", "traceback"],
   "accepted_user_count": 17942,
   "submission_count": null,
   "average_tries": 2.434999942779541

@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 8,
-  "tags": [
-    "math",
-    "sorting"
-  ],
+  "tags": ["math", "sorting"],
   "accepted_user_count": 286,
   "submission_count": null,
   "average_tries": 1.9824999570846558

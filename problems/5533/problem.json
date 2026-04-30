@@ -19,11 +19,7 @@
   "hint": "<ul>\r\n\t<li>플레이어 1 : 0 + 0 + 0 = 0<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span></li>\r\n\t<li>플레이어 2 : 0 + 0 + 92 = 92<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span></li>\r\n\t<li>플레이어 3 : 63 + 89 + 63 = 215<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span></li>\r\n\t<li>플레이어 4 : 99 + 0 + 99 = 198<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span></li>\r\n\t<li>플레이어 5 : 89 + 0 + 0 = 89<span class=\"Apple-tab-span\" style=\"white-space:pre\"> </span></li>\r\n</ul>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2012/2013 예선, baekjoon",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 3069,
   "submission_count": null,
   "average_tries": 1.3000999689102173

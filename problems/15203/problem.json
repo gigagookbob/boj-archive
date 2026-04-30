@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2017",
   "level": 17,
-  "tags": [
-    "graphs",
-    "dag",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "scc"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.3617000579833984

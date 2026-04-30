@@ -23,10 +23,7 @@
   "hint": "<p>В первом тесте из строки можно получить палиндром <code>abacaba</code>.</p>\n<p>Во втором тесте строка и так является палиндромом.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, November 26, 2017, Advanced",
   "level": 12,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

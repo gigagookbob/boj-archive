@@ -15,11 +15,7 @@
   "hint": "<p>The answer is checked in the following way:</p>\n<ul>\n<li>The jury picks a clique $C$ and an independent set $I$ from the given graph.</li>\n<li>The jury computes the values $a_0, b_0, a_1, b_1, \\ldots, a_{k-1}, b_{k-1}$ in that order and checks if the boolean expressions $(a_{k-1} = 0) \\lor (b_{k-1} = 0)$ and $I \\cap C = \\varnothing$ have the same value.</li>\n<li>The process is repeated for several pairs $(C, I)$.</li>\n</ul>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 9: Grand Prix of Peterhof",
   "level": 29,
-  "tags": [
-    "ad_hoc",
-    "graphs",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "graphs", "implementation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.799999952316284

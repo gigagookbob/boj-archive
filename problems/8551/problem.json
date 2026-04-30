@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2002.11",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 1.6483999490737915

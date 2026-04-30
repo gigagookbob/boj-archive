@@ -15,11 +15,7 @@
   "hint": "<p>For \\(m = 3\\), the answer is \\(d = 1\\). For \\(m = 4\\), the answer is \\(d = 1.333\\dots = \\frac{4}{3}\\).</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 7: Oleksandr Kulkov Contest 1, Botan Investment Cup",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "game_theory",
-    "math"
-  ],
+  "tags": ["binary_search", "game_theory", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.2221999168395996

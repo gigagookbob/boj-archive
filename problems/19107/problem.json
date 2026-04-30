@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 7: DPRK Contest 2",
   "level": 23,
-  "tags": [
-    "math",
-    "case_work",
-    "precomputation"
-  ],
+  "tags": ["math", "case_work", "precomputation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 6.714300155639648

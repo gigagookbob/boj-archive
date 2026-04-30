@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p><b>Wyjaśnienie do przykładu:</b> Optymalna trasa zaczyna się w odległości $2$ od miasta A. Czas przejechania tej trasy jest równy $\\frac{2}{50} + \\frac{2}{40} = \\frac{9}{100}$.</p>\n<p><b>Wskazówka:</b> Aby uniknąć błędów zaokrągleń, do obliczeń polecamy używać typów rzeczywistych podwójnej precyzji (<code>double</code>) oraz standardowych procedur/funkcji służących do wypisywania liczb rzeczywistych z zadaną precyzją.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2011, Stage 1",
   "level": 12,
-  "tags": [
-    "math",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["math", "binary_search", "prefix_sum"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.18179988861084

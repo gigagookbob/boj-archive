@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, one possible ranklist with the minimal badness is:</p>\n<pre>\n1. noobz\n2. llamas\n3. Winn3rz\n4. 5thwheel\n5. NotoricCoders\n6. WhoKnows\n7. StrangeCase\n</pre>\n<p>In the second test case all ranklists are equally good.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2006",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.2777999639511108

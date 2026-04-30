@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2020-21, Open Competition",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.5666999816894531

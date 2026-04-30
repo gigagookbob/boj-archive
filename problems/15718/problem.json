@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제1회 네블컵, rdd6584",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "crt",
-    "lucas"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "crt", "lucas"],
   "accepted_user_count": 525,
   "submission_count": null,
   "average_tries": 5.1656999588012695

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, National Competition #2 - Juniors",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.2352999448776245

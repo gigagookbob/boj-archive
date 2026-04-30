@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2024 Sogang Programming Contest, Master, sparkjy18, alex9801, hulahula3247, jinhan814, jk410, lky7674, tmdgud0617",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 381,
   "submission_count": null,
   "average_tries": 1.9134000539779663

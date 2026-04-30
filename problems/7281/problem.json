@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2017/2018, School Stage, 10-12 Classes",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 256,
   "submission_count": null,
   "average_tries": 1.1797000169754028

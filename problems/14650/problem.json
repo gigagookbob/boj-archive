@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제1회 천하제일 코딩대회 본선, eric00513, doju",
   "level": 9,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "backtracking"],
   "accepted_user_count": 1693,
   "submission_count": null,
   "average_tries": 1.3113000392913818

@@ -15,11 +15,7 @@
   "hint": "<p>Note. Sequence after the first exposure — xxyyzxxzxzyyzyx, after the second — xxyxyzxxzxzyyzy, after the third — xyxyxyzxxzxzyzy.</p>",
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2011",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "string",
-    "rope"
-  ],
+  "tags": ["data_structures", "string", "rope"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5

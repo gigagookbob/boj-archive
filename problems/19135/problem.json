@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 3: Chinese Contest",
   "level": 18,
-  "tags": [
-    "kmp",
-    "string"
-  ],
+  "tags": ["kmp", "string"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 6.1666998863220215

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2017 연세대학교 컴퓨터과학과 프로그래밍 경진대회, portableangel",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "parity"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "parity"],
   "accepted_user_count": 456,
   "submission_count": null,
   "average_tries": 3.2588000297546387

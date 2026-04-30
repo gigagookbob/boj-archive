@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2008, baekjoon, 3587jjh",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 362,
   "submission_count": null,
   "average_tries": 2.386699914932251

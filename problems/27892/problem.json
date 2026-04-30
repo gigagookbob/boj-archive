@@ -19,13 +19,7 @@
   "hint": "<ul>\r\n\t<li>$\\lfloor x \\rfloor$는 $x$보다 작거나 같은 가장 큰 정수를 의미한다.</li>\r\n\t<li>$\\oplus$는 비트 XOR 연산을 수행하는 연산자이다. 비트 XOR 연산자에 대한 자세한 정보는 <a href=\"https://en.wikipedia.org/wiki/Bitwise_operation#XOR\">위키백과</a> (영어)에서 읽을 수 있다. 대부분의 프로그래밍 언어에서 비트 XOR 연산은 <samp>^</samp>로 구현되어 있다.</li>\r\n</ul>\r\n",
   "source": "School, NLCS Jeju, GEC-Cup, dhyang24, kbmin24, shchang, dohoon, firstin0907, hjroh0315, jk410, kiwiyou, mjhmjh1104, parkky, sait2000, sorohue",
   "level": 11,
-  "tags": [
-    "math",
-    "data_structures",
-    "ad_hoc",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["math", "data_structures", "ad_hoc", "set", "hash_set"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 2.1837000846862793

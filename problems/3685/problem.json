@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2008, baekjoon",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "slope_trick"
-  ],
+  "tags": ["dp", "data_structures", "slope_trick"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.941200017929077

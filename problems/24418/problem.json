@@ -15,11 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, holmes9921, chansol, jhnah917, jinhan814, jthis, sait2000, tony9402",
   "level": 7,
-  "tags": [
-    "math",
-    "dp",
-    "recursion"
-  ],
+  "tags": ["math", "dp", "recursion"],
   "accepted_user_count": 607,
   "submission_count": null,
   "average_tries": 1.5404000282287598

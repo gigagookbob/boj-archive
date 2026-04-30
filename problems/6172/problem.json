@@ -15,11 +15,7 @@
   "hint": "<p>The routes are (5-1), (5-3-1), (5-2-1), (5-3-2-1), (5-4-3-1), (5-4-3-2-1).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO March 2008 Contest, Gold",
   "level": 15,
-  "tags": [
-    "graphs",
-    "dijkstra",
-    "dag"
-  ],
+  "tags": ["graphs", "dijkstra", "dag"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.3029999732971191

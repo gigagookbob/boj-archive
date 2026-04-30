@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 February Contest, Silver, jh05013, jason9319",
   "level": 9,
-  "tags": [
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["prefix_sum", "sliding_window"],
   "accepted_user_count": 2824,
   "submission_count": null,
   "average_tries": 2.0850000381469727

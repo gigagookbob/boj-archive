@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2012",
   "level": 17,
-  "tags": [
-    "dp",
-    "math",
-    "recursion"
-  ],
+  "tags": ["dp", "math", "recursion"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

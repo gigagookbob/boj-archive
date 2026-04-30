@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, evenharder, bupjae",
   "level": 5,
-  "tags": [
-    "string",
-    "parsing",
-    "utf8"
-  ],
+  "tags": ["string", "parsing", "utf8"],
   "accepted_user_count": 318,
   "submission_count": null,
   "average_tries": 1.7421000003814697

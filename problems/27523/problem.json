@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter), leo020630, bnb2011, lky7674, mjhmjh1104",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "flow",
-    "mcmf",
-    "parametric_search",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "mcmf", "parametric_search", "graphs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

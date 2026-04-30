@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2019",
   "level": 12,
-  "tags": [
-    "constructive",
-    "math"
-  ],
+  "tags": ["constructive", "math"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.5365999937057495

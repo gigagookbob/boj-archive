@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2005, 중등부, chogahui05, yaachi, ls4154",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "traceback"],
   "accepted_user_count": 483,
   "submission_count": null,
   "average_tries": 3.921299934387207

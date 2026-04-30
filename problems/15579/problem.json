@@ -19,9 +19,7 @@
   "hint": "<p><strong>Clarification of the first test case:</strong></p>\n<p>One strategy is that Branimirko first catches the Pokémon at house number 3 (5 candy), then, respectively, house numbers 7 (10 candy) and 9 (100 candy) for a total of 115 candy.</p>\n<p>Notice that Branimirko can’t catch the Pokémon at house number 1, because he can’t reach it in time from his starting position (house number 5).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #7",
   "level": 17,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.6129000186920166

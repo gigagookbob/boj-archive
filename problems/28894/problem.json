@@ -19,11 +19,7 @@
   "hint": "<p>В первом тестовом примере достаточно занять адрес $123.123.123.124$, после этого компьютеры займут адреса $123.123.123.121$ и $123.123.123.122$ соответственно.</p>\n<p>Обратите внимание, что тесты из условия не подходят под тесты первой группы, однако должны быть пройдены для принятия решения на проверку.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, January 21, 2018",
   "level": 11,
-  "tags": [
-    "parsing",
-    "sorting",
-    "string"
-  ],
+  "tags": ["parsing", "sorting", "string"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

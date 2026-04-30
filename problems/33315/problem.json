@@ -15,12 +15,7 @@
   "hint": "<p>The first test case of the example is explained in the problem description.</p>\n<p>The third test case of the example is explained as follows. It can be shown that there are $132$ balanced bracket sequences with $6$ good pairs. The answers after each clue are given as follows:</p>\n<ol>\n<li>You are given the good pair $(2,3)$. There are $42$ balanced bracket sequences having the good pair $(2,3)$.</li>\n<li>You are given the good pair $(1,6)$. There are $5$ balanced bracket sequences having good pairs $(2,3)$, $(1,6)$.</li>\n<li>You are given the good pair $(7,8)$. There are $2$ balanced bracket sequences having the three good pairs. The strings are \"\\tt{(()())()(())}\" and \"\\tt{(()())()()()}\", respectively.</li>\n<li>You are given the good pair $(9,12)$. There is only one balanced bracket sequence having the four good pairs. The content of $s$ is therefore the only string, which is \"\\tt{(()())()(())}\".</li>\n</ol>\n<p>Then, the number of bracket sequences after the fifth and the sixth clue are both $1$ as you already know the content of $s$.</p>",
   "source": "Contest, Codeforces, Codeforces Round 1000 (Div. 2), hjroh0315",
   "level": 16,
-  "tags": [
-    "combinatorics",
-    "data_structures",
-    "math",
-    "stack"
-  ],
+  "tags": ["combinatorics", "data_structures", "math", "stack"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.0556000471115112

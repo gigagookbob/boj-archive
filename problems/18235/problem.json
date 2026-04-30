@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 송년 코드페스티벌 2019, orihehe",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 447,
   "submission_count": null,
   "average_tries": 3.3780999183654785

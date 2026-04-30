@@ -19,11 +19,7 @@
   "hint": "<p>Clarification of the first example: There are two daughters, so that means the youngest daughter took half of the medallions. If there were initially 9 medallions, the youngest took 4, so 5 are remaining. If, by any chance, there were initially 10 medallions, she took 5 so there are also 5 remaining. Hence, the possible answers are both 9 and 10.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #4",
   "level": 4,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 405,
   "submission_count": null,
   "average_tries": 1.5506000518798828

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2012 Day 2",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "coordinate_compression",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "coordinate_compression", "prefix_sum"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

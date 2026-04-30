@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Final",
   "level": 14,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 8975,
   "submission_count": null,
   "average_tries": 2.2672998905181885

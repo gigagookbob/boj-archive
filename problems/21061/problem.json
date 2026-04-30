@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 2: UPC Contest",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.7753000259399414

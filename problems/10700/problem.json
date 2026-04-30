@@ -15,9 +15,7 @@
   "hint": "<p>You must write a program in APECODE, other programming languages do not work on the Arctic Polar Explorer.</p>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2009",
   "level": 19,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.1666998863220215

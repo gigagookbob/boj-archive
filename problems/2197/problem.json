@@ -15,11 +15,7 @@
   "hint": "<p>1번 원자와 3번 원자의 결합을 해제할 경우 1, 2, 6, 7, 8번 원자로 구성된 분자를 얻는다.</p>",
   "source": null,
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 166,
   "submission_count": null,
   "average_tries": 2.0601999759674072

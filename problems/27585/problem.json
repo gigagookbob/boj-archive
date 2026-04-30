@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Atlantic Regional, 2022 Mid-Atlantic USA Regional Contest, Division 1, ICPC, Regionals, North America, South Central USA Regional, 2022 South Central USA Regional Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2022 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2022 ICPC Pacific Northwest Region, Division 1",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "graphs"
-  ],
+  "tags": ["data_structures", "disjoint_set", "graphs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4.714300155639648

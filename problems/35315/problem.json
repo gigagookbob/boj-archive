@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2026. 01-02., pyb1031, cologne, utilforever",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "bitmask",
-    "difference_array"
-  ],
+  "tags": ["data_structures", "segtree", "bitmask", "difference_array"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2015 Preliminaries, kks227",
   "level": 13,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "traceback"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs", "traceback"],
   "accepted_user_count": 198,
   "submission_count": null,
   "average_tries": 2.823199987411499

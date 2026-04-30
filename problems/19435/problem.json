@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 1: Zheijang U Contest 2",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.200000047683716

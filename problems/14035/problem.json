@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2015, CCO 2015",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "stack"
-  ],
+  "tags": ["data_structures", "dfs", "graphs", "graph_traversal", "stack"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.8333001136779785

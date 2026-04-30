@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Contest, 한국정보기술진흥원, 제1회 청소년 IT경시대회, 중등부, Contest, 한국정보기술진흥원, 제1회 청소년 IT경시대회, 고등부, seonah",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "lca",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "lca", "hld"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.273699998855591

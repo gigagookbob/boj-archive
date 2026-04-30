@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2017",
   "level": 18,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "rotating_calipers"
-  ],
+  "tags": ["geometry", "convex_hull", "rotating_calipers"],
   "accepted_user_count": 229,
   "submission_count": null,
   "average_tries": 1.646299958229065

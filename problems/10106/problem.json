@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCC 2014 Senior Division",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.8042999505996704

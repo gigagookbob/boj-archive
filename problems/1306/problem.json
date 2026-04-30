@@ -15,11 +15,7 @@
   "hint": null,
   "source": "xhark, hyakintoss, appleshy3205",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "segtree", "sliding_window"],
   "accepted_user_count": 1723,
   "submission_count": null,
   "average_tries": 2.2065999507904053

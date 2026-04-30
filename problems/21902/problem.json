@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 433px; height: 298px;\"/></p>\n<p>Broom for initial language from sample test 2. &amp; &amp; Broom after simplification with $p = 2$.</p>\n<p>Broom from the second sample test can be built using language \"piece\", \"of\", \"pie\", \"pretty\", \"prefix\". Its simplification with $p = 2$ obtains the language of words \"pece\", \"o\", \"pe\", \"petty\", \"pefix\". This language gives us the broom with minimum possible size.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis University Open, Olympiad in Informatics 2016-2017",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "smaller_to_larger",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "smaller_to_larger", "trees", "trie"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

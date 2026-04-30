@@ -15,13 +15,7 @@
   "hint": null,
   "source": "jhnah917",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "prefix_sum",
-    "cht"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "prefix_sum", "cht"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.3333001136779785

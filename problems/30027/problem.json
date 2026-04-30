@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 충남대학교, 2023 충남대학교 SW-IT Contest, Division 1, kaorin, ai4youej, flappybird, martinok1103, solvedac, swoon, utilforever, w8385",
   "level": 18,
-  "tags": [
-    "sorting",
-    "sweeping",
-    "parametric_search"
-  ],
+  "tags": ["sorting", "sweeping", "parametric_search"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 4.365900039672852

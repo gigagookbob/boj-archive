@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO US Open 2013 Contest, Gold",
   "level": 20,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "bitset"
-  ],
+  "tags": ["dp", "bruteforcing", "bitset"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 4.199999809265137

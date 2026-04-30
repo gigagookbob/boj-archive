@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 8,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "geometry", "set", "hash_set"],
   "accepted_user_count": 809,
   "submission_count": null,
   "average_tries": 2.173099994659424

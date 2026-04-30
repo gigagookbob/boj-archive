@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 8550,
   "submission_count": null,
   "average_tries": 1.6454999446868896

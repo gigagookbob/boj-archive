@@ -15,9 +15,7 @@
   "hint": "<p>The second test case is <span style=\"text-align:center;\">shown</span> in the figure below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2018",
   "level": 12,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.6666998863220215

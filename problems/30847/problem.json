@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Qualification 2013-14",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "game_theory", "parity"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.5

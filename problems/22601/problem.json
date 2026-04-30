@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Contest, JAG Winter Contest 2010",
   "level": 25,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "geometry_3d"
-  ],
+  "tags": ["geometry", "convex_hull", "geometry_3d"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2

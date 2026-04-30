@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере, после первой операции робот покажется в точке $(-1, 0)$, а после второй в точке $(1, -2)$.</p>\n<p>В втором примере робот не может достичь точки назначения.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 23, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 23, 2019, Advanced",
   "level": 10,
-  "tags": [
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["geometry", "constructive"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

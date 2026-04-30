@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, HotSpot 2010",
   "level": 8,
-  "tags": [
-    "math",
-    "game_theory"
-  ],
+  "tags": ["math", "game_theory"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.333299994468689

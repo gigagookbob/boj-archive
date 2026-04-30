@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2005: The USC Contest",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 1.809499979019165

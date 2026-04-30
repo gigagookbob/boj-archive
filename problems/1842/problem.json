@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2003/2004, Stage 1, author10",
   "level": 25,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 5.64709997177124

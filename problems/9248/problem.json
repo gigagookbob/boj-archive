@@ -15,10 +15,7 @@
   "hint": null,
   "source": "myungwoo, topology",
   "level": 18,
-  "tags": [
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["string", "suffix_array"],
   "accepted_user_count": 1484,
   "submission_count": null,
   "average_tries": 2.3861000537872314

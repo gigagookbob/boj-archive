@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO US Open 2011 Contest, Silver",
   "level": 15,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.6154000759124756

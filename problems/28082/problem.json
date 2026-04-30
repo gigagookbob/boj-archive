@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2023 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2023 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, aym506, 39dll, eaststar, gumgood, jthis, wjdclgns12, yooshnn",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 2.4240000247955322

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 8,
-  "tags": [
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["prefix_sum", "sliding_window"],
   "accepted_user_count": 8184,
   "submission_count": null,
   "average_tries": 2.3255999088287354

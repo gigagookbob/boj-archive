@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2014",
   "level": 23,
-  "tags": [
-    "parametric_search",
-    "sqrt_decomposition"
-  ],
+  "tags": ["parametric_search", "sqrt_decomposition"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 6.8333001136779785

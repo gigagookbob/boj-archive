@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2010 Southeast USA Regional Programming Contest",
   "level": 16,
-  "tags": [
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["geometry", "binary_search"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

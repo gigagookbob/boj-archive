@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2006, National Competition #2 - Seniors, baekjoon",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "string",
-    "sorting",
-    "segtree"
-  ],
+  "tags": ["data_structures", "string", "sorting", "segtree"],
   "accepted_user_count": 238,
   "submission_count": null,
   "average_tries": 2.289900064468384

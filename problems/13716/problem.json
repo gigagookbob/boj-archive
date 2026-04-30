@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring",
-    "berlekamp_massey"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring", "berlekamp_massey"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 2.8557000160217285

@@ -10,10 +10,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2018/2019 Spring Training Camp",
   "level": 25,
-  "tags": [
-    "divide_and_conquer",
-    "heuristics"
-  ],
+  "tags": ["divide_and_conquer", "heuristics"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 7.523799896240234

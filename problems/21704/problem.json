@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 459px; height: 156px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2007",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["math", "implementation", "greedy"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.2857000827789307

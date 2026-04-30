@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2009",
   "level": 11,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.3478000164031982

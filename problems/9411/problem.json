@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2010 ACM-ICPC Thailand National Programming Contest, baekjoon, bupjae",
   "level": 12,
-  "tags": [
-    "implementation",
-    "arbitrary_precision"
-  ],
+  "tags": ["implementation", "arbitrary_precision"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 3.784899950027466

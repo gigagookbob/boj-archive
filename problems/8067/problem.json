@@ -15,11 +15,7 @@
   "hint": "<p>All the features from the sample input are written in the following genetic code: (8, 5, 1, 4, 2, 3, 9, 6, 4, 5, 7, 6, 2, 8, 6).</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1998/1999, Stage 3",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "graphs",
-    "math"
-  ],
+  "tags": ["ad_hoc", "graphs", "math"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.0999999046325684

@@ -15,11 +15,7 @@
   "hint": "<p>In this example, the best strategy is to haul the manure from position 3 to position 2, teleport it to position 8, then haul it to position 10. The total distance requiring the tractor is therefore 1 + 2 = 3.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 February Contest, Bronze",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1297,
   "submission_count": null,
   "average_tries": 1.6714999675750732

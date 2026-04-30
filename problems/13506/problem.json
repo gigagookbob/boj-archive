@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 17,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 647,
   "submission_count": null,
   "average_tries": 2.217900037765503

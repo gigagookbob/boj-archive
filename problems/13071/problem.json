@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2015",
   "level": 20,
-  "tags": [
-    "circulation",
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["circulation", "flow", "mcmf", "graphs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.2221999168395996

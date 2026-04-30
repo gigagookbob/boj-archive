@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Southeast USA Regional, 2020 Southeast USA Regional Programming Contest, ICPC, Regionals, North America, Mid-Central Regional, 2020 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, Pacific Northwest Regional, 2020 ICPC Pacific Northwest Region, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2020 ICPC Pacific Northwest Region, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2020 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, South Central USA Regional, 2020 South Central USA Regional Contest",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree"
-  ],
+  "tags": ["data_structures", "sorting", "segtree"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.8478000164031982

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2001, 중등부, eaststar, mwy3055",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 2316,
   "submission_count": null,
   "average_tries": 2.8013999462127686

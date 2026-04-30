@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2013",
   "level": 10,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.482800006866455

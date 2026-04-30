@@ -23,11 +23,7 @@
   "hint": null,
   "source": null,
   "level": 0,
-  "tags": [
-    "binary_search",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["binary_search", "implementation", "sorting"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 11.5556001663208

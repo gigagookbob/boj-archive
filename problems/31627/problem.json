@@ -31,12 +31,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2023/2024",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "dp",
-    "implementation",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "dp", "implementation", "sparse_table"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.25

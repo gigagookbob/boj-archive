@@ -19,10 +19,7 @@
   "hint": "<p>Explanation for the 1st sample case</p>\n<p>The scenario in the first sample is the same as the scenario given in the problem description.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, ACM-ICPC Regional Contest, Jakarta 2017",
   "level": 19,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.6666998863220215

@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, the string $s$ has three non-empty prefixes: {<code>a</code>, <code>ab</code>, <code>aba</code>}. The string $t$ has two non-empty prefixes: {<code>a</code>, <code>aa</code>}. In total, Misha has written five distinct strings: {<code>aa</code>, <code>aaa</code>, <code>aba</code>, <code>abaa</code>, <code>abaaa</code>}. The string <code>abaa</code> has been written twice.</p>\n<p>In the second example, Misha has written eight distinct strings: {<code>aa</code>, <code>aaa</code>, <code>aaaa</code>, <code>aaaaa</code>, <code>aaaaaa</code>, <code>aaaaaaa</code>, <code>aaaaaaaa</code>, <code>aaaaaaaaa</code>}.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2018",
   "level": 20,
-  "tags": [
-    "string",
-    "z"
-  ],
+  "tags": ["string", "z"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2024, 1차 선발고사, onjo0127",
   "level": 26,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["implementation", "data_structures", "segtree"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 5.086999893188477

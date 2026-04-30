@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 5 fields and 7 pathways.  Currently, the shortest path from the house (field 1) to the barn (field 5) is 1-3-4-5 of total length 1+3+2=6.</p><h4>Output Details</h4><p>If the cows double the length of the pathway from field 3 to field 4 (increasing its length from 3 to 6), then FJ's shortest route is now 1-3-5, of total length 1+7=8, larger by two than the previous shortest route length.</p><p></p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO December 2011 Contest, Silver",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 224,
   "submission_count": null,
   "average_tries": 1.5579999685287476

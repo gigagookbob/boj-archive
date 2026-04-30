@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2020 2차대회, 중등부",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 185,
   "submission_count": null,
   "average_tries": 1.8431999683380127

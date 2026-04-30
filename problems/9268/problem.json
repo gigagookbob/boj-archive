@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2013",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "string",
-    "exponentiation_by_squaring",
-    "kmp"
-  ],
+  "tags": ["math", "dp", "string", "exponentiation_by_squaring", "kmp"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 5.8333001136779785

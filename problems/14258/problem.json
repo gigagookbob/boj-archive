@@ -15,11 +15,7 @@
   "hint": null,
   "source": "jh05013, koosaga, adh0463",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "disjoint_set", "offline_queries"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.536799907684326

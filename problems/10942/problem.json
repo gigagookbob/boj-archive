@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, deneb2016, eric00513, tlsgkdns",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 16268,
   "submission_count": null,
   "average_tries": 3.1870999336242676

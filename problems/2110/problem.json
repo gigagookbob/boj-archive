@@ -15,10 +15,7 @@
   "hint": "<p>공유기를 1, 4, 8 또는 1, 4, 9에 설치하면 가장 인접한 두 공유기 사이의 거리는 3이고, 이 거리보다 크게 공유기를 3개 설치할 수 없다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO February 2005 Contest, Gold, fler9617, ahmg1216, djm03178, hwangyj9",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 26020,
   "submission_count": null,
   "average_tries": 2.573699951171875

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 18,
-  "tags": [
-    "math",
-    "graphs",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "graphs", "exponentiation_by_squaring"],
   "accepted_user_count": 1366,
   "submission_count": null,
   "average_tries": 2.598099946975708

@@ -23,10 +23,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 1.631600022315979

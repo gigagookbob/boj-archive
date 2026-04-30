@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2020-2021 연습 세션",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.1666998863220215

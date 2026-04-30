@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2019 홍익대학교 프로그래밍 경진대회, Green55, jaehoo1",
   "level": 10,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 804,
   "submission_count": null,
   "average_tries": 2.968899965286255

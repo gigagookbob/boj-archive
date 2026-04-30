@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, December 12, 2009",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "binary_search",
-    "precomputation"
-  ],
+  "tags": ["math", "bruteforcing", "binary_search", "precomputation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.3077000379562378

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2018, Day 1",
   "level": 17,
-  "tags": [
-    "dp",
-    "knapsack",
-    "sorting"
-  ],
+  "tags": ["dp", "knapsack", "sorting"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.8280999660491943

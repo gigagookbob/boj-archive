@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2015 인하대학교 프로그래밍 경시대회, pppgod, hwon233, admln, jh05013, eaststar, kangwlgns",
   "level": 16,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 1643,
   "submission_count": null,
   "average_tries": 2.5197999477386475

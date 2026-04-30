@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, Final Exam #2, kks227",
   "level": 21,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.5309998989105225

@@ -15,10 +15,7 @@
   "hint": "<p>In the example, the first expression is never true. It can be written as (x &amp; !x), which has a length of 6. The third example can be simplified by applying De Morgan’s law twice (after which it becomes equivalent to the second example).</p>",
   "source": "Contest, IDI Open Contest, IDI Open 2008",
   "level": 18,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

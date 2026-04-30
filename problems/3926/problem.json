@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2004 in Ehime",
   "level": 16,
-  "tags": [
-    "implementation",
-    "string",
-    "trees",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "trees", "parsing"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

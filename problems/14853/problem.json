@@ -15,13 +15,7 @@
   "hint": null,
   "source": "jh05013",
   "level": 24,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability",
-    "calculus",
-    "bayes"
-  ],
+  "tags": ["math", "combinatorics", "probability", "calculus", "bayes"],
   "accepted_user_count": 214,
   "submission_count": null,
   "average_tries": 3.8224000930786133

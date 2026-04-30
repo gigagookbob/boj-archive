@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Platinum",
   "level": 23,
-  "tags": [
-    "binary_search",
-    "bitmask",
-    "cht",
-    "dp",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["binary_search", "bitmask", "cht", "dp", "dp_bitfield", "tsp"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.2777999639511108

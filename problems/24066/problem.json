@@ -15,10 +15,7 @@
   "hint": "<p>The first query is of type $2$ and we must calculate the sum of elements of all continuous subsequences with length $m = 4$ from sequence $(2, 5, 1, 9, 3, 4)$. These subsequences are $(2, 5, 1, 9)$, $(5, 1, 9, 3)$, $(1, 9, 3, 4)$, and the sum of their elements is 52.</p>\n<p>The second query is of type $1$ and requires the circular permutation of elements from array $A$, situated at indexes $2$, $5$, $8$. So, the array $A$ will become $(7, 9, 5, 1, 6, 3, 4, 2)$.</p>\n<p>The third query is of type $2$ and we must calculate the sum of elements of all continuous subsequences with length $m = 3$ from sequence $(9, 5, 1, 6, 3, 4)$. These subsequences are $(9, 5, 1), (5, 1, 6), (1, 6, 3), (6, 3, 4)$, and the sum of their elements is $50$.</p>",
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2021",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.1875

@@ -19,14 +19,7 @@
   "hint": "<p>Consider the case where there are 5 huts and 4 paths, connecting between hut 1 and hut 2, between hut 2 and hut 3, between hut 2 and hut 4, and between hut 4 and hut 5.</p>\n<ol>\n<li>Assume that he first has a cat in hut 3 and a dog in hut 5. By blocking a path between hut 2 and hut 4, he can prevent the cat and the dog from meeting. Therefore, the danger level at this time is 1.</li>\n<li>Assume that he then has a new cat in hut 2 and a new dog in hut 1. By blocking a path between hut 2 and hut 4 and a path between hut 1 and hut 2, he can prevent the cats and the dogs from meeting. Therefore, the danger level at this time is 2.</li>\n<li>Assume that he finally give the neighbor the cat in hut 2. He only needs to block the path between hut 2 and hut 3, so the danger level is now 1.</li>\n</ol>",
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2018",
   "level": 26,
-  "tags": [
-    "dp",
-    "data_structures",
-    "trees",
-    "segtree",
-    "dp_tree",
-    "hld"
-  ],
+  "tags": ["dp", "data_structures", "trees", "segtree", "dp_tree", "hld"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.717400074005127

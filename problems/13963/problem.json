@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2016",
   "level": 22,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

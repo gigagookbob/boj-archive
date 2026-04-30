@@ -23,10 +23,7 @@
   "hint": "<p>로고송의 영문 번역은 \"<span style=\"color:#e74c3c;\"><code>my era of success began with seoul cyber university, since attending seoul cyber university, more companies have been seeking me out, my life has changed since i went to seoul cyber university, the strategy that changes the future, seoul cyber university. </code></span>\"이다.</p>",
   "source": "University, 서울사이버대학교, 2023 서울사이버대학교 프로그래밍 경진대회 (SCUPC), jychun, oldos, cgiosy, cologne, junseo, sean9892",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1080,
   "submission_count": null,
   "average_tries": 1.3046000003814697

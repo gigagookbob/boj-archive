@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, October 20, 2018, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, October 20, 2018, Advanced",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.125

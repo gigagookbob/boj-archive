@@ -15,10 +15,7 @@
   "hint": "<p>In this example, only color 2 could have been the first to be painted. Color 3 clearly had to have been painted after color 7, and color 7 clearly had to have been painted after color 2.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 US Open Contest, Bronze",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 274,
   "submission_count": null,
   "average_tries": 1.8248000144958496

@@ -23,11 +23,7 @@
   "hint": "<p>В первом примере закодированную строку можно получить из &lt;&lt;<code>b</code>&gt;&gt;, если $d = 8$, а также из &lt;&lt;<code>X</code>&gt;&gt;, если $d = 9$.</p>\n<p>Во втором примере закодированную строку можно получить только из &lt;&lt;<code>dZ</code>&gt;&gt; при $d = 5$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, March 24, 2019",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["bruteforcing", "combinatorics", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.2857000827789307

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2019: daVinci",
   "level": 18,
-  "tags": [
-    "dag",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["dag", "dp", "dp_tree", "graphs", "trees"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5999999046325684

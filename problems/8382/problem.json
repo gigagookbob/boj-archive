@@ -15,12 +15,7 @@
   "hint": "<p>Considered subsets are: {1, 3, 4}, {1, 3, 5}, {1, 4, 5}, {1, 4, 6}, {1, 5, 6}, {2, 3, 5}, {2, 5, 6}, {3, 4, 5} and {4, 5, 6}.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2007",
   "level": 22,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring",
-    "fft",
-    "generating_function"
-  ],
+  "tags": ["math", "exponentiation_by_squaring", "fft", "generating_function"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 6.099999904632568

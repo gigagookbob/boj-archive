@@ -15,9 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2014, Novice",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 207558,
   "submission_count": null,
   "average_tries": 2.3101999759674072

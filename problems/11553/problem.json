@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:136px; width:305px\"/></p>\n<p>The figure shows the only possible location for the pyramid's base having a side of length 3.</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2008, Day 2",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "two_pointer"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3

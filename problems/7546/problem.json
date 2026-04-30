@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2004, baekjoon",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory"
-  ],
+  "tags": ["math", "implementation", "number_theory"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.125

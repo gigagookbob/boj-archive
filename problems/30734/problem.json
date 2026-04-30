@@ -15,10 +15,7 @@
   "hint": "<p>Жюри олимпиады не гарантирует существование решения, выполняющегося на всех тестах с двукратным запасом времени работы.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2017-18",
   "level": 8,
-  "tags": [
-    "math",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arbitrary_precision"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.8824000358581543

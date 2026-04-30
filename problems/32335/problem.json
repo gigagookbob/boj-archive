@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 · 세종대학교, 제 2회 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC), Beginner, jrdora, dkxkqkrtkddn, gggkik, gs22123, gunwookim, hansoyo, iccodly, infikei, ingyu1008, opusdeisong, wjdclgns12, zxvm5962",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 2.5204999446868896

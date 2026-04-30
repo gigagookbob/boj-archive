@@ -15,13 +15,7 @@
   "hint": "<p>To make things clearer, we will show the reasoning behind the third input example, where A says “I am evil.”. What can be deduced from this? Obviously A cannot be divine, since she would be lying, similarly A cannot be evil, since she would tell the truth. Therefore, A must be human, moreover, since she is lying, it must be night. So the correct output is as shown.</p>\n<p>In the fourth input example, it is obvious that A is lying since her two statements are contradictory. So, B can be neither human nor evil, and consequently must be divine. B always tells the truth, thus A must be evil. Voil`a!</p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1997",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["bruteforcing", "case_work", "implementation", "parsing", "string"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.9000000953674316

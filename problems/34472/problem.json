@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, LG Collegiate Programming Contest, LGCPC 2025 본선, junie, koosaga",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 2.2799999713897705

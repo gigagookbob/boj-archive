@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2기 -chinoaww는 피드백이 아니에요-, ibm2006, djm03178, gubshig, hyperbolic, oh040411, pyb1031, woohyun_jng",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "sqrt_decomposition"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 5.4375

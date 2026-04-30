@@ -27,13 +27,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, kcm1700",
   "level": 14,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "number_theory", "euclidean"],
   "accepted_user_count": 2579,
   "submission_count": null,
   "average_tries": 2.79259991645813

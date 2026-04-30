@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 1991 ACM South Pacific Programming Contest",
   "level": 11,
-  "tags": [
-    "backtracking",
-    "bruteforcing"
-  ],
+  "tags": ["backtracking", "bruteforcing"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.884600043296814

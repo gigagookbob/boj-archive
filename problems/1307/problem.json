@@ -15,11 +15,7 @@
   "hint": null,
   "source": "xhark, jh05013",
   "level": 17,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["math", "implementation", "ad_hoc"],
   "accepted_user_count": 280,
   "submission_count": null,
   "average_tries": 2.9749999046325684

@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2017, Final",
   "level": 14,
-  "tags": [
-    "bitmask",
-    "greedy"
-  ],
+  "tags": ["bitmask", "greedy"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

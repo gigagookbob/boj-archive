@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li>7: abb</li>\n<li>4: abcabb</li>\n<li>0: abcdabcabb</li>\n<li>9: b</li>\n<li>8: bb</li>\n<li>5: bcabb</li>\n<li>1: bcdabcabb</li>\n<li>6: cabb</li>\n<li>2: cdabcabb</li>\n<li>3: dabcabb</li>\n</ul>",
   "source": "baekjoon, leedongbin",
   "level": 18,
-  "tags": [
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["string", "suffix_array"],
   "accepted_user_count": 581,
   "submission_count": null,
   "average_tries": 1.6075999736785889

@@ -19,9 +19,7 @@
   "hint": "<p>U prvom primjeru test podataka, mogući itinerari su <code>ZAG-SPU-ZAGi ZAG-SPU-ZAG-SPU-ZAG</code>.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2017",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

@@ -15,9 +15,7 @@
   "hint": "<p>In the first case, you went around the polygon in the correct direction, so it is safe to fight the clock devil and try to save Rose.</p>\n<p>In the second case, you messed up, and it is time to start running. Sorry Rose!</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2016",
   "level": 12,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.809499979019165

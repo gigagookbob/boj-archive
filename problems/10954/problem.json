@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, doju",
   "level": 19,
-  "tags": [
-    "implementation",
-    "dp",
-    "case_work"
-  ],
+  "tags": ["implementation", "dp", "case_work"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.5676000118255615

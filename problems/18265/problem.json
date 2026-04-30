@@ -15,11 +15,7 @@
   "hint": "<p>The 4th number spoken is 7. The first 4 numbers spoken are 1, 2, 4, 7, since we skip over any time a cow says \"Moo\".</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2019 December Contest, Silver",
   "level": 7,
-  "tags": [
-    "math",
-    "binary_search",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "binary_search", "inclusion_and_exclusion"],
   "accepted_user_count": 487,
   "submission_count": null,
   "average_tries": 2.351099967956543

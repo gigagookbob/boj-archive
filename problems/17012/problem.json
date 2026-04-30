@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCC 2019 Junior Division",
   "level": 0,
-  "tags": [
-    "string",
-    "backtracking"
-  ],
+  "tags": ["string", "backtracking"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

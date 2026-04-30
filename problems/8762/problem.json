@@ -15,12 +15,7 @@
   "hint": "<p>W pierwszym zestawie testowym wynikiem jest 3713, ponieważ:</p>\n<ul>\n<li>2<strong>3</strong> dzieli się przez 23</li>\n<li>29<strong>7</strong> dzieli się przez 9</li>\n<li>1331 dzieli się przez <strong>1</strong>1</li>\n<li>45825 dzieli się przez 1<strong>3</strong></li>\n</ul>",
   "source": "Contest, Spot, FallSpot 2011",
   "level": 7,
-  "tags": [
-    "arithmetic",
-    "bruteforcing",
-    "math",
-    "string"
-  ],
+  "tags": ["arithmetic", "bruteforcing", "math", "string"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.5806000232696533

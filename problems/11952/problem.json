@@ -19,13 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:224px; width:221px\" /></p>\r\n\r\n<p>도시는 이렇게 생겼다. 이때</p>\r\n\r\n<p>1 - 2 - 5 - 9 - 10 - 11 - 12 - 13</p>\r\n\r\n<p>으로 이동하는 것이 가장 싼 가격으로 이동할 수 있는 방법이다.</p>\r\n\r\n<p>이때 1과 13에서는 숙박할 필요가 없다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2015/2016 예선, sutekine",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "dijkstra"],
   "accepted_user_count": 497,
   "submission_count": null,
   "average_tries": 3.0785000324249268

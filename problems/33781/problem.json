@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, Delft University of Technology, Sjaars Kampioenschap Programmeren 2014",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.0714000463485718

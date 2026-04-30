@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO February 2006 Contest, Bronze",
   "level": 10,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["string", "bruteforcing", "backtracking"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.6470999717712402

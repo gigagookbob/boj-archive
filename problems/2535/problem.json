@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2012, 고등부, meme0724, dkan9634, ksj9665",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 3859,
   "submission_count": null,
   "average_tries": 1.6618000268936157

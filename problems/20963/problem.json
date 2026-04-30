@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #5",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "segtree"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2

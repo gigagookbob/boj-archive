@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2003 Mid-Central Regional Programming Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 1.253499984741211

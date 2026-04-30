@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 1997, kks227, jinhan814, exponential_e",
   "level": 0,
-  "tags": [
-    "trees",
-    "graphs",
-    "data_structures"
-  ],
+  "tags": ["trees", "graphs", "data_structures"],
   "accepted_user_count": 1230,
   "submission_count": null,
   "average_tries": 4.827600002288818

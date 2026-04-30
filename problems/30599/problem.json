@@ -23,11 +23,7 @@
   "hint": "<p>In the first example, $3$ is divisible by $3$, and its sum of digits, $3$, is also divisible by $3$.</p>\n<p>In the second example, $1898$ is divisible by $13$, and its sum of digits, $1 + 8 + 9 + 8 = 26$, is also divisible by $13$.</p>\n<p>In the third example, any positive integer satisfies the conditions.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Regional Contest",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 1.4666999578475952

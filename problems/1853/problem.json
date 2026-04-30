@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2006, gratus907, tlwpdus",
   "level": 21,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "calculus",
-    "geometry_3d"
-  ],
+  "tags": ["math", "implementation", "geometry", "calculus", "geometry_3d"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.927500009536743

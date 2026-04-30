@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Orange Cup, Orange Cup, 79brue, cs71107, koosaga, urd05",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "two_pointer"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "two_pointer"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 4.343800067901611

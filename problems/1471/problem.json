@@ -27,14 +27,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "scc",
-    "functional_graph"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dfs", "scc", "functional_graph"],
   "accepted_user_count": 236,
   "submission_count": null,
   "average_tries": 1.8389999866485596

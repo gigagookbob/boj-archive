@@ -15,10 +15,7 @@
   "hint": "<p>i번째 숫자카드가 팰린드롬의 중심이 되니, 해당 팰린드롬의 길이는 홀수일 수밖에 없다. </p>",
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Advanced Division, dajinstory",
   "level": 15,
-  "tags": [
-    "dp",
-    "lcs"
-  ],
+  "tags": ["dp", "lcs"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 2.1856000423431396

@@ -19,12 +19,7 @@
   "hint": "<p>상수는 아래 그림과 같은 방법으로 탈출할 수 있습니다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"height:202px; width:640px\"/></p>\n<p>이렇게 하면 A[1][1]에서 2원, A[3][2]에서 1원의 비용이 들어 총 3원의 비용이 들게 되며, 이것이 최소입니다.</p>",
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA8",
   "level": 11,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 936,
   "submission_count": null,
   "average_tries": 2.5095999240875244

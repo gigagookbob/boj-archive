@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 466px; height: 200px;\"/></p>\n<p>진행자가 세 개의 상자 중 어떤 두 상자를 고르더라도 $4^2=16$개의 서로 다른 당첨 번호가 만들어진다. 예를 들어 첫 번째 상자와 두 번째 상자를 골랐을 경우 만들어지는 당첨 번호는 위와 같다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021 예선, doju, cki86201, jh05013, koosaga, pichulia, xiaowuc1",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "constructive", "primality_test"],
   "accepted_user_count": 349,
   "submission_count": null,
   "average_tries": 1.7192000150680542

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2021",
   "level": 18,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.085700035095215

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2010",
   "level": 14,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting", "ad_hoc"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.200000047683716

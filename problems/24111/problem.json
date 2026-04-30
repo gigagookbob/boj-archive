@@ -15,10 +15,7 @@
   "hint": "<p>このときの JOI 国を図示すると，下のようになる．見張られている区画の個数は 18 である (黒丸は見張 りを表す．また，見張られている区画は灰色で示されている)．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 232px; height: 226px;\"/></p>",
   "source": ", Camp, JOI Spring Training Camp, JOI 2009/2010 Spring Training Camp",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "math"
-  ],
+  "tags": ["binary_search", "math"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.25

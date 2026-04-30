@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2022 Greater New York Programming Contest",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.2258000373840332

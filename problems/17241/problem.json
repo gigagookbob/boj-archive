@@ -15,10 +15,7 @@
   "hint": "<p>예제의 마을을 그림으로 나타내면 다음과 같다.</p>\n<p><img alt=\"\" src=\"1.png\" style=\"width: 200px; height: 175px;\"/></p>\n<p>여기서 1번 집에 파인애플 피자를 전달하게 되면 아래와 같이 1, 2, 3번 집이 새로이 파인애플 피자를 좋아하게 된다.</p>\n<p><img alt=\"\" src=\"2.png\" style=\"width: 200px; height: 172px;\"/></p>\n<p>그 다음 2번 집에 파인애플 피자를 전달하게 되면 4번 집이 새로이 파인애플 피자를 좋아하게 된다.</p>\n<p><img alt=\"\" src=\"3.png\" style=\"width: 200px; height: 172px;\"/></p>\n<p>1, 2, 3번 집은 이미 파인애플 피자를 좋아하기 때문에 출력의 개수에 포함되지 않는다.</p>",
   "source": "University, POSTECH, 2019 PPC, hyperbolic",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 3.5548999309539795

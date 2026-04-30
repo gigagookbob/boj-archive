@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2011, Stage 2",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "sorting"
-  ],
+  "tags": ["binary_search", "parametric_search", "sorting"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.3333001136779785

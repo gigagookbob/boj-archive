@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2006/2007, Stage 1",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "bitmask",
-    "dijkstra",
-    "tsp"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "bitmask", "dijkstra", "tsp"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 5.970600128173828

@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, HiQ Challenge 2017",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "set",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "set", "bfs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

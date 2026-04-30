@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2016 IUPC 인하대학교 프로그래밍 경진대회, flflds0811, wjdclgns12",
   "level": 14,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 189,
   "submission_count": null,
   "average_tries": 3.7565999031066895

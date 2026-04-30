@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 10, 2013, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 10, 2013, Advanced",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

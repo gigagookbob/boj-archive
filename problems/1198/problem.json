@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 9,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["math", "bruteforcing", "geometry"],
   "accepted_user_count": 1239,
   "submission_count": null,
   "average_tries": 1.694100022315979

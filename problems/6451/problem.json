@@ -15,13 +15,7 @@
   "hint": "<p>The diagram on the right illustrates the Sample Input sequence below.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:353px; width:351px\"/></p>",
   "source": "ICPC, Regionals, Africa and Arab, South Africa Regional Contest, 2001 South Africa Regional Contest",
   "level": 11,
-  "tags": [
-    "bfs",
-    "bruteforcing",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "bruteforcing", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.3333001136779785

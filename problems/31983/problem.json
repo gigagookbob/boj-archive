@@ -23,11 +23,7 @@
   "hint": "<p>Pojašnjenje trećeg probnog primjera:</p>\n<p>Ceste za koje je potrebna prva dozvola su označene crvenom bojom, druga dozvola plavom i treća dozvola zelenom.</p>\n<p>Iz grada $1$ nije moguće doći do grada $3$ koristeći samo jednu dozvolu.</p>\n<p>Iz grada $2$ nije moguće doći do grada $1$ koristeći samo jednu dozvolu.</p>\n<p>Iz grada $3$ nije moguće doći do grada $2$ koristeći samo jednu dozvolu.</p>\n<p>Iz grada $4$ nije moguće doći do grada $1$ koristeći samo jednu dozvolu.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 200px; height: 200px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Croatian Olympiad in Informatics 2024",
   "level": 22,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4.307700157165527

@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs"
-  ],
+  "tags": ["dp", "graphs"],
   "accepted_user_count": 1237,
   "submission_count": null,
   "average_tries": 2.274899959564209

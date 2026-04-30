@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2017, gumgood",
   "level": 21,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 3.989799976348877

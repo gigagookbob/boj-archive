@@ -19,10 +19,7 @@
   "hint": null,
   "source": "xhark, jsa3824, greenfox, portableangel, doju",
   "level": 12,
-  "tags": [
-    "math",
-    "case_work"
-  ],
+  "tags": ["math", "case_work"],
   "accepted_user_count": 262,
   "submission_count": null,
   "average_tries": 10.633600234985352

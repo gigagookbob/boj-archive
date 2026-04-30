@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2002",
   "level": 19,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "ad_hoc", "eulerian_path"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

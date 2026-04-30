@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2007 Japan Domestic Contest",
   "level": 14,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "implementation",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "implementation", "shortest_path"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.736799955368042

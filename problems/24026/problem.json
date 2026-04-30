@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2021 송년대회, songc, cs71107, dennisstar, IHHI, jwvg0425, mhy908, qwerasdfzxcl",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "segtree", "sparse_table"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.5522000789642334

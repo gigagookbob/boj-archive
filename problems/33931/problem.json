@@ -15,11 +15,7 @@
   "hint": "<p>반열린구간 $[a,b)$ 는 $a$ 이상 $b$ 미만의 모든 수를 포함하는 구간이다.</p>",
   "source": "University, 인하대학교, 2025 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2025 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, cmgjol010, 39dll, aym506, chlwnsgud7, dongggle, gumgood, hjkim9911, jinhan814, jkw8357, jthis, plan_pt, tlsdydaud1, wjdclgns12",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["math", "ad_hoc", "parity"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 1.9915000200271606

@@ -27,12 +27,7 @@
   "hint": "<p>예제 1의 경우 AAA에서 CCC로 이동하는 최소 이동 상태는 AAA -&gt; CAA -&gt; CBA -&gt; BBA -&gt; BBC -&gt; ABC -&gt; ACC -&gt; CCC 이다.</p>",
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation",
-    "combinatorics",
-    "recursion"
-  ],
+  "tags": ["math", "implementation", "combinatorics", "recursion"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 4.655200004577637

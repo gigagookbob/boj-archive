@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1995, doju, doju",
   "level": 22,
-  "tags": [
-    "backtracking",
-    "pigeonhole_principle"
-  ],
+  "tags": ["backtracking", "pigeonhole_principle"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 11.088199615478516

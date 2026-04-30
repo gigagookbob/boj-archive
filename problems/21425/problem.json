@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2006",
   "level": 11,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4.13040018081665

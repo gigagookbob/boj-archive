@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2015",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "harmonic_number"
-  ],
+  "tags": ["binary_search", "prefix_sum", "harmonic_number"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.0211000442504883

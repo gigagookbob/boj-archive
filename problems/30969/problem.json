@@ -15,9 +15,7 @@
   "hint": "<p>입력의 양이 매우 많으므로, 빠른 입출력 방식을 사용하는 것을 권장한다.</p>",
   "source": "Contest, BOJ User Contest, 나들이, 첫 번째 나들이, vkdldjvkdnj, ibm2006, iktk, measurezero, mujigae, ufshg, utilforever, w8385",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 458,
   "submission_count": null,
   "average_tries": 4.325300216674805

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, ljwljw8541, eric00513, jh01533, kiwiyou, ksoosung77, lms0806, nflight11, pill27211, sedev57, starbow, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 11,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "ad_hoc", "prefix_sum"],
   "accepted_user_count": 249,
   "submission_count": null,
   "average_tries": 2.9758999347686768

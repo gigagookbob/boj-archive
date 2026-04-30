@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Croatian Olympiad in Informatics 2024",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "divide_and_conquer",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["binary_search", "divide_and_conquer", "inclusion_and_exclusion"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4.043499946594238

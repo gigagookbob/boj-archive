@@ -15,9 +15,7 @@
   "hint": "<p>삼각형의 세 변의 길이가 a, b, c일 때, s=(a+b+c)/2 로 두면, 넓이의 제곱은 s&times;(s-a)&times;(s-b)&times;(s-c)이 된다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO February 2002 Contest, Green or Orange",
   "level": 16,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 3.2455999851226807

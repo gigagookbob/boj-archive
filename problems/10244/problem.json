@@ -15,11 +15,7 @@
   "hint": "<p>첫 번째 테스트 케이스의 경우,</p>\r\n\r\n<ul>\r\n\t<li>lo=1, hi=1, f(lo,hi)=4</li>\r\n\t<li>lo=1, hi=2, f(lo,hi)=2</li>\r\n\t<li>lo=2, hi=2, f(lo,hi)=6</li>\r\n</ul>\r\n\r\n<p>가능한 f(lo,hi)의 값은 총 세 개이다.</p>\r\n",
   "source": "University, North American Invitational Programming Contest, NAIPC 2014, expect017, k1178k",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 226,
   "submission_count": null,
   "average_tries": 2.0841000080108643

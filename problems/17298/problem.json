@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, rhdqor213",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 30598,
   "submission_count": null,
   "average_tries": 2.7481000423431396

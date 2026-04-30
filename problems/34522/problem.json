@@ -15,10 +15,7 @@
   "hint": "<p id=\"perfect-bintree\"><a href=\"#r-perfect-bintree\">[1]</a> 포화 이진 트리란 모든 내부 노드가 두 개의 자식 노드를 가지며, 모든 리프 노드가 동일한 깊이에 있는 트리를 의미한다.</p>",
   "source": "University, Centroid 연합, 2025 Centroid Cup, chlwnsgud7, nflight11, yup0927, wapas, utilforever, usb9245, tony9402, swoon, sjhi00, sendol, plan_pt, chan120714, mujigae, koder0205, kevinlys00, kckyoung2, jh01533, hjkim9911, gggkik",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 1.1023000478744507

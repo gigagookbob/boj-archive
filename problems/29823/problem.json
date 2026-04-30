@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2022-23, Open Competition",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 619,
   "submission_count": null,
   "average_tries": 1.2584999799728394

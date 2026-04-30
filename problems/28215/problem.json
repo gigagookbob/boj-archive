@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2023 1차대회, 초등부, Olympiad, 한국정보올림피아드, KOI 2023 1차대회, 고등부, kyo20111",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 2100,
   "submission_count": null,
   "average_tries": 2.1470999717712402

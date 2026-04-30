@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2018",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "greedy", "stack", "two_pointer"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.75

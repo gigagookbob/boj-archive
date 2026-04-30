@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 2, Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 3, jsj0412, gggkik, jjang36524, jms020820, mathtw1030, tlsdydaud1",
   "level": 16,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["greedy", "bruteforcing", "constructive", "case_work"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.8333001136779785

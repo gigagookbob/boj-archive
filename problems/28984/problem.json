@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере перемещения могли быть например такими: 0 -&gt; -1 -&gt; -2 -&gt; 3 -&gt; 2.</p>\n<p>Во втором примере существо должно было сделать перемещение хотя бы на 1 клетку вправо, поэтому в координате 0 оно оказаться не могло.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Basic",
   "level": 6,
-  "tags": [
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "case_work"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.8529000282287598

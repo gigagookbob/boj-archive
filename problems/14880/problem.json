@@ -15,10 +15,7 @@
   "hint": "<p>T를 태가 가져간 조각, D를 도토리가 가져간 조각이라고 했을 때, 총 2<sup>4</sup> = 16가지 방법 중 아래와 같은 4가지 방법은 불가능하다.</p>\n<pre>\nTT\nTT\n\nDD\nDD\n\nDT\nTD\n\nTD\nDT</pre>",
   "source": "baekjoon",
   "level": 25,
-  "tags": [
-    "dp",
-    "dp_connection_profile"
-  ],
+  "tags": ["dp", "dp_connection_profile"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 5

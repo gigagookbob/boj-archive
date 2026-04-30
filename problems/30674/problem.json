@@ -23,12 +23,7 @@
   "hint": "<p>In the first sample, we should count strings [1 2 2] and [2 1 2]. String [2 2 1] is lexicographically grater than string [2 1 2 1], so we do not count it.</p>\n<p>In the second sample we should count all strings except [4 3 2 1], so the answer is $4! - 1 = 23$.</p>\n<p>In the third sample we should count only string [1 1 1 2].</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2021-22, Day 2",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "data_structures",
-    "math",
-    "segtree"
-  ],
+  "tags": ["combinatorics", "data_structures", "math", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

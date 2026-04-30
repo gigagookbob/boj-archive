@@ -15,13 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" /></p>\r\n",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2010, baekjoon",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search",
-    "sweeping",
-    "calculus"
-  ],
+  "tags": ["math", "geometry", "binary_search", "sweeping", "calculus"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

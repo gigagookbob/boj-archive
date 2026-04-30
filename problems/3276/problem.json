@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2001, Regional Competition - Juniors",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 855,
   "submission_count": null,
   "average_tries": 1.3076000213623047

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Small & Large Lighter Cup, 2023 4분기 Small & Large Lighter Cup, kongum, amsminn, bnb2011, cologne, eoaud0108, kidw0124, rejo, rustiebeats, sshs29hanul, utilforever",
   "level": 14,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bruteforcing", "bitmask"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.9746999740600586

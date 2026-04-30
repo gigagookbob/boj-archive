@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>Python 사용자는 PyPy로 제출하는 것을 권장한다.</li>\n<li>정답이 32비트 정수 범위를 넘을 수 있다.</li>\n</ul>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제6회 천하제일 코딩대회 본선, jhnah917, chansol, junseo, kyo20111, ryute",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 228,
   "submission_count": null,
   "average_tries": 3.820199966430664

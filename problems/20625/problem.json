@@ -15,9 +15,7 @@
   "hint": "<p>We now use <u>underline</u> to indicate subsequence $A$ in the binary string.</p>\n<p>For the first sample test case, a valid solution is to divide the binary string into $\\underline{1}000\\underline{101}$ such that $f(\\{1, 1, 0, 1\\}) + f(\\{0, 0, 0\\}) = 1101_2 + 0_2 = 1101_2$.</p>\n<p>For the second sample test case, a valid solution is to divide the binary string into $\\underline{1}1\\underline{1}1$ such that $f(\\{1, 1\\}) + f(\\{1, 1\\}) = 11_2 + 11_2 = 110_2$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 4: Xi Lin Contest 6",
   "level": 23,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 6.099999904632568

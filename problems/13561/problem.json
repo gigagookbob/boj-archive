@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2016",
   "level": 17,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 158,
   "submission_count": null,
   "average_tries": 5.227799892425537

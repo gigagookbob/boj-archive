@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 259px; height: 278px;\"/></p>\n<p>Para najbardziej oddalonych miast to (2, 4), a czas przejazdu między nimi wynosi 7. W tych właśnie miastach należy wybudować lotniska.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "two_pointer"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 7.6666998863220215

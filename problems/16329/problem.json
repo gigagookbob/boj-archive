@@ -15,15 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2018",
   "level": 22,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "flow",
-    "greedy",
-    "mcmf",
-    "trees",
-    "graphs"
-  ],
+  "tags": ["dp", "dp_tree", "flow", "greedy", "mcmf", "trees", "graphs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.7143000364303589

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2022 Winter), pichulia, chansol, cheetose, eaststar, gumgood, heeda0528, jh05013, jwvg0425, lky7674, pjshwa",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 828,
   "submission_count": null,
   "average_tries": 1.1835999488830566

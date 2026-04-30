@@ -15,9 +15,7 @@
   "hint": "<p>The salesman first visits the left half (cities $1$, $3$ and $4$) and then the right half (cities $2$, $5$ and $6$).</p>\n<p>To visit cities $1$, $3$ and $4$, he first visits the upper half (cities $3$ and $4$) before the lower half (city $1$). The cities in the upper half are split into the left half (city $3$), visited first, and the right half (city $4$), visited afterwards.</p>\n<p>Cities $2$, $5$ and $6$ are split into the lower half (city $6$) and the upper half (cities $2$ and $5$). Here, the salesman first visits the lower half. He continues his route with the upper half, where he first visits the right half (city $5$) and concludes with the left half (city $2$).</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2021",
   "level": 23,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.615399956703186

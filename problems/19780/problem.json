@@ -23,10 +23,7 @@
   "hint": "<p>В первом примере можно, например, перелить $0.5$ литра элексира из первого сосуда во второй и $1.5$ литра в третий, после чего разбить первый сосуд.</p>\n<p>Во втором сосуды исходно содержат равное количество элексира, можно ничего не переливать.</p>\n<p>В третьем примере можно, например, перелить 1 литр элексира из первого сосуда во второй, по 2 литра из пятого во второй и третий, 1 литр из пятого в четвертый, после чего разбить первый и пятый сосуды.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2014",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.75

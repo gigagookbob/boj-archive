@@ -19,11 +19,7 @@
   "hint": "<p>두 예제의 삼각격자와 직선을 그려보면 다음과 같다.</p>\n<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 300px; height: 263px;\"/></td>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 300px; height: 263px;\"/></td>\n</tr>\n<tr>\n<td>그림 F.2: 예제 1에 해당하는 그림</td>\n<td>그림 F.3: 예제 2에 해당하는 그림</td>\n</tr>\n</tbody>\n</table>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021 예선, evenharder, cki86201, jh05013, koosaga, songc",
   "level": 22,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "fft"
-  ],
+  "tags": ["math", "prefix_sum", "fft"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.2750000953674316

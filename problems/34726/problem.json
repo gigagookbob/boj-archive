@@ -27,10 +27,7 @@
   "hint": "<p>2025년은 DRS를 사용하는 마지막 해이다. 2026년부터는 새로운 기능으로 대체될 예정이다.</p>",
   "source": "University, 동국대학교, 2025 동국대학교 프로그래밍 경진대회 DGUPC, sadang_mofun, exzile_27, kckyoung2, kevinlys00, pgggggggggh, swoon, wlgh7407",
   "level": 8,
-  "tags": [
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["sorting", "prefix_sum"],
   "accepted_user_count": 131,
   "submission_count": null,
   "average_tries": 2.0840001106262207

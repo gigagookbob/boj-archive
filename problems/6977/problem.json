@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 1996, CCC 1996",
   "level": 8,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.7446999549865723

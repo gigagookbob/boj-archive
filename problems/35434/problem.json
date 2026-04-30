@@ -19,12 +19,7 @@
   "hint": "<p>수열 $P$의 부분 수열이란, 수열 $P$에서 $0$개 이상의 원소를 제거해서 만든 수열을 뜻한다.</p>\n<p>$P = [1, 2, 4, 1]$ 에서 부분 수열의 예시로는 $[1, 4, 1], [2, 4]$ 등이 있다. 부분 수열이 아닌 예시로는 $[2, 1, 1]$ 등이 있다.</p>",
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2026 IamCoder Qualification Test, shijun2009, gs22059, lighton, mj1000j, realpsdoingdamyoo, ryanson, swlee0202, woohyun_jng",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "two_pointer",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "greedy", "two_pointer", "sparse_table"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.3461999893188477

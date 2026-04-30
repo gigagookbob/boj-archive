@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 강원도 대학생 코딩 경진대회, 2024 강원도 대학생 코딩경진대회, onjo0127, ahgus89, junie, silverwolf",
   "level": 14,
-  "tags": [
-    "dp",
-    "sweeping"
-  ],
+  "tags": ["dp", "sweeping"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.8594000339508057

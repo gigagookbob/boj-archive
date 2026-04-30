@@ -19,11 +19,7 @@
   "hint": null,
   "source": "baekjoon, orihehe, rdd6584",
   "level": 11,
-  "tags": [
-    "math",
-    "sorting",
-    "constructive"
-  ],
+  "tags": ["math", "sorting", "constructive"],
   "accepted_user_count": 1777,
   "submission_count": null,
   "average_tries": 2.3066999912261963

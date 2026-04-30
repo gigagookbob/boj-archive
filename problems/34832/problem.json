@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2025 연세대학교 프로그래밍 경진대회, plast, leo020630, lky7674, oh040411, pyb1031, ystaeyoon113",
   "level": 19,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.952400207519531

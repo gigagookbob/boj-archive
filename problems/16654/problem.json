@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2018",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "string",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "string", "stack"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.4074000120162964

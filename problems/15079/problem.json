@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2017 East Central Regional Contest 연습 세션",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "case_work"],
   "accepted_user_count": 268,
   "submission_count": null,
   "average_tries": 1.391800045967102

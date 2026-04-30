@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2006",
   "level": 16,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "greedy", "simulation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3

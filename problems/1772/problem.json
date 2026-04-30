@@ -15,12 +15,7 @@
   "hint": "<p>예시의 경우, 1-4, 1-5 두 개의 간선을 제거하면 원하는 크기의 정원수를 얻을 수 있다.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO February 2002 Contest, Green or Orange, author5",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "knapsack"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "knapsack"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 1.832200050354004

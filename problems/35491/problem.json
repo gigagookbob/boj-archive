@@ -15,12 +15,7 @@
   "hint": null,
   "source": "hibye1217, mujigae, pyb1031, utilforever",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "trees",
-    "constructive",
-    "recursion"
-  ],
+  "tags": ["ad_hoc", "trees", "constructive", "recursion"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

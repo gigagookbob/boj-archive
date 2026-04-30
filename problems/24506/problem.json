@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 블롭컵, 제1회 블롭컵, gunwookim, chansol, flappybird, jjang36524, mjhmjh1104",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 3.097599983215332

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 11: Grand Prix of Tatarstan, Division 1",
   "level": 22,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "ternary_search",
-    "rotating_calipers"
-  ],
+  "tags": ["geometry", "convex_hull", "ternary_search", "rotating_calipers"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.625

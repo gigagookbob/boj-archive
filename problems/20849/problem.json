@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Final",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["dp", "greedy", "binary_search"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2010 Southeast USA Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.7965999841690063

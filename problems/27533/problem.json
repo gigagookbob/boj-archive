@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter), pjshwa, amel, jthis, leo020630, mjhmjh1104",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "linear_algebra",
-    "lgv"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "linear_algebra", "lgv"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 1.2949999570846558

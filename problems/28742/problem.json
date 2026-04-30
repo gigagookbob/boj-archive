@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 9, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 9, 2019, Advanced",
   "level": 15,
-  "tags": [
-    "bitmask",
-    "prefix_sum"
-  ],
+  "tags": ["bitmask", "prefix_sum"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

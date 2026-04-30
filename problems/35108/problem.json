@@ -19,11 +19,7 @@
   "hint": "<h2>부분 그래프</h2>\n<p>그래프 $G=(V,E)$의 부분 그래프 $H=(V',E')$는 정점 집합 $V'$에 대하여 $V' \\subseteq V$를 만족하고, 간선 집합 $E'$에 대하여 $E' \\subseteq \\{(u,v) \\in E \\mid u,v \\in V'\\}$를 만족하는 그래프이다. 다시 말해 $G$에서 정점 일부 또는 전부를 선택하여 정점 집합을 구성하고, 그 집합에 속한 정점들 사이를 연결하는 $G$에 존재하던 간선 일부 또는 전부를 선택하여 간선 집합을 구성한 그래프이다.</p>\n<h2>그래프의 동형</h2>\n<p>두 그래프 $G,H$의 정점 집합을 각각 $V,V'$라 할 때 $G,H$가 동형이라는 것은, $G$의 임의의 두 정점 $u,v$에 대하여 $u$와 $v$를 연결하는 간선이 $G$에서 존재하는 것과 $f(u)$와 $f(v)$를 연결하는 간선이 $H$에서 존재하는 것이 필요충분조건인 일대일 함수 $f:V \\rightarrow V'$가 존재한다는 것이다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2025, shjohw12, 79brue, bnb2011, dbrua1222, jinhan814, jthis, oh040411, tlsdydaud1, yyyy7089",
   "level": 19,
-  "tags": [
-    "graphs",
-    "case_work",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["graphs", "case_work", "inclusion_and_exclusion"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.61899995803833

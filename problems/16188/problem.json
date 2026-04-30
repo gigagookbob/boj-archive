@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2018 KAIST 8th ACM-ICPC Mock Competition, Contest, Open Cup, 2018/2019 Season, Stage 5: Grand Prix of Korea, tncks0121",
   "level": 20,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 3.3076999187469482

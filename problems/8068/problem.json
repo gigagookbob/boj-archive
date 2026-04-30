@@ -15,13 +15,7 @@
   "hint": "<p>A picture below shows the mesh after the rain (seen from above). Puddles are drawn in gray.</p>\n<p><img alt=\"\" src=\"1.gif\" style=\"height:110px; width:193px\"/><img alt=\"\" src=\"2.gif\" style=\"height:110px; width:193px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1998/1999, Stage 3",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dijkstra"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "bfs", "dijkstra"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 2.7639999389648438

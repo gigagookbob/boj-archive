@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2007 Day 2",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation",
-    "bitmask"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation", "bitmask"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

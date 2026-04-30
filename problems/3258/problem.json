@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, National Competition #1 - Juniors, baek1134, dbfldkfdbgml, logwns",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 331,
   "submission_count": null,
   "average_tries": 2.776400089263916

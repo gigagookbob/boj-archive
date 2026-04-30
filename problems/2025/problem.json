@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 26,
-  "tags": [
-    "constructive",
-    "heuristics"
-  ],
+  "tags": ["constructive", "heuristics"],
   "accepted_user_count": 188,
   "submission_count": null,
   "average_tries": 16.686199188232422

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2022 Local Programming Contest (Final Round)",
   "level": 12,
-  "tags": [
-    "graphs",
-    "string",
-    "mst"
-  ],
+  "tags": ["graphs", "string", "mst"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.372499942779541

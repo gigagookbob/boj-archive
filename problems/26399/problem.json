@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example: The image shows all nice rectangles from the first example.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 243px; height: 85px;\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #2",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "hashing",
-    "prefix_sum"
-  ],
+  "tags": ["data_structures", "hashing", "prefix_sum"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.4166998863220215

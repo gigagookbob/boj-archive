@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Qualifying Round)",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.0895999670028687

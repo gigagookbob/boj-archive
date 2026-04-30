@@ -15,12 +15,7 @@
   "hint": "<p>After all events from the input sequence took place, there are three club members who can wear skates of size 1 or 2, two members who can wear sizes 2 or 3, and three members who can wear sizes 3 or 4. With such list of members two pairs of ice-skates of sizes 1, 2, 3, and 4 each suffice:</p>\n<ul>\n<li>two members get skates of size 1;</li>\n<li>the skates of size 2 are given to the member who can wear size 1 or 2, and another one who can wear size 2 or 3;</li>\n<li>the skates of size 3 are given to the member who can wear size 2 or 3, and another one who can wear size 3 or 4;</li>\n<li>the remaining two members receive skates of size 4.</li>\n</ul>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2008/2009, Stage 2, cheetose, chpark1111, jh05013",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "maximum_subarray",
-    "hall"
-  ],
+  "tags": ["data_structures", "segtree", "maximum_subarray", "hall"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 1.6970000267028809

@@ -15,9 +15,7 @@
   "hint": "<p>The minimum inconvenience is 10, and there are 4 spots that Farmer John can build the farm to achieve this: (0, -1), (0, 0), (1, 0), and (1, 1).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO February 2007 Contest, Gold",
   "level": 15,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 3.3461999893188477

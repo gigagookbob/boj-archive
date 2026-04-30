@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2012/2013, Contest #2, arine, baekjoon, surung9898, adfsfsf",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 261,
   "submission_count": null,
   "average_tries": 3.038300037384033

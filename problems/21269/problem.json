@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 14: Grand Prix of Tokyo",
   "level": 26,
-  "tags": [
-    "ad_hoc",
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["ad_hoc", "bitmask", "dp", "dp_bitfield", "math", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.5

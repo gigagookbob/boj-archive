@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, November 21, 2015, Advanced",
   "level": 20,
-  "tags": [
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["inclusion_and_exclusion", "math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

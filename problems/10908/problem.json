@@ -19,11 +19,7 @@
   "hint": "<p>두 번째 예제의 경우 \\(\\left(P_3\\right)^2 = \\left(2 \\varphi + 1\\right)^2 = 4 \\varphi^2 + 4\\varphi + 1 = 8\\varphi^2-3\\)이며, -3을 1,000,000,007로 나눈 나머지는 1,000,000,004이므로, 위와 같은 출력이 나온다.</p>",
   "source": "Contest, kriiicon, 제2회 kriiICPC, august14",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 5.301499843597412

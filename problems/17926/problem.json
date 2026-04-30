@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, Nova Challenge 2018",
   "level": 14,
-  "tags": [
-    "dp",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "binary_search", "prefix_sum"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

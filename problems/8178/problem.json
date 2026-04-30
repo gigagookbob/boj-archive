@@ -15,12 +15,7 @@
   "hint": "<p>The discs in the figures represent towns; the numbers inside are the towns' numbers. The edges represent the roads; the numbers above them - the time needed to walk down the road. The numbers next to the discs (in italics) denote the kinds of monsters which the swords made the town's blacksmith(s) work against. The numbers below the edges (in italics) denote the kinds of monsters one can come across on the road.</p>\n<p>Byteasar the hexer should first go to town no. 2, acquire a sword against the monster of kind 2, go back to town 1, then proceed to town 4 and from there finally go to Byteburg.</p>\n<p>In the second example Byteasar is unable to acquire a sword against the monster of kind 1, which makes reaching Byteburg impossible.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2008/2009, Stage 3",
   "level": 16,
-  "tags": [
-    "bitmask",
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["bitmask", "dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.9375

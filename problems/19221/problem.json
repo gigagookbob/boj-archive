@@ -19,12 +19,7 @@
   "hint": "<p>CD/CT system for the first sample test is shown below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 768px; height: 645px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2019",
   "level": 22,
-  "tags": [
-    "implementation",
-    "graphs",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["implementation", "graphs", "constructive", "case_work"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.363600015640259

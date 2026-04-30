@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2010, Day 2",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 4.1666998863220215

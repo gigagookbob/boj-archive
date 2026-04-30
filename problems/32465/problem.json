@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 224px; width: 450px;\"/></p>\n<p style=\"text-align: center;\">The costs of rhombuses given in example 1</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height: 393px; width: 450px;\"/></p>\n<p style=\"text-align: center;\">The solution for example 2</p>",
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2024 KAIST 14th ICPC Mock Competition, azberjibiou, jhwest2, koosaga, seonah, silverwolf",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["ad_hoc", "flow", "mcmf", "graphs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4.285699844360352

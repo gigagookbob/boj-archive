@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2019",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 3.266700029373169

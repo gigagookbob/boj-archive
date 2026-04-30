@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case the initial configuration is</p>\n<pre>\n1 2 3 2\n4 3 1 3\n</pre>\n<p>We can achieve the desired configuration in three steps:</p>\n<p>1. rotating the leftmost square,</p>\n<pre>\n3 4 3 2\n2 1 1 3\n</pre>\n<p>2. rotating the rightmost square,</p>\n<pre>\n3 4 3 1\n2 1 2 3\n</pre>\n<p>3. rotating the middle square.</p>\n<pre>\n3 2 1 1\n2 3 4 3\n</pre>\n<p>It is not possible to achieve the desired configuration in the second test case.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 8: Grand Prix of Poland, ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2021",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "segtree",
-    "parity"
-  ],
+  "tags": ["data_structures", "ad_hoc", "segtree", "parity"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

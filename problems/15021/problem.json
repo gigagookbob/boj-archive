@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2017",
   "level": 22,
-  "tags": [
-    "case_work",
-    "lca",
-    "recursion",
-    "trees"
-  ],
+  "tags": ["case_work", "lca", "recursion", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

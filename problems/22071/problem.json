@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2015, RCC 2015 First Qualification Round",
   "level": 5,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.1966999769210815

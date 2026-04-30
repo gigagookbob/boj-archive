@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 대구과학고등학교, DSPC 2024, kes0716, h0ngjun7, iansong, kwoncycle, lky7674, tony9402, utilforever, vkdldjvkdnj",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 240,
   "submission_count": null,
   "average_tries": 1.645799994468689

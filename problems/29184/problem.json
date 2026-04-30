@@ -23,11 +23,7 @@
   "hint": "<p>В первом примере Скруджу нужно перейти от точки с координатой $0$ к точке с координатой $1$, съесть первое пирожное, потом перейти к точке с координатой $3$ и съесть третье пирожное.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2014-2015 Season, March 30, 2015",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

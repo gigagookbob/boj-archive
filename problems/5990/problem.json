@@ -15,10 +15,7 @@
   "hint": "<p>'abcxxxxabcx' is a prefix of the first string and a suffix of the second string.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO October 2009 Contest, Gold",
   "level": 5,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 112,
   "submission_count": null,
   "average_tries": 1.3125

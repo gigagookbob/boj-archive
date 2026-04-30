@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2024",
   "level": 20,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "two_pointer"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal", "two_pointer"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

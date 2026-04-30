@@ -15,10 +15,7 @@
   "hint": "<h4>Output Details</h4>\n<p>FJ can stamp a rough patch spanning columns 1-3, followed by a smooth patch spanning columns 2-4, then a rough patch spanning columns 3-5, and finally a smooth patch spanning columns 4-6.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO January 2014 Contest, Gold",
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.631600022315979

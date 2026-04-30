@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 13,
-  "tags": [
-    "math",
-    "geometry",
-    "linear_algebra"
-  ],
+  "tags": ["math", "geometry", "linear_algebra"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 2.9674999713897705

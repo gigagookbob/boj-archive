@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2017 송년대회, namnamseo",
   "level": 22,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "math"
-  ],
+  "tags": ["geometry", "line_intersection", "math"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.923099994659424

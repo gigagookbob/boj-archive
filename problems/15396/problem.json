@@ -19,12 +19,7 @@
   "hint": "<p>In first example, Harry has generated 3 vectors:</p>\n<p style=\"text-align:center\">\\(\\vec{v_1} = (1, 1, 0), \\vec{v_2} = (0, 1, 1), \\vec{v_3} = (1, 0, 1)\\)</p>\n<p>and the matrix is:</p>\n<p style=\"text-align:center\">\\begin{bmatrix} 1 &amp; 0 &amp; 1 \\\\ 1 &amp; 1 &amp; 0 \\\\ 0 &amp; 1 &amp; 1 \\end{bmatrix}</p>\n<p>But \\(\\vec{v_1} + \\vec{v_2} + \\vec{v_3} = \\vec{0}\\).</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2017",
   "level": 17,
-  "tags": [
-    "math",
-    "data_structures",
-    "disjoint_set",
-    "linear_algebra"
-  ],
+  "tags": ["math", "data_structures", "disjoint_set", "linear_algebra"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.2903000116348267

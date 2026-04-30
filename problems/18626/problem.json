@@ -19,13 +19,7 @@
   "hint": "<p>In the first sample test, the optimal strategy is to repeatedly try to go directly to the destination using the second road. With 1/2 probability, you are immune to Hypno which is standing on that road and you can reach the destination in time 1. On the other hand, you are susceptible with 1/2 probability, and we can show that in this case you’ll reach the destination in expected time 2 = 1/2 · 1 + 1/4 · 2 + 1/8 · 3 + 1/16 · 4 +· · · . Therefore, the overall expected time is 1/2 · 1 + 1/2 · 2 = 3/2.</p>\n<p>In the second sample test, if you repeatedly tried to go through the second intersection, your expected time would be equal to 3 minutes. The same if you only tried to go through the third intersection. There exists a strategy to achieve a better expected time.</p>\n<p>Here are the illustrations of both sample tests:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 220px; height: 330px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 5: Radewoosh + mnbvmar Contest, Contest, Open Cup, 2019/2020 Season, Stage 2: Grand Prix of Warsaw",
   "level": 22,
-  "tags": [
-    "math",
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "probability"
-  ],
+  "tags": ["math", "graphs", "shortest_path", "dijkstra", "probability"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.18179988861084

@@ -31,10 +31,7 @@
   "hint": "<p>In the first example, Gildong can click the cell $(2,2)$, then the working screen becomes:</p>\n<pre>\n<code>BWWW\nWWWW\nWWWW\nWWWB</code></pre>\n<p>Then there are four white lines --- the $2$-nd and $3$-rd row, and the $2$-nd and $3$-rd column.</p>\n<p>In the second example, clicking the cell $(2,3)$ makes the $2$-nd row a white line.</p>\n<p>In the third example, both the $2$-nd column and $5$-th row become white lines by clicking the cell $(3,2)$.</p>",
   "source": "Contest, Codeforces, Codeforces Round 578 (Div. 2), djm03178",
   "level": 17,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.2726999521255493

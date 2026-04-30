@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, silvercube",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "case_work", "implementation"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 6.218800067901611

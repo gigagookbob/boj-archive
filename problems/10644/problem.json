@@ -23,9 +23,7 @@
   "hint": "<p>Clarification of the first example: The shortest sequence of button presses needed for the snake to collect all the apples is BBAAABB.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #5",
   "level": 10,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.1175999641418457

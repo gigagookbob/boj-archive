@@ -15,9 +15,7 @@
   "hint": "<p>4 또는 5의 사랑스러움은 20이고 100의 사랑스러움은 89900입니다.</p>",
   "source": "University, 고려대학교, 2016 고려대학교 신입생 프로그래밍 경시대회, h0ngjun7",
   "level": 8,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 836,
   "submission_count": null,
   "average_tries": 2.828900098800659

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2015, 중등부, tncks0121, baekjoon",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 4954,
   "submission_count": null,
   "average_tries": 1.3645999431610107

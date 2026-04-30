@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2023",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "geometry",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "geometry", "set", "hash_set"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 2.8122000694274902

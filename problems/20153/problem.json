@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제2회 가톨릭대학교 프로그래밍 경진대회 (CCPC), kws04004, 39dll, jh05013, hschoi1104, kimcoding, tyoungs",
   "level": 9,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["math", "bruteforcing", "bitmask"],
   "accepted_user_count": 259,
   "submission_count": null,
   "average_tries": 1.8803000450134277

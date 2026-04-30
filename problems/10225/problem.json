@@ -10,9 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2010, Day 1",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.022700071334839

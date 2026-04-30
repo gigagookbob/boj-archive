@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2017",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "case_work"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.4666999578475952

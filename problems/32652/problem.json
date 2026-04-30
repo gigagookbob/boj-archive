@@ -19,10 +19,7 @@
   "hint": "<p>연속 부분 문자열이란 원래 문자열의 시작과 끝에서 임의의 개수만큼 문자를 지웠을 때 나오는 문자열을 의미한다. 시작이나 끝에서 하나도 안 지우는 것도 가능하다.</p>",
   "source": "University, 연세대학교, 2024 연세대학교 프로그래밍 경진대회, plast, dabbler1, hamuim, leo020630, lky7674, ystaeyoon113, yup0927",
   "level": 3,
-  "tags": [
-    "string",
-    "constructive"
-  ],
+  "tags": ["string", "constructive"],
   "accepted_user_count": 823,
   "submission_count": null,
   "average_tries": 1.151900053024292

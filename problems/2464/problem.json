@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2011, 고등부",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "bitmask"
-  ],
+  "tags": ["math", "greedy", "bitmask"],
   "accepted_user_count": 571,
   "submission_count": null,
   "average_tries": 3.329200029373169

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 3",
   "level": 22,
-  "tags": [
-    "case_work",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["case_work", "math", "number_theory"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3

@@ -23,12 +23,7 @@
   "hint": "<p>In the first example test, in the first round, the team plays the \"Hyperblitz\" with probability $\\frac 13$, so with probability $\\frac 13$ they play 1 round, and with probability $\\frac 23$ they play 2 rounds. The expected number of rounds is $1 \\cdot \\frac 13 + 2 \\cdot \\frac 23 = \\frac 53$.</p>\n<p>As $3^{-1} \\bmod {998\\,244\\,353} = 332\\,748\\,118$, the correct output is $5 \\cdot 332\\,748\\,118 \\bmod {998\\,244\\,353} = 665\\,496\\,237$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 20,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["combinatorics", "dp", "math", "probability"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.1332999467849731

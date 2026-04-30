@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, the elements $0,1,2,3,4$ are inserted into slots $0,1,0,1,0$ respectively, incurring costs of $0+0+1+1+2=4$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 7: North American Contest 1",
   "level": 27,
-  "tags": [
-    "inclusion_and_exclusion",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["inclusion_and_exclusion", "math", "number_theory"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

@@ -15,11 +15,7 @@
   "hint": "<p>There are 3 test cases above. In the second case, for example, the sorted permutations are {123, 132, 213, 231, 312, 321}. Password is located at the position 6\\3 = 2 (integer division). When the starting index begins at 0, the password is, therefore, 213.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Southern Programming Contest, Thailand Southern Programming Contest 2013",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["bruteforcing", "implementation", "simulation"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.0556000471115112

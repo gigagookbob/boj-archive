@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере строка &lt;&lt;<code>bacaa</code>&gt;&gt; также является правильным ответом.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2017-18",
   "level": 17,
-  "tags": [
-    "dp",
-    "traceback"
-  ],
+  "tags": ["dp", "traceback"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

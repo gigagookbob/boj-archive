@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2011, Advanced, School, PLU High School Programming Contest, PLU 2011, Novice, Olympiad, Canadian Computing Competition & Olympiad, 2007, CCO 2007",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.159600019454956

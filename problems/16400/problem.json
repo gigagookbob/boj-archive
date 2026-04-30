@@ -15,13 +15,7 @@
   "hint": "<p>8원짜리 물건은 아래와 같이 3가지 방법으로 구할 수 있다.</p>\n<p>1. 2원 4개</p>\n<p>2. 2원 1개, 3원 2개</p>\n<p>3. 3원 1개, 5원 1개</p>",
   "source": "University, 홍익대학교, 2018 홍익대학교 컴퓨터공학과 코딩대회, jh05013",
   "level": 11,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "dp", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 752,
   "submission_count": null,
   "average_tries": 2.1503000259399414

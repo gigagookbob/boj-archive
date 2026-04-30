@@ -31,11 +31,7 @@
   "hint": "<p>예제 1은 정사면체다.</p>",
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "geometry_3d"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 4.051000118255615

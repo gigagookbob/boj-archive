@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, one of the optimal sequences of operations is:</p>\n<p>$(4, 5, 2, 4, 5) → (2, 5, 2, 4, 5) → (2, 5, 2, 4, 2) → (2, 5, 2, 5, 2)$.</p>\n<p>In the second test case, the array already contains only two distinct values, so the answer is $0$.</p>",
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2022",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 4.72730016708374

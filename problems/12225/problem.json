@@ -15,12 +15,7 @@
   "hint": "<p>League of Legends is a trademark of Riot Games. Riot Games does not endorse and has no involvement with Google Code Jam.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, World Finals",
   "level": 25,
-  "tags": [
-    "binary_search",
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["binary_search", "dp", "math", "probability"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

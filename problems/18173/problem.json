@@ -23,10 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 551px; height: 305px;\"/></p>\n<p style=\"text-align: center;\">Figure 1: Illustration of Sample Input 1, Sample Input 2 and Sample Input 3</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2019",
   "level": 10,
-  "tags": [
-    "graphs",
-    "trees"
-  ],
+  "tags": ["graphs", "trees"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.59089994430542

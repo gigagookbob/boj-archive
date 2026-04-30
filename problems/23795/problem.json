@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2021 SKKU 프로그래밍 대회 in 소프트의 밤, anzanda, Coxie, cozyyg, hojoon0205, hyperbolic, sonho00, sukh1222",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 5262,
   "submission_count": null,
   "average_tries": 1.2338000535964966

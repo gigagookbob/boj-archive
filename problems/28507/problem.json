@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, September 24, 2022",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "bitmask"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

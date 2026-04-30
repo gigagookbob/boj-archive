@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2017 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2017 Southeast USA Regional Programming Contest, Division 2",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 6.714300155639648

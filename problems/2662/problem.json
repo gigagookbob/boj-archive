@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1997, 중등부, chungma900, jhj98, cheetose",
   "level": 14,
-  "tags": [
-    "dp",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "knapsack", "traceback"],
   "accepted_user_count": 2230,
   "submission_count": null,
   "average_tries": 2.4784998893737793

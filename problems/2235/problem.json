@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2005",
   "level": 10,
-  "tags": [
-    "implementation",
-    "dp",
-    "string",
-    "backtracking"
-  ],
+  "tags": ["implementation", "dp", "string", "backtracking"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.3478000164031982

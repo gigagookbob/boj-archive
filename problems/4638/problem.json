@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2003 Mid-Central Regional Programming Contest",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.400000095367432

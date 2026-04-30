@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2003/2004, Stage 1, ntopia",
   "level": 21,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "divide_and_conquer"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "divide_and_conquer"],
   "accepted_user_count": 282,
   "submission_count": null,
   "average_tries": 5.1844000816345215

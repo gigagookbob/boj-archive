@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 2022 Waterloo Fall Local",
   "level": 19,
-  "tags": [
-    "math",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "probability", "linearity_of_expectation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1

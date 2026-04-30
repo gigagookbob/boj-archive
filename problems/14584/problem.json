@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2017 고려대학교 프로그래밍 대회, Div 1, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2017 고려대학교 프로그래밍 대회, Div 2, functionx",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 1149,
   "submission_count": null,
   "average_tries": 2.1149001121520996

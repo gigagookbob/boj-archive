@@ -15,10 +15,7 @@
   "hint": "<p>В примере фишки перемещались следующим образом.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 398px; height: 97px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2015",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

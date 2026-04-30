@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 1999, lucidash",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "tree_diameter"],
   "accepted_user_count": 632,
   "submission_count": null,
   "average_tries": 2.776900053024292

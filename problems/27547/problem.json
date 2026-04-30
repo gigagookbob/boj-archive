@@ -23,9 +23,7 @@
   "hint": "<p>Clarification of the first example: Look at the illustation in the task statement.</p>\n<p>Clarification of the second example: For the maximum possible score, Paula can replace her crocodile card with a green card having the letter <code>k</code>.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #4",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.458299994468689

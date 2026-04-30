@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 1993",
   "level": 13,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.0833001136779785

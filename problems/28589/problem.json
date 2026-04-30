@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Na početku traka vodi poklone prema stroju 2 koji može zamatati poklone najveće veličine 5. Trenutno je na traci poklon veličine 6, tako da prve dvije sekunde moramo traku micati do četvrtog stroja, a u trećoj ćemo ga poslati u njega. Idući poklon je veličine 5, budući da u stroju 4 traje zamatanje, moramo se vratiti do stroja 2 i u njega poslati poklon. To će trajati još dodatne 3 sekunde. Idući poklon je veličine 2, pomaknuti ćemo se do stroja 3 i u njega poslati taj poklon koristeći 2 sekunde. Zadnji je poklon dimenzije 8, pomaknuti ćemo se do stroja 4 i u njega poslati taj poklon koristeći 2 sekunde. Ukupno je cijeli posao trajao 10 sekundi.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Junior Final Exam #1",
   "level": 17,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

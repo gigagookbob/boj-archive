@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제1회 유틸컵 - Chapter 1, lms0806, chansol, chogahui05, heeda0528, index, kidw0124, starbow, tony9402, utilforever, wapas",
   "level": 4,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 787,
   "submission_count": null,
   "average_tries": 1.961899995803833

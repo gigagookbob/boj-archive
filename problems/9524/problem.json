@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2013 연습 세션",
   "level": 0,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 378,
   "submission_count": null,
   "average_tries": 1.219599962234497

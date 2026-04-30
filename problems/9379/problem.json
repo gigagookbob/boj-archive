@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2008",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["bruteforcing", "implementation", "simulation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

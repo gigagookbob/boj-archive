@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2002 in Kanazawa",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1

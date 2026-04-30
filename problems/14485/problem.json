@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, the numbers 4 through 9 appear twice each, while all other numbers appear at most one time.</p>\n<p>In the second test case, all numbers 1 through 9 appear twice each. The tiebreaking rule means Stanley prioritizes picking 7 and then the five smallest numbers.</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2016",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.8912999629974365

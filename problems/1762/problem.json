@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5, amsminn, BaaaaaaaaaaarkingDog",
   "level": 18,
-  "tags": [
-    "graphs",
-    "set",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "set", "planar_graph"],
   "accepted_user_count": 234,
   "submission_count": null,
   "average_tries": 2.8461999893188477

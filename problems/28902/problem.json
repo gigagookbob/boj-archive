@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, February 25, 2018",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "queue",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "queue", "two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

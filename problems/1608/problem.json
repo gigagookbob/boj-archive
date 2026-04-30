@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2003/2004, Stage 2, author6",
   "level": 22,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 5

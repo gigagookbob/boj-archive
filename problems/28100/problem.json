@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2023 POSTECH Programming Contest, Contest, University, POSTECH, 2023 POSTECH Programming Contest, Open Contest, menborong, hyperbolic, jthis, leo020630, pasa3232, qjatn0120baek, slah007, tony9402",
   "level": 22,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "scc"
-  ],
+  "tags": ["dp", "graphs", "dag", "scc"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 4.7916998863220215

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "prime_factorization"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.4883999824523926

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2022, rasauq1122, amsminn, bsyun0571, eaststar, hellogaon, hyoseok, mksmk606, rhdqor213, tony9402",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "bfs", "grid_graph"],
   "accepted_user_count": 271,
   "submission_count": null,
   "average_tries": 2.2325000762939453

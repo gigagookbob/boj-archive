@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 2012, kdh9949",
   "level": 17,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "kmp"
-  ],
+  "tags": ["string", "bruteforcing", "kmp"],
   "accepted_user_count": 697,
   "submission_count": null,
   "average_tries": 2.585400104522705

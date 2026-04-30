@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Far Eastern Russia Regional Contest, NEERC Far-Eastern Subregional 2002",
   "level": 9,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 1.9035999774932861

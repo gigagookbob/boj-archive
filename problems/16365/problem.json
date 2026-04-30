@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2018",
   "level": 27,
-  "tags": [
-    "graphs",
-    "chordal_graph"
-  ],
+  "tags": ["graphs", "chordal_graph"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 7.400000095367432

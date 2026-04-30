@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST HAJE 프로그래밍 대회, harnel_tngn, shortcakesweets, cologne, gs20036, juneharold, kaistray, mathking1021",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "implementation", "geometry", "geometry_3d"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.375

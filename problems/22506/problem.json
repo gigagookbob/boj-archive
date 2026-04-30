@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2011 Day 3",
   "level": 15,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "lca"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "trees", "lca"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

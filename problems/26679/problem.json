@@ -19,11 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładów: W pierwszym przykładzie z początkowego układu zabawek Bitek może utworzyć docelowy układ zabawek w trzech ruchach:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 167px; height: 168px;\"/></p>\n<p>Odpowiedź do drugiego przykładu to <code>NIE</code>, gdyż Bitek nie posiada żadnej zabawki typu <code>h</code> potrzebnej w docelowym układzie zabawek.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 12,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["string", "ad_hoc", "parity"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

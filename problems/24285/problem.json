@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2019, Group B (Juniors)",
   "level": 14,
-  "tags": [
-    "euclidean",
-    "game_theory",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["euclidean", "game_theory", "math", "number_theory"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.9000000953674316

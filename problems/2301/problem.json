@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2006, 고등부",
   "level": 20,
-  "tags": [
-    "math",
-    "constructive",
-    "divide_and_conquer",
-    "invariant"
-  ],
+  "tags": ["math", "constructive", "divide_and_conquer", "invariant"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.9042999744415283

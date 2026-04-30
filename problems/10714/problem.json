@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2014/2015, lightseller, thereisnowindbag",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 470,
   "submission_count": null,
   "average_tries": 1.9277000427246094

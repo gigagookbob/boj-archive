@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Southeast USA Regional, 2025 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, South Central USA Regional, 2025 South Central USA Regional Contest, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2025 Mid-Atlantic USA Regional Contest, Division 2, xiaowuc1",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.1110999584197998

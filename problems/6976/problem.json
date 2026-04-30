@@ -19,12 +19,7 @@
   "hint": "<p>Leading zeroes are not considered part of the number and should not be printed.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 1996, CCC 1996",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 234,
   "submission_count": null,
   "average_tries": 3.71370005607605

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2019, Contest, Open Cup, 2018/2019 Season, Stage 14: Grand Prix of America",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "bruteforcing",
-    "dp"
-  ],
+  "tags": ["binary_search", "bruteforcing", "dp"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.142899990081787

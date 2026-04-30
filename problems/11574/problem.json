@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2015 Sogang Programming Contest, Champion, slrkskfzz",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2

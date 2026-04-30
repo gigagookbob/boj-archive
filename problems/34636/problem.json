@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2025, University, MIT, The MIT Programming Contest, 2025-26, MIT Team Contest 1",
   "level": 0,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.142899990081787

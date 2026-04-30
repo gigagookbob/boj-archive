@@ -19,12 +19,7 @@
   "hint": "<p>사전순은 아스키코드를 기준으로 합니다. 예를 들어 <span style=\"color:#e74c3c;\"><code>Double 1</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Double 10</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Double 19</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Double 2</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Double 9</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Double Bull</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Single 1</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Single Bull</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Triple 1</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Triple 10</code></span> &lt; <span style=\"color:#e74c3c;\"><code>Triple 9</code></span>입니다.</p>\n<p>Q: 다트도 보드게임인가요?</p>\n<p>A: 다트판이 영어로 dart<strong>board</strong>기 때문에 <strong>보드</strong>게임이 맞습니다.</p>",
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, cozyyg, chansol, cologne, gs18115, kipa00, pichulia, shiftpsh",
   "level": 18,
-  "tags": [
-    "dp",
-    "implementation",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "implementation", "math", "probability"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.294100046157837

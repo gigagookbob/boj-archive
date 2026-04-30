@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019",
   "level": 19,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "scc"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "scc"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.4166998863220215

@@ -23,10 +23,7 @@
   "hint": "<p>첫 번째 예제에서, 다음 방법으로 목표를 달성할 수 있다:</p>\r\n\r\n<ol>\r\n\t<li>첫 번째 시행에서 $i=3$, $j=4$를 선택한다. 시행 후 $p=[3, 2, 1]$, $q=[3, 4, 5, 2, 1]$이 된다.</li>\r\n\t<li>두 번째 시행에서 $i=2$, $j=4$를 선택한다. 시행 후 $p=[1, 2, 3]$, $q=[1, 2, 3, 4, 5]$가 된다.</li>\r\n</ol>\r\n\r\n<p>세 번째 예제에서, 목표를 달성하는 것이 불가능함을 증명할 수 있다.</p>\r\n",
   "source": "Contest, Codeforces, Codeforces Round 899 (Div. 2), puppy, benedict0724, jk410, koosaga, leinad2, lisifu, mingyu331, mjhmjh1104, qwerasdfzxcl, silverwolf, vector",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.375

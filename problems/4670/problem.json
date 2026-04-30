@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1998 Mid-Central Regional Programming Contest, Contest, CTU FEE Local Contest, CTU FEE 2003",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.6200000047683716

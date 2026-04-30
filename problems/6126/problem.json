@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO October 2007 Contest, Gold",
   "level": 10,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 138,
   "submission_count": null,
   "average_tries": 1.6593999862670898

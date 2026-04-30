@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Codeforces, Codeforces Round 851 (Div. 2), azberjibiou, blackking26, dohoon, jhnah917, jjang36524, ncy09",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "coordinate_compression"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.8269000053405762

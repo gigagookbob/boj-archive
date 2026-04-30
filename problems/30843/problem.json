@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Qualification 2013-14",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["math", "greedy", "binary_search"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

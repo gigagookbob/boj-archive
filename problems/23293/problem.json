@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2021 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2021 아주대학교 프로그래밍 경시대회 APC, Div.2, qilip, rhs0266, spectaclehong, wjdclgns12, yjyj1027",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation"
-  ],
+  "tags": ["implementation", "data_structures", "simulation"],
   "accepted_user_count": 206,
   "submission_count": null,
   "average_tries": 3.8494999408721924

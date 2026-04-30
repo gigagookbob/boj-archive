@@ -15,11 +15,7 @@
   "hint": "<p>この場合，たとえば座標 (0, 0), (1, 0), (0, 1) にある施設に一方のテーマを，(−1, −2), (−1, 1) にある施設にもう一方のテーマを割りふると，同一のテーマで展示を行う 2 つの施設間の移動時間はすべて 3 以下になる．移動時間をすべて 2 以下にすること はできないので，3 を出力する．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2009/2010",
   "level": 22,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["geometry", "binary_search", "parametric_search"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.6087000370025635

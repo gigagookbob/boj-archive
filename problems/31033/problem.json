@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2023 송년대회, flappybird, leinad2, lisifu",
   "level": 25,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "trees",
-    "centroid"
-  ],
+  "tags": ["dp", "ad_hoc", "trees", "centroid"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.0999999046325684

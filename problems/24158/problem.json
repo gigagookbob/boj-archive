@@ -15,9 +15,7 @@
   "hint": "<p>ビルの総数が 9 であり、高さが空港に近いものから順に 3, 7, 5, 9, 8, 10, 10, 11, 9 である場合 を示したのが下図である。色をつけて示したビルを選ぶことにより、飾り付けに利用するビル の数を最大にすることができる。このときの最大値は 5 である。</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 342px; height: 220px;\"/></p>",
   "source": "Camp, JOI Spring Training Camp, JOI 2006/2007 Spring Training Camp",
   "level": 9,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.2817000150680542

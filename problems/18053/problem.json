@@ -15,12 +15,7 @@
   "hint": "<p>The example is given only for explaining the input format, and it obviously does not satisfy the <em>n</em> ≥ 2 · 10<sup>7</sup> condition (though it satisfies all the others). Your program will not be checked on the example test.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2019, Contest, Open Cup, 2019/2020 Season, Stage 8: Grand Prix of Poland",
   "level": 22,
-  "tags": [
-    "math",
-    "data_structures",
-    "priority_queue",
-    "hashing"
-  ],
+  "tags": ["math", "data_structures", "priority_queue", "hashing"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 6

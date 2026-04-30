@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2016 Pacific Northwest Region Programming Contest, Division 1",
   "level": 16,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.4323999881744385

@@ -23,9 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>All possible sequences are: (0, 3, 4), (2, 3, 4), (0, 4, 3), (1, 4, 3), (4, 3, 0), (4, 3, 2), (3, 4, 0), (3, 4, 1).</p>\n<p>Clarification of the second example:</p>\n<p>One of the possible sequences is (0, 3, 2, 0, 0). Donald can achieve that by putting the first cube on the second place, second cube on the third place, and third cube on the second place (on top of the first cube).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #1",
   "level": 21,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5455000400543213

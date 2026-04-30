@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 8,
-  "tags": [
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["sorting", "geometry"],
   "accepted_user_count": 382,
   "submission_count": null,
   "average_tries": 2.243499994277954

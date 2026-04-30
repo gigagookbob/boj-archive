@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제5회 고려대학교 MatKor Cup: 2024 Summer/Fall, alex04, changhw, eoaud0108, kevinlys00, kidw0124, sshs29hanul, tlsdydaud1, utilforever, yijw0930",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "prefix_sum"
-  ],
+  "tags": ["ad_hoc", "constructive", "prefix_sum"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.25

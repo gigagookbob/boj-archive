@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:360px; width:659px\"/></p>\n<p>위 그림에서 1과 2를 연결하는 간선을 빨간 색으로 칠하였다. 이런 간선을 포함하는 트리는 8개 밖에 없음을 알 수 있다.</p>",
   "source": "Contest, kriiicon, 제4회 kriiicon, august14",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "combinatorics",
-    "disjoint_set"
-  ],
+  "tags": ["math", "data_structures", "combinatorics", "disjoint_set"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.8666999340057373

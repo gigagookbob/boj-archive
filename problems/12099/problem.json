@@ -15,10 +15,7 @@
   "hint": null,
   "source": "deneb2016",
   "level": 12,
-  "tags": [
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["sorting", "binary_search"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 1.9531999826431274

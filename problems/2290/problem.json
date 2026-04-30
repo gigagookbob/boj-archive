@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Mid-Central European Regional Contest, MCERC 1999, baekjoon, joonas, goooora",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1852,
   "submission_count": null,
   "average_tries": 1.9270999431610107

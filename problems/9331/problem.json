@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2013 Rocky Mountain Regional Contest",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "convex_hull",
-    "geometry_3d"
-  ],
+  "tags": ["bruteforcing", "geometry", "convex_hull", "geometry_3d"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.058799982070923

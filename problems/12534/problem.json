@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Code Jam Africa and Arabia 2011, Online Competition",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "eulerian_path"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.8181999921798706

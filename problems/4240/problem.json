@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 14 July, 2007",
   "level": 18,
-  "tags": [
-    "geometry",
-    "heuristics",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "heuristics", "ternary_search"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.599999904632568

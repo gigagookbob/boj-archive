@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, Malaysia National Programming Contest, Al-Khawarizmi National Programming Contest 2016, sgchoi5",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 630,
   "submission_count": null,
   "average_tries": 1.2269999980926514

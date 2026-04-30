@@ -19,12 +19,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<ol>\n<li>There is no possible path from 2 to 1. </li>\n<li>For any positive integer x, the shortest path from 1 to 3 takes 2x time, so the solution is \"inf\". </li>\n<li>The shortest path from 1 to 4 can take 3 (for x = 1), 6 (for x = 2), or 8 (for x &gt;= 3) time. 3+6+8=17 </li>\n</ol>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 377px; height: 94px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2013, Croatian Olympiad in Informatics 2013",
   "level": 20,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "math",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "math", "shortest_path"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.3684000968933105

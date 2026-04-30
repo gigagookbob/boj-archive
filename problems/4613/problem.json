@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2006 Mid-Central Regional Programming Contest, temp, sky1357, uk7880",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1213,
   "submission_count": null,
   "average_tries": 1.2135000228881836

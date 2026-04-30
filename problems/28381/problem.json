@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2023",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "constructive",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "constructive", "arithmetic"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 4.085999965667725

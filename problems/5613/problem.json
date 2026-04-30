@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2005/2006 모의고사 2, baekjoon, eric00513, sait2000",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 3638,
   "submission_count": null,
   "average_tries": 1.4507999420166016

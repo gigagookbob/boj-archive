@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2021",
   "level": 23,
-  "tags": [
-    "graphs",
-    "sorting",
-    "ad_hoc",
-    "case_work",
-    "divide_and_conquer"
-  ],
+  "tags": ["graphs", "sorting", "ad_hoc", "case_work", "divide_and_conquer"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2024",
   "level": 17,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "functional_graph"
-  ],
+  "tags": ["graphs", "ad_hoc", "functional_graph"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.569000005722046

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2022 Winter), lky7674, jh05013, jwvg0425, pichulia",
   "level": 20,
-  "tags": [
-    "graphs",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "bipartite_matching"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 5.153800010681152

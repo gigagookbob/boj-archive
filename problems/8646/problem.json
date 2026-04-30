@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 26,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "ad_hoc",
-    "stack"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "ad_hoc", "stack"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

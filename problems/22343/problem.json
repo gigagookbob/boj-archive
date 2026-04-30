@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2021 2차대회, 초등부, jh05013",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack",
-    "arbitrary_precision"
-  ],
+  "tags": ["implementation", "data_structures", "stack", "arbitrary_precision"],
   "accepted_user_count": 389,
   "submission_count": null,
   "average_tries": 4.048799991607666

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2019, Contest, Open Cup, 2019/2020 Season, Stage 5: Grand Prix of Korea, functionx",
   "level": 28,
-  "tags": [
-    "graphs",
-    "hld",
-    "scc",
-    "trees"
-  ],
+  "tags": ["graphs", "hld", "scc", "trees"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

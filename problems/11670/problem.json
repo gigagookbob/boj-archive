@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2015, highalps",
   "level": 18,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 2.2323999404907227

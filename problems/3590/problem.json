@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2007",
   "level": 14,
-  "tags": [
-    "case_work",
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "parsing", "string"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3

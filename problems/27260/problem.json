@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2016",
   "level": 8,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.1303999423980713

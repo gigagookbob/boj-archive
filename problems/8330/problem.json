@@ -15,12 +15,7 @@
   "hint": "<p>입력으로 주어진 수열을 이용해서 순열 2, 4, 3, 1, 5를 만들 수 있다. 첫 번째 수정 이후에 수열은 3, 4, 3, 2, 4가 되고, 이 수열로 만들 수 있는 순열은 없다. 두 번째 수정 이후에 수열은 5, 4, 3, 2, 4가 되고, 이를 이용해 만들 수 있는 순열은 5, 1, 3, 2, 4이다.</p>\r\n",
   "source": "Contest, Algorithmic Engagements, PA 2009, baekjoon",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "lazyprop"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.0174999237060547

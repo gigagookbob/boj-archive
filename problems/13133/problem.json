@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016, functionx",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 390,
   "submission_count": null,
   "average_tries": 2.3255999088287354

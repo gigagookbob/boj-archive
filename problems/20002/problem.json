@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제4회 생각하는 프로그래밍 대회, siontama",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 1035,
   "submission_count": null,
   "average_tries": 1.7352999448776245

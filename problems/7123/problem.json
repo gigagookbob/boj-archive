@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, Preliminary Round, Basic, Olympiad, Estonian Informatics Olympiad, 2016-17, Preliminary Round, Gymnasium",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7741999626159668

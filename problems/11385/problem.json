@@ -15,12 +15,7 @@
   "hint": "<p>f(x) = 1 + 2x, g(x) = 3 + 2x, f(x) × g(x) = 3 + 8x + 4x<sup>2</sup></p>",
   "source": "Contest, kriiicon, 제3회 kriiicon, august14, cake_monotone",
   "level": 22,
-  "tags": [
-    "math",
-    "number_theory",
-    "fft",
-    "crt"
-  ],
+  "tags": ["math", "number_theory", "fft", "crt"],
   "accepted_user_count": 472,
   "submission_count": null,
   "average_tries": 5.5

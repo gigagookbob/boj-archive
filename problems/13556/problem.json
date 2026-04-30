@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "lis"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "lis"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 4.033699989318848

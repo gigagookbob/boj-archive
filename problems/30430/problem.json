@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 기행, 기1행, dhyang24, ibm2006, kiwiyou, mingyu331, sorohue, utilforever, wapas, wider93",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "game_theory", "parity"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.5577000379562378

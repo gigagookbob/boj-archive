@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2025-2026 Season, USACO 2026 First Contest, Bronze",
   "level": 15,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1

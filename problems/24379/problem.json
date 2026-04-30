@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2014, Group E",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "greedy", "arithmetic"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.1738998889923096

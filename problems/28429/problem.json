@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 07., bnb2011, chogahui05, jthis, kiwiyou, tony9402, utilforever",
   "level": 21,
-  "tags": [
-    "case_work",
-    "dp",
-    "dp_tree",
-    "lca",
-    "trees"
-  ],
+  "tags": ["case_work", "dp", "dp_tree", "lca", "trees"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4

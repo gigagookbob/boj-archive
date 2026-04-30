@@ -19,13 +19,7 @@
   "hint": "<p>In the first example, the optional solution is to reverse the directions of a road between towns 3 and 4 and another road between towns 3 and 6, where the total cost is $|c_{3,4}| + |c_{3,6}| = |-32| + |27| = 59$. After reversing the directions of these two roads, the direction of every road becomes the same as the second example.</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Winter 2024, Day 1: Welcome Contest",
   "level": 21,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "scc"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra", "scc"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.9118000268936157

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "author5, chansol, baekjoon",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 676,
   "submission_count": null,
   "average_tries": 2.248500108718872

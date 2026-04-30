@@ -15,10 +15,7 @@
   "hint": "<p>질의를 출력한 후에는 표준 출력 버퍼를 flush해 주어야 한다. 언어별로 표준 출력 버퍼를 flush하는 방법은 다음과 같다.</p>\n<ul>\n<li>C: <code>fflush(stdout)</code></li>\n<li>C++: <code>std::cout &lt;&lt; std::flush</code></li>\n<li>Java: <code>System.out.flush()</code></li>\n<li>Python: <code>sys.stdout.flush()</code></li>\n<li>Kotlin: <code>System.out.flush()</code></li>\n</ul>",
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2024 송년대회, gs22123, gs22059, jk410, lisifu, qwerasdfzxcl",
   "level": 18,
-  "tags": [
-    "graphs",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "ad_hoc"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.5348999500274658

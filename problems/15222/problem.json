@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2016",
   "level": 15,
-  "tags": [
-    "math",
-    "binary_search",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "binary_search", "arbitrary_precision"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 4.052599906921387

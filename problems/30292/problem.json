@@ -15,10 +15,7 @@
   "hint": "<p>The <em>distance</em> between two vertices $u$ and $v$ is defined as the number of the edges of the unique path from $u$ to $v$.</p>\n<p>The <em>diameter</em> of a tree is the maximum <em>distance</em> between any two vertices.</p>",
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2023 KAIST 13th ICPC Mock Competition, Camp, Petrozavodsk Programming Camp, Summer 2024, Day 2: K-ontest, azberjibiou, jimmy0395, ainta, jhwest2, kyo20111, ncy09, whqkrkt04",
   "level": 26,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.5

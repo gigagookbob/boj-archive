@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021 예선, golazcc83, cki86201, evenharder, koosaga, pichulia, songc",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "ternary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "ternary_search"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.275899887084961

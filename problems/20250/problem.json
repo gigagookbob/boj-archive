@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2020",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "constructive", "bitmask"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 9.5

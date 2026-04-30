@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, an optimal way to use the pump is:</p>\n<ol>\n<li>press up $10$ times, setting the pump to $10$; pump the product (from customer 1) that needs $10$ pascals,</li>\n<li>press up $30$ times, setting the pump to $40$; pump the product (from customer 1) that needs $40$ pascals,</li>\n<li>press down $10$ times, setting the pump to $30$; pump the product (from customer 1) that needs $30$ pascals,</li>\n<li>press down $10$ times, setting the pump to $20$; pump the product (from customer 2) that needs $20$ pascals,</li>\n<li>press up $30$ times, setting the pump to $50$; pump the product (from customer 2) that needs $50$ pascals,</li>\n<li>press up $10$ times, setting the pump to $60$; pump the product (from customer 2) and the two products (from customer 3) that need $60$ pascals, and finally</li>\n<li>press down $10$ times, setting the pump to $50$; pump the product (from customer 3) that needs $50$ pascals.</li>\n</ol>\n<p>This is a total of $110$ button presses.</p>\n<p>In Sample Case #2, notice that the answer can be larger than $232$.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Round 1B",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.3238999843597412

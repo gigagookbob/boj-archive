@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2021, CCC 2021 Junior Division",
   "level": 14,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.763200044631958

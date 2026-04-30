@@ -15,9 +15,7 @@
   "hint": "<p>Note that the last sample case would not appear in the Small dataset.</p>\n<p>Sample Cases #1 &amp; #2 were explained in the problem statement.</p>\n<p>In Sample Case #3, <code>BANANA</code> is the only word that encrypts to <code>AOAAAN</code>.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2017, Round C",
   "level": 11,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.1578999757766724

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2022, CCC 2022 Senior Division",
   "level": 5,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 1.3029999732971191

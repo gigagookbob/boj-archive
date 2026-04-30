@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #5, baekjoon",
   "level": 19,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "dag"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "dag"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 1.457900047302246

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2018, CCC 2018 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2018, CCC 2018 Senior Division",
   "level": 5,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 157,
   "submission_count": null,
   "average_tries": 1.3631000518798828

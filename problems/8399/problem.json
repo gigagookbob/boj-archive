@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p align=\"center\">This figure depicts the field from the sample input (dark color represents area belonging to the field).</p>\n<p>We encourage C++ programmers to use <code>STL</code> data structures cautiously due to the data size. Improper usage may cause in exceeding time or memory limit.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2006",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 5.571400165557861

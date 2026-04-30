@@ -15,12 +15,7 @@
   "hint": "<p>B5에 모이면 된다. 첫 번째 나이트는 A3 B5로 움직이며, 두 번째 나이트는 A8 C7 B5로 움직이며, 세 번째 나이트는 H1 G3 F5 D4(킹을 말에 태우고) B5로 움직이며, 네 번째 나이트는 H8-F7-D6-B5로 움직인다.</p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 1998, Day 2",
   "level": 17,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 9.888899803161621

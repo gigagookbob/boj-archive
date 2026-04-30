@@ -23,11 +23,7 @@
   "hint": "<p>Opis prvog test podatka: „01247“ → 1+4=5 → 01010</p>\n<p>Opis drugog test podatka: „001234“ → 0+2+4 → 100101; „001234“ → 0+2+4 → 010101; „001234“ → 1+2+3 → 001110;</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2015, Junior Croatian Olympiad in Informatics 2015",
   "level": 11,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["string", "bruteforcing", "backtracking"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.0870000123977661

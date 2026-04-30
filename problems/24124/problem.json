@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2009/2010 Spring Training Camp",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "hld"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.6818000078201294

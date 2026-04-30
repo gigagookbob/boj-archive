@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2018",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 828,
   "submission_count": null,
   "average_tries": 1.0821000337600708

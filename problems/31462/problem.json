@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제3회 초콜릿컵, bubbler, index, ingyu1008, jamesoh1201, naeby, solvedac, sorohue, tlsdydaud1, utilforever, vkdldjvkdnj",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 292,
   "submission_count": null,
   "average_tries": 3.095900058746338

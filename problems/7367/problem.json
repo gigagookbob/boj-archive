@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2000 East Central Regional Contest 연습 세션",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.2655999660491943

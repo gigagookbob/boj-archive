@@ -15,9 +15,7 @@
   "hint": "<table class=\"table table-bordered td-center\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"1.png\" style=\"width: 98px; height: 96px;\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"2.png\" style=\"width: 320px; height: 96px;\" /></td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>그림 1</td>\r\n\t\t\t<td>그림 2</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2006, author6, conankun, kyma123, dpmin",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 15287,
   "submission_count": null,
   "average_tries": 3.1363000869750977

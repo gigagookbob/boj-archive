@@ -15,12 +15,7 @@
   "hint": "<p>From the bottom: 3 blocks of type 2, below 3 of type 1, below 6 of type 3. Stacking 4 blocks of type 2 and 3 of type 1 is not legal, since the top of the last type 1 block would exceed height 40.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO March 2005 Contest, Gold",
   "level": 13,
-  "tags": [
-    "dp",
-    "greedy",
-    "knapsack",
-    "sorting"
-  ],
+  "tags": ["dp", "greedy", "knapsack", "sorting"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.3125

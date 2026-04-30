@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "prefix_sum",
-    "cht"
-  ],
+  "tags": ["prefix_sum", "cht"],
   "accepted_user_count": 220,
   "submission_count": null,
   "average_tries": 2.9863998889923096

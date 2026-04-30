@@ -15,11 +15,7 @@
   "hint": null,
   "source": "eric00513, ekwoo, hibye1217, leo020630, tlsdydaud1, tony9402, WeissBlume, wider93",
   "level": 15,
-  "tags": [
-    "constructive",
-    "divide_and_conquer",
-    "parity"
-  ],
+  "tags": ["constructive", "divide_and_conquer", "parity"],
   "accepted_user_count": 153,
   "submission_count": null,
   "average_tries": 1.9019999504089355

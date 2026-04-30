@@ -15,11 +15,7 @@
   "hint": "<p>\r\n\t2, 4, 6, 7번 책을 판매하면 된다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2010/2011, baekjoon",
   "level": 14,
-  "tags": [
-    "dp",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "sorting", "prefix_sum"],
   "accepted_user_count": 210,
   "submission_count": null,
   "average_tries": 2.028599977493286

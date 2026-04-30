@@ -19,10 +19,7 @@
   "hint": "<p>In the first example there is a single transfer from the account, and thus before it there will be at least $100$ euros available in the account, so the cash gap is impossible.</p>\n<p>In the second example, it could happen that both transfers from the account (for $100$ euros and for $1$ euro) will be requested on the second day, before all other transactions. In this case by the time the second transaction occurs there will be no money left on the account --- it's a cash gap.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2019",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.6730999946594238

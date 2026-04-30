@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2009 Greater New York Programming Contest, baekjoon, fman1335, portableangel",
   "level": 9,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 901,
   "submission_count": null,
   "average_tries": 1.5793999433517456

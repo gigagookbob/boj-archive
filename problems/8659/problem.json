@@ -15,10 +15,7 @@
   "hint": "<p>Pary mijających się samochodów: (1, 2), (1, 4), (1, 5), (3, 4), (3, 5).</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Beginner Group)",
   "level": 6,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.7717000246047974

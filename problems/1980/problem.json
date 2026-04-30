@@ -27,11 +27,7 @@
   "hint": null,
   "source": "HyehwA, njw1204, ywk0716, jh05013",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 689,
   "submission_count": null,
   "average_tries": 2.303299903869629

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2015",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "sorting", "two_pointer"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.884600043296814

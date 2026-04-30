@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2011, baekjoon",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "tree_diameter"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 2.7476999759674072

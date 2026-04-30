@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2019/2020, District Stage, 7-9 Classes",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.3547999858856201

@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2024, Division 1, University, University of Alberta Programming Contest, UAPC 2024, Division 2",
   "level": 12,
-  "tags": [
-    "bfs",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy"
-  ],
+  "tags": ["bfs", "dfs", "graphs", "graph_traversal", "greedy"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2

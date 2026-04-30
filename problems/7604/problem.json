@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2008, kajebiii",
   "level": 13,
-  "tags": [
-    "trees",
-    "divide_and_conquer"
-  ],
+  "tags": ["trees", "divide_and_conquer"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.5313000679016113

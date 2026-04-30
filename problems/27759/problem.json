@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, no costumes need to be changed, since no dancer shares a row or column with another dancer with the same costume.</p>\n<p>In Sample Case #2, one optimal solution is to change the value of <b>A</b> into the following (bold indicates changed values):</p>\n<pre>\n  1 <b>-2</b>\n  2 1\n</pre>\n<p>Other optimal solutions are possible. Note that changing both the color and the material of a dancer's costume only counts as one change.</p>\n<p>In Sample Case #3, one optimal solution is to change the value of <b>A</b> into the following (bold indicates changed values):</p>\n<pre>\n  1 2\n  <b>2</b> <b>1</b>\n</pre>\n<p>Other optimal solutions are possible.</p>\n<p>In Sample Case #4, one optimal solution is to change the value of <b>A</b> into the following (bold indicates changed values):</p>\n<pre>\n  2 <b>-2</b>\n  -2 2\n</pre>\n<p>Other optimal solutions are possible.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2018, Round 2",
   "level": 22,
-  "tags": [
-    "bipartite_matching",
-    "pigeonhole_principle",
-    "hungarian"
-  ],
+  "tags": ["bipartite_matching", "pigeonhole_principle", "hungarian"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.4285999536514282

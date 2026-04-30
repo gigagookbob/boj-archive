@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 3: MIPT Contest",
   "level": 28,
-  "tags": [
-    "math",
-    "combinatorics",
-    "fft",
-    "generating_function"
-  ],
+  "tags": ["math", "combinatorics", "fft", "generating_function"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.4375

@@ -31,12 +31,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 13: Grand Prix of Bytedance",
   "level": 20,
-  "tags": [
-    "math",
-    "geometry",
-    "game_theory",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "game_theory", "pythagoras"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.4544999599456787

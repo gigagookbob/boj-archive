@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2018 Sogang Programming Contest, Champion, ainch96, tony9402",
   "level": 16,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["dp", "prefix_sum", "difference_array"],
   "accepted_user_count": 122,
   "submission_count": null,
   "average_tries": 2.2376999855041504

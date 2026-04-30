@@ -23,12 +23,7 @@
   "hint": "<p>In the first example, the third coin cannot move because it is disturbed by the other two coins.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:260px; width:275px\"/></p>\n<p style=\"text-align:center\">Example 1. Initial Positions</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:258px; width:278px\"/></p>\n<p style=\"text-align:center\">Example 1. After Movements</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2017",
   "level": 19,
-  "tags": [
-    "dp",
-    "geometry",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "geometry", "bitmask", "dp_bitfield"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.2221999168395996

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO October 2005 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 2.0102999210357666

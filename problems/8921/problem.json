@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2010, baekjoon",
   "level": 21,
-  "tags": [
-    "lis"
-  ],
+  "tags": ["lis"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 5.400000095367432

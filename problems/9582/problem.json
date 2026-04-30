@@ -15,10 +15,7 @@
   "hint": "<p>This sample output corresponds to the picture from the problem statement.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2013",
   "level": 26,
-  "tags": [
-    "directed_mst",
-    "graphs"
-  ],
+  "tags": ["directed_mst", "graphs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.18179988861084

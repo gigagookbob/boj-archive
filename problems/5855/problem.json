@@ -15,9 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 squares, each of size 6 x 6.  The first square is centered at (0,0), and so on.</p><h4>Output Details</h4><p>Pastures #1 and #3 overlap in 20 units of area.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO January 2013 Contest, Silver, devbelly",
   "level": 16,
-  "tags": [
-    "sweeping"
-  ],
+  "tags": ["sweeping"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.6842000484466553

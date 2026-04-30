@@ -19,11 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "data_structures", "ad_hoc"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

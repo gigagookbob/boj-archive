@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["string", "suffix_array"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 2.3069000244140625

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2013",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["bruteforcing", "geometry", "geometry_3d"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.899999976158142

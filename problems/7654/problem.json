@@ -15,11 +15,7 @@
   "hint": "<p>In this example, since Carl chooses N to be 42, it turns out that he has no winning strategy. (Indeed, whichever number he initially subtracts off, Ellie will subtract off a number leaving 21 for Carl. Then whatever number Carl subtracts off next, Ellie will be left with a number between 1 and 20, and she wins!)</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2009",
   "level": 14,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["math", "ad_hoc", "game_theory"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.3333001136779785

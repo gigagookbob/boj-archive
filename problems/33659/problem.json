@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2025, Division 1, University, University of Alberta Programming Contest, UAPC 2025, Division 2",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.4286000728607178

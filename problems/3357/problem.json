@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2009",
   "level": 21,
-  "tags": [
-    "data_structures"
-  ],
+  "tags": ["data_structures"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.217400074005127

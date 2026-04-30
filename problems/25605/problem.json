@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제2회 한국항공대학교 프로그래밍 경진대회(KAUPC), hello70825, bnb2011, gojib2002, leo020630, minjea917, rhs0266",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.871799945831299

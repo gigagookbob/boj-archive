@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2017, Qualification",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "binary_search",
-    "recursion"
-  ],
+  "tags": ["implementation", "bruteforcing", "binary_search", "recursion"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

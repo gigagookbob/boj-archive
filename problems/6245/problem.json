@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO US Open 2007 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 147,
   "submission_count": null,
   "average_tries": 1.2108999490737915

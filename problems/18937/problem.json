@@ -19,10 +19,7 @@
   "hint": "<p>길이 6짜리의 외나무다리에 흰 돌이 3번 칸에 있고, 검은 돌이 5번 칸에 있으면, 흰 돌은 1, 2, 4번 칸 중 하나로 이동할&nbsp;수 있으며, 검은 돌은 4, 6번 칸 중 하나로 이동할&nbsp;수 있다. 돌을 상대 돌로부터 멀어지는 방향으로 이동할 수 있음에 유의해라.</p>\r\n",
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup, Camp, Petrozavodsk Programming Camp, Summer 2020, Day 6: Korean Contest, stonejjun03",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 465,
   "submission_count": null,
   "average_tries": 1.6086000204086304

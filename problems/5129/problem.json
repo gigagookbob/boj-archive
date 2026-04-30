@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2011: Time-Traveling Salesman",
   "level": 18,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bipartite_matching",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "bipartite_matching", "floyd_warshall"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

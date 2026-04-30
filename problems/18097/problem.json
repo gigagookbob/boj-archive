@@ -15,10 +15,7 @@
   "hint": "<p>Поясним пример к задаче. Максимальное возможное значение доступности для трёх городов равно 2. Возможны три различных варианта соединения, при котором оно достигается: (1,2)(2,3), (1,3)(2,3), (1,2)(1,3).</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Qualification",
   "level": 6,
-  "tags": [
-    "graphs",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "ad_hoc"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.2706000804901123

@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2022, Day 1",
   "level": 23,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "constructive",
-    "divide_and_conquer"
-  ],
+  "tags": ["dp", "ad_hoc", "constructive", "divide_and_conquer"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 3.4576001167297363

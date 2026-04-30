@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 1: Jagiellonian U Contest, Grand Prix of Krakow, Contest, Open Cup, 2020/2021 Season, Stage 10: Grand Prix of Krakow",
   "level": 22,
-  "tags": [
-    "dp",
-    "graphs",
-    "scc",
-    "shortest_path"
-  ],
+  "tags": ["dp", "graphs", "scc", "shortest_path"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 4.451600074768066

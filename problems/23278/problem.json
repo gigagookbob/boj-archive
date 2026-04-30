@@ -31,12 +31,7 @@
   "hint": null,
   "source": null,
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "sorting", "arithmetic"],
   "accepted_user_count": 664,
   "submission_count": null,
   "average_tries": 1.5285999774932861

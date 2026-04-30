@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", School, Virginia Tech High School Programming Contest, 2019 Virginia Tech High School Programming Contest",
   "level": 11,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.7741999626159668

@@ -23,10 +23,7 @@
   "hint": "<p>In the first sample input your friend's name is <code>anna</code>. She can make the name <code>anja</code> by replacing the second <code>n</code> in her name with a <code>j</code>, and thus she has a name day two days earlier than expected. Thus the answer is 3. In the second sample input it's impossible to create another name using the above listed actions, so <code>jan</code> will have to wait a whole year, 3 days.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Online Qualification",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 1.2200000286102295

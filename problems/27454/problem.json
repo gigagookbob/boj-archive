@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2쿨, ruykun, djm03178, eaststar, hyperbolic, index, kiwiyou, sivcde0405",
   "level": 16,
-  "tags": [
-    "math",
-    "sorting",
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["math", "sorting", "prefix_sum", "sliding_window"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 4.785699844360352

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, cmmcme, djm03178, wookje",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 19105,
   "submission_count": null,
   "average_tries": 3.2360000610351562

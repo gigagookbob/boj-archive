@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, tae",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 246,
   "submission_count": null,
   "average_tries": 2.1951000690460205

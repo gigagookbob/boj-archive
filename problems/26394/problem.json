@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: This is the only solution that satisfies all the touching conditions. Please note that solution (0.585700, 1.414357, 1.414357) is also considered correct, even though spaceships 2 and 3 aren’t touching, because the absolute error doesn’t exceed 10<sup>−4</sup>.</p>\n<p>Clarification of the third example: There is no arrangement of the radii that satisfies all conditions.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #1",
   "level": 19,
-  "tags": [
-    "geometry",
-    "graphs",
-    "graph_traversal",
-    "math"
-  ],
+  "tags": ["geometry", "graphs", "graph_traversal", "math"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.599999904632568

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "baekjoon, ai4youej",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 79580,
   "submission_count": null,
   "average_tries": 1.8487999439239502

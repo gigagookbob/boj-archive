@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2009, kipa00, jh05013, wapas",
   "level": 7,
-  "tags": [
-    "string",
-    "parsing"
-  ],
+  "tags": ["string", "parsing"],
   "accepted_user_count": 319,
   "submission_count": null,
   "average_tries": 3.8870999813079834

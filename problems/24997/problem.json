@@ -19,13 +19,7 @@
   "hint": "<p>In Sample 1, system of inequalities is satisfiable, e.g. by $x_1 = 3$, $x_2 = 2$, $x_3 = 1$.</p>\n<p>In Sample 2, system of inequalities is not satisfiable.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2015",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "dag", "topological_sorting"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

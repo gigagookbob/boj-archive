@@ -19,11 +19,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "cht"
-  ],
+  "tags": ["data_structures", "segtree", "cht"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.30430006980896

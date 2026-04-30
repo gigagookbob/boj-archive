@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2009 Southeast USA Regional Programming Contest, Riddler",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1283,
   "submission_count": null,
   "average_tries": 1.5221999883651733

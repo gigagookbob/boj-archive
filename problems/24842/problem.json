@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, since the product and the sum of digits are the same for single-digit integers, all integers between $1$ and $9$ are interesting.</p>\n<p>In Sample Case #2, there are no interesting integers between $91$ and $99$.</p>\n<p>In Sample Case #3, there are five interesting integers between $451$ and $460$:</p>\n<ol>\n<li>$451$ (product of its digits is $4×5×1=20$, sum of its digits is $4+5+1=10$).</li>\n<li>$453$ (product of its digits is $4×5×3=60$, sum of its digits is $4+5+3=12$).</li>\n<li>$456$ (product of its digits is $4×5×6=120$, sum of its digits is $4+5+6=15$).</li>\n<li>$459$ (product of its digits is $4×5×9=180$, sum of its digits is $4+5+9=18$).</li>\n<li>$460$ (product of its digits is $4×6×0=0$, sum of its digits is $4+6+0=10$).</li>\n</ol>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round A",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "dp_digit",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "dp_digit", "math"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4.391300201416016

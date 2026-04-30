@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2017, juchan1220, Lawali",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.5094000101089478

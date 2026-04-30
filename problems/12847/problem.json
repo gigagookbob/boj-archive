@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, SCCC 2016 Summer Contest, hyo123bin, sang7, tncks0121, djm03178, gaelim",
   "level": 8,
-  "tags": [
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["prefix_sum", "sliding_window"],
   "accepted_user_count": 2679,
   "submission_count": null,
   "average_tries": 2.5889999866485596

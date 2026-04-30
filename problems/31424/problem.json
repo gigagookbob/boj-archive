@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter), golazcc83, cologne, dohoon, lky7674, maker29, mjhmjh1104, pjshwa, whqkrkt04",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "bitmask",
-    "game_theory"
-  ],
+  "tags": ["math", "dp", "number_theory", "bitmask", "game_theory"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.6666998863220215

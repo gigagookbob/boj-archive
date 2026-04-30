@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2017 고려대학교 프로그래밍 대회, Div 1, h0ngjun7, klight1994",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 3.7525999546051025

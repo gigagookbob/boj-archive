@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2007, baekjoon",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "binary_search", "set", "hash_set", "tree_set"],
   "accepted_user_count": 189,
   "submission_count": null,
   "average_tries": 2.941800117492676

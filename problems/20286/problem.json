@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2020",
   "level": 21,
-  "tags": [
-    "gaussian_elimination",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["gaussian_elimination", "linear_algebra", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

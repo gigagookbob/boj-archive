@@ -15,13 +15,7 @@
   "hint": null,
   "source": "author5, godmoon00, djm03178, doju, eldpswp99",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "bipartite_graph"],
   "accepted_user_count": 22182,
   "submission_count": null,
   "average_tries": 3.7836999893188477

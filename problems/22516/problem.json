@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2011 Day 4",
   "level": 17,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "greedy", "sorting", "prefix_sum"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8696000576019287

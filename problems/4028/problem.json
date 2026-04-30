@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2011 East Central Regional Contest",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "number_theory"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.4358999729156494

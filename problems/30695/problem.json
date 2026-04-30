@@ -19,13 +19,7 @@
   "hint": "<p>In the first example, there are 5 double palindromes of length 2 (\"<code>ab</code>\", \"<code>ba</code>\", \"<code>ac</code>\", \"<code>ca</code>\" and \"<code>ac</code>\"), and the whole string is a double palindrome as well (\"<code>abacac</code>\").</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2019-20, Day 1",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "string",
-    "segtree",
-    "pst",
-    "manacher"
-  ],
+  "tags": ["data_structures", "string", "segtree", "pst", "manacher"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2009",
   "level": 22,
-  "tags": [
-    "implementation",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["implementation", "geometry", "case_work"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 6

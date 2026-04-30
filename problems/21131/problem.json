@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, $\\left\\lceil \\frac{2}{3} \\cdot \\sqrt{10} \\right\\rceil = 3$, $\\text{gcd}(1, 2) = 1$, $\\text{gcd}(2, 6) = 2$.</p>\n<p>In the second example, $\\left\\lceil \\frac{2}{3} \\cdot \\sqrt{22} \\right\\rceil = 4$, $\\text{gcd}(1, 2) = 1$, $\\text{gcd}(2, 6) = 2$, $\\text{gcd}(6, 15) = 3$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 8: Belarusian SU Contest, Yandex Cup, Grand Prix of Belarud, Contest, Open Cup, 2020/2021 Season, Stage 12: Grand Prix of Belarus",
   "level": 17,
-  "tags": [
-    "constructive",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["constructive", "math", "number_theory"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.1333000659942627

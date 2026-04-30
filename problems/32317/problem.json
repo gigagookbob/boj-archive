@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2024 Local Programming Contest (Final Round)",
   "level": 8,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.3333001136779785

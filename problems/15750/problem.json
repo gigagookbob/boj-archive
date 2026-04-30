@@ -15,10 +15,7 @@
   "hint": "<p>In this example, by setting $y = 8$ FJ can achieve $d_1 = 2$, $d_2 = 5$, and $d_3 = 3$. Note that any value of $y$ in the range $[7,10]$ would also yield an optimal solution.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 February Contest, Silver, cgiosy",
   "level": 17,
-  "tags": [
-    "math",
-    "sweeping"
-  ],
+  "tags": ["math", "sweeping"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 2.4314000606536865

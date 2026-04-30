@@ -15,11 +15,7 @@
   "hint": "<p>In this example, Bessie can spell COW, ZOO, and MOVE. Sadly, she cannot spell MOO, since the only block with an M cannot also be used for an O. She cannot spell FARM since there is no block with a letter R. She cannot spell CODE since the C, D, and E all belong to the same block.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 February Contest, Bronze",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 316,
   "submission_count": null,
   "average_tries": 1.6171000003814697

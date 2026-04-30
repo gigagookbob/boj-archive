@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 8: Almost Algoritmic Contest",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "dp",
-    "greedy",
-    "segtree",
-    "sorting"
-  ],
+  "tags": ["data_structures", "dp", "greedy", "segtree", "sorting"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.2222000360488892

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2010",
   "level": 17,
-  "tags": [
-    "math",
-    "probability",
-    "linear_algebra",
-    "bayes"
-  ],
+  "tags": ["math", "probability", "linear_algebra", "bayes"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

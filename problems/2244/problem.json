@@ -15,10 +15,7 @@
   "hint": "<p>민코프스키(Minkowski, Hermann. 1864~1909)는 독일에서 활동한 러시아 수학자로 기하학에 공리계를 도입한 것으로 잘 알려진 힐베르트(Hilbert, David. 1862~1943)와 친교를 맺고 함께 괴팅켄 대학을 세계 수학의 중심지로 만들었다. 괴팅겐 대학은 20세기 들어 노벨상 수상자인 막스 보른, 제임스 프랑크, 베르너 하이젠베르크, 막스 폰 라우에 등 현대물리학의 대가들을 배출한 바 있으며 실제로 민코프스키 또한 &lt;공간과 시간&gt; 등의 저서에서 4차원적 시공간에 대해 논하며 아인슈타인의 상대성이론의 형성에도 공헌한 것으로 알려져 있다.</p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2004, Day 1, pjsdream, doju",
   "level": 17,
-  "tags": [
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "convex_hull"],
   "accepted_user_count": 302,
   "submission_count": null,
   "average_tries": 2.288100004196167

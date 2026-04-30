@@ -19,9 +19,7 @@
   "hint": "<p>In the first sample, the four possible sequences consistent with the hints are 00000, 10000, 01111, and 11111 where 0 stands for a “false” answer and 1 stands for a “true” answer. In the second sample, the third hint conflicts with the first two hints, so no answer sequence exists consistent with all hints.</p>",
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2019 Mid-Central Regional Programming Contest",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.2609000205993652

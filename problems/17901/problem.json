@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2018",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "tree_set"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.8935999870300293

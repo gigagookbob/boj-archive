@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 1993, sait2000",
   "level": 19,
-  "tags": [
-    "math",
-    "polynomial_interpolation"
-  ],
+  "tags": ["math", "polynomial_interpolation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

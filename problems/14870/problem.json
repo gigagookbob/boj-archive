@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2017, 고등부",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "two_pointer"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "two_pointer"],
   "accepted_user_count": 281,
   "submission_count": null,
   "average_tries": 4.135200023651123

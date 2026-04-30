@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제3회 초콜릿컵, bubbler, dohoon, index, ingyu1008, jamesoh1201, kiwiyou, naeby, solvedac, sorohue, tlsdydaud1, utilforever, vkdldjvkdnj",
   "level": 15,
-  "tags": [
-    "implementation",
-    "dp",
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["implementation", "dp", "greedy", "case_work"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 4.846799850463867

@@ -23,10 +23,7 @@
   "hint": "<p>실제로 재우가 받은 학점은 $0$이지만 이 문제에서는 고려하지 않도록 하자.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제2회 고려대학교 MatKor Cup: 2023 Winter, coo001, kidw0124, leeyou6757, dillon0108, eoaud0108, gina",
   "level": 25,
-  "tags": [
-    "math",
-    "linear_algebra"
-  ],
+  "tags": ["math", "linear_algebra"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.705899953842163

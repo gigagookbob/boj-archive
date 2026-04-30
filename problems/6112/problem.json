@@ -15,11 +15,7 @@
   "hint": "<p>After the first operation, the picture grid looks as follows:</p>\n<pre>\n000000000000000\n000000000000000\n000000000000000\n000000000000000\n011111111111110\n011111111111110\n011111111111110\n011111111111110\n000000000000000\n000000000000000\n000000000000000\n000000000000000\n000000000000000\n000000000000000\n000000000000000\n000000000000000\n000000000000000</pre>\n<p>There are 113 unit squares which match the corresponding square in the tree image; they are denoted below by an 'x' (the other bits are shown as they appear after the first paint splash):</p>\n<pre>\n0000000x0000000\n000000xxx000000\n00000xxxxx00000\n0000xxxxxxx0000\n0xx111111111xx0\n0xxx1111111xxx0\n0xx111111111xx0\n0x11111111111x0\n000xxxxxxxxx000\n00xxxxxxxxxxx00\n0xxxxxxxxxxxxx0\n00xxxxxxxxxxx00\n0xxxxxxxxxxxxx0\nxxxxxxxxxxxxxxx\n000000xxx000000\n000000xxx000000\n000000xxx000000</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO Holiday Bonus 2009 Contest, Gold",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

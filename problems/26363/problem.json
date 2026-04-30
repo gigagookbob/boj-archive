@@ -23,11 +23,7 @@
   "hint": "<p>Opis drugog probnog primjera: 41 papir možemo razdvojiti na dvije hrpe. Npr. jednu od 21 papira i jednu od 20 papira.</p>\n<p>Opis trećeg probnog primjera: 105 papira možemo razdvojiti na pet hrpa. Npr. pet hrpa gdje svaka hrpa ima 21 papir.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2020, Junior Croatian Olympiad in Informatics 2020 - Preliminary Round",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory"
-  ],
+  "tags": ["math", "greedy", "number_theory"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.666700005531311

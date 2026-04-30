@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2000, taebinalive",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "case_work"],
   "accepted_user_count": 326,
   "submission_count": null,
   "average_tries": 1.6993999481201172

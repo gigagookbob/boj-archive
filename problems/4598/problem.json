@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2008 Mid-Central Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "geometry",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "simulation"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.128999948501587

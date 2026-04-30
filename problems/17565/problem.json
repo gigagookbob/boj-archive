@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2018, lobo_prix",
   "level": 13,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "bfs"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.4138000011444092

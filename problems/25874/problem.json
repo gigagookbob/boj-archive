@@ -23,11 +23,7 @@
   "hint": "<p>Explanation for the first Sample Input/Output:</p>\n<pre>\nOutput: 1\n    X = 1, Y = 10, Z = 1, W = 30\n    Rounded to nearest multiple of 1: 1*10=10, 1*30=30\nOutput: 2\n    X = 2, Y = 5, Z = 1, W = 15\n    Rounded to nearest multiple of 2: 2*5=10, 2*15=30\nOutput: 5\n    X = 5, Y = 2, Z = 1, W = 6\n    Rounded to nearest multiple of 5: 5*2=10, 5*6=30\nOutput: 10\n    X = 10, Y = 1, Z = 1, W = 3\n    Rounded to nearest multiple of 10: 10*1=10, 10*3=30</pre>",
   "source": "University, University of Central Florida, 2018 Local Programming Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.350000023841858

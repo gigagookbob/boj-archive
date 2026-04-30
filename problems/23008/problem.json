@@ -15,10 +15,7 @@
   "hint": "<p>For Sample Case #1, there are 2 possible values of K (1, 10) that would eventually produce exactly 10 gold bars. For K=1, we will have 1+2+3+4=10 gold bars after 4 days, and for K=10, we will have 10 gold bars after just 1 day.</p>\n<p>For Sample Case #2, there are 4 possible values of K (8, 23, 62, 125) that would eventually produce exactly 125 gold bars.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round C",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.6485999822616577

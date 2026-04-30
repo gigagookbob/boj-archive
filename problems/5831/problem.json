@@ -15,9 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>There are five light bulbs. The first is initially on, and the others are off.</p>\n<h4>Output Details</h4>\n<p>The light bulb states are as follows:</p>\n<ul>\n<li>Time T=0: 1 0 0 0 0 Time</li>\n<li>T=1: 1 1 0 0 0 Time</li>\n<li>T=2: 1 0 1 0 0 Time</li>\n<li>T=3: 1 1 1 1 0 Time</li>\n<li>T=4: 1 0 0 0 1 Time</li>\n<li>T=5: 0 1 0 0 1 Time</li>\n<li>T=6: 1 1 1 0 1</li>\n</ul>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO US Open 2013 Contest, Bronze",
   "level": 13,
-  "tags": [
-    "bitmask"
-  ],
+  "tags": ["bitmask"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.2407000064849854

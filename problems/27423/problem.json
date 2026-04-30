@@ -27,10 +27,7 @@
   "hint": "<p>For Sample Input 2, four combinations of $(d, c, r, b) = (2, 3, 1, 5), (2, 3, 5, 1), (3, 2, 1, 5)$, and $(3, 2, 5, 1)$ satisfy all the conditions. $(d, c, r, b) = (1, 4, 2, 3)$ is not eligible because its extra cost for the decoration items does not exceed $X = 30$ even after adding one more cat figure. $(d, c, r, b) = (1, 5, 2, 3)$ is also ineligible because $d + c &lt; R = 6$ does not hold.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Summer 2023, Day 1: Starting Contest",
   "level": 23,
-  "tags": [
-    "binary_search",
-    "math"
-  ],
+  "tags": ["binary_search", "math"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.0799999237060547

@@ -15,11 +15,7 @@
   "hint": "<p>앨버트가&nbsp;x=4에 자리를 잡으면 x=1, x=2, x=7에 있는 얼음 양동이에 닿을 수 있다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO March 2014 Contest, Bronze, pjw, swh98",
   "level": 8,
-  "tags": [
-    "prefix_sum",
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["prefix_sum", "two_pointer", "sliding_window"],
   "accepted_user_count": 2520,
   "submission_count": null,
   "average_tries": 3.1947999000549316

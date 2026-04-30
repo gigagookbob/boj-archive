@@ -15,14 +15,7 @@
   "hint": "<p>빈 문자열도 적절한 접두사 혹은 적절한 접미사가 될 수 있다.</p>\n<p>입력 예제에서 f(s<sub>1</sub>, s<sub>1</sub>) = 4, f(s<sub>2</sub>, s<sub>1</sub>) = 6, f(s<sub>3</sub>, s<sub>1</sub>) = 6, f(s<sub>4</sub>, s<sub>1</sub>) = 3, f(s<sub>4</sub>, s<sub>2</sub>) = 4 이고, 나머지 11개 값은 전부 0이다. 따라서 답은 4 + 6 + 6 + 3 + 4 = 23이다.</p>",
   "source": "cki86201",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "trie",
-    "kmp",
-    "aho_corasick"
-  ],
+  "tags": ["data_structures", "string", "trees", "trie", "kmp", "aho_corasick"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 8.578900337219238

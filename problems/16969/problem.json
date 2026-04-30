@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, njw1204",
   "level": 6,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 524,
   "submission_count": null,
   "average_tries": 1.5210000276565552

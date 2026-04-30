@@ -15,10 +15,7 @@
   "hint": "<p>The other key with the same fingerprint as 11 is 15. 15 produces a sequence of remainders $[1, 1, 2]$. So both numbers have the fingerprint multiset $\\{1, 1, 2\\}$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2019",
   "level": 17,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.9189000129699707

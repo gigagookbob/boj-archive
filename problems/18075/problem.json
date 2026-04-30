@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Regional Contest",
   "level": 12,
-  "tags": [
-    "geometry",
-    "math"
-  ],
+  "tags": ["geometry", "math"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.4680999517440796

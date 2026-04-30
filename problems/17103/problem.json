@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, djm03178",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 14062,
   "submission_count": null,
   "average_tries": 2.8076000213623047

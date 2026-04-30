@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BCF, BCF 2025, 79brue, aeren, leinad2, mjhmjh1104, qwerasdfzxcl, silverwolf",
   "level": 14,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 2.043100118637085

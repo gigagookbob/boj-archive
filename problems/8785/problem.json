@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Contest, Spot, SpringSpot 2011",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "geometry", "disjoint_set"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.9230999946594238

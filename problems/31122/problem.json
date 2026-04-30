@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 18: Grand Prix of Beijing",
   "level": 18,
-  "tags": [
-    "geometry",
-    "inclusion_and_exclusion",
-    "geometry_3d"
-  ],
+  "tags": ["geometry", "inclusion_and_exclusion", "geometry_3d"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

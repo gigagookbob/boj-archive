@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 대전과학고등학교, 제1회 대전과학고등학교 프로그래밍 경진대회 DSHStack, koi312500, dongwook7, hyperbolic, iktk, ohwphil, sjhi00",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 202,
   "submission_count": null,
   "average_tries": 1.6634000539779663

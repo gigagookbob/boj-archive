@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "grid_graph", "mfmc"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 5.199999809265137

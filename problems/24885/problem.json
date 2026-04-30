@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 2, Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 3, Rose, ahgus89, cgiosy, jhnah917, Lawali, runnie0427, tony9402",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 3.4953999519348145

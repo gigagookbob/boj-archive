@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2016 B",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "probability",
-    "scc"
-  ],
+  "tags": ["math", "graphs", "probability", "scc"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7096999883651733

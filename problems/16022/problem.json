@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2018, CCC 2018 Senior Division",
   "level": 6,
-  "tags": [
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["sorting", "geometry"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.4673999547958374

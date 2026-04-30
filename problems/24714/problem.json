@@ -19,10 +19,7 @@
   "hint": "<p>Explanation of the first example:</p>\n<p>There are three different blind boxes: $(1,1)$, $(1,2)$, and $(2,2)$.</p>\n<p>The amounts of cashback are $1$, $2$, and $4$, respectively.</p>\n<p>So, the minimum price should be $\\frac{7}{3}$.</p>\n<p>And the answer in the second example is $\\frac{42525}{126} = \\frac{675}{2}$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 6: ICPC Camp Day 1: PKU Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

@@ -15,10 +15,7 @@
   "hint": "<p><em>Explanation of Sample 1:</em> Let us consider the ranks between ANDI and BUDI. Both ANDI and BUDI received the same total points, which is $350$, but BUDI is ranked higher because BUDI's time penalty (which is $240$) is lower than ANDI's (which is $250$).</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2025",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.1612999439239502

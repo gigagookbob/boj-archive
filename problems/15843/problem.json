@@ -15,12 +15,7 @@
   "hint": "<p>In the sample case there are two cycles we will consider, \"1 to 2 to 3 to 1\" and \"1 to 4 to 3 to 1\".</p>\n<p>Considering \"1 to 2 to 3 to 1\", we see that this cycle takes 7 minutes to walk over (3 + 3 + 1). The most profitable sequence of trades on this cycle is to purchase item 2 at market 1 (cost of 5), sell it at market 2 (profit of 15), immediately buy item 1 from market 2 (cost of 6), carry item 1 through market 3, and finally sell item 1 at market 1 (profit of 9). Therefore in this cycle we can make -5 + 15 - 6 + 9 = 13 profit in this profit cycle. 13/7 rounded down gives an efficiency of 1 for this cycle.</p>\n<p>Considering \"1 to 4 to 3 to 1\", we see that this cycle takes 3 minutes to walk over (1 + 1 + 1). The most profitable sequence of trades on this cycle is to purchase item 2 at market 1 (cost of 5), sell it at market 4 (profit of 11), then walk through market 3 and back to market 1. Therefore in this cycle we can make -5 + 11 = 6 profit in this profit cycle. 6/3 rounded down gives an efficiency of 2 for this cycle.</p>\n<p>Therefore the best efficiency of any profit cycle in Cobar is 2.</p>",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2017",
   "level": 20,
-  "tags": [
-    "floyd_warshall",
-    "graphs",
-    "parametric_search",
-    "shortest_path"
-  ],
+  "tags": ["floyd_warshall", "graphs", "parametric_search", "shortest_path"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 4.088200092315674

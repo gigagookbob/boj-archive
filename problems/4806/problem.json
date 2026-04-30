@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2012 Rocky Mountain Regional Contest, baekjoon",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1973,
   "submission_count": null,
   "average_tries": 1.5058000087738037

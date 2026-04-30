@@ -27,11 +27,7 @@
   "hint": "<p>In the first sample case, the best Alice can do is to put one pip on each die. This gives her an expected value of $1/36$.</p>\n<p>In the second sample case, one optimal strategy for Alice is to put a pip on each side of the die. No matter what she rolls, she receives a payout of $1$.</p>\n<p>In the final sample case, Alice can only paint $1$ pip, so no matter what she does, she will always receive a payout of $0$.</p>",
   "source": ", University, UT Invitational Programming Contest, UT Invitational Programming Contest 2019",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "probability"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.0392000675201416

@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2018 Preliminaries",
   "level": 18,
-  "tags": [
-    "greedy",
-    "string",
-    "hashing",
-    "rabin_karp"
-  ],
+  "tags": ["greedy", "string", "hashing", "rabin_karp"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.6226000785827637

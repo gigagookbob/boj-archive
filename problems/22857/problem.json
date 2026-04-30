@@ -15,10 +15,7 @@
   "hint": null,
   "source": "tony9402, chansol, Green55, melon940925, rhs0266",
   "level": 9,
-  "tags": [
-    "dp",
-    "two_pointer"
-  ],
+  "tags": ["dp", "two_pointer"],
   "accepted_user_count": 1039,
   "submission_count": null,
   "average_tries": 2.2618000507354736

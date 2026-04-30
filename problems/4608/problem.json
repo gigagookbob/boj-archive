@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2007 Mid-Central Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "bitmask",
-    "implementation"
-  ],
+  "tags": ["bitmask", "implementation"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.115399956703186

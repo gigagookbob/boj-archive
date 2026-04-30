@@ -15,10 +15,7 @@
   "hint": "<p>The possible exploration teams are: {1, 2}, {2, 3}, {1, 2, 3}, {1, 2, 4}, {2, 3, 4}, and {1, 2, 3, 4}.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO March 2004 Contest, Blue",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2143000364303589

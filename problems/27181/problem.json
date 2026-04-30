@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2022",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "divide_and_conquer",
-    "dp",
-    "hall",
-    "segtree"
-  ],
+  "tags": ["data_structures", "divide_and_conquer", "dp", "hall", "segtree"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

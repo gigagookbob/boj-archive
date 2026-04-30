@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", School, Virginia Tech High School Programming Contest, 2016 Virginia Tech High School Programming Contest",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.3830000162124634

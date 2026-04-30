@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2005/2006 예선",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.1859999895095825

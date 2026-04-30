@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 정보 알고리즘경시대회, 2022 선린 정보 알고리즘경시대회, jhnah917, cgiosy, chansol, ryute",
   "level": 22,
-  "tags": [
-    "dp",
-    "graphs",
-    "sqrt_decomposition"
-  ],
+  "tags": ["dp", "graphs", "sqrt_decomposition"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 9.953499794006348

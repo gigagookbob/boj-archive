@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 5: U of Wroclaw Contest",
   "level": 25,
-  "tags": [
-    "dominator_tree",
-    "graphs",
-    "scc",
-    "trees"
-  ],
+  "tags": ["dominator_tree", "graphs", "scc", "trees"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.200000047683716

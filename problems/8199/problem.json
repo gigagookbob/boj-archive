@@ -15,10 +15,7 @@
   "hint": "<p>The sequence 1,1,1,1,1,1 forms the succinct representation of 101010<sub>2</sub>=42, sks(42)=45, while 45=101101<sub>2</sub> is succinctly represented by 1,1,2,1,1.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 3",
   "level": 23,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

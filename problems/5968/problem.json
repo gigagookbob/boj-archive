@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO February 2011 Contest, Bronze",
   "level": 12,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation",
-    "math"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation", "math"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.9211000204086304

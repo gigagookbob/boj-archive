@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2020 KAIST 10th ICPC Mock Competition, Contest, Open Cup, 2020/2021 Season, Stage 3: Grand Prix of Korea, kdh9949",
   "level": 13,
-  "tags": [
-    "sorting",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["sorting", "geometry", "constructive"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.468400001525879

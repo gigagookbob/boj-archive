@@ -15,11 +15,7 @@
   "hint": "<p>The largest convex polygon is the pentagon (2,3), (3,2), (5,1), (5,5), (1,5).</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO December 2008 Contest, Gold",
   "level": 21,
-  "tags": [
-    "dp",
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["dp", "geometry", "sorting"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.9544999599456787

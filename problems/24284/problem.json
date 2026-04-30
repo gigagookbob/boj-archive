@@ -15,13 +15,7 @@
   "hint": "<p>The output means that for an optimal game, Deni loses if she places the pawn in the fields with numbers 1, 2 and 3, and in all the other fields she will win. If Deni places the pawn in the field with number 1, Bob can move the pawn in the field with number 3 and Deni will not have more moves because the field with number 1 is already marked. Analogously Deni will lose if she places the pawn in the field with number 2. For the fields with numbers 4 and 5, she has a winning strategy.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2019, Group B (Juniors)",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "game_theory",
-    "rerooting"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "game_theory", "rerooting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

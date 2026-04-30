@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2024 ICPC Asia Jakarta Regional Contest",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2

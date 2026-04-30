@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona SBC de Programação 2025",
   "level": 20,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "bruteforcing", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

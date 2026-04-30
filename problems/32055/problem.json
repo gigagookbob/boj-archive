@@ -27,13 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2022 ICPC Asia Jakarta Regional Contest",
   "level": 20,
-  "tags": [
-    "dp",
-    "geometry",
-    "binary_search",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "geometry", "binary_search", "bitmask", "dp_bitfield"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.240000009536743

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Acka, kpqi5858, leedongbin, riroan, skyoliver",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 46539,
   "submission_count": null,
   "average_tries": 2.6563000679016113

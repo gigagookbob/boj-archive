@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2021, rdd6584",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 2.5397000312805176

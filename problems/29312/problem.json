@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, October 20, 2012, Basic",
   "level": 8,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

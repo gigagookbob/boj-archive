@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제1회 코드 챔피언십, 79brue",
   "level": 19,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 692,
   "submission_count": null,
   "average_tries": 2.160399913787842

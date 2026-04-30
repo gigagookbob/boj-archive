@@ -15,10 +15,7 @@
   "hint": "<p>문자열의 사전순 정의: 길이가 $K$인 서로 다른 두 문자열 $A$와 $B$가 있을 때, 이 두 문자열이 처음 달라지는 위치가 $i$번째라 하고 이 위치의 문자를 각각 $A[i]$, $B[i]$라 했을 때, $A$와 $B$의 사전식 순서는 두 알파벳 $A[i]$, $B[i]$의 사전식 순서를 따른다.</p>\r\n",
   "source": null,
   "level": 12,
-  "tags": [
-    "implementation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "backtracking"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.7360999584197998

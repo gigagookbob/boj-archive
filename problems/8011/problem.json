@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2001/2002, Stage 1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

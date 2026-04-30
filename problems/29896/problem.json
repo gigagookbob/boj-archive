@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2020-21, Preliminary Round",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "bruteforcing",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "greedy", "bruteforcing", "set", "hash_set"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.0399999618530273

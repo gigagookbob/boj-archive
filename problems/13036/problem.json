@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2016, RCC 2016 3rd Qualification Round",
   "level": 10,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.5134999752044678

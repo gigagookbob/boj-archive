@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2022",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "two_pointer",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "trees", "two_pointer", "trie"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.875

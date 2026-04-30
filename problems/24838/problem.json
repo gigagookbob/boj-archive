@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "greedy", "sorting", "prefix_sum", "combinatorics"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.150899887084961

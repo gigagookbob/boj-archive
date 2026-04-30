@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO October 2007 Contest, Silver",
   "level": 7,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.2143000364303589

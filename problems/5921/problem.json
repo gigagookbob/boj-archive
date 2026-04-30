@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>There are 5 cows, with weights 522, 6, 84, 7311, and 19.</p>\n<h4>Output Details</h4>\n<p>The three weights 522, 6, and 7311, can be added together with no carries:</p>\n<pre>\n   522\n     6\n+ 7311\n------\n  7839\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO December 2011 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 200,
   "submission_count": null,
   "average_tries": 1.9299999475479126

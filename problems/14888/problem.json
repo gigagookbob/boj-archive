@@ -23,10 +23,7 @@
   "hint": "<p>세 번째 예제의 경우에 다음과 같은 식이 최댓값/최솟값이 나온다.</p>\n<ul>\n<li>최댓값: 1-2÷3+4+5×6</li>\n<li>최솟값: 1+2+3÷4-5×6</li>\n</ul>",
   "source": "baekjoon, jh05013, mwy3055, hope9405",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 42641,
   "submission_count": null,
   "average_tries": 2.098599910736084

@@ -15,10 +15,7 @@
   "hint": "<p>In the second test case, Adam will start by eating from the second tray. At the beginning of Betka’s following turn, the state of the belt will be <code>001010</code>.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2014",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

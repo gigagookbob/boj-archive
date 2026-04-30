@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2010 Day 2",
   "level": 22,
-  "tags": [
-    "bcc",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["bcc", "dp", "dp_tree", "graphs", "trees"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

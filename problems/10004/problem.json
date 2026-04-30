@@ -15,10 +15,7 @@
   "hint": "<p>with three operations, the bytecomputer can obtain the sequence -1,-1,-1,-1,0,1.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 3",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.216200113296509

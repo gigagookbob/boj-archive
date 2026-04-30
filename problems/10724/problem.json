@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, tae",
   "level": 26,
-  "tags": [
-    "graphs",
-    "trees",
-    "mst",
-    "link_cut_tree"
-  ],
+  "tags": ["graphs", "trees", "mst", "link_cut_tree"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 4.966899871826172

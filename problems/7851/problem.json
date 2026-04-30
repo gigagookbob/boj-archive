@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Far Eastern Russia Regional Contest, NEERC Far-Eastern Subregional 2004",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

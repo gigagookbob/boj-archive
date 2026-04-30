@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2026 KPSC Spring Algorithm Challenge, chan120714, young_out, kangsm02, kevinlys00, playsworld16, saywoo, sjhi00, skuru, tapris",
   "level": 17,
-  "tags": [
-    "dp",
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["dp", "greedy", "case_work"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.9285999536514282

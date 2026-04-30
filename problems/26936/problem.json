@@ -19,9 +19,7 @@
   "hint": "<p>Frank ska alltså äta under $10$ minuter och han har $2$ rätter att välja på, t.ex. sallad (tar $3$ minuter att äta), och paj ($7$ minuter). Det finns bara två sätt att äta på: först paj sen sallad eller tvärtom. Äter han bara sallad kommer han antingen att bli klar för snabbt ($3 \\text{ portioner} = 9 \\text{ minuter}$) eller för sent ($4 \\text{ portioner} = 12 \\text{ minuter}$).</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2010, Online Qualification",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.100000023841858

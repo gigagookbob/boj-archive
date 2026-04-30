@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2017 ACM South Pacific Programming Contest, reversing",
   "level": 6,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.287500023841858

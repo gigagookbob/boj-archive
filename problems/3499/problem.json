@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2011, wwiiiii",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.59089994430542

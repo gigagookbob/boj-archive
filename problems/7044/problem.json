@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO December 2004 Contest, Silver",
   "level": 12,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 301,
   "submission_count": null,
   "average_tries": 1.9301999807357788

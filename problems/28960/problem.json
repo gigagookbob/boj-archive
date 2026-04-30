@@ -23,11 +23,7 @@
   "hint": "<p>В первом тесте Стрэндж сможет любым способом повесить плащ, во втором --- согнуть по стороне длины $8$, тогда плащ хоть и будет свисать до пола, но тем не менее не будет считаться касающимся. В третьем тесте плащ повесить не получится.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Basic",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 538,
   "submission_count": null,
   "average_tries": 2.0947999954223633

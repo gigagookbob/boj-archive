@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 1996",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "simulation", "arithmetic"],
   "accepted_user_count": 138,
   "submission_count": null,
   "average_tries": 1.3696000576019287

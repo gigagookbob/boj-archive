@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2020 Greater New York Programming Contest",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation",
-    "sorting"
-  ],
+  "tags": ["implementation", "simulation", "sorting"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.1666998863220215

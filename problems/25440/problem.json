@@ -10,14 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2022, Day 1",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "set",
-    "tree_set",
-    "pst"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "set", "tree_set", "pst"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.64520001411438

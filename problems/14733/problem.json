@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2017 중앙대학교 프로그래밍 경진대회 (CPC), byeop24, jwvg0425",
   "level": 16,
-  "tags": [
-    "sweeping",
-    "coordinate_compression",
-    "difference_array"
-  ],
+  "tags": ["sweeping", "coordinate_compression", "difference_array"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 1.9402999877929688

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, Télécom ParisTech Internal Selection, Concours interne de programmation Télécom ParisTech 2018",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 190,
   "submission_count": null,
   "average_tries": 1.4895000457763672

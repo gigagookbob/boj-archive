@@ -15,13 +15,7 @@
   "hint": "<p>Sample Case #1 is the one described in the problem statement.</p>\n<p>In Sample Case #2, one possible largest pattern is:</p>\n<pre>\n<code>BBB\nWB</code></pre>\n<p>Another equally large one is:</p>\n<pre>\n<code>BBB\nW W</code></pre>\n<p>In Sample Case #3, the entire starting dream grid is a largest pattern.</p>\n<p>In Sample Case #4, note that the five <code>W</code>s would not form a valid pattern, because they are not connected. However, this is a largest pattern:</p>\n<pre>\n<code>WB\nBW</code></pre>\n<p>In Sample Case #5, the entire starting dream grid is a largest pattern. Note that even though this grid happens to be what Codd would get by going deeper starting from <code>BW</code>, that is irrelevant; Codd will never \"go shallower\".</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2018, Round 2",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "case_work",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "case_work", "flood_fill"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

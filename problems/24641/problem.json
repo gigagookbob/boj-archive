@@ -15,12 +15,7 @@
   "hint": "<p>In the first example test case, when you select time zone $2$, the timestamps of your solutions change to $2$, $5$, $10$, and $26$. It means the problems are now considered to be solved on days $0$, $0$, $1$, and $2$; that is a $3$-day streak. Time zones $3$, $4$, and $5$ yield the same answer.</p>\n<p>In the second example test case, timestamps of your solutions are $37$ and $40$ in time zone $5$, which corresponds to days $3$ and $4$. Time zones $6$ and $7$ also work.</p>\n<p>In the third example test case, only one time zone exists, and your maximum day streak is $5$.</p>\n<p>In the fourth example test case, you have solved many problems but in a short period of time, and you can't obtain more than a $2$-day streak.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Regional Contest",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "segtree", "set", "tree_set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.9000000953674316

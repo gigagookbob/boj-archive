@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO US Open 2003 Contest, Green",
   "level": 17,
-  "tags": [
-    "dag",
-    "dp",
-    "graphs",
-    "implementation",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "dp", "graphs", "implementation", "topological_sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.5

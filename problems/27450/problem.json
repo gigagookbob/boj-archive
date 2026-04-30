@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2쿨, dhyang24, djm03178, eaststar, hyperbolic, index, kiwiyou, sivcde0405",
   "level": 15,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 3.1709001064300537

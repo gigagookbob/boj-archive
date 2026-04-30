@@ -19,9 +19,7 @@
   "hint": "<p>Pirmąją dieną Alekso dviratis visuomet yra namie. Pasibaigus N dienų, Alekso dviratis gali būti tiek namie, tiek paliktas darbe.</p>",
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2021/2022, National Round (1), 7-9 Classes",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

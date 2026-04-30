@@ -15,10 +15,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 1566,
   "submission_count": null,
   "average_tries": 2.9412999153137207

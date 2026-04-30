@@ -15,9 +15,7 @@
   "hint": "<p>초기 두더지 굴의 상태는 [6, 1, 5, 3, 4] 이다.</p>\r\n\r\n<p>첫 번째로, 재현이는 1번째 굴에 총을 쏴서, 6마리의 두더지를 탈출시킨다. 두더지 굴의 상태는 [0, 0, 6, 7, 0]이 된다.</p>\r\n\r\n<p>이제, 재현이는 4번째 굴에 총을 쏴서, 7마리의 두더지를 탈출시킨다. 총 13마리가 탈출한다.</p>\r\n",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2012, School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2016 송년대회, koosaga",
   "level": 20,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 4.400000095367432

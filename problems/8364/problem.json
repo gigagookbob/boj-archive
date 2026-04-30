@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2008",
   "level": 15,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.6363999843597412

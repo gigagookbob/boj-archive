@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2016, 중등부",
   "level": 24,
-  "tags": [
-    "convex_hull",
-    "divide_and_conquer",
-    "geometry"
-  ],
+  "tags": ["convex_hull", "divide_and_conquer", "geometry"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 3.518899917602539

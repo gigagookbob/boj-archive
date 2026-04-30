@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2021 1차대회, 고등부",
   "level": 6,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 1226,
   "submission_count": null,
   "average_tries": 2.3857998847961426

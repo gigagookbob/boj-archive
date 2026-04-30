@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2018 연습 세션",
   "level": 20,
-  "tags": [
-    "constructive",
-    "dp"
-  ],
+  "tags": ["constructive", "dp"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

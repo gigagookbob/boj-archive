@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2015",
   "level": 22,
-  "tags": [
-    "greedy",
-    "game_theory"
-  ],
+  "tags": ["greedy", "game_theory"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.5262999534606934

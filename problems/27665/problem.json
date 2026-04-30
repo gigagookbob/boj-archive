@@ -15,9 +15,7 @@
   "hint": "<p>In the first example there were no ferries, the car simply remained in the first place.</p>\n<p>In the second example the first type-L ferry moves the car to position 2 and the second such ferry moves it to position 4.</p>\n<p>In the third example <code>RR</code> gets us from 2 to 5, <code>L</code> from 5 to 3, <code>RRL</code> from 3 to 1, and <code>L</code> from 1 to 2.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2016",
   "level": 17,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.1666998863220215

@@ -19,10 +19,7 @@
   "hint": "<p>Images for samples and some random photo.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\"/></p>",
   "source": "Camp, Moscow Pre-Finals ACM ICPC Workshop, Moscow Pre-Finals ACM ICPC Workshop 2018",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["ad_hoc", "geometry"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.6175999641418457

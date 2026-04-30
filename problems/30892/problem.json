@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2023, rdd6584, azberjibiou, leedongbin, leo020630, mjhmjh1104",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "stack"],
   "accepted_user_count": 542,
   "submission_count": null,
   "average_tries": 2.9354000091552734

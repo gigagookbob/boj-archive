@@ -23,12 +23,7 @@
   "hint": "<p>첫 번째 예제의 경우 다음과 같은 4가지가 가능하다.</p>\n<pre>\n1\n2</pre>\n<pre>\n1\n4</pre>\n<pre>\n1\n6</pre>\n<pre>\n3\n2 4 6</pre>",
   "source": "baekjoon",
   "level": 27,
-  "tags": [
-    "combinatorics",
-    "fft",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["combinatorics", "fft", "math", "number_theory"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 6.6666998863220215

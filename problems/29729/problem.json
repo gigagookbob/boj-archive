@@ -15,10 +15,7 @@
   "hint": "<p>대표적인 가변 배열의 예시로는 C++의 vector가 있다.</p>",
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, ufshg, aig0016, kiwiyou, nflight11, pill27211, pjshwa, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 3,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 869,
   "submission_count": null,
   "average_tries": 1.6674000024795532

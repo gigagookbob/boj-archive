@@ -19,11 +19,7 @@
   "hint": "<p><strong>Clarification of the first test case:</strong></p>\n<p>There are 2 reactions.</p>\n<p>The first reaction transforms substance set {1, 2} into substance set {3}.</p>\n<p>The second reaction transforms substance set {1, 3} into substance set {4}.</p>\n<p>Joško initially has substances from the set {1, 2}.</p>\n<p>Using the first reaction, Joško can obtain substance 3, after which he has substances from the set {1, 2, 3}.</p>\n<p>After that, using the second reaction, he can also obtain substance 4.</p>\n<p><strong>Clarification of the second test case:</strong></p>\n<p>Joško initially has substances from the set {1, 4, 5}.</p>\n<p>Using the second reaction, it is possible to obtain substance 6, after which it is possible to apply the third reaction, giving substance 2.</p>\n<p>The first reaction is impossible to apply because Joško doesn’t have substance 3.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #6",
   "level": 15,
-  "tags": [
-    "dag",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "topological_sorting"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.1538000106811523

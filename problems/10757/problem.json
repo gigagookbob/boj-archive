@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, dlaud5379, gcon16",
   "level": 1,
-  "tags": [
-    "implementation",
-    "arbitrary_precision",
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["implementation", "arbitrary_precision", "arithmetic", "math"],
   "accepted_user_count": 47475,
   "submission_count": null,
   "average_tries": 1.948699951171875

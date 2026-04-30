@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 9, 2010, Advanced",
   "level": 19,
-  "tags": [
-    "graphs",
-    "constructive",
-    "case_work",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "constructive", "case_work", "eulerian_path"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4.3333001136779785

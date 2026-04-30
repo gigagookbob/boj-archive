@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 453px; height: 400px;\"/></p>\n<p style=\"text-align: center;\">En möjlig dragsekvens i exempel 2</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2018, Qualification",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

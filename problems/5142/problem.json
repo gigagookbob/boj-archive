@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2010: Oil Spill",
   "level": 10,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation", "bfs"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.631600022315979

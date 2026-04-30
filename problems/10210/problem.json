@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2014: Greek Mythology",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "flood_fill"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.4687999486923218

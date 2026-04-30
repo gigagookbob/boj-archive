@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 1차대회, 초등부, kyo20111",
   "level": 3,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 688,
   "submission_count": null,
   "average_tries": 1.5537999868392944

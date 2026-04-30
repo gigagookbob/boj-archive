@@ -19,12 +19,7 @@
   "hint": "<p>Explanation of the first Sample Input/Output: We can move all food of type 2 to either end and all food of type 7 to either end, for a total of 2 moves.</p>",
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Final Round)",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "set"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.3077000379562378

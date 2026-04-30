@@ -27,11 +27,7 @@
   "hint": "<p>In the first example, Alice will win in all the cases, where she can make at least one move (because Bob will never be able to move), so the answer is $2^5 - 2$.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 16: Grand Prix of Moscow",
   "level": 20,
-  "tags": [
-    "dp",
-    "game_theory",
-    "knapsack"
-  ],
+  "tags": ["dp", "game_theory", "knapsack"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1

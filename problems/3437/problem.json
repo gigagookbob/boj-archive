@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2007",
   "level": 22,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "parametric_search"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "parametric_search"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.7221999168395996

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, SpringSpot 2011",
   "level": 16,
-  "tags": [
-    "dp",
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["dp", "game_theory", "parity"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

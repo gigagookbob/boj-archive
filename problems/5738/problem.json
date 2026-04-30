@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2008 연습 세션, ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2007",
   "level": 5,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 1.544800043106079

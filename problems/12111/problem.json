@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #6",
   "level": 11,
-  "tags": [
-    "math",
-    "sorting",
-    "ad_hoc",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["math", "sorting", "ad_hoc", "binary_search", "set"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.3050999641418457

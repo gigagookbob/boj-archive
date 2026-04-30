@@ -15,12 +15,7 @@
   "hint": "<p>В примере можно уменьшить вес первой и третьей детали до стандарта.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Qualification",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "number_theory"
-  ],
+  "tags": ["math", "greedy", "sorting", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.625

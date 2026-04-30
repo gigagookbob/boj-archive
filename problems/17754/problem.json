@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2012/2013 Spring Training Camp",
   "level": 25,
-  "tags": [
-    "trees",
-    "link_cut_tree"
-  ],
+  "tags": ["trees", "link_cut_tree"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.2683000564575195

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 15,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 943,
   "submission_count": null,
   "average_tries": 2.0381999015808105

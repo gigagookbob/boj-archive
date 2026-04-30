@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가지컵, 2023 가지컵, mingyu331, functionx, jihwan_0319, kiwiyou, sait2000, wapas, WeissBlume, wider93, yup0927",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "math",
-    "number_theory",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "math", "number_theory", "set"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 3.677799940109253

@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2018",
   "level": 19,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.8461999893188477

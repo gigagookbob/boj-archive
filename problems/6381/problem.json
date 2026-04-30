@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2000 Greater New York Programming Contest",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "string"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "string"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.857100009918213

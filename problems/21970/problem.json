@@ -15,10 +15,7 @@
   "hint": "<p>In the first test, there are 5 students in total, and exactly one student must be selected on each turn (as K = 1). Thus, selection will last exactly 5 turns, and the last student will be selected on Little Square’s turn, and Little Square wins.</p>\n<p>In the second test, Little Square can first select two students from the first class. Then, after four further turns in which each captain selects one student (since all the classes have only one student at this point), Little Square wins.</p>\n<p>In the third test, one winning strategy has Little square first selecting one student.</p>",
   "source": "Contest, infO(1) Cup, infO(1) Cup 2020",
   "level": 18,
-  "tags": [
-    "math",
-    "game_theory"
-  ],
+  "tags": ["math", "game_theory"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2

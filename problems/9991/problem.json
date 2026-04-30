@@ -15,11 +15,7 @@
   "hint": "<h4>Output Details</h4>\n<p>The completions of a are {aa,aaa,aab,ab,abc,ac}. The 4th is ab, which is listed on line 3 of the dictionary. The completions of da are {daa,dab,dadba}. The 2nd is dab, listed on line 1 of the dictionary. There is no 4th completion of da.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO February 2014 Contest, Silver, Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO February 2014 Contest, Bronze, koosaga",
   "level": 12,
-  "tags": [
-    "string",
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["string", "sorting", "binary_search"],
   "accepted_user_count": 144,
   "submission_count": null,
   "average_tries": 2.5971999168395996

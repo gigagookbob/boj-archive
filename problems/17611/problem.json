@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2019 1차대회, 중등부, jh05013, YunGoon",
   "level": 14,
-  "tags": [
-    "sorting",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["sorting", "prefix_sum", "sweeping"],
   "accepted_user_count": 1193,
   "submission_count": null,
   "average_tries": 2.752700090408325

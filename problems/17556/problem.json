@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2018",
   "level": 0,
-  "tags": [
-    "ad_hoc",
-    "backtracking"
-  ],
+  "tags": ["ad_hoc", "backtracking"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

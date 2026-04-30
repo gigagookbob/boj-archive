@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2022, deuslovelt, eaststar, jthis, tony9402",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "priority_queue",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "priority_queue", "lazyprop"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 5.307700157165527

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 1995 South Central USA Regional Programming Contest, rmj, YunGoon",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 2.429800033569336

@@ -19,14 +19,7 @@
   "hint": "<p>For the sample input 1, we have nine embeddings of depth 1 (1-1, 2-2, 3-3, 4-4, 5-5, 6-6, 2-4, 4-6, 1-5), six embeddings of depth 2 (3-3 in 2-4, 5-5 in 4-6, 2-2 in 1-5, 3-3 in 1-5, 4-4 in 1-5, 2-4 in 1-5), and one embedding of depth 3 (3-3 in 2-4 in 1-5), with $9+6+1=16$  embeddings in total.</p>",
   "source": "Camp, Bytedance-Moscow Workshops Camp, Bytedance-Moscow Workshops Camp 2020, Contest 1",
   "level": 25,
-  "tags": [
-    "dp",
-    "string",
-    "trees",
-    "prefix_sum",
-    "dp_tree",
-    "palindrome_tree"
-  ],
+  "tags": ["dp", "string", "trees", "prefix_sum", "dp_tree", "palindrome_tree"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.61899995803833

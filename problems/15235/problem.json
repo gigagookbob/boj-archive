@@ -15,12 +15,7 @@
   "hint": "<p>The contestants that get a slice are, in order: 1, 2, 3, 4, 2, 4, 2, 4, 4.</p>\n<p>So at t=1s the first contestant get all slices, at t=3s the third contestant gets a slice, at t=7s the second student finishes and finally at t=9s the fourth student gets the last slice.</p>",
   "source": "Olympiad, All-Ireland Programming Olympiad, 2017 AIPO Preliminary Round",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "queue"],
   "accepted_user_count": 881,
   "submission_count": null,
   "average_tries": 1.368899941444397

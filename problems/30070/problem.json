@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2018/2019, School Stage, 10-12 Classes",
   "level": 11,
-  "tags": [
-    "constructive",
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["constructive", "data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.7036999464035034

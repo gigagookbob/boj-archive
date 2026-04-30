@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2011, onjo0127, f52985",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "case_work"],
   "accepted_user_count": 233,
   "submission_count": null,
   "average_tries": 2.9528000354766846

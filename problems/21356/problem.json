@@ -23,9 +23,7 @@
   "hint": "<ul>\n<li>I det första exempelfallet kan man använda en 1-kronasedel och två 11-kronorssedlar.</li>\n<li>I det andra exempelfallet kan man använda en av varje av 1-, 11-, 111-, 1111-, 11111-kronorssedel.</li>\n</ul>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2021, Qualification",
   "level": 6,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.2999999523162842

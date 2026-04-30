@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제5회 고려대학교 MatKor Cup: 2024 Summer/Fall, yijw0930, eoaud0108, finimage, jinhan814, kevinlys00, kidw0124, sshs29hanul, utilforever",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "math",
-    "segtree",
-    "statistics"
-  ],
+  "tags": ["data_structures", "math", "segtree", "statistics"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

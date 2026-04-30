@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2020",
   "level": 17,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.6970000267028809

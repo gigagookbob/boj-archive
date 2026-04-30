@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2022",
   "level": 22,
-  "tags": [
-    "combinatorics",
-    "fft",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["combinatorics", "fft", "math", "number_theory"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.625

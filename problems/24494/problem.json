@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 January Contest, Bronze",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "set"
-  ],
+  "tags": ["implementation", "string", "set"],
   "accepted_user_count": 443,
   "submission_count": null,
   "average_tries": 1.9707000255584717

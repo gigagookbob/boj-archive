@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2020, sonho00, august14, dlstj0923, hibye1217, tony9402",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["binary_search", "data_structures", "disjoint_set"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 4.974999904632568

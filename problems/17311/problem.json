@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2014",
   "level": 20,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 8.63640022277832

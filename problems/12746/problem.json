@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2016 Spring RUN@KAIST Programming Contest, ho94949",
   "level": 19,
-  "tags": [
-    "trees",
-    "prefix_sum",
-    "lca"
-  ],
+  "tags": ["trees", "prefix_sum", "lca"],
   "accepted_user_count": 191,
   "submission_count": null,
   "average_tries": 2.188499927520752

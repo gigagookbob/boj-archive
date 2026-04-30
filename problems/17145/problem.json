@@ -15,11 +15,7 @@
   "hint": "<p>첫 예제의 경우 &ldquo;DRU&rdquo; 도 정답이다.</p>\r\n\r\n<p>두 번째 예제의 경우 모든 칸을 정확히 한 번씩 방문하는 것은 불가능하다.</p>\r\n\r\n<p>세 번째 예제의 경우 정답이 여럿 존재하는데 그 중 무엇을 출력해도 무방하다.</p>\r\n\r\n<p>네 번째 예제는 불가능하다.</p>\r\n\r\n<p>다섯 번째 예제는 정답이 여럿 존재하며, 다른 정답이 문제에서 예시로 언급되었다.</p>\r\n\r\n<p>마지막 예제는 불가능하다.</p>\r\n\r\n<p>문제의 정답이 여러가지인 경우에는 스페셜 저지로 채점을 하게 됩니다. 스페셜 저지는 유저가 출력한 답을 검증하는 코드를 통해서 정답 유무를 결정하는 방식입니다.</p>\r\n",
   "source": null,
   "level": 21,
-  "tags": [
-    "case_work",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["case_work", "constructive", "implementation"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.0713999271392822

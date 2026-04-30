@@ -31,13 +31,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2020/2021 Spring Training Camp",
   "level": 25,
-  "tags": [
-    "implementation",
-    "graphs",
-    "greedy",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["implementation", "graphs", "greedy", "shortest_path", "dijkstra"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.230799913406372

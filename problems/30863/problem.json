@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2023, Camp, Petrozavodsk Programming Camp, Winter 2024, Day 6: K-ontest",
   "level": 21,
-  "tags": [
-    "dp",
-    "greedy",
-    "string",
-    "ad_hoc",
-    "hashing"
-  ],
+  "tags": ["dp", "greedy", "string", "ad_hoc", "hashing"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 6.571400165557861

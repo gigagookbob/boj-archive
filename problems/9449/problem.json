@@ -23,11 +23,7 @@
   "hint": "<p>The plan on the first picture is accepted and optimal for the first example. Note that a rotated (2 × 3) garage could be placed on the sandlot, but it is prohibited by the contract.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2013",
   "level": 5,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "geometry", "arithmetic"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 1.9106999635696411

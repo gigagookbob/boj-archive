@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2017 ERICA Programming Contest, League B (초보), isku",
   "level": 4,
-  "tags": [
-    "math",
-    "string"
-  ],
+  "tags": ["math", "string"],
   "accepted_user_count": 1354,
   "submission_count": null,
   "average_tries": 2.1647000312805176

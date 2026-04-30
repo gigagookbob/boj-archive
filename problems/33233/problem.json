@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2021",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing",
-    "binary_search"
-  ],
+  "tags": ["math", "greedy", "bruteforcing", "binary_search"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

@@ -15,12 +15,7 @@
   "hint": "<p>Najdłuższy ciąg spełniający warunki zadania to \"abc\".</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Olympiad Group)",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "prefix_sum",
-    "segtree",
-    "string"
-  ],
+  "tags": ["data_structures", "prefix_sum", "segtree", "string"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

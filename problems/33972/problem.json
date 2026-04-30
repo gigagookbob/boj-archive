@@ -19,14 +19,7 @@
   "hint": "<p>간선을 지운 다음 간선이 존재하지 않는 정점 쌍 사이에 생성하는 것이기 때문에, 지운 위치에 다시 간선이 생성될 수 있다.</p>",
   "source": "University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2025 서울대학교 SCSC 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2025 서울대학교 SCSC 프로그래밍 경시대회, Open Contest, mujigae, jinhan814, jthis, kdy40929, ksi4495, lycoris1600, ohwphil, pangitwise, qvixnh22, sjh1224, sungjae0506, utilforever",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "dp_tree",
-    "probability"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "dp_tree", "probability"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.166700005531311

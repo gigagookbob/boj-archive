@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024 예선, kipa00, evenharder, golazcc83, jh05013, kclee2172, qwerasdfzxcl, sorohue, whqkrkt04",
   "level": 2,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "geometry", "arithmetic"],
   "accepted_user_count": 2383,
   "submission_count": null,
   "average_tries": 1.2777999639511108

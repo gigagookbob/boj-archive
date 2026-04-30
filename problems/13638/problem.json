@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2012",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "greedy", "arithmetic"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.4666999578475952

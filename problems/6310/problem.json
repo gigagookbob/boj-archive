@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1998",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "bipartite_matching"
-  ],
+  "tags": ["bruteforcing", "bipartite_matching"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4.823500156402588

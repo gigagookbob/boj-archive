@@ -15,10 +15,7 @@
   "hint": "<p><b>Wyjaśnienie do przykładu:</b> Jaś zamieni się najpierw z $3$ osobą w kolejce za kwotę $2 \\cdot 2$, a następnie z pierwszą osobą w kolejce za kwotę $3 \\cdot 2$.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2012, Stage 1",
   "level": 19,
-  "tags": [
-    "dp",
-    "cht"
-  ],
+  "tags": ["dp", "cht"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.399999976158142

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2010",
   "level": 14,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

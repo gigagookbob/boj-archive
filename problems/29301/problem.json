@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, September 22, 2012",
   "level": 8,
-  "tags": [
-    "math",
-    "data_structures",
-    "string",
-    "prefix_sum"
-  ],
+  "tags": ["math", "data_structures", "string", "prefix_sum"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.3636000156402588

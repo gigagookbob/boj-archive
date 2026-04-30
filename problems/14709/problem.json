@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예시는 엄지손가락과 중지, 약지와 중지, 엄지손가락과 약지가 서로 닿아 있고 검지와 새끼손가락은 다른 손가락과 닿아 있지 않으므로 여우 사인이라고 할 수 있다.</p>\n<p>두 번째 예시는 검지만 펴고 다른 손가락은 접은 손 모양이다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2017 서울대학교 프로그래밍 경시대회, Division 2, doju",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 918,
   "submission_count": null,
   "average_tries": 2.24180006980896

@@ -19,10 +19,7 @@
   "hint": "<p>예제 1 : 재현이가 (3, 2, 2), (3)으로 총 2번에 걸쳐서 유제품을 사면 됩니다.</p>\r\n\r\n<p>예제 2 : 재현이가 (6, 4, 5), (5, 5, 5)로 총 2번에 걸쳐서 유제품을 사면 됩니다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #1, functionx",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 5177,
   "submission_count": null,
   "average_tries": 1.6476999521255493

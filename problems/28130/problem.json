@@ -23,13 +23,7 @@
   "hint": "<ul>\n<li>슈넬치킨: 군 편의점 개념인 PX에서 파는 냉동 치킨 상품입니다.</li>\n<li>연병장: 단련할 련(鍊), 병사 병(兵), 마당 장(場) 입니다. 운동장의 개념과 비슷합니다.</li>\n<li>군장: 군인이 전투력을 유지하기 위해 장구를 휴대하는 방법 및 그에 쓰이는 장구를 뜻합니다.</li>\n<li>간부: 기관이나 조직체 따위의 중심이 되는 자리에서 책임을 맡거나 지도하는 사람을 말합니다.</li>\n<li>문제에 등장하는 선우: 사실 의경 출신이며, 수경 만기 전역을 하였습니다.</li>\n</ul>",
   "source": "University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.2, hsh8086, akim9905, eaststar, gbe0808, jthis, pani, tlsdydaud1, utilforever",
   "level": 15,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "parity"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs", "parity"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 3.1110999584198

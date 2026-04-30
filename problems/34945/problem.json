@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 이화여자대학교, 2025 이화여자대학교 컴퓨터공학과 프로그래밍 대회 (ECPC), celina324, jinhan814, jthis, jungh150, swoon, tony9402, ystaeyoon113",
   "level": 1,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1309,
   "submission_count": null,
   "average_tries": 1.2871999740600586

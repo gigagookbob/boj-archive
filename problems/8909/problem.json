@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2011",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "priority_queue", "sweeping"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.763200044631958

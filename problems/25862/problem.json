@@ -23,12 +23,7 @@
   "hint": "<p>In the first sample case, the smallest composite numbers not divisible by a value less than or equal to 10 are 121, 132, 169, 189, 221. On the first day we could give 121. The second day we would use 132. On the third day (when k = 3) we would use 169.</p>\n<p>For the second sample case, the answer is 4, since it is both the 1st composite number and the first number not divisible by any prime less than or equal to 1.</p>\n<p>For the last case, the smallest composite numbers not divisible by a prime less than or equal to 19 include 529, 667, 713, 841, 851, 899, 943, 961, and 989. The 7th value in the list is 943, which will be the value given on the 7th day</p>",
   "source": "University, University of Central Florida, 2019 Local Programming Contest",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3

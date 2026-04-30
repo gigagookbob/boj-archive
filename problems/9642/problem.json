@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2013 Arab Collegiate Programming Contest",
   "level": 12,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.5161000490188599

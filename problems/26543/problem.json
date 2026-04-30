@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2017, Advanced",
   "level": 13,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

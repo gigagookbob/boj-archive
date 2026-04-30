@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #4, baekjoon, hyakintoss, cokcjswo",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "sorting"],
   "accepted_user_count": 1204,
   "submission_count": null,
   "average_tries": 1.6062999963760376

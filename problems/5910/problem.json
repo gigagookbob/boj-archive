@@ -15,10 +15,7 @@
   "hint": "<h4>Output Details</h4><p>If cow 3 goes first, then cow 1, and then cow 2 (and this same order is used for both the ascent and descent), this gives a total time of 17.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO January 2012 Contest, Silver",
   "level": 19,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 112,
   "submission_count": null,
   "average_tries": 2.6786000728607178

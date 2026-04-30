@@ -23,11 +23,7 @@
   "hint": "<p>문자열 $S$에서 문자를 연속하여 선택할 때 만들어지는 새로운 문자열을 $S$의 부분 문자열이라 한다.</p>\n<p>예를 들어, \"appl\", \"ap\", \"ple\" 등은 \"apple\"의 부분 문자열이고, \"ppe\", \"apl\" 등은 \"apple\"의 부분 문자열이 아니다.</p>",
   "source": "University, 성균관대학교, 2022 성균관대학교 프로그래밍 경진대회, woolim, 79brue, cs71107, hibye1217, jh05013, jhnah917, tony9402",
   "level": 14,
-  "tags": [
-    "dp",
-    "set",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "set", "prefix_sum"],
   "accepted_user_count": 244,
   "submission_count": null,
   "average_tries": 3.25

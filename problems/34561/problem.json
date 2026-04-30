@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2025, gwanwoopa, leedongbin, sk14cj, azberjibiou, dohoon, swoon, tony9402",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.951200008392334

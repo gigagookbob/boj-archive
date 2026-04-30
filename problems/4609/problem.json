@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2007 Mid-Central Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "parsing",
-    "shortest_path",
-    "string"
-  ],
+  "tags": ["dijkstra", "graphs", "parsing", "shortest_path", "string"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.4118000268936157

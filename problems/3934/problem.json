@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2003 in Aizu",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["bruteforcing", "geometry", "sorting", "sweeping"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.5

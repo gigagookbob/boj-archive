@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 마이폴학교, 슬기로운 마이폴 생활, lunarlity, wizardrabbit, tony9402, terrasphere, qvixnh22, pyb1031, oh040411, nflight11, mj1000j, corkd, kdy40929, kaorin, hyperbolic, herdson, gs22059, gs18115, dkim110807, djeleanor2",
   "level": 10,
-  "tags": [
-    "greedy",
-    "string",
-    "parity"
-  ],
+  "tags": ["greedy", "string", "parity"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 2.008699893951416

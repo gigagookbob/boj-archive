@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, 쇼미더코드: 원티드 주관 코딩테스트 대회, 2022년 3회차, cs71107",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 180,
   "submission_count": null,
   "average_tries": 2.4444000720977783

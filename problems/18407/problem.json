@@ -19,12 +19,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "coordinate_compression"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 2.469399929046631

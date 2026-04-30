@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, tongnamuu",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["math", "greedy", "constructive"],
   "accepted_user_count": 1293,
   "submission_count": null,
   "average_tries": 2.2065000534057617

@@ -19,11 +19,7 @@
   "hint": "<p>The first test case is explained below.</p>\n<table class=\"table table-bordered th-center td-center\">\n<thead>\n<tr>\n<th>Operation</th>\n<th>Array</th>\n<th>Description</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td><code>[1,2,1,2,1]</code></td>\n<td><code>[1,2]</code> and <code>[2,1]</code> are different</td>\n</tr>\n<tr>\n<td>2</td>\n<td><code>[1,2,1,2,1]</code></td>\n<td><code>[1,2,1]</code> and <code>[1,2,1]</code> are same</td>\n</tr>\n<tr>\n<td>3</td>\n<td><code>[2,2,1,2,1]</code></td>\n<td>the first element is shifted by one</td>\n</tr>\n<tr>\n<td>4</td>\n<td><code>[2,2,2,3,2]</code></td>\n<td>the third to the fifth elements are shifted by one</td>\n</tr>\n<tr>\n<td>5</td>\n<td><code>[2,2,2,3,2]</code></td>\n<td><code>[2,2,2,3]</code> and <code>[2,2,3,2]</code> are different</td>\n</tr>\n<tr>\n<td>6</td>\n<td><code>[2,2,2,3,2]</code></td>\n<td><code>[2,2]</code> and <code>[2,2]</code> are same</td>\n</tr>\n</tbody>\n</table>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 5: Grand Prix of Weihai, Division 1",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

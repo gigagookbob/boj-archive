@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, 2016 ACM-ICPC Asia-Manila Regional Programming Contest",
   "level": 25,
-  "tags": [
-    "trees",
-    "splay_tree"
-  ],
+  "tags": ["trees", "splay_tree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.4614999294281006

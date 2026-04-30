@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 3 October, 2009",
   "level": 13,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "number_theory"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "number_theory"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.9129999876022339

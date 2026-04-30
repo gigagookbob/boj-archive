@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2017",
   "level": 19,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5937999486923218

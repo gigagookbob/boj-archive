@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2010",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "precomputation"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "precomputation"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.7308000326156616

@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 와쿠(AGCU)컵, 제1회 와쿠(AGCU)컵, nflight11, bnb2011, cgiosy, eaststar, jyheo98, lms0806, parkky, pjshwa, qawbecrdtey, tony9402, yooyou7",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 1720,
   "submission_count": null,
   "average_tries": 1.7389999628067017

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, HotSpot 2011",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "deque",
-    "sliding_window",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "deque", "sliding_window", "deque_trick"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

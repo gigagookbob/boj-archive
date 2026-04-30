@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2018",
   "level": 21,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["greedy", "ad_hoc", "geometry"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 4.337699890136719

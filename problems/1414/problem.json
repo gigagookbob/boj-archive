@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, ho94949",
   "level": 13,
-  "tags": [
-    "graphs",
-    "string",
-    "mst"
-  ],
+  "tags": ["graphs", "string", "mst"],
   "accepted_user_count": 2604,
   "submission_count": null,
   "average_tries": 2.0541000366210938

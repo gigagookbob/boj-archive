@@ -15,12 +15,7 @@
   "hint": "<p>In the first and the second case, we can see that the ‘easiest’ series of stages is to have $1$ stage with a checkpoint. This already requires $2$ tries in expectation, so it is impossible to make it to require only $1$ try.</p>\n<p>In the third case, it takes $2$ tries in expectation to beat each stage, and the player can always retry that stage without falling back to one of the previous stages if they fail it. Therefore the total expected number of tries is $8$. Note that there exists an answer with fewer stages, but you are not required to minimize the number of stages used.</p>",
   "source": "Contest, Codeforces, Codeforces Round 688 (Div. 2), djm03178",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy",
-    "constructive",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "constructive", "probability"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.1033999919891357

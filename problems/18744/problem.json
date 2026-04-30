@@ -15,13 +15,7 @@
   "hint": "<p>In the first test case, all obtainable strings are abbb, abbbb, abbbba, bb, bbb, bbba, bbbb, bbbba.</p>\n<p>In the second test case, only strings consisting of at least 2 and at most 8 letters a can be obtained.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 7: Gennady Korotkevich Contest 5, Contest, Open Cup, 2019/2020 Season, Stage 11: Grand Prix of Gomel",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree",
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree", "string", "suffix_array"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.5237998962402344

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2020",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.4544999599456787

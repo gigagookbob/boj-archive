@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Beginner Group)",
   "level": 2,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "arithmetic", "pythagoras"],
   "accepted_user_count": 2545,
   "submission_count": null,
   "average_tries": 1.5025999546051025

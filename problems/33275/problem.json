@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 01., heeda0528, cologne, jthis, lky7674, utilforever",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.970599889755249

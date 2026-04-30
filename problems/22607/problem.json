@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Contest, JAG Winter Contest 2010",
   "level": 14,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

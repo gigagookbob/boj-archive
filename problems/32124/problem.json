@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, LG Collegiate Programming Contest, LGCPC 2024 예선, jhnah917, 79brue, kyo20111",
   "level": 13,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc",
-    "constructive",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "ad_hoc", "constructive", "parsing"],
   "accepted_user_count": 129,
   "submission_count": null,
   "average_tries": 2.038800001144409

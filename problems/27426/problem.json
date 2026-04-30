@@ -19,11 +19,7 @@
   "hint": "<p>For Sample Input 1, making the (start time, end time) pairs of the three events to be $(330, 380)$, $(380, 500)$, and $(170, 330)$, respectively, achieves the minimum total cost without event overlaps. The cost of the event $1$ is $2500 + (330 - 300) \\times (0 - 2500)/(350 - 300) = 1000$. Similarly, the costs of the events $2$ and $3$ are $0$ and $460$, respectively.</p>\n<p>For Sample Input 2, the minimum cost is achieved by $(384, 544)$, $(104, 384)$, $(544, 704)$, and $(720, 960)$ for the four events.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 480px; height: 185px;\"/></p>\n<p style=\"text-align: center;\">Figure K.1. Cost functions in Sample Input 1 and a sample schedule</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 480px; height: 187px;\"/></p>\n<p style=\"text-align: center;\">Figure K.2. Cost functions in Sample Input 2 and a sample schedule</p>\n<p>In Figures K.1 and K.2, polylines in the top figure represent cost functions, and rectangles in the bottom figure represent event durations of a schedule achieving the minimum total cost.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Summer 2023, Day 1: Starting Contest",
   "level": 23,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 5.076900005340576

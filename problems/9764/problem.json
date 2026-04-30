@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2013, ICPC, Regionals, Asia Pacific, Thailand, Thailand Southern Programming Contest, Thailand Southern Programming Contest 2013, baekjoon",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 550,
   "submission_count": null,
   "average_tries": 1.469099998474121

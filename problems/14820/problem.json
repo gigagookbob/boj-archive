@@ -15,11 +15,7 @@
   "hint": "<p>Note that the last 2 sample cases would not appear in the Small dataset.</p>\n<p>In Sample Case #1, if a beam shooter is positioned to shoot its beam into the empty cell, it will necessarily destroy the other beam shooter. So the case is <code>IMPOSSIBLE</code>.</p>\n<p>In Sample Case #2, the leftmost beam shooter must be rotated to cover the empty cell. The rightmost beam shooter must also be rotated to avoid destroying the leftmost beam shooter.</p>\n<p>In Sample Case #3, the existing beam shooters already cover all empty cells with their beams and do not destroy each other, so outputting the grid from the input would be acceptable. However, notice that the output that we have given is also correct.</p>\n<p>In Sample Case #4, one acceptable solution is to rotate all three of the beam shooters. However, note that the following would also be acceptable:</p>\n<p><code>.-.<br/>\n|//<br/>\n.-.<br/>\n#\\/</code></p>\n<p>since it is not necessary for cells with mirrors to have a beam pass through them. (Who would steal giant diagonal mirrors, anyway?)</p>\n<p>In Sample Case #5, the beam shooter would destroy itself no matter which orientation Joy chooses for it, so the case is <code>IMPOSSIBLE</code>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 2",
   "level": 0,
-  "tags": [
-    "graphs",
-    "2_sat",
-    "scc"
-  ],
+  "tags": ["graphs", "2_sat", "scc"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

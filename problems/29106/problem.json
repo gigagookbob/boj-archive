@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2014-2015 Season, October 12, 2014, Basic",
   "level": 7,
-  "tags": [
-    "sorting",
-    "sliding_window"
-  ],
+  "tags": ["sorting", "sliding_window"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.3636000156402588

@@ -15,12 +15,7 @@
   "hint": "<p>The sample output displays one set of answers to the sample cases. Other answers may be possible.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 1A, koosaga",
   "level": 10,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["greedy", "bruteforcing", "constructive", "backtracking"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.3837000131607056

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2025, CCC 2025 Senior Division",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "geometry", "arithmetic"],
   "accepted_user_count": 138,
   "submission_count": null,
   "average_tries": 1.4637999534606934

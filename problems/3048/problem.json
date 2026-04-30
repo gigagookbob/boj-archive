@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #2, baekjoon, andy627, qja0950",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "simulation"],
   "accepted_user_count": 2356,
   "submission_count": null,
   "average_tries": 2.1026999950408936

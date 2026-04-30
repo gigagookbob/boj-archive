@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ntopia",
   "level": 12,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "bruteforcing", "ad_hoc"],
   "accepted_user_count": 187,
   "submission_count": null,
   "average_tries": 2.748699903488159

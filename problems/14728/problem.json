@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2017 중앙대학교 프로그래밍 경진대회 (CPC), dlstj0923",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 4062,
   "submission_count": null,
   "average_tries": 1.7967000007629395

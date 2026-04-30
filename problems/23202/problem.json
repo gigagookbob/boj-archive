@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2020",
   "level": 29,
-  "tags": [
-    "math",
-    "geometry",
-    "number_theory"
-  ],
+  "tags": ["math", "geometry", "number_theory"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.357100009918213

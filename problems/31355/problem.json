@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 10: Grand Prix of China",
   "level": 16,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.6485999822616577

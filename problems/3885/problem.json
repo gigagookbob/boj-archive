@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2008 in Aizu, baekjoon, august14, sr3gm, zmtn94",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 1.409500002861023

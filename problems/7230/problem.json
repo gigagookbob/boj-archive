@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2020/2021, National Round (2), 7-9 Classes, Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2020/2021, National Round (2), 10-12 Classes",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

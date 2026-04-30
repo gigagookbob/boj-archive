@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2023",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set", "tree_set"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.868399977684021

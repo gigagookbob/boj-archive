@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2024",
   "level": 14,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.7143000364303589

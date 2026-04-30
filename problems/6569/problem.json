@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"2.gif\" style=\"height:316px; width:348px\" /></p>\r\n",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2000, baekjoon",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 280,
   "submission_count": null,
   "average_tries": 2.0785999298095703

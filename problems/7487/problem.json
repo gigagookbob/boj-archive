@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC Semi-Final 2010",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "arbitrary_precision",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "arbitrary_precision", "euclidean"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 1.350000023841858

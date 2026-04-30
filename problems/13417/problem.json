@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회, game2k",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "string",
-    "deque"
-  ],
+  "tags": ["data_structures", "greedy", "string", "deque"],
   "accepted_user_count": 2851,
   "submission_count": null,
   "average_tries": 1.5851000547409058

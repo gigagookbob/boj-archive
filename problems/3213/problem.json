@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, National Competition #1 - Seniors, baekjoon, dotorya",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 644,
   "submission_count": null,
   "average_tries": 3.1568000316619873

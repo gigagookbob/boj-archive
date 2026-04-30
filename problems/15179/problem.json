@@ -15,10 +15,7 @@
   "hint": "<p>Team Sally are blue and black</p>\n<p>The dragons are red and yellow</p>\n<p>Shot 5 – Blue makes hoop 1 (1-0)</p>\n<p>Shot 11 – Black makes hoop 2 (2-0)</p>\n<p>Shot 17 – Blue makes hoop 3 (3-0)</p>\n<p>Shot 24 – Yellow makes hoop 4 (3-1) </p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2017",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 2.7005999088287354

@@ -15,12 +15,7 @@
   "hint": "<p>Пояснение к тесту из условия.</p>\n<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"height: 139px; width: 178px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 176px; height: 139px;\"/></td>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 174px; height: 140px;\"/></td>\n<td><img alt=\"\" src=\"4.png\" style=\"width: 176px; height: 140px;\"/></td>\n</tr>\n<tr>\n<td>$x_1 = 1$, $y_1 = 1$, $x_2 = 4$, $y_2 = 3$</td>\n<td>$x_1 = 3$, $y_1 = 2$, $x_2 = 4$, $y_2 = 3$</td>\n<td>$x_1 = 3$, $y_1 = 1$, $x_2 = 3$, $y_2 = 1$</td>\n<td>$x_1 = 1$, $y_1 = 2$, $x_2 = 3$, $y_2 = 3$</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2015",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "euler_characteristic",
-    "geometry",
-    "segtree"
-  ],
+  "tags": ["data_structures", "euler_characteristic", "geometry", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

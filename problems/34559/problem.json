@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2025, gwanwoopa, azberjibiou, bjs0306b, dohoon, ehe123, leedongbin, sk14cj, swoon, tony9402",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "prefix_sum",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "prefix_sum", "bfs"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 2.1545000076293945

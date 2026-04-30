@@ -15,10 +15,7 @@
   "hint": "<p>아래의 그림은 문제의 상황을 나타낸 것이다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 265px; width: 220px;\"/></p>\n<p>단, 위의 그림에서 B와 C의 위치는 서로 바뀔 수 있으며, P와 D의 위치는 <em>a</em>와 <em>t</em>의 값으로 바뀐다.</p>",
   "source": "Contest, BOJ User Contest, 플로우컵, 제1회 플로우컵, eric00513, kipa00, leejseo, rhs0266",
   "level": 14,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 309,
   "submission_count": null,
   "average_tries": 1.1908999681472778

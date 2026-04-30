@@ -15,10 +15,7 @@
   "hint": "<p>In Case #1, the string is too short to be split into three substrings.<br/>\n<br/>\nIn Case #2, just split the string into <code>i</code>, <code>j</code>, and <code>k</code>.<br/>\n<br/>\nIn Case #3, the only way to split the string into three parts is <code>k</code>, <code>j</code>, <code>i</code>, and this does not satisfy the conditions.<br/>\n<br/>\nIn Case #4, the string is <code>jijijijijiji</code>. It can be split into <code>jij</code> (which reduces to <em>i</em>), <code>iji</code>(which reduces to <em>j</em>), and <code>jijiji</code> (which reduces to <em>k</em>).<br/>\n<br/>\nIn Case #5, no matter how you choose your substrings, none of them can ever reduce to a <em>j</em> or a <em>k</em>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Qualification Round, cheetose",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.3720999956130981

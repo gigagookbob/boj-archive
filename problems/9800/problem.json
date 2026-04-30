@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2002",
   "level": 13,
-  "tags": [
-    "backtracking",
-    "graphs",
-    "graph_traversal",
-    "precomputation"
-  ],
+  "tags": ["backtracking", "graphs", "graph_traversal", "precomputation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

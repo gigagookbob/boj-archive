@@ -23,11 +23,7 @@
   "hint": "<p>수열 $\\left\\{a_1, a_2, \\cdots, a_M\\right\\}$이 수열 $\\left\\{b_1, b_2, \\cdots, b_M\\right\\}$보다 사전 순으로 앞선다는 것은 $a_1 = b_1, a_2 = b_2, \\cdots, a_{i-1} = b_{i-1}$이고 $a_i &lt; b_i$인 정수 $i (1\\leq i\\leq M)$가 존재하는 것이다.</p>",
   "source": "University, 성균관대학교, 2022 성균관대학교 프로그래밍 경진대회, shjohw12, 79brue, cs71107, hibye1217, jh05013, jhnah917, tony9402",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 4.377799987792969

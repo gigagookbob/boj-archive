@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "sliding_window"
-  ],
+  "tags": ["bruteforcing", "sliding_window"],
   "accepted_user_count": 3318,
   "submission_count": null,
   "average_tries": 1.7181999683380127

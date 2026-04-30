@@ -31,13 +31,7 @@
   "hint": null,
   "source": "Camp, JOIG Spring Training Camp, JOIG 2022/2023 Spring Training Camp",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "dp",
-    "dp_deque"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick", "dp", "dp_deque"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

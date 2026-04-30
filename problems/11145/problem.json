@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2011",
   "level": 4,
-  "tags": [
-    "string",
-    "parsing"
-  ],
+  "tags": ["string", "parsing"],
   "accepted_user_count": 346,
   "submission_count": null,
   "average_tries": 2.598299980163574

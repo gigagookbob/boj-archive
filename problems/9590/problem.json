@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2013",
   "level": 19,
-  "tags": [
-    "flow",
-    "graphs"
-  ],
+  "tags": ["flow", "graphs"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.4615000486373901

@@ -23,12 +23,7 @@
   "hint": "<p><em>Explanation of Sample 1:</em> We can rearrange the input string into <code>levelracecar</code>, then split the string into two palindromes: <code>level</code> and <code>racecar</code>. No rearrangement can produce a single palindrome, so the minimum number of palindromes is $2$.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2025",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string",
-    "constructive"
-  ],
+  "tags": ["implementation", "greedy", "string", "constructive"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.0769000053405762

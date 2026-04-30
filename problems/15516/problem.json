@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Startlink Online Contest, Startlink Online Contest #1, haden",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 220,
   "submission_count": null,
   "average_tries": 1.0954999923706055

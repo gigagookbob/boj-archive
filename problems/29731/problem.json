@@ -15,11 +15,7 @@
   "hint": "<p><span style=\"color:#e74c3c;\"><code>Never gonna stop</code></span> 공약은 <a href=\"https://www.youtube.com/watch?v=qWNQUvIk954\">여기</a>에서 확인할 수 있으며, 2등 후보의 공약은 <a href=\"https://youtu.be/xvFZjo5PgG0\">여기</a>에서 확인할 수 있다.</p>",
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, haru_101, eric00513, kiwiyou, ksoosung77, nflight11, pill27211, saywoo, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string",
-    "set"
-  ],
+  "tags": ["implementation", "string", "set"],
   "accepted_user_count": 3192,
   "submission_count": null,
   "average_tries": 2.087399959564209

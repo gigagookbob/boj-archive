@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2008",
   "level": 14,
-  "tags": [
-    "dag",
-    "dp",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "dp", "graphs", "topological_sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

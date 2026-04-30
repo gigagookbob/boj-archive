@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2008 Southeast USA Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.4666999578475952

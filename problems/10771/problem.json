@@ -19,10 +19,7 @@
   "hint": "<p>Explanation of Output for Sample Input 1</p>\n<p>Friend 2 sends a message at time 0 and Friend 3 sends a message at time 1. Friend 2 receives a reply at time 6 and Friend 3 receives a reply at time 7.</p>\n<p>Explanation of Output for Sample Input 2</p>\n<p>For Friend 12, a message is received at time 0 and replied to at time 13. For Friend 23, two messages are exchanged, with the first message having a wait time of 6 seconds and the second message having a wait time of 2 seconds. For Friend 34, a message is received at time 10 and replied to at time 12. Friend 45 sends a message which is never replied to.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2015, CCC 2015 Junior Division",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.517899990081787

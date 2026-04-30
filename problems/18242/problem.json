@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2019, hellogaon",
   "level": 7,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 733,
   "submission_count": null,
   "average_tries": 1.6002999544143677

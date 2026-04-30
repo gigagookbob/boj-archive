@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2012, baekjoon, adh0463, b8goal, djm03178",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 11259,
   "submission_count": null,
   "average_tries": 3.714099884033203

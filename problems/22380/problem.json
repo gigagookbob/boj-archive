@@ -15,11 +15,7 @@
   "hint": "<p>ひとつめのデータセットでは 1 人あたりの支払いは 100 円である．1 番目と 2 番目の参加者は 100 円を支払うことができるが，3 番目の参加者は 100 円を支払うことができないため，所持金である 80 円を支払ってもらい，足りない 20 円は後日支払ってもらうこととする．今日のうちに集めることができるのは <i>100+100+80=280</i> 円である．</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2019",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 474,
   "submission_count": null,
   "average_tries": 1.0822999477386475

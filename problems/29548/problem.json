@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, February 26, 2011",
   "level": 14,
-  "tags": [
-    "implementation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "backtracking"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

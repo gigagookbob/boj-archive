@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 26 Septemeber, 2010",
   "level": 12,
-  "tags": [
-    "geometry",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["geometry", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

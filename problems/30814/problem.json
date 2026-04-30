@@ -19,13 +19,7 @@
   "hint": "<p>In the first sample, the distance between watchman $1$ and watchman $2$ is equal to $|1 - 7| + |1 - 5| = 10$ for Doctor Manhattan and $\\sqrt{(1 - 7)^2 + (1 - 5)^2} = 2 \\cdot \\sqrt{13}$ for Daniel. For pairs $(1, 1)$, $(1, 5)$ and $(7, 5)$, $(1, 5)$ Doctor Manhattan and Daniel will calculate the same distances.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2015-16, Day 1",
   "level": 12,
-  "tags": [
-    "math",
-    "data_structures",
-    "set",
-    "combinatorics",
-    "hash_set"
-  ],
+  "tags": ["math", "data_structures", "set", "combinatorics", "hash_set"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.25

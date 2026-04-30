@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2010 Southeast USA Regional Programming Contest, baekjoon",
   "level": 12,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 852,
   "submission_count": null,
   "average_tries": 2.3285999298095703

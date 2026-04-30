@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 17 January, 2001",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 2.0678000450134277

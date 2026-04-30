@@ -35,11 +35,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 16: Grand Prix of Moscow",
   "level": 22,
-  "tags": [
-    "combinatorics",
-    "fft",
-    "math"
-  ],
+  "tags": ["combinatorics", "fft", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

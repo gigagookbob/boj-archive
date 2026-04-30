@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2018 Rocky Mountain Regional Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.583299994468689

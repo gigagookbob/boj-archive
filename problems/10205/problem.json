@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2014: Greek Mythology, bupjae, simm4256",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1607,
   "submission_count": null,
   "average_tries": 1.7771999835968018

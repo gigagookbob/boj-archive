@@ -15,12 +15,7 @@
   "hint": "<p>There are several binary arrays that abide by all the constraints. One of them is 0 1 0 0 because:</p>\n<ol>\n<li>The 2-nd smallest element among <strong><u>0 1</u></strong> <s>0 0</s> is 1.</li>\n<li>The 2-nd smallest element among <strong><u>0 1 0</u></strong> <s>0</s> is 0.</li>\n<li>The 1-st smallest element among <s>0 1</s> <strong><u>0</u></strong> <s>0</s> is 0.</li>\n<li>The 1-st smallest element among <u><strong>0 1</strong></u> <s>0 0</s> is 0.</li>\n<li>The 1-st smallest element among <s>0</s> <u><strong>1 0</strong></u> <s>0</s> is 0.</li>\n</ol>",
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2019",
   "level": 21,
-  "tags": [
-    "graphs",
-    "prefix_sum",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "prefix_sum", "shortest_path", "bellman_ford"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 3.9302000999450684

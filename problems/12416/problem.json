@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Google Code Jam Korea 2012, Code Jam Korea 2012 결선 라운드",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "greedy"
-  ],
+  "tags": ["bruteforcing", "greedy"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.357100009918213

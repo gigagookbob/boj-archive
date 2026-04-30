@@ -23,11 +23,7 @@
   "hint": null,
   "source": null,
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "bruteforcing", "arbitrary_precision"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.3636000156402588

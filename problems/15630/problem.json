@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 제1회 구데기컵, bryanj",
   "level": 15,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 232,
   "submission_count": null,
   "average_tries": 2.081899881362915

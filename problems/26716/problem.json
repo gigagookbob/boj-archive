@@ -19,11 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładów: W pierwszym teście przykładowym innymi poprawnymi ciągami są np. [3, 2], [7] lub [4, 2, 1], jednak ciąg [3, 1] jest możliwie najmniejszy leksykograficznie. Zwróć uwagę, że np. ciągi [1, 3], [3, 1, 0] ani [2, 2, 2] nie są poprawnymi ciągami, ponieważ nie są ściśle malejące albo zawierają niedodatnie elementy.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2022",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "bitmask"
-  ],
+  "tags": ["math", "greedy", "bitmask"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.105299949645996

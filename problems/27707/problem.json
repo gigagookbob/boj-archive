@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case, (31)<sub>5</sub> = (16)<sub>10</sub> becomes (13)<sub>5</sub> = (8)<sub>10</sub>. This is the smallest solution, so we output length 2 and first digit 3. In the last test case, (c71)<sub>16</sub> is rotated to (1c7)<sub>16</sub>, so the length is 3 and the first digit of the original number has value 12.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2011 연습 세션",
   "level": 0,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "euclidean"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2018",
   "level": 17,
-  "tags": [
-    "implementation",
-    "lca",
-    "trees"
-  ],
+  "tags": ["implementation", "lca", "trees"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.9129999876022339

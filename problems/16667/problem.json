@@ -15,11 +15,7 @@
   "hint": "<p>The first sample corresponds to a formula ∀x<sub>1</sub> ∃x<sub>2</sub> (x<sub>1</sub> ∨ <span style=\"border-top: 1px solid black;\">x<sub>2</sub></span>) ∧ (<span style=\"border-top: 1px solid black;\">x<sub>1</sub></span> ∨ x<sub>2</sub>) = ∀x<sub>1</sub> ∃x<sub>2</sub> x<sub>1</sub> ⊕ x<sub>2</sub>. For any x<sub>1</sub> we can choose x<sub>2</sub> = <span style=\"border-top: 1px solid black;\">x<sub>1</sub></span> making it true, hence the formula is true. The second sample changes the order of quantifiers. Now the answer is “FALSE”, because for any value of x<sub>1</sub> we can choose x<sub>2</sub> = x<sub>1</sub> and the formula becomes false. The third formula is ∀x<sub>1</sub> ∃x<sub>2</sub> ∀x<sub>3</sub> (x<sub>1</sub> ∨ <span style=\"border-top: 1px solid black;\">x<sub>2</sub></span>) ∧ (<span style=\"border-top: 1px solid black;\">x<sub>1</sub></span> ∨ <span style=\"border-top: 1px solid black;\">x<sub>3</sub></span>). If we substitute x<sub>1</sub> = 1, x<sub>3</sub> = 1 then no assignment of x<sub>2</sub> can make the second clause true, so the formula is false.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NERC 2018",
   "level": 26,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.4737000465393066

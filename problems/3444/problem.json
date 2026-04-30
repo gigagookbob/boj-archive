@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2007, Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Olympiad Group)",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "trees",
-    "splay_tree"
-  ],
+  "tags": ["data_structures", "trees", "splay_tree"],
   "accepted_user_count": 255,
   "submission_count": null,
   "average_tries": 2.341200113296509

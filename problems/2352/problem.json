@@ -15,10 +15,7 @@
   "hint": null,
   "source": "citizen, kimsy96",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["binary_search", "lis"],
   "accepted_user_count": 5861,
   "submission_count": null,
   "average_tries": 1.8317999839782715

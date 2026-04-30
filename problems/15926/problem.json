@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 입출력에서, 맨 처음 위치부터 4개를 잘라낸 (())가 가장 긴 올바른 괄호 문자열이다.</p>\n<p>두 번째 입출력에서, 6번째 위치부터 8개를 잘라낸 ()((()))가 가장 긴 올바른 괄호 문자열이다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제2회 천하제일 코딩대회, jwvg0425, sait2000",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 1250,
   "submission_count": null,
   "average_tries": 3.085599899291992

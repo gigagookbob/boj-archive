@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>Bajtel osiągnie największy zysk, jeżeli wybuduje wieżę o wysokości $3$ bajtometrów. Wtedy zasięg wieży wyniesie $3 \\cdot 2 = 6$ bajtometrów. Zysk z mieszkań abonenckich będzie równy $4+5=9$, natomiast koszt utrzymania wieży wyniesie $0+1+2=3$, co daje łączny zysk firmy - $6$ bajtalarów.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2008, Stage 3",
   "level": 12,
-  "tags": [
-    "sorting",
-    "geometry",
-    "prefix_sum"
-  ],
+  "tags": ["sorting", "geometry", "prefix_sum"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2

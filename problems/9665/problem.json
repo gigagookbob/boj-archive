@@ -23,9 +23,7 @@
   "hint": "<p>Clarification of the first example: Some of the possible solutions are GCATA and GTCAT (the inserted characters are bolded), the first solution costs 7 + 5, the second 7 + 3.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #4",
   "level": 11,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.0141000747680664

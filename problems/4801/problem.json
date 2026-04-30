@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2012 Rocky Mountain Regional Contest",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "implementation",
-    "string"
-  ],
+  "tags": ["bruteforcing", "case_work", "implementation", "string"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.7916998863220215

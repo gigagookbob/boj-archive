@@ -27,12 +27,7 @@
   "hint": "<p>예제 1의 경우에 방이 2개, 각 방마다 참가자는 1명이다. 즉, 수열은 (1, 2), (2, 1)이 될 수 있다.</p>\n<p>예제 3의 경우에는 방이 2개, 각 방마다 참가자는 2명이다. 만들 수 있는 수열은 (1, 2), (2, 1), (1, 3), (3, 1) 이다. 이때, (2, 3)과 (1, 4)는 절대로 만들 수 없는 수열이다.</p>",
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.9643000364303589

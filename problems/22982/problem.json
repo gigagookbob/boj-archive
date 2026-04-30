@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2021 Summer), lky7674, seastar105, shiftpsh, wjdclgns12",
   "level": 22,
-  "tags": [
-    "bcc",
-    "cactus",
-    "dp",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["bcc", "cactus", "dp", "graphs", "trees"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 4.599999904632568

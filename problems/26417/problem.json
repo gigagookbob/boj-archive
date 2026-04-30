@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round C",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "greedy", "number_theory", "constructive"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.6957000494003296

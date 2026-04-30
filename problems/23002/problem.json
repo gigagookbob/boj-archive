@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, $A_{1,2}$ can be restored using the checksum of either 1-st row or 2-nd column. Hence, Grace can restore the matrix without spending any time to recover the data.</p>\n<p>In Sample Case #2, Grace spends one hour to recover $A_{1,1}$. After that, she can use checksums of 1-st row and 1-st column to restore $A_{1,2}$ and $A_{2,1}$ respectively. And then she can use checksum of 2-nd row to restore $A_{2,2}$. Hence, Grace can restore the matrix by spending one hour.</p>\n<p>In Sample Case #3, Grace can spend one hour to recover $A_{1,1}$ and another hour to recover $A_{2,2}$. After that, she can use checksum to restore the rest of the matrix. Hence, Grace can restore the matrix by spending two hours in total.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round A",
   "level": 18,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.517199993133545

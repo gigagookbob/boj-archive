@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2016/2017 Season, Stage 7: Grand Prix of Dolgoprudny",
   "level": 16,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4

@@ -15,10 +15,7 @@
   "hint": "<p>The runners will do the following laps:</p>\n<p>Runner1 – for 26, 27 and 26 msec.; Runner2 – for 39, 40 and 41 msec.; Runner3– for 45, 45 and 45 msec.; Runner4 – for 56, 57 and 56 msec. Respectively they will cross the starting line at: Runner1 – after 26, 53, 79 msec.; Runner2– after 39, 79 and 120 msec;Runner3 – after 45, 90 and 135 msec; Runner4 – after 56, 113 and 169 msec. The only case when more than one runner will cross the starting line is after 79 milliseconds when runner1 and runner2 will be on the line together. </p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2010, Olympiad, International Autumn Tournament in Informatics, 2010, Group B (Juniors)",
   "level": 11,
-  "tags": [
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "two_pointer"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.933300018310547

@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>0 matches only 010: 1 match</li>\n<li>1 matches 1, 100, and 110: 3 matches</li>\n<li>01 matches only 010: 1 match</li>\n<li>01001 matches 010: 1 match</li>\n<li>11 matches 1 and 110: 2 matches</li>\n</ul>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO December 2008 Contest, Gold",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "trie"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.823499917984009

@@ -23,10 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 601px; height: 94px;\"/></p>\n<p style=\"text-align: center;\">Wall with beauty 4 for the third example.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Croatian Olympiad in Informatics 2021",
   "level": 20,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3

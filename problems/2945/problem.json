@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #5, baekjoon",
   "level": 19,
-  "tags": [
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "dp_digit"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.8235000371932983

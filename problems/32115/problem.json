@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024, kclee2172, ainta, bubbler, evenharder, functionx, kipa00, queued_q, qwerasdfzxcl, sorohue, whqkrkt04",
   "level": 18,
-  "tags": [
-    "greedy",
-    "game_theory"
-  ],
+  "tags": ["greedy", "game_theory"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.44350004196167

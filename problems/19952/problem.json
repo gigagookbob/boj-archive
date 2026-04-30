@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2020 IGRUS Newbie Programming Contest, chobe1, jame0313, gsts007, gunwookim, panda959595, rhs0266, saemy90, tyoungs, zxcvber",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 440,
   "submission_count": null,
   "average_tries": 4.44320011138916

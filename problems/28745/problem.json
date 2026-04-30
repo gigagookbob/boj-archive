@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 9, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 9, 2019, Advanced",
   "level": 10,
-  "tags": [
-    "implementation",
-    "constructive"
-  ],
+  "tags": ["implementation", "constructive"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

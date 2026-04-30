@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2023 고려대학교 프로그래밍 경시대회 (KCPC), Div. 2, surface_03, kdh9949, kidw0124, kyo20111, rootsquare, sprout_429, utilforever, yijw0930",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "parity"
-  ],
+  "tags": ["math", "number_theory", "parity"],
   "accepted_user_count": 194,
   "submission_count": null,
   "average_tries": 2.1856000423431396

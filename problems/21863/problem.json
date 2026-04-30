@@ -10,9 +10,7 @@
   "hint": null,
   "source": "pichulia",
   "level": 19,
-  "tags": [
-    "bitmask"
-  ],
+  "tags": ["bitmask"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 4.900000095367432

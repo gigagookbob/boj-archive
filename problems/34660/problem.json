@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2025 KAIST 15th ICPC Mock Competition, University, MIT, The MIT Programming Contest, 2025-26, MIT Team Contest 2, ibm2006, koosaga",
   "level": 26,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "polynomial_interpolation"
-  ],
+  "tags": ["math", "linear_algebra", "polynomial_interpolation"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.7826000452041626

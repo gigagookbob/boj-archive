@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019",
   "level": 11,
-  "tags": [
-    "geometry",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "polygon_area"],
   "accepted_user_count": 183,
   "submission_count": null,
   "average_tries": 2.420799970626831

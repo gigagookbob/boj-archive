@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2008",
   "level": 12,
-  "tags": [
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["implementation", "recursion"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.4211000204086304

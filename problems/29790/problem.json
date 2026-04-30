@@ -27,9 +27,7 @@
   "hint": "<p>예제 입력 1은 현재 임스의 스펙이다.</p>\r\n",
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup), lms0806, amsminn, anfidthtn, chansol, cologne, pjshwa, r4pidstart, shiftpsh, tony9402, utilforever",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2350,
   "submission_count": null,
   "average_tries": 1.4467999935150146

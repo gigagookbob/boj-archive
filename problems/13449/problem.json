@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2016",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "simulation", "parsing"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

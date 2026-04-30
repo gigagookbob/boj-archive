@@ -15,10 +15,7 @@
   "hint": "<p>The two nice fragments of this chain are 2, 1, 3, 1 and 1, 3, 1, 2.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 3",
   "level": 15,
-  "tags": [
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["two_pointer", "sliding_window"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 3.4893999099731445

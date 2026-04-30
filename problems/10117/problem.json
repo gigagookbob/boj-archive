@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2014, Day 1",
   "level": 22,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 3.5573999881744385

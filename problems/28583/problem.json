@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, November 07, 2021, Advanced",
   "level": 19,
-  "tags": [
-    "string",
-    "binary_search",
-    "hashing",
-    "suffix_array",
-    "rabin_karp"
-  ],
+  "tags": ["string", "binary_search", "hashing", "suffix_array", "rabin_karp"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.400000095367432

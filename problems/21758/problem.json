@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2021 1차대회, 중등부, ckdals7584",
   "level": 11,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 4712,
   "submission_count": null,
   "average_tries": 2.5815000534057617

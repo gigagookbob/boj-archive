@@ -23,11 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Postaju postavljenu na polje u trećem retku i drugom stupcu nikada neće udariti komet.</p>\n<p>Opis trećeg probnog primjera: Ako postaju postavimo na polje u drugom retku i trećem stupcu ili na polje u trećem retku i drugom stupcu, prvi komet će u nju udariti nakon tri sekunde. Za sva ostala polja na koja možemo postaviti postaju je to vrijeme kraće. Kako tražimo najgornje najlijevije polje, odabrat ćemo polje u drugom retku i trećem stupcu.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2020, Junior Croatian Olympiad in Informatics 2020",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.25

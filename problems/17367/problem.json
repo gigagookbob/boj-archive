@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2019 예선, functionx",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 331,
   "submission_count": null,
   "average_tries": 1.2627999782562256

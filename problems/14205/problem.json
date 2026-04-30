@@ -39,12 +39,7 @@
   "hint": "<p>n = 2이기 때문에 총 4개의 함수를 만들 수 있고, 각각의 함수를 a, b, c, d라고 하면 다음과 같다.</p>\n<ul>\n<li>a(1) = 1, a(2) = 1</li>\n<li>b(1) = 1, b(2) = 2</li>\n<li>c(1) = 2, c(2) = 1</li>\n<li>d(1) = 2, d(2) = 2</li>\n</ul>\n<p>a와 d는 A(1)에 포함되어 있고, b와 c는 A(2)에 포함되어 있다.</p>",
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "generating_function"
-  ],
+  "tags": ["math", "dp", "combinatorics", "generating_function"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.4615000486373901

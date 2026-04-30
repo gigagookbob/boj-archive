@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 1, shiftpsh, jh05013, Lawali, pichulia",
   "level": 24,
-  "tags": [
-    "dp",
-    "dp_connection_profile"
-  ],
+  "tags": ["dp", "dp_connection_profile"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2

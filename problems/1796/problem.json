@@ -27,9 +27,7 @@
   "hint": "<p>엔터-&gt;오른쪽-&gt;엔터-&gt;오른쪽-&gt;엔터</p>",
   "source": "baekjoon, jh05013",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 367,
   "submission_count": null,
   "average_tries": 2.4932000637054443

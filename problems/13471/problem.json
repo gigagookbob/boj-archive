@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample test case, the four solutions are to put marshals at distances 0 and 1, at distances 0 and 2, at distances 1 and 2, or, at distances 0, 1 and 2 (in decametres) from the start.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2016",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.2364000082015991

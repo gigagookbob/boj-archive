@@ -15,10 +15,7 @@
   "hint": "<p>В примере выгодно сначала ввести в строй второй станок и за оставшиеся $15$ минут изготовить $45$ деталей, а затем ввести в строй первый и за оставшиеся $5$ минут изготовить на нём еще $20$ деталей. </p>\n<p>Если сначала ввести в строй первый станок и изготовить на нем в оставшиеся $10$ минут $40$ деталей, то после введения в строй второго на нем удастся изготовить лишь $15$ деталей, суммарно $55$, что меньше, чем $65$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2021",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 214,
   "submission_count": null,
   "average_tries": 1.8971999883651733

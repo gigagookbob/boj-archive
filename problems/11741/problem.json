@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, one LCG is generating a sequence 1, 2, 3, 4, 5, 0, 1, 2, . . ., while the other LCG a sequence 2, 3, 2, 3, 2, . . ..</p>\n<p>In the second example, one LCG is generating a sequence 0, 2, 0, 2, 0, . . ., while the other LCG a sequence 2, 4, 2, 4, 2, . . ..</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2015",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.3333001136779785

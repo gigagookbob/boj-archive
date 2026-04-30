@@ -35,11 +35,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2015 in Tsukuba",
   "level": 19,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sweeping"
-  ],
+  "tags": ["implementation", "greedy", "sweeping"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.7955000400543213

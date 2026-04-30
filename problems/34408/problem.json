@@ -19,10 +19,7 @@
   "hint": "<p>부분 문자열이란 문자열의 연속된 일부를 의미한다. 문자열 <code>ABC</code>에서 <code>A</code>, <code>B</code>, <code>C</code>, <code>AB</code>, <code>BC</code>, <code>ABC</code>는 모두 문자열 <code>ABC</code>의 부분 문자열이다.</p>",
   "source": "University, 전남대학교, 2025 하반기 전남대학교 PIMM 알고리즘 파티, 0do, dongwook7, eric00513, kolorvxl, mujigae, sjh1224, sjhi00, utilforever",
   "level": 6,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 178,
   "submission_count": null,
   "average_tries": 1.2527999877929688

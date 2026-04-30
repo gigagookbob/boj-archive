@@ -23,12 +23,7 @@
   "hint": "<p>Opis drugog primjera: Uzastopni podnizovi kojima je razlika najvećeg i najmanjeg broja parna su: (4), (5), (2), (6), (3), (2, 6), (5, 2, 6), (2, 6, 3), (4, 5, 2, 6), (5, 2, 6, 3) i (4, 5, 2, 6, 3).</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2019, Junior Final Exam #2",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree",
-    "stack"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree", "stack"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -19,11 +19,7 @@
   "hint": "<p>Explanation of the first Sample Input/Output: The group must take the path that goes through the sub shops at locations (2,5), (5,4) and (8,3), since they need to eat every 5th step (or before 5th step).</p>",
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Qualifying Round)",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.7222000360488892

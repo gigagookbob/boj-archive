@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 경찰대학, 2019 ChickenReallyGood 대회, dodam1256, jh05013",
   "level": 9,
-  "tags": [
-    "implementation",
-    "dp",
-    "parity"
-  ],
+  "tags": ["implementation", "dp", "parity"],
   "accepted_user_count": 816,
   "submission_count": null,
   "average_tries": 2.2574000358581543

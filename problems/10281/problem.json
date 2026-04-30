@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:144px; width:146px\"/></p>\n<p>Example: For n = 4 and k = 20 one throw is enough.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2014 Preliminaries",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "prime_factorization"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 4.070199966430664

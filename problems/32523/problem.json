@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 2회 DGUPC, iansong, kes0716, kwoncycle, mjhmjh1104, qwerasdfzxcl, tlsdydaud1",
   "level": 15,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.615399956703186

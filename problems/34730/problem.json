@@ -19,11 +19,7 @@
   "hint": "<p>첫번째 예제는 시작 시각은 $0$으로 시작한다.</p>\n<p>$1\\to2$ ($c=5$, $\\phi=1$): $0 \\bmod 1 = 0$이므로 허용. 도착 시각 $5$</p>\n<p>$2\\to3$ ($c=1$, $\\phi=1$): $5 \\bmod 1 = 0$이므로 허용. 도착 시각 $6$</p>\n<p>$3\\to4$ ($c=2$, $\\phi=3$): $6 \\bmod 3 = 0$이므로 허용. 최종 도착 시각 $8$.</p>\n<p>직행 $1\\to4$ ($c=10$, $\\phi=2$)도 가능하지만 도착 시각이 $10$으로 더 늦다. 따라서 최솟값은 $8$.</p>\n<p>두번째 예제는 다른 경로가 없어 $T$에 도달할 수 없으므로 정답은 $-1$.</p>",
   "source": "University, 동국대학교, 2025 동국대학교 프로그래밍 경진대회 DGUPC, exzile_27, kckyoung2, kevinlys00, pgggggggggh, swoon, wlgh7407",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 2.0625

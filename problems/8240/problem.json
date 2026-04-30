@@ -15,10 +15,7 @@
   "hint": "<p>Let  denote the empty space after a block that was taken out (the gap). By executing the sequence of moves given above, we obtain the following configurations of blocks, in this order: Wykonując podane powyżej ruchy, uzyskujemy kolejno następujące układy klocków:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.gif\" style=\"height:177px; width:500px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.8837000131607056

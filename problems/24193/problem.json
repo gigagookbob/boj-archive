@@ -15,13 +15,7 @@
   "hint": "<p>I exempelfallet så uppfyller lösningen alla kraven och dess poäng är därför $7.5$, vilket är det maximala möjliga.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Online Qualification",
   "level": 20,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive",
-    "bitmask",
-    "heuristics"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive", "bitmask", "heuristics"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 59

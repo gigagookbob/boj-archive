@@ -19,13 +19,7 @@
   "hint": "<p>In the first example, the guess can be correct. For example, you could have emails with subjects “<code>hello</code>”, “<code>Re: hello</code>”, “<code>Re: Re: hello</code>”, “<code>Re: Re: Re: hello</code>”, “<code>Re: Re: Re: Re: hello</code>”, “<code>world</code>”, and “<code>Re: world</code>”.</p>\n<p>In the second example, the guess is incorrect since there had to be at least three emails in the chain of “<code>pleasehelp</code>” and at least one email in the chain of “<code>me</code>”.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2018",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "parsing"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set", "parsing"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.9390000104904175

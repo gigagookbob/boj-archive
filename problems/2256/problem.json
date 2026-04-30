@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 4.7754998207092285

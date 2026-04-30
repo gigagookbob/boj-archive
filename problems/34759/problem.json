@@ -15,10 +15,7 @@
   "hint": "<p>$\\left\\lfloor X \\right\\rfloor$는 내림 함수로써 $X$보다 작거나 같은 정수 중 최댓값을 의미합니다. 예를 들어 $\\left\\lfloor \\frac{5}{2}\\right\\rfloor = 2$, $\\left\\lfloor 4\\right\\rfloor = 4$입니다.</p>\n<p>정답이 매우 커질 수 있음에 유의해 주세요. C/C++에서는 <code><span style=\"color:#e74c3c;\">int</span></code>대신 <code><span style=\"color:#e74c3c;\">long long</span></code>을, Java에서는 <code><span style=\"color:#e74c3c;\">long</span></code> 자료형을 사용하는 것을 권장합니다. Python은 기본적으로 큰 수를 지원하므로 정수 자료형을 고려할 필요가 없습니다.</p>",
   "source": "University, 건국대학교, 2025 건국대학교 프로그래밍 경진대회 (KUPC), yookwi, aru0504, cmgjol010, hyperbolic, ohwphil, pizzaroot, riroan, rlatjwls3333",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 401,
   "submission_count": null,
   "average_tries": 1.2544000148773193

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "riroan, aru0504, hjroh0315, kth990303, pjshwa, tony9402, utilforever",
   "level": 11,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 129,
   "submission_count": null,
   "average_tries": 1.728700041770935

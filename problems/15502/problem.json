@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제에서는, 다음의 8가지로 문자열을 만들 수 있다. {“00000”, “00001”, “01010”, “01011”, “10100”, “10101”, “11110”, “11111”}</p>\n<p>두 번째 예제에서는 온조가 좋아하는 구간과 수가 없으므로 길이 N의 아무런 문자열이나 만들어도 된다. 즉, 2<sup>1000</sup>개의 문자열을 만들 수 있다.</p>",
   "source": "Contest, BOJ User Contest, 소프트콘, 제1회 소프트콘, onjo0127",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 2.2327001094818115

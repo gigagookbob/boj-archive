@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, 2024 ICPC Asia Seoul Regional",
   "level": 14,
-  "tags": [
-    "math",
-    "geometry",
-    "number_theory",
-    "euclidean",
-    "polygon_area"
-  ],
+  "tags": ["math", "geometry", "number_theory", "euclidean", "polygon_area"],
   "accepted_user_count": 129,
   "submission_count": null,
   "average_tries": 1.635699987411499

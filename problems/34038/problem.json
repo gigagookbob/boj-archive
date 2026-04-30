@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2025 KPSC Summer Algorithm Challenge, kangsm02, chan120714, gggkik, haru_101, kevinlys00, lky7674, saywoo, sjhi00, usb9245, utilforever, young_out",
   "level": 17,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 7.172399997711182

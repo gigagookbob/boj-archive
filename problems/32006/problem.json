@@ -23,12 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Prvi pravac prolazi osi apscisa (x-os) i odvaja sve točke s pozitivnom y-koordinatom od onih s negativnom. Drugi pravac prolazi osi ordinata (y-os) i konačno odvaja sve točke po kvadrantima.</p>\n<p>Opis trećeg probnog primjera: Ispod je skica na kojoj su pravci koji odgovaraju svim zidovima i sve točke koje smo promatrali.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 365px; height: 350px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Junior Croatian Olympiad in Informatics 2024",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "geometry", "tree_set", "set"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

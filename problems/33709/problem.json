@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 50%; width: 50%;\"/></p>",
   "source": "University, 전남대학교, 2025 상반기 전남대학교 PIMM 알고리즘 파티, lys9546, dongwook7, lycoris1600, realpsdoingdamyoo, sjhi00, tony9402, utilforever",
   "level": 5,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "string", "arithmetic", "parsing"],
   "accepted_user_count": 479,
   "submission_count": null,
   "average_tries": 1.254699945449829

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2013 Preliminaries, baekjoon",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "geometry"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 2.2179999351501465

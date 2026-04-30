@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2021-22, Preliminary Round",
   "level": 8,
-  "tags": [
-    "graphs",
-    "implementation"
-  ],
+  "tags": ["graphs", "implementation"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.3636000156402588

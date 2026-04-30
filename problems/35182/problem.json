@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, CS@Mines, CS@Mines HSPC 2025",
   "level": 21,
-  "tags": [
-    "dp",
-    "mitm",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["dp", "mitm", "dp_sum_over_subsets"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

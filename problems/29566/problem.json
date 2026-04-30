@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, September 19, 2009",
   "level": 15,
-  "tags": [
-    "geometry",
-    "math"
-  ],
+  "tags": ["geometry", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 10.16670036315918

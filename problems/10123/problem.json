@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, another correct arrangement is \"3 1 2 3 2 3 2 1\". In the second example Bitie must have made a mistake-it is impossible to arrange the bricks so that they satisfy the constraints.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 1",
   "level": 20,
-  "tags": [
-    "greedy",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["greedy", "constructive", "case_work"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 6

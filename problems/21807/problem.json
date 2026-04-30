@@ -19,11 +19,7 @@
   "hint": "<p><strong>First sample explanation:</strong> <em>Happy hour</em> will span from 4th until the 7th minute. Inside that interval, first person should’ve paid extra for the 4th minute and second, third and fourth person should’ve paid for 6th and 7th minute.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Croatian Olympiad in Informatics 2021",
   "level": 18,
-  "tags": [
-    "prefix_sum",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["prefix_sum", "sorting", "sweeping"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.8461999893188477

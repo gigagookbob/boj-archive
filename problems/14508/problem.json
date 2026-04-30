@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2017, Contest, Open Cup, 2016/2017 Season, Stage 16: Grand Prix of America",
   "level": 21,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory",
-    "trees"
-  ],
+  "tags": ["dp", "math", "number_theory", "trees"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.25

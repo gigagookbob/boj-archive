@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2014",
   "level": 17,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "lca",
-    "trees"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "lca", "trees"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.9027999639511108

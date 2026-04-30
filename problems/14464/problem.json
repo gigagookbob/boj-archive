@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 February Contest, Silver, jh05013",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 1011,
   "submission_count": null,
   "average_tries": 3.111799955368042

@@ -15,11 +15,7 @@
   "hint": "<p>11 double factorial equals 265 790 267 296 391 946 810 949 632 000 000 000. This number has 9 trailing zeros.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2011",
   "level": 13,
-  "tags": [
-    "arbitrary_precision",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["arbitrary_precision", "math", "number_theory"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.9387999773025513

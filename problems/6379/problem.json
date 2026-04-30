@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2000 Greater New York Programming Contest, portableangel",
   "level": 8,
-  "tags": [
-    "implementation",
-    "parsing",
-    "sorting",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "sorting", "string"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "hibye1217, iktk, minjunnick, mujigae, pyb1031, utilforever",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "dag"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dfs", "dag"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.6875

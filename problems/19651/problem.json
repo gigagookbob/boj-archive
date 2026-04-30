@@ -15,11 +15,7 @@
   "hint": null,
   "source": "kyo20111",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 181,
   "submission_count": null,
   "average_tries": 4.265200138092041

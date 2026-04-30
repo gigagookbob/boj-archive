@@ -15,12 +15,7 @@
   "hint": null,
   "source": "moonrabbit2, jh05013, njw1204, jwvg0425",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "difference_array",
-    "multi_segtree"
-  ],
+  "tags": ["data_structures", "segtree", "difference_array", "multi_segtree"],
   "accepted_user_count": 182,
   "submission_count": null,
   "average_tries": 2.9340999126434326

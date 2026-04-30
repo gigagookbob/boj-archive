@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2015, functionx",
   "level": 26,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.625

@@ -19,11 +19,7 @@
   "hint": "<p>$|x|$는 실수 $x$의 절댓값으로, $x \\ge 0$이면 $x$, $x&lt;0$이면 $-x$와 같다.</p>",
   "source": "Contest, BOJ User Contest, 피갤컵, 제1회 피갤컵, dabbler1, amel, hamuim, herdson, hyperion1019, ibm2006, kdh9949, lky7674, nick832, plast, pyb1031, skeep194",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "ternary_search"
-  ],
+  "tags": ["binary_search", "parametric_search", "ternary_search"],
   "accepted_user_count": 179,
   "submission_count": null,
   "average_tries": 2.2235000133514404

@@ -31,9 +31,7 @@
   "hint": null,
   "source": "baekjoon, chogahui05",
   "level": 15,
-  "tags": [
-    "graphs"
-  ],
+  "tags": ["graphs"],
   "accepted_user_count": 352,
   "submission_count": null,
   "average_tries": 1.84660005569458

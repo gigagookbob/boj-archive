@@ -19,9 +19,7 @@
   "hint": "<p>입출력 예 1에서 쌓이는 피로도의 합계를 최소화하도록 JOI 군이 이동하려면 다음과 같이한다.</p>\r\n\r\n<ul>\r\n\t<li>1 일째는 대기한다.</li>\r\n\t<li>2 일째에 도시 0 -&gt;&nbsp;도시 1로 이동한다. 이때 쌓이는 피로도는 10 &times; 30 = 300이다.</li>\r\n\t<li>3 일째에 도시 1 -&gt;&nbsp;도시 2로 이동한다. 이때 쌓이는 피로도는 25 &times; 15 = 375이다.</li>\r\n\t<li>4 일째는 대기한다.</li>\r\n\t<li>5 일째에 도시 2 -&gt;&nbsp;도시 3로 이동합니다. 이때 쌓이는 피로도는 15 &times; 30 = 450이다.</li>\r\n</ul>\r\n\r\n<p>JOI 군이&nbsp;이렇게 이동 한 경우에 쌓이는 피로도의 합계는 300 + 375 + 450 = 1125이다. 이것이 최소이다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2014/2015 예선, algospot, eric00513",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 300,
   "submission_count": null,
   "average_tries": 1.483299970626831

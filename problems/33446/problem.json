@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 4: Peking U Contest 2",
   "level": 23,
-  "tags": [
-    "math",
-    "constructive",
-    "linear_algebra"
-  ],
+  "tags": ["math", "constructive", "linear_algebra"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2017, Advanced",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.38100004196167

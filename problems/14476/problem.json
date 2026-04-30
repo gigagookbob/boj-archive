@@ -19,12 +19,7 @@
   "hint": null,
   "source": "jh05013, hanjo, shjgkwo",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum", "euclidean"],
   "accepted_user_count": 1614,
   "submission_count": null,
   "average_tries": 1.9342999458312988

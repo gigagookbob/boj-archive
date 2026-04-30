@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2018",
   "level": 26,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.276599884033203

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2003/2004, Stage 2, wldnjs95",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "sorting", "ad_hoc"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 3.4544999599456787

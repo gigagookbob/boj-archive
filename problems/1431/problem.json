@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, sky1357, ljh1012kr",
   "level": 8,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 10793,
   "submission_count": null,
   "average_tries": 1.7005000114440918

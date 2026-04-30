@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2002 in Kanazawa",
   "level": 18,
-  "tags": [
-    "implementation",
-    "parsing",
-    "randomization",
-    "regex",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "randomization", "regex", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

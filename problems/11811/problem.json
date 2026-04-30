@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제에서 [1 1 1]이 조건을 만족함은 쉽게 알 수 있다. 이것이 유일한 답은 아니다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #4, topology",
   "level": 8,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 719,
   "submission_count": null,
   "average_tries": 1.2768000364303589

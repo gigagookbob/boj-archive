@@ -10,13 +10,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2021",
   "level": 24,
-  "tags": [
-    "bitmask",
-    "bitset",
-    "parsing",
-    "pigeonhole_principle",
-    "string"
-  ],
+  "tags": ["bitmask", "bitset", "parsing", "pigeonhole_principle", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3

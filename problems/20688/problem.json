@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2020 ICPC Asia Jakarta Regional Contest",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.4242000579833984

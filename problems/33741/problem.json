@@ -15,12 +15,7 @@
   "hint": "<p>The grid in the sample input contains $8$ simple paths satisfying the condition. The $8$ simple paths are as follows.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 464px; height: 300px;\"/></p>",
   "source": "Camp, Osijek Competitive Programming Camp, Summer 2024, Day 5: OCPC Potluck Contest 2, hjroh0315",
   "level": 20,
-  "tags": [
-    "implementation",
-    "dp",
-    "ad_hoc",
-    "backtracking"
-  ],
+  "tags": ["implementation", "dp", "ad_hoc", "backtracking"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

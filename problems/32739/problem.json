@@ -15,9 +15,7 @@
   "hint": "<p>In the first test case, we have $n=4$. It can be shown that we cannot create any bitwise triangles from the set $\\{1, 2, 3, 4\\}$, so the size of the maximal packing is $0$.</p>\n<p>In the second test case, we have $n=5$. The given triangle packing is valid since each of the three numbers in the one bitwise triangle are odd, and therefore the bitwise AND of any two of them is nonzero. It can be shown that this packing is maximal for $n=5$.</p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 14,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

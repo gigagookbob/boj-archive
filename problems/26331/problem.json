@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2013 Local Programming Contest",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "lucas",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["combinatorics", "lucas", "math", "number_theory"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.5385000705718994

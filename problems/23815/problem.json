@@ -19,10 +19,7 @@
   "hint": "<p>첫번째 예제에서는 $+5$, $*2$를 선택하고 3번째 선택지를 건너뛸 경우, 12명으로 최대가 된다.</p>\n<p>두번째 예제에서는 어떤 선택지를 고르더라도 게임 오버가 된다.</p>",
   "source": "University, POSTECH, 2021 POSTECH Programming Contest, qjatn0120baek, kyo20111, gravekper, hitonanode, hojoon0205, shiftpsh",
   "level": 12,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 288,
   "submission_count": null,
   "average_tries": 3.579900026321411

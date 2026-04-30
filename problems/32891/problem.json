@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2024",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["bruteforcing", "ad_hoc", "geometry", "case_work"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.4063000679016113

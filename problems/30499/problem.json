@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2023",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "randomization"
-  ],
+  "tags": ["ad_hoc", "randomization"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 6.320000171661377

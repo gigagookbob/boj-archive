@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Contest, JAG Winter Contest 2010",
   "level": 17,
-  "tags": [
-    "gaussian_elimination",
-    "linear_algebra",
-    "math",
-    "statistics"
-  ],
+  "tags": ["gaussian_elimination", "linear_algebra", "math", "statistics"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.066699981689453

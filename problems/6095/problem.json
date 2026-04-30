@@ -15,12 +15,7 @@
   "hint": "<pre>\n  1        10            4\n    xxxxxxx              x\n   xxxxxxxxx            xxxx\n7 xxxxxxxxxxx 6        xxxxxxx\n xxxxxxxxxxx       11 xxxxxxxxxx 5\n  xxxxxxx\n   xxx\n  3         12 xxxxxxx 2\n              xxxxxxxx\n              xxxxxxxx\n             xxxxxxxxx\n             xxxxxxxxx\n            xxxxxxxxxx\n            xxxxxxxxxx\n          8 xxxxxxxxxx 9</pre>\n<p>The example describes three islands: {1,7,3,6,10}, {4,5,11} and {2,9,8,12}. The travel costs are provided as a matrix. For example, the travel cost from vertex 1 to 2 is 15.</p>\n<p>There is more than one solution. One is: FJ starts from vertex 3 then 7 and stops at 1, travels to 11 followed by 4,5,11. He then returns back to 1, and travels to 12 followed by 2,9,8,12. Finally, he returns back to 1 and continues with 10,6,3,7. The costs are 8 * 2 = 16 for traveling from 1 to 11 and returning back, and 7 * 2 = 14 for traveling from 1 to 12 and back -- a total cost of 30.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO February 2009 Contest, Silver",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["data_structures", "disjoint_set", "graphs", "graph_traversal"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.7999999523162842

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Offline)",
   "level": 22,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.9473999738693237

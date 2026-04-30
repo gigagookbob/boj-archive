@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2019",
   "level": 11,
-  "tags": [
-    "math",
-    "geometry",
-    "number_theory",
-    "euclidean",
-    "parity"
-  ],
+  "tags": ["math", "geometry", "number_theory", "euclidean", "parity"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.6933000087738037

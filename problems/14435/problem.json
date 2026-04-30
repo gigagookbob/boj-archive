@@ -15,12 +15,7 @@
   "hint": "<p>둘째날까지 아이들은 놀이기구를 타지 못한다.</p>\n<p>셋째날에는 아이 3과 아이 5가 놀이기구 3을 탈 수 있다.</p>\n<p>넷째날에는 아이 3과 아이 5가 놀이기구 3을 탈 수 있고, 아이 1과 아이 2가 놀이기구 1, 2를 탈 수 있고, 아이 1과 아이 5가 놀이기구 2를 탈 수 있다.</p>",
   "source": "School, 선린인터넷고등학교, 머그컵, tonyjjw",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "binary_search", "set", "priority_queue"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 4.157100200653076

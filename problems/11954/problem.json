@@ -27,11 +27,7 @@
   "hint": "<p>Clarification of the fourth example: In the beginning, there is no indentation, it is 0. After the first curly bracket, there is a new line and the indentation increases by 2 spaces.</p>\n<p>After that, the word „a“ is printed, as well as the comma right after it, then the new line with the same indentation of 2 spaces. The same procedure is repeated for the word „b“.</p>\n<p>The third value in the array is a new array (let’s call it array X). It begins with a curly bracket, so we need to print a new line and increase the indentation for 2 spaces. The indentation is now a total of 4 spaces. Using that indentation, we print the words „c“ and „d“ each in its own line. After the word „d“, there is no comma because it is the last value in the array X.</p>\n<p>Before we print the curly bracket that denotes the end of array X, we need to decrease the indentation for 2. After the curly bracket, we print the comma and a new line and the continue printing the values from the main array.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #7",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 217,
   "submission_count": null,
   "average_tries": 1.926300048828125

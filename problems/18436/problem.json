@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, eric00513",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 2343,
   "submission_count": null,
   "average_tries": 1.6606999635696411

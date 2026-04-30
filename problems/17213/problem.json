@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, ROOKIE League, University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, MAVEN League, gugusny5758",
   "level": 9,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 1108,
   "submission_count": null,
   "average_tries": 1.805999994277954

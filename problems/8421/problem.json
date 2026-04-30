@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2005",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.4318000078201294

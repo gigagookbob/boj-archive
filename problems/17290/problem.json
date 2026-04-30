@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 경찰대학, 2019 ChickenReallyGood 대회, hunjison",
   "level": 6,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["string", "bruteforcing", "geometry"],
   "accepted_user_count": 427,
   "submission_count": null,
   "average_tries": 1.639299988746643

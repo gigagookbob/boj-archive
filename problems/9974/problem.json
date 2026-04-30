@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2002 South Central USA Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "case_work",
-    "eulerian_path",
-    "graphs",
-    "parsing",
-    "string"
-  ],
+  "tags": ["case_work", "eulerian_path", "graphs", "parsing", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

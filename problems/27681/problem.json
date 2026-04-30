@@ -15,10 +15,7 @@
   "hint": "<p>In this example we have 3 doors and Monty is never tired, so we are playing the original game.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2015 연습 세션",
   "level": 19,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.25

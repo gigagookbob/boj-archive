@@ -23,11 +23,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics"],
   "accepted_user_count": 196,
   "submission_count": null,
   "average_tries": 1.9694000482559204

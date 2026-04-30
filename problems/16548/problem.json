@@ -19,9 +19,7 @@
   "hint": "<p>For the first example, the 15 unique substrings of banana are <code>a</code>, <code>an</code>, <code>ana</code>, <code>anan</code>, <code>anana</code>, <code>b</code>, <code>ba</code>, <code>ban</code>, <code>bana</code>, <code>banan</code>, <code>banana</code>, <code>n</code>, <code>na</code>, <code>nan</code> and <code>nana</code>. Another string that has 15 unique substrings is <code>aaaaaaaaaaaaaaa</code> which would also be a correct output for the first example.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 30 September, 2018",
   "level": 19,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

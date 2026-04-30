@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, Open Contest, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 고급반, evenharder",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "parity"
-  ],
+  "tags": ["data_structures", "segtree", "parity"],
   "accepted_user_count": 306,
   "submission_count": null,
   "average_tries": 1.892199993133545

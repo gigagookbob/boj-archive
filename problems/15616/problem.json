@@ -15,11 +15,7 @@
   "hint": "<p>There are 6 pars with the specified properties: (1, 2), (1, 4), (1, 5), (4, 1), (4, 2), (4, 5).</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2014, Contest, Open Cup, 2014/2015 Season, Stage 3: Grand Prix of Central Europe",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.8974000215530396

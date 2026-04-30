@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2023 Sogang Programming Contest, Champion, yunny_world, bnb2011, dong_gas, jk410, leedongbin, lem0nad3, mjhmjh1104, shiftpsh, snrnsidy, solvedac, tkfkddl59323, utilforever",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "geometry", "prefix_sum"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 2.204699993133545

@@ -15,12 +15,7 @@
   "hint": "<p>x = 5인 경우 아래와 같이 다양한 방법으로 5를 만들 수 있다. B는 파란 종이, R은 빨간 종이를 의미하고, 알파벳의 뒤에 적힌 수는 해당 종이에 적힌 수이다.</p>\r\n\r\n<ul>\r\n\t<li>(B1, R1)&nbsp;&rarr; B를 선택&nbsp;&rarr; (B2, R1)&nbsp;&rarr; R을 선택&nbsp;&rarr; (B2, R3)&nbsp;&rarr; B를 선택&nbsp;&rarr; (B5, R3)&nbsp;&rarr; 종료 (덧셈 3번)</li>\r\n\t<li>(B1, R1)&nbsp;&rarr; B를 선택&nbsp;&rarr; (B2, R1)&nbsp;&rarr; B를 선택&nbsp;&rarr; (B3, R1)&nbsp;&rarr; B를 선택&nbsp;&rarr; (B4, R1)&nbsp;&rarr; B를 선택 &rarr; (B5, R1) &rarr; 종료 (덧셈 4번)</li>\r\n</ul>\r\n",
   "source": null,
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "constructive", "euclidean"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 4.2291998863220215

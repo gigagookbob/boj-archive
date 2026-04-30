@@ -15,13 +15,7 @@
   "hint": "<p>The 2 products 1001 wants can both be shipped within the customer's time frame.</p>\n<p>Customer 1860’s purchase can’t be shipped within his timeframe and so no purchase is made, and the customer is discontented.</p>\n<p>With customer 1025, one product can be shipped in an acceptable time, the other cannot. The iPod is thus sold (cost 255) but the perfume is not, hence the *. </p>\n<p>This makes 2 customers who could not complete their purchases</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2011",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set", "tree_set"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.5577000379562378

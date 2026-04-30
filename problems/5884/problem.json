@@ -15,10 +15,7 @@
   "hint": "<p>총 소가 6마리 있고, 소의 위치는 (1,7), (0,0), (1,2), (2,0), (1,4), (3,4) 이다. 감시 카메라를 y=0, x=1, y=4 로 설치하면 모든 소를 감시할 수 있다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO US Open 2012 Contest, Bronze, baekjoon",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["bruteforcing", "set"],
   "accepted_user_count": 225,
   "submission_count": null,
   "average_tries": 2.151099920272827

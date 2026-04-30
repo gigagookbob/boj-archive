@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2012, Stage 1",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 429,
   "submission_count": null,
   "average_tries": 1.445199966430664

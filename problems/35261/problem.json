@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제3회 피갤컵, pyb1031, bnb2011, dong5995, kuhyaku, lunarlity, nabina1395, plast, playsworld16, swoon, urd05",
   "level": 3,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 522,
   "submission_count": null,
   "average_tries": 1.3487000465393066

@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 January Contest, Gold",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "shortest_path",
-    "dijkstra",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "trees", "shortest_path", "dijkstra", "dp_tree"],
   "accepted_user_count": 160,
   "submission_count": null,
   "average_tries": 2.625

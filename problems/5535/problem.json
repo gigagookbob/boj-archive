@@ -19,9 +19,7 @@
   "hint": "<p>1일에 옷 4, 2일에 옷 2, 3일에 옷 3을 입는다면, 절댓값의 차이는 |40 - 90| + |90 - 60| = 80이 되고, 이 값이 최댓값이다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2012/2013 예선, baekjoon, redmay44",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 237,
   "submission_count": null,
   "average_tries": 1.375499963760376

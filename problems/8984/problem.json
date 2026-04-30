@@ -19,12 +19,7 @@
   "hint": "<p>중간 계산 결과와 출력할 값이 32비트 정수형 범위를 벗어날 수 있으니 64비트 정수형을 이용할 것을 권장한다.</p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2013, 중등부, Olympiad, 한국정보올림피아드, KOI 2013, 고등부",
   "level": 16,
-  "tags": [
-    "dp",
-    "sorting",
-    "set",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "sorting", "set", "coordinate_compression"],
   "accepted_user_count": 612,
   "submission_count": null,
   "average_tries": 2.622499942779541

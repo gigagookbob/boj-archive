@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2007",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bipartite_graph"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.375

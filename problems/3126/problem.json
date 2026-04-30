@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, National Competition #1 - Seniors, pichulia",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.794100046157837

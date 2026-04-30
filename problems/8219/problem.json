@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 3, koosaga",
   "level": 19,
-  "tags": [
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "mcmf", "graphs"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.25

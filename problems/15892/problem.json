@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2018 예선 연습 세션, ntopia",
   "level": 17,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 332,
   "submission_count": null,
   "average_tries": 2.51200008392334

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2021",
   "level": 22,
-  "tags": [
-    "exponentiation_by_squaring",
-    "fft",
-    "flt",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["exponentiation_by_squaring", "fft", "flt", "math", "number_theory"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.5

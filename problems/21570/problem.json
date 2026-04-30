@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере все члены клуба примут активное участие в обсуждении.</p>\n<p>Во втором примере мальчики примут активное участие в обсуждении, а девочки нет. В этом примере можно также разместить членов клуба следующим образом: «BBGG». В этом случае активное участие в обсуждении примут обе девочки, а мальчики — нет. Разместить всех так, чтобы три или четыре члена клуба приняли активное участие в обсуждении, нельзя.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2012",
   "level": 10,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.076900005340576

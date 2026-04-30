@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2022, mksmk606, amsminn, eaststar, hellogaon, rasauq1122, rhdqor213, tony9402",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry", "geometry_3d"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.5106000900268555

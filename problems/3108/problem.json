@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #1 - Juniors, baekjoon, devbelly",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "geometry", "disjoint_set"],
   "accepted_user_count": 1450,
   "submission_count": null,
   "average_tries": 3.0669000148773193

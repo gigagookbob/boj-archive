@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2009",
   "level": 16,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["backtracking", "bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.470599889755249

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2009, 중등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2009, 고등부, martinok1103",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 4962,
   "submission_count": null,
   "average_tries": 2.0927000045776367

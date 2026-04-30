@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2006 Mid-Atlantic Regional Programming Contest, ICPC, Regionals, North America, Rocky Mountain Regional, 2006 Rocky Mountain Regional Contest, jaehoo1",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 1401,
   "submission_count": null,
   "average_tries": 1.8530000448226929

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, jh05013, moonrabbit2, veydpz, khj94811, hellogaon",
   "level": 21,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 4.521699905395508

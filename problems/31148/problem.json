@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe, ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2021",
   "level": 21,
-  "tags": [
-    "math",
-    "combinatorics",
-    "backtracking"
-  ],
+  "tags": ["math", "combinatorics", "backtracking"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2

@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:191px; width:250px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2003/2004, Stage 3",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "sweeping",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "sweeping", "tree_set", "set"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.18179988861084

@@ -15,13 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>The connected region consisting of hay bales looks like this:</p>\n<pre>\nXX\nX XX\nXXX</pre>\n<h4>Output Details</h4>\n<p>The length of the perimeter of the connected region is 14 (for example, the left side of the region contributes a length of 3 to this total). Observe that the hole in the middle does not contribute to this number.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO February 2013 Contest, Bronze",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "grid_graph"],
   "accepted_user_count": 175,
   "submission_count": null,
   "average_tries": 2.6171000003814697

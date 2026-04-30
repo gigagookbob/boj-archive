@@ -15,12 +15,7 @@
   "hint": "<p>For the first case, Bessie might be trying to type any of the following five phone numbers:</p>\n<pre>\n1478\n1487\n4178\n4187\n1748\n</pre>\n<p>For example, if Bessie was trying to type 4187, she might have tried pressing 1 and 4 at the same time and then tried pressing 7 and 8 at the same time.</p>\n<p>For the third case, as the numbers form a square, Bessie might have been trying to type any permutation of the input sequence.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 February Contest, Platinum",
   "level": 23,
-  "tags": [
-    "implementation",
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["implementation", "dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 8

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 2017 선린 봄맞이 교내대회, wookje",
   "level": 6,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "string", "number_theory", "euclidean"],
   "accepted_user_count": 4731,
   "submission_count": null,
   "average_tries": 1.381700038909912

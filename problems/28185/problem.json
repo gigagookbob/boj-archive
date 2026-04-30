@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 5: LOUD Enough Contest 2",
   "level": 20,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2

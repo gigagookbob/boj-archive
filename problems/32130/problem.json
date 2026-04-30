@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, LG Collegiate Programming Contest, LGCPC 2024 본선, benedict0724, 79brue, kyo20111, qwerasdfzxcl",
   "level": 22,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "coordinate_compression"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 6.192299842834473

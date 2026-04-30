@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 19 June, 1999",
   "level": 8,
-  "tags": [
-    "math",
-    "geometry",
-    "physics"
-  ],
+  "tags": ["math", "geometry", "physics"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.2856999635696411

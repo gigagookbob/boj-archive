@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #5, baekjoon, jbs30_jsh",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "case_work"],
   "accepted_user_count": 4018,
   "submission_count": null,
   "average_tries": 1.6618000268936157

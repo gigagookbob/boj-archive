@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, LTH Challenge 2022",
   "level": 11,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

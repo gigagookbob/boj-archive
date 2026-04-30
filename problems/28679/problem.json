@@ -27,9 +27,7 @@
   "hint": "<p>In the first sample test case, the first two elements should sum to at least $27$. This can be achieved by a single swap of two adjacent elements: swap the $4$ and $20$. After this swap, the array becomes <code>10 20 4 6 3 3</code>, and indeed the first two elements sum to $10+20 = 30\\ge 27$.</p>\n<p>In the second sample test case, the $0$ must move all the way to the end of the array; this takes three swaps.</p>\n<p>In the third sample test case, it is impossible to make the first two elements sum to at least $100$; the best we can do is $60+30=90$.</p>",
   "source": ", Olympiad, European Girls' Olympiad in Informatics, EGOI 2023, Day 2",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

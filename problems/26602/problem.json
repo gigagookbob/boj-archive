@@ -23,11 +23,7 @@
   "hint": "<p>포화 이진 트리는 말단 정점이 아닌 모든 정점이 두 개의 자식 정점을 갖고, 모든 말단 정점이 동일한 깊이를 갖는 트리를 말한다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2022, rasauq1122, amsminn, eaststar, hellogaon, rhdqor213, tony9402",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.357100009918213

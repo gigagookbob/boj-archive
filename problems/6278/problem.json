@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Shanghai, Shanghai Regional Contest 2011",
   "level": 16,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "greedy", "bruteforcing", "number_theory"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 9.63640022277832

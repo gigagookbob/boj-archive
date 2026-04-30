@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2018",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "segtree", "offline_queries"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 8.285699844360352

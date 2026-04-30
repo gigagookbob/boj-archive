@@ -19,11 +19,7 @@
   "hint": "<p>Обратите внимание, любой скелет сам по себе обраузет НОК-широкую группу и может собраться в небольшого гигаскелета в одиночку.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, October 23, 2021",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory"
-  ],
+  "tags": ["math", "greedy", "number_theory"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

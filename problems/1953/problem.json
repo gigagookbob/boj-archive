@@ -15,13 +15,7 @@
   "hint": "<ol>\n<li>팀을 나누는 것이 불가능 한 경우는 없다고 하자.</li>\n<li>만약에 A가 B를 싫어하면 B도 A를 싫어한다.</li>\n<li>팀의 인원수는 고려하지 않아도 좋다. (99명과 1명을 나누어도 상관이 없다) 단, 각 팀에는 최소 1명의 사람이 있어야 한다.</li>\n</ol>",
   "source": "Green55",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "bipartite_graph"],
   "accepted_user_count": 885,
   "submission_count": null,
   "average_tries": 2.273400068283081

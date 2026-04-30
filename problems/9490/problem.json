@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2013 Southeast USA Regional Programming Contest, Division 2",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.1110999584198

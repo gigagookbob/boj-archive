@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 24 June, 2017",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 227,
   "submission_count": null,
   "average_tries": 1.1410000324249268

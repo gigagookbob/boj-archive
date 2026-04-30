@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2005, CCC 2005 Senior Division",
   "level": 11,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

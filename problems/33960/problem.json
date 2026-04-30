@@ -19,9 +19,7 @@
   "hint": "<p>실제로 플레이 가능한 원본 사과 게임과는 점수 계산 방식이 다름을 유의하라.</p>",
   "source": "University, POSTECH, 2025 POSTECH Programming Contest, Contest, University, POSTECH, 2025 POSTECH Programming Contest, Open Contest, greydra_k, gggkik, hyperbolic, jthis, leo020630, minsung05, plast, qvixnh22, slah007",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.7778000831604004

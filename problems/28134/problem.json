@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.1, akim9905, gbe0808, hsh8086, jthis, pani, tlsdydaud1",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "prefix_sum",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "trees", "prefix_sum", "dp_tree"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.7143000364303589

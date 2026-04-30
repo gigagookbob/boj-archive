@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2025 신촌지역 대학교 프로그래밍 동아리 연합 여름 대회 (SUAPC 2025 Summer), golazcc83, coconut99, ez_code, iluem100, jinhan814, lky7674, playsworld16, ystaeyoon113",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.610200047492981

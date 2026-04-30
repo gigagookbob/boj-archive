@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 3: Chinese Contest",
   "level": 21,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.125

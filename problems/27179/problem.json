@@ -19,12 +19,7 @@
   "hint": "<p>В первом тесте опыт игроков изменяется следующим образом:</p>\n<table class=\"table table-bordered th-center td-center table-center-50\">\n<tbody>\n<tr>\n<th>Раунд</th>\n<td>$c_1$</td>\n<td>$c_2$</td>\n<td>$c_3$</td>\n<td>$c_4$</td>\n<td>$c_5$</td>\n<td>$c_6$</td>\n</tr>\n<tr>\n<th>начало игры</th>\n<td>5</td>\n<td>4</td>\n<td>4</td>\n<td>2</td>\n<td>2</td>\n<td>2</td>\n</tr>\n<tr>\n<th>1</th>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n<td>4</td>\n<td>4</td>\n<td>4</td>\n</tr>\n<tr>\n<th>2</th>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n</tr>\n</tbody>\n</table>\n<p>Во втором тесте опыт игроков изменяется следующим образом:</p>\n<table class=\"table table-bordered th-center td-center table-center-50\">\n<tbody>\n<tr>\n<th>Раунд</th>\n<td>$c_1$</td>\n<td>$c_2$</td>\n<td>$c_3$</td>\n<td>$c_4$</td>\n<td>$c_5$</td>\n</tr>\n<tr>\n<th>начало игры</th>\n<td>0</td>\n<td>3</td>\n<td>5</td>\n<td>4</td>\n<td>2</td>\n</tr>\n<tr>\n<th>1</th>\n<td>4</td>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n<td>5</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2022",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sorting", "sweeping"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 5.13640022277832

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 6: ICPC Camp Day 1: PKU Contest",
   "level": 23,
-  "tags": [
-    "math",
-    "geometry",
-    "case_work",
-    "convex_hull"
-  ],
+  "tags": ["math", "geometry", "case_work", "convex_hull"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

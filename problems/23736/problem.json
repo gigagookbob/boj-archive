@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, UNIST, 3rd UNIST Algorithm Programming Contest Uni-CODE 2021, wbjeon2k, queued_q, chunghan, cs71107, jh05013, leejseo",
   "level": 18,
-  "tags": [
-    "graphs",
-    "greedy",
-    "game_theory",
-    "mst"
-  ],
+  "tags": ["graphs", "greedy", "game_theory", "mst"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.6938999891281128

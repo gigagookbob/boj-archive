@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2024 아주대학교 프로그래밍 경시대회 APC Extra, gyoseon123, akim9905, BothEarRim, dbrua1222, js9028, jwpassion1, jyheo98, mujigae, pani, riroan, sheenjiwon",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque", "queue"],
   "accepted_user_count": 537,
   "submission_count": null,
   "average_tries": 1.7764999866485596

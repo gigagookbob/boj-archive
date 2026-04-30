@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, IDTcup, 제 3회 IDTcup, Camp, Petrozavodsk Programming Camp, Winter 2022, Day 2: Grand Prix of Daejeon, Contest, Open Cup, 2021/2022 Season, Stage 11: Grand Prix of Daejeon, Diuven, leesongun, jhnah917, jhwest2",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set"
-  ],
+  "tags": ["data_structures", "segtree", "set"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.6110999584198

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Code Jam for Veterans 2013, Online Competition",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 291,
   "submission_count": null,
   "average_tries": 1.1512000560760498

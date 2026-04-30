@@ -39,13 +39,7 @@
   "hint": "<p>현재 판의 모양이 실제 Baduk2 경기 도중 나올 수 있는 모양인지에 대해서는 고려할 필요가 없다.</p>",
   "source": "BaaaaaaaaaaarkingDog, GGuu, djigfox, Lawali",
   "level": 13,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 1579,
   "submission_count": null,
   "average_tries": 2.00819993019104

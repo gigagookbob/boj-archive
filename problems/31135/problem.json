@@ -15,12 +15,7 @@
   "hint": "<p>In the example, the initial rows are \"<code>01234</code>\", \"<code>56789</code>\", \"<code>58023</code>\".</p>\n<p>After the $1$-st query, the rows are \"<code>01234</code>\", \"<code>06789</code>\", \"<code>08023</code>\".</p>\n<p>After the $2$-nd query, the rows are \"<code>01234</code>\", \"<code>01789</code>\", \"<code>03023</code>\".</p>\n<p>After the $3$-th query, the rows are \"<code>01234</code>\", \"<code>01289</code>\", \"<code>02523</code>\".</p>\n<p>After the $4$-th query, the rows are \"<code>01234</code>\", \"<code>01239</code>\", \"<code>02473</code>\".</p>\n<p>After the $5$-th query, the rows are \"<code>01234</code>\", \"<code>01234</code>\", \"<code>02468</code>\".</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 6: Grand Prix of EDG",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "tree_set",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "tree_set", "lazyprop"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4

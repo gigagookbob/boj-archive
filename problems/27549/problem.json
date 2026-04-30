@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: On the painting there are two colours, so the probability that it remains the same after one iteration is $\\frac{1}{2}$.</p>\n<p>Clarification of the second example: After two iterations, the number of different colours can’t go from $10$ to less than $5$, so in every case the painting will have at least $5$ different colours.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #4",
   "level": 19,
-  "tags": [
-    "dp",
-    "exponentiation_by_squaring",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "exponentiation_by_squaring", "math", "probability"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.4443999528884888

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 제1회 하이콘, smjun04, Green55, gs18115, pjshwa",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "tree_set"],
   "accepted_user_count": 603,
   "submission_count": null,
   "average_tries": 1.67330002784729

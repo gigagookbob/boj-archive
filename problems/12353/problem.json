@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Code Jam for Veterans 2013, Online Competition, guardian_demon, vanila_banana, portableangel",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic", "parsing"],
   "accepted_user_count": 264,
   "submission_count": null,
   "average_tries": 1.8029999732971191

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2020, kmg8280, august14, dlstj0923, hibye1217, tony9402",
   "level": 12,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 329,
   "submission_count": null,
   "average_tries": 4.267499923706055

@@ -19,12 +19,7 @@
   "hint": "<p>In the second example, two gardens can be created. However, no garden is $1$-<strong>lucky</strong>, as for both gardens the distance between the stones numbered with $1$ is $1$ inch, which is a multiple of $M = 1$ inches.</p>",
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2021",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.6842000484466553

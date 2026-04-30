@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제4회 고려대학교 MatKor Cup: 2024 Winter/Spring 연습 세션, kidw0124, tikiliki0417, devluyten, finimage, lighter, rachel2003, sshs29hanul, tlsdydaud1, utilforever, w8385, yijw0930",
   "level": 13,
-  "tags": [
-    "math",
-    "binary_search",
-    "calculus",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "binary_search", "calculus", "numerical_analysis"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 4.1666998863220215

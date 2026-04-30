@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 제1회 하이콘, smjun04, Green55, gs18115, pjshwa",
   "level": 16,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 153,
   "submission_count": null,
   "average_tries": 2.183000087738037

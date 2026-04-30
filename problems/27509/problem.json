@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2023, 1차 선발고사, koosaga",
   "level": 23,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree",
-    "bipartite_graph"
-  ],
+  "tags": ["dp", "graphs", "trees", "dp_tree", "bipartite_graph"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.024399995803833

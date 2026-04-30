@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2014",
   "level": 3,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 732,
   "submission_count": null,
   "average_tries": 1.2226999998092651

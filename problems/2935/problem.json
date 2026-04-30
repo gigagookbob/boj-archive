@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #6, baekjoon, joonas, sunhong",
   "level": 3,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "string", "arithmetic"],
   "accepted_user_count": 14340,
   "submission_count": null,
   "average_tries": 1.6308000087738037

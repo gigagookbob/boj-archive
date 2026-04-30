@@ -15,12 +15,7 @@
   "hint": "<p>Farmer John can travel trails 1 - 2 - 3 - 7 and 1 - 6 - 7. None of the trails travelled exceeds 5 units in length. It is impossible for Farmer John to travel from 1 to 7 twice without using at least one trail of length 5.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO February 2005 Contest, Gold",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "flow",
-    "parametric_search",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "parametric_search", "graphs"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.7000000476837158

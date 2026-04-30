@@ -23,11 +23,7 @@
   "hint": "<p>예제 1의 경우 A를 {1, 1, 0, 1, 6}과 같이 재배열하면 된다.</p>",
   "source": "baekjoon",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 45892,
   "submission_count": null,
   "average_tries": 1.4114999771118164

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, MAVEN League, apwgg045",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 5.559999942779541

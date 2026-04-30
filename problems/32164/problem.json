@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2024 신촌지역 대학생 프로그래밍 동아리 연합 여름 대회 (SUAPC 2024 Summer), dohoon, cki86201, hjroh0315, hyperbolic, jk410, kdh9949, kipa00, leo020630, lky7674, sk091204091204, wjdclgns12",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.16129994392395

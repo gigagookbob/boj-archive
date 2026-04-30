@@ -15,12 +15,7 @@
   "hint": "<p>In the example test, initially, $A = [0, 0, 0, 0]$ and $x = 0$. Then:</p>\n<ul>\n<li>For $i = 1$, we have $l = 1$ and $r = 2$. Then, $A = [0, 1, 1, 0]$ and $x = 2$.</li>\n<li>For $i = 2$, we have $l = 1$ and $r = 3$. Then, $A = [0, 3, 3, 2]$ and $x = 10$.</li>\n<li>For $i = 3$, we have $l = 0$ and $r = 1$. Then, $A = [3, 6, 3, 2]$ and $x = 19$.</li>\n<li>For $i = 4$, we have $l = 0$ and $r = 3$. Then, $A = [7, 10, 7, 6]$ and $x = 49$.</li>\n<li>For $i = 5$, we have $l = 1$ and $r = 3$. Then, $A = [7, 15, 12, 11]$ and $x = 87$.</li>\n</ul>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 7: Gennady Korotkevich Contest 7",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "splay_tree",
-    "trees"
-  ],
+  "tags": ["data_structures", "segtree", "splay_tree", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4

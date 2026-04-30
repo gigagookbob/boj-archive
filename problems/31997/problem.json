@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, 한국정보기술진흥원, 제2회 청소년 IT경시대회, 초등부, Contest, 한국정보기술진흥원, 제2회 청소년 IT경시대회, 고등부, kiwiyou",
   "level": 11,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 216,
   "submission_count": null,
   "average_tries": 2.148099899291992

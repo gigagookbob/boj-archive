@@ -19,9 +19,7 @@
   "hint": "<p>In the second example, you may replace the chord $(1, 7)$ to obtain a set of three intersecting chords: for example, all chords except $(2, 4)$ form a pairwise intersecting set.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 307px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 9: Japanese+ Selection",
   "level": 18,
-  "tags": [
-    "lis"
-  ],
+  "tags": ["lis"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.2857000827789307

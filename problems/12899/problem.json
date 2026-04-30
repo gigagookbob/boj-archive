@@ -15,11 +15,7 @@
   "hint": null,
   "source": "rdd6584",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 1842,
   "submission_count": null,
   "average_tries": 2.4045000076293945

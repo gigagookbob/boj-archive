@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2013: PRISM",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.2777999639511108

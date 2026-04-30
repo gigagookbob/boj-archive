@@ -23,12 +23,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "math",
-    "data_structures",
-    "number_theory",
-    "disjoint_set"
-  ],
+  "tags": ["math", "data_structures", "number_theory", "disjoint_set"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.114300012588501

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2014",
   "level": 15,
-  "tags": [
-    "coordinate_compression",
-    "sweeping"
-  ],
+  "tags": ["coordinate_compression", "sweeping"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

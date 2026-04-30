@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2013",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "floyd_warshall"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.9412000179290771

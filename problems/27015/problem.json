@@ -15,10 +15,7 @@
   "hint": "<pre>\nTime   Action\n  0   Bessie walks to the classrooms 8 meters down the hall (at 8m)\n  8   Bessie waits 1 second\n  9   Bessie turns in the first set of homework \n  9   Bessie waits 3 seconds, thinking about cool hay in the summertime\n 12   Bessie turns in the other homework for this location\n 12   Bessie walks back to the classroom 4 meters down the hall (at 4m)\n 16   Bessie waits 5 seconds, thinking of a handsome bull she once met\n 21   Bessie turns in her homework\n 21   Bessie walks back to the classroom 1 meters down the hall (at 3m)\n 22   Bessie turns in her homework\n 22   Bessie exits, since this also the location of the bus exit\n</pre>\n<p>Thus, Bessie can leave at time 22. No better schedule exists.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO US Open 2004 Contest, Green",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "dp"
-  ],
+  "tags": ["binary_search", "dp"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4

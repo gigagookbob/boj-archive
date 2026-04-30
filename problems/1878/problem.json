@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 500px; height: 271px;\"/></p>",
   "source": "author5",
   "level": 15,
-  "tags": [
-    "case_work",
-    "constructive",
-    "math",
-    "trees"
-  ],
+  "tags": ["case_work", "constructive", "math", "trees"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.6818000078201294

@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제2회 유틸컵, lms0806, dkim110807, dong5995, dongwook7, eoaud0108, jinhan814, kidw0124, tony9402, utilforever, wapas",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 593,
   "submission_count": null,
   "average_tries": 2.8970999717712402

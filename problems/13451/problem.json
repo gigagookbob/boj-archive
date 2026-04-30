@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2016",
   "level": 20,
-  "tags": [
-    "dp",
-    "string",
-    "bitmask",
-    "parsing",
-    "game_theory",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "string", "bitmask", "parsing", "game_theory", "dp_bitfield"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

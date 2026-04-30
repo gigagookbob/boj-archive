@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 HEPC, PRIME, cheetose, measurezero, paengjiwon",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 739,
   "submission_count": null,
   "average_tries": 2.5940001010894775

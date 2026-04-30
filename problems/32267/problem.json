@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2024, Day 2",
   "level": 28,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "dp",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "dp", "greedy", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.5555999279022217

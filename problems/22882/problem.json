@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제에서 만들 수 있는 수열들은 다음과 같다.</p>\r\n\r\n<ul>\r\n\t<li>$[1, 2, -5, 0, 1]$</li>\r\n\t<li>$[1, 2, 3, 0, 1]$</li>\r\n\t<li>$[1, 2, 3, -1, 1]$</li>\r\n\t<li>$[1, -2, 3, 0, 1]$</li>\r\n\t<li>$[1, -2, 3, -1, 1]$</li>\r\n\t<li>$[1, -2, -1, -1, 1]$</li>\r\n</ul>\r\n\r\n<p>이 중에서 최대 부분합이 3인 수열은 1번째와 5번째 수열뿐이므로 답으로 2를 출력한다.</p>\r\n\r\n<p>두 번째 예제에서는 만들 수 있는 수열들 중 $[1, -1, 1, 1, 1, -1, 1]$만이 최대 부분합이 3이고, 이러한 수열을 만들기 위해서는 $(1, 2)$와 $(4, 3)$을 반드시 지나야 하므로 경우의 수는 4가 된다.</p>\r\n",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021, Contest, Open Cup, 2021/2022 Season, Stage 17: Grand Prix of Seoul, jjwdi0, cki86201, evenharder, functionx, jh05013, koosaga, xiaowuc1",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "mitm"
-  ],
+  "tags": ["binary_search", "mitm"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.8087999820709229

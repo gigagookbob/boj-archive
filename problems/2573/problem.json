@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2006, 초등부, occidere, zayne",
   "level": 12,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 20892,
   "submission_count": null,
   "average_tries": 3.6126999855041504

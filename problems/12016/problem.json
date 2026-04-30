@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, powdragon1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "offline_queries"],
   "accepted_user_count": 431,
   "submission_count": null,
   "average_tries": 1.9953999519348145

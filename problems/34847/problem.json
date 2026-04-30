@@ -19,10 +19,7 @@
   "hint": "<p>체스에서 나이트와 킹은 다음과 같이 이동할 수 있다.</p>\n<p>나이트는 가로로 $2$칸, 세로로 $1$칸 이동하거나 가로로 $1$칸, 세로로 $2$칸 이동할 수 있다.</p>\n<p>킹은 가로, 세로, 대각선으로 인접한 칸으로 이동할 수 있다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 403px; width: 400px;\"/><img alt=\"\" src=\"2.png\" style=\"height: 406px; width: 400px;\"/></p>",
   "source": "University, 한양대학교, 제12회 한양대학교 프로그래밍 경시대회(HCPC), Beginner Division, jsj0412, 0xchaser, 79brue, andrewmjk1, hibye1217, jthis, leo020630, mathtw1030, pizzaroot, sadtreap, terrasphere, tlsdydaud1",
   "level": 9,
-  "tags": [
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["game_theory", "parity"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.2999999523162842

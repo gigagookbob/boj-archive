@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2019 East Central Regional Contest",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "queue"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 2.172800064086914

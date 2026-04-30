@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2023",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["ad_hoc", "constructive", "backtracking"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

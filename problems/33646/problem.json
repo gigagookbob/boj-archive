@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2024, Division 1, University, University of Alberta Programming Contest, UAPC 2024, Division 2",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.0428999662399292

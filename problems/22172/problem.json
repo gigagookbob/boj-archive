@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2011, RCC 2011 Elimination Round",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.902400016784668

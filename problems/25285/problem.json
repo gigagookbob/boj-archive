@@ -15,10 +15,7 @@
   "hint": "<p>C, C++, Java에서 정수를 정수로 나눈 결과는 정수이므로 float와 double 같은 실수 자료형을 이용해 BMI를 계산해야 한다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제6회 천하제일 코딩대회 예선, jhnah917, kyo20111",
   "level": 3,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 1074,
   "submission_count": null,
   "average_tries": 1.8072999715805054

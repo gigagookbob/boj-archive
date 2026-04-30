@@ -19,9 +19,7 @@
   "hint": "<p>For Sample Input 1, there are 6 possible trees satisfying the rules shown in Figure G.1.</p>\n<p>For Sample Input 2, no trees can satisfy the rules.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 586px; height: 197px;\"/></p>\n<p style=\"text-align: center;\">Figure G.1. Trees satisfying the rules for Sample Input 1. The numbers on the puppets represent the release order.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2021 Asia Yokohama Regional",
   "level": 22,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.4688000679016113

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2015: Anniversary",
   "level": 11,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.0587999820709229

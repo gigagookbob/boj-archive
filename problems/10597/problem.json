@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2014, movie_jo, adh0463, jh05013",
   "level": 11,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 1505,
   "submission_count": null,
   "average_tries": 3.220599889755249

@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2018",
   "level": 23,
-  "tags": [
-    "greedy",
-    "sorting",
-    "geometry",
-    "sweeping",
-    "hashing"
-  ],
+  "tags": ["greedy", "sorting", "geometry", "sweeping", "hashing"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

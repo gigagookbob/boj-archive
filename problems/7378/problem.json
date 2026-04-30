@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2004",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.169800043106079

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 1999, Day 2, exqt, alsyd024",
   "level": 17,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2.5127999782562256

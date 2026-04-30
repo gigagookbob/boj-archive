@@ -27,11 +27,7 @@
   "hint": "<p>In the first example test, the table is already flat, no pad is needed.</p>\n<p>In the second example test, Alice can apply the pad to the third leg to make the table flat.</p>\n<p>In the third and the fourth example tests, Alice can not make her table flat.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 297,
   "submission_count": null,
   "average_tries": 1.468000054359436

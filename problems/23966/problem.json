@@ -15,13 +15,7 @@
   "hint": "<p>In Sample Case #1, there are 3 friends, and they want milk teas of types <code>1100</code>, <code>1010</code>, and <code>0000</code>. If Shakti could choose type <code>1000</code>, then each friend would complain once, for a total of 3 complaints. However, type <code>1000</code> is not available in the shop. So, given these constraints, an optimal solution is to choose type <code>1100</code>. Then, his friends will complain 0, 2, and 2 times, respectively, for a total of 4 complaints.</p>\n<p>In Sample Case #2, Shakti's best option is to choose type <code>1110</code>. Each friend will complain once, for a total of 2 complaints. Notice that different friends might have the same preferences. Also notice that the limits for both the Small and Large datasets guarantee that there is always at least one possible type of milk tea that is not forbidden.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2018, Round E",
   "level": 16,
-  "tags": [
-    "dp",
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "greedy", "bruteforcing", "sorting", "ad_hoc"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.0833001136779785

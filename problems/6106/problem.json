@@ -15,9 +15,7 @@
   "hint": "<pre>\nBarn  100  -200  250 -200  200\n |     |     |    |    |    |\n ***&gt;**+**&gt;*****&gt;**+\n                   *            &lt; Bessie has 350\n             -**&lt;***\n             *                  &lt; Bessie has 150\n             ***&gt;****&gt;****&gt;**+\n                             *  &lt; Bessie has 350\n                       -**&lt;***\n                       *     \n                       ***&gt;***  &lt; Bessie ends her travels with 150*</pre>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO March 2009 Contest, Bronze",
   "level": 10,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 2.5864999294281006

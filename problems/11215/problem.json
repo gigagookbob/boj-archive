@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2015",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "constructive",
-    "greedy"
-  ],
+  "tags": ["ad_hoc", "case_work", "constructive", "greedy"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.3076999187469482

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2019 Southeast USA Regional Programming Contest, Division 2",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "sorting", "binary_search", "prefix_sum"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.3966000080108643

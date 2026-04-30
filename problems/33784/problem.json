@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, Delft University of Technology, Sjaars Kampioenschap Programmeren 2014",
   "level": 11,
-  "tags": [
-    "geometry",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "polygon_area"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.4571000337600708

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2015-16, Final Round, Gymnasium",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.157900094985962

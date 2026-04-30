@@ -19,11 +19,7 @@
   "hint": null,
   "source": "wapas, dohoon, jihwan_0319, mingyu331, wider93",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "mst"
-  ],
+  "tags": ["math", "graphs", "mst"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 3.5199999809265137

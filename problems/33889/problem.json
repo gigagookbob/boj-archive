@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2025 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2025 아주대학교 프로그래밍 경시대회 APC, Open Contest, silvester71, akim9905, bnb2011, golazcc83, js9028, jthis, lky7674, mujigae, pani, tlsdydaud1, ystaeyoon113",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.894700050354004

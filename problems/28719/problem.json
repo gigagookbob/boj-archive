@@ -19,9 +19,7 @@
   "hint": "<p>В первом тесте оптимальным выбором является $l = 1$ и $r = 2$, тогда $S_1 = 5$, $S_2 = 4$, а $|S_1 - S_2| = 1$.</p>\n<p>Во втором тесте оптимальным выбором является $l = 2$ и $r = 4$, тогда $S_1 = 3$, $S_2 = 4$, а $|S_1 - S_2| = 1$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 5, 2019",
   "level": 8,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.75

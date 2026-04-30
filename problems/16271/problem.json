@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Elimination Round",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

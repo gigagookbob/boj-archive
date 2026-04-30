@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2003",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "game_theory"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "game_theory"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1764999628067017

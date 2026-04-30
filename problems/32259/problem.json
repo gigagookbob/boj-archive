@@ -15,9 +15,7 @@
   "hint": "<p>채점 프로그램은 처음에 가짜 금화를 결정한 후 처음 정한 가짜 금화에 따라 답변한다. 즉 채점 프로그램은 실행 도중에 가짜 금화의 번호를 바꾸지 않는다.</p>",
   "source": "gggkik, dohoon, leo020630, lkh3happy, MenOfPassion, myyh1234, tlsdydaud1",
   "level": 12,
-  "tags": [
-    "ternary_search"
-  ],
+  "tags": ["ternary_search"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.823499917984009

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2011/2012 Spring Training Camp, Camp, Petrozavodsk Programming Camp, Summer 2017, Day 9: JOI TST 2012 Selection",
   "level": 24,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "linked_list"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.523800015449524

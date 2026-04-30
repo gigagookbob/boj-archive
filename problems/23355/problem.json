@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제1회 한국항공대학교 프로그래밍 경진대회(KAUPC), koosaga, bnb2011, palilo, pjshwa, shjohw12, WeissBlume",
   "level": 18,
-  "tags": [
-    "trees",
-    "lca"
-  ],
+  "tags": ["trees", "lca"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.2018001079559326

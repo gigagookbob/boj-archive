@@ -19,13 +19,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "bruteforcing",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "bruteforcing", "dag", "topological_sorting"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 4.144599914550781

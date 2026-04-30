@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:217px; width:358px\"/></p>",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2000",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2006, Regional Competition - Juniors, portableangel",
   "level": 13,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 160,
   "submission_count": null,
   "average_tries": 2.8938000202178955

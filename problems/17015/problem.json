@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCC 2019 Senior Division",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "gaussian_elimination",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["bruteforcing", "gaussian_elimination", "linear_algebra", "math"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.25

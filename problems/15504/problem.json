@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제1회 소프트콘, onjo0127",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 239,
   "submission_count": null,
   "average_tries": 2.698699951171875

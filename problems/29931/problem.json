@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2019-20, Second Selection Competition",
   "level": 18,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "line_intersection"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "line_intersection"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

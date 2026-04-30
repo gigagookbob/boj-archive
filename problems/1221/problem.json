@@ -27,13 +27,7 @@
   "hint": null,
   "source": "baekjoon, h0ngjun7",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "set",
-    "sweeping",
-    "geometry_3d"
-  ],
+  "tags": ["data_structures", "geometry", "set", "sweeping", "geometry_3d"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 10.941200256347656

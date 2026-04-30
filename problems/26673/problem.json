@@ -15,10 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Liczbami Potyczkowa nie większymi niż 100 są liczby 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 15, 22, 24, 33, 36, 44, 48, 55, 66, 77, 88 i 99.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 15,
-  "tags": [
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "dp_digit"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

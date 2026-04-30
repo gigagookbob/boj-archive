@@ -19,14 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2022 고려대학교 프로그래밍 경시대회 (KCPC mini), Div. 1, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2022 고려대학교 프로그래밍 경시대회 (KCPC mini), Open Contest, edwardblue, moonrabbit",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "dp_tree",
-    "fft"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "dp_tree", "fft"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2

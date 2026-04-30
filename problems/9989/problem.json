@@ -15,11 +15,7 @@
   "hint": "<h4>Output Details</h4>\n<p>Cow 1 will perform event 1, cow 3 will perform event 2, and cow 2 will perform event 3.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO February 2014 Contest, Gold",
   "level": 17,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.5434999465942383

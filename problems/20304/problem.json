@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Open, mic1021, gumgood, ho94949, jhnah917, kipa00, pichulia, rhs0266, shiftpsh, sogangcse, woonikim",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 806,
   "submission_count": null,
   "average_tries": 2.776700019836426

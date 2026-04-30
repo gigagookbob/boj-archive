@@ -19,12 +19,7 @@
   "hint": "<p>Обратите внимание, что ответы <code>2 1</code> и <code>1 2</code> различны, поскольку штрих-код берется с первого проданного билета, а серия --- со второго.</p>\n<p>Обратите внимание на то, что ответ <code>0 0</code> тоже является корректным.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 10, 2013, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 10, 2013, Advanced",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "dp_sum_over_subsets"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.799999952316284

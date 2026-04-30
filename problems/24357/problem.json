@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2016, Group E",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.1845999956130981

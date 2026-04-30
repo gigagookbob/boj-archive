@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2022",
   "level": 12,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.2000000476837158

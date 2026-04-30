@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Codeforces, Codeforces Round 578 (Div. 2), jwvg0425",
   "level": 18,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.119999885559082

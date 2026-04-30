@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2016",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "pst"
-  ],
+  "tags": ["data_structures", "segtree", "pst"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.2750000953674316

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 곰곰컵, 제2회 곰곰컵, jyheo98, bnb2011, chogahui05, jthis, lms0806, pichulia, pjshwa, r4pidstart, tony9402",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 629,
   "submission_count": null,
   "average_tries": 2.5834999084472656

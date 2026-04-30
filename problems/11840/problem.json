@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2012",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "trees",
-    "binary_search",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "binary_search", "trie"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.4509999752044678

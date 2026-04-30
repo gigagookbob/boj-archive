@@ -23,9 +23,7 @@
   "hint": "<ul>\n<li>예제 1에서는 스테이지 2 =&gt; 스테이지 1 =&gt; 스테이지 2 순서로 클리어하면 모든 별을 얻는다.</li>\n<li>예제 2에서는 스테이지 2 =&gt; 스테이지 1 =&gt; 스테이지 3 순서로 클리어하면 모든 별을 얻는다.</li>\n<li>예제 3에서는 스테이지 1에서 처음부터 한 개의 별도 얻을 수 없으므로, 불가능하다.</li>\n</ul>",
   "source": null,
   "level": 15,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 3.7888998985290527

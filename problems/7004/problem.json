@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 3 March, 2013, ICPC, Regionals, North America, East Central North America Regional, 2000 East Central Regional Contest",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "math",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "math", "priority_queue"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.6922999620437622

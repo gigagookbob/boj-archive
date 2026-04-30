@@ -15,12 +15,7 @@
   "hint": null,
   "source": "vkdldjvkdnj, iktk, kiwiyou, mickeyjung, pani, utilforever",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "trees",
-    "disjoint_set",
-    "link_cut_tree"
-  ],
+  "tags": ["data_structures", "trees", "disjoint_set", "link_cut_tree"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 5.894700050354004

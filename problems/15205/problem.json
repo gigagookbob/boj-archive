@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2017",
   "level": 22,
-  "tags": [
-    "bitset",
-    "divide_and_conquer",
-    "dp",
-    "offline_queries"
-  ],
+  "tags": ["bitset", "divide_and_conquer", "dp", "offline_queries"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5999999046325684

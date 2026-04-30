@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 12 June, 2004",
   "level": 10,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["math", "geometry", "binary_search"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 4.457099914550781

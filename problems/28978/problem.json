@@ -15,10 +15,7 @@
   "hint": "<p>Оба возможных кроссворда представлены на картинках:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/> <img alt=\"\" src=\"2.png\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Advanced",
   "level": 15,
-  "tags": [
-    "backtracking",
-    "bruteforcing"
-  ],
+  "tags": ["backtracking", "bruteforcing"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2011 Pacific Northwest Region Programming Contest",
   "level": 26,
-  "tags": [
-    "math",
-    "graphs",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["math", "graphs", "bruteforcing", "geometry"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.5499999523162842

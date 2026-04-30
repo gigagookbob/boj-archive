@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"opacity:0.9\"/></p>\n<p>The picture depicts the gameplay in the first sample case. The ball bounces off the right wall at time 0.375 (the first RIGHT player intercepts it, for instance by beginning with her paddle there and not moving it), then off the left wall at 0.875 (the LEFT player bounces it), again on the right at time 1.375 (the second RIGHT player can position his paddle at the bounce point), again on the left (where the LEFT player gets just in time to catch it — she covers the three units of distance exactly in one second in which she needs to get there) and then hits the right wall too far for the first RIGHT player to get there. Note the second RIGHT player could catch the ball, but is not allowed by the rules to do so. Also note that if RIGHT team had one player more, she could bounce the ball, and then LEFT would lose — the ball would come too far up for the single LEFT player to get there in time.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 2",
   "level": 24,
-  "tags": [
-    "arbitrary_precision",
-    "case_work",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["arbitrary_precision", "case_work", "math", "number_theory"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 6

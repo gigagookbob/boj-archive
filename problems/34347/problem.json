@@ -15,12 +15,7 @@
   "hint": "<p>길이 $N$의 순열이라는 것은 $1$부터 $N$까지의 모든 양의 정수가 한 번씩만 등장하는 수열을 말한다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2025 서울대학교 프로그래밍 경시대회, Div.2, lunarlity, jay153, jk410, lisifu, ncy09, octane, pyb1031",
   "level": 9,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "constructive"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 1.607800006866455

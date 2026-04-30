@@ -31,11 +31,7 @@
   "hint": "<p>예제3, 예제4, 예제5는 서브태스크1에서 나오지 않는다.</p>\n<p>2019년 4월 10일 용의 해를 맞아 모독은 더 이상 정규전에서 쓸 수 없게 되었다.</p>",
   "source": "University, 아주대학교, 2019 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2019 아주대학교 프로그래밍 경시대회 APC, Div.2, Acka",
   "level": 17,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 6.133299827575684

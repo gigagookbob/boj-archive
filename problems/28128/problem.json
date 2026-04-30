@@ -19,10 +19,7 @@
   "hint": "<p>$\\lceil {x}\\rceil$는 $x$보다 작지 않은 최소의 정수를 의미한다.</p>",
   "source": "University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.2, pani, akim9905, eaststar, gbe0808, hsh8086, jthis, pjshwa, tlsdydaud1, utilforever",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "parity"],
   "accepted_user_count": 183,
   "submission_count": null,
   "average_tries": 2.4590001106262207

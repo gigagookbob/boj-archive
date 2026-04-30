@@ -23,11 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Zbog radova na dionici pruge od 8. do 11. postaje prvom, drugom i četvrtom putniku će na karti pisati da se prevoze autobusom. Ako bi otvorili navedenu dionicu, svi bi putnici putovali samo vlakom. Najdulja dio pruge na kojem nema radova, tj. putnici se ne prevoze autobusima je od 11. do 18. (može i od 1. do 8.) postaje u duljini od 8 postaja.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Junior Croatian Olympiad in Informatics 2021",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["implementation", "bruteforcing", "sorting"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.666700005531311

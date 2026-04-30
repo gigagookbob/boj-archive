@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, October 25, 2020, Basic",
   "level": 6,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5

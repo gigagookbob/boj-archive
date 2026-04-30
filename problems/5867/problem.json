@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 cows, with re-ordered names given above.</p><h4>Output Details</h4><p>The string \"a\" would have appeared first on FJ's list no matter what, and similarly the string \"xzy\" would have appeared last no matter how its letters were originally ordered.  The two strings \"essieb\" and \"elsie\" could have both occupied either positions 2 or 3, depending on their original letter orderings (for example, \"bessie\" (position 2) and \"elsie\" (position 3), versus \"sisbee\" (position 3) and \"ilees\" (position 2)).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO December 2012 Contest, Bronze",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["greedy", "sorting", "binary_search"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.4133000373840332

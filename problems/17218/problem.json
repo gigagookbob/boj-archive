@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, MAVEN League, TheKinGoD",
   "level": 12,
-  "tags": [
-    "dp",
-    "string",
-    "traceback",
-    "lcs"
-  ],
+  "tags": ["dp", "string", "traceback", "lcs"],
   "accepted_user_count": 1152,
   "submission_count": null,
   "average_tries": 1.5964000225067139

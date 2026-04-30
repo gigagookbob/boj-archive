@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5, jh05013, klimmek55, koosaga, rdd6584, yeonunu",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "set",
-    "mitm"
-  ],
+  "tags": ["binary_search", "set", "mitm"],
   "accepted_user_count": 6221,
   "submission_count": null,
   "average_tries": 3.9312000274658203

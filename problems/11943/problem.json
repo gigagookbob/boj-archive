@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 2016 고려대학교 신입생 프로그래밍 경시대회, functionx",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 8960,
   "submission_count": null,
   "average_tries": 1.4711999893188477

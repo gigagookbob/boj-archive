@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2024",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitset"
-  ],
+  "tags": ["dp", "bitset"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.547600030899048

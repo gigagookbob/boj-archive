@@ -23,14 +23,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2022, 79brue, azberjibiou, dhyang24, ncy09",
   "level": 22,
-  "tags": [
-    "case_work",
-    "data_structures",
-    "dp",
-    "segtree",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["case_work", "data_structures", "dp", "segtree", "tree_set", "set"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.6666998863220215

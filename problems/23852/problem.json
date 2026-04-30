@@ -23,13 +23,7 @@
   "hint": "<p>Clarification of the third example: One way to get from <code>soolnlsn</code> to a single-repetition word using four swaps is</p>\n<p style=\"text-align: center;\"><code>soolnlsn</code> → <code>so<u>lo</u>nlsn</code> → <code>sol<u>no</u>lsn</code> → <code><u>os</u>lnolsn</code> → <code>o<u>ls</u>nolsn</code></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #3",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "string",
-    "segtree",
-    "constructive"
-  ],
+  "tags": ["data_structures", "greedy", "string", "segtree", "constructive"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5625

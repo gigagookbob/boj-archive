@@ -15,12 +15,7 @@
   "hint": "<p>For $x=\\{4,5,7,9\\}$, the five possible triples are as follows: $$(2, 2, 5), (2, 3, 4), (2, 4, 5), (3, 4, 5), (4, 5, 7).$$</p>",
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 US Open Contest, Silver",
   "level": 16,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "set"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.3610999584198

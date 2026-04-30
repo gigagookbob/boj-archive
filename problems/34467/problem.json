@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2025, CCC 2025 Senior Division",
   "level": 8,
-  "tags": [
-    "math",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["math", "string", "bruteforcing"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.7618999481201172

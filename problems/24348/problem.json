@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2017, Group E",
   "level": 3,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 265,
   "submission_count": null,
   "average_tries": 3.215100049972534

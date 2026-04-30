@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2010, 초등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2010, 중등부",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["math", "implementation", "geometry"],
   "accepted_user_count": 11286,
   "submission_count": null,
   "average_tries": 2.6452999114990234

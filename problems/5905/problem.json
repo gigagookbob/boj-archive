@@ -15,14 +15,7 @@
   "hint": "<p>ABACBCB 를 눌러 공격하면 ABA와 한번, ABACB와 한번, CB와 두번 매칭되어 총 4번 공격에 성공한다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO January 2012 Contest, Gold, koosaga, gunwookim",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "string",
-    "trees",
-    "trie",
-    "aho_corasick"
-  ],
+  "tags": ["dp", "data_structures", "string", "trees", "trie", "aho_corasick"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 1.827299952507019

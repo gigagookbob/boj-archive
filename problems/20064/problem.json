@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2018, Day 2",
   "level": 22,
-  "tags": [
-    "constructive",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["constructive", "implementation", "simulation"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 2.2063000202178955

@@ -15,10 +15,7 @@
   "hint": "<p>There are several solutions.  One of them is the following: all but the last five cows go on the first bus, and the last five cows go on the second bus.  The first bus has an imbalance of 3 extra Holstein fans, and the second bus holds only Holstein fans.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO February 2004 Contest, Orange",
   "level": 12,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2

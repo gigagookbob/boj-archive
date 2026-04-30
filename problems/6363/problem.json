@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2002 Greater New York Programming Contest",
   "level": 14,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bruteforcing", "bitmask"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.142899990081787

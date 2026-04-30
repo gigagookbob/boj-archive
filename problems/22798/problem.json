@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2001",
   "level": 17,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2856999635696411

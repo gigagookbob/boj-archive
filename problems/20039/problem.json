@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2020",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "coordinate_compression"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 2.207900047302246

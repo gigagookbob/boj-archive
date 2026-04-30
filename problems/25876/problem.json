@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2018 Local Programming Contest",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.4211000204086304

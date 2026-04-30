@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2011, Stage 3",
   "level": 11,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.4666999578475952

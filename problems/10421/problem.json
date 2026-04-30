@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2014 Sogang Programming Contest, Master, WeissBlume",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 2.8963000774383545

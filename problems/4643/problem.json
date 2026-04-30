@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2003 Mid-Central Regional Programming Contest",
   "level": 17,
-  "tags": [
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["greedy", "implementation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

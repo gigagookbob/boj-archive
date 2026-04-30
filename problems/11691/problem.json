@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, dotorya",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "euler_phi"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 2.6019999980926514

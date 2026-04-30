@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "case_work"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 4.9583001136779785

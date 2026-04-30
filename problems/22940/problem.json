@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2021 NPC (Newbie Programming Challenge), byeop24, 9507ym, artichoke42, byeop24, dkvltmxhf, dlstj0923, gojib2002, gratus907, omjin7n, pjh6792, shieldnet, smmaker118, soljin8122, tngus5851, tony9402",
   "level": 16,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 659,
   "submission_count": null,
   "average_tries": 2.308000087738037

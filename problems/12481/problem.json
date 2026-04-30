@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 3",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.8845999240875244

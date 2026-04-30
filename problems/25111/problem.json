@@ -15,12 +15,7 @@
   "hint": "<p>The four queries in the above example refer to the substrings <strong>a</strong>abaa, c<strong>aba</strong>abaac, ab<strong>a</strong>ac, and aca; the part shown in bold is the substring referred to by the result of that query (a substring of length $ℓ_i$, beginning at index $c_i$). In the last query there is no repetition, so $ℓ_4 = 0$.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2021",
   "level": 23,
-  "tags": [
-    "divide_and_conquer",
-    "string",
-    "suffix_array",
-    "z"
-  ],
+  "tags": ["divide_and_conquer", "string", "suffix_array", "z"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.9166998863220215

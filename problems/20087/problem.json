@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2016, Day 1",
   "level": 26,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["geometry", "binary_search", "prefix_sum", "two_pointer"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 6.3125

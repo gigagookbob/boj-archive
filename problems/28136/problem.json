@@ -19,10 +19,7 @@
   "hint": "<p>오름차순 수열이란 뒤로 갈수록 숫자가 커지는 수열을 의미한다.</p>",
   "source": "University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.2, akim9905, gbe0808, eaststar, hsh8086, jthis, pani, pjshwa, tlsdydaud1, utilforever",
   "level": 6,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 524,
   "submission_count": null,
   "average_tries": 2.782399892807007

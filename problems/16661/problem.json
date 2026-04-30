@@ -19,10 +19,7 @@
   "hint": "<p>In the illustration each line means that a cavalier can dance with a lady. Bold line means that a cavalier asks a lady for a dance.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NERC 2018",
   "level": 27,
-  "tags": [
-    "graphs",
-    "general_matching"
-  ],
+  "tags": ["graphs", "general_matching"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.064500093460083

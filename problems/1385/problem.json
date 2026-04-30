@@ -15,12 +15,7 @@
   "hint": null,
   "source": "xhark, baekjoon",
   "level": 16,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 217,
   "submission_count": null,
   "average_tries": 3.654400110244751

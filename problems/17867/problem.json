@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2019 Greater New York Programming Contest, tracy_hide",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "geometry", "parametric_search"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2009",
   "level": 11,
-  "tags": [
-    "combinatorics",
-    "geometry",
-    "math"
-  ],
+  "tags": ["combinatorics", "geometry", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.3125

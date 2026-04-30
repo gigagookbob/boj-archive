@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2023, Division 2",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 264,
   "submission_count": null,
   "average_tries": 1.2310999631881714

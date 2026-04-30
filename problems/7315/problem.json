@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2002",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["bruteforcing", "geometry", "line_intersection"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

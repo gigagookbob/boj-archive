@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 곰곰컵, 제1회 곰곰컵, pichulia, chansol, chogahui05, pjshwa, r4pidstart, tony9402",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 960,
   "submission_count": null,
   "average_tries": 1.8645999431610107

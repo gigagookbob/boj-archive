@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2002",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "bitmask"
-  ],
+  "tags": ["math", "implementation", "string", "bitmask"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.9854999780654907

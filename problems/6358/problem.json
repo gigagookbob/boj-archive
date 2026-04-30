@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2002 Greater New York Programming Contest, jh05013",
   "level": 9,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 2.3889000415802

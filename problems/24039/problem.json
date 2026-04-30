@@ -19,12 +19,7 @@
   "hint": "<ul>\n<li>소수란 2 이상의 정수 중에서, 1과 자기 자신으로만 나누어떨어지는 수이다.</li>\n<li>$p$와 $q$가 소수이며 $p$ 초과, $q$ 미만의 소수가 존재하지 않을 때, $p$와 $q$를 연속한 소수라고 한다.</li>\n</ul>",
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2021!, chunghan, ho94949, cheetose, cs71107, dennisstar, ho94949, jhnah917, junseo, kyo20111, shiftpsh",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 2179,
   "submission_count": null,
   "average_tries": 1.7769999504089355

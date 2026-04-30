@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" height=\"203\" src=\"/JudgeOnline/upload/201006/screen.PNG\" width=\"249\"/></p>",
   "source": "author5",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.3529000282287598

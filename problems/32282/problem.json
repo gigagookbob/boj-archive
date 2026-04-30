@@ -31,10 +31,7 @@
   "hint": "<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"1.png\" title=\"YouTube video player\" width=\"560\"></iframe></p>",
   "source": "School, 선린인터넷고등학교, 선린 프로그래밍 챌린지, 제2회 선린 프로그래밍 챌린지, jjang36524, gggkik, kaorin, myyh1234, tyoungs, utilforever",
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["ad_hoc", "geometry"],
   "accepted_user_count": 161,
   "submission_count": null,
   "average_tries": 2.1491000652313232

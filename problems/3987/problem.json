@@ -23,12 +23,7 @@
   "hint": "<table class=\"table table-bordered\" style=\"width:100%\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th style=\"text-align:center; width:20%\">초기 상태</th>\r\n\t\t\t<th style=\"text-align:center; width:20%\">위(U) 방향</th>\r\n\t\t\t<th style=\"text-align:center; width:20%\">오른쪽(R) 방향</th>\r\n\t\t\t<th style=\"text-align:center; width:20%\">아래(D) 방향</th>\r\n\t\t\t<th style=\"text-align:center; width:20%\">왼쪽(L) 방향</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>\r\n\t\t\t<pre style=\"text-align:center\">\r\n../.\\\r\n.....\r\n.CS..\r\n...C.\r\n\\.../</pre>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<pre style=\"text-align:center\">\r\n*.***\r\n*.*.*\r\n*C*.*\r\n*..C*\r\n*****</pre>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<pre style=\"text-align:center\">\r\n../.\\\r\n.....\r\n.C***\r\n...C.\r\n\\.../</pre>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<pre style=\"text-align:center\">\r\n../.\\\r\n.....\r\n.C*..\r\n..*C.\r\n\\.*./</pre>\r\n\t\t\t</td>\r\n\t\t\t<td>\r\n\t\t\t<pre style=\"text-align:center\">\r\n../.\\\r\n.....\r\n.C*..\r\n...C.\r\n\\.../</pre>\r\n\t\t\t</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\">&nbsp;</td>\r\n\t\t\t<td style=\"text-align:center\">17초</td>\r\n\t\t\t<td style=\"text-align:center\">3초</td>\r\n\t\t\t<td style=\"text-align:center\">3초</td>\r\n\t\t\t<td style=\"text-align:center\">1초</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2012/2013, Contest #4, baekjoon, aung, insect, seokjin1013",
   "level": 11,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation"],
   "accepted_user_count": 1133,
   "submission_count": null,
   "average_tries": 3.8048999309539795

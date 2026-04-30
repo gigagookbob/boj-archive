@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 와쿠(AGCU)컵, 제1회 와쿠(AGCU)컵, bnb2011, cgiosy, eaststar, jyheo98, lms0806, parkky, pjshwa, qawbecrdtey, tony9402, yooyou7",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 429,
   "submission_count": null,
   "average_tries": 2

@@ -19,11 +19,7 @@
   "hint": "<p>두 번째 예제의 경우 p = 0, q = 77이면 모든 부분이 비슷하다고 판별된다.</p>",
   "source": "Contest, kriiicon, 제3회 kriiicon, august14",
   "level": 25,
-  "tags": [
-    "fft",
-    "hashing",
-    "math"
-  ],
+  "tags": ["fft", "hashing", "math"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 5.944399833679199

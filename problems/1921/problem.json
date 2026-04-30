@@ -23,12 +23,7 @@
   "hint": null,
   "source": null,
   "level": 29,
-  "tags": [
-    "data_structures",
-    "trees",
-    "link_cut_tree",
-    "top_tree"
-  ],
+  "tags": ["data_structures", "trees", "link_cut_tree", "top_tree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 5.0833001136779785

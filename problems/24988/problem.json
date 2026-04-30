@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2021",
   "level": 12,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.5

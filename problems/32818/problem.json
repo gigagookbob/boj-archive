@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2024",
   "level": 17,
-  "tags": [
-    "implementation",
-    "simulation",
-    "case_work"
-  ],
+  "tags": ["implementation", "simulation", "case_work"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4.428599834442139

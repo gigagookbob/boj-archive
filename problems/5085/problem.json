@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2012",
   "level": 19,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 15.5

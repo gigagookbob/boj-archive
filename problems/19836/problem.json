@@ -15,10 +15,7 @@
   "hint": "<p>All $18$ tips for $k = 1$ are presented at the picture below:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 204px; height: 263px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2017",
   "level": 12,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.666700005531311

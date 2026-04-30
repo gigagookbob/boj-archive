@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 11th Latvian olympiad in informatics, Stage III (Country)",
   "level": 16,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "math",
-    "mitm",
-    "number_theory"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "math", "mitm", "number_theory"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 3.1714000701904297

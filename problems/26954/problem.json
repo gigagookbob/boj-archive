@@ -23,11 +23,7 @@
   "hint": "<p>I det första exemplet kan vi börja med att byta plats på blomma 2 och 3, och sedan på blomma 1 och 2. Då kommer blommorna hamna i ordningen <code>1 3 3 1</code>.</p>\n<p>I det andra exemplet kan vi till exempel göra följande 5 byten i ordning: 4 och 5, 3 och 4, 1 och 2, 2 och 3, 7 och 8. Då kommer blommorna hamna i ordningen <code>1 2 3 1 1 3 2 1</code>.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2021, KATT",
   "level": 0,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

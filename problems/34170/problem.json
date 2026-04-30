@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL, kidw0124, ezh8n, foxpython, leeminjae, pj991207, tlsdydaud1, utilforever",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "number_theory", "combinatorics"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

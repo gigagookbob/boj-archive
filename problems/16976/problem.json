@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "disjoint_set",
-    "pbs"
-  ],
+  "tags": ["data_structures", "binary_search", "disjoint_set", "pbs"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 2.3666999340057373

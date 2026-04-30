@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2015",
   "level": 9,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "two_pointer"
-  ],
+  "tags": ["string", "bruteforcing", "two_pointer"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.9189000129699707

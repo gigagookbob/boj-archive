@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 120px; height: 120px;\"/></p>\n<p style=\"text-align: center;\">붉은 실선으로 표시된 변에서 인접한 두 L-트로미노의 색이 같으므로 오답</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 240px; height: 240px;\"/></p>\n<p style=\"text-align: center;\">$2^3 \\times 2^3$ 판에서 $a = 7, b = 6$ 일 때 가능한 정답 중 하나</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021 예선, evenharder, cki86201, doju, jh05013, koosaga, pichulia, xiaowuc1",
   "level": 19,
-  "tags": [
-    "implementation",
-    "constructive",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["implementation", "constructive", "divide_and_conquer", "recursion"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 2.150899887084961

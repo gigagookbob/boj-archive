@@ -23,11 +23,7 @@
   "hint": "<p>두 번째 예제의 경우에 첫 주가 지난 후 1/3의 확률로 (3, 2, 2)가, 1/3의 확률로 (2, 3, 2)가, 1/3의 확률로 (2, 2, 3)이 된다.</p>\n<p>둘째 주에 (3, 2, 2)는 기댓값이 3.4286이 되고, (2, 3, 2)와 (2, 2, 3)은 기댓값이 2.2857이 된다. 따라서, 기댓값은 2.66667이다.</p>",
   "source": "baekjoon, klimmek55",
   "level": 11,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 1.4084999561309814

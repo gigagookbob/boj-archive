@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, South Africa Regional Contest, Beninese Collegiate Programming Contest, The 2016 Beninese Collegiate Programming Contest",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 1.3690999746322632

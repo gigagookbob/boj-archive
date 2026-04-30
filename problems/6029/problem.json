@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO February 2010 Contest, Silver",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "greedy", "parametric_search"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 4.7221999168396

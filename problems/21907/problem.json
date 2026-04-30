@@ -15,10 +15,7 @@
   "hint": "<p>The sample output is given as an example. It contains the output for $k = 1, 2$.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2020, Contest, Open Cup, 2020/2021 Season, Stage 17: Grand Prix of Southern Europe",
   "level": 25,
-  "tags": [
-    "constructive",
-    "graphs"
-  ],
+  "tags": ["constructive", "graphs"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.857100009918213

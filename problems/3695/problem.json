@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2007",
   "level": 13,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "parametric_search"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "parametric_search"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

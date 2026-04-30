@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2012 Arab Collegiate Programming Contest, portableangel",
   "level": 18,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["exponentiation_by_squaring", "math", "number_theory"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.7142999172210693

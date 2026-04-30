@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2018 SCAL-MOOKJA, University, 중앙대학교, 2018 SCAL-MOOKJA, junsuk0522, eric00513, jh05013, chogahui05, kjh9267",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 212,
   "submission_count": null,
   "average_tries": 3.240600109100342

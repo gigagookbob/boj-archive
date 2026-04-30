@@ -19,11 +19,7 @@
   "hint": "<p>I exempel 1 vill Nadja ha en kub av varje sidlängd från $1$ till $4$. Då behövs $1^3 + 2^3 + 3^3 + 4^3 = 100$ stycken småkuber.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Qualification",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1552,
   "submission_count": null,
   "average_tries": 1.1302000284194946

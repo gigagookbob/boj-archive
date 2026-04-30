@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2019",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.375

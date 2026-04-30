@@ -27,13 +27,7 @@
   "hint": "<p>이 문제의 지문은 다이아몬드의 공식 설정과 다를 수 있다.</p>",
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2기 -chinoaww는 피드백이 아니에요-, oh040411, djm03178, flakepowders, hyperbolic, iluem100, kdy40929, ksoosung77, pyb1031, wizardrabbit",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "traceback"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 1.9732999801635742

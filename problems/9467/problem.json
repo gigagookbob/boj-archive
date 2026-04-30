@@ -15,11 +15,7 @@
   "hint": "<table class=\"table table-bordered\" style=\"width:10%\">\n<tbody>\n<tr>\n<td>A</td>\n<td>B</td>\n</tr>\n<tr>\n<td>D</td>\n<td>C</td>\n</tr>\n</tbody>\n</table>\n<table class=\"table table-bordered\" style=\"width:10%\">\n<tbody>\n<tr>\n<td>A</td>\n<td>D</td>\n</tr>\n<tr>\n<td>B</td>\n<td>C</td>\n</tr>\n</tbody>\n</table>\n<p>위와 같이 두 가지가 가능하다.</p>",
   "source": "myungwoo",
   "level": 21,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

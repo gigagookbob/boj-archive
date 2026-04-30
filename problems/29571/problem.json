@@ -31,10 +31,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 3, 2009, Basic",
   "level": 8,
-  "tags": [
-    "math",
-    "two_pointer"
-  ],
+  "tags": ["math", "two_pointer"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.950000047683716

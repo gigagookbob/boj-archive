@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:144px; width:143px\"/></p>\n<p>The figure illustrates the railway network as specified in the example. It is possible to inspect all the stations only for S=2. One optimal order of inspection is: 7, 4, 8, 6, 1, 5, 3, 9. It results in 23 hours of travel.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 3",
   "level": 17,
-  "tags": [
-    "centroid",
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["centroid", "dp", "dp_tree", "trees"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.1333000659942627

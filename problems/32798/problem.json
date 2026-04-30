@@ -23,12 +23,7 @@
   "hint": "<p>In the first sample, we can show that the probability Ashley becomes annoyed is $\\frac{7}{9}$. Note that $110916040 \\cdot 9 \\equiv 7 \\pmod {998244353}$, therefore the output for that test case is $110916040$.</p>\n<p>In the second sample, we can show that Ashley always becomes annoyed. Note that $1 \\cdot 1 \\equiv 1 \\pmod {998244353}$, therefore the output for that test case is $1$.</p>\n<p>In the third sample, we can show that Ashley never becomes annoyed. Note that $0 \\cdot 1 \\equiv 0 \\pmod {998244353}$, therefore the output for that test case is $0$.</p>",
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2024 ICPC Pacific Northwest Regional, Division 1",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "flt"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "flt"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.9375

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Intermediate Group)",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.4166998863220215

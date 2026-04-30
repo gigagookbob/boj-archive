@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 4: Ce Bin and Ryyi Ji Contest 1",
   "level": 17,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.2222000360488892

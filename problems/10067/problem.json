@@ -15,11 +15,7 @@
   "hint": "<p>아래와 같은 과정으로 수열을 나누면 108점을 얻을 수 있다.</p>\r\n\r\n<ul>\r\n\t<li>현재 수열은 (4, 1, 3, 4, 0, 2, 3)이다. 첫 번째 원소 다음에서 수열을 나누면 4 &times; (1 + 3 + 4 + 0 + 2 + 3) = 52점을 얻게 된다.</li>\r\n\t<li>현재 두 부분으로 나누어져 있다. (4), (1, 3, 4, 0, 2, 3) 3번째 원소 다음에서 수열을 나누면 (1 + 3) &times; (4 + 0 + 2 + 3) = 36점을 얻게 된다.</li>\r\n\t<li>이제 총 세 부분으로 나누어져 있다. (4), (1, 3), (4, 0, 2, 3) 5번째 원소 다음에서 수열을 나누면 (4 + 0) &times; (2 + 3) = 20점을 얻게 된다.</li>\r\n</ul>\r\n\r\n<p>수열은 총 4개의 부분 (4), (1, 3), (4, 0), (2, 3) 으로 나누어지게 되고, 은기가 얻은 점수는 52 + 36 + 20 = 108점이다.</p>\r\n",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2014, baekjoon, h0ngjun7, spectaclehong",
   "level": 22,
-  "tags": [
-    "dp",
-    "traceback",
-    "cht"
-  ],
+  "tags": ["dp", "traceback", "cht"],
   "accepted_user_count": 455,
   "submission_count": null,
   "average_tries": 6.406599998474121

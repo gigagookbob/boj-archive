@@ -27,13 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree"],
   "accepted_user_count": 2662,
   "submission_count": null,
   "average_tries": 1.979699969291687

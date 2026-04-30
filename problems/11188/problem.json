@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2012",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.5778000354766846

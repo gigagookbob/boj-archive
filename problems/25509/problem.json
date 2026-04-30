@@ -19,10 +19,7 @@
   "hint": null,
   "source": "TAMREF, aeren, jhhope1, koosaga, topology",
   "level": 26,
-  "tags": [
-    "math",
-    "linear_algebra"
-  ],
+  "tags": ["math", "linear_algebra"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 4.263199806213379

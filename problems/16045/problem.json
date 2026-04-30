@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2018, Contest, Open Cup, 2017/2018 Season, Stage 16: Grand Prix of America",
   "level": 27,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "math",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "geometry", "math", "number_theory", "prefix_sum"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.4000000953674316

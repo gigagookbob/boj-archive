@@ -15,10 +15,7 @@
   "hint": "<p>In the first sample case, the array $a = [3, 1, 2, 3]$ is $3$-regular because its two subarrays of size $3$ are $[3, 1, 2]$ and $[1, 2, 3]$, each of which contains all integers from $1$ to $3$. The sum of this array is $3 + 1 + 2 + 3 = 9$, which we can show is maximal for this $n$ and $k$.</p>\n<p>In the second sample case, each subarray of size $1$ must contain $1$, and therefore, the array must consist only of ones.</p>",
   "source": "University, Rutgers University, Rutgers University Programming Contest Spring 2025",
   "level": 7,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.3421000242233276

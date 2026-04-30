@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2008 South Central USA  Regional Programming Contest",
   "level": 17,
-  "tags": [
-    "graphs",
-    "geometry",
-    "mst",
-    "geometry_3d"
-  ],
+  "tags": ["graphs", "geometry", "mst", "geometry_3d"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

@@ -31,10 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2014",
   "level": 14,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["exponentiation_by_squaring", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

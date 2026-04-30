@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, University of Virginia High School Programming Contest, UVa HSPC 2011, Juno, chogahui05",
   "level": 8,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 240,
   "submission_count": null,
   "average_tries": 1.662500023841858

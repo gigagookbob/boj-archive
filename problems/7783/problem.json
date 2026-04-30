@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, KBTU Open, KBTU Open 2008, baekjoon, koosaga",
   "level": 19,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["dp", "prefix_sum", "two_pointer"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.0399999618530273

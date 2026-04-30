@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2009",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "pst",
-    "segtree"
-  ],
+  "tags": ["data_structures", "pst", "segtree"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.5713999271392822

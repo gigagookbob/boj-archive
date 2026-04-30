@@ -15,10 +15,7 @@
   "hint": "<p>사람 9명이 줄을 서있고 각 사람이 원하는 용량의 크기는 2, 7, 3, 7, 7, 3, 7, 5, 7 이다.</p>\r\n\r\n<p>용량 3을 원하는 사람을 줄에서 빼버리면, 줄은 2, 7, 7, 7, 7, 5, 7가 되고, 7을 원하는 사람이 4명이 연속된 구간이 가장 길이가 긴 구간이다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO US Open 2012 Contest, Bronze, baekjoon, exponential_e",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 1017,
   "submission_count": null,
   "average_tries": 2.3206000328063965

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Spontaniczny Konkurs Informatyczny, SKI 2010",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 4659,
   "submission_count": null,
   "average_tries": 1.181399941444397

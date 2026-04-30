@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2017",
   "level": 16,
-  "tags": [
-    "euclidean",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["euclidean", "math", "number_theory"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.4878000020980835

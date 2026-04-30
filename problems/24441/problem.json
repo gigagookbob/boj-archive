@@ -19,11 +19,7 @@
   "hint": null,
   "source": "sait2000, byeongkeunahn, chansol, lky7674, WeissBlume",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "precomputation"
-  ],
+  "tags": ["data_structures", "segtree", "precomputation"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 1.7731000185012817

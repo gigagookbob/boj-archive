@@ -15,12 +15,7 @@
   "hint": "<p>\r\n\t최적인 스케줄은 시장 1과 시장 3 (위치 80과 위치 75에 있는 시장들) 을 방문하는 것이다. 방문하는 순서와 이때 얻는 이익 및 비용은 다음과 같다:\r\n</p>\r\n<ul>\r\n\t<li>상인은 100 달러의 비용으로 강을 20미터 거슬러 위로 올라간다. 지금까지 이득 : -100</li>\r\n\t<li>시장 1을 방문하여 100달러 이익을 얻는다. 지금까지 이득 : 0</li>\r\n\t<li>25 달러의 비용으로 강을 5미터 거슬러 위로 올라간다. 지금까지 이득 : -25</li>\r\n\t<li>시장 3을 방문하여 150달러 이익을 얻는다. 지금까지 이득 : 125</li>\r\n\t<li>75 달러의 비용으로 강을 따라 25미터 아래로 내려가서 집에 돌아간다. 마지막 이득 : 50</li>\r\n</ul>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2009, Day 2",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "segtree"],
   "accepted_user_count": 314,
   "submission_count": null,
   "average_tries": 3.668800115585327

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2016",
   "level": 20,
-  "tags": [
-    "dp",
-    "implementation",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "implementation", "math", "probability"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

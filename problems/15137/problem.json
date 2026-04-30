@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2017",
   "level": 23,
-  "tags": [
-    "bcc",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bcc", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 4.239999771118164

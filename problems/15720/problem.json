@@ -15,13 +15,7 @@
   "hint": "<p>입력 예에 나온 메뉴들의 가격을 모두 합하면 12100원이다.</p>\n<p>첫 번째 세트는 3000원짜리 버거, 1300원짜리 사이드메뉴, 1000원짜리 음료로 구성하면 5300 * 0.9 = 4770원이다.</p>\n<p>두 번째 세트는 2500원짜리 버거, 1000원짜리 사이드메뉴, 500원짜리 음료로 구성하면 4000 * 0.9 = 3600원이다.</p>\n<p>남은 2000원짜리 버거와 800원짜리 사이드메뉴는 음료가 없으므로 세트 할인을 받을 수 없다. 따라서 세트 할인이 적용된 후의 최소 가격은 4770+3600+2800 = 11170원이 된다.</p>",
   "source": "University, 중앙대학교, CodeRace 2018, dlstj0923",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "greedy", "sorting", "arithmetic"],
   "accepted_user_count": 1919,
   "submission_count": null,
   "average_tries": 1.40910005569458

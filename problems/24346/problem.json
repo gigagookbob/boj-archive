@@ -23,10 +23,7 @@
   "hint": "<p>Пояснение за Пример 3: Може да образуваме двойката <code>abxba</code> и <code>y</code>. Има и други възможности като двойката <code>axа</code> и <code>byb</code> и пр. но не е възможно да образуваме само един низ, които да е палиндром и да е съставен от всичките елементи на дадения низ.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2017, Group D",
   "level": 5,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.6614999771118164

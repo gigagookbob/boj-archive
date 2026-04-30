@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2001, Croatian Olympiad in Informatics 2001, chogahui05, jh05013",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 473,
   "submission_count": null,
   "average_tries": 2.369999885559082

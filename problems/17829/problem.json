@@ -19,11 +19,7 @@
   "hint": "<p>예제2는 본문에 이어 다음과 같은 과정으로 답을 구할 수 있다.</p>\n<p><img alt=\"\" src=\"3.png\" style=\"height: 222px; width: 600px;\"/></p>",
   "source": "University, 홍익대학교, 2019 홍익대학교 프로그래밍 경진대회, degurii",
   "level": 8,
-  "tags": [
-    "implementation",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["implementation", "divide_and_conquer", "recursion"],
   "accepted_user_count": 2976,
   "submission_count": null,
   "average_tries": 1.305400013923645

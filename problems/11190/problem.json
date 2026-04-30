@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2012",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.0262999534606934

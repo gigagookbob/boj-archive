@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2013 Arab Collegiate Programming Contest, ntopia",
   "level": 19,
-  "tags": [
-    "dp",
-    "offline_queries"
-  ],
+  "tags": ["dp", "offline_queries"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 9.63640022277832

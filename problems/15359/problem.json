@@ -23,12 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​first​ ​example:​ ​We can determine one element: x[3].</p>\n<p>Clarification​ ​of​ ​the​ ​second​ ​example:​ ​We can determine x[3] and x[4].</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #3",
   "level": 23,
-  "tags": [
-    "crt",
-    "inclusion_and_exclusion",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["crt", "inclusion_and_exclusion", "math", "number_theory"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.384600043296814

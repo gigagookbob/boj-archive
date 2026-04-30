@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup), gunwookim, amsminn, chansol, cologne, tony9402, utilforever",
   "level": 21,
-  "tags": [
-    "math",
-    "greedy",
-    "cht",
-    "li_chao_tree"
-  ],
+  "tags": ["math", "greedy", "cht", "li_chao_tree"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 5.283299922943115

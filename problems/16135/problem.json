@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2018_01, oh040411, dotorya",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "linear_algebra"
-  ],
+  "tags": ["math", "implementation", "geometry", "linear_algebra"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 5.738500118255615

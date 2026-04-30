@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2008 Pacific Northwest Region Programming Contest",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "set"
-  ],
+  "tags": ["implementation", "string", "set"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 1.5290000438690186

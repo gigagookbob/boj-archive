@@ -19,11 +19,7 @@
   "hint": "<p>예제 1의 경우에는 토끼가 11마리 있고, 블록이 4개있는 경우이다. (그림과 같은 경우)</p>\r\n\r\n<p>첫째 날 상근이가 딸기를 주는 토끼의 번호는 5번부터 10번이다. 성냥갑 5,6,10번에는 성냥을 넣을 것이고, 세 번째 컵에 성냥갑을 넣는다. 첫째 날이기 때문에, 원래 성냥이 들어있는 성냥갑과 컵은 없다. 따라서 정답은 4가 된다.</p>\r\n\r\n<p>둘째 날 상근이는 1번부터 3번토끼에게 딸기를 준다. 첫 번째 컵에 성냥을 넣으면 된다.</p>\r\n\r\n<p>셋째 날에는 모든 토끼에게 딸기를 준다. 이런 경우에는 모든 컵에 성냥을 하나씩 넣으면 된다. 따라서, 정답은 6이 된다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #5, baekjoon, cheetose, doju",
   "level": 10,
-  "tags": [
-    "implementation",
-    "simulation",
-    "sqrt_decomposition"
-  ],
+  "tags": ["implementation", "simulation", "sqrt_decomposition"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.401900053024292

@@ -19,10 +19,7 @@
   "hint": "<p>예제 1의 게임 보드는 X 플레이어가 착수할 차례이다. X 플레이어는 다음과 같은 경우들을 고려하여 최선의 결과를 얻는다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 403px; width: 500px;\"/><br/>\n </p>\n<p>위 그림의 'W', 'D', 'L'은 이번에 착수할 차례인 X 플레이어 기준이다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2018 Sogang Programming Contest, Champion, sjy366",
   "level": 13,
-  "tags": [
-    "backtracking",
-    "game_theory"
-  ],
+  "tags": ["backtracking", "game_theory"],
   "accepted_user_count": 371,
   "submission_count": null,
   "average_tries": 2.417799949645996

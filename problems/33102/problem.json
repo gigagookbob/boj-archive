@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2023",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_sum_over_subsets",
-    "math"
-  ],
+  "tags": ["bitmask", "dp", "dp_sum_over_subsets", "math"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.4615000486373901

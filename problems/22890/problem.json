@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, the input is the same as in the example given in the problem statement. As the image shows, the list can be turned into a sorted list with 4 operations. Notice that the last two integers need to end up with at least 3 digits (requiring at least 3 append operations in total). If all of the final numbers had exactly three digits, the second would be larger than the third because it starts with a 7 instead of a 1. This means we cannot do it with fewer than 4 operations.</p>\n<p>In Sample Case #2, notice that the list needs to be in strictly increasing order, so we have to do at least one operation. In this case, any valid append operation to the second integer works.</p>\n<p>In Sample Case #3, we can use two append operations to get the list to 4,19,19<strong>3</strong>.</p>\n<p>In Sample Case #4, the given list is already in strictly increasing order, so no operations are necessary.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 1A",
   "level": 13,
-  "tags": [
-    "arbitrary_precision",
-    "greedy"
-  ],
+  "tags": ["arbitrary_precision", "greedy"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.9660999774932861

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 3, 2009, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 3, 2009, Advanced",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.230799913406372

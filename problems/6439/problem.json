@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1995, baekjoon, emppu, koyh1200, seokjeongeum, zerovector, Acka",
   "level": 15,
-  "tags": [
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "line_intersection"],
   "accepted_user_count": 890,
   "submission_count": null,
   "average_tries": 3.9021999835968018

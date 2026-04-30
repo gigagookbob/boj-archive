@@ -15,11 +15,7 @@
   "hint": "<p>String $s_{p_{1}}s_{p_{2}}\\dots s_{p_{k}} (1 \\le p_{1} &lt; p_{2} &lt; \\dots &lt; p_{k} \\le |s|)$ is called a <em>subsequence</em> of string $s$.</p>\n<p>String $x = x_{1}x_{2}\\dots x_{k}$ is <em>lexicographically less</em> than string $y = y_{1}y_{2}\\dots y_{k}$, if there exists such number $i$ $(1 \\le i \\le k)$, that $x_{1} = y_{1}, x_{2} = y_{2}, \\ldots , x_{i-1} = y_{i-1}$ and $x_{i} &lt; y_{i}$. Characters in strings are compared as their ASCII codes.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 8: Grand Prix of Samara",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "stack"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.416700005531311

@@ -15,11 +15,7 @@
   "hint": "<p>첫 번째 예제에 대해 주어진 그래프 G의 transitive closure를 계산한 행렬 R은 아래와 같다.</p>\r\n\r\n<pre>\r\n0 1 1\r\n0 0 1\r\n0 0 0\r\n</pre>\r\n\r\n<p>위 행렬에서 X&ne;Y인 정점쌍 (X, Y)는 3개 존재한다.</p>\r\n",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, ACM-ICPC Regional Jakarta 2010, Hibbah",
   "level": 10,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.913599967956543

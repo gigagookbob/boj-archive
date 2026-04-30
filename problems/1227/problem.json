@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, Croatian Olympiad in Informatics 2007, author4, baekjoon",
   "level": 19,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "case_work"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "bfs", "case_work"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.625

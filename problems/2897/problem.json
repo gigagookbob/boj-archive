@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #5, arine",
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 1370,
   "submission_count": null,
   "average_tries": 1.2568999528884888

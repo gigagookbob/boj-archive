@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, djm03178, kimryungyo, wnsdl1659, djm03178",
   "level": 13,
-  "tags": [
-    "graphs",
-    "trees",
-    "lca"
-  ],
+  "tags": ["graphs", "trees", "lca"],
   "accepted_user_count": 7517,
   "submission_count": null,
   "average_tries": 2.4165000915527344

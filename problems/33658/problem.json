@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2025, Division 1, University, University of Alberta Programming Contest, UAPC 2025, Division 2",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "set",
-    "constructive"
-  ],
+  "tags": ["data_structures", "ad_hoc", "set", "constructive"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

@@ -27,13 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic", "parsing"],
   "accepted_user_count": 3862,
   "submission_count": null,
   "average_tries": 1.370300054550171

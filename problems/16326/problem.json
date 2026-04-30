@@ -27,12 +27,7 @@
   "hint": "<p>In the first test, the following pairs of numbers are suitable: (5, 151), (55, 101), (101, 55), (151, 5).</p>\n<p>In the second test, the following pairs of numbers are suitable: (515, 9009), (636, 8888), (8888, 636), (9009, 515).</p>\n<p>In the third test, the following pairs of numbers are suitable: (33, 42624), (333, 42324), (4884, 37773), (37773, 4884), (42324, 333), (42624, 33).</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2018",
   "level": 22,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory",
-    "recursion"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory", "recursion"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.75

@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the third test case:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"3.png\" style=\"height:162px; width:366px\"/></p>\n<p>For simplicity’s sake, the letter A was added to the numbers from the first spiral, and the letter B to the numbers from the second spiral. Only the first 20 steps of the first spiral are shown, and 21 steps of the second spiral. The fields in gray are the fields from the table we’re interested in, all other fields are out of the table’s bounds, but are shown to illustrate the way the spirals move outside of the table.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #5",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.1463000774383545

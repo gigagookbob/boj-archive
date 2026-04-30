@@ -19,12 +19,7 @@
   "hint": "<pre>\n☆★맥☆스☆웰☆의☆수☆수☆께☆끼☆악☆마★☆\n\n☞지☆금☆당☆장☆구☆매☜\n\nhttps://store.steampowered.com/app/2770160</pre>",
   "source": "School, 서울과학고등학교, SciOI 2025, luca200799k, kdy40929, kuhyaku, ncy09, utilforever",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "stack"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.727299928665161

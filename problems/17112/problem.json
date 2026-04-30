@@ -15,12 +15,7 @@
   "hint": "<p>ì˜ˆì œ ìž…ë ¥ë„ ì¸ì½”ë”©ë˜ì–´ ìžˆë‹¤. (ê·¸ëŸ° ì´ìœ ë¡œ ì˜ˆì œëŠ” ì±„ì ì„ í•˜ì§€ ì•ŠëŠ”ë‹¤.)</p>",
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 구데기컵 2018, shiftpsh",
   "level": 0,
-  "tags": [
-    "case_work",
-    "parsing",
-    "utf8",
-    "string"
-  ],
+  "tags": ["case_work", "parsing", "utf8", "string"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 28

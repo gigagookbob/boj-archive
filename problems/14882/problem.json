@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, Juno, sait2000",
   "level": 22,
-  "tags": [
-    "math",
-    "number_theory",
-    "fft"
-  ],
+  "tags": ["math", "number_theory", "fft"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 3.246000051498413

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2012, Round 1B",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.7390999794006348

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2012 Mid-Atlantic Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "graph_traversal", "dag", "topological_sorting"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.272700071334839

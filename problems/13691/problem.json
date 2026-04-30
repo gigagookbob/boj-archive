@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2005",
   "level": 13,
-  "tags": [
-    "graphs",
-    "topological_sorting",
-    "dag"
-  ],
+  "tags": ["graphs", "topological_sorting", "dag"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

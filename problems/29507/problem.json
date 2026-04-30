@@ -19,11 +19,7 @@
   "hint": "<p>В первом примере достаточно поставить препятствие в любую точки парковки, а во втором необходимо поставить препятствие в центр парковки и тогда у всех четырех парковочных мест оно будет находиться на границе.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 23, 2010, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 23, 2010, Advanced",
   "level": 6,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "arithmetic"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.340000033378601

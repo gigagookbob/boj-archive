@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2019!, leejseo, leejseo, cheetose, junie, junseo, Lawali",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "eulerian_path"],
   "accepted_user_count": 285,
   "submission_count": null,
   "average_tries": 2.3333001136779785

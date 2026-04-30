@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO October 2005 Contest, Gold",
   "level": 12,
-  "tags": [
-    "arbitrary_precision",
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["arbitrary_precision", "dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.1875

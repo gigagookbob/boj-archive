@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, HotSpot 2011",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "math",
-    "recursion"
-  ],
+  "tags": ["ad_hoc", "math", "recursion"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.9600000381469727

@@ -15,10 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: W trakcie pierwszego antraktu należy przenieść elementy: z pozycji 4 na pozycję 3, z pozycji 7 na pozycję 6 i zza kulis (pozycja 10) na pozycję 8. Stąd potrzebny czas na wykonanie zmian to 4 sekundy.</p>\n<p>W trakcie drugiego antraktu należy przenieść elementy: z pozycji 3 za kulisy (pozycja 0), z pozycji 6 na pozycję 5 i z pozycji 8 za kulisy (pozycja 10). Wobec tego potrzebny czas to 6 sekund.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2020/2021, Stage 3",
   "level": 21,
-  "tags": [
-    "sorting",
-    "ternary_search"
-  ],
+  "tags": ["sorting", "ternary_search"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

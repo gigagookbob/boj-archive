@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2018",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "binary_search",
-    "prefix_sum",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "binary_search", "prefix_sum", "bfs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.9047999382019043

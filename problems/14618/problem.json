@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2017 인하대학교 프로그래밍 경진대회 (IUPC), jason9319, exponential_e",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 297,
   "submission_count": null,
   "average_tries": 3.1953001022338867

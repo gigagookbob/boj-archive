@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2023, Division 1, University, University of Alberta Programming Contest, UAPC 2023, Division 2",
   "level": 8,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.1110999584197998

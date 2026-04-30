@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 2: Jingzhe Tang Contest",
   "level": 25,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "mobius_inversion"
-  ],
+  "tags": ["math", "implementation", "number_theory", "mobius_inversion"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 3.576900005340576

@@ -23,13 +23,7 @@
   "hint": "<p>Pojašnjenje drugog probnog primjera: Štakor se mogao nalaziti na polju $(3, 1)$ i zatim napraviti sljedećih $10$ koraka: gore, dolje, dolje, desno, desno, desno, gore, desno, gore, gore.</p>\n<p>Poašnjenje trećeg probnog primjera: Štakor se mogao nalaziti na polju $(4, 1)$ i zatim napraviti sljedećih $18$ koraka: dolje, gore, gore, gore, desno, desno, dolje, desno, desno, lijevo, lijevo, gore, gore, dolje, dolje, desno, desno, desno.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2023",
   "level": 22,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

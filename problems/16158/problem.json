@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제2회 네블컵, pda_pro12",
   "level": 13,
-  "tags": [
-    "math",
-    "sweeping"
-  ],
+  "tags": ["math", "sweeping"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 2.2105000019073486

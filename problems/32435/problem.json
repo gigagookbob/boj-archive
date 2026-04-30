@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação da SBC 2024",
   "level": 21,
-  "tags": [
-    "dp",
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["dp", "exponentiation_by_squaring", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.5713999271392822

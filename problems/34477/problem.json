@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2025",
   "level": 25,
-  "tags": [
-    "graphs",
-    "game_theory",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "game_theory", "bipartite_matching"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2

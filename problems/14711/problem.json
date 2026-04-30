@@ -23,9 +23,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2017 서울대학교 프로그래밍 경시대회, Division 2, doju",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 318,
   "submission_count": null,
   "average_tries": 1.3395999670028687

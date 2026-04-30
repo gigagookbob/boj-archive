@@ -15,10 +15,7 @@
   "hint": "<p>For the third test case, if Bobo chooses to remove the triangle $\\{(0, 1), (1, 1), (1, 2)\\}$ first, there will be no other triangles to remove. Alternatively, Bobo can remove the triangle $\\{(0, 0), (0, 1), (1, 1)\\}$ first and then $\\{(0, 2), (0, 3), (1, 2)\\}$.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 18: Grand Prix of Beijing",
   "level": 17,
-  "tags": [
-    "geometry",
-    "randomization"
-  ],
+  "tags": ["geometry", "randomization"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.75

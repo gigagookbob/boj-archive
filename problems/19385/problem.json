@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 4: Yandex Cup 2017",
   "level": 16,
-  "tags": [
-    "constructive",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["constructive", "data_structures", "stack"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

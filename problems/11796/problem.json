@@ -23,12 +23,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "tree_set",
-    "hashing"
-  ],
+  "tags": ["data_structures", "binary_search", "tree_set", "hashing"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 5.1875

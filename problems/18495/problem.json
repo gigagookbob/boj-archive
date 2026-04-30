@@ -23,12 +23,7 @@
   "hint": "<p>The level from the first example after an optimal terraforming: <img alt=\"\" src=\"1.png\" style=\"width: 110px; height: 81px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 8: Almost Algoritmic Contest",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 4.440000057220459

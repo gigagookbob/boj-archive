@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2024",
   "level": 19,
-  "tags": [
-    "graphs",
-    "geometry",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "geometry", "planar_graph"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.1500000953674316

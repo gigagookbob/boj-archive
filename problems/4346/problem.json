@@ -15,11 +15,7 @@
   "hint": "<p>For example, the first route in the sample input begins in Windsor at 08:00 a.m., arrives in London at 09:55, in Kitchener at 11:30, Guelph at 12:25, Toronto at 13:30 and Montreal at 18:20. To get from Waterloo to Toronto we can leave at 07:00 and travel direct for a total time of 1:45. Or we can leave at 08:00 and travel to Kitchener, then to Guelph and Toronto, arriving at 13:30 for a travel time of 5:30. Or we can depart Waterloo at 09:00 for Hamilton, Niagara, and Toronto, arriving at 14:00. Finally, we can depart Waterloo at 23:00 and arrive in Toronto at 07:05 the next morning, for a travel time of 8:05.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 21 September, 2002",
   "level": 14,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2

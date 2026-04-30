@@ -19,13 +19,7 @@
   "hint": "<p>A binary tree is a set of nodes that are either empty or a root node with a left subtree and a right subtree, both of which are binary trees. Given a node $x$, if its left subtree is not empty, then the root of that subtree is called the left child of $x$. Similarly, given a node $x$, if its right subtree is not empty, then the root of that subtree is called the right child of $x$.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2022, CCO 2022",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "dp_tree"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "dp_tree"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 6.63640022277832

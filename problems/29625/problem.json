@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, December 19, 2009",
   "level": 17,
-  "tags": [
-    "trees",
-    "constructive"
-  ],
+  "tags": ["trees", "constructive"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>Obszar zakreskowany na rysunku reprezentuje fragment tablicy, w którym należy przyczepić pinezkę, aby przebić 3 zdjęcia. Zauważ, że dwa zdjęcia na tablicy (pierwsze i czwarte) dokładnie się pokrywają.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2008, Stage 1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

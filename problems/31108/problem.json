@@ -23,11 +23,7 @@
   "hint": "<p>In the first example, the beam is reflected as follows:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 250px; height: 113px;\"/></p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 16: Grand Prix of Urals",
   "level": 7,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "geometry", "arithmetic"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.19350004196167

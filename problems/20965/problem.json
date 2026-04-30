@@ -15,10 +15,7 @@
   "hint": "<p>The output in grid format:</p>\n<pre>\n    1  2  3  4\n  *--*--*--*--*\n1 | 0| 1| 2| 3|\n  *--*--*--*--*\n2 | 1| 5| 9|13|\n  *--*--*--*--*\n3 | 2|11|20|29|\n  *--*--*--*--*\n4 | 3|19|35|49|\n  *--*--*--*--*\n5 | 4|29|54|69|\n  *--*--*--*--*\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 January Contest, Platinum",
   "level": 23,
-  "tags": [
-    "dp",
-    "slope_trick"
-  ],
+  "tags": ["dp", "slope_trick"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.8799999952316284

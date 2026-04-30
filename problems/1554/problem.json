@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "math",
-    "geometry",
-    "combinatorics"
-  ],
+  "tags": ["math", "geometry", "combinatorics"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.761899948120117

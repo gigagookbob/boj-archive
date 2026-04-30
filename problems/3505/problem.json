@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2011",
   "level": 19,
-  "tags": [
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["constructive", "dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.804900050163269

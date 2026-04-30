@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, Final Exam #1, author6, baksa0320, h0ngjun7, jh05013",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "prefix_sum"
-  ],
+  "tags": ["data_structures", "segtree", "prefix_sum"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 3.536900043487549

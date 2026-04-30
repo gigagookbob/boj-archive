@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Pierwsza mrówka patrzy początkowo w lewo i nigdy nie odbije się od żadnej innej. Ostatnia mrówka zderzy się z piątą mrówką w punkcie 5.5, po czym zacznie maszerować w prawo i już nigdy nie skończy. Trzecia mrówka, po odbiciu się od czwartej w punkcie 3.5, zacznie iść w lewo. Druga mrówka odbije się od niej w punkcie 3, po czym obróci się w lewo i nigdy nie przestanie maszerować.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 14,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "ad_hoc", "prefix_sum"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1

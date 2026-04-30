@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2008: It's a Zoo",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 368,
   "submission_count": null,
   "average_tries": 2.17930006980896

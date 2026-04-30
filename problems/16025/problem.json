@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2018, CCC 2018 Senior Division",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "mst"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.0952000617980957

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 29 September, 2001",
   "level": 9,
-  "tags": [
-    "math",
-    "graphs",
-    "geometry"
-  ],
+  "tags": ["math", "graphs", "geometry"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.3703999519348145

@@ -15,11 +15,7 @@
   "hint": "<p>This world has five cities, three paths and two jet routes. Bessie starts out in city 1, and she can only make 100 dollars in each city before moving on.</p>\n<p>Bessie can travel from city 1 to city 5 to city 2 to city 3, and make a total of 4*100 - 150 = 250 dollars.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO November 2009 Contest, Silver",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "bellman_ford"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.8782999515533447

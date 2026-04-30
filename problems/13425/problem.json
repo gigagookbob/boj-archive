@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "math",
-    "graphs",
-    "bipartite_matching"
-  ],
+  "tags": ["math", "graphs", "bipartite_matching"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, November 12, 2010, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, November 12, 2010, Advanced",
   "level": 10,
-  "tags": [
-    "math",
-    "graphs",
-    "trees",
-    "combinatorics"
-  ],
+  "tags": ["math", "graphs", "trees", "combinatorics"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

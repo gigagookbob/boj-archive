@@ -15,10 +15,7 @@
   "hint": "<p>В тесте из примера рулон можно разделить на две части, проведя черту между 7 и 8 столбцом клеток, а затем записать по два слова в каждой строке в обеих частях  рапорта.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, March 24, 2019",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.3333001136779785

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, myyh1234",
   "level": 16,
-  "tags": [
-    "string",
-    "z"
-  ],
+  "tags": ["string", "z"],
   "accepted_user_count": 466,
   "submission_count": null,
   "average_tries": 2

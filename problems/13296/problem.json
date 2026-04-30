@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2016, ho94949",
   "level": 20,
-  "tags": [
-    "math",
-    "number_theory",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "number_theory", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.2857000827789307

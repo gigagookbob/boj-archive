@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2014 Pacific Northwest Region Programming Contest, Division 2, jh05013",
   "level": 2,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic",
-    "euler_characteristic"
-  ],
+  "tags": ["math", "geometry", "arithmetic", "euler_characteristic"],
   "accepted_user_count": 8368,
   "submission_count": null,
   "average_tries": 1.1348999738693237

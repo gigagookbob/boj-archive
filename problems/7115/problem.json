@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 11th Latvian olympiad in informatics, Stage II (District/City)",
   "level": 10,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.736799955368042

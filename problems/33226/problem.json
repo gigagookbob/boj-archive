@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2022",
   "level": 18,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

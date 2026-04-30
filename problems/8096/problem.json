@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1996/1997, Stage 3",
   "level": 17,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 1.111899971961975

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2002, 고등부, tncks0121",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 5704,
   "submission_count": null,
   "average_tries": 2.700000047683716

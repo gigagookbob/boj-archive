@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, klimmek55, hjhj97",
   "level": 11,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "dp", "combinatorics", "probability"],
   "accepted_user_count": 1752,
   "submission_count": null,
   "average_tries": 1.4925999641418457

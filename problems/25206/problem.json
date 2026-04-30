@@ -19,11 +19,7 @@
   "hint": "<p>예제 1은 치훈이의 실제 전공과목 성적이다.</p>",
   "source": "University, 인하대학교, 2022 인하대학교 프로그래밍 경진대회 (IUPC), wjdclgns12, 39dll, gumgood, jh05013, jhnah917, ruz, yooshnn, yuja",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 41719,
   "submission_count": null,
   "average_tries": 2.2353999614715576

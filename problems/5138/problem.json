@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2011: Famous Computer Scientists",
   "level": 12,
-  "tags": [
-    "graphs",
-    "greedy",
-    "trees",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "greedy", "trees", "eulerian_path"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.1666998863220215

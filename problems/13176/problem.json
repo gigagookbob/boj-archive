@@ -31,11 +31,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제4회 kriiicon, august14",
   "level": 19,
-  "tags": [
-    "dp",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "game_theory", "sprague_grundy"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.5139000415802002

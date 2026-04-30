@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2026 중앙대학교 프로그래밍 경진대회 (CPC), sksms1375, wapas, aerae, hjkim9911, kevinlys00, kky085437, mythofys, pk661, plan_pt, qvixnh22, utilforever",
   "level": 6,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.3293999433517456

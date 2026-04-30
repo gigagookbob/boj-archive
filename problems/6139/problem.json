@@ -15,11 +15,7 @@
   "hint": "<p>The book has 10 pages; 3 cows are competing. The first cow reads at a rate of 2 pages per minute, can read for at most 4 minutes at a time, and must rest for 1 minute after reading. The second reads at a rate of 6 pages per minute, can read for at most 1 minute at a time, and must rest 5 minutes after reading. The last reads at a rate of 3 pages per minute, can read for at most 3 minutes at a time, and must rest for 3 minutes after reading.</p>\n<p>The first cow can read 8 pages in 4 minutes, rest for 1 minute, and read the last 2 pages in a minute. The second reads 6 pages in a minute, rests for 5 minutes, and finishes in the next minute. The last reads 9 pages in 3 minutes, rests for 3 minutes, and finishes in the next minute.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO November 2007 Contest, Bronze",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 266,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,10 +15,7 @@
   "hint": "<p>20, 40, 50, 60, 100, 25 -&gt; 50.0<br/>\n55, 5, 50, 60, 100, 25 -&gt; 50.0<br/>\n135, 5, 50, 60, 100, 10 -&gt; 45.0<br/>\n135, 5, 50, 20, 100, 20 -&gt; 45.0<br/>\n135, 5, 100, 83, 100, 20 -&gt; 56.0 </p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2014 - 1st Round",
   "level": 13,
-  "tags": [
-    "math",
-    "case_work"
-  ],
+  "tags": ["math", "case_work"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

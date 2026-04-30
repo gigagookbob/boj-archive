@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2011",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "geometry", "implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

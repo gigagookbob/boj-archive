@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, 2022 North Central NA Regional Contest",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "hash_set", "set"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.2222000360488892

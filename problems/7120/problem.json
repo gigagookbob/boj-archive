@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 12th Latvian olympiad in informatics, Stage II (District/City)",
   "level": 4,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 417,
   "submission_count": null,
   "average_tries": 1.3717000484466553

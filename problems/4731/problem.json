@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2008 Mid-Atlantic Regional Programming Contest",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["graphs", "shortest_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.25

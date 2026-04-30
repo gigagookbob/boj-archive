@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2022",
   "level": 23,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["geometry", "convex_hull", "point_in_convex_polygon"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 5.039999961853027

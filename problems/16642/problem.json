@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 키파컵, 제1회 키파컵, kipa00",
   "level": 19,
-  "tags": [
-    "math",
-    "calculus",
-    "ternary_search"
-  ],
+  "tags": ["math", "calculus", "ternary_search"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 5.5

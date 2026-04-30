@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, cozyyg, cologne, gs18115, kipa00, pichulia, shiftpsh",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.566699981689453

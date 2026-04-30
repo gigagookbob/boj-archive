@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample Zakhar set his timer to 5 seconds. After one second he saw number 4 and after three seconds he saw number 2. The sum of these two observations is 6.</p>\n<p>In the second sample Zakhar sets his timer to 4 seconds. After 1, 3, 4 and 7 seconds from the timer's start, he sees 3, 1, 0 and 0, respectively. The sum of these values is 4.</p>\n<p>Notice, that samples do not satisfy the additional constraints of the first and second subtasks. Your solution will be tested on tests of the first and second subtasks even if it does not pass the sample tests.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Elimination round 1, 2017-2018",
   "level": 13,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.75

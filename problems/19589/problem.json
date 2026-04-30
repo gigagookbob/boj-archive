@@ -15,10 +15,7 @@
   "hint": "<p>카드 6장이 있을 때 쿼리 <tt><span style=\"background-color:#dddddd;\">3 1 6</span></tt>을 처리하면</p>\n<p style=\"text-align: center;\">1 2 3 4 5 6 ⇒ 1 4 2 5 3 6</p>\n<p>이 되고, 카드 7장이 있을 때 <tt><span style=\"background-color:#dddddd;\">3 1 7</span></tt>이 입력으로 들어오면 </p>\n<p style=\"text-align: center;\">1 2 3 4 5 6 7 ⇒ 1 5 2 6 3 7 4</p>\n<p>가 된다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 1, semteo04, jh05013, jhnah917, Lawali, pichulia, shiftpsh",
   "level": 24,
-  "tags": [
-    "trees",
-    "splay_tree"
-  ],
+  "tags": ["trees", "splay_tree"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 3.7555999755859375

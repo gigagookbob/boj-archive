@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 2023 GSHS CS Seminar, puppy, 79brue, alex0211, benedict0724, flappybird, ibm2006, jk410, lisifu, mjhmjh1104, mwryan",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "dp_tree"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "dp_tree"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.8261001110076904

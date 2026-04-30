@@ -15,13 +15,7 @@
   "hint": "<p>트리에서 가장 먼 두 노드 간의 거리를 트리의 지름이라고 한다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2024, Contest, University, 경인지역 대학 연합, shake! 2024, Open Contest, Coxie, akim9905, bnb2011, hamuim, ibm2006, jk410, lky7674, overnap, pani, rustiebeats, shjohw12, swoon, tlsdydaud1, utilforever",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "lca",
-    "sparse_table",
-    "tree_diameter"
-  ],
+  "tags": ["data_structures", "trees", "lca", "sparse_table", "tree_diameter"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.5744999647140503

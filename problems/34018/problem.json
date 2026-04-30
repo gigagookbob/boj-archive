@@ -15,13 +15,7 @@
   "hint": null,
   "source": "hibye1217, cdg0228, mujigae, oh040411, pyb1031, utilforever",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "dijkstra"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 4.0833001136779785

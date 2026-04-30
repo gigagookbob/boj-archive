@@ -15,10 +15,7 @@
   "hint": "<p>In the second test case the sequence is: 5, 11, 17 whose sum is 33.  See figure.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 227px;\"/></p>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2010 ACM-ICPC Asia Amritapuri Regional Contest",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 722,
   "submission_count": null,
   "average_tries": 1.187000036239624

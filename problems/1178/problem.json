@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 16,
-  "tags": [
-    "graphs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "eulerian_path"],
   "accepted_user_count": 185,
   "submission_count": null,
   "average_tries": 3.4702999591827393

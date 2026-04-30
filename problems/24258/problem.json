@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2021, Group B (Juniors)",
   "level": 26,
-  "tags": [
-    "backtracking",
-    "heuristics",
-    "math",
-    "recursion"
-  ],
+  "tags": ["backtracking", "heuristics", "math", "recursion"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5.75

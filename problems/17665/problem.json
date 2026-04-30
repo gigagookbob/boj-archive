@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2019",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "offline_queries"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 2.238100051879883

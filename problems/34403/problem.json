@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 전남대학교, 2025 하반기 전남대학교 PIMM 알고리즘 파티, onsbtyd, kolorvxl, mujigae, sjh1224, utilforever",
   "level": 17,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing", "simulation"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 5.823500156402588

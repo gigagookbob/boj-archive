@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 4: Ce Bin and Ryyi Ji Contest 1",
   "level": 24,
-  "tags": [
-    "combinatorics",
-    "fft",
-    "math"
-  ],
+  "tags": ["combinatorics", "fft", "math"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.4285999536514282

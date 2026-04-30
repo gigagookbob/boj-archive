@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2000, baekjoon, hijkl2e, jung2381187",
   "level": 8,
-  "tags": [
-    "math",
-    "dp",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "dp", "arbitrary_precision"],
   "accepted_user_count": 834,
   "submission_count": null,
   "average_tries": 3.322499990463257

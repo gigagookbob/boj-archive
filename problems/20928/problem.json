@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Winter Algorithm Camp Contest, 중급, woonikim, Lawali, gratus907, iknoom1107, jwvg0425, tony9402",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 4.028600215911865

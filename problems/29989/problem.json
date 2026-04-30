@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação da SBC 2023",
   "level": 21,
-  "tags": [
-    "dijkstra",
-    "divide_and_conquer",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "divide_and_conquer", "graphs", "shortest_path"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2

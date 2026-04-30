@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #4, Division 2, queued_q, solvedac, ai4youej, cologne, gs18115, seonah, shiftpsh",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 129,
   "submission_count": null,
   "average_tries": 2.1705000400543213

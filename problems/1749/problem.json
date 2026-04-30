@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author9, tjdwo5313, jh05013",
   "level": 12,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 1498,
   "submission_count": null,
   "average_tries": 2.72760009765625

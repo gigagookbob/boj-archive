@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\">Illustration of Sample Case 1.</p>",
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2022, Camp, Petrozavodsk Programming Camp, Summer 2022, Day 1: Welcome Contest",
   "level": 21,
-  "tags": [
-    "geometry",
-    "sweeping",
-    "ternary_search",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "sweeping", "ternary_search", "polygon_area"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 7.470600128173828

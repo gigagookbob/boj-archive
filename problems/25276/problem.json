@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2022",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "greedy",
-    "string"
-  ],
+  "tags": ["ad_hoc", "greedy", "string"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.405400037765503

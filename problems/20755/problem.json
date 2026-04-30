@@ -15,9 +15,7 @@
   "hint": "<p>The example fully repeats the second example from another problem &lt;&lt;Fix the heap 8bit&gt;&gt;: both the contents of the memory cells and the suggested recovery fixes are the same. Illustration:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 332px; height: 61px;\"/></p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 1: XXI All-Siberian Programming Contest",
   "level": 14,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.799999952316284

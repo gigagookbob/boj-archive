@@ -23,10 +23,7 @@
   "hint": "<p>zamjenom trećeg slova 'c' u 'a' string 'aba' pojavljuje 2 puta. </p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2014 - 1st Round",
   "level": 20,
-  "tags": [
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["string", "two_pointer"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

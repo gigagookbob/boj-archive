@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2018 KAIST RUN Spring Contest, koosaga",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 406,
   "submission_count": null,
   "average_tries": 2.256200075149536

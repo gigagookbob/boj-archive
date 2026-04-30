@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 중급, lky7674, gumgood, kyo20111, pichulia",
   "level": 19,
-  "tags": [
-    "bipartite_matching",
-    "hall"
-  ],
+  "tags": ["bipartite_matching", "hall"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.3454999923706055

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2010 Mid-Atlantic Regional Programming Contest, ICPC, Regionals, North America, Southeast USA Regional, 2010 Southeast USA Regional Programming Contest, baekjoon, exponential_e, ho94949",
   "level": 8,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 588,
   "submission_count": null,
   "average_tries": 1.770400047302246

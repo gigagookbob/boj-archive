@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2018_01, hws0728, jh05013",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 6.859399795532227

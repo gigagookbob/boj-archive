@@ -15,11 +15,7 @@
   "hint": "<p>The number 8892, written in base 47, is 419.  Written in base 35, it is 792.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO January 2015 Contest, Bronze",
   "level": 11,
-  "tags": [
-    "math",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["math", "binary_search", "two_pointer"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 1.6818000078201294

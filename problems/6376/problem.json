@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2000 Greater New York Programming Contest, baekjoon, songuno1",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 1968,
   "submission_count": null,
   "average_tries": 2.4191999435424805

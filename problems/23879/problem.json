@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2021 December Contest, Bronze",
   "level": 13,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 293,
   "submission_count": null,
   "average_tries": 1.9214999675750732

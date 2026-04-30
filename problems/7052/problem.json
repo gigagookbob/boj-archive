@@ -15,10 +15,7 @@
   "hint": "<p>The figure shows the optimal location of sawmills for the example data.Trees are depicted as circles with weights given below. Sawmills aremarked black. The result is equal to:</p>\n<p style=\"text-align: center;\">1 · (2 + 1) + 2 · 1+1 · (1 + 2) + 3 · 2+2 · (1 + 2 + 1) + 1 · (2 + 1) + 1 · 1</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 96px; width: 469px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2004, Day 2",
   "level": 16,
-  "tags": [
-    "cht",
-    "dp"
-  ],
+  "tags": ["cht", "dp"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.2040998935699463

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "effectiveservice, koosaga",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 9397,
   "submission_count": null,
   "average_tries": 2.6949000358581543

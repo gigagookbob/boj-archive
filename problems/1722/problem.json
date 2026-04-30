@@ -19,11 +19,7 @@
   "hint": null,
   "source": "author5, jung2381187",
   "level": 12,
-  "tags": [
-    "math",
-    "implementation",
-    "combinatorics"
-  ],
+  "tags": ["math", "implementation", "combinatorics"],
   "accepted_user_count": 4412,
   "submission_count": null,
   "average_tries": 2.86899995803833

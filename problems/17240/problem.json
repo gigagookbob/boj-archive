@@ -19,13 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 1번 선수에게 A, 2번 선수에게 B, 3번 선수에게 C, 4번 선수에 게 D, 5번 선수에게 E를 맡기는 것이 실력의 합을 극대화 할 수 있다. 6번 선수는 모든 역할군의 실력이 9이지만, 각 역할군에서 6번 선수보다 잘하는 후보자가 있기 때문에, 팀에는 선발되지 않는다.</p>\n<p>두 번째 예제의 경우 첫 번째 예제에서, 5번 선수의 D 실력이 20으로 증가한 상황이 다. 이제는 D를 5번 선수에게 맡기고, E를 6번 선수에게 맡길 때 실력의 합을 극대화 할 수 있다.</p>",
   "source": "University, POSTECH, 2019 PPC, ufolion",
   "level": 15,
-  "tags": [
-    "dp",
-    "greedy",
-    "bruteforcing",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "greedy", "bruteforcing", "bitmask", "dp_bitfield"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 2.2137999534606934

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, 2023 ICPC Asia Tehran Regional Contest",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.666700005531311

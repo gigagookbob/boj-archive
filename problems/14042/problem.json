@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2016, CCC 2016 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2016, CCC 2016 Senior Division",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.0379999876022339

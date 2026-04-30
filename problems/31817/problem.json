@@ -27,9 +27,7 @@
   "hint": "<p>$[x_l,x_r]\\times[y_l , y_r]$ 직사각형 영역은 $x_l\\le x\\le x_r$이고 $y_l\\le y\\le y_r$인 영역을 의미한다.</p>\r\n",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2024 KAIST RUN Spring Contest, azberjibiou, 79brue, koosaga",
   "level": 23,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 4

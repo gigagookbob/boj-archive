@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2018/2019, Stage 1",
   "level": 18,
-  "tags": [
-    "implementation",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "prefix_sum", "two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

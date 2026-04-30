@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제10회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, hibye1217, cologne, gunwookim, hjroh0315, kiwiyou, mjhmjh1104, mnx, my3, naeby, seonah, solvedac, yijw0930",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 267,
   "submission_count": null,
   "average_tries": 1.4905999898910522

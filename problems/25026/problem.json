@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제5회 kriiicon 연습 세션, august14",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "math",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["combinatorics", "math", "sorting", "sweeping"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.61899995803833

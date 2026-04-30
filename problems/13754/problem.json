@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2016 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Pacific Northwest Regional, 2016 Pacific Northwest Region Programming Contest, Division 2",
   "level": 14,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 2.0648999214172363

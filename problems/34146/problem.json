@@ -43,11 +43,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BCF, BCF 2025, 79brue, aeren, leinad2, mjhmjh1104, qwerasdfzxcl, silverwolf",
   "level": 6,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["implementation", "ad_hoc", "parity"],
   "accepted_user_count": 338,
   "submission_count": null,
   "average_tries": 1.4763000011444092

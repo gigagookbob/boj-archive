@@ -15,10 +15,7 @@
   "hint": "<p>위 예시의 답은 아래와 같다.</p>\n<ol>\n<li>1번 미생물을 사 온다. 이때 드는 비용은 <em>y<sub>1</sub></em> = 2이다.</li>\n<li>1번 미생물에게 약을 먹여 2번 미생물을 하나 만들게 한다. 이때 드는 비용은 <em>z<sub>1,2</sub></em> = 1이다.</li>\n<li>2번 미생물에게 약을 먹여 1번 미생물을 하나 만들게 한다. 이때 드는 비용은 <em>z<sub>2,1</sub></em> = 1이다.</li>\n<li>2번 미생물에게 약을 먹여 2번 미생물을 하나 만들게 한다. 이때 드는 비용은 <em>z<sub>2,2</sub></em> = 1이다.</li>\n</ol>\n<p>이때 비용의 합은 5이며 이 방법이 최적이다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2018 서울대학교 프로그래밍 경시대회, Division 1, cki86201",
   "level": 24,
-  "tags": [
-    "graphs",
-    "directed_mst"
-  ],
+  "tags": ["graphs", "directed_mst"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 4.3684000968933105

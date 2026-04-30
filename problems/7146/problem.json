@@ -10,11 +10,7 @@
   "hint": "<ul>\n<li>Gamble1\n\t<ul>\n<li><a href=\"/data/source/Gamble1.c\">C</a></li>\n<li><a href=\"/data/source/Gamble1.cpp\">C++</a></li>\n</ul>\n</li>\n<li>RecursiveBacktracking\n\t<ul>\n<li><a href=\"/data/source/RecursiveBacktracking.c\">C</a></li>\n<li><a href=\"/data/source/RecursiveBacktracking.cpp\">C++</a></li>\n</ul>\n</li>\n</ul>",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2013, baekjoon, doju, jame0313",
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["ad_hoc", "constructive", "backtracking"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 2.6047000885009766

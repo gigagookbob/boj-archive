@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2022 송년대회, mathking1021, donghwa722, ftkbrian, qwerasdfzxcl, songc",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "cht"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "cht"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 6.911799907684326

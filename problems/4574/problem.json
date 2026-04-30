@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2011 Mid-Central Regional Programming Contest, baekjoon, kipa00",
   "level": 15,
-  "tags": [
-    "implementation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "backtracking"],
   "accepted_user_count": 977,
   "submission_count": null,
   "average_tries": 2.1607000827789307

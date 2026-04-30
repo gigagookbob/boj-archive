@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 입력에서, 조건을 만족하는 배치는 시작 레벨이 1레벨이고, 1레벨을 클리어한 후 2,3레벨 중 하나를 골라 진행할 수 있는 배치 하나 밖에 없다. 두 번째 입력에서 조건을 만족하게 배치할 수 있는 방법은 존재하지 않는다.</p>",
   "source": "Contest, BOJ User Contest, 소프트콘, 제1회 소프트콘, jwvg0425",
   "level": 17,
-  "tags": [
-    "combinatorics",
-    "math",
-    "sorting"
-  ],
+  "tags": ["combinatorics", "math", "sorting"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.9107000827789307

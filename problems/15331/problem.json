@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ACM-ICPC Asia Tsukuba Regional Contest 2017",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.9571000337600708

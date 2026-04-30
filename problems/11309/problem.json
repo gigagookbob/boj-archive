@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 27 September, 2015, pty115",
   "level": 16,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.3889000415802

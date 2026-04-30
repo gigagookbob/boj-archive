@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2004 South Central USA Regional Programming Contest",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "bitmask",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "bitmask", "case_work"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.5

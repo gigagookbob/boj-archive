@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2003 Mid-Atlantic Regional Programming Contest, baekjoon, rootcucu",
   "level": 9,
-  "tags": [
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["geometry", "pythagoras"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 7.585400104522705

@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:438px; width:449px\"/></p>\n<p>The thick solid line shows the optimal journey of the plane with flight range 4, whereas the dashed line the optimal journey of the plane with flight range 3.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 3, khsoo01",
   "level": 21,
-  "tags": [
-    "graphs",
-    "greedy",
-    "two_pointer",
-    "functional_graph"
-  ],
+  "tags": ["graphs", "greedy", "two_pointer", "functional_graph"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 5.815800189971924

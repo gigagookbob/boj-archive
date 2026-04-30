@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2007",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "geometry",
-    "calculus"
-  ],
+  "tags": ["math", "dp", "geometry", "calculus"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

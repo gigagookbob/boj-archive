@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2010",
   "level": 12,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 3.212100028991699

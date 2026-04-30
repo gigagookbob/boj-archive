@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2018: Protest Contest",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.7072999477386475

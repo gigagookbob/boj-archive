@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2019",
   "level": 9,
-  "tags": [
-    "bfs",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["bfs", "dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.1738998889923096

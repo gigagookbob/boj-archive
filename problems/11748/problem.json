@@ -31,10 +31,7 @@
   "hint": "<p>The following figures correspond to the Sample 1, 2, and 3.</p>\n<table class=\"table\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:137px; width:255px\"/></td>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height:151px; width:203px\"/></td>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"height:138px; width:255px\"/></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">Figure B.2. Sample 1</td>\n<td style=\"text-align: center;\">Figure B.3. Sample 2</td>\n<td style=\"text-align: center;\">Figure B.4. Sample 3</td>\n</tr>\n</tbody>\n</table>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2015 in Tsukuba, ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2024 ICPC Asia Pacific Championship 연습 세션",
   "level": 13,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 1.5157999992370605

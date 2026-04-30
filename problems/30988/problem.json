@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 미적확통컵, 2023 제2회 미적확통컵, bubbler, Coxie, haru_101, kiwiyou, mujigae, sorohue, utilforever, ychangseok",
   "level": 19,
-  "tags": [
-    "math",
-    "implementation",
-    "backtracking"
-  ],
+  "tags": ["math", "implementation", "backtracking"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.75

@@ -23,13 +23,7 @@
   "hint": "<p>Consider the first scenario of the first example:</p>\n<ul>\n<li>In the beginning, the hacker can attack the grading server, reducing $c_G$ by $42 - 1 \\cdot 17 = 25$ to a new value of $8$.</li>\n<li>Afterwards, the chairman cannot reduce the hacker’s computing power by attacking, so the only sensible thing for him to do is to take down the hacker’s unique firewall.</li>\n<li>However, the hacker can then reduce the computing power of the grading server to $8 - 25 = -17 ≤ 0$ by another attack, bringing down the server and ruining the first competition day.</li>\n</ul>\n<p>In the second scenario on the other hand:</p>\n<ul>\n<li>Initially, the only thing the hacker can do is to take down one of the firewalls.</li>\n<li>Afterwards, the chairman can attack the hacker, reducing their computing power $c_H$ to $26$.</li>\n<li>In the next two rounds, the hacker again can only take down one of the firewalls, while the chairman can attack each time, thus reducing $c_H$ below $0$ and successfully fighting off the hacker’s attempt.</li>\n</ul>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2023, Day 1",
   "level": 29,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "dp",
-    "game_theory",
-    "math"
-  ],
+  "tags": ["ad_hoc", "binary_search", "dp", "game_theory", "math"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 11.199999809265137

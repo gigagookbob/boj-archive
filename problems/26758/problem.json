@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2021, Stage 1",
   "level": 13,
-  "tags": [
-    "case_work",
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "parsing", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 6.199999809265137

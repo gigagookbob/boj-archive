@@ -27,13 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2026",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "cht",
-    "li_chao_tree"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "cht", "li_chao_tree"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

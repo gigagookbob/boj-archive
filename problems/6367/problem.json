@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2001 Greater New York Programming Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 1.128600001335144

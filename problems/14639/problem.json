@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2017",
   "level": 24,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "implementation", "ad_hoc", "constructive"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.2105000019073486

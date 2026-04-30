@@ -15,11 +15,7 @@
   "hint": "<p>1번 징검다리에 1이 쓰여 있으므로, 1의 배수인 4만큼을 한 번에 뛰어 5번 징검다리로 갈 수 있다.</p>",
   "source": "author8, flflds0811, Apple_Cplus, doju",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 2196,
   "submission_count": null,
   "average_tries": 3.5555999279022217

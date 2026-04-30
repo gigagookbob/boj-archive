@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере, изначально лестница выглядит так:</p>\n<pre>\n1\n2 2\n1 3 3</pre>\n<p>После смены порядка уровней:</p>\n<pre>\n1 3 3\n2 2\n1</pre>\n<p>После действия гравитации:</p>\n<pre>\n1\n2 3\n1 2 3</pre>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, November 27, 2021, Advanced",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.2857000827789307

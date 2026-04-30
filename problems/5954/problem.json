@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO January 2011 Contest, Silver",
   "level": 13,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 4.281700134277344

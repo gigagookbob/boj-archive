@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2012, baekjoon",
   "level": 13,
-  "tags": [
-    "constructive",
-    "greedy"
-  ],
+  "tags": ["constructive", "greedy"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 3.8922998905181885

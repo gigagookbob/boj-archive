@@ -15,11 +15,7 @@
   "hint": "<p>In this example, the cow in pasture 3 should stop for a meal, since her route would only increase by 6 (from 2 to 8), and this increase is at most the yumminess 7 of the haybale. The cow in pasture 2 should obviously eat the hay in pasture 2, since this causes no change in her optimal route. The cow in pasture 1 is an interesting case, as it may first appear that her optimal route (length 10) would increase too much to justify stopping for the hay. However, she actually does have a route that makes stopping at the hay beneficial: move to pasture 4, then to pasture 2 (eating the hay), then back to pasture 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Gold",
   "level": 16,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 184,
   "submission_count": null,
   "average_tries": 2.271699905395508

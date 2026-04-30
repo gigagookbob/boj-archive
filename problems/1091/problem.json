@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, ntopia, galaxy, kyo20111",
   "level": 12,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1633,
   "submission_count": null,
   "average_tries": 1.8904000520706177

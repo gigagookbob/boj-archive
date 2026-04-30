@@ -15,12 +15,7 @@
   "hint": null,
   "source": "author6, august14",
   "level": 18,
-  "tags": [
-    "math",
-    "constructive",
-    "parity",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["math", "constructive", "parity", "permutation_cycle_decomposition"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.891900062561035

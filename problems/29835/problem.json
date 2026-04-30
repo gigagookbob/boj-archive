@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2022-23, Final Round 연습 세션",
   "level": 4,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 1.75

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2023, Beginner",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 1.4774999618530273

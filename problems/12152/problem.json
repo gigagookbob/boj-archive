@@ -15,9 +15,7 @@
   "hint": "<p>Note that Cases #3 and #4 are not within the limits for the Small dataset.<br/>\n<br/>\nIn Case #1, it is already possible to make all the required values (1, 2, and 3) using at most one copy of each of the existing denominations.<br/>\n<br/>\nIn Case #2, it suffices to add a denomination of either 3 or 4 -- whichever you choose, only one new denomination is required.<br/>\n<br/>\nIn Case #3, the optimal solution is to add a denomination of 1.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 1C",
   "level": 13,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.642899990081787

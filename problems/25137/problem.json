@@ -35,13 +35,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2014, Junior Croatian Olympiad in Informatics 2014",
   "level": 9,
-  "tags": [
-    "euclidean",
-    "implementation",
-    "math",
-    "number_theory",
-    "string"
-  ],
+  "tags": ["euclidean", "implementation", "math", "number_theory", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.583299994468689

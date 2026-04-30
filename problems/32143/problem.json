@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2024 반년대회, gs22123, carinae, denniskim, dkim110807, ehlee0815, flappybird, gs22059, ibm2006, iccodly, jk410, junwoojune, kdh9949, lisifu, lky7674, mjhmjh1104, puppy",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 252,
   "submission_count": null,
   "average_tries": 3.1349000930786133

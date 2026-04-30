@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 cows in the barn, with temperature ranges 5..8, 3..4, 13..20, and 7..10.  A cold cow produces 7 units of milk, a comfortable cow produces 9 units of milk, and a hot cow produces 6 units of milk.</p><h4>Output Details</h4><p>If Goldilocks sets the thermostat to either 7 or 8, then she will make cows #1 and #4 happy, with cow #2 being too hot and cow #3 being too cold.  This yields 31 units of total milk.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO November 2013 Contest, Bronze",
   "level": 10,
-  "tags": [
-    "coordinate_compression",
-    "prefix_sum",
-    "sorting"
-  ],
+  "tags": ["coordinate_compression", "prefix_sum", "sorting"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 2.3273000717163086

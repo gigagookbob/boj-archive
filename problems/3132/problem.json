@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, National Competition #2 - Seniors, baekjoon",
   "level": 13,
-  "tags": [
-    "graphs",
-    "sorting",
-    "ad_hoc",
-    "trees"
-  ],
+  "tags": ["graphs", "sorting", "ad_hoc", "trees"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.930999994277954

@@ -15,10 +15,7 @@
   "hint": "<p>어떤 배열의 Subsequence는 주어진 배열에서 0개 이상의 원소를 제거하여 만들어진 배열을 의미한다. <strong>단, 이 문제에서 빈 배열은 Subsequence가 아니다.</strong></p>\n<p>어떤 배열의 Subarray는 주어진 배열의 연속된 부분을 의미한다. <strong>단, 이 문제에서 빈 배열은 Subarray가 아니다.</strong></p>\n<p>어떤 배열의 mex는 배열에서 나타나지 않는 0 이상의 가장 작은 정수이다. 추가적인 설명은 <a href=\"https://en.wikipedia.org/wiki/Mex_(mathematics)\">https://en.wikipedia.org/wiki/Mex_(mathematics)</a> 를 참조하면 된다. </p>",
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 3, stonejjun03, ahgus89, azberjibiou, benedict0724, gs18115, jhnah917, whqkrkt04",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "case_work"],
   "accepted_user_count": 179,
   "submission_count": null,
   "average_tries": 3.446899890899658

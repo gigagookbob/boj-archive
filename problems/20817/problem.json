@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2020, Online Qualification",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.8372000455856323

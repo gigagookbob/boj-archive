@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2024 ICPC Pacific Northwest Regional, Division 2",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 491,
   "submission_count": null,
   "average_tries": 1.3788000345230103

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2011, baekjoon, jh05013, kdk8361",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "stack"],
   "accepted_user_count": 1977,
   "submission_count": null,
   "average_tries": 6.308499813079834

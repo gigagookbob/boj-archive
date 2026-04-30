@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2016 Local Programming Contest",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "string"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.3636000156402588

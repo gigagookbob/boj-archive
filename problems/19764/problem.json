@@ -15,9 +15,7 @@
   "hint": "<p>Напомним число дней в каждом месяце. Поскольку Ваня мог родиться и в високосном году, будем считать, что в феврале 29 дней.</p>\n<table class=\"table table-bordered\" style=\"width:100%;\">\n<tbody>\n<tr>\n<td>Номер месяца</td>\n<td>1</td>\n<td>2</td>\n<td>3</td>\n<td>4</td>\n<td>5</td>\n<td>6</td>\n<td>7</td>\n<td>8</td>\n<td>9</td>\n<td>10</td>\n<td>11</td>\n<td>12</td>\n</tr>\n<tr>\n<td>Число дней</td>\n<td>31</td>\n<td>29</td>\n<td>31</td>\n<td>30</td>\n<td>31</td>\n<td>30</td>\n<td>31</td>\n<td>31</td>\n<td>30</td>\n<td>31</td>\n<td>30</td>\n<td>31</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2015",
   "level": 14,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

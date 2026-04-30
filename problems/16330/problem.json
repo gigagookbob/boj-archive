@@ -15,12 +15,7 @@
   "hint": "<p>The picture illustrates for the above example the area on which the third fisherman can catch fish.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 449px; height: 307px;\"/></p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2018",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["data_structures", "sorting", "binary_search", "prefix_sum"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.4193999767303467

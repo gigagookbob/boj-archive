@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2003",
   "level": 10,
-  "tags": [
-    "recursion"
-  ],
+  "tags": ["recursion"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.916700005531311

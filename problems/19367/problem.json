@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 2: Xiaoxu Guo Contest",
   "level": 28,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "dp", "segtree"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 7.125

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 1",
   "level": 19,
-  "tags": [
-    "string",
-    "hashing",
-    "harmonic_number",
-    "rabin_karp"
-  ],
+  "tags": ["string", "hashing", "harmonic_number", "rabin_karp"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 4.38100004196167

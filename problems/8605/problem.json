@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p><b>Wyjaśnienie do przykładu:</b> Suma wag cegiełek na lewej szalce jest równa 8, a na prawej 9. Aby zrównoważyć szalki, Bajtek może zdjąć po jednej cegiełce z drugiej wieży na lewej szalce i z pierwszej wieży na prawej szalce; wówczas obciążenie szalek wyniesie $3 + 4 + (-1) = 6 = 7 + (-2) + 1$.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2010, Stage 3",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.75

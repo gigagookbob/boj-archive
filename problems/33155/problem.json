@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2024, Contest, University, 경인지역 대학 연합, shake! 2024, Open Contest, overnap, akim9905, bnb2011, Coxie, hamuim, ibm2006, jk410, lky7674, pani, rustiebeats, shjohw12, swoon, tlsdydaud1, utilforever",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.736799955368042

@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2008, baekjoon, kks227",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "string",
-    "ad_hoc",
-    "set",
-    "parsing"
-  ],
+  "tags": ["data_structures", "string", "ad_hoc", "set", "parsing"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 2.4038000106811523

@@ -35,10 +35,7 @@
   "hint": "<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"1.png\" width=\"560\"></iframe></p>",
   "source": "baekjoon, djm03178, jenny00513, jh05013, wdh2100, drwolf1999, jh05013",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 15133,
   "submission_count": null,
   "average_tries": 2.2964999675750732

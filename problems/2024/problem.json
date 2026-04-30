@@ -19,11 +19,7 @@
   "hint": null,
   "source": "yukariko, alperatz",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 406,
   "submission_count": null,
   "average_tries": 4.017199993133545

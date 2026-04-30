@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2019 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Pacific Northwest Regional, 2019 ICPC Pacific Northwest Region, Division 2",
   "level": 3,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 1479,
   "submission_count": null,
   "average_tries": 1.292799949645996

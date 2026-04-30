@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2014 Greater New York Programming Contest, portableangel, leehosu01",
   "level": 13,
-  "tags": [
-    "math",
-    "trees"
-  ],
+  "tags": ["math", "trees"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 1.9808000326156616

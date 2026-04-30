@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BOJ Bundle, BOJ Bundle in Math. Vol 1, kiwiyou, bubbler, jh05013, sorohue, utilforever, wider93",
   "level": 13,
-  "tags": [
-    "implementation",
-    "sorting",
-    "geometry",
-    "angle_sorting"
-  ],
+  "tags": ["implementation", "sorting", "geometry", "angle_sorting"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 4.444399833679199

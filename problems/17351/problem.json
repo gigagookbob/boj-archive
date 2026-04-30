@@ -31,11 +31,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회, wookje",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "grid_graph"
-  ],
+  "tags": ["dp", "graphs", "grid_graph"],
   "accepted_user_count": 219,
   "submission_count": null,
   "average_tries": 2.9772000312805176

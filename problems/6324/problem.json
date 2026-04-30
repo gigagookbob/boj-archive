@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1997 연습 세션, bupjae",
   "level": 10,
-  "tags": [
-    "string",
-    "case_work",
-    "parsing"
-  ],
+  "tags": ["string", "case_work", "parsing"],
   "accepted_user_count": 404,
   "submission_count": null,
   "average_tries": 3.621299982070923

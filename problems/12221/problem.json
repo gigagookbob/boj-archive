@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, World Finals",
   "level": 22,
-  "tags": [
-    "math",
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "greedy", "graph_traversal", "dfs"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.3478000164031982

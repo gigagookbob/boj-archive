@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 8: Jingzhe Tang Contest 2, XIX Open Cup Onsite, koosaga",
   "level": 27,
-  "tags": [
-    "dp",
-    "string",
-    "traceback",
-    "bitset",
-    "lcs",
-    "bitset_lcs"
-  ],
+  "tags": ["dp", "string", "traceback", "bitset", "lcs", "bitset_lcs"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 7.027500152587891

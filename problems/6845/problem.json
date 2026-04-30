@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2007, CCC 2007 Senior Division",
   "level": 3,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 351,
   "submission_count": null,
   "average_tries": 1.2308000326156616

@@ -15,10 +15,7 @@
   "hint": "<p>W przykładzie żądane są wszystkie rodzaje statystyk w następującej kolejności:</p>\n<ul>\n<li>(2.) liczby, które są dwie (<code>5</code> oraz <code>45</code>);</li>\n<li>(4.) zdania, które są dwa;</li>\n<li>(1.) spacje, które są trzy;</li>\n<li>(3.) słowa - jest ich cztery (<code>domEK</code>, <code>K</code>, <code>k</code> oraz <code>aLA</code>);</li>\n<li>(5.) palindromy - są trzy (<code>K</code>, <code>k</code> oraz <code>aLA</code>).</li>\n</ul>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2009, Stage 1",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.5

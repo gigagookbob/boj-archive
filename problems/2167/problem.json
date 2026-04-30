@@ -15,10 +15,7 @@
   "hint": null,
   "source": "tncks0121, iriszero",
   "level": 6,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 18066,
   "submission_count": null,
   "average_tries": 1.7014000415802002

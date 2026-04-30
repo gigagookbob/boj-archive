@@ -15,9 +15,7 @@
   "hint": "<p>Пояснение: В примера входните данни, маркирани в сиво, отразяват калъфчетата, в които моливът няма да се вижда, ако бъде поставен в тях.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2017, Group D",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.0625

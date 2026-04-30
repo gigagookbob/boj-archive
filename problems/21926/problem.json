@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2020 Asia Yokohama Regional",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.2976000308990479

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2017 SCCC Summer Contest, skdudn321, cdg0228, isbidip, kokk012, l1ardanc3",
   "level": 12,
-  "tags": [
-    "implementation",
-    "graphs",
-    "dag"
-  ],
+  "tags": ["implementation", "graphs", "dag"],
   "accepted_user_count": 756,
   "submission_count": null,
   "average_tries": 3.1005001068115234

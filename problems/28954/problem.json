@@ -15,11 +15,7 @@
   "hint": "<p>В тестовом примере оптимальный способ уронить фигуру показан на рисунке в условии.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 23, 2016",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

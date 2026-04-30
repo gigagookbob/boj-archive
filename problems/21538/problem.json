@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере экономически целесообразно использовать робота для выполнения следующих последовательностей операций:</p>\n<ul>\n<li>со 2-й по 4-ю: &lt;&lt;aba&gt;&gt;, при этом в памяти робота содержатся операции &lt;&lt;ab&gt;&gt;;</li>\n<li>с 4-й по 6-ю: &lt;&lt;aca&gt;&gt;, в памяти робота &lt;&lt;ac&gt;&gt;;</li>\n<li>с 6-й по 8-ю: &lt;&lt;aba&gt;&gt;, в памяти робота &lt;&lt;ab&gt;&gt;;</li>\n<li>с 6-й по 9-ю: &lt;&lt;abab&gt;&gt;, в памяти робота &lt;&lt;ab&gt;&gt;;</li>\n<li>с 7-й по 9-ю: &lt;&lt;bab&gt;&gt;, в памяти робота &lt;&lt;ba&gt;&gt;.</li>\n</ul>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2013",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

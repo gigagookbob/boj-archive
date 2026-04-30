@@ -15,11 +15,7 @@
   "hint": "<p>For $N = 4$, the valid configurations are $(1,1,1,1)$, $(2,2,2,2)$, $(3,3,3,3)$, $(4,4,4,4)$, $(2,3,2,3)$, and $(3,2,3,2)$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 February Contest, Platinum",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["combinatorics", "math", "number_theory"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.7778000831604004

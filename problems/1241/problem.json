@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "harmonic_number"],
   "accepted_user_count": 843,
   "submission_count": null,
   "average_tries": 2.8921000957489014

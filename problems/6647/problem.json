@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2008",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "prefix_sum",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "prefix_sum", "segtree"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.6110999584197998

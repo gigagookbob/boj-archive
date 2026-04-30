@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:94px; width:124px\"/></p>\n<p style=\"text-align:center\">Example 1</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:107px; width:51px\"/></p>\n<p style=\"text-align:center\">Example 2</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2015",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "geometry", "case_work"],
   "accepted_user_count": 761,
   "submission_count": null,
   "average_tries": 2.107800006866455

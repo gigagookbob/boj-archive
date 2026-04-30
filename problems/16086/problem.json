@@ -19,11 +19,7 @@
   "hint": "<p>Эхний жишээн дээр дайчид дараах байдлаар тулна:</p>\n<pre>\nӨтнүүд    1    6    4    2    3    5\nХүмүүс    1    2    3    4    5    6</pre>\n<p>1 дугаартай өт тулаанд ялах тул хүмүүс дайнд ялж чадахгүй. Эхний байр солилтын дараа тулаан дараах байдалтай болно:</p>\n<pre>\nӨтнүүд    1    6    4    2    3    5\nХүмүүс    6    1    2    3    4    5</pre>\n<p>Энд 5 – р өт тулаанд ялах тул дахиж байр солилт хийх хэрэгтэй. Хоёр дах байр солилтын дараа дараах байдалтай болно:</p>\n<pre>\nӨтнүүд    1    6    4    2    3    5\nХүмүүс    5    6    1    2    3    4</pre>\n<p>Энд 2, 3, 6 – р өтнүүд ялна. Иймд дахин нэг байр солилт хийх ба үүний үр дүнд хүмүүс дайнд ялах болно.</p>\n<pre>\nӨтнүүд    1    6    4    2    3    5\nХүмүүс    4    5    6    1    2    3</pre>",
   "source": "ICPC, Regionals, Asia East Continent, Mongolia, Mongolia National Programming Contest, Mongolia National Programming Contest 2018",
   "level": 7,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.476199984550476

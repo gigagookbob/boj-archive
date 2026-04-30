@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2009 Greater New York Programming Contest, arine, baekjoon, chansol, jh05013",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.6340999603271484

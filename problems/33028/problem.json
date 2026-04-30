@@ -15,12 +15,7 @@
   "hint": "<p>A dump in the sample output contains a 0-comparator. It consists of the following blocks:</p>\n<ul>\n<li>16 instructions: the $i$-th of them, counting from 0, copies the $i$-th bit of the input word to the 6-th bit of its own $c$. If the copied bit is zero, it will proceed to the next instruction; otherwise, the next instruction number will be increased by 64.</li>\n<li>The following instruction copies the 4-th bit of the 0-th word (value 1) to the 0-th bit of the IO-word and jumps to the stop address.</li>\n<li>16 unused words filled with 0.</li>\n<li>16 equal instructions (starting from word 67). Each of them copies the 0-th bit of the 0-th word (value 0) to the 0-th bit of the IO-word and jumps to the stop address.</li>\n</ul>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2024",
   "level": 18,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5556000471115112

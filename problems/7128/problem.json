@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, Preliminary Round, Advanced",
   "level": 13,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["exponentiation_by_squaring", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.857100009918213

@@ -27,10 +27,7 @@
   "hint": "<p>예제 1의 경우에 만들 수 있는 단어는 다음과 같다.</p>\n<pre>\nz\nzz\nzz z\nz zz\nz z</pre>",
   "source": "baekjoon, jh05013",
   "level": 22,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.9696999788284302

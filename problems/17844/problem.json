@@ -27,13 +27,7 @@
   "hint": null,
   "source": "University, UNIST, 제 1회 UNIST 알고리즘 프로그래밍 경시대회 Uni-CODE, intrep1d, chogahui05",
   "level": 19,
-  "tags": [
-    "string",
-    "binary_search",
-    "hashing",
-    "suffix_array",
-    "rabin_karp"
-  ],
+  "tags": ["string", "binary_search", "hashing", "suffix_array", "rabin_karp"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 4.592299938201904

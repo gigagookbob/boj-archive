@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, the ball trajectories look as shown:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 239px; height: 203px;\"/></p>\n<p>In the second example, starting positions 1 and 3 coincide, and for the position 2 the ball will never stop:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 163px; height: 169px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Regional Contest",
   "level": 25,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4.125

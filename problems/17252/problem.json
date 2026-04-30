@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2019 전북대학교 프로그래밍 경진대회, joonas",
   "level": 7,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 755,
   "submission_count": null,
   "average_tries": 2.519200086593628

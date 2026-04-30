@@ -15,11 +15,7 @@
   "hint": "<p>W powyższym przykładzie Bajtek potrafi przeprowadzić następujące reakcje:</p>\n<ol>\n<li>$1 + 2 \\rarr 3 + 4$</li>\n<li>$4 + 1 \\rarr 3$</li>\n<li>$2 + 3 \\rarr 2 + 1 + 5$</li>\n<li>$5 + 6 \\rarr 1 + 8 + 2$</li>\n</ol>\n<p>Na początku posiada on związki $1$ i $2$, przy użyciu pierwszej reakcji może otrzymać związki $3$ oraz $4$, a następnie, przeprowadzając trzecią reakcję, może wyprodukować związek $5$. Natomiast związków $6$, $7$ ani $8$ nie jest on w stanie otrzymać.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2008, Stage 1",
   "level": 14,
-  "tags": [
-    "dag",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "topological_sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

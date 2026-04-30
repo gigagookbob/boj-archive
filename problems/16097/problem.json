@@ -15,11 +15,7 @@
   "hint": "<p>In the left diagram of Figure 3, there are four couples of groundhogs: the burrows of the members of each couple are labeled A, B, C, and D. The diagram illustrates a network of tunnels of depth 5, where excavated cells are hatched: in fact, 5 is the lowest possible maximum depth for a suitable tunnel network in this example.</p>\n<p>Of course, it can be the case that no suitable tunnel network exists at all! For instance, in the right diagram of Figure 3, there are two groundhog couples A and B. It is not possible to connect the couple members with tunnels that do not intersect, so the poor groundhogs will remain grumpy all winter!</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 564px; height: 155px;\"/></p>\n<p style=\"text-align: center;\">Figure 3: Illustration of the first two inputs from the Sample Input</p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, Télécom ParisTech Internal Selection, Concours interne de programmation Télécom ParisTech 2017",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "stack"
-  ],
+  "tags": ["data_structures", "sorting", "stack"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1

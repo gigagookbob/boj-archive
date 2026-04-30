@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2022 부산대학교 CodeRace, tykr0001, chansol, jh05013, lky7674, tony9402",
   "level": 17,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["dp", "prefix_sum", "game_theory"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.61899995803833

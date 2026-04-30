@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2024, Practice",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "disjoint_set", "offline_queries"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

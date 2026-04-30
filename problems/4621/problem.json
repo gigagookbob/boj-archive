@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2005 Mid-Central Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "linked_list",
-    "simulation"
-  ],
+  "tags": ["data_structures", "implementation", "linked_list", "simulation"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.9544999599456787

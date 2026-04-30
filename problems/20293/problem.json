@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Champion, University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Open, mic1021, gumgood, jhnah917, pichulia, QuqqU, raararaara, rhs0266, shiftpsh, sogangcse, woonikim",
   "level": 14,
-  "tags": [
-    "dp",
-    "binary_search"
-  ],
+  "tags": ["dp", "binary_search"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 3.125699996948242

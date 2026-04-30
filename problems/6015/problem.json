@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO January 2010 Contest, Gold",
   "level": 14,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.6897000074386597

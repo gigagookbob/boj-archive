@@ -23,11 +23,7 @@
   "hint": "<p>In the first sample Vasya has to:</p>\n<ul>\n<li>First minute: turn the first hourglass over (first hourglass appears after 1 minute)</li>\n<li>Second minute: turn the second hourglass over (second hourglass appears after 2 minutes)</li>\n<li>Third minute: turn the first hourglass over again (2 minutes passed, so you have to turn it over again)</li>\n<li>Fourth minute: nothing to do (first hourglass still has 1 more minute, second one --- 2 more minutes)</li>\n<li>Fifth minute: turn the first hourglass over (2 minutes passed, turn it over again)</li>\n</ul>\n<p>In the second sample Vasya has to:</p>\n<ul>\n<li>First minute: turn the second hourglass over (second hourglass appears after 1 minute)</li>\n<li>Second minute: turn the first hourglass over (first hourglass appears after 2 minutes)</li>\n<li>Third minute: turn the third hourglass over (third hourglass appears after 3 minutes)</li>\n<li>Fourth minute: turn the first and the second hourglasses over</li>\n<li>Fifth minute: turn the fourth hourglass over (forth hourglass appears after 5 minutes)</li>\n<li>Sixth minute: turn the first hourglass over</li>\n<li>Seventh minute: turn the second and the third hourglasses over</li>\n<li>Eighth minute: turn the first hourglass over</li>\n</ul>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Elimination round, 2016-2017",
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "sqrt_decomposition"
-  ],
+  "tags": ["dp", "prefix_sum", "sqrt_decomposition"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.916700005531311

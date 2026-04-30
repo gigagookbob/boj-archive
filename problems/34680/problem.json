@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2025, yclock",
   "level": 26,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive",
-    "bipartite_matching",
-    "hall"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive", "bipartite_matching", "hall"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.8333001136779785

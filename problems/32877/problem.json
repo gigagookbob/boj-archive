@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #2",
   "level": 20,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "bitmask"
-  ],
+  "tags": ["math", "prefix_sum", "bitmask"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4

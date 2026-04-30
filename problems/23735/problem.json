@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, UNIST, 3rd UNIST Algorithm Programming Contest Uni-CODE 2021, chunghan, queued_q, checkcheck, cs71107, jh05013, koosaga, leejseo",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "stack"
-  ],
+  "tags": ["data_structures", "geometry", "stack"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.722899913787842

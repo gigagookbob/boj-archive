@@ -15,11 +15,7 @@
   "hint": "<p>For the first case, the number 11 can be formed which has 2 digits.</p>\n<p>For the second case, number 209 can be formed which is divisible by 11 and has 3 digits.</p>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2010 ACM-ICPC Asia Amritapuri Regional Contest",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory"
-  ],
+  "tags": ["math", "dp", "number_theory"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 3

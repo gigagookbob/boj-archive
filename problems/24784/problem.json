@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", School, Virginia Tech High School Programming Contest, 2016 Virginia Tech High School Programming Contest",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "simulation"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7741999626159668

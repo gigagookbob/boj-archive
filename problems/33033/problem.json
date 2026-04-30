@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2024",
   "level": 20,
-  "tags": [
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["implementation", "geometry"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.3077000379562378

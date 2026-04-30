@@ -31,12 +31,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2023, Division 2",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "string",
-    "hash_set",
-    "parsing"
-  ],
+  "tags": ["data_structures", "string", "hash_set", "parsing"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.2400000095367432

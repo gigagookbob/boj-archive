@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере, два раза поменявшись местами с одним из своих соседей, Маша могла оказаться либо на исходном месте, либо на одном из двух мест, находящихся через одно от исходного.</p>\n<p>Во втором примере Маша могла оказаться на любом месте.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 23, 2016",
   "level": 7,
-  "tags": [
-    "math",
-    "case_work"
-  ],
+  "tags": ["math", "case_work"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.1578999757766724

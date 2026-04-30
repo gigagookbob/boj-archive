@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2006, Regional Competition - Juniors, ckdgus2482",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.6768999099731445

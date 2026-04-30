@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2016",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 1.6562999486923218

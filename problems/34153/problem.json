@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Div.1, School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Open Contest, lighton, dkim110807, iccodly, jthis, minchan_bae, mj1000j",
   "level": 15,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "ad_hoc", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.9230999946594238

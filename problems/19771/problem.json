@@ -15,9 +15,7 @@
   "hint": "<p>На рисунке приведено одно из возможных размещений пассажиров в примере. Заштрихованные клетки соответствуют занятым местам.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 345px; height: 62px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2015",
   "level": 3,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 1.632699966430664

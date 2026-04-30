@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2017 KAIST RUN Spring Contest (HYEA Cup), ho94949, jh05013",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 357,
   "submission_count": null,
   "average_tries": 3.574199914932251

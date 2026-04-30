@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Contest, JAG Winter Contest 2012",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.4348000288009644

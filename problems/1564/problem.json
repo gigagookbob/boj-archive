@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 1937,
   "submission_count": null,
   "average_tries": 4.732100009918213

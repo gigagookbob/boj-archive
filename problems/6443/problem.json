@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1995, sehun, jh05013, hyunhong1012",
   "level": 11,
-  "tags": [
-    "string",
-    "backtracking"
-  ],
+  "tags": ["string", "backtracking"],
   "accepted_user_count": 2062,
   "submission_count": null,
   "average_tries": 2.9398999214172363

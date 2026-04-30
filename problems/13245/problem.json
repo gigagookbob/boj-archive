@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2016 AIPO National Finals",
   "level": 14,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.207800030708313

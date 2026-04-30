@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 구데기컵 2018, veydpz",
   "level": 0,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.6315999031066895

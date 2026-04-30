@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1995",
   "level": 17,
-  "tags": [
-    "case_work",
-    "geometry",
-    "implementation",
-    "math"
-  ],
+  "tags": ["case_work", "geometry", "implementation", "math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 5.3333001136779785

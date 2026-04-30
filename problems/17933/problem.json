@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, HiQ Challenge 2017",
   "level": 16,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.871000051498413

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2005/2006 모의고사 2, baekjoon, jh05013, kks227",
   "level": 10,
-  "tags": [
-    "math",
-    "combinatorics",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "combinatorics", "arbitrary_precision"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 2.1047000885009766

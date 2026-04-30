@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Xi'an, Xi'an Regional Contest 2002, jh05013",
   "level": 19,
-  "tags": [
-    "math",
-    "combinatorics",
-    "burnside"
-  ],
+  "tags": ["math", "combinatorics", "burnside"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 1.3707000017166138

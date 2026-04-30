@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2001, Contest, Algorithmic Engagements, PA 2001, author10, iteyh812",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "graph_traversal", "dag", "topological_sorting"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 4.25

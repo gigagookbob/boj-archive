@@ -15,9 +15,7 @@
   "hint": "<p>The following pseudocode defines the validity of summoning cells and the $\\textrm{Combine}$ operation.</p>\n<p><strong>Both functions do not modify their arguments</strong></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 324px; height: 116px;\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 286px; height: 344px;\"/></p>\n<p>The author has attached a C++ implementation which will get \"Time Limit Exceeded\" verdict upon submission, but it will always print the correct answer within finite time. You may reuse some part of the implementation on your submission. You can find it on the \"Problemset\" tab on the domjudge site.</p>",
   "source": "Camp, Osijek Competitive Programming Camp, Winter 2023, Day 9: Magical Story of LaLa, aeren",
   "level": 25,
-  "tags": [
-    "data_structures"
-  ],
+  "tags": ["data_structures"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 4

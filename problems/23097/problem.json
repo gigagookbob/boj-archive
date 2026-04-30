@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2020",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.0377000570297241

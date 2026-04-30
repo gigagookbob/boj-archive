@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2008 Rocky Mountain Regional Contest, baekjoon",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "implementation", "number_theory", "primality_test"],
   "accepted_user_count": 166,
   "submission_count": null,
   "average_tries": 1.8313000202178955

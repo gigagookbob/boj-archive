@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2019 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Pacific Northwest Regional, 2019 ICPC Pacific Northwest Region, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2019 ICPC Pacific Northwest Region, Division 2",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["binary_search", "sorting", "sweeping"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.1818000078201294

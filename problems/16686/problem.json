@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Advanced Div., functionx",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 3.4444000720977783

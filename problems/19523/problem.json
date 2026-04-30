@@ -31,11 +31,7 @@
   "hint": "<p>The following picture shows the two ways in Sample 1:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 100px; height: 40px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 9: Grand Prix of Japan, Contest, Open Cup, 2016/2017 Season, Stage 1: Grand Prix of Japan",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics"
-  ],
+  "tags": ["math", "number_theory", "combinatorics"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.1332999467849731

@@ -10,9 +10,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 제1회 구데기컵, veydpz",
   "level": 0,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2473,
   "submission_count": null,
   "average_tries": 3.3833000659942627

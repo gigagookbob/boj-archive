@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2009/2010 Spring Training Camp",
   "level": 9,
-  "tags": [
-    "divide_and_conquer",
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "implementation", "recursion"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.4773000478744507

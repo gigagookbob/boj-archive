@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "precomputation"
-  ],
+  "tags": ["math", "dp", "precomputation"],
   "accepted_user_count": 807,
   "submission_count": null,
   "average_tries": 2.060699939727783

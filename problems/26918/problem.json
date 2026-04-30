@@ -23,10 +23,7 @@
   "hint": "<p>I det första exemplet så vinner $A$ genom att dela brädet i två delar av storlek $1 \\times 3$. Oavsett hur $B$ sedan gör så får $A$ nästa gång välja mellan delar av storlek $1 \\times 2$ och $1 \\times 1$. Rätt strategi är att välja $1 \\times 2$ (det andra leder direkt till en förlust). $B$ tvingas sedan att välja mellan två delar av storlek $1 \\times 1$, som båda innebär förlust.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2014, KATT",
   "level": 13,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

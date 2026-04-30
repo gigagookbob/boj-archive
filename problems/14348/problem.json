@@ -15,12 +15,7 @@
   "hint": "<p>This strategy is optimal for sample case #1:<br/>\nDay 1: Request a \"Coding\" problem set (call it C1).<br/>\nDay 2: Submit C1.<br/>\nDay 3: Request a \"Jamming\" problem set (call it J1).<br/>\nDay 4: Submit J1.</p>\n<p>The following strategy is optimal for sample cases #2, #3, and #4: request C1, request J1, submit J1, submit C1.</p>\n<p>For case #2, for example, note that you could <em>not</em> request C1, request J1, and then submit C1. Only the most recently requested problem set can be submitted.</p>\n<p>In sample case #5, you can alternate between requesting a \"Coding\" problem set on one day, and submitting it on the next day.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 3",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "dp",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "dp", "greedy", "stack"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.25

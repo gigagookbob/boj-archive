@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2012 Southeast USA Regional Programming Contest, Division 2",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.5116000175476074

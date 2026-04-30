@@ -15,9 +15,7 @@
   "hint": "<p>The sequence of taken balls is 2 + 2 + 3 + 5 + 5 + 8. From the 5th, 6th, 7th and 10th boxes, nothing is taken.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2012, Group B (Juniors)",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.263200044631958

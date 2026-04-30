@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 1999, sujin, eric00513",
   "level": 7,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 691,
   "submission_count": null,
   "average_tries": 3.3631999492645264

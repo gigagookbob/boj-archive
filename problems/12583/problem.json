@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 1A",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation", "grid_graph"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.5277999639511108

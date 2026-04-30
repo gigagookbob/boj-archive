@@ -15,11 +15,7 @@
   "hint": "<h4>Output Details</h4><p>Cows from pasture 1 can hide at pastures 1, 2, and 4. Cows from pasture 2 can hide at pastures 2 and 3. Pasture 3 and 4 are as far from the barn as possible, and the cows can hide there.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO December 2012 Contest, Gold",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "trees", "smaller_to_larger"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.8604999780654907

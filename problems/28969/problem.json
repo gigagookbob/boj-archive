@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере все номера состоят из одной цифры, а следовательно соответствуют любимым реальностям Стрэнджа.</p>\n<p>Во втором примере подходящие номера --- 11, 22, 33, 44, 55, 66, 77, 88, 99, которых ровно 9 штук.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Advanced",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.4042999744415283

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2010, Day 1",
   "level": 21,
-  "tags": [
-    "bipartite_matching",
-    "implementation"
-  ],
+  "tags": ["bipartite_matching", "implementation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.75

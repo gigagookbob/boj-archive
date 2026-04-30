@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2020 Rocky Mountain Regional Contest",
   "level": 11,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["graphs", "data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.639299988746643

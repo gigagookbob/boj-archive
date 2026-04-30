@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, doju, psi0613, seico75, djm03178, jh05013",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 1142,
   "submission_count": null,
   "average_tries": 6.826600074768066

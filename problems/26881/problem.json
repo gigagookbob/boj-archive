@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Final",
   "level": 21,
-  "tags": [
-    "graphs",
-    "randomization"
-  ],
+  "tags": ["graphs", "randomization"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.2221999168395996

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2014 연습 세션, kipa00",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 472,
   "submission_count": null,
   "average_tries": 1.3029999732971191

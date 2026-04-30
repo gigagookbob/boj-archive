@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 6 June, 1998",
   "level": 8,
-  "tags": [
-    "case_work",
-    "math"
-  ],
+  "tags": ["case_work", "math"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.2857000827789307

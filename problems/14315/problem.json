@@ -15,11 +15,7 @@
   "hint": "<p>In Case 1, the only possible string is <code>(</code>. There are no balanced non-empty substrings.</p>\n<p>In Case 2, the optimal string is <code>()</code>. There is only one balanced non-empty substring: the entire string itself.</p>\n<p>In Case 3, both strings <code>()()(</code> and <code>(()()</code> give the same optimal answer.</p>\n<p>For the case <code>()()(</code>, for example, the three balanced substrings are <code>()</code> from indexes 1 to 2, <code>()</code> from indexes 3 to 4, and <code>()()</code> from indexes 1 to 4.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round B APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round B",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "combinatorics"
-  ],
+  "tags": ["math", "greedy", "combinatorics"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.2121000289916992

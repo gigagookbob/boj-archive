@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2016 전북대 프로그래밍 경진대회, yukariko, codingblock6512",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory"
-  ],
+  "tags": ["math", "dp", "number_theory"],
   "accepted_user_count": 180,
   "submission_count": null,
   "average_tries": 3.094399929046631

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, 한국정보기술진흥원, 제4회 청소년 IT경시대회, 초등부, ai4youej",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 620,
   "submission_count": null,
   "average_tries": 1.5305999517440796

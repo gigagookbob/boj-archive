@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2005",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "greedy"
-  ],
+  "tags": ["bruteforcing", "greedy"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.625

@@ -15,12 +15,7 @@
   "hint": "<pre>\n0: PUSH 5\n1: STORE\n2: LOAD\n3: LOAD\n4: PUSH -1\n5: PLUS\n6: STORE\n7: LOAD\n8: IFZERO 13\n9: LOAD\n10: TIMES\n11: PUSH 0\n12: IFZERO 3\n13: DONE</pre>\n<p>Note that the line numbers are added for illustration; they are not part of the program. After executing the first 8 instructions, the stack looks like this:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"11.png\" style=\"width: 115px; height: 109px;\"/></p>\n<p>and the register contains the integer 4. The next instruction <code>IFZERO 12</code> removes the integer 4 from the stack. Since 4 is not equal to 0, the instructions <code>LOAD</code>, <code>TIMES</code> and <code>PUSH 0</code> are executed next, resulting in the stack:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"12.png\" style=\"width: 115px; height: 106px;\"/></p>\n<p>The next instruction <code>IFZERO 3</code> removes 0 from the stack and jumps to second <code>LOAD</code> instruction (address 3), since 0 is equal to 0. Eventually, this program computes 5 × 4 × 3 × 2 × 1 and prints out the resulting integer 120.</p>\n<p>You can assume that the given program is correct; there will be no infinite loops, and the program will never attempt to remove an integer from an empty stack. You can assume that the stack does not grow bigger than 100, that the argument of <code>PUSH</code> is an integer not smaller than −10000 and not larger than 10000, and that the argument of <code>ISZERO</code> is an integer not smaller than 0 and not larger than 1000.</p>",
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2008",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "stack"],
   "accepted_user_count": 172,
   "submission_count": null,
   "average_tries": 1.1919000148773193

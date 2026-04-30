@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022, ho94949, man_of_learning, 99asdfg, bnb2011, doju, heeda0528, hyperbolic, kclee2172, lky7674, myungwoo, queued_q",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "two_pointer"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "two_pointer"],
   "accepted_user_count": 351,
   "submission_count": null,
   "average_tries": 2.755000114440918

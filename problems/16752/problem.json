@@ -23,13 +23,7 @@
   "hint": "<p>Exclusive OR (⊕) is a binary operation that is applied separately on each pair of corresponding bits of its two operands so that some bit in the result is set to 1 if and only if that bit in exactly one operand is set to 1.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #2",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "dp_tree"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "dp_tree"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2

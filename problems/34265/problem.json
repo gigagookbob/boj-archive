@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2025",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "prime_factorization",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "prime_factorization", "euler_phi"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1175999641418457

@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2016",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "physics"
-  ],
+  "tags": ["binary_search", "physics"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.625

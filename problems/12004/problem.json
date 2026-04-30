@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO US Open 2016 Contest, Silver",
   "level": 12,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["graphs", "data_structures", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 282,
   "submission_count": null,
   "average_tries": 1.496500015258789

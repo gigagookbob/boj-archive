@@ -23,11 +23,7 @@
   "hint": "<p>The first test requires just one action: add three times integer on the first card to the integer on the second card. </p>\n<p>The second test: after the first action there are integers $-27$ and $3$ on the cards, respectively, after the second action the integers are $0$ and $3$.</p>\n<p>The third test: the integers on the cards are in turn: $56$ and $15$, $26$ and $15$, $11$ and $15$, $11$ and $-7$, $4$ and $-7$, $4$ and $1$, $0$ and $1$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2021",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.75

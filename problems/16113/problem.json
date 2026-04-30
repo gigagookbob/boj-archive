@@ -15,10 +15,7 @@
   "hint": "<p>예제 시그널을 8개씩 끊어서 읽으면 다음과 같다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" height=\"120\" src=\"3.png\" width=\"192\"/><br/>\n </p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2018 서울대학교 프로그래밍 경시대회, Division 2, cozyyg",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 941,
   "submission_count": null,
   "average_tries": 3.0106000900268555

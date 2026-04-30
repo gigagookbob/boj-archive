@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2018",
   "level": 14,
-  "tags": [
-    "bipartite_graph",
-    "graphs"
-  ],
+  "tags": ["bipartite_graph", "graphs"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

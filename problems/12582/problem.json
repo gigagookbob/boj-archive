@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 1B",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.894700050354004

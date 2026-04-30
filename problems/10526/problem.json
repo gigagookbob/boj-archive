@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2014, kks227",
   "level": 20,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "bitmask",
-    "mitm",
-    "bidirectional_search"
-  ],
+  "tags": ["graphs", "bruteforcing", "bitmask", "mitm", "bidirectional_search"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 4.263800144195557

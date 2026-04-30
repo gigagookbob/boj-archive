@@ -19,12 +19,7 @@
   "hint": "<p>In the example above the judges and participant's programs messages are formatted with empty lines to show which message is a response to which one. In real interaction there are no empty lines, do not print them. But you must end each printed message with a new line character. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2020",
   "level": 18,
-  "tags": [
-    "convex_hull",
-    "game_theory",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["convex_hull", "game_theory", "geometry", "line_intersection"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 4

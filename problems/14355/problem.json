@@ -15,11 +15,7 @@
   "hint": "<p>In sample case #1, there are only two players and the tournament will consist of one round. It doesn't matter what order the two line up in; the Paper-using player will defeat the Rock-using player. You will give your boss the alphabetically ordered list <code>PR</code>, <code>RP</code>, and the first element is <code>PR</code>.</p>\n<p>In sample case #2, the only two players both play Rock, so a tie is unavoidable.</p>\n<p>In sample case #3, there are four players and the tournament will go on for two rounds. In the first round, the first player (Paper) will lose to the second player (Scissors), and the third player (Rock) will defeat the fourth player (Scissors). The second round lineup will be <code>PR</code>, and the first remaining player (Paper) will defeat the other remaining player (Rock), so the tournament will end with a winner and no ties.</p>\n<p>Here is an illustration of the tournament for sample case #3:</p>\n<p><img src=\"1.png\" style=\"height:210px; width:357px\"/></p>\n<p>Other lineups such as <code>PSSR</code> will appear on the list you give to your boss, but <code>PSRS</code> is alphabetically first.</p>\n<p>In sample case #4, the only way to organize the first round such that there are no ties is to create two matches with one Rock player and one Scissors player. But both of those matches will have a Rock winner, and when these two winners go on to face each other, there will be a tie.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 2",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.2563999891281128

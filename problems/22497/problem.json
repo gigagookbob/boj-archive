@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2011 Day 2",
   "level": 19,
-  "tags": [
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "mcmf", "graphs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

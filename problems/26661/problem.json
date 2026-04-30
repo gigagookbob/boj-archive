@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2019",
   "level": 20,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

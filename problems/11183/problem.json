@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2011",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "flood_fill"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.4146000146865845

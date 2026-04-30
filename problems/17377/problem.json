@@ -31,11 +31,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2019, bryanj",
   "level": 16,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 4.704500198364258

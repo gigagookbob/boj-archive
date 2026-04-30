@@ -15,12 +15,7 @@
   "hint": null,
   "source": "xhark, Acka, cgiosy, dotorya",
   "level": 25,
-  "tags": [
-    "implementation",
-    "geometry",
-    "sweeping",
-    "line_intersection"
-  ],
+  "tags": ["implementation", "geometry", "sweeping", "line_intersection"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 23.5

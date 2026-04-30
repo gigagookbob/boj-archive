@@ -35,13 +35,7 @@
   "hint": null,
   "source": "Olympiad, Japanese Olympiad in Informatics, JOI 2024/2025",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "hld",
-    "segtree",
-    "trees"
-  ],
+  "tags": ["data_structures", "greedy", "hld", "segtree", "trees"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.75

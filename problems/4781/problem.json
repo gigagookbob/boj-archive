@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2012 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2012 Southeast USA Regional Programming Contest, Division 2, cheetose, jinhan814",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 2560,
   "submission_count": null,
   "average_tries": 3.9983999729156494

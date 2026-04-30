@@ -19,10 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 100px; height: 82px;\"/></p>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2025",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2000000476837158

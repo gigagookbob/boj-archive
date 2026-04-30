@@ -23,11 +23,7 @@
   "hint": null,
   "source": "hibye1217, iktk, mujigae, utilforever",
   "level": 15,
-  "tags": [
-    "implementation",
-    "string",
-    "recursion"
-  ],
+  "tags": ["implementation", "string", "recursion"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

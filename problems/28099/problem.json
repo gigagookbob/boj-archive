@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2023 POSTECH Programming Contest, Contest, University, POSTECH, 2023 POSTECH Programming Contest, Open Contest, qjatn0120baek, eaststar, hyperbolic, jthis, kwoncycle, leo020630, menborong, slah007, tlsdydaud1, tony9402",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "segtree", "set", "tree_set"],
   "accepted_user_count": 229,
   "submission_count": null,
   "average_tries": 3.074199914932251

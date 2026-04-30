@@ -23,12 +23,7 @@
   "hint": "<p>Opis prvog primjera: Kalkulator je u prvom pokretanju na ekranu ispisao X, u drugom „+“ i u trećem 5. Na taj smo način dobili izraz oblika X+5. Zbroj znamenki je 5, zbroj brojeva je 5, a ako X zamijenimo s -5 dobit ćemo da je vrijednost izraza jednaka nuli.</p>\n<p>Opis drugog primjera: U ukupno 11 pozivanja kalkulator je redom ispisivao: X, „+“, 23, „-“, 5, „+“, X, „+“, 12, „+“ i X. Dobiveni izraz je oblika: X+23-5+X+12+X. Zbroj svih znamenki je 13 (2+3+5+1+2), zbroj svih brojeva K je 40 (23+5+12), a ako X zamijenimo s -10 vrijednost izraza će postati nula ((-10)+23-5+(-10)+12+(-10)).</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2018, Junior Croatian Olympiad in Informatics 2018",
   "level": 7,
-  "tags": [
-    "arithmetic",
-    "implementation",
-    "math",
-    "string"
-  ],
+  "tags": ["arithmetic", "implementation", "math", "string"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.2000000476837158

@@ -23,12 +23,7 @@
   "hint": "<p>어떤 닫힌 경로가 반시계 방향이라는 것은 경로를 따라 이동하는 동안 경로의 내부가 항상 이동 방향의 왼쪽에 위치한다는 뜻이다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 02. -겨울 운동회 편-, kiwiyou, jyheo98, lky7674, snrnsidy, utilforever",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "constructive",
-    "pick"
-  ],
+  "tags": ["ad_hoc", "geometry", "constructive", "pick"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.9706000089645386

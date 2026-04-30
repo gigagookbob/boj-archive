@@ -15,9 +15,7 @@
   "hint": "<p>In Sample Case #1, there are $5$ pancake stacks with $30, 50, 40, 20, 10$ pancakes in them. Alice can choose the first or second stack at the beginning of the game, and Bob can choose the fourth or fifth stack to begin with. One way in which they both play optimally is:</p>\n<ol>\n<li>At the beginning, Alice claims stack $2$, then Bob claims stack $4$.</li>\n<li>Alice claims stack $3$ in her second turn, then Bob claims stack $5$ in his second turn.</li>\n<li>Alice claims stack $1$ in her third turn, then the game ends because all stacks have been claimed.</li>\n</ol>\n<p>At the end of the game, Alice claimed stacks $1, 2$, and $3$ and Bob claimed stacks $4$ and $5$. The number of pancakes Alice collects is $30+50+40=120$.</p>\n<p>In Sample Case #2, one way of optimal play is:</p>\n<ol>\n<li>At the beginning, Alice claims stack $3$, then Bob claims stack $2$.</li>\n<li>Alice claims stack $4$ in her second turn, then Bob claims stack $1$ in his second turn.</li>\n<li>Alice claims stack $5$ in her third turn, then the game ends because all stacks have been claimed.</li>\n</ol>\n<p>The number of pancakes Alice collects is $80+10+10=100$.</p>\n<p>In Sample Case #3, both can claim any stack in their first turn. Since stack $1$ is more valuable than everything else combined, Alice claims it before Bob does. Then, Bob can claim stack $2$, making Alice have to skip all her subsequent turns. Alice still finishes with $90$ pancakes and Bob with just $30$.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round B",
   "level": 12,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.6922999620437622

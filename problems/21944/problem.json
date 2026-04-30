@@ -19,11 +19,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "tree_set"],
   "accepted_user_count": 852,
   "submission_count": null,
   "average_tries": 3.336899995803833

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2009, 초등부",
   "level": 13,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 1230,
   "submission_count": null,
   "average_tries": 2.3406999111175537

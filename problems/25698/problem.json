@@ -15,11 +15,7 @@
   "hint": "<p>The following picture shows the situation for the first and second test case of the sample.</p>\n<p>Point $J$ has coordinates $(2, 1)$, point $F$ has coordinates $(-1, 0)$, and point $H$ has coordinates $(2, 0)$. Among these three points, only $H$ has even $X$-coordinate and even $Y$-coordinate. The neighbours of point $A$ are $\\mathit{B C D E F G}$.</p>\n<p>In the first test case, the points that satisfy the conditions are $\\mathit{N G B I J P F C K M L E D S T}$.</p>\n<p>The size of the maximum independent set is $7$, and there are $4$ ways: $\\mathit{P N L B D J T}$, $\\mathit{R M F B D J T}$, $\\mathit{R M G E C J T}$, $\\mathit{R M G E I S K}$.</p>\n<p>In the second test case, the points that satisfy the conditions are $\\mathit{G B I F C L E D}$.</p>\n<p>The size of the maximum independent set is $4$, and there is one way: $\\mathit{L G I D}$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 445px; height: 369px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 5: ZJU Contest 2",
   "level": 26,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "lgv"
-  ],
+  "tags": ["math", "linear_algebra", "lgv"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2006, 초등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2006, 중등부, doju",
   "level": 12,
-  "tags": [
-    "implementation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "backtracking"],
   "accepted_user_count": 24131,
   "submission_count": null,
   "average_tries": 3.5673000812530518

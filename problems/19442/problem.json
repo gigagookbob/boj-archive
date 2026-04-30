@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 1: Zheijang U Contest 2",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "string",
-    "parity"
-  ],
+  "tags": ["math", "greedy", "string", "parity"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.6922999620437622

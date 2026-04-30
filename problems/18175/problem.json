@@ -23,9 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 626px; height: 372px;\"/></p>\n<p style=\"text-align: center;\">Figure 1: Possible solution of Sample Input 1 (left), Sample Input 2 (top right) and Sample Input 3 (bottom right)</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2019",
   "level": 18,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.636399984359741

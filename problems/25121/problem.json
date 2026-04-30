@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2022 KAIST RUN Spring Contest, moonrabbit2, ho94949, sjimed",
   "level": 25,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

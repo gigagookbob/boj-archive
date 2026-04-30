@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 13 October, 2012",
   "level": 12,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.4749999046325684

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2012, Stage 2",
   "level": 11,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "set"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3042999505996704

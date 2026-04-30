@@ -27,9 +27,7 @@
   "hint": null,
   "source": "baekjoon, doju",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 2301,
   "submission_count": null,
   "average_tries": 3.4398000240325928

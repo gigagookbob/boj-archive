@@ -15,14 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2012",
   "level": 17,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree", "knapsack"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.4286000728607178

@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2021, Group B (Juniors)",
   "level": 9,
-  "tags": [
-    "constructive",
-    "graphs"
-  ],
+  "tags": ["constructive", "graphs"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.705899953842163

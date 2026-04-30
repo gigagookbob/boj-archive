@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2017 Greater New York Programming Contest",
   "level": 9,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.206899881362915

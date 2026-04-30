@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2006",
   "level": 9,
-  "tags": [
-    "string",
-    "parsing",
-    "regex"
-  ],
+  "tags": ["string", "parsing", "regex"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.894700050354004

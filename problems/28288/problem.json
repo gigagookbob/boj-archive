@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2023, CCC 2023 Junior Division",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 315,
   "submission_count": null,
   "average_tries": 1.1841000318527222

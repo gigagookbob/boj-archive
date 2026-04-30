@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, Regional Competition - Juniors, baekjoon",
   "level": 13,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1385,
   "submission_count": null,
   "average_tries": 3.0035998821258545

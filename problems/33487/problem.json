@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제6회 고려대학교 MatKor Cup: 2025 Winter, eoaud0108, kidw0124, finimage, leeminjae, midoria, sshs29hanul, utilforever, yijw0930",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "dp",
-    "parametric_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "dp", "parametric_search", "two_pointer"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

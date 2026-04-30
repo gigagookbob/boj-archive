@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2010/2011 Spring Training Camp",
   "level": 19,
-  "tags": [
-    "case_work",
-    "graphs",
-    "mst"
-  ],
+  "tags": ["case_work", "graphs", "mst"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2

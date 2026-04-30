@@ -15,11 +15,7 @@
   "hint": "<p>In the second sample case, you first release the person in cell 14, then cell 6, then cell 3. The number of gold coins needed is 19 + 12 + 4 = 35. If you instead release the person in cell 6 first, the cost will be 19 + 4 + 13 = 36.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, Round 1C",
   "level": 9,
-  "tags": [
-    "backtracking",
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["backtracking", "bruteforcing", "implementation"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.107699990272522

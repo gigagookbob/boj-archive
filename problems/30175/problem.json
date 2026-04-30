@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, after given rearrangement, $|a_{1} - a_{2}| = 0 \\le |a_{2} - a_{3}| = 1 \\le |a_{3} - a_{4}| = 2 \\le |a_{4} - a_{5}| = 2 \\le |a_{5} - a_{6}| = 10$. There are other possible answers like \"<code>5 4 5 6 -2 8</code>\".</p>\n<p>In the second test case, after given rearrangement, $|a_{1} - a_{2}| = 1 \\le |a_{2} - a_{3}| = 2 \\le |a_{3} - a_{4}| = 4$. There are other possible answers like \"<code>2 4 8 1</code>\".</p>",
   "source": "Contest, Codeforces, Codeforces Round 633 (Div. 2), spongbob9876",
   "level": 9,
-  "tags": [
-    "constructive",
-    "sorting"
-  ],
+  "tags": ["constructive", "sorting"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.2950999736785889

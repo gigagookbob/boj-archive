@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025, 79brue, functionx, kipa00, leo020630, queued_q, seonah",
   "level": 22,
-  "tags": [
-    "graphs",
-    "flow",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "flow", "scc", "2_sat"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.833299994468689

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2022, ICPC, World Finals, ICPC World Finals 2023",
   "level": 19,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "ternary_search",
-    "pythagoras"
-  ],
+  "tags": ["geometry", "geometry_3d", "ternary_search", "pythagoras"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.9032000303268433

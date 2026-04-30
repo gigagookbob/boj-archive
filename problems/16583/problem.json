@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2018 ICPC Asia Jakarta Regional Contest",
   "level": 20,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 261,
   "submission_count": null,
   "average_tries": 2.2414000034332275

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2017 Day 3",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "divide_and_conquer",
-    "multi_segtree"
-  ],
+  "tags": ["data_structures", "segtree", "divide_and_conquer", "multi_segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.25

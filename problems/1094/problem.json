@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, alphago92, jjacks",
   "level": 6,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 26879,
   "submission_count": null,
   "average_tries": 1.3258999586105347

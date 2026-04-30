@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 186px; height: 185px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2005",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "arbitrary_precision",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "arbitrary_precision", "euclidean"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.4000000953674316

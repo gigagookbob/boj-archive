@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Beginner Group)",
   "level": 7,
-  "tags": [
-    "greedy",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "prefix_sum", "two_pointer"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.829300045967102

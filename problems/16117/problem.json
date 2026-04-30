@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우, 아래 그림과 같이 (3, 0) 위치에서 시작하여 위-아래-오른쪽-위 순서대로 1초씩 움직이면 99+99+97+98+96=489개의 실버를 얻을 수 있다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 515px; width: 1000px;\"/></p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2018 서울대학교 프로그래밍 경시대회, Division 2, cozyyg",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 122,
   "submission_count": null,
   "average_tries": 3.803299903869629

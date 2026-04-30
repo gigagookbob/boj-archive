@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2005",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "parsing",
-    "string",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "parsing", "string", "set"],
   "accepted_user_count": 413,
   "submission_count": null,
   "average_tries": 4.392300128936768

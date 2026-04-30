@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2014, ntopia",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.105299949645996

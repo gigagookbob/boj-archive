@@ -39,9 +39,7 @@
   "hint": "<p>예제 1의 경우 5455++ 또는 5459--</p>",
   "source": "baekjoon, jh05013, applyoo, pangitwise",
   "level": 12,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 23021,
   "submission_count": null,
   "average_tries": 4.168399810791016

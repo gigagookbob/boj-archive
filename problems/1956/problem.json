@@ -15,11 +15,7 @@
   "hint": null,
   "source": "joonwu04, rhdqor213, zenith82114",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 9861,
   "submission_count": null,
   "average_tries": 2.707200050354004

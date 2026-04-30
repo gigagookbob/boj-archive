@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2021 송년대회, arnold518, cs71107, dennisstar, gs18115, IHHI, jhnah917, qwerasdfzxcl, urd05",
   "level": 18,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "ternary_search"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "ternary_search"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 3.671999931335449

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2014, myungwoo",
   "level": 26,
-  "tags": [
-    "geometry",
-    "bipartite_matching"
-  ],
+  "tags": ["geometry", "bipartite_matching"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 3.726599931716919

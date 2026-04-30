@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 25 January, 2003",
   "level": 18,
-  "tags": [
-    "graphs",
-    "string",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "string", "eulerian_path"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

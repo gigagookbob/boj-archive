@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2022",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 210,
   "submission_count": null,
   "average_tries": 1.1095000505447388

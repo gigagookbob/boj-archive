@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2023-24, Final Round",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "dfs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "dfs", "eulerian_path"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3.6666998863220215

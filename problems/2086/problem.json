@@ -19,10 +19,7 @@
   "hint": "<ul>\n<li>1 ≤ a ≤ b ≤ 9,000,000,000,000,000,000</li>\n</ul>",
   "source": null,
   "level": 15,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 1752,
   "submission_count": null,
   "average_tries": 2.8578999042510986

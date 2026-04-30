@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2010",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "hash_set",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "geometry", "hash_set", "sqrt_decomposition"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.3499999046325684

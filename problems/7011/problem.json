@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2013: Snowstorm Spring 2013",
   "level": 15,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "case_work", "parsing"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

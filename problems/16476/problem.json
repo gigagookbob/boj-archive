@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2011",
   "level": 20,
-  "tags": [
-    "math",
-    "graphs",
-    "randomization"
-  ],
+  "tags": ["math", "graphs", "randomization"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 5.1666998863220215

@@ -15,9 +15,7 @@
   "hint": "<p>서강대학교 $K$관 512호에서는 피자를 먹으면 안 됩니다.</p>",
   "source": "University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, 청정수 Round, University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, Open Contest, tkfkddl59323, djs100201, dong_gas, eaststar, hulahula3247, jthis, lem0nad3, mjhmjh1104, pjshwa, yunny_world",
   "level": 14,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.6783000230789185

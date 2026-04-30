@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 이화여자대학교, 2025 이화여자대학교 컴퓨터공학과 프로그래밍 대회 (ECPC), jungh150, celina324, jinhan814, jthis, swoon, tony9402, ystaeyoon113",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["data_structures", "segtree", "game_theory", "parity"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.0464999675750732

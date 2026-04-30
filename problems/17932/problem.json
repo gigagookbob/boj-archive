@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, HiQ Challenge 2017",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "dp"
-  ],
+  "tags": ["data_structures", "dp"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.450000047683716

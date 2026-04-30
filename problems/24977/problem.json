@@ -15,12 +15,7 @@
   "hint": "<p>If $p=(1,4,3,2)$ then</p>\n<ul>\n<li>Buddy $1$ visits buddy $2$'s farm, resulting in $10$ moos.</li>\n<li>Buddy $4$ sees that buddy $1$ has already departed, so nothing happens.</li>\n<li>Buddy $3$ visits buddy $4$'s farm, adding $30$ moos.</li>\n<li>Buddy $2$ sees that buddy $3$ has already departed, so nothing happens.</li>\n</ul>\n<p>This gives a total of $10+30=40$ moos.</p>\n<p>On the other hand, if $p=(2,3,4,1)$ then</p>\n<ul>\n<li>Buddy $2$ visits buddy $3$'s farm, causing $20$ moos.</li>\n<li>Buddy $3$ visits buddy $4$'s farm, causing $30$ moos.</li>\n<li>Buddy $4$ visits buddy $1$'s farm, causing $40$ moos.</li>\n<li>Buddy $1$ sees that buddy $2$ has already departed, so nothing happens.</li>\n</ul>\n<p>This gives $20+30+40=90$ total moos. It can be shown that this is the maximum possible amount after all visits, over all permutations $p$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Silver",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "mst"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "mst"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 2.300600051879883

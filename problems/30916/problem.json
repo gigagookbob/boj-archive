@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BOJ Bundle, BOJ Bundle in Math. Vol 1, bubbler, kiwiyou, utilforever",
   "level": 22,
-  "tags": [
-    "math",
-    "data_structures",
-    "number_theory",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["math", "data_structures", "number_theory", "segtree", "lazyprop"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.6315999031066895

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "doju",
   "level": 24,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["dp", "math", "number_theory", "primality_test"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 7.9166998863220215

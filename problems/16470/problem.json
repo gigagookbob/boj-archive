@@ -19,12 +19,7 @@
   "hint": "<p>In the first case, the relative frequency of Korean is $9/10=0.9$ and that of Chinese is $1/10=0.1$. Hence, Gini-index is $1 - (0.9^2 + 0.1^2) = 0.18$</p>\n<p>In the second case, $1 - 4 \\times (1 / 4)^2 = 0.75$</p>",
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Advanced Division, iriszero",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "tree_set", "set"],
   "accepted_user_count": 112,
   "submission_count": null,
   "average_tries": 2.455399990081787

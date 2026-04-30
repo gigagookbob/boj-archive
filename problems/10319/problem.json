@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2014, kks227, man_of_learning",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 248,
   "submission_count": null,
   "average_tries": 2.5322999954223633

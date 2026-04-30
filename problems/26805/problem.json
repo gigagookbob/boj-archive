@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2020/2021, Stage 3",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "greedy"
-  ],
+  "tags": ["ad_hoc", "greedy"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.1500000953674316

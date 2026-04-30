@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA7",
   "level": 15,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["math", "ad_hoc", "case_work"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 5.3333001136779785

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2024",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "string", "ad_hoc"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.3720999956130981

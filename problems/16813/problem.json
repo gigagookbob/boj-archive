@@ -31,11 +31,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2015 Day 4",
   "level": 22,
-  "tags": [
-    "cht",
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["cht", "dp", "knapsack"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.9544999599456787

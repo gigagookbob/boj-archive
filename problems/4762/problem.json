@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2004 Mid-Atlantic Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["geometry", "sweeping"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 5

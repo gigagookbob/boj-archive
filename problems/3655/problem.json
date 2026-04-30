@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2011, baekjoon, corea, tearsmore",
   "level": 11,
-  "tags": [
-    "greedy",
-    "string",
-    "sorting",
-    "set"
-  ],
+  "tags": ["greedy", "string", "sorting", "set"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 1.6575000286102295

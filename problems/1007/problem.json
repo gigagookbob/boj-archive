@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, eric00513, jacob_1120",
   "level": 14,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 4508,
   "submission_count": null,
   "average_tries": 2.529900074005127

@@ -15,12 +15,7 @@
   "hint": "<p>In the first example, the cake will be cut into $5 \\cdot 4 \\cdot 2 = 40$ pieces of size $2 \\times 5 \\times 3$ inches.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 246px; height: 360px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2025",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "greedy", "number_theory", "euclidean"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.2222000360488892

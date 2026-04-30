@@ -15,10 +15,7 @@
   "hint": "<p>Here, 6 total units of fence are covered with paint, from \\(x=4\\) all the way through \\(x=10\\).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO December 2015 Contest, Bronze",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 1487,
   "submission_count": null,
   "average_tries": 2.035599946975708

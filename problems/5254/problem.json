@@ -15,9 +15,7 @@
   "hint": "<p>The optimal setting of right / left obstacles is shown in the images. By setting the right obstacle as shown in the right image, balls 3, 4 and 5 will fall down into hole number 5 and the score will be 6 + 10 + 5 + 5 + 5 + (-12) = 19 points. Analogously, by setting left obstacle as on the left image, we get 6 + 10 + 10 + 10 + 10 + 10 = 56 points. It is not possible to score more points with any different obstacle setting.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2012, cgiosy",
   "level": 21,
-  "tags": [
-    "cht"
-  ],
+  "tags": ["cht"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 4.648600101470947

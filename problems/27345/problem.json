@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2018/2019, Final Round",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "slope_trick"
-  ],
+  "tags": ["data_structures", "priority_queue", "slope_trick"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 4.466700077056885

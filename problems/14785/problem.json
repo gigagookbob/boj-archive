@@ -15,11 +15,7 @@
   "hint": "<p>Here is a simple graphical representation of the locations of the leashes:</p>\n<pre>\n                  1 1 1 1\n1 2 3 4 5 6 7 8 9 0 1 2 3\n-------------------------\n. 111111111 . . . . . . .\n. . . 222222222222222 . .\n. . 3333333 . . . . . . .\n. . . . 4444444 . . . . .\n. . . . . . . . 555555555\n66666666666 . . . . . . .\n. . . . . . 7777777 . . .\n</pre>\n<p>Cutting at 5.5 cuts leashes 1, 2, 3, 4, and 6. A second cut at 9.5 cuts leashes 5 and 7. Other locations are surely possible, but no single cut can penetrate leashes 5 and 6, so at least two cuts are necessary.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO US Open 2006 Contest, Bronze",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.7170000076293945

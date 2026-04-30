@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2018",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["math", "dp", "data_structures", "stack"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.649399995803833

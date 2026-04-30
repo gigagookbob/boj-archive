@@ -19,10 +19,7 @@
   "hint": "<p><strong>Clarification of the test cases:</strong></p>\n<p>In the first test case, one of the possible sequences is the sequence in the output. The corresponding members of the arithmetic sequence are 5 * 2 + 3 = 13 and 5 * 5 + 3 = 28. The format of number 13 in base 2 is 1101, whereas the format of number 28 in base 2 is 11100. The sum of digits in both formats is equal to 3.</p>\n<p>In the second test case, the corresponding members of the sequence are 2 * 2 + 1 = 5, 2 * 20 + 1 = 41, and 2 * 200 + 1 = 401. Each of the numbers’ digits, written in base 10, sum up to 5.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #6",
   "level": 19,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.8333001136779785

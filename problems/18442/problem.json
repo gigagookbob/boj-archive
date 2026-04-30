@@ -19,10 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 316,
   "submission_count": null,
   "average_tries": 3.594899892807007

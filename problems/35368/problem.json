@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Southeast USA Regional, 2025 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, South Central USA Regional, 2025 South Central USA Regional Contest, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2025 Mid-Atlantic USA Regional Contest, Division 2",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.6049000024795532

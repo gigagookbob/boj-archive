@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제1회 코드 챔피언십, surface_03",
   "level": 15,
-  "tags": [
-    "graphs",
-    "constructive",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "constructive", "eulerian_path"],
   "accepted_user_count": 186,
   "submission_count": null,
   "average_tries": 1.5108000040054321

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Gold",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask"
-  ],
+  "tags": ["dp", "bitmask"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.0434999465942383

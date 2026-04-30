@@ -23,11 +23,7 @@
   "hint": "<p>Clarification for first example: When Anka is boarding, the train is empty; according to rules 1 and 2 she can choose any car, so she chooses the first car according to rule 3. Rule 1 also allows Branko to entery any car, but rule 2 limits him to the second and third. By rule 3 he enters the second car. Cvjetko enters the third car by rule 3, since it is empty.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, Regional Competition - Seniors",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "simulation"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.4902000427246094

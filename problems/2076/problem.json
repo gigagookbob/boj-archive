@@ -15,12 +15,7 @@
   "hint": null,
   "source": "koosaga, pse1202",
   "level": 19,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "two_pointer"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 5.1757001876831055

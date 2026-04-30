@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2023!, bubbler, cgiosy, cs71107, jhnah917, jhwest2, kyo20111, wapas",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.5568000078201294

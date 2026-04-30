@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2008, baekjoon, seawon0808",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "sliding_window"],
   "accepted_user_count": 175,
   "submission_count": null,
   "average_tries": 2.7256999015808105

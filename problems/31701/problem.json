@@ -19,10 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładu: W pierwszym teście przykładowym:</p>\n<ul>\n<li>Aby sumaryczna masa żelków była podzielna przez m = 6, Bajtek może nie kupić żadnego żelka – nie wyda on wtedy pieniędzy w ogóle.</li>\n<li>Aby reszta z dzielenia łącznej masy żelków przez 6 wynosiła 1, Bajtek powinien kupić jeden żelek pierwszego rodzaju, dwa drugiego rodzaju i jeden trzeciego rodzaju. W ten sposób zapłaci on 10 bajtogroszy i otrzyma po dwa żelki każdego z dwóch kolorów o sumarycznej masie równej 7 bajtogramów.</li>\n<li>Aby reszta z dzielenia łącznej masy żelków przez 6 wynosiła 5, Bajtek powinien kupić dwa żelki pierwszego rodzaju, trzy żelki drugiego rodzaju i jeden żelek trzeciego rodzaju.</li>\n</ul>\n<p>W drugim teście przykładowym nie są dostępne żadne żelki drugiego koloru – jedynym rozwiązaniem zadowalającym Bajtka jest niekupienie żadnych żelków.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 16,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.1666998863220215

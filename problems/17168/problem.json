@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2019 KAIST RUN Spring Contest, kdh9949, jung2381187, koosaga",
   "level": 22,
-  "tags": [
-    "dp",
-    "greedy",
-    "cht"
-  ],
+  "tags": ["dp", "greedy", "cht"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 4.038000106811523

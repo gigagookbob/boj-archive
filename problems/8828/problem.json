@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, SpringSpot 2010",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "sorting", "prefix_sum"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.4286000728607178

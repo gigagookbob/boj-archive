@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2023, functionx, dohoon, kiwiyou, sorohue, utilforever",
   "level": 19,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "extended_euclidean"
-  ],
+  "tags": ["math", "greedy", "number_theory", "extended_euclidean"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.75

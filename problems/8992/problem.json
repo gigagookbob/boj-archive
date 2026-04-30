@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2013, baekjoon, caffeinism7, djm03178, lll4592, qja0950, myungwoo",
   "level": 19,
-  "tags": [
-    "graphs",
-    "geometry",
-    "flow",
-    "line_intersection",
-    "mcmf"
-  ],
+  "tags": ["graphs", "geometry", "flow", "line_intersection", "mcmf"],
   "accepted_user_count": 359,
   "submission_count": null,
   "average_tries": 2.6656999588012695

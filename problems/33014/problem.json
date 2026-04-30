@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 12., gggkik, gunwookim, lky7674, snrnsidy, swoon, utilforever",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "trees",
-    "constructive",
-    "sqrt_decomposition"
-  ],
+  "tags": ["ad_hoc", "trees", "constructive", "sqrt_decomposition"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.4444000720977783

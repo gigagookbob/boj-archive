@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 15, Grand Prix of China, Division 1",
   "level": 21,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

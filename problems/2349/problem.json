@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2003 East Central Regional Contest, jh05013",
   "level": 12,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "backtracking"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "backtracking"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.727299928665161

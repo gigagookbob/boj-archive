@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, 카카오 코드 페스티벌, 카카오 코드 페스티벌 2018 예선",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "case_work"],
   "accepted_user_count": 7474,
   "submission_count": null,
   "average_tries": 2.647700071334839

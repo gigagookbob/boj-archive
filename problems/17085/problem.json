@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, sminhyuck, kir3i, skaduddn",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 755,
   "submission_count": null,
   "average_tries": 2.9974000453948975

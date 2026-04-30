@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2020, Group E",
   "level": 3,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 239,
   "submission_count": null,
   "average_tries": 1.4017000198364258

@@ -27,11 +27,7 @@
   "hint": null,
   "source": null,
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 5467,
   "submission_count": null,
   "average_tries": 1.5915000438690186

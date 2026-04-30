@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>The trip starts with the odometer at 110 and ends at 133.</p><h4>Output Details</h4><p>The cows moo when the odometer reads 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 121, 122, 131, and 133.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO US Open 2014 Contest, Silver",
   "level": 19,
-  "tags": [
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "dp_digit"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.142899990081787

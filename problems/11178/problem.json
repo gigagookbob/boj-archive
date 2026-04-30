@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2014",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "mitm"
-  ],
+  "tags": ["math", "dp", "combinatorics", "mitm"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.4000000953674316

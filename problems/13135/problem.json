@@ -15,12 +15,7 @@
   "hint": "<p>X = 6, 9 ≤ Y ≤ 100,000일 때만 체키가 당선된다.</p>",
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016, functionx",
   "level": 16,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "prefix_sum",
-    "coordinate_compression"
-  ],
+  "tags": ["math", "bruteforcing", "prefix_sum", "coordinate_compression"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.9500000476837158

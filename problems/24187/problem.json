@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Qualification",
   "level": 12,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.4544999599456787

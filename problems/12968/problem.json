@@ -27,10 +27,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "parity"],
   "accepted_user_count": 252,
   "submission_count": null,
   "average_tries": 2.186500072479248

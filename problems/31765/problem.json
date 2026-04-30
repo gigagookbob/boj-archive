@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2023-2024 Season, USACO 2024 US Open Contest, Platinum",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "greedy",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["math", "dp", "greedy", "bitmask", "dp_bitfield"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.25

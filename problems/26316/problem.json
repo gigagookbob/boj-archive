@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2014 Local Programming Contest",
   "level": 6,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.2799999713897705

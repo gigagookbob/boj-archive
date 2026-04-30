@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, the table looks as follows.</p>\n<p>$$\\begin{array}{cc} 1 &amp; 2 \\\\ 1 &amp; 3 \\\\ 1 &amp; 4 \\\\ 2 &amp; 3 \\\\ 2 &amp; 4 \\\\ 3 &amp; 4 \\\\ \\end{array}$$</p>\n<p>The answer is $|2 - 3| + |3 - 4| + |4 - 3| + |3 - 4| + |4 - 4| = 4$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 5: Moscow IPT Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.8461999893188477

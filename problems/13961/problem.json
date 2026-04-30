@@ -15,14 +15,7 @@
   "hint": "<p>In this case there are exactly 378 609 020 valid passwords and </p>\n<p>378 609 020 mod 1 000 003 = 607 886.</p>\n<p>Some examples of valid passwords are: aA1, B23tT, 1g9K or B2j.</p>\n<p>Some examples of invalid passwords are: aaA (it does not contain digits), 12a (it does not contain upper case letters), a12A34 (length &gt; 5) or bB10 (contains bio as substring).</p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2016",
   "level": 21,
-  "tags": [
-    "aho_corasick",
-    "data_structures",
-    "dp",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["aho_corasick", "data_structures", "dp", "string", "trees", "trie"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.6857000589370728

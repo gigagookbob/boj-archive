@@ -19,9 +19,7 @@
   "hint": "<p>В первом примере есть всего одна пара сотрудников, и они, как следует из того, что $h_2 = 1$, являются друзьями.</p>\n<p>Во втором примере, если все сотрудники $3$, $4$ и $5$ здоровались с одним и тем же сотрудником, то у этого сотрудника $3$ друга.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2015",
   "level": 6,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.708299994468689

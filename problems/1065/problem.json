@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, djm03178, jh05013, bdh3313",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 73698,
   "submission_count": null,
   "average_tries": 1.80239999294281

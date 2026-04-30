@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2023",
   "level": 13,
-  "tags": [
-    "prefix_sum",
-    "sweeping",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "sweeping", "difference_array"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2022 부산대학교 CodeRace, kmiiiaa, chansol, jh05013, lky7674, tony9402",
   "level": 14,
-  "tags": [
-    "backtracking",
-    "implementation"
-  ],
+  "tags": ["backtracking", "implementation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.444399833679199

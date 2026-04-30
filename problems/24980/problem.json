@@ -15,9 +15,7 @@
   "hint": "<p>In this example, it suffices to reverse the prefix consisting of the first six cows.</p>\n<pre>\n   GGGHGHHGHHHGHG (Before)\n-&gt; HGHGGGHGHHHGHG (After)\n</pre>\n<p>Before the reversal, four Guernseys were at even positions. After the reversal, six Guernseys are at even positions. It is impossible for there to be more than six Guernseys at even positions.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Bronze",
   "level": 13,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 2.263200044631958

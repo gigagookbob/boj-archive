@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2019 KAIST RUN Spring Contest, Contest, Open Cup, 2018/2019 Season, Stage 19: Grand Prix of Daejeon, koosaga",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "set",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "ad_hoc", "set", "sweeping"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 4.199999809265137

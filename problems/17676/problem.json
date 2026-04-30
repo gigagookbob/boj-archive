@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2018/2019 Spring Training Camp, ho94949",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "segtree", "offline_queries"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.559999942779541

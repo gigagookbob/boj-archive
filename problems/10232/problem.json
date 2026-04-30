@@ -10,13 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2010, Day 2",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "bfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2

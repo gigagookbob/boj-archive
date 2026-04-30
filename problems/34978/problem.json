@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 대전대신고등학교, 제1회 코더즈 코딩페어, gmb9817, 0917ba, chan120714, dabbler1, dinojaemin, kckyoung2, lms0806, minchan_bae, nflight11, realpsdoingdamyoo, thak00, tony9402, toycartoon, utilforever, young_out",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 1.31850004196167

@@ -15,12 +15,7 @@
   "hint": "<p>Here is a diagram of the optimal path for sample case #1. We have enlarged the island to make it more visible, but remember to treat it as a single point.</p>\n<p><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, World Finals",
   "level": 27,
-  "tags": [
-    "math",
-    "binary_search",
-    "calculus",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "binary_search", "calculus", "numerical_analysis"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 3.8785998821258545

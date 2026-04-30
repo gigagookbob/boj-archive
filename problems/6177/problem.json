@@ -15,9 +15,7 @@
   "hint": "<p>(12+4+6+8+2)/5=6.4</p>\n<p>Middle number of the set {2, 4, 6, 8, 12} is 6</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO March 2008 Contest, Bronze",
   "level": 5,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 295,
   "submission_count": null,
   "average_tries": 1.8575999736785889

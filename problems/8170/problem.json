@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:91px; width:176px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2008/2009, Stage 1",
   "level": 21,
-  "tags": [
-    "game_theory",
-    "parity",
-    "sprague_grundy",
-    "difference_array"
-  ],
+  "tags": ["game_theory", "parity", "sprague_grundy", "difference_array"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.024399995803833

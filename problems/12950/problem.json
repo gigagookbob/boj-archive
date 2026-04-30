@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 138,
   "submission_count": null,
   "average_tries": 2.920300006866455

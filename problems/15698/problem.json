@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2018",
   "level": 30,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "precomputation"
-  ],
+  "tags": ["dp", "bruteforcing", "precomputation"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.1514999866485596

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, October 17, 2015, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, October 17, 2015, Advanced",
   "level": 10,
-  "tags": [
-    "sliding_window"
-  ],
+  "tags": ["sliding_window"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.5

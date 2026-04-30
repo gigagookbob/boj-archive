@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, LG Collegiate Programming Contest, LGCPC 2024 예선, 79brue, kyo20111",
   "level": 20,
-  "tags": [
-    "graphs",
-    "greedy",
-    "flow",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "greedy", "flow", "bipartite_matching"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 1.604200005531311

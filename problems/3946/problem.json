@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2012 Greater New York Programming Contest, baekjoon, BaaaaaaaaaaarkingDog, jh05013",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 193,
   "submission_count": null,
   "average_tries": 2.077699899673462

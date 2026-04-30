@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2020-2021 North-Western Russia Regional Contest",
   "level": 8,
-  "tags": [
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["greedy", "implementation"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.2400000095367432

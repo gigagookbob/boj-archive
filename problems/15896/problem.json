@@ -19,10 +19,7 @@
   "hint": "<p>bitwise and 연산은 두 개의 이진수 값에 대해 자리 단위로 적용되는 연산이다. 먼저 피연산자로 주어진 두 값을 2진수로 표현한다. 그 뒤에 두 값의 각 자릿수를 비교해, 두 값 모두에 1이 있을 때만 1을, 나머지 경우에는 0을 계산한다.</p>\n<p>예를 들어 13 &amp; 7의 값은 5이다. 13은 2진수로 표현하면 1101<sub>(2)</sub> 이고 7은 2진수로 표현하면 111<sub>(2)</sub> 이다. 이후의 계산과정은 아래와 같다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 150px; height: 107px;\"/><br/>\n </p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2018 예선, moonrabbit2, anjupiter, kohandy",
   "level": 21,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 220,
   "submission_count": null,
   "average_tries": 5.895500183105469

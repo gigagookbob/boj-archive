@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2024 연습 세션",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "arithmetic", "pythagoras"],
   "accepted_user_count": 219,
   "submission_count": null,
   "average_tries": 1.1141999959945679

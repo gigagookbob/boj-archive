@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2016",
   "level": 14,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "sorting"
-  ],
+  "tags": ["dp", "prefix_sum", "sorting"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.1875

@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2014/2015, mendou12",
   "level": 12,
-  "tags": [
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "difference_array"],
   "accepted_user_count": 736,
   "submission_count": null,
   "average_tries": 2.2446000576019287

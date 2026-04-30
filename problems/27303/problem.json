@@ -19,11 +19,7 @@
   "hint": "<p>이 문제의 제목과 제목에 대한 답은 <a href=\"https://www.acmicpc.net/user/kidw0124\">kidw0124</a>의 아이디어이다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제2회 고려대학교 MatKor Cup: 2023 Winter, alex04, eoaud0108, kidw0124, coo001, yijw0930",
   "level": 18,
-  "tags": [
-    "math",
-    "combinatorics",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "combinatorics", "exponentiation_by_squaring"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.7838000059127808

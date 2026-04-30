@@ -15,12 +15,7 @@
   "hint": "<p>LCA는 트리의 최소 공통 조상(Lowest Commen Ancestor)로 a, b의 LCA는 a와 b를 모두 자손으로 가지면서 가장 깊이가 깊은 노드이다.</p>",
   "source": "University, 경북대학교, 2022 Goricon, skeep194, dngnogu, jthis, leo020630, mokalover, powergee, qotmd01",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "lca"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "lca"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.421099901199341

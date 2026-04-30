@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Qualification",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "trees",
-    "trie",
-    "cht"
-  ],
+  "tags": ["data_structures", "trees", "trie", "cht"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

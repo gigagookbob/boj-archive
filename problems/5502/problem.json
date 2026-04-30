@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2000, Day 1, crasy111",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 732,
   "submission_count": null,
   "average_tries": 2.039599895477295

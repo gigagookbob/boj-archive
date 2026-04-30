@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2016 Pacific Northwest Region Programming Contest, Division 2",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 238,
   "submission_count": null,
   "average_tries": 1.357100009918213

@@ -23,12 +23,7 @@
   "hint": "<p>한 점에 세 개 이상의 실 전화기가 만났을 때 교차하는 실 전화기 쌍의 수가 하나가 아님에 주의하라.</p>\n<p>동일한 참가자 둘 사이를 이어주는 서로 다른 두 선분은 내부에서 교차하지 않는 것으로 간주한다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2023, pani, 39dll, akim9905, Coxie, hibye1217, leo020630, lky7674, nick832, overnap, shjohw12, wjdclgns12",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "euclidean"],
   "accepted_user_count": 243,
   "submission_count": null,
   "average_tries": 3.1152000427246094

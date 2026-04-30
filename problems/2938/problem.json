@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #6, baekjoon, korabcd, rdd6584",
   "level": 11,
-  "tags": [
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["constructive", "case_work"],
   "accepted_user_count": 319,
   "submission_count": null,
   "average_tries": 3.2507998943328857

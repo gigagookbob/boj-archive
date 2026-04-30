@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2014",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["combinatorics", "dp", "math", "prefix_sum"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.6538000106811523

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 2 October, 2010",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "coordinate_compression"],
   "accepted_user_count": 147,
   "submission_count": null,
   "average_tries": 2.4489998817443848

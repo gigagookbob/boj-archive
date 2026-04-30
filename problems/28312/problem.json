@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "math",
-    "binary_search",
-    "prefix_sum",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "prefix_sum", "parametric_search"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.5896999835968018

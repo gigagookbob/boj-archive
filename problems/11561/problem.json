@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2015 연세대학교 프로그래밍 경시대회, portableangel",
   "level": 8,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 1268,
   "submission_count": null,
   "average_tries": 3.066999912261963

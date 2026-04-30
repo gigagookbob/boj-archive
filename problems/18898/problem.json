@@ -15,10 +15,7 @@
   "hint": "<p>Due to space constraints, the dictionary in the example was not created randomly and it is presented only to demonstrate the constraints on the solution. In particular, it will not be used for  testing the correctness of your solution. Nevertheless, the seven words in the output contain all 26 letters of the English alphabet, each exactly once.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2017",
   "level": 20,
-  "tags": [
-    "backtracking",
-    "heuristics"
-  ],
+  "tags": ["backtracking", "heuristics"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5999999046325684

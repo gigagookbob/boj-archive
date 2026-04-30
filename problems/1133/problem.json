@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "backtracking",
-    "recursion"
-  ],
+  "tags": ["backtracking", "recursion"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 1.9817999601364136

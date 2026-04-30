@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2024",
   "level": 21,
-  "tags": [
-    "implementation",
-    "constructive"
-  ],
+  "tags": ["implementation", "constructive"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.9600000381469727

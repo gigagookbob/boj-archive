@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2019 송년대회, yclock, cheetose, sebinkim",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["binary_search", "constructive", "bitmask"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 3.126800060272217

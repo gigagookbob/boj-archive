@@ -15,12 +15,7 @@
   "hint": "<p>Even though the first team has the lowest probability to complete the first chore among the 3 options, in the optimal solution they should pick it (otherwise, team 2 or 3 will complete it for sure).</p>",
   "source": "Contest, Waterloo's local Programming Contests, 6 February, 2021",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

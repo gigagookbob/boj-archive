@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제2회 kriiICPC, august14",
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.4323999881744385

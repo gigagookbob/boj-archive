@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2010",
   "level": 23,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 3.1154000759124756

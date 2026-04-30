@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2021-22, Preliminary Round",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "prefix_sum",
-    "segtree"
-  ],
+  "tags": ["data_structures", "prefix_sum", "segtree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.5

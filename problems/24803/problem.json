@@ -23,12 +23,7 @@
   "hint": "<p>In Sample Input 1, Jake has $1$ Silver in his hand, which means he has $2$ buying power. This would allow him to either buy an Estate or a Copper.</p>",
   "source": ", School, Virginia Tech High School Programming Contest, 2017 Virginia Tech High School Programming Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "case_work"],
   "accepted_user_count": 232,
   "submission_count": null,
   "average_tries": 1.2802000045776367

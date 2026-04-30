@@ -19,13 +19,7 @@
   "hint": null,
   "source": null,
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "fft"
-  ],
+  "tags": ["math", "dp", "bitmask", "dp_bitfield", "fft"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.7674000263214111

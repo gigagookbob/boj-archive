@@ -19,14 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2023 1차대회, 중등부, Olympiad, 한국정보올림피아드, KOI 2023 1차대회, 고등부, junie",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "greedy", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 417,
   "submission_count": null,
   "average_tries": 2.9137001037597656

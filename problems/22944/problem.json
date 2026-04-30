@@ -23,13 +23,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 13,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs",
-    "backtracking"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs", "backtracking"],
   "accepted_user_count": 617,
   "submission_count": null,
   "average_tries": 5.426300048828125

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2013, baekjoon, arine, taeyangkim, myungwoo",
   "level": 16,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 1002,
   "submission_count": null,
   "average_tries": 3.029900074005127

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2021",
   "level": 26,
-  "tags": [
-    "math",
-    "sweeping",
-    "calculus",
-    "slope_trick"
-  ],
+  "tags": ["math", "sweeping", "calculus", "slope_trick"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

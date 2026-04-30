@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, ACM ICPC Asia Kuala Lumpur Regional Contest 2014, doju",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "bellman_ford"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 4.51609992980957

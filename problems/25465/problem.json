@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera</p>\n<p>Na početku su sve kockice u kocki veličine $2 \\times 2 \\times 2$ bezbojne. Prvi upit: ispiši izgled prednje strane kocke. Rotacija nije potrebna jer je ta strane već okrenuta prema nama. Kako je cijela kocka prozirna, odgovor na prvi upit je tablica $2 \\times 2$ popunjena nulama.</p>\n<p>Nakon toga dolaze dva upita gdje kockica u gornjem lijevom prednjem kutu poprima boju $1$, a kockica u donjem desnom stražnjem kutu boju $5$. Nakon toga dolaze dva upita od kojih prvi traži izgled kocke kada okrenemo stražnju stranu ispred nas, a drugi kada okrenemo desnu stranu ispred nas. U prvom slučaju kockica obojena bojom $1$ će se nalaziti u gornjem desnom kutu, a kockica boje $5$ u donjem lijevom. U drugom slučaju bit će isto kao i pogled od naprijed.</p>\n<p>Opis drugog probnog primjera:</p>\n<p>U ovom primjeru imamo kocku veličine $3 \\times 3 \\times 3$ te na početku mijenjamo boje svih kockica u drugom redu na dubini dva. Gledajući s lijeva, vidjet ćemo samo onu kockicu boje $1$, a gledajući s desna onu boje $3$.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2022, Junior Final Exam #2",
   "level": 10,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.899999976158142

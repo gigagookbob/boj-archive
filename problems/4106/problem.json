@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2009 Southeast USA Regional Programming Contest",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.375

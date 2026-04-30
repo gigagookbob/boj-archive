@@ -15,15 +15,7 @@
   "hint": null,
   "source": "Contest, 쇼미더코드: 원티드 주관 코딩테스트 대회, 2022년 1회차, cs71107",
   "level": 12,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs",
-    "lca"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "trees", "bfs", "dfs", "lca"],
   "accepted_user_count": 253,
   "submission_count": null,
   "average_tries": 3.1779000759124756

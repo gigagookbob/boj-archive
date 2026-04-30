@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2018 ICPC Asia Jakarta Regional Contest",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "priority_queue"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.020400047302246

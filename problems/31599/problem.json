@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2024 ICPC Asia Pacific Championship",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "pigeonhole_principle"
-  ],
+  "tags": ["bruteforcing", "pigeonhole_principle"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.3447999954223633

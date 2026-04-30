@@ -19,11 +19,7 @@
   "hint": "<ul>\n<li>In the first example, $R_1 = 1$, $R_2 = 0$, $C_1 = 2$, and $C_2 = -1$ are all distinct.</li>\n<li>In the second example, $R_1 = C_1$ always holds, so no solution exists.</li>\n</ul>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 4: Peking U Contest 2",
   "level": 14,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.642899990081787

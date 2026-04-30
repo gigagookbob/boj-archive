@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "geometry",
-    "heuristics",
-    "min_enclosing_circle"
-  ],
+  "tags": ["geometry", "heuristics", "min_enclosing_circle"],
   "accepted_user_count": 440,
   "submission_count": null,
   "average_tries": 3.445499897003174

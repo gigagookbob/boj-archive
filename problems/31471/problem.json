@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제3회 초콜릿컵, bubbler, ingyu1008, solvedac, sorohue, tlsdydaud1, utilforever, vkdldjvkdnj",
   "level": 24,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "game_theory",
-    "invariant"
-  ],
+  "tags": ["dp", "ad_hoc", "game_theory", "invariant"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.7778000831604004

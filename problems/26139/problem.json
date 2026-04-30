@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2021",
   "level": 16,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["implementation", "dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.9375

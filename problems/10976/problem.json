@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2015 KAIST 5th ACM-ICPC Mock Competition",
   "level": 17,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 276,
   "submission_count": null,
   "average_tries": 1.9493000507354736

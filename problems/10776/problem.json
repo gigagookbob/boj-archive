@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2015, CCC 2015 Senior Division, koosaga, palilo",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 253,
   "submission_count": null,
   "average_tries": 2.4228999614715576

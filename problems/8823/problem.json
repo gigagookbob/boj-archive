@@ -15,11 +15,7 @@
   "hint": "<p>Szukane ułamki z przykładu to: 1/1, 1/2, 2/1, 2/2, 3/3</p>",
   "source": "Contest, Spot, HotSpot 2010",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "euler_phi"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2

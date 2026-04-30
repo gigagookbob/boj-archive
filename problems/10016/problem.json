@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 318px; height: 315px;\"/></p>\n<p>Na rysunku zaznaczono początkowe pozycje świetlików oraz przebytą przez nie drogę w ciągu dwóch jednostek czasu. Zaznaczono też kwadrat o boku 3, który zawiera wszystkie świetliki w chwili <em>t</em> = 2.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 19,
-  "tags": [
-    "ternary_search"
-  ],
+  "tags": ["ternary_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

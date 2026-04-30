@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2025, University, MIT, The MIT Programming Contest, 2025-26, MIT Team Contest 1",
   "level": 5,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "arithmetic"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.5078999996185303

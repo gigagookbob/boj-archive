@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제1회 유틸컵 - Chapter 2, artichoke42, chogahui05, heeda0528, index, kidw0124, snrnsidy, utilforever",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "stack",
-    "string"
-  ],
+  "tags": ["data_structures", "implementation", "stack", "string"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 3.4511001110076904

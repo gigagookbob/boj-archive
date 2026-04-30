@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Championship, The 2024 ICPC Latin America Championship",
   "level": 14,
-  "tags": [
-    "game_theory",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["game_theory", "math", "number_theory"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.4358999729156494

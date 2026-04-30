@@ -31,10 +31,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 8: Almost Algoritmic Contest",
   "level": 14,
-  "tags": [
-    "geometry",
-    "euler_characteristic"
-  ],
+  "tags": ["geometry", "euler_characteristic"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.242400050163269

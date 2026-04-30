@@ -15,10 +15,7 @@
   "hint": "<p>Maksymalny możliwy zasięg rakiety to $27 = 2 \\cdot 3 + 3 \\cdot 5 + 3 \\cdot 2$, więc szukamy trójek modułów o zasięgu większym niż $13, 5$. Są to: $(1, 5, 2)$, $(3,1,2)$, $(3,1,2)$, $(3,5,2)$, o odpowiadających im zasięgach: $23$, $15$, $15$, $27$.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2008, Stage 2",
   "level": 11,
-  "tags": [
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "two_pointer"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

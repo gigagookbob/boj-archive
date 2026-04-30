@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2015/2016, District Stage, 7-9 Classes",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "euclidean"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.2777999639511108

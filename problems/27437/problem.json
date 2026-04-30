@@ -51,10 +51,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 161,
   "submission_count": null,
   "average_tries": 2.3106000423431396

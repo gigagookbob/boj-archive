@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 Fall Creative Problem Solving, tony2818, iktk, nflight11, utilforever",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.272700071334839

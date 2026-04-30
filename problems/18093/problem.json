@@ -23,13 +23,7 @@
   "hint": "<p>Clarifications of examples:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 608px; height: 182px;\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #2",
   "level": 15,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "sorting",
-    "geometry",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "sorting", "geometry", "set"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.0769000053405762

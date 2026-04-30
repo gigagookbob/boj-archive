@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2013 East Central Regional Contest 연습 세션",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "queue"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.596299886703491

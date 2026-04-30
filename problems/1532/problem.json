@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, jjacks",
   "level": 12,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 4.698500156402588

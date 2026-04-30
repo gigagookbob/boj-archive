@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2015 AIPO National Finals - Senior",
   "level": 16,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 190,
   "submission_count": null,
   "average_tries": 1.4788999557495117

@@ -15,11 +15,7 @@
   "hint": "<p>Obviously, Farmer John can buy all the bales of high quality hay. When he buys the size 6 high quality bale, he can get any low quality bale for free (say, the bale of size 3). When he buys the size 3 high quality bale, he can get the size 1 low quality bale for free. When he buys the size 1 high quality bale, however, he cannot get any low quality bales for free (since the size must be strictly less). The total, no matter how clever FJ is, comes to five bales.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO February 2007 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "two_pointer"],
   "accepted_user_count": 190,
   "submission_count": null,
   "average_tries": 1.9946999549865723

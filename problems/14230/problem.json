@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "geometry",
-    "set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "geometry", "set"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 4.75

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, ACM Jordanian Collegiate Programming Contest, JCPC 2012",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 5.103899955749512

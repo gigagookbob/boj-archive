@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2010, 고등부, leehosu01",
   "level": 20,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 3.59089994430542

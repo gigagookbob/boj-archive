@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 4.824999809265137

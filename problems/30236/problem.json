@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 테스트 케이스에서, $b = [2, 4, 5, 7, 8]$은 좋은 수열이다. $b_{5} &lt; 8$인 좋은 수열 $b$가 없음을 증명할 수 있다.</p>\r\n\r\n<p>두 번째 테스트 케이스에서, $b = [1, 2, 3, 4]$가 가능하다.</p>\r\n\r\n<p>세 번째 테스트 케이스에서, $b = [2]$가 가능하다.</p>\r\n",
   "source": "Contest, Codeforces, Codeforces Round 899 (Div. 2), puppy, kongum, vector, silverwolf, qwerasdfzxcl, mjhmjh1104, mingyu331, lys9546, lisifu, lighton, leinad2, koosaga, alex0211, kep1er07, jk410, jamesoh1201, hanlana18, gs20036, fs_edge, flappybird, chansol, benedict0724, andyjung2104",
   "level": 5,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 605,
   "submission_count": null,
   "average_tries": 1.1818000078201294

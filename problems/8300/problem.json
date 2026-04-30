@@ -15,10 +15,7 @@
   "hint": "<p>If we remove the letters <code>y</code>, <code>s</code>, <code>o</code>, <code>s</code>, <code>k</code>, <code>o</code> and <code>p</code>, we obtain a squared word <code>tachtach</code>. In Polish, this word represents a (not really well known) kind of a coach.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 13,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.148900032043457

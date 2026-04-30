@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2015",
   "level": 19,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive", "shortest_path", "dijkstra"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

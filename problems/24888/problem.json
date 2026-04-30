@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 2, Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 3, lobo_prix, cgiosy, jhnah917, kyo20111, Lawali",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 4.858099937438965

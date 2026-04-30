@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Round 1B)",
   "level": 17,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.0810999870300293

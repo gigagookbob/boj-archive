@@ -15,11 +15,7 @@
   "hint": "<p style=\"margin-top: 15px; margin-bottom: 15px;\"><img alt=\"alt text\" src=\"1.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 400px;\"/></p>\n<p>빨간색을 문이 앞면을 보고 있는 상태, 파란색을 뒷면을 보고 있는 상태라 했을 때, 예제의 초기 상태는 위쪽 통로와 같습니다. 이 상태로 통로를 통과하면 (-3)년 미래, 즉 3년 과거로 가게 됩니다. 여기서 2번 스위치를 누르면 아래 통로와 같게 됩니다. 이 상태로 통로를 통과하면 1년 미래로 가게 됩니다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2019 서울대학교 프로그래밍 경시대회, Division 2, kipa00, YunGoon",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "bitmask",
-    "bitset"
-  ],
+  "tags": ["bruteforcing", "bitmask", "bitset"],
   "accepted_user_count": 162,
   "submission_count": null,
   "average_tries": 3.234600067138672

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 US Open Contest, Platinum",
   "level": 22,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5

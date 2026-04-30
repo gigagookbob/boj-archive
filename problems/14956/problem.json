@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2017",
   "level": 14,
-  "tags": [
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "recursion"],
   "accepted_user_count": 698,
   "submission_count": null,
   "average_tries": 2.3696000576019287

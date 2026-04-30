@@ -15,12 +15,7 @@
   "hint": "<p>On the first test case, the given segment is $[1,2]$. The segments contained in $[1,2]$ are as follows.</p>\n<ul>\n<li>$[1,1]$: This segment is coprime, since the numbers $1$ and $1$ are coprime, and this segment does not contain any other segment inside. Thus, $[1,1]$ is minimal coprime.</li>\n<li>$[1,2]$: This segment is coprime. However, as it contains $[1,1]$, which is also coprime, $[1,2]$ is not minimal coprime.</li>\n<li>$[2,2]$: This segment is not coprime because $2$ and $2$ share $2$ positive common divisors: $1$ and $2$.</li>\n</ul>\n<p>Therefore, the segment $[1,2]$ contains $1$ minimal coprime segment.</p>",
   "source": "Contest, Codeforces, Codeforces Round 1000 (Div. 2), hjroh0315",
   "level": 7,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "arithmetic"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 1.1224000453948975

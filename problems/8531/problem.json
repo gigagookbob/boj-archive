@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2007",
   "level": 17,
-  "tags": [
-    "lca",
-    "math",
-    "number_theory",
-    "trees"
-  ],
+  "tags": ["lca", "math", "number_theory", "trees"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

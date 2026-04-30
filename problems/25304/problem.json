@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 연세대학교 미래캠퍼스, 2022 연세대학교 미래캠퍼스 슬기로운 코딩생활, junie, jhnah917, yclock",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 102480,
   "submission_count": null,
   "average_tries": 1.7943999767303467

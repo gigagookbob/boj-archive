@@ -23,11 +23,7 @@
   "hint": null,
   "source": "cake_monotone",
   "level": 14,
-  "tags": [
-    "math",
-    "combinatorics",
-    "bitmask"
-  ],
+  "tags": ["math", "combinatorics", "bitmask"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 2.7142999172210693

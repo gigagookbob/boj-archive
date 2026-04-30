@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round A",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 158,
   "submission_count": null,
   "average_tries": 1.7024999856948853

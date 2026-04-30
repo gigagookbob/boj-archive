@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 5: Almost Retired Dandelion Contest, ICPC Camp Contest 2, Contest, Open Cup, 2020/2021 Season, Stage 11: Grand Prix of Nizhny Novgorod, thdtjdals3",
   "level": 14,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "exponentiation_by_squaring", "arbitrary_precision"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 1.126099944114685

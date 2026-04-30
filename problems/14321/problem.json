@@ -15,10 +15,7 @@
   "hint": "<p>In Case 1, there is only one permutation. <code>f([1]) * f([1]) % 2</code> = 1. </p>\n<p>In Case 2, there are two permutations.</p>\n<pre>\n<code>f([1, 2])</code> = 2.\n<code>f([2, 1])</code> = 1.\n<code>(2<sup>2</sup> + 1<sup>2</sup>) % 4</code> = 1.</pre>\n<p>In Case 3, there are six permutations.</p>\n<pre>\n<code>f([1, 2, 3])</code> = 3.\n<code>f([1, 3, 2])</code> = 2.\n<code>f([2, 1, 3])</code> = 2.\n<code>f([2, 3, 1])</code> = 1.\n<code>f([3, 1, 2])</code> = 1.\n<code>f([3, 2, 1])</code> = 1.\n<code>(3<sup>2</sup> + 2<sup>2</sup> + 2<sup>2</sup> + 1<sup>2</sup> + 1<sup>2</sup> + 1<sup>2</sup>) % 7</code> = 6.</pre>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round B APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round B",
   "level": 20,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.09089994430542

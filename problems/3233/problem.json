@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2003, Regional Competition - Seniors",
   "level": 15,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["dp", "prefix_sum", "sweeping"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.736799955368042

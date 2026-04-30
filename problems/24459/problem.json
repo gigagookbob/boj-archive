@@ -15,14 +15,7 @@
   "hint": "<p>그림에 있는 저항의 값은 실제와 다르다.</p>",
   "source": "University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Advanced Division, my3, chansol, dksu40, jhnah917, juchan1220, tony9402",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.3157999515533447

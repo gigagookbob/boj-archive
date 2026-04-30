@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제5회 생각하는 프로그래밍 대회, cmw0107, jh05013, kohandy, kyo20111",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 2.5

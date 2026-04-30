@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2016 East Central Regional Contest 연습 세션",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 4.315800189971924

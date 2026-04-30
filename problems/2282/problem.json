@@ -15,11 +15,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 19,
-  "tags": [
-    "dp",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["dp", "geometry", "line_intersection"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 8.190500259399414

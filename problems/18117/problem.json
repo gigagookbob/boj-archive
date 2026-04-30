@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2019 Sogang Programming Contest, Champion, lvalue, kareus, ho94949, jh05013, kipa00, shiftpsh",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 1.875

@@ -31,11 +31,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ICPC 2020 Asia Yokohama Regional 2020",
   "level": 16,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -27,14 +27,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2013 Day 3",
   "level": 14,
-  "tags": [
-    "bfs",
-    "combinatorics",
-    "graphs",
-    "graph_traversal",
-    "math",
-    "mitm"
-  ],
+  "tags": ["bfs", "combinatorics", "graphs", "graph_traversal", "math", "mitm"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.25

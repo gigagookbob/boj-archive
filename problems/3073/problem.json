@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2004 Pacific Northwest Region Programming Contest, cokcjswo",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 1.600000023841858

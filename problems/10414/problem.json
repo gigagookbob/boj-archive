@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2014 Rocky Mountain Regional Contest, kangwlgns, uss425",
   "level": 15,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.9375

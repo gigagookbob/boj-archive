@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height: 60%; width: 60%;\"/></p>\n<p>다음과 같은 배치는 성립할 수 없다.</p>",
   "source": "University, 한국항공대학교, 제3회 한국항공대학교 프로그래밍 경진대회(KAUPC), 20wjsdudtj, chansol, gojib2002, hello70825, shjohw12, soo7652, utilforever",
   "level": 10,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 180,
   "submission_count": null,
   "average_tries": 1.7611000537872314

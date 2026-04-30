@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2004/2005, Stage 2, koosaga",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "flow",
-    "parametric_search",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "parametric_search", "graphs"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.799999952316284

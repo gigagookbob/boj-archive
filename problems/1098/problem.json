@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, wider93",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 4.434800148010254

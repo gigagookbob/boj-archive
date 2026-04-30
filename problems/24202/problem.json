@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, Qualification",
   "level": 17,
-  "tags": [
-    "sorting",
-    "prefix_sum",
-    "bitmask",
-    "knapsack",
-    "mitm"
-  ],
+  "tags": ["sorting", "prefix_sum", "bitmask", "knapsack", "mitm"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

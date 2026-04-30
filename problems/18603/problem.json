@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 3: Quailty and His Friends’ Contest",
   "level": 22,
-  "tags": [
-    "bitmask",
-    "combinatorics",
-    "dp",
-    "dp_tree",
-    "math",
-    "trees"
-  ],
+  "tags": ["bitmask", "combinatorics", "dp", "dp_tree", "math", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

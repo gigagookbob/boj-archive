@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2025 부산대학교 프로그래밍 대회 (PNUPC), Division 2",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "dp", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 151,
   "submission_count": null,
   "average_tries": 1.9139000177383423

@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample input, the unencrypted images included are 0, 2, 4, 6, 8 and 10. For the video of length 1, you do not need any transition integers, so the badness is 0. For the video of length 3, you only need a transition integer to get from image 0 to image 1. For the video of length 7, you need to use a single transition integer on 4 separate occasions (0 → 1, 2 → 3, 4 → 5, 6 → 7). For a video of length 14, you need to use a transition integer to generate image 11, 12 and 13 (which corresponds to a badness of 3).</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2015 ACM South Pacific Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.631600022315979

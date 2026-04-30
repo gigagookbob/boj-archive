@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 2013, yukariko, gaelim",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 1861,
   "submission_count": null,
   "average_tries": 1.524999976158142

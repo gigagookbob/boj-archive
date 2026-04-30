@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2021 홍익대학교 프로그래밍 경진대회, extra1563, cheetose, cozyyg, cs71107, jwvg0425, kyo20111",
   "level": 15,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["string", "ad_hoc", "case_work"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 3.283799886703491

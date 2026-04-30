@@ -15,12 +15,7 @@
   "hint": "<p>The brain can win the first game by selecting node 5; then the hoof has no valid move.</p>\n<p>The brain can win the last game by selecting node 4 and then node 7; then the hoof has no valid move.</p>\n<p>The hoof wins the other games.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Platinum",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "graphs",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "disjoint_set", "graphs", "smaller_to_larger"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 5.452400207519531

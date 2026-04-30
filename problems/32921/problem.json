@@ -23,11 +23,7 @@
   "hint": "<p>In the first test, three alarms at 7:56, 7:59, and 8:05 guarantee that Faina will wake up.</p>\n<p>In the second test, any time between 8:00 and 9:00 that does not coincide with existing alarms works.</p>\n<p>In the third test, one possible solution is to set two more alarms at 7:45 and 7:46.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Regional Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.3561999797821045

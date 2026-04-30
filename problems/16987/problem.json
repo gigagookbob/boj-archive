@@ -47,10 +47,7 @@
   "hint": null,
   "source": "BaaaaaaaaaaarkingDog, park780172, klas, baekjoon, portableangel, ryute",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 6206,
   "submission_count": null,
   "average_tries": 1.9212000370025635

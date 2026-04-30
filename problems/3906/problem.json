@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2006 in Yokohama",
   "level": 23,
-  "tags": [
-    "geometry",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "half_plane_intersection"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.097599983215332

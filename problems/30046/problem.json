@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2023, khj20006, bsyun0571, hellogaon, hyoseok, kjmin622, leo020630, mksmk606, rasauq1122, swoon, xxnonamexx",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["bruteforcing", "case_work"],
   "accepted_user_count": 210,
   "submission_count": null,
   "average_tries": 4.32859992980957

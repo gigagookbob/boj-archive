@@ -31,10 +31,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2011 Day 4",
   "level": 17,
-  "tags": [
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["geometry", "sweeping"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

@@ -15,11 +15,7 @@
   "hint": "<p>두 그래프 $H$와 $K$가 모양이 완전히 같다는 것은, $H$와 $K$의 정점들에 번호를 적당히 잘 붙였을 때 두 그래프의 간선들이 잇는 번호 쌍의 집합이 같다는 것을 의미한다.</p>",
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 3, jhwest2, ahgus89, benedict0724, whqkrkt04",
   "level": 21,
-  "tags": [
-    "dp",
-    "graphs",
-    "backtracking"
-  ],
+  "tags": ["dp", "graphs", "backtracking"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.68179988861084

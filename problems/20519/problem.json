@@ -15,12 +15,7 @@
   "hint": "<p>В приведенном примере оптимальной является, например, гармоничная последовательность [1, 2, 1, –1].</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2016",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "math",
-    "parametric_search",
-    "ternary_search"
-  ],
+  "tags": ["binary_search", "math", "parametric_search", "ternary_search"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 8

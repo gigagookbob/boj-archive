@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2002/2003, Stage 2",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "lucas"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "lucas"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.128200054168701

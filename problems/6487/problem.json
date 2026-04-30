@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 1996 Mid-Atlantic Regional Programming Contest, dotorya",
   "level": 10,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 347,
   "submission_count": null,
   "average_tries": 2.0980000495910645

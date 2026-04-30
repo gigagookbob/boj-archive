@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2015 Division 2",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "parsing"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.3447999954223633

@@ -15,10 +15,7 @@
   "hint": "<p>FJ pairs accordionist 3 with banjoist 1 to get earn A_3 * B_1 = 5 * 5 = 25 in profit.  He loses a total of (1 + 1)^2 + (1 + 1)^2 = 8 dollars due to the cost of soda for his remaining cows. Thus his final (net) profit is  25 - 8 = 17.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO Special Chinese 2007 Contest, Gold",
   "level": 21,
-  "tags": [
-    "dp",
-    "cht"
-  ],
+  "tags": ["dp", "cht"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4

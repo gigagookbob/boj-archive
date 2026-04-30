@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2005, seok9311, 5hyunseok, bupjae",
   "level": 5,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 2997,
   "submission_count": null,
   "average_tries": 1.7036999464035034

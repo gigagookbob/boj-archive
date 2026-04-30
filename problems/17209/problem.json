@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2019 NPC (Newbie Programming Contest), njw1204",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bipartite_graph"],
   "accepted_user_count": 160,
   "submission_count": null,
   "average_tries": 2.481300115585327

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2017, park03851",
   "level": 24,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "bellman_ford"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.1303999423980713

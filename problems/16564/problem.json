@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2018 Sogang Programming Contest, Master, craclog, b8goal, rkemr5002, wnduq125",
   "level": 10,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 1810,
   "submission_count": null,
   "average_tries": 2.8817999362945557

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, camo132108, dltkdgkr123, harinboy, jh05013, maple123, surung9898, yeo2507",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["binary_search", "lis"],
   "accepted_user_count": 10132,
   "submission_count": null,
   "average_tries": 1.607800006866455

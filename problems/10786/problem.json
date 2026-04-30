@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2015",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 2.019399881362915

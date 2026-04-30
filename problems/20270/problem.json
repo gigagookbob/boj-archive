@@ -15,12 +15,7 @@
   "hint": "<p>Image rights</p>\n<ul>\n<li>Sailboat image: public domain, <a href=\"https://pixabay.com/vectors/yacht-sailing-sailboatsea-cruise-26603/\">https://pixabay.com/vectors/yacht-sailing-sailboatsea-cruise-26603/</a></li>\n<li>Rice image: DataBase Center for Life Science (DBCLS) <a href=\"http://dbcls.rois.ac.jp/\">http://dbcls.rois.ac.jp/</a> on <a href=\"https://commons.wikimedia.org/wiki/File:201109_rice.png\">https://commons.wikimedia.org/wiki/File:201109_rice.png</a></li>\n</ul>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, Télécom ParisTech Internal Selection, Concours interne de programmation Télécom ParisTech 2019",
   "level": 12,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.625

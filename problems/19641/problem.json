@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2020 ICPC Sinchon Summer Algorithm Camp Contest, 초급, malkoring, gumgood, pichulia, rhs0266, shiftpsh",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "euler_tour_technique"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "euler_tour_technique"],
   "accepted_user_count": 267,
   "submission_count": null,
   "average_tries": 2.2135000228881836

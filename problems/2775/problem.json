@@ -15,11 +15,7 @@
   "hint": null,
   "source": "apjw6112, seecimi, sunhong, veydpz, djm03178",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "dp"
-  ],
+  "tags": ["math", "implementation", "dp"],
   "accepted_user_count": 61798,
   "submission_count": null,
   "average_tries": 1.712499976158142

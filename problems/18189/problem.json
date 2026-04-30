@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2019 송년대회, yclock, sebinkim",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "euler_tour_technique",
-    "trees"
-  ],
+  "tags": ["data_structures", "euler_tour_technique", "trees"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 4.626399993896484

@@ -15,12 +15,7 @@
   "hint": "<p>double, long double 등의 실수형을 사용하여 출력할 경우 유효 숫자 범위로 인해 틀릴 수 있다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2020, depthfirst, august14, dlstj0923, hibye1217, tony9402",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "arbitrary_precision"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "arbitrary_precision"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 6.9380998611450195

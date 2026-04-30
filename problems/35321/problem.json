@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2025-2026 Season, USACO 2026 First Contest, Gold",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1

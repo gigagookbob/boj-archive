@@ -15,11 +15,7 @@
   "hint": "<p>위의 예제는 이해를 돕기 위한 것으로, 실제로는 출력이 $50\\times 50$의 행렬이 아니기 때문에 올바른 출력이 아니다.</p>\n<p>여담으로, 원래 문제의 답은 $100891344545564193334812497256$이다.</p>",
   "source": "Contest, BOJ User Contest, 미적확통컵, 2023 제2회 미적확통컵, ibm2006, ai4youej, haru_101, invrtd_h, mujigae, utilforever, ychangseok",
   "level": 24,
-  "tags": [
-    "math",
-    "constructive",
-    "combinatorics"
-  ],
+  "tags": ["math", "constructive", "combinatorics"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

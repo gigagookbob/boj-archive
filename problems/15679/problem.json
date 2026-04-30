@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2018 연세대학교 컴퓨터과학과 프로그래밍 경진대회, portableangel",
   "level": 19,
-  "tags": [
-    "case_work",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["case_work", "combinatorics", "math"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 10.67240047454834

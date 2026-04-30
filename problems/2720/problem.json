@@ -15,11 +15,7 @@
   "hint": "<p><iframe frameborder=\"0\" height=\"480\" src=\"1.png\" width=\"853\"></iframe></p>\r\n",
   "source": "ICPC, Regionals, North America, Greater New York Region, 2006 Greater New York Programming Contest, baekjoon",
   "level": 3,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "arithmetic"],
   "accepted_user_count": 39628,
   "submission_count": null,
   "average_tries": 1.4356000423431396

@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2022, Beginner, School, CS@Mines, CS@Mines HSPC 2022, Advanced",
   "level": 6,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.1723999977111816

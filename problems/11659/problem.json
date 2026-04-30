@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 8,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 54350,
   "submission_count": null,
   "average_tries": 2.5840001106262207

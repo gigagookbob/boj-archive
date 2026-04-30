@@ -15,10 +15,7 @@
   "hint": "<ol>\r\n\t<li>S=&quot;ACDBCB&quot;, T=&quot;&quot;</li>\r\n\t<li>S=&quot;CDBCB&quot;, T=&quot;A&quot;</li>\r\n\t<li>S=&quot;CDBC&quot;, T=&quot;AB&quot;</li>\r\n\t<li>S=&quot;CDB&quot;, T=&quot;ABC&quot;</li>\r\n\t<li>S=&quot;CD&quot;, T=&quot;ABCB&quot;</li>\r\n\t<li>S=&quot;D&quot;, T=&quot;ABCBC&quot;</li>\r\n\t<li>S=&quot;&quot;, T=&quot;ABCBCD&quot;</li>\r\n</ol>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO December 2007 Contest, Gold, koosaga",
   "level": 14,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 3.58270001411438

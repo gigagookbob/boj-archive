@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2014 East Central Regional Contest 연습 세션",
   "level": 5,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.2000000476837158

@@ -19,12 +19,7 @@
   "hint": "<p>In first sample there are three children, each should be given at least three toys out of total $\\left \\lfloor \\frac{3\\cdot 3^2}{2}\\right \\rfloor = 13$ toy kinds: $1, 2, \\ldots, 13$. In the given solution each pair of children has a toy of kind $1$ in common (and no other).</p>\n<p>In second sample there are five children and each is to be given at least four different toy kinds, the toys come in $\\left \\lfloor \\frac{3\\cdot 4^2}{2}\\right \\rfloor = 24$ kinds: $1, 2, \\ldots, 24$. In the given solution the pairs of children that do not include the second child have the toy $13$ in common, the pairs of the second child and, respectively, first, third, fourth, and fifth child have a common toy of the kind: $1, 4, 7, 10$, respectively.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2017",
   "level": 24,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "constructive"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.9375

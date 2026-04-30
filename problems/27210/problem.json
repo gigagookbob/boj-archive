@@ -23,11 +23,7 @@
   "hint": "<p>칠할 수 있는 돌상의 개수에 제한은 없으며, 반드시 연속한(인접한) 돌상들만 칠할 수 있음(띄엄띄엄 칠할 수 없음)에 유의하라.</p>",
   "source": "Contest, 쇼미더코드: 원티드 주관 코딩테스트 대회, 2022년 3회차, wookje",
   "level": 11,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "maximum_subarray"
-  ],
+  "tags": ["dp", "prefix_sum", "maximum_subarray"],
   "accepted_user_count": 793,
   "submission_count": null,
   "average_tries": 2.238300085067749

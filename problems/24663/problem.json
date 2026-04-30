@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 1: Kyoto U Contest 2, Contest, Open Cup, 2021/2022 Season, Stage 10: Grand Prix of Kyoto",
   "level": 22,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_sum_over_subsets",
-    "mitm"
-  ],
+  "tags": ["bitmask", "dp", "dp_sum_over_subsets", "mitm"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2

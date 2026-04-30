@@ -19,12 +19,7 @@
   "hint": "<p>$\\mathbb{N}$ is the set of positive integers.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 7: Ural FU Dandelion Contest",
   "level": 24,
-  "tags": [
-    "math",
-    "dp",
-    "fft",
-    "kitamasa"
-  ],
+  "tags": ["math", "dp", "fft", "kitamasa"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 5.31820011138916

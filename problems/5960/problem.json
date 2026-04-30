@@ -15,11 +15,7 @@
   "hint": "<p>The word Farmer John overheard had 2 uppercase and 2 lowercase letters.  The valid pairs of adjacent letters are AB, ab, BA, ba, Aa, Bb and bB.</p>\n<p>The possible words are:</p>\n<pre>\nAabB\nABba\nabBA\nBAab\nBbBb\nbBAa\nbBbB</pre>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO February 2011 Contest, Gold",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "string"
-  ],
+  "tags": ["dp", "graphs", "string"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.7878999710083008

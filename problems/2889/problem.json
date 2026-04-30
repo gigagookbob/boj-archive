@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #7, baekjoon, degurii, adh0463",
   "level": 22,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "constructive",
-    "dfs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "constructive", "dfs", "eulerian_path"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 6.957399845123291

@@ -23,10 +23,7 @@
   "hint": "<p>В первом примере в кроссворде есть $6$ слов, соответствующих каждому столбцу и строке поля. В оптимальном решении, суммарное изменение цифр равно $20$.</p>\n<p>Во втором примере, помимо слов длины $1$, есть следующие слова: <code>2020</code>, <code>05</code>, <code>10</code>. В оптимальном решении, суммарное изменение цифр равно $7$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, May 11, 2020",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2

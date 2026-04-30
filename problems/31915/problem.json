@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 광주과학기술원, 2024 GIST 알고리즘 마스터즈, invrtd_h, 99asdfg, gs22123, leo020630, petamingks",
   "level": 18,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.769200086593628

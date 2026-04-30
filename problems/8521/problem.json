@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2007",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "mitm",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "mitm", "tree_set", "set"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

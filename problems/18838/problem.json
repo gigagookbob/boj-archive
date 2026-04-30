@@ -35,13 +35,7 @@
   "hint": null,
   "source": "baekjoon, cgiosy",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "traceback",
-    "lis"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "traceback", "lis"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 4.808700084686279

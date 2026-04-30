@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 February Contest, Platinum",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "offline_queries",
-    "segtree",
-    "stack"
-  ],
+  "tags": ["data_structures", "offline_queries", "segtree", "stack"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.5254000425338745

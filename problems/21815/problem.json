@@ -15,10 +15,7 @@
   "hint": "<p>It suffices to permute the adjacency lists of vertices $1$ and $4$. This requires a total of $c_1+c_4=13$ moonies. We can let $p_1=[1,9,4,8]$ and $p_4=[7,4,6,3]$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 US Open Contest, Gold",
   "level": 18,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.4365999698638916

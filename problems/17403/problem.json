@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, Open Contest, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 고급반, spongbob9876",
   "level": 17,
-  "tags": [
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "convex_hull"],
   "accepted_user_count": 369,
   "submission_count": null,
   "average_tries": 2.352299928665161

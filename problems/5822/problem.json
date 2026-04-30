@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2011, Day 2, august14",
   "level": 20,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 2.5511999130249023

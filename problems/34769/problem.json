@@ -19,11 +19,7 @@
   "hint": "<p>트리는 사이클이 없는 연결 그래프입니다. 즉, $N$개의 정점으로 이루어진 트리는 $N-1$개의 간선으로 사이클 없이 모든 정점이 연결되어 있습니다.</p>\n<p>트리에서 두 정점 $u, v$사이의 거리란, $u$에서 $v$로 가는 경로에 포함된 간선의 개수를 의미합니다.</p>",
   "source": "University, 건국대학교, 2025 건국대학교 프로그래밍 경진대회 (KUPC), yookwi, cmgjol010, hyperbolic, ohwphil, pizzaroot, riroan, rlatjwls3333",
   "level": 18,
-  "tags": [
-    "graphs",
-    "trees",
-    "game_theory"
-  ],
+  "tags": ["graphs", "trees", "game_theory"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 7.599999904632568

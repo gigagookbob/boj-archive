@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 15,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.6296000480651855

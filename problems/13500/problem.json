@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2016: Shakespeare",
   "level": 10,
-  "tags": [
-    "implementation",
-    "geometry",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "simulation"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.3333001136779785

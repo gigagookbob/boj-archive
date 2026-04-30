@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2005",
   "level": 24,
-  "tags": [
-    "trees",
-    "maximum_subarray",
-    "splay_tree"
-  ],
+  "tags": ["trees", "maximum_subarray", "splay_tree"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 5.882400035858154

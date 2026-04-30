@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCC 2014 Junior Division, baekjoon, doju, qja0950, aidenlee0504, choiking10, pgj3688",
   "level": 2,
-  "tags": [
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["implementation", "geometry"],
   "accepted_user_count": 33677,
   "submission_count": null,
   "average_tries": 1.7674000263214111

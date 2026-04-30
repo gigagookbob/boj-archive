@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 파댕이컵, 파댕이컵, qvixnh22, mugamta, naeby, utilforever",
   "level": 18,
-  "tags": [
-    "geometry",
-    "bipartite_matching",
-    "geometry_hyper"
-  ],
+  "tags": ["geometry", "bipartite_matching", "geometry_hyper"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.200000047683716

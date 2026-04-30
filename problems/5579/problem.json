@@ -19,11 +19,7 @@
   "hint": "<p>入力例1の山に対して, 「シャッフル(3,5)」を行うと， カードは上から順番に 6, 7, 8, 9, 4, 5, 1, 2, 3 となる． 上から数えて 3 枚目から 7 枚目に含まれる番号が 4 以下のカードは， 番号 4 と番号 1 の 2 枚である．</p>\n<p>また， 入力例2の山に対して, 「シャッフル(3,8)」「シャッフル(2,5)」「シャッフル(6,10)」を順番に行うと， カードは上から順番に 9, 10, 3, 11, 12, 4, 5, 6, 7, 8, 1, 2 となる． 上から数えて 3 枚目から 8 枚目に含まれる番号が 5 以下のカードは 3 枚である．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2008/2009 예선",
   "level": 19,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.5184999704360962

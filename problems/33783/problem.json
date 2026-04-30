@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, Delft University of Technology, Sjaars Kampioenschap Programmeren 2014",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.2894999980926514

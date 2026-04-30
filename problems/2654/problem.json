@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1998, 중등부, doju",
   "level": 16,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.3478000164031982

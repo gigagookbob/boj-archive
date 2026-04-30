@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", School, Virginia Tech High School Programming Contest, 2017 Virginia Tech High School Programming Contest",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.4544999599456787

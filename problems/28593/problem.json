@@ -19,12 +19,7 @@
   "hint": "<p>This figure corresponds to the first two days of sample $1$. Note that the sum of prices after the first day is $16$, so the first integer in the output is $16$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": ", Olympiad, European Girls' Olympiad in Informatics, EGOI 2023, Day 1",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "hash_set"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2

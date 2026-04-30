@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2004",
   "level": 5,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 2.2428998947143555

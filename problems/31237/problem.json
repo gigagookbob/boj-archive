@@ -27,11 +27,7 @@
   "hint": "<p>Дните от седмицата се изписват по следния начин: ”Monday”, ”Tuesday”, ”Wednesday”, ”Thursday”, ”Friday”, ”Saturday”, ”Sunday”, месеците: ”September”, ”October”, ”November”, ”December”. Септември и ноември имат по 30 дни, а октомври и декември – по 31.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2012, Group C",
   "level": 7,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["string", "bruteforcing", "bitmask"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.90910005569458

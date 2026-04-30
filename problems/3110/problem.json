@@ -23,11 +23,7 @@
   "hint": "<p>세 번째 예제의 경우 다음과 같이 3가지 방법이 있다.</p>\r\n\r\n<p>\\[\\frac{14}{5} &lt; \\frac{3}{1} &lt; \\frac{28}{9} &lt; \\frac{22}{7} &lt; \\frac{10}{3}\\]\\[\\frac{14}{5} &lt; \\frac{3}{1} &lt; \\frac{28}{9} &lt; \\frac{23}{7} &lt; \\frac{10}{3}\\]\\[\\frac{14}{5} &lt; \\frac{3}{1} &lt; \\frac{29}{9} &lt; \\frac{23}{7} &lt; \\frac{10}{3}\\]</p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #1 - Seniors, baekjoon",
   "level": 13,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "mitm"
-  ],
+  "tags": ["math", "bruteforcing", "mitm"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 2.67330002784729

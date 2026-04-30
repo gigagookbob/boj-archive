@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO January 2008 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["math", "implementation", "sorting"],
   "accepted_user_count": 301,
   "submission_count": null,
   "average_tries": 1.3588000535964966

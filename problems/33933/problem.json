@@ -31,12 +31,7 @@
   "hint": "<p>정수 $a$와 $0$이 아닌 정수 $b$에 대해, $a = bq + r$와 $0 \\le r &lt; |b|$를 만족하는 정수 $q$, $r$이 유일하게 존재하며, 이때 $r$를 $a$를 $b$로 나누었을 때 나머지라 한다.</p>\n<p>$a \\bmod b$는 $a$를 $b$로 나누었을 때 나머지를 의미한다.</p>",
   "source": "University, 인하대학교, 2025 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2025 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, plan_pt, 39dll, aym506, chlwnsgud7, cmgjol010, dongggle, gumgood, hjkim9911, jinhan814, jkw8357, jthis, wjdclgns12",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.8703999519348145

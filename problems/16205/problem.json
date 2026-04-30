@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, eric00513, yeonghoey",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 834,
   "submission_count": null,
   "average_tries": 1.8106000423431396

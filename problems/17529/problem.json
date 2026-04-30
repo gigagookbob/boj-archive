@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2019",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "geometry", "disjoint_set"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.9375

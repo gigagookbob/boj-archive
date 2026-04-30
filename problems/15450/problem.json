@@ -19,10 +19,7 @@
   "hint": "<p>Let (a, b) denote a card with rank a and suit b.</p>\n<p>For the first example, Vera currently has cards (1, 0) and (3, 1). If she chooses additional cards (3, 0),(4, 0),(4, 1), her hand will be a Two pair as there are two cards with rank 3 and two other cards with rank 4. Note that this hand also satisfies being a One pair, but Two pair is the lower-numbered category.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 30 September, 2017",
   "level": 10,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.0769000053405762

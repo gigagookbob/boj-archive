@@ -23,12 +23,7 @@
   "hint": null,
   "source": "hibye1217, iamgamja, iktk, lms0806, mujigae, nflight11, pyb1031, utilforever, wider93",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic", "backtracking"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.5714000463485718

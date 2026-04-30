@@ -15,11 +15,7 @@
   "hint": "<p>젖소 박승원은 2번째 혹은 3번째 체크포인트를 건너뛸 수 있는데, 여기서 두 번째 체크포인트를 건너뛸 경우 경로는 (0,0) -&gt; (11,-1) -&gt; (10,0) 이 되며 거리는 14이다. 박승원은 이것보다 더 짧게 달릴 수 없다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO December 2014 Contest, Bronze, koosaga, kks227",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry"],
   "accepted_user_count": 2079,
   "submission_count": null,
   "average_tries": 1.9226000308990479

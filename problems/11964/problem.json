@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO December 2015 Contest, Gold, wbcho0504",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 473,
   "submission_count": null,
   "average_tries": 2.331899881362915

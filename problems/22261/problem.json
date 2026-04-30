@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2021",
   "level": 23,
-  "tags": [
-    "dp",
-    "greedy",
-    "slope_trick"
-  ],
+  "tags": ["dp", "greedy", "slope_trick"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.625

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2024, Contest, University, 경인지역 대학 연합, shake! 2024, Open Contest, ibm2006, akim9905, bnb2011, Coxie, hamuim, jk410, lky7674, overnap, pani, rustiebeats, shjohw12, swoon, tlsdydaud1, utilforever",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "implementation", "ad_hoc", "constructive"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 2.384000062942505

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제2회 피갤컵, plast, dong5995, herdson, kwoncycle, leo020630, lunarlity, pyb1031, realpsdoingdamyoo",
   "level": 1,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 2529,
   "submission_count": null,
   "average_tries": 1.8853000402450562

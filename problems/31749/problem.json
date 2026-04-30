@@ -15,13 +15,7 @@
   "hint": "<p>$\\max A$는 $A$의 원소들 중의 최댓값을, $\\min A$는 $A$의 원소들 중의 최솟값을 뜻합니다.</p>",
   "source": "School, 서울과학고등학교, 2024 SciCom Qualification Test, jimini23, 79brue, math_rabbit_1028, physics07, turgon314",
   "level": 17,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc",
-    "constructive",
-    "parity"
-  ],
+  "tags": ["math", "greedy", "ad_hoc", "constructive", "parity"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 5.0345001220703125

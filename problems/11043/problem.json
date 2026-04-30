@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2015 Japan Domestic Contest",
   "level": 24,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "mst",
-    "alien"
-  ],
+  "tags": ["graphs", "binary_search", "mst", "alien"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.416700005531311

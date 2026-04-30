@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2020 ICPC Sinchon Summer Algorithm Camp Contest, 초급, 906bc, ingyu1008, gumgood, pichulia, rhs0266, shiftpsh",
   "level": 8,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 4318,
   "submission_count": null,
   "average_tries": 2.802500009536743

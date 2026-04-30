@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2015 Division 1",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation",
-    "case_work"
-  ],
+  "tags": ["implementation", "simulation", "case_work"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.916700005531311

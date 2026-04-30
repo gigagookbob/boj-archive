@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, Croatian Olympiad in Informatics 2009, baekjoon, lim551, gunwookim",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "math",
-    "offline_queries",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "math", "offline_queries", "segtree"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.5

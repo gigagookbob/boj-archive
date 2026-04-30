@@ -15,10 +15,7 @@
   "hint": "<p>In this setting, only three cows might end up in line (and this is the smallest possible). Suppose the cows with $w = 7$ and $w = 400$ arrive first and wait in line. Then the cow with $w = 1$ arrives and turns away, since 2 cows are already in line. The cows with $w = 2$ then arrive, one staying and one turning away.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 US Open Contest, Silver, heeda0528",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 410,
   "submission_count": null,
   "average_tries": 1.5390000343322754

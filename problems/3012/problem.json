@@ -23,9 +23,7 @@
   "hint": "<p>예제 1의 경우 다음이 가능하다. <code>({([()])})</code>, <code>()([()]{})</code>, <code>([([])]{})</code></p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #1, baekjoon, degurii, jung2381187, goooora",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 565,
   "submission_count": null,
   "average_tries": 4.444200038909912

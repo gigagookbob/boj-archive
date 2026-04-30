@@ -19,12 +19,7 @@
   "hint": "<p>Sample 1</p>\n<p>Take 10 ml from the 1st hive, then 7 ml from the second, 9 ml from the 4 th and finally 7 ml from the last one. This is the maximum possible, totaling 10+7+9+7 = 33.</p>\n<p>Sample 2</p>\n<p>Take 10 ml from the 1st hive, then 10 ml from the 2 nd hive and another 9 ml from the 2 nd hive, totaling 10+10+9 = 29</p>",
   "source": "Olympiad, Malaysian Computing Olympiad, MCO 2015",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.7606000900268555

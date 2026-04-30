@@ -15,14 +15,7 @@
   "hint": "<p>The string from the first test case is ,,110” - it is a substring of h<sup>4</sup>(,,0”)=,,10110”. In the second test unit there is a string ,,100”, which is not a substring of h<sup>m</sup>(,,0”) for any m.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2008/2009, Stage 3",
   "level": 26,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "string",
-    "ad_hoc",
-    "stack"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "string", "ad_hoc", "stack"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 7.5

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2003 East Central Regional Contest, koosaga",
   "level": 15,
-  "tags": [
-    "dp",
-    "set"
-  ],
+  "tags": ["dp", "set"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.2221999168395996

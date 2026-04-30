@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, February 13, 2010",
   "level": 11,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

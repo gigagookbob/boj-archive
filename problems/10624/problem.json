@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2014",
   "level": 13,
-  "tags": [
-    "dp",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "math", "prefix_sum"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.5641000270843506

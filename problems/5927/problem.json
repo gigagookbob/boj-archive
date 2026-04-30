@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 3 tiles.  Two are squares of side length 3, and one is a square with side length 1.  We would like to exchange these to make a total area of 6.</p><h4>Output Details</h4><p>Exchange one of the side-3 squares for a side-2 square, and another side-3 square for a side-1 square.  This gives the desired area of 4+1+1=6 and costs 4+1=5 units.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO November 2011 Contest, Silver",
   "level": 13,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 1.9230999946594238

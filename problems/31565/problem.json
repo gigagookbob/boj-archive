@@ -19,11 +19,7 @@
   "hint": "<p>윤년은 100의 배수가 아닌 4의 배수이거나, 400의 배수인 해이다. 윤년에는 2월 29일이 존재하므로 한 해가 366일이다.</p>",
   "source": "University, 전남대학교, 2024 상반기 전남대학교 PIMM 알고리즘 파티, belline0124, dohoon, kiwiyou, ksoosung77, lycoris1600, measurezero, tony9402, utilforever, vkdldjvkdnj",
   "level": 12,
-  "tags": [
-    "implementation",
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["implementation", "dp", "knapsack"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.540800094604492

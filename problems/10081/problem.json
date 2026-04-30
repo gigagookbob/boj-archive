@@ -15,12 +15,7 @@
   "hint": "<p>Kids at points (−0.50, −1.60) and (−1.60, −0.50) are nearest and distance between them is 1.56.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2014",
   "level": 17,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "angle_sorting"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2

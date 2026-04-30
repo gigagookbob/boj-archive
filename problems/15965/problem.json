@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 부산일과학고, BSIS배 Code Festival, jh05013, kyo20111",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 2379,
   "submission_count": null,
   "average_tries": 2.4493000507354736

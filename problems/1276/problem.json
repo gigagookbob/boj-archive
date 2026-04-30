@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, Croatian Regional Competition in Informatics 2008, Olympiad, Croatian Highschool Competitions in Informatics, 2008, Regional Competition - Seniors",
   "level": 10,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 362,
   "submission_count": null,
   "average_tries": 2.234800100326538

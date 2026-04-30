@@ -19,14 +19,7 @@
   "hint": "<p>One arc second (denoted as 1′′) is equal to one sixtieth of one arc minute (denoted as 1′), which in turn is equal to one sixtieth of one arc degree (denoted as 1<sup>◦</sup>). Therefore, 60′′ = 1′, 60′ = 1<sup>◦</sup>, and 129 600′′ = 360<sup>◦</sup>, which means that 129 600 arc seconds constitute the full arc.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 568px; height: 567px;\"/></p>\n<p>In the first example, the first satellite is located at point A(1; 0), and the second one is located at point B(−1; 0). The only possible flight directions on the picture are denoted by \\(\\vec{r}_1\\) and \\(\\vec{r}_2\\) having polar angles 90<sup>◦</sup> = 32 400′′ and 270<sup>◦</sup> = 97 200′′ correspondingly.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 4: Oleksandr Kulkov Contest 2",
   "level": 21,
-  "tags": [
-    "geometry",
-    "hashing",
-    "manacher",
-    "physics",
-    "sorting",
-    "string"
-  ],
+  "tags": ["geometry", "hashing", "manacher", "physics", "sorting", "string"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4

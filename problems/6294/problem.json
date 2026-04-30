@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2002, ICPC, Regionals, Europe, Central European Regional Contest, CERC 2002",
   "level": 19,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "set",
-    "mitm"
-  ],
+  "tags": ["implementation", "bruteforcing", "set", "mitm"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 3.3461999893188477

@@ -19,10 +19,7 @@
   "hint": "<p>The first query asks how many rows have the number 2 in the third column. These are rows number 1 (1 5 2) and number 3 (4 3 2).<br/>\nThe second query asks how many rows have the numbers 3 and 2 in the second and third column. This is only row number 3 (4 3 2).<br/>\nThe third query asks how many rows are there in total, and the answer is obviously 4.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #7",
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 1.101199984550476

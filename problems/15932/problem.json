@@ -31,9 +31,7 @@
   "hint": null,
   "source": "haden, jh05013",
   "level": 13,
-  "tags": [
-    "offline_queries"
-  ],
+  "tags": ["offline_queries"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.319999933242798

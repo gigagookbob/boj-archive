@@ -15,11 +15,7 @@
   "hint": "<p>Here is the sequence of $3$ operations described by the output of the first test case:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 768px; height: 90px;\"/></p>\n<p>It is impossible to perform any operations in the second test case, so it is not possible to reach the target grid.</p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 18,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

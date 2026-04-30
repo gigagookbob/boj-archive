@@ -19,10 +19,7 @@
   "hint": "<p>I det första exempelfallet vinner lag A första settet med $25-0$, lag B vinner andra settet med $0-25$, och lag A vinner det avgörande tredje settet med $15-0$. Resultatet av matchen blir alltså $2-1$.</p>\n<p>I det andra exempelfallet vinner Lag B både första och andra settet med $25-27$, och resultatet av matchen blir alltså $0-2$.</p>\n<p>Notera att enbart det första exempelfallet skulle kunna förekomma i testfallsgrupp $1$.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Online Qualification",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.6169999837875366

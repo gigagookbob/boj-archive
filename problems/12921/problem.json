@@ -15,10 +15,7 @@
   "hint": null,
   "source": "yclock",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "pbs"
-  ],
+  "tags": ["binary_search", "pbs"],
   "accepted_user_count": 196,
   "submission_count": null,
   "average_tries": 2.413300037384033

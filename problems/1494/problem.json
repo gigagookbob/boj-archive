@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "case_work",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "case_work", "euclidean"],
   "accepted_user_count": 161,
   "submission_count": null,
   "average_tries": 3.6893999576568604

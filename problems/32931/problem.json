@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 402px; height: 171px;\"/></p>\n<p>맨 오른쪽 아래 칸을 포함해, 자석이 한 번 지나간 칸을 다시 지나갈 수 있음에 유의하라.</p>",
   "source": "University, 서울시립대학교, 2024 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 2, University, 서울시립대학교, 2024 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 1, qqq831347, ai4youej, pjshwa, pwj6800, sangyoon9, tyoungs",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 2.7483999729156494

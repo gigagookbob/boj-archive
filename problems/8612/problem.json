@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p align=\"center\">Karty, które Marcel powinien wyjąć z wieży, zostały zaznaczone na rysunku liniami przerywanymi. Mają one wartości: $1$, $-3$, $2$, $1$, $-1$, $5$, a więc suma ich wartości to $5$.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2009, Stage 2",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

@@ -27,9 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 양갈래컵, 제 1회 양갈래컵, martinok1103, ibm2006, index, jyheo98, mingyu331, naeby, pretty_pi, sksms1375",
   "level": 10,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 156,
   "submission_count": null,
   "average_tries": 1.6025999784469604

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1994/1995, Stage 2, koosaga",
   "level": 6,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting", "geometry"],
   "accepted_user_count": 151,
   "submission_count": null,
   "average_tries": 1.417199969291687

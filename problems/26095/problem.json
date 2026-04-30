@@ -27,11 +27,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2022 Sogang Programming Contest, Champion, University, 서강대학교, Sogang Programming Contest, 2022 Sogang Programming Contest, Champion (Open), djs100201, bnb2011, dong_gas, eaststar, gratus907, jthis, tony9402, wbcho0504",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["ad_hoc", "binary_search", "parametric_search"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.8225998878479004

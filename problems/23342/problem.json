@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2021",
   "level": 27,
-  "tags": [
-    "matroid"
-  ],
+  "tags": ["matroid"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

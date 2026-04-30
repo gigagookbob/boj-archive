@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2020",
   "level": 22,
-  "tags": [
-    "dp",
-    "divide_and_conquer",
-    "divide_and_conquer_optimization"
-  ],
+  "tags": ["dp", "divide_and_conquer", "divide_and_conquer_optimization"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.1930999755859375

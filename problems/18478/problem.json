@@ -23,12 +23,7 @@
   "hint": "<p>The answer for the first example is 35 because all strings of length 1 are possible: “1”, “2”, . . . , “9”, “a”, “b”, . . . , “z”.</p>\n<p>The answer for the second example is 35<sup>4</sup> − 35<sup>2</sup>.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 2: 300iq Contest 2, Contest, Open Cup, 2019/2020 Season, Stage 1: Grand Prix of Kazan, 300iq",
   "level": 23,
-  "tags": [
-    "bruteforcing",
-    "dp",
-    "inclusion_and_exclusion",
-    "precomputation"
-  ],
+  "tags": ["bruteforcing", "dp", "inclusion_and_exclusion", "precomputation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

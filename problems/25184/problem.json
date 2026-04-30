@@ -19,9 +19,7 @@
   "hint": "<p>$\\lfloor {x} \\rfloor$는 $x$보다 크지 않은 정수 중 가장 큰 정수를 의미한다.</p>\n<p>$\\lfloor {3.7} \\rfloor$ $=$ $3$</p>\n<p>$\\lfloor {4} \\rfloor$ $=$ $4$</p>",
   "source": "University, 서강대학교, 청정수컵, 2022 서강대학교 청정수컵, 청정수 Round, dong_gas, bnb2011, cheetose, djs100201, dong_gas, gumgood, jh05013, jinhan814, lky7674, meque98, tony9402",
   "level": 7,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 907,
   "submission_count": null,
   "average_tries": 1.636199951171875

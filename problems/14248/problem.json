@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 2275,
   "submission_count": null,
   "average_tries": 1.6532000303268433

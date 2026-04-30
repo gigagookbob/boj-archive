@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, Delft University of Technology, Freshmen Programming Contest 2020",
   "level": 18,
-  "tags": [
-    "math",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["math", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

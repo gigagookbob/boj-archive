@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2014 in Tokyo",
   "level": 19,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.0416998863220215

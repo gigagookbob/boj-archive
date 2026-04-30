@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, CoolSpot 2011",
   "level": 8,
-  "tags": [
-    "sliding_window",
-    "string"
-  ],
+  "tags": ["sliding_window", "string"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.5405000448226929

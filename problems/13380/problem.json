@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2015 ACM-ICPC Thailand National Programming Contest",
   "level": 16,
-  "tags": [
-    "math",
-    "graphs",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "graphs", "exponentiation_by_squaring"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.4390000104904175

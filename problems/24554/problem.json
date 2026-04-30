@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2022 Winter), pichulia, jh05013, jwvg0425",
   "level": 24,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "ternary_search",
-    "rotating_calipers"
-  ],
+  "tags": ["geometry", "convex_hull", "ternary_search", "rotating_calipers"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 5.625

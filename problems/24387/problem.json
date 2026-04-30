@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2013, Group E",
   "level": 3,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "bruteforcing", "sorting", "arithmetic"],
   "accepted_user_count": 324,
   "submission_count": null,
   "average_tries": 1.450600028038025

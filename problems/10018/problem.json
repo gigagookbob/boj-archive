@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>Bessie is willing to take at most 3 steps from her initial position.  There are 4 patches of grass.  The first contains 7 units of grass and is located at position (8,6), and so on.</p><h4>Output Details</h4><p>By locating herself at (3,0), the grass at positions (0,0), (6,0), and (4,2) is all within K units of distance.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO March 2014 Contest, Gold",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "lazyprop"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.051300048828125

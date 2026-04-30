@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2011 Day 3",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "dp",
-    "parsing",
-    "stack",
-    "string"
-  ],
+  "tags": ["data_structures", "dp", "parsing", "stack", "string"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.2400000095367432

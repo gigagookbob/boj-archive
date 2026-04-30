@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, 2025 ICPC Asia Seoul Regional, koosaga",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "multi_segtree"
-  ],
+  "tags": ["data_structures", "segtree", "multi_segtree"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 5

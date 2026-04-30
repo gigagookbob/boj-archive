@@ -27,12 +27,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2025 KPSC Summer Algorithm Challenge, tapris, chan120714, lky7674, saywoo, sjhi00, usb9245, utilforever, young_out",
   "level": 19,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "functional_graph"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "functional_graph"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 6.6666998863220215

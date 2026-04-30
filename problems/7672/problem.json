@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2007",
   "level": 0,
-  "tags": [
-    "geometry",
-    "implementation",
-    "physics",
-    "simulation"
-  ],
+  "tags": ["geometry", "implementation", "physics", "simulation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2020, Contest, Open Cup, 2019/2020 Season, Stage 13: Grand Prix of America",
   "level": 11,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.5699000358581543

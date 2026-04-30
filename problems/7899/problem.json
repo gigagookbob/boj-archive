@@ -15,12 +15,7 @@
   "hint": "<ul>\n<li>When changing trains at an intermediate station, the earliest possible departure time is one minute after the time of arrival.</li>\n<li>All times are on the same day; the journey does not cross midnight.</li>\n<li>It never happens that two or more trains depart from the same station at the same time to the same destination station.</li>\n<li>The input is such that there is a unique route with maximum probability.</li>\n<li>The passenger will stick to his route, always taking the first available train to the next station. If a train is cancelled he will wait for the next train to that station. He will never try to be smart by taking faster trains or different routes.</li>\n</ul>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2002",
   "level": 17,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "probability"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "probability"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

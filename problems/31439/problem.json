@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2024 KSA Automata Winter Contest, flakepowders, anchor, davidkim0, dohoon, eric00513, gs22059, hjroh0315, kiwiyou, mickeyjung, naeby, parkky, runnie0427, shiftpsh, utilforever, vkdldjvkdnj, wizardrabbit",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 4.214300155639648

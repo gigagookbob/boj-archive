@@ -15,12 +15,7 @@
   "hint": "<p>In the sample 5 = 12<sub>3</sub> and 1 = 1<sub>3</sub>, 5 = 101<sub>2</sub> and 6 = 110<sub>2</sub>, thus rows 1 5 6 and 6 5 1 are beautiful.</p>",
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2012",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "tsp"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.1875

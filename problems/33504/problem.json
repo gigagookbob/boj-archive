@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2025 January Contest, Silver",
   "level": 16,
-  "tags": [
-    "math",
-    "sorting",
-    "binary_search",
-    "combinatorics"
-  ],
+  "tags": ["math", "sorting", "binary_search", "combinatorics"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.4658000469207764

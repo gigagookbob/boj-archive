@@ -15,10 +15,7 @@
   "hint": "<p>국정원 소프트웨어 SW 공채 역량평가 샘플 예제</p>\n<p>출처: 국정원 채용 시스템 홈페이지</p>",
   "source": null,
   "level": 14,
-  "tags": [
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["binary_search", "lis"],
   "accepted_user_count": 1073,
   "submission_count": null,
   "average_tries": 1.9450000524520874

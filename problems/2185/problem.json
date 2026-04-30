@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 1998, Day 2, raararaara",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping"],
   "accepted_user_count": 172,
   "submission_count": null,
   "average_tries": 3.7906999588012695

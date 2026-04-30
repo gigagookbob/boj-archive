@@ -15,11 +15,7 @@
   "hint": "<p>처음에 심는 것은 가지 하나에 잎이 하나 달린 묘목입니다.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2006, hidonggi",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 2816,
   "submission_count": null,
   "average_tries": 1.2415000200271606

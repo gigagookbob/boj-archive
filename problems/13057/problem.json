@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2016",
   "level": 17,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2

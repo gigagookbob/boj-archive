@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO February 2004 Contest, Blue",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.240999937057495

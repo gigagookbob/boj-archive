@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2025 KAIST RUN Spring Contest, flappybird, ainta, gs22123, ibm2006, koosaga, leinad2, silverwolf, urd05",
   "level": 13,
-  "tags": [
-    "greedy",
-    "trees",
-    "constructive"
-  ],
+  "tags": ["greedy", "trees", "constructive"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 2.220599889755249

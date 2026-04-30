@@ -15,11 +15,7 @@
   "hint": "<p>$\\lfloor x \\rfloor$는 $x$를 넘지 않는 최대 정수를 의미한다.</p>",
   "source": "School, 한국과학영재학교, 2025 Spring Automata 창하컵, edward3378, davidkim0, eric00513, flakepowders, mythofys, parkky, raehwan0418, sooahn07",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "segtree"
-  ],
+  "tags": ["data_structures", "ad_hoc", "segtree"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

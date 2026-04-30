@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2017 December Contest, Gold",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "two_pointer"],
   "accepted_user_count": 454,
   "submission_count": null,
   "average_tries": 2.731300115585327

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2018 ACM South Pacific Programming Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "ad_hoc", "arithmetic"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 1.4723999500274658

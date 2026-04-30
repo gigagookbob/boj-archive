@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2025 East Central NA Regional Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "euclidean"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.333299994468689

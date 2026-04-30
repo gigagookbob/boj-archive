@@ -31,12 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ACM-ICPC Asia Tsukuba Regional Contest 2017",
   "level": 14,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "backtracking"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.5769000053405762

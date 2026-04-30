@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, 2024 North Central NA Regional Contest, ICPC, Regionals, North America, Rocky Mountain Regional, 2024 Rocky Mountain Regional Contest, ICPC, Regionals, North America, Mid-Central Regional, 2024 Mid-Central USA Programming Contest",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO January 2009 Contest, Silver",
   "level": 12,
-  "tags": [
-    "floyd_warshall",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["floyd_warshall", "graphs", "shortest_path"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.3042999505996704

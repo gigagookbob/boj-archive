@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025 예선, ncy09, 79brue, evenharder, golazcc83, kep1er07, kipa00, leo020630, man_of_learning, seonah",
   "level": 14,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["sorting", "binary_search", "prefix_sum", "sweeping"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 2.1666998863220215

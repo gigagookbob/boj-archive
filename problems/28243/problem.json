@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 송도고등학교, 송도고 코드마스터 2023, dohoon, jinseo, leo020630, mjhmjh1104, parkky, pjshwa",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.516700029373169

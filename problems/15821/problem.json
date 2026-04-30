@@ -23,11 +23,7 @@
   "hint": "<p>3번 예제는 문제 설명에 사용된 예시이다.</p>",
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 1, University, 아주대학교, 2018 Ajou Programming Contest, Division 2, mitslll, zmtn94, njw1204",
   "level": 8,
-  "tags": [
-    "sorting",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["sorting", "geometry", "pythagoras"],
   "accepted_user_count": 385,
   "submission_count": null,
   "average_tries": 2.4233999252319336

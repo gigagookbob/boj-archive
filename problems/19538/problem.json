@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020 예선, QuqqU, evenharder, jhnah917, pichulia, rhs0266, sait2000, shiftpsh, tncks0121",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 1118,
   "submission_count": null,
   "average_tries": 2.3408000469207764

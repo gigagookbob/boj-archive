@@ -15,9 +15,7 @@
   "hint": "<p>Daft Punk - Veridis Quo</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"1.png\" width=\"420\"></iframe></p>\r\n",
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2007 South Central USA  Regional Programming Contest, koosaga",
   "level": 9,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.3243000507354736

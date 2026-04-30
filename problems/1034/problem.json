@@ -35,12 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc",
-    "set",
-    "parity"
-  ],
+  "tags": ["bruteforcing", "ad_hoc", "set", "parity"],
   "accepted_user_count": 3318,
   "submission_count": null,
   "average_tries": 2.1006999015808105

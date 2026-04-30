@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2021",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "dp"
-  ],
+  "tags": ["data_structures", "dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.72730016708374

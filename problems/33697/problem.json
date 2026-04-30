@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, UNIST-DGIST-POSTECH, 2025 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2025 UDPC), Junior Division, University, UNIST-DGIST-POSTECH, 2025 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2025 UDPC), Senior Division, queued_q, 99asdfg, jinhan814, jthis, leo020630, playsworld16, slah007, tony9402",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "offline_queries",
-    "dag"
-  ],
+  "tags": ["graphs", "graph_traversal", "offline_queries", "dag"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.583299994468689

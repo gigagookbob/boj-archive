@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2017",
   "level": 11,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 3.0237998962402344

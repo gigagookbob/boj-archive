@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2010, Diuven, jhhope1, TAMREF",
   "level": 22,
-  "tags": [
-    "math",
-    "constructive",
-    "combinatorics"
-  ],
+  "tags": ["math", "constructive", "combinatorics"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.8799999952316284

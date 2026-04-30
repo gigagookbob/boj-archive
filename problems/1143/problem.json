@@ -31,14 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "graphs",
-    "greedy",
-    "sorting",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["graphs", "greedy", "sorting", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 3.2165000438690186

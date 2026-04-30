@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2012 ACM-ICPC Asia Hatyai Regional Programming Contest, baekjoon",
   "level": 12,
-  "tags": [
-    "sorting",
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["sorting", "geometry", "binary_search"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 3.671099901199341

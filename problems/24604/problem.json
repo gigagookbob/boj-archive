@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2021 ICPC Pacific Northwest Region, Division 2, ICPC, Regionals, North America, South Central USA Regional, 2021 South Central USA Regional Contest, Division 1, ICPC, Regionals, North America, South Central USA Regional, 2021 South Central USA Regional Contest, Division 2, ICPC, Regionals, North America, Mid-Central Regional, Mid-Central USA Programming Contest 2021, ICPC, Regionals, North America, Southeast USA Regional, 2021 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2021 Southeast USA Regional Programming Contest, Division 2",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "bitmask",
-    "probability",
-    "dp_bitfield"
-  ],
+  "tags": ["math", "dp", "bitmask", "probability", "dp_bitfield"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.2856999635696411

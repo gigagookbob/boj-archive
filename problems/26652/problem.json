@@ -23,11 +23,7 @@
   "hint": "<p><a href=\"http://maplestory.nexon.com/Home/Main\">메이플스토리</a>에 접속하여 이 문제 속 숨겨진 아이템을 찾아보자!</p>",
   "source": "School, 경기북과학고등학교, GBS Coding Contest 2022, GBS Coding Contest 2022, School, 경기북과학고등학교, GBS Coding Contest 2022, GBS Coding Contest 2022 Open, g3gogogo, bnb2011, heeda0528, jihookang, jthis, jyheo98, leo020630, pentagon03, snowflake, tlsdydaud1, utilforever",
   "level": 14,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "parametric_search"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 4.720900058746338

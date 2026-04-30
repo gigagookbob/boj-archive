@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 2 October, 1999",
   "level": 7,
-  "tags": [
-    "math",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arbitrary_precision"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.61899995803833

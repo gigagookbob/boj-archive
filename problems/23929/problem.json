@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, you can spend a total of 6 hours training the first student and 8 hours training the second one. This gives the first, second and third students a skill level of 9. This is the minimum time you can spend, so the answer is 14.</p>\n<p>In Sample Case #2, you can already pick a fair team (the first and second student) without having to do any coaching, so the answer is 0.</p>\n<p>In Sample Case #3, <b>P</b> = <b>N</b>, so every student will be on your team. You have to spend 6 hours training the third student, so that they have a skill of 7, like everyone else. This is the minimum time you can spend, so the answer is 6.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2019, Round A",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum", "sliding_window"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.3157999515533447

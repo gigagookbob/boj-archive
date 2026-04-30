@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 US Open Contest, Bronze",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "trees",
-    "set"
-  ],
+  "tags": ["data_structures", "ad_hoc", "trees", "set"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.357800006866455

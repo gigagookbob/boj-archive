@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2002 Greater New York Programming Contest",
   "level": 12,
-  "tags": [
-    "case_work",
-    "implementation",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "string"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.799999952316284

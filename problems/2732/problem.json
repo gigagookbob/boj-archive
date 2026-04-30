@@ -15,10 +15,7 @@
   "hint": "<p>Note: Other solutions are possible; for instance: </p>\n<ol>\n<li>ShsHHshS is also a solution to problem 1 </li>\n<li>SSSS, HSS, etc. are also acceptable answers to problem 2. </li>\n</ol>",
   "source": "ICPC, Regionals, North America, Greater New York Region, 2005 Greater New York Programming Contest",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 3: 300iq Petrozavodsk Contest III, 300iq",
   "level": 19,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "combinatorics"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "trees", "combinatorics"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.235300064086914

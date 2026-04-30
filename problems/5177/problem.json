@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2007: Programming Contest Programming Contest, portableangel, jh05013, orihehe, sait2000",
   "level": 9,
-  "tags": [
-    "string",
-    "parsing",
-    "regex"
-  ],
+  "tags": ["string", "parsing", "regex"],
   "accepted_user_count": 375,
   "submission_count": null,
   "average_tries": 2.5999999046325684

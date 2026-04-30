@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 3, stonejjun03, azberjibiou, benedict0724, jhwest2, whqkrkt04",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "pst",
-    "pbs"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "pst", "pbs"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 5.6153998374938965

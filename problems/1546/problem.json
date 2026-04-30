@@ -43,10 +43,7 @@
   "hint": null,
   "source": "baekjoon, doju, ho94949, jh05013, powdragon1, jh05013",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 150031,
   "submission_count": null,
   "average_tries": 1.967900037765503

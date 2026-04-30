@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2007",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 2.5743000507354736

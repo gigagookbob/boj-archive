@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2008, baekjoon, jh05013, hyakintoss",
   "level": 19,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 615,
   "submission_count": null,
   "average_tries": 2.4893999099731445

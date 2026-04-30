@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, KBTU Open, KBTU Open 2008, baekjoon",
   "level": 4,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 1063,
   "submission_count": null,
   "average_tries": 1.912500023841858

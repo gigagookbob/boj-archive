@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제4회 보라매컵, amel, chattermin, buttercrab, chattermin, kaorin, moonrabbit2, prarie, red1108, serin",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 559,
   "submission_count": null,
   "average_tries": 1.9122999906539917

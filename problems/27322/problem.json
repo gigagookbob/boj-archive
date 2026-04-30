@@ -15,12 +15,7 @@
   "hint": "<p>이 문제의 지문은 한별이의 원래 설정과 다를 수 있다</p>",
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 1쿨, index, djs100201, flappybird, hyperbolic, ibm2006, kiwiyou, sait2000",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "beats"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "beats"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.842099905014038

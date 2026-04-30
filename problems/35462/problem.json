@@ -19,12 +19,7 @@
   "hint": "<p>이 문제는 픽션이며, 현실의 인물, 단체, 사건과는 무관합니다.</p>",
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2026 중앙대학교 프로그래밍 경진대회 (CPC), dlaud5379, aerae, hjkim9911, kevinlys00, kky085437, mythofys, pk661, plan_pt, qvixnh22, saywoo, sksms1375, utilforever, wapas",
   "level": 15,
-  "tags": [
-    "implementation",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["implementation", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.6922999620437622

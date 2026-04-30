@@ -19,12 +19,7 @@
   "hint": "<p>In the first sample, the first two mountains intersect at the point $(4.5, 0.5)$ The parts of the mountains below that point are not rendered in bold.</p>\n<p>In the second sample, the left mountain appears, then disappears, then appears again. The right mountain appears and then disappears.</p>",
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2024",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "coordinate_compression"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.8478000164031982

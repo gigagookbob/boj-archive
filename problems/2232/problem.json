@@ -15,10 +15,7 @@
   "hint": null,
   "source": "yyj940, chogahui05",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 699,
   "submission_count": null,
   "average_tries": 2.303299903869629

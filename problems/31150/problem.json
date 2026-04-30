@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, you can apply the tool to the middle cell twice. This way, two images will differ only in $1$ cell.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 353px; height: 200px;\"/></p>\n<p>In the second example, you can just make the entire image black. This way, two images will differ in $7$ cells.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 353px; height: 293px;\"/></p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe, ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2021",
   "level": 22,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.5861999988555908

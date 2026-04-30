@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2017",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "hash_set",
-    "sorting",
-    "set"
-  ],
+  "tags": ["bruteforcing", "data_structures", "hash_set", "sorting", "set"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2

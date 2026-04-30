@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2025, akim9905, 79brue, bnb2011, dbrua1222, jinhan814, jthis, oh040411, tlsdydaud1, yyyy7089",
   "level": 22,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "cht"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "cht"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.8261001110076904

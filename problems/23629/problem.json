@@ -31,11 +31,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2021 Goricon, kadrick, ai4youej, djs100201, jh05013, wbcho0504, WeissBlume",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "set"
-  ],
+  "tags": ["implementation", "string", "set"],
   "accepted_user_count": 275,
   "submission_count": null,
   "average_tries": 5.429100036621094

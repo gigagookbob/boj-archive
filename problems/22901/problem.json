@@ -15,10 +15,7 @@
   "hint": "<p>당신의 출력을 즉각적으로 채점 프로그램에 전달하기 위해, 당신은 모든 출력 뒤에 출력 버퍼를 비워야 한다. 언어별로 출력 버퍼를 비우는 방법은 아래와 같다.</p>\n<ul>\n<li>C: <code>fflush(stdout);</code></li>\n<li>C++: <code>std::cout.flush();</code></li>\n<li>Java: <code>System.out.flush();</code></li>\n<li>Python: <code>stdout.flush()</code></li>\n<li>기타 언어의 경우 각 언어의 documentation을 참조하라.</li>\n</ul>",
   "source": "Contest, BOJ User Contest, Orange Cup, Orange Cup, benedict0724, 79brue, cs71107, koosaga",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["ad_hoc", "binary_search"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 8.926600456237793

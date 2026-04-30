@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14",
   "level": 22,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

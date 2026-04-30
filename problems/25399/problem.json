@@ -23,12 +23,7 @@
   "hint": null,
   "source": "hibye1217, chansol, jthis, parkky, wider93",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["math", "number_theory", "constructive", "case_work"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 5.75

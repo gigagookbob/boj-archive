@@ -15,10 +15,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 27,
-  "tags": [
-    "trees",
-    "link_cut_tree"
-  ],
+  "tags": ["trees", "link_cut_tree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 7.7778000831604

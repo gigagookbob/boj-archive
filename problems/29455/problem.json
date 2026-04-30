@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 5, 2012, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 5, 2012, Advanced",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["math", "dp", "string", "ad_hoc"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7726999521255493

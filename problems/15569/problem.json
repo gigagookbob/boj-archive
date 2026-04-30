@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, moonrabbit2, doju, choiking10, flyjb",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 193,
   "submission_count": null,
   "average_tries": 2.025899887084961

@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, $N = 4$, which is at most $5$, so this is MIT time. </p>\n<p>In the second test case, $N = 5$, which is equal to $5$, so this is also MIT time. </p>\n<p>In the third test case, $N = 13$, which is not more than $25$ but more than $5$, so this is MIT$^2$ time. </p>\n<p>The fourth test case, $N = 126$, which is not more than $5^4=625$ but more than $5^3 = 125$, so this is MIT$^4$ time. </p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Beginner Round",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 1.5121999979019165

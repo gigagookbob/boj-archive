@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 8: Yuhao Du Contest 5, Grand Prix of Zhejiang, Contest, Open Cup, 2018/2019 Season, Stage 1: Grand Prix of Zheijang",
   "level": 24,
-  "tags": [
-    "math",
-    "number_theory",
-    "divide_and_conquer",
-    "fft"
-  ],
+  "tags": ["math", "number_theory", "divide_and_conquer", "fft"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 14.857099533081055

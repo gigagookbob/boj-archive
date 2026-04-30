@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2019",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "tree_set",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "tree_set", "stack"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.7000000476837158

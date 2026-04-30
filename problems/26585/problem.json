@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2020, Advanced",
   "level": 11,
-  "tags": [
-    "bfs",
-    "flood_fill",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "flood_fill", "graphs", "graph_traversal"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.09089994430542

@@ -15,11 +15,7 @@
   "hint": "<p>Ответ на тест, приведенный в примере, получается по формуле</p>\n<p style=\"text-align: center;\">$0 \\times 4 + 1 \\times 2 + 2 \\times 2 + 2 \\times 4 = 14$</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, March 17, 2014",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "math",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "math", "priority_queue"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.166700005531311

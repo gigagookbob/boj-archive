@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 25,
-  "tags": [
-    "2_sat",
-    "graphs",
-    "scc",
-    "two_pointer"
-  ],
+  "tags": ["2_sat", "graphs", "scc", "two_pointer"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

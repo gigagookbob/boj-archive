@@ -19,15 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 2: SPb SU LOUD ENOUGH Contest, Contest, Open Cup, 2020/2021 Season, Stage 2: SPb SU LOUD ENOUGH Contest",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "trees",
-    "combinatorics",
-    "dp_tree",
-    "bcc"
-  ],
+  "tags": ["math", "dp", "graphs", "trees", "combinatorics", "dp_tree", "bcc"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.5

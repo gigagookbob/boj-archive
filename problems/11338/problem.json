@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2013",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 137,
   "submission_count": null,
   "average_tries": 2.2920000553131104

@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Sjaars Kampioenschap Programmeren 2015",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.263200044631958

@@ -15,11 +15,7 @@
   "hint": "<p>In the first case, one possible solution is to start by using Dont Ask, and switch to NSM after query number 8.<br/>\nFor the second case, you can use B9, and not need to make any switches.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Qualification Round",
   "level": 9,
-  "tags": [
-    "bitmask",
-    "greedy",
-    "string"
-  ],
+  "tags": ["bitmask", "greedy", "string"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.189199924468994

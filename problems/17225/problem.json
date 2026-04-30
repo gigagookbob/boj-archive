@@ -19,12 +19,7 @@
   "hint": "<p>예제2는 서브태스크1에서는 나오지 않는다.</p>",
   "source": "University, 아주대학교, 2019 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2019 아주대학교 프로그래밍 경시대회 APC, Div.2, Acka, spectaclehong",
   "level": 11,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "data_structures", "sorting", "simulation"],
   "accepted_user_count": 536,
   "submission_count": null,
   "average_tries": 3.0485000610351562

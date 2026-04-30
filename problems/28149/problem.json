@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2023, xiaowuc1",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["implementation", "bruteforcing", "case_work"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 2.7344000339508057

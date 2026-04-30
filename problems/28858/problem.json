@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере в лучшем случае Рик будет вынимать в том же порядке, что дан. А последовательность &lt;&lt;1, 2, 3&gt;&gt; вполне удовлетворяет условию.</p>\n<p>Во втором примере подойдет последовательность &lt;&lt;1, 2, 3, 8&gt;&gt;</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Basic",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.405400037765503

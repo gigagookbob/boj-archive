@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2017/2018, District Stage, 7-9 Classes, Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2017/2018, District Stage, 10-12 Classes",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.1025999784469604

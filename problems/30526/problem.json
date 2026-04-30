@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2023-2024 East Central NA Regional Contest",
   "level": 25,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "pick"
-  ],
+  "tags": ["math", "implementation", "geometry", "pick"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.764699935913086

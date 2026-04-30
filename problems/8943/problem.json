@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2007",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry", "case_work"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.049999952316284

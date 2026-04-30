@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 송도고등학교, 송도고 코드마스터 2023, cherub8128, jinseo, dohoon, leo020630, mjhmjh1104, parkky, pjshwa, tlsdydaud1",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 474,
   "submission_count": null,
   "average_tries": 2.487299919128418

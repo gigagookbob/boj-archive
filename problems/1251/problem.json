@@ -15,12 +15,7 @@
   "hint": null,
   "source": "author5, njw1204",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "sorting"],
   "accepted_user_count": 7328,
   "submission_count": null,
   "average_tries": 2.112299919128418

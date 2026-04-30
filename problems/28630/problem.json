@@ -23,10 +23,7 @@
   "hint": "<p>В первом примере Пин может расковать звено номер $3$. Тогда оно отсоединится от обоих оставшихся звеньев. А затем, запаять звено номер $3$ обратно, сцепив его только со звеном номер $2$.</p>\n<p>Во втором примере Пин может расковать звено номер $2$, затем запаять его обратно соединив со звеньями $1$ и $3$. А затем, расковать звено номер $4$ и запаять обратно, соединив со звеньями $3$ и $5$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, October 18, 2020",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "mitm"
-  ],
+  "tags": ["bruteforcing", "mitm"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

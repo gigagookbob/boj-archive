@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서울시립대학교, 2024 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 1, qqq831347, pjshwa, pwj6800",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "two_pointer",
-    "difference_array"
-  ],
+  "tags": ["data_structures", "greedy", "two_pointer", "difference_array"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.819700002670288

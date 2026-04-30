@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring",
-    "pisano"
-  ],
+  "tags": ["math", "exponentiation_by_squaring", "pisano"],
   "accepted_user_count": 11052,
   "submission_count": null,
   "average_tries": 2.4751999378204346

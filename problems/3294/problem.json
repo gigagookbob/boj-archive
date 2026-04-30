@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2001, Croatian Olympiad in Informatics 2001",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "linked_list"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 1.787600040435791

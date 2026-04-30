@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025 예선, man_of_learning, 79brue, abra_stone, evenharder, golazcc83, hyperbolic, isekaijoucho, kep1er07, leo020630, seonah",
   "level": 1,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 2130,
   "submission_count": null,
   "average_tries": 1.3947999477386475

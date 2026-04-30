@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2005",
   "level": 20,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "rotating_calipers"
-  ],
+  "tags": ["geometry", "convex_hull", "rotating_calipers"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.1500000953674316

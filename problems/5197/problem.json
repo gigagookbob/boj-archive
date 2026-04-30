@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2006: Midterm Elections",
   "level": 10,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5625

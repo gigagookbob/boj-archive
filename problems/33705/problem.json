@@ -23,10 +23,7 @@
   "hint": "<p>$\\left\\lceil X \\right\\rceil$는 올림 함수로써 $X$보다 크거나 같은 정수 중 최솟값을 의미합니다. 예를 들어 $\\left\\lceil \\frac{5}{2}\\right\\rceil = 3$, $\\left\\lceil 4\\right\\rceil = 4$입니다.</p>",
   "source": "University, 건국대학교, Hello, AlKon! 2025, motsuni04, aru0504, ohwphil, pizzaroot, riroan, yookwi",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["ad_hoc", "prefix_sum"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 2.4453001022338867

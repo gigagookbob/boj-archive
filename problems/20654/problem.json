@@ -19,13 +19,7 @@
   "hint": null,
   "source": "koosaga, palilo",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "binary_search",
-    "pbs"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "binary_search", "pbs"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 2.015199899673462

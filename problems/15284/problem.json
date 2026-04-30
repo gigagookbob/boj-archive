@@ -23,11 +23,7 @@
   "hint": "<p>There are 11 different nets of a cube, ignoring rotations and mirror images.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"3.png\" style=\"height:185px; width:525px\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2017",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "case_work", "geometry"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.5681999921798706

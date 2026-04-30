@@ -15,11 +15,7 @@
   "hint": "<p>In the first sample, there is just one line, and that always divides plane into 2 regions. In the second sample, two intersecting lines divide plane into four quadrants. The solution shown for the third case is not optimal, and hence it would not be accepted in the hard subproblem.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2017",
   "level": 5,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "geometry", "constructive"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.3029999732971191

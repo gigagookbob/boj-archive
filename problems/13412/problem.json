@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회 연습 세션, game2k",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 535,
   "submission_count": null,
   "average_tries": 1.8504999876022339

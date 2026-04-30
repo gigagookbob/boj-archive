@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 08., pjshwa, chogahui05, cologne, heeda0528, lky7674, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing", "backtracking"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 4.113800048828125

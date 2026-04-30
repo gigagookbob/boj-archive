@@ -23,13 +23,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2026 IamCoder Qualification Test, shijun2009, byunjaewoo, gs22059, jalapen0_p1ckle, kuhyaku, lighton, lunarlity, mj1000j, realpsdoingdamyoo, ryanson, swlee0202, woohyun_jng",
   "level": 13,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "sorting",
-    "bfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "sorting", "bfs"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.4589999914169312

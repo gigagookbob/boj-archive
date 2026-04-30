@@ -31,11 +31,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2016",
   "level": 20,
-  "tags": [
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "math", "probability"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.25

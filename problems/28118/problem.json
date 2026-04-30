@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2023 SCON, edenooo, chansol, cologne, jhnah917, junseo, kyo20111, ryute",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set"],
   "accepted_user_count": 230,
   "submission_count": null,
   "average_tries": 1.469599962234497

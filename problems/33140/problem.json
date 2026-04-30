@@ -35,11 +35,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2024",
   "level": 10,
-  "tags": [
-    "math",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["math", "constructive", "case_work"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.384600043296814

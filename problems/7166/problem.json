@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, Second Selection Competition",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "bitmask",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["ad_hoc", "bitmask", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 10

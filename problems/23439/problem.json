@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 9: Grand Prix of Beijing",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.1818000078201294

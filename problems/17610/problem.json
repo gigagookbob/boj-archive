@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2019 1차대회, 중등부",
   "level": 10,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 2548,
   "submission_count": null,
   "average_tries": 2.428999900817871

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2001 Greater New York Programming Contest, kyo20111",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "dp", "prefix_sum"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 2.2888998985290527

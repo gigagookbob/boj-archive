@@ -10,10 +10,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2004",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.1875

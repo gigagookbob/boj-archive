@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교 · 세종대학교, 제 2회 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC), Intermediate, University, 한양대학교 · 세종대학교, 제 2회 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC), Beginner, zxvm5962, bsheep0304, gggkik, gs22123, gunwookim, hansoyo, iccodly, infikei, ingyu1008, jrdora, wjdclgns12",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.8518999814987183

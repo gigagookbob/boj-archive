@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2021!, shiftpsh, cheetose, cs71107, havana723, ho94949, jhnah917, junseo, kyo20111",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 592,
   "submission_count": null,
   "average_tries": 4.356400012969971

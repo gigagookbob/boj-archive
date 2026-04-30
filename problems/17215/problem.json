@@ -19,9 +19,7 @@
   "hint": "<p>한 게임의 모든 기회에 스트라이크를 기록하는 것을 퍼펙트 게임이라고 한다. 이때 점수는 300점이 되는데, 스트라이크를 연달아 기록한 다음 프레임에서 볼링 핀을 쓰러뜨렸을 때의 점수는 2배가 아닌 3배가 되기 때문에 가능한 점수이다. (기본 점수 + 2 프레임 전 스트라이크로 인한 보너스 점수 + 1 프레임 전 스트라이크로 인한 보너스 점수)</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, ROOKIE League, University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, MAVEN League, gugusny5758",
   "level": 12,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 354,
   "submission_count": null,
   "average_tries": 2.38700008392334

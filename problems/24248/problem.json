@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2021, kyo20111",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "dp"
-  ],
+  "tags": ["binary_search", "dp"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2

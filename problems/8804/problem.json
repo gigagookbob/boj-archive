@@ -15,10 +15,7 @@
   "hint": "<p>W teście pierwszym Gosia może pokolorować całe słowo jednym kolorem.</p>\n<p>W drugim teście Gosia może pokolorować drugą literę kolorem niebieskim a pozostałe czerwonym. W ten sposób literki niebieskie stworzą słowo \"B\" a literki czerwone słowo \"AABBAA\". Oba te słowa są palindromami.</p>",
   "source": "Contest, Spot, FallSpot 2010",
   "level": 6,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.1217000484466553

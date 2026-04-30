@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, January 15, 2023",
   "level": 10,
-  "tags": [
-    "dp",
-    "data_structures",
-    "two_pointer",
-    "queue"
-  ],
+  "tags": ["dp", "data_structures", "two_pointer", "queue"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.4443999528884888

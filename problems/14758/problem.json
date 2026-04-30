@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2012 Southeast USA Regional Programming Contest, Division 2",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "arithmetic",
-    "geometry_3d"
-  ],
+  "tags": ["math", "implementation", "geometry", "arithmetic", "geometry_3d"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 1.0496000051498413

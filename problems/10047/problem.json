@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2013/2014",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "parametric_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "prefix_sum", "parametric_search", "two_pointer"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.7228000164031982

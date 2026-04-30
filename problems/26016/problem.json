@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2022",
   "level": 23,
-  "tags": [
-    "math",
-    "graphs",
-    "sqrt_decomposition",
-    "planar_graph"
-  ],
+  "tags": ["math", "graphs", "sqrt_decomposition", "planar_graph"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 4.315800189971924

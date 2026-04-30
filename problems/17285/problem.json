@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 경찰대학, 2019 ChickenReallyGood 대회, kraadvv, tpdnjs94, jh05013",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 592,
   "submission_count": null,
   "average_tries": 1.1283999681472778

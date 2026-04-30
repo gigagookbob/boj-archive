@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Qualification",
   "level": 14,
-  "tags": [
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "dp_digit"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.9333000183105469

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 4: Grand Prix of Eurasia",
   "level": 14,
-  "tags": [
-    "greedy",
-    "sorting",
-    "string",
-    "trees"
-  ],
+  "tags": ["greedy", "sorting", "string", "trees"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.375

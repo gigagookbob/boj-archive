@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2006 연습 세션, bupjae",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.302299976348877

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Third Qualification Round",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "prefix_sum",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "prefix_sum", "dfs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

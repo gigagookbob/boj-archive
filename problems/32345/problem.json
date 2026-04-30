@@ -15,11 +15,7 @@
   "hint": "<p><span style=\"color:#e74c3c;\"><code>hongik</code></span>의 경우 <span style=\"color:#e74c3c;\"><code>ho/</code></span><span style=\"color:#e74c3c;\"><code>ngik</code></span> , <span style=\"color:#e74c3c;\"><code>hon/</code></span><span style=\"color:#e74c3c;\"><code>gik</code></span> , <span style=\"color:#e74c3c;\"><code>hong/</code></span><span style=\"color:#e74c3c;\"><code>ik</code></span> 3가지로 발음할 수 있다.</p>",
   "source": "University, 홍익대학교, 2024 HICON 홍익대학교 프로그래밍 경진대회, mastershim, bnb2011, Green55, gs18115, pjshwa, smjun04, swoon",
   "level": 8,
-  "tags": [
-    "math",
-    "string",
-    "combinatorics"
-  ],
+  "tags": ["math", "string", "combinatorics"],
   "accepted_user_count": 185,
   "submission_count": null,
   "average_tries": 2.5134999752044678

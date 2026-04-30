@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Pakistan, Asia Lahore Regional 2014, bupjae, jh05013",
   "level": 10,
-  "tags": [
-    "math",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "probability", "linearity_of_expectation"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.9019999504089355

@@ -27,11 +27,7 @@
   "hint": "<p>For a two-level well there exist eight different ways of descent shown in the picture (parts of the same route are marked with the same digit).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 2: Grand Prix of Siberia",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "combinatorics"
-  ],
+  "tags": ["math", "implementation", "combinatorics"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 2.5752999782562256

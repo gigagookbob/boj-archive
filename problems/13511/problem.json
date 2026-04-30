@@ -15,12 +15,7 @@
   "hint": null,
   "source": "rdd6584, Green55, chogahui05",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "trees", "lca", "sparse_table"],
   "accepted_user_count": 1899,
   "submission_count": null,
   "average_tries": 3.4470999240875244

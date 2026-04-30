@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2009, Day 1, thinksong1, jh05013",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "trees",
-    "cht"
-  ],
+  "tags": ["dp", "data_structures", "trees", "cht"],
   "accepted_user_count": 296,
   "submission_count": null,
   "average_tries": 4.483099937438965

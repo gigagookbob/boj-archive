@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2007 Pacific Northwest Region Programming Contest, baekjoon",
   "level": 18,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bitmask",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "shortest_path", "bitmask", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.454500198364258

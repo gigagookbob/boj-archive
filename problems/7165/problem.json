@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, Second Selection Competition",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "trees",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "trees", "set", "hash_set"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

@@ -19,12 +19,7 @@
   "hint": "<p><strong>Clarification of the first test case:</strong></p>\n<p>Word of length 2 that ends with “na” can be obtained in the following ways:</p>\n<p><s>b a n a</s> <em><strong>n a</strong></em>​, <s>b a</s> <strong><em>n a</em></strong>​ <s>​n a</s>, <s>b a</s> <em><strong>n</strong></em>​ ​<s>a n</s> <em><strong>a</strong></em>​</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #6, jh05013",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["combinatorics", "dp", "math", "prefix_sum"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2

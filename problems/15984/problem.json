@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제2회 소프트콘, smu201111192",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "parity"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "parity"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.892899990081787

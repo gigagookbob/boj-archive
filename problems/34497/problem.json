@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case, adding a road between cities $1, 2$ causes $dist(1,1) = 0, dist(1,2) = 1$, making the tour interesting.</p>\n<p>In the second test case, it can be shown that the task is impossible.</p>\n<p>In the third test case, by adding a road between cities $1, 3$ we have $dist(1,3) = 1, dist(1,5) = 2$, making the tour interesting.</p>\n<p>In the fourth test case, the tour is already interesting, and no roads need to be added.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Spring 2025 Invitational, Qualification Round 1",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "constructive",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "constructive", "bfs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

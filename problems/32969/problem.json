@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, 한국정보기술진흥원, 제3회 청소년 IT경시대회, 예비소집, martinok1103",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 427,
   "submission_count": null,
   "average_tries": 2.039799928665161

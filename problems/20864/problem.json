@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2018, Online Qualification",
   "level": 14,
-  "tags": [
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["prefix_sum", "game_theory"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

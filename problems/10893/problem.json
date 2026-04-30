@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14, namnamseo",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "math",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "math", "segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.916700005531311

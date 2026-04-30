@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2010 연습 세션, baekjoon",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal"],
   "accepted_user_count": 277,
   "submission_count": null,
   "average_tries": 2.130000114440918

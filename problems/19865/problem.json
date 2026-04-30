@@ -15,9 +15,7 @@
   "hint": "<p>В примере из Архива были удалены данные о планетах с номерами $11$, $14$ и $15$, а ячейки были перенумерованы, начиная с ячейки, содержащей сведения о планете с номером $10$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2016",
   "level": 10,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 5

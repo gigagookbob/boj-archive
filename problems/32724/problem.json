@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2023-24, Preliminary Round",
   "level": 9,
-  "tags": [
-    "arithmetic",
-    "math",
-    "sorting"
-  ],
+  "tags": ["arithmetic", "math", "sorting"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.384600043296814

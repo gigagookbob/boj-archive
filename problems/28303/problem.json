@@ -19,10 +19,7 @@
   "hint": "<p>예제 1의 경우 N극이 3번 칸에 놓이고 S극이 5번 칸에 놓이도록 자석을 설치할 때 1번 현상으로 $a_3=22$의 에너지가 충전되며, 2번 현상으로 $a_5=4$의 에너지가 소모되고, 3번 현상으로 $(5-3)\\times 2=4$의 에너지가 소모되어 설치 전과 비교하여 총 $14$의 에너지가 충전된다. 이보다 더 많은 에너지를 충전할 수 있는 방법은 없다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023 예선, evenharder, jh05013, wapas, tlsdydaud1, silverwolf, queued_q, puppy, man_of_learning, leejseo, kclee2172, 99asdfg, hyperbolic, functionx, egod1537, dohoon, bnb2011, asdarwin03",
   "level": 13,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 384,
   "submission_count": null,
   "average_tries": 1.8358999490737915

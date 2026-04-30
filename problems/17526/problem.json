@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2019, kcm1700",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "cht",
-    "li_chao_tree"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "cht", "li_chao_tree"],
   "accepted_user_count": 372,
   "submission_count": null,
   "average_tries": 2.55649995803833

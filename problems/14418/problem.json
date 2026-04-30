@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2016 Pacific Northwest Region Programming Contest, Division 2, ahg223",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry", "case_work"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 2.747299909591675

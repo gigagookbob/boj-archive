@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #5",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "game_theory"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "game_theory"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 5

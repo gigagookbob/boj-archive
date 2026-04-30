@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 21,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.5322999954223633

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, hound233",
   "level": 11,
-  "tags": [
-    "greedy",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "string", "bruteforcing"],
   "accepted_user_count": 229,
   "submission_count": null,
   "average_tries": 2.3057000637054443

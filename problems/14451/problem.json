@@ -15,11 +15,7 @@
   "hint": "<p>&quot;전진, 우회전, 전진, 전진, 좌회전, 전진, 좌회전, 전진, 전진&quot;의 순서를 따르면 6초 또는 9초만에 도착할 수 있다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 January Contest, Gold, jh05013",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 212,
   "submission_count": null,
   "average_tries": 2.188699960708618

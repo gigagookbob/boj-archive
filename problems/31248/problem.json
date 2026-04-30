@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2024!, bubbler, ahgus89, cgiosy, cs71107, jhnah917, jhwest2, kyo20111",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "recursion"
-  ],
+  "tags": ["ad_hoc", "recursion"],
   "accepted_user_count": 323,
   "submission_count": null,
   "average_tries": 2.1547999382019043

@@ -15,10 +15,7 @@
   "hint": "<p>In this example, we know that $R &lt; 3$ since otherwise the cow at position 7 would have infected the cow at position 10. Therefore, at least 3 cows must have started out infected -- one of the two cows at positions 1 and 3, one of the two cows at positions 6 and 7, and the cow at position 15.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 US Open Contest, Bronze",
   "level": 7,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 353,
   "submission_count": null,
   "average_tries": 2.6940999031066895

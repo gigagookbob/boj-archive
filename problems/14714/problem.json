@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 예시는 다음과 같은 순서로 진행하면 3번의 지목으로 끝낼 수 있다.</p>\n<ol>\n<li>지목권 A를 가진 5번 참가자는 4번 또는 6번 참가자를 지목할 수 있다. 이 중 4번 참가자를 지목하여 지목권을 넘긴다.</li>\n<li>지목권 B를 가진 1번 참가자는 5번 또는 3번 참가자를 지목할 수 있다. 이 중 3번 참가자를 지목하여 지목권을 넘긴다.</li>\n<li>지목권 A를 가진 4번 참가자가 3번 참가자를 지목하여 지목권을 넘기고 게임이 끝난다.</li>\n</ol>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2017 서울대학교 프로그래밍 경시대회, Division 2, doju",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 3.5478999614715576

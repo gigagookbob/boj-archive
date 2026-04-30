@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, SW마에스트로, 제13기 알고리즘 대회, leeh18, chansol, jyheo98, man_of_learning, seungwuk98, tony9402",
   "level": 18,
-  "tags": [
-    "graphs",
-    "trees",
-    "lca"
-  ],
+  "tags": ["graphs", "trees", "lca"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.463399887084961

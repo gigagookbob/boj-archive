@@ -19,12 +19,7 @@
   "hint": "<p>In the first test case, all integers from $1$ to $9$ can be divided by themselves to reach $1$, so the answer is $9$.</p>\n<p>In the second test case, all integers from $1$ to $9$ are valid, as mentioned in the first test case. $10$, $11$, and $13$ have no digits greater than $1$ that are divisors of themselves, and therefore cannot be reduced to $1$. However, $12$ can be divided by $2$ to get $6$, which can in turn be divided by $6$ to get $1$. Therefore, the numbers $1$ through $9$ and $12$ are valid, giving an answer of $10$.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Advanced Round 1",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["math", "dp", "bruteforcing", "backtracking"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.727299928665161

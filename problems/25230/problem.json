@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2022, Camp, Petrozavodsk Programming Camp, Summer 2022, Day 1: Welcome Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "bitmask",
-    "probability",
-    "dp_bitfield"
-  ],
+  "tags": ["math", "dp", "bitmask", "probability", "dp_bitfield"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.7856999635696411

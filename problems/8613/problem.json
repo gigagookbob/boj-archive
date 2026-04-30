@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2009, Stage 2",
   "level": 10,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2143000364303589

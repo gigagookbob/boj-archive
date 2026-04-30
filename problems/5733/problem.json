@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2007",
   "level": 11,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "number_theory",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "number_theory", "parsing"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.8181999921798706

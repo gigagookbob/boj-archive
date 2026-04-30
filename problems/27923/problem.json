@@ -19,12 +19,7 @@
   "hint": "<p>여러분은 햄버거최대 몇개드실수있나요?</p>\r\n",
   "source": "University, UNIST-DGIST-POSTECH, 2023 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2023 UDPC), g3gogogo, 99asdfg, cs71107, hyperbolic, kdh9949, knon0501, leo020630, qjatn0120, queued_q, slah007, tony9402, utilforever",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum", "difference_array"],
   "accepted_user_count": 216,
   "submission_count": null,
   "average_tries": 3.1619999408721924

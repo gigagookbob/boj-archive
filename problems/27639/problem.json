@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li>In the first example, the first six tokens are the output of a Generalized Fizz Buzz program for <em>k</em> = 1, <em>d</em><sub>1</sub> = 1, and s<sub>1</sub> = <code>mlem</code>. Both Samko’s and Monika’s program can handle this input, so for each of them the answer is 6.</li>\n<li>In the second example, it’s clear that 2 must be replaced with <code>qizz</code> and 3 with <code>quzz</code>. The first five tokens match that sequence, but the next one should be <code>qizzquzz</code> instead of <code>quzzqizz</code>, and the last one should be <code>7</code> instead of <code>007</code>.</li>\n<li>In the third example, <code>hunter2</code> is wrong because it contains both letters and numbers.</li>\n<li>In the fourth example, <em>d</em> = (1, 2) and s = (<code>haha</code>, <code>haha</code>). Note that the strings <em>s</em><sub><em>i</em></sub> do not have to be distinct.</li>\n<li>In the fifth example, the whole sequence is correct because it’s possible that 2 was replaced by <code>bat</code>, 4 was replaced by <code>man</code>, 5 by <code>robin</code>, 6 also by <code>bat</code>, and 8 also by <code>man</code>.</li>\n</ul>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2018 연습 세션",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.1538000106811523

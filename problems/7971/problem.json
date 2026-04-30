@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:310px; width:351px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2004/2005, Stage 3",
   "level": 18,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "segtree"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.2999999523162842

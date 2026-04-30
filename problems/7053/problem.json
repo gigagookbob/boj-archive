@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2003, Day 2, baekjoon",
   "level": 18,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.5

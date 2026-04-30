@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 최종 구데기컵 2, shiftpsh",
   "level": 21,
-  "tags": [
-    "implementation",
-    "prefix_sum",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["implementation", "prefix_sum", "inclusion_and_exclusion"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 4.420499801635742

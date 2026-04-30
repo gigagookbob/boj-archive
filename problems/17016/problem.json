@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCC 2019 Senior Division",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "dp", "segtree"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.8438000679016113

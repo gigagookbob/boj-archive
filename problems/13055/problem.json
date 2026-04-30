@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2016",
   "level": 21,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 258,
   "submission_count": null,
   "average_tries": 1.4883999824523926

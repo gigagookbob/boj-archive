@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2025",
   "level": 17,
-  "tags": [
-    "lis"
-  ],
+  "tags": ["lis"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.2238999605178833

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2013 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2013 Southeast USA Regional Programming Contest, Division 2",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.3085999488830566

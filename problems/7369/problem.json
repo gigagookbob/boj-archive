@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1995",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "number_theory",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "number_theory", "parsing"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.5405000448226929

@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, $2025 = 45^2$.</p>\n<p>In the second test case, $42025 = 205^2$.</p>\n<p>In the third test case, $395720257969 = 629063^2$.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Spring 2025 Invitational, Qualification Round 1",
   "level": 5,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.3875000476837158

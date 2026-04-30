@@ -19,10 +19,7 @@
   "hint": "<p>Notice that you don't need any cost if there is only one branch.</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2023 KAIST RUN Spring Contest, azberjibiou, mhy908, sean9892, sjimed, songc",
   "level": 20,
-  "tags": [
-    "dp",
-    "hall"
-  ],
+  "tags": ["dp", "hall"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.4185999631881714

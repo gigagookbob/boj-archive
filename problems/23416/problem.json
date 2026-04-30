@@ -23,11 +23,7 @@
   "hint": "<p>The result of optimal use of slicers is shown to the below of the examples. The cuts made by the red $a$-slicer are shown as pale red thick lines. The cuts made by the blue $b$-slicer are shown as blue thin dotted lines.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 3: Grand Prix of SPb",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.3157999515533447

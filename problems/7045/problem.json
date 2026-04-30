@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO December 2004 Contest, Silver",
   "level": 13,
-  "tags": [
-    "centroid",
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["centroid", "dp", "dp_tree", "trees"],
   "accepted_user_count": 158,
   "submission_count": null,
   "average_tries": 1.5442999601364136

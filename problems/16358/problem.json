@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2018, khsoo01",
   "level": 17,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 2.885999917984009

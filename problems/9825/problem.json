@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2012",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["math", "dp", "bruteforcing", "backtracking"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.170699954032898

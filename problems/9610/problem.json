@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2013 ACM-ICPC Asia Phuket Regional Programming Contest 연습 세션, baekjoon",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 9431,
   "submission_count": null,
   "average_tries": 1.5342999696731567

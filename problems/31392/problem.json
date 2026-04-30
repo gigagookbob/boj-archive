@@ -19,10 +19,7 @@
   "hint": "<p>The soltice is the moment when Sun rays fall on the Earth parallel to the plane, which is perpendicular to the Earth orbit and goes through the Earth axis. The summer soltice is the one out of two such moments at which the North Pole is lighted.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 14: Grand Prix of East and West",
   "level": 20,
-  "tags": [
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["geometry", "geometry_3d"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2020 KAIST 10th ICPC Mock Competition, jihoon",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bipartite_graph"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.523800015449524

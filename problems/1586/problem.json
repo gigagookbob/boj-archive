@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, sg1774",
   "level": 18,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "articulation"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "articulation"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.764699935913086

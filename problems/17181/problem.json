@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제3회 생각하는 프로그래밍 대회, gurwls9628, jh05013",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 3.7639000415802

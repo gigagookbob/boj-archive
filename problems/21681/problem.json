@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2009",
   "level": 11,
-  "tags": [
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "dp_digit"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.0625

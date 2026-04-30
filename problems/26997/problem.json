@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO December 2005 Contest, Bronze",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["bruteforcing", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.1666998863220215

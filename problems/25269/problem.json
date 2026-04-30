@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2022",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "modular_multiplicative_inverse"
-  ],
+  "tags": ["math", "number_theory", "modular_multiplicative_inverse"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

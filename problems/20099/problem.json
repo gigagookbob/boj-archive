@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2017, Practice",
   "level": 13,
-  "tags": [
-    "backtracking",
-    "precomputation"
-  ],
+  "tags": ["backtracking", "precomputation"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.393399953842163

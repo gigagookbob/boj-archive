@@ -15,10 +15,7 @@
   "hint": "<p>入力例を以下の図に示す．<i>(3, 3)</i> から <i>(5, 3)</i> の間は毒のない土地であるが <i>(6, 3)</i> と <i>(7, 3)</i> は毒のある沼地であるため，1 番目の目的地に移動するまでにダメージを 2 回受ける．1 番目の目的地から 2 番目の目的地まで下方向に 4 回移動して最短距離で移動した場合は，すべてのマスが毒のある沼地であるためダメージを 4 回受ける．遠回りして毒のない土地を通った場合は，<i>(6, 3)</i>，<i>(6, 7)</i>，<i>(7, 7)</i> の毒のある沼地に入るためダメージを 3 回受ける．ダメージを受ける回数を最小化するような移動方法を選んだとき，ダメージを受ける回数は 5 回である．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 640px; height: 360px;\"/></p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2019",
   "level": 8,
-  "tags": [
-    "geometry",
-    "math"
-  ],
+  "tags": ["geometry", "math"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3200000524520874

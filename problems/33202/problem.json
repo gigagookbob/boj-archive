@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2024",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "dp",
-    "dp_tree",
-    "hash_set",
-    "trees",
-    "set"
-  ],
+  "tags": ["data_structures", "dp", "dp_tree", "hash_set", "trees", "set"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

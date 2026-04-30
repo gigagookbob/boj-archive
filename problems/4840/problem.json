@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2007 Rocky Mountain Regional Contest",
   "level": 14,
-  "tags": [
-    "dfs",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["dfs", "dp", "dp_tree", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.5

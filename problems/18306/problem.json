@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019 연습 세션",
   "level": 6,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.3125

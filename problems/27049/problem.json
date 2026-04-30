@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO November 2003 Contest, Orange",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.810499906539917

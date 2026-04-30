@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2018",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "implementation",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["ad_hoc", "implementation", "math", "number_theory"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.5

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2021 연세대학교 프로그래밍 경진대회, klm03025, chogahui05, cs71107, IHHI, Juno, lky7674, Picasso, ystaeyoon113",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.840399980545044

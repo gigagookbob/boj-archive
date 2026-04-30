@@ -15,10 +15,7 @@
   "hint": "<p>Note that for some test cases, there are multiple acceptable configurations that manage to feed all cows while using the minimum number of patches. For example, in the fourth test case, another acceptable answer would be:</p>\n<pre>\n.GH..\n</pre>\n<p>This corresponds to placing a patch feeding Guernseys on the 2nd position and a patch feeding Holsteins on the third position. This uses the optimal number of patches and ensures that all cows are within 3 positions of a patch they prefer.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2022 December Contest, Bronze",
   "level": 13,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 289,
   "submission_count": null,
   "average_tries": 2.2111001014709473

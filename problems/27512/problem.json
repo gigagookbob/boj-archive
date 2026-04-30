@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제1회 흐즈로컵, hjroh0315, eaststar, eric00513, flappybird, hibye1217, index, jjang36524, sonjaewon, tony9402, utilforever, whqkrkt04",
   "level": 4,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "arithmetic"],
   "accepted_user_count": 696,
   "submission_count": null,
   "average_tries": 1.5302000045776367

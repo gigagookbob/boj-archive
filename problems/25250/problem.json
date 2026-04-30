@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2021",
   "level": 23,
-  "tags": [
-    "convex_hull",
-    "data_structures",
-    "deque",
-    "geometry"
-  ],
+  "tags": ["convex_hull", "data_structures", "deque", "geometry"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

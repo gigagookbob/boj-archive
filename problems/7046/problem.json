@@ -15,13 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 162px; height: 143px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2004, Practice",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dp_tree"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.9199999570846558

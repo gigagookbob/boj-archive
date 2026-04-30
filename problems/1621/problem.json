@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ntopia",
   "level": 13,
-  "tags": [
-    "dp",
-    "traceback"
-  ],
+  "tags": ["dp", "traceback"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 3.863600015640259

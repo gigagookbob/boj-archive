@@ -15,11 +15,7 @@
   "hint": "<p>下図は a=5, b=4, n=3 で， 工事中の交差点が (2,2), (2,3), (4,2) の場合を表している．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 247px; height: 166px;\"/></p>\n<p>この場合， 通学経路は m=5 通りある． 5通りの通学経路を全て図示すると， 以下の通り．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 247px; height: 166px;\"/></p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2006/2007 예선",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.450700044631958

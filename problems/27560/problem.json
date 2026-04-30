@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Silver",
   "level": 14,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 1.86899995803833

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Intermediate Group)",
   "level": 8,
-  "tags": [
-    "binary_search",
-    "offline_queries"
-  ],
+  "tags": ["binary_search", "offline_queries"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.3125

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제3회 보라매컵 본선, 99asdfg, asdarwin03, gs22059, ingyu1008, jinhan814, ksoosung77, kybs0627, saywoo, shiftpsh, tyoungs, utilforever",
   "level": 8,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive",
-    "functional_graph"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive", "functional_graph"],
   "accepted_user_count": 396,
   "submission_count": null,
   "average_tries": 1.5378999710083008

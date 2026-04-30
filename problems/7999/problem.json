@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2002/2003, Stage 1",
   "level": 19,
-  "tags": [
-    "arbitrary_precision",
-    "dp",
-    "implementation",
-    "string"
-  ],
+  "tags": ["arbitrary_precision", "dp", "implementation", "string"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

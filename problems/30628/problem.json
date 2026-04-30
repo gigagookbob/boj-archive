@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2023 Sogang Programming Contest, Champion, tkfkddl59323, bnb2011, dong_gas, jk410, leedongbin, lem0nad3, mjhmjh1104, shiftpsh, snrnsidy, solvedac, utilforever, yunny_world",
   "level": 16,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "dial"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "dial"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.450000047683716

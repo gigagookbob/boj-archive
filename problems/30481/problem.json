@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2023",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "sqrt_decomposition"
-  ],
+  "tags": ["math", "number_theory", "sqrt_decomposition"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.704900026321411

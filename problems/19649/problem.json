@@ -19,13 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p>1번 사람에게 미담을 전파하면 전파 과정은 1→2→3→1→2→4→5→6→7→8→7로, 인해 생기는 '간접 미담 전파자'는 {2, 3, 4, 5, 6, 7, 8}로 7명이다.</p>",
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2020 ICPC Sinchon Summer Algorithm Camp Contest, 중급, raararaara, gumgood, pichulia, rhs0266, shiftpsh",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 5.638899803161621

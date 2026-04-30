@@ -15,12 +15,7 @@
   "hint": "<p>Lord Mayor of Bytetown should not issue permits for the first and the fourth demonstration.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2013",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "sweeping",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "sweeping", "tree_set", "set"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2023-24, First Selection Competition",
   "level": 19,
-  "tags": [
-    "graphs",
-    "hashing",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "hashing", "eulerian_path"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3.5

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2010: Public Transportation",
   "level": 10,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.200000047683716

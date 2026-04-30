@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO February 2016 Contest, Platinum",
   "level": 19,
-  "tags": [
-    "graphs",
-    "greedy",
-    "grid_graph",
-    "mst"
-  ],
+  "tags": ["graphs", "greedy", "grid_graph", "mst"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 1.5556000471115112

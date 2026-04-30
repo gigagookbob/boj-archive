@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2019 예선, tncks0121",
   "level": 21,
-  "tags": [
-    "case_work",
-    "math"
-  ],
+  "tags": ["case_work", "math"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 5.945899963378906

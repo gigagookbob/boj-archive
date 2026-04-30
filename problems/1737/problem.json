@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2001, author5",
   "level": 12,
-  "tags": [
-    "dp",
-    "set"
-  ],
+  "tags": ["dp", "set"],
   "accepted_user_count": 407,
   "submission_count": null,
   "average_tries": 2.4323999881744385

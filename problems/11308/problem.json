@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 27 September, 2015",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "articulation"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "articulation"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.6938999891281128

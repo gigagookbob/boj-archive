@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2011, Group E",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 1.1779999732971191

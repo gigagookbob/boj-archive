@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제3회 소프트콘, jwvg0425, cheetose, cs71107, kyo20111",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 2.025899887084961

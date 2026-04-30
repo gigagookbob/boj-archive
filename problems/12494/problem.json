@@ -15,12 +15,7 @@
   "hint": "<p>In the second case, we can build one speed booster. The distances between stars are [10, 4]. We build the speed booster on the first star. After 4 hours, our flagship has gone 2 parsecs and the speed booster is complete. It takes our flagship another 8 hours to get to star 1, then 8 more hours to get to star 2, our destination.</p>\n<p><strong>Note:</strong> This problem takes place in a universe where the speed of light is much higher than 1 parsec per hour, so we don't have to worry about special relativistic effects.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 1C",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "sorting"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "sorting"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.899999976158142

@@ -23,13 +23,7 @@
   "hint": "<p>Opis drugog probnog primjera: Jedno od mogućih rješenja je da je prva operacija $(1,2)$ &lt;-&gt; $(1,3)$, druga $(3, 2)$ &lt;-&gt; $(3, 3)$, treća $(3, 1)$ &lt;-&gt; $(2, 1)$ i četvrta $(3, 2)$ &lt;-&gt; $(3, 1)$.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2025, Junior Croatian Olympiad in Informatics 2025",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

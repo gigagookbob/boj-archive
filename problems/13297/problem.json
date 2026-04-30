@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2016",
   "level": 2,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 1327,
   "submission_count": null,
   "average_tries": 1.2524000406265259

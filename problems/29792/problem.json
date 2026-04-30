@@ -19,11 +19,7 @@
   "hint": "<p>보스의 체력 $P$의 제한 $2.66 \\times 10^{11}$와 드랍하는 메소 $Q$의 제한 $1\\,596\\,506$은 2023년 8월 10일 업데이트 이전의 가장 많은 체력(카오스 혼테일)과 결정의 가격(노멀 파풀라투스)을 가진 일간 보스의 정보이다.</p>\r\n",
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup), dbgksdl00, amsminn, anfidthtn, chansol, cologne, pjshwa, r4pidstart, shiftpsh, tony9402, utilforever",
   "level": 11,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "knapsack"
-  ],
+  "tags": ["dp", "bruteforcing", "knapsack"],
   "accepted_user_count": 417,
   "submission_count": null,
   "average_tries": 2.5731000900268555

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2008 Mid-Atlantic Regional Programming Contest, ICPC, Regionals, North America, Southeast USA Regional, 2008 Southeast USA Regional Programming Contest",
   "level": 13,
-  "tags": [
-    "implementation",
-    "graphs",
-    "simulation",
-    "physics"
-  ],
+  "tags": ["implementation", "graphs", "simulation", "physics"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.5999999046325684

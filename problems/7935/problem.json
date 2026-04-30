@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2008",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "dp", "combinatorics", "arbitrary_precision"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.4286000728607178

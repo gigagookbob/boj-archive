@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2025 SKKU 프로그래밍 대회, Coxie, itinbangk, jthis, shjohw12, sjhi00, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "dag"
-  ],
+  "tags": ["graphs", "ad_hoc", "dag"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.14490008354187

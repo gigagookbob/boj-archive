@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2013",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["implementation", "string", "ad_hoc", "parity"],
   "accepted_user_count": 266,
   "submission_count": null,
   "average_tries": 1.3233000040054321

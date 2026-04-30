@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, AMER Semifinal",
   "level": 26,
-  "tags": [
-    "graphs",
-    "game_theory",
-    "general_matching"
-  ],
+  "tags": ["graphs", "game_theory", "general_matching"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.235300064086914

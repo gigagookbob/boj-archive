@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 상자를 쌓는다. 높이=9가 된다. 두 번째 상자는 내용물을 먹는다. 그러면 HP가 증가하여 13이라는 시각까지 생존해 있을 수 있게 된다. 세 번째 상자는 쌓는다. 높이가 10 증가하여 19가 된다. 네 번째 상자도 쌓으면 높이가 1 증가하여 20이 되고, 탈출할 수 있게 된다. <del>탈출해도 HP=0이라서 죽게 된다.</del></p>",
   "source": "Olympiad, USA Computing Olympiad, 2000-2001 Season, USACO US Open 2001 Contest, Green, apjw6112",
   "level": 14,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 4.048799991607666

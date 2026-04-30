@@ -23,12 +23,7 @@
   "hint": "<p>The following illustrates the configuration of the $\\color{red}{\\text{m}} \\color{brown}{\\text{a}} \\color{orange}{\\text{g}} \\color{blue}{\\text{i}} \\color{magenta} {\\text{c}}$ tools for the sample tests. The red curve denotes the boundary of the convex hull.</p>\n<table class=\"table table-bordered th-center td-center\">\n<tbody>\n<tr>\n<th>First Sample</th>\n<th>Second Sample</th>\n<th>Third Sample</th>\n</tr>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 355px; height: 269px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 414px; height: 403px;\"/></td>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 171px; height: 171px;\"/></td>\n</tr>\n</tbody>\n</table>",
   "source": "Camp, Osijek Competitive Programming Camp, Winter 2023, Day 9: Magical Story of LaLa, aeren",
   "level": 20,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["convex_hull", "geometry", "sorting", "sweeping"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.4166998863220215

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1995",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation",
-    "precomputation"
-  ],
+  "tags": ["implementation", "simulation", "precomputation"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.510599970817566

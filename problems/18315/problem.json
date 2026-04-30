@@ -15,12 +15,7 @@
   "hint": "<p>Consider the answer for the cow originally on world 2. At time $2$ worlds 1 and 2 align, so the cow can travel to world 1. At time $\\frac{7}{2}$ worlds 1 and 3 align, so the cow can travel to world 3.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 January Contest, Platinum",
   "level": 23,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "greedy",
-    "ternary_search"
-  ],
+  "tags": ["convex_hull", "geometry", "greedy", "ternary_search"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.6666998863220215

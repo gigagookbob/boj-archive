@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, ploffer11",
   "level": 12,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 4.607100009918213

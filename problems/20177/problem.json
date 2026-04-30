@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2020",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "offline_queries",
-    "multi_segtree"
-  ],
+  "tags": ["data_structures", "segtree", "offline_queries", "multi_segtree"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 4.587500095367432

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Seconcd Qualification Round",
   "level": 19,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

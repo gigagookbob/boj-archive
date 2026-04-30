@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 6: PKU Contest 2",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "probability",
-    "convex_hull"
-  ],
+  "tags": ["math", "geometry", "probability", "convex_hull"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.363600015640259

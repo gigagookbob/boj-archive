@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2009",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["bruteforcing", "ad_hoc"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.25

@@ -19,10 +19,7 @@
   "hint": "<p>두 번째 예시는 길이가 3, 4, 5인 직각 삼각형이다.</p>",
   "source": "University, POSTECH, 2019 PPC, jhs7jhs",
   "level": 13,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.819100022315979

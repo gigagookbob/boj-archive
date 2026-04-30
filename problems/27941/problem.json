@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가지컵, 2023 가지컵, wider93, functionx, jihwan_0319, kiwiyou, mingyu331, wapas, WeissBlume, yup0927",
   "level": 9,
-  "tags": [
-    "implementation",
-    "geometry",
-    "geometry_hyper"
-  ],
+  "tags": ["implementation", "geometry", "geometry_hyper"],
   "accepted_user_count": 248,
   "submission_count": null,
   "average_tries": 2.274199962615967

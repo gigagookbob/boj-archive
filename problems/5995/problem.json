@@ -15,10 +15,7 @@
   "hint": "<p>Four haybales of weight 15, 19, 20, and 21. Bessie can eat as many as she wishes without exceeding the limit of 56 altogether.</p>\n<p>Bessie can eat three bales (15, 20, and 21) and run right up to the limit of 56 kg.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO October 2009 Contest, Gold",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 1.2752000093460083

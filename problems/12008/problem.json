@@ -15,11 +15,7 @@
   "hint": "<p>이 예제에서는 두 번째와 세 번째 1을 합쳐서 수열 1 2 2를 만들고, 두 개의 2를 합쳐서 3을 만들 수 있다. 첫 번째와 두 번째 1을 합치는 것은 최적이 아님에 유의하라.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO US Open 2016 Contest, Platinum, jh05013, mhy908, yj10516, yohanroh",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "sparse_table"
-  ],
+  "tags": ["dp", "data_structures", "sparse_table"],
   "accepted_user_count": 345,
   "submission_count": null,
   "average_tries": 2.026099920272827

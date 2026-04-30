@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2023-2024 Season, USACO 2024 January Contest, Silver",
   "level": 19,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc", "case_work"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.433300018310547

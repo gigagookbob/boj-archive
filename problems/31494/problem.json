@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2023-2024",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "combinatorics",
-    "math",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "case_work", "combinatorics", "math", "trees"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

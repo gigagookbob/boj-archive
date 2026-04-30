@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2021",
   "level": 21,
-  "tags": [
-    "math",
-    "greedy",
-    "fft"
-  ],
+  "tags": ["math", "greedy", "fft"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5788999795913696

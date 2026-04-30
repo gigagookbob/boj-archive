@@ -15,10 +15,7 @@
   "hint": "<p>Explanation: On the picture below, the optimal location of the tower is given. Messages are received by buildings with numbers 2, 5, 6, 7 and 8.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:196px; width:580px\"/></p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2016, Group B (Juniors)",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.8518999814987183

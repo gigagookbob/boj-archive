@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, Final Round, Basic",
   "level": 3,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "arithmetic"],
   "accepted_user_count": 527,
   "submission_count": null,
   "average_tries": 1.093000054359436

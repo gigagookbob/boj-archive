@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2023",
   "level": 9,
-  "tags": [
-    "math",
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["math", "sorting", "geometry"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.3042999505996704

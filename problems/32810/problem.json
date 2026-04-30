@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2024 East Central NA Regional Contest, ICPC, Regionals, North America, Greater New York Region, 2024 Greater New York Regional Contest, ICPC, Regionals, North America, Northeast North America Regional, 2024 Northeast North America Regional Contest",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.2963000535964966

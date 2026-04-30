@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #1, baekjoon, rhs0266",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "set"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "set"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 4.094099998474121

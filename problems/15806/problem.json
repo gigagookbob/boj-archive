@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2018 SCCC Programming Contest, skdudn321, tony9402",
   "level": 16,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "parity"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs", "parity"],
   "accepted_user_count": 221,
   "submission_count": null,
   "average_tries": 6.045199871063232

@@ -39,11 +39,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "kmp"
-  ],
+  "tags": ["string", "bruteforcing", "kmp"],
   "accepted_user_count": 517,
   "submission_count": null,
   "average_tries": 1.8588000535964966

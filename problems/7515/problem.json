@@ -15,9 +15,7 @@
   "hint": "<p>In the first example, there are 5 possible ways to install 3 operating systems:</p>\n<ol>\n<li>DOORS, other, other</li>\n<li>other, other, other</li>\n<li>other, other, DOORS</li>\n<li>other, DOORS, other</li>\n<li>DOORS, other, DOORS</li>\n</ol>",
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2008 (Single)",
   "level": 7,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.8925000429153442

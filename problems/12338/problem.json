@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Qualification Round",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["bruteforcing", "ad_hoc"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.2615000009536743

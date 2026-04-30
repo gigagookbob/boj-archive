@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO February 2016 Contest, Platinum, rdd6584",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "sweeping"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.772700071334839

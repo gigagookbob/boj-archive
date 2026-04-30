@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2024 아주대학교 프로그래밍 경시대회 APC Extra, gyoseon123, akim9905, BothEarRim, dbrua1222, js9028, jwpassion1, jyheo98, mujigae, pani, riroan, sheenjiwon",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "greedy", "parametric_search"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.5139999389648438

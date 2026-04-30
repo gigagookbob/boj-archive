@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2019, Group E",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic", "parsing"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.4127000570297241

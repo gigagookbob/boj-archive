@@ -10,14 +10,7 @@
   "hint": "<p>We remind contestants that with the given constraints, it is possible to submit a solution that passes Subtask 3 and fails Subtask 2. However, remember that your final score for the entire task is determined by <i>only one</i> of your submissions.</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2010, Day 2",
   "level": 13,
-  "tags": [
-    "dfs",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["dfs", "dp", "dp_tree", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.2916998863220215

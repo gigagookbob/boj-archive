@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2005/2006",
   "level": 4,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 314,
   "submission_count": null,
   "average_tries": 1.31850004196167

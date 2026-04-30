@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2017 홍익대학교 컴퓨터공학과 코딩대회, lhw941, jh05013, doju",
   "level": 11,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "dfs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "dfs", "eulerian_path"],
   "accepted_user_count": 296,
   "submission_count": null,
   "average_tries": 1.7230000495910645

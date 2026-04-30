@@ -27,13 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2023 ICPC Asia Jakarta Regional Contest",
   "level": 24,
-  "tags": [
-    "divide_and_conquer",
-    "dp",
-    "dp_sum_over_subsets",
-    "fft",
-    "math"
-  ],
+  "tags": ["divide_and_conquer", "dp", "dp_sum_over_subsets", "fft", "math"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.2777999639511108

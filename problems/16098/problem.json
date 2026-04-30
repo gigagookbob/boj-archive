@@ -15,11 +15,7 @@
   "hint": "<p>The sample input below specifies two test cases. The subway network of each test case is illustrated by Figure 4. The first example consists of three subway lines. The green line stops at stations 0, 1, and 2, with travel times of 3 and 2 minutes respectively. The orange line connects 2 and 3 with a travel time of 4 minutes. The blue line connects 2 and 4 with a travel time of 1 minute. The ACM members would like to go from station 0 to station 4. The best possible path takes 6 minutes and requires one change, from the green line to the blue line.</p>\n<p>The second example consists of two lines. The green line forms a circle connecting all stations in the network and taking 2 minutes to go between any two consecutive stations. The orange line directly connects stations 1 to 4, with a travel time of 4 minutes. The mathematicians want to go from station 1 to 4. There are two fastest routes, each of which has a travel time of 4 minutes: to go via the green line, or by the orange line. Further, neither of these two options requires a line change.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 451px; height: 234px;\"/></p>\n<p style=\"text-align: center;\">Figure 4: Subway networks of the sample inputs</p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, Télécom ParisTech Internal Selection, Concours interne de programmation Télécom ParisTech 2017",
   "level": 14,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

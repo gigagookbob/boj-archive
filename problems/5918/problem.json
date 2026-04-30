@@ -15,9 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>There are 12 stalls, and stalls 1, 2, 4, 8, 11, and 12 contain cows. An umbrella covering one stall costs 2, an umbrella covering two stalls costs 3, and so on.</p>\n<h4>Output Details</h4>\n<p>By purchasing a size 4 umbrella, a size 1 umbrella, and a size 2 umbrella, it is possible to cover all the cows at a cost of 4+2+3=9:</p>\n<pre>\nUUUUUUUUUU           U        UUUU\nC  C     C           C        C  C\n|--|--|--|--|--|--|--|--|--|--|--|\n1  2  3  4  5  6  7  8  9  10 11 12</pre>\n<p>C represents a cow and U represents a part of an umbrella.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO December 2011 Contest, Silver",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 2.4872000217437744

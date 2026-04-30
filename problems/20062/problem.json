@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2018, Day 1",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "geometry",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "ad_hoc", "geometry", "segtree", "lazyprop"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.446199893951416

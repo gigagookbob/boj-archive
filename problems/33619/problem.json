@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제2회 피갤컵, pyb1031, kdh9949, plast",
   "level": 21,
-  "tags": [
-    "dp",
-    "greedy",
-    "ad_hoc",
-    "constructive",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "greedy", "ad_hoc", "constructive", "knapsack", "traceback"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.7585999965667725

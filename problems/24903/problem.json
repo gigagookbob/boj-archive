@@ -15,9 +15,7 @@
   "hint": "<p><strong>It is guaranteed that after each query the graph does not contain self-loops or </strong>multiple<strong> edges.</strong></p>",
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 최종 구데기컵 2 2, kipa00",
   "level": 0,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 138,
   "submission_count": null,
   "average_tries": 5.304299831390381

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2012, Advanced",
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.182800054550171

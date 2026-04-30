@@ -19,9 +19,7 @@
   "hint": "<p>Pojašnjenje prvog primjera: Zbog drugog upita, element a<sub>2</sub> mora biti 0 pa, stoga, zbog prvog upita element a<sub>1</sub> mora biti 1. Element a<sub>3</sub> može biti bilo koji nenegativni cijeli broj manji od H = 3. Stoga, svi dobri nizovi S su redom (1, 0, 0), (1, 0, 1) i (1, 0, 2).</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2017, Final Exam #2",
   "level": 22,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

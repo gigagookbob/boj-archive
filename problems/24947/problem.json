@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2021/2022 Spring Training Camp, Camp, JOIG Spring Training Camp, JOIG 2021/2022 Spring Training Camp",
   "level": 19,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc",
-    "set"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc", "set"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.232100009918213

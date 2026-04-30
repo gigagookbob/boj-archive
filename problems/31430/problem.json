@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter) 연습 세션, hjroh0315, lky7674, cologne, dohoon, leo020630, mjhmjh1104",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 502,
   "submission_count": null,
   "average_tries": 2.205199956893921

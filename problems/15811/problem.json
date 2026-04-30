@@ -19,10 +19,7 @@
   "hint": "<p>예제 입력 1은 067+867=0934와 167+867=1034를 포함하여 49개의 해답이 존재한다.</p>",
   "source": "University, 전북대학교, 2018 전북대학교 프로그래밍 경진대회, joonas, eric00513, jh05013",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 420,
   "submission_count": null,
   "average_tries": 3.809499979019165

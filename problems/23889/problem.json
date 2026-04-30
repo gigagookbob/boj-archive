@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기북과학고등학교, GBS Coding Contest 2021, gbs16_dohyun, fefe, heeda0528, kyo20111",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum"],
   "accepted_user_count": 218,
   "submission_count": null,
   "average_tries": 2.1375999450683594

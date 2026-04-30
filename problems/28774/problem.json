@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере выгодно сделать сдвиг на одну позицию влево, тогда число $177013$ окажется на первом месте. В таком случае в первых четырех разрядах будет по одной инверсии, а в последних двух --- ноль.</p>\n<p>Во втором примере порядок чисел уже оптимален с тремя инверсиями: по одной в первом, четвертом и шестом разрядах.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, March 28, 2021",
   "level": 14,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.625

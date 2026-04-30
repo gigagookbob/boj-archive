@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2011",
   "level": 16,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.3243000507354736

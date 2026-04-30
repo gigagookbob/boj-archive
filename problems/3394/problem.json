@@ -15,10 +15,7 @@
   "hint": "<p>In the Figure 1 the correct solution (3 + 2 + 8 + 5 + 4 = 22) is gray shaded. Notice that number ’5’ on the 4 th row (from the top) is swapped to the 3 rd position (from the left) on that row.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2000",
   "level": 12,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.416700005531311

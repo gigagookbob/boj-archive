@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2009 Arab Collegiate Programming Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 246,
   "submission_count": null,
   "average_tries": 2.2683000564575195

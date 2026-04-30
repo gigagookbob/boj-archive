@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2006, 초등부, author5",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 5819,
   "submission_count": null,
   "average_tries": 3.1710000038146973

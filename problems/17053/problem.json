@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #6",
   "level": 14,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation",
-    "sweeping"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation", "sweeping"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.6296000480651855

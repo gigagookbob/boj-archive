@@ -15,10 +15,7 @@
   "hint": "<p>In the first sample case, \\(X = \\{X_n\\}_{n=0}^{\\infty} = \\{1, 5, 2, 6, 3, 0, \\dots\\}\\).</p>\n<p>In the second sample case, \\(X = \\{X_n\\}_{n=0}^{\\infty} = \\{1, 9, 3, 5, \\dots\\}\\).</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 8: Jingzhe Tang Contest 2, XIX Open Cup Onsite",
   "level": 21,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 5.5

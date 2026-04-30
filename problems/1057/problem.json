@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, dreammusic23",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 13516,
   "submission_count": null,
   "average_tries": 1.6921000480651855

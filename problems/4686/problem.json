@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1996 Mid-Central Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "implementation",
-    "math",
-    "parsing",
-    "string"
-  ],
+  "tags": ["implementation", "math", "parsing", "string"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.666700005531311

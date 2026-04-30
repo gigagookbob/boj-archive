@@ -15,12 +15,7 @@
   "hint": "<p>There are 8 city squares, 9 one-way streets, fights occurred in the streets 1 → 4, 1 → 8, 7 → 4 and 7 → 1, and the order of turns is (8, 5, 6, 2, 3, 7, 1, 4). The group from city square 8 moves first and takes over their square. Then, the group from square 5 moves next, takes over squares 5, 6 and 4 (only those are reachable via non-taken squares). Since square 6 is taken, the group from this square does nothing. After that, the group from square 2 takes over squares 2 and 3. Then, the group from taken square 3 does nothing. Next, the group from square 1 takes over square 1 and causes fights in streets 1 → 4 and 1 → 8. The group from square 7 takes over square 7 and causes fights in streets 7 → 1 and 7 → 4. Finally, group from square 4 does nothing.</p>\n<p>Since this permutation gives the correct street-fight list, it is a valid solution. Another valid permutation is (2, 3, 8, 4, 1, 7, 5, 6). Notice that, for example, permutation (8, 5, 6, 3, 2, 1, 7, 4) is not a valid solution because it produces a fight in the street 2 → 3, which is in contradiction with input data.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2012",
   "level": 21,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 6.238100051879883

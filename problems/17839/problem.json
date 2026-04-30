@@ -27,13 +27,7 @@
   "hint": null,
   "source": "University, UNIST, 제 1회 UNIST 알고리즘 프로그래밍 경시대회 Uni-CODE, leejseo",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "set", "hash_set"],
   "accepted_user_count": 350,
   "submission_count": null,
   "average_tries": 3.417099952697754

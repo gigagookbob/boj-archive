@@ -15,9 +15,7 @@
   "hint": "<p>In the optimal Byteman's route, which takes him 60 minutes, he collects 18 mushrooms: 3 at time 0, 4 after 15 minutes, 3 after 30 minutes, 5 after 45 minutes and, finally, 3 after 60 minutes.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.236799955368042

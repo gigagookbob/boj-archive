@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2019",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "articulation",
-    "bcc"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "articulation", "bcc"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.333299994468689

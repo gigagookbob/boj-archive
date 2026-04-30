@@ -15,9 +15,7 @@
   "hint": "<p>You can see <a href=\"https://oeis.org/A006156\">https://oeis.org/A006156</a> for more details, but this probably won't help you much.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 2: SPb SU LOUD ENOUGH Contest, Contest, Open Cup, 2020/2021 Season, Stage 2: SPb SU LOUD ENOUGH Contest",
   "level": 28,
-  "tags": [
-    "precomputation"
-  ],
+  "tags": ["precomputation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

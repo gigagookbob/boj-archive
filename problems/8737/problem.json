@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Intermediate Group)",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["data_structures", "deque"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.604699969291687

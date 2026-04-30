@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2015",
   "level": 13,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "disjoint_set"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 4.5416998863220215

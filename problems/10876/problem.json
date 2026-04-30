@@ -15,12 +15,7 @@
   "hint": "<p>각 테스트 케이스마다 사전을 앞에서부터 차례로 읽어나가면 아래와 같다.</p>\n<ul>\n<li>#1: 1, 10, 11, 2, 3, 4, 5, 6, 7, 8, 9</li>\n<li>#2: 10, 11, 12, 13, 5, 6, 7, 8, 9</li>\n<li>#3: 3, 4, 5</li>\n</ul>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2015, tncks0121, portableangel",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "ad_hoc", "dp_digit"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 6.904799938201904

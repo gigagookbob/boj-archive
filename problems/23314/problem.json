@@ -15,14 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2021 연세대학교 프로그래밍 경진대회, lky7674, IHHI, Juno, ystaeyoon113",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "set",
-    "tree_set",
-    "bcc",
-    "cactus"
-  ],
+  "tags": ["data_structures", "graphs", "set", "tree_set", "bcc", "cactus"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 4.693900108337402

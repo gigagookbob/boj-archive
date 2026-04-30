@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, Lebanese Collegiate Programming Contest, LCPC 2011",
   "level": 14,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.5853999853134155

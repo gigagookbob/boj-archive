@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 1: Online, koosaga",
   "level": 4,
-  "tags": [
-    "implementation",
-    "precomputation"
-  ],
+  "tags": ["implementation", "precomputation"],
   "accepted_user_count": 1486,
   "submission_count": null,
   "average_tries": 1.5296000242233276

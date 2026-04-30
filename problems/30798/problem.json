@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 6회 코딩 테스트, chogahui05, ksoosung77, sjhi00, utilforever, vkdldjvkdnj",
   "level": 16,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "case_work",
-    "bitmask"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "case_work", "bitmask"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.9166998863220215

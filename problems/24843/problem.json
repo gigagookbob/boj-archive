@@ -23,9 +23,7 @@
   "hint": "<p>Image of the rook placement for the third test case:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 186px;\"/></p>\n<p>Red marks the squares that the lower left rook can capture, blue marks the squares that the upper right rook can capture, purple --- squares that can be captured by both rooks.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2021",
   "level": 5,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.3717999458312988

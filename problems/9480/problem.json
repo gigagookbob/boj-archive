@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2013 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2013 Southeast USA Regional Programming Contest, Division 2",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "dial"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "dial"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4.875

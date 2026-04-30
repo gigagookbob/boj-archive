@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2022 Mid-Central USA Regional Contest, ICPC, Regionals, North America, Pacific Northwest Regional, 2022 ICPC Pacific Northwest Region, Division 2, ICPC, Regionals, North America, Rocky Mountain Regional, 2022 Rocky Mountain Regional Contest",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "simulation",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "simulation", "string"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.2599999904632568

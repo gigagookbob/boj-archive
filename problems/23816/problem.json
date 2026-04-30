@@ -15,10 +15,7 @@
   "hint": "<p>차례대로 높이가 1, 2, 2, 3인 옷걸이 트리를 놓으면 각각에 옷을 1, 2, 2, 4개 걸 수 있다.</p>",
   "source": "University, POSTECH, 2021 POSTECH Programming Contest, slah007, gravekper, hitonanode, hojoon0205, shiftpsh",
   "level": 13,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 4.559500217437744

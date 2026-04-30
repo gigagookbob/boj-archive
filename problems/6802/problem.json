@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2010, CCC 2010 Senior Division",
   "level": 14,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.4000000953674316

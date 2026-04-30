@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 16: Grand Prix of Moscow",
   "level": 22,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "combinatorics",
-    "bitmask"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "combinatorics", "bitmask"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.8610999584197998

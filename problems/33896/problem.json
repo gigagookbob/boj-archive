@@ -19,11 +19,7 @@
   "hint": "<p>① $\\lfloor x \\rfloor$는 $x$보다 작거나 같은 정수 중 가장 큰 값을 의미한다.</p>\n<p>② \"사전 순\" 정렬 기준: 문자열을 사전 순으로 정렬할 때는 다음 기준에 따라 순서를 결정한다.</p>\n<ol>\n<li>문자열을 정렬할 때, 앞 글자부터 차례대로 비교하며 알파벳 순서 상 앞선 글자가 먼저 오는 순서가 우선이다. </li>\n<li>비교 중인 글자가 같을 경우, 그다음 글자를 계속 비교하여 순서를 결정한다.</li>\n<li>문자열의 길이가 다를 경우, 앞부분이 모두 같다면 짧은 문자열이 먼저 온다. (예: \"ab\" → \"abc\")</li>\n</ol>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, MOSS Division, University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, COSS Division, University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, Open Contest, jaemkim01, bsyun0571, bumsoo0515, gi1dong2, hellogaon, khj20006, kjmin622, putdata, qsccsq22, rasauq1122, rhdqor213, sjhi00, skeep194, tony9402",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["math", "implementation", "sorting"],
   "accepted_user_count": 236,
   "submission_count": null,
   "average_tries": 2.021199941635132

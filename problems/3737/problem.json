@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2009",
   "level": 18,
-  "tags": [
-    "bcc",
-    "cactus",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bcc", "cactus", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.0952000617980957

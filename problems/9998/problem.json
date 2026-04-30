@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 윤형이의 블록 건물의 1번째 열에 블록 2개를 더 쌓고, 동혁이의 블록 건물의 3번째 열에 블록 1개를 더 쌓으면 된다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #6, functionx, ho94949, kdk8361, dotorya",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "ternary_search"
-  ],
+  "tags": ["binary_search", "ternary_search"],
   "accepted_user_count": 223,
   "submission_count": null,
   "average_tries": 3.354300022125244

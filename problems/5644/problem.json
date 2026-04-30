@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2011 ACM-ICPC Asia Phuket Regional Programming Contest",
   "level": 16,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.7778000831604004

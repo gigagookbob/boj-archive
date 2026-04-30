@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 1998-1999 Season, USACO Spring 1999 Contest, ? Division, doju",
   "level": 0,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "binary_search",
-    "dfs",
-    "heuristics"
-  ],
+  "tags": ["graphs", "graph_traversal", "binary_search", "dfs", "heuristics"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 22.200000762939453

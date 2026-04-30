@@ -19,11 +19,7 @@
   "hint": "<p>그렇지만 가희 취향의 노래라면 여러 번 반복해서 들을 수 있잖아요.</p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 7회 코딩 테스트, chogahui05, aig0016, utilforever",
   "level": 14,
-  "tags": [
-    "implementation",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "prefix_sum", "two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -23,12 +23,7 @@
   "hint": "<p>Sketch of the answer sequence in example 2: $3\\ 4\\ 7$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 4: Yandex Cup 2018, Contest, Open Cup, 2017/2018 Season, Stage 11: Grand Prix of Khamovniki",
   "level": 19,
-  "tags": [
-    "constructive",
-    "dp",
-    "greedy",
-    "math"
-  ],
+  "tags": ["constructive", "dp", "greedy", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

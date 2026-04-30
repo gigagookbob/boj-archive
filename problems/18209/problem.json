@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2019 Mid-Central Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.8181999921798706

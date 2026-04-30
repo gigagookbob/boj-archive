@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1998 Mid-Central Regional Programming Contest, baekjoon, eric00513",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 75899,
   "submission_count": null,
   "average_tries": 2.0053999423980713

@@ -31,10 +31,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 298px; height: 300px;\" /></p>\r\n\r\n<p>첫 턴에 찾을 수 있는 MST는 총 5개의 간선 {(1, 3), (1, 2), (2, 4), (4, 6), (4, 5)}로 이루어져 있고, 비용은 16이다.</p>\r\n\r\n<p>두 번째 턴에는 첫 턴에서 구한 MST에서 간선의 비용이 최소인 (2, 4)를 제거한 후 남아있는 간선을 이용해 MST를 찾아야 한다. 하지만, (2, 4)를 없앤 후 MST가 존재하지 않기 때문에, 두 번째 턴과 그 이후 모든 턴의 점수는 0이 된다.</p>\r\n",
   "source": "haden",
   "level": 13,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 1099,
   "submission_count": null,
   "average_tries": 1.4812999963760376

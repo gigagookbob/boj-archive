@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2009",
   "level": 18,
-  "tags": [
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["geometry", "sweeping"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 5.2221999168396

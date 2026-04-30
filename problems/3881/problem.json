@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2009 in Tokyo, baekjoon",
   "level": 17,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["math", "geometry", "binary_search"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.1785999536514282

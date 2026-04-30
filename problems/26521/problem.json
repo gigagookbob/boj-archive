@@ -19,10 +19,7 @@
   "hint": "<p>이 조건을 만족하는 $x_1, x_2, ... ,x_n$ 이 존재한다면 유일함을 보일 수 있다. 임의의 정수 $a$와 양의 정수 $b$에 대해서, $a=bq+r(0 \\leq r &lt; b)$이 되는 정수 $q$와 $r$이 유일하다. 이때 $r$을 $a$를 $b$로 나눈 나머지로 정의한다.</p>",
   "source": "Contest, BOJ User Contest, 미적확통컵, 2022 제1회 미적확통컵, andyjung2104, azberjibiou, eaststar, kiwiyou, qwerasdfzxcl, wider93",
   "level": 20,
-  "tags": [
-    "math",
-    "linear_algebra"
-  ],
+  "tags": ["math", "linear_algebra"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.5634000301361084

@@ -15,11 +15,7 @@
   "hint": "<p>There are three subtrees, corresponding to $\\{1,2,3\\}$, $\\{2\\}$, and $\\{3\\}$. Here is one sequence of operations of the minimum possible length:</p>\n<pre>\nactivate 2\n(activated vertices form the subtree rooted at 2)\nactivate 1\nactivate 3\n(activated vertices form the subtree rooted at 1)\ndeactivate 1\ndeactivate 2\n(activated vertices form the subtree rooted at 3)\ndeactivate 3\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Platinum",
   "level": 20,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.1738998889923096

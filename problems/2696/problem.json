@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2009 Greater New York Programming Contest, baekjoon, tncks0121, keunbum, seh200",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 5624,
   "submission_count": null,
   "average_tries": 1.8825000524520874

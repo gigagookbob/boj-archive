@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 7,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 1077,
   "submission_count": null,
   "average_tries": 2.6591999530792236

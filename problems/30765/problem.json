@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере есть только одна пара носков, которую может надеть Бомбослав, --- это пара из второго и третьего носка: $|c_2 - c_3| = 1 \\leq d$.</p>\n<p>Во втором примере Бомбослав может надеть только носки одинаковых оттенков серого, поэтому имеющихся шести носков хватит не более чем на два дня: в оба дня Бомбослав наденет пару носков оттенка $1$.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Qualification 2015-16",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.166700005531311

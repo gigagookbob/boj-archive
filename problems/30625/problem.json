@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2023 Sogang Programming Contest, Champion, yunny_world, bnb2011, crescent_h, dong_gas, jk410, leedongbin, lem0nad3, mjhmjh1104, shiftpsh, snrnsidy, solvedac, utilforever",
   "level": 10,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 204,
   "submission_count": null,
   "average_tries": 2.5490000247955322

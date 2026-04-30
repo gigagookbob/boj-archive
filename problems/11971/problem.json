@@ -15,10 +15,7 @@
   "hint": "<p>예를 들어 도로가 3구역 [(40km, 75km/h), (50km, 35km/h), (10km, 45km/h)] 이고. 연정이가 달린 3구역 [(40km, 76km/h), (20km, 30km/h), (40km, 40km/h)] 이라면, 처음 0 ~ 40km 영역에서 1km/h 만큼 위반했으나 60km ~ 90km 사이에서 5km/h 만큼 위반했기에 연정이가 위반한 최대 값은 5&nbsp;이다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO December 2015 Contest, Bronze, john6014, cheetose",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1292,
   "submission_count": null,
   "average_tries": 1.9194999933242798

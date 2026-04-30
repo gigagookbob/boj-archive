@@ -15,10 +15,7 @@
   "hint": "<p>아래는 <em>k</em> = 3인 경우 올바른 답의 예시이다.</p>\n<p style=\"text-align:center;\"><img alt=\"k = 3인 경우 올바른 답의 예시\" src=\"1.png\" style=\"max-width: 100%; width: 300px;\"/></p>\n<p>위 그래프는 아래 그림에서 확인할 수 있듯 겹치지 않는 두 개의 트리로 구성된다.</p>\n<p style=\"text-align:center;\"><img alt=\"겹치지 않는 두 개의 트리로 구성됨\" src=\"2.png\" style=\"max-width: 100%; width: 300px;\"/></p>\n<p>숲 점수를 계산해 보면 아래와 같이 3이 된다. 빨간색 간선은 <em>F</em><sub>1</sub>, 파란색 간선은 <em>F</em><sub>2</sub>, 초록색 간선은 <em>F</em><sub>3</sub>에 소속된 간선을 나타낸다.</p>\n<p style=\"text-align:center;\"><img alt=\"위 그래프의 숲 점수는 삼\" src=\"3.png\" style=\"max-width: 100%; width: 300px;\"/></p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024 예선, ainta, cki86201, functionx, jh05013, kipa00, queued_q, qwerasdfzxcl, whqkrkt04",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.6154000759124756

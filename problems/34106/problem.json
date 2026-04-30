@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Camp, JOI Spring Training Camp, JOI 2024/2025 Spring Training Camp",
   "level": 23,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3

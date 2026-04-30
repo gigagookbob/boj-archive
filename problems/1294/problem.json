@@ -31,13 +31,7 @@
   "hint": null,
   "source": "baekjoon, august14, kesakiyo, jh05013",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "string",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "string", "sorting", "priority_queue"],
   "accepted_user_count": 498,
   "submission_count": null,
   "average_tries": 3.8554000854492188

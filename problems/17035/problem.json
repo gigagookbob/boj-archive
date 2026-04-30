@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 February Contest, Gold",
   "level": 19,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.608099937438965

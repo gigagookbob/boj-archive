@@ -19,11 +19,7 @@
   "hint": "<p>두 버튼이 인접해 있다는 것은 두 버튼이 변을 공유한다는 것을 의미한다.</p>",
   "source": "University, 건국대학교, Hello, AlKon! 2025, yookwi, aru0504, motsuni04, ohwphil, pizzaroot, riroan",
   "level": 4,
-  "tags": [
-    "math",
-    "precomputation",
-    "parity"
-  ],
+  "tags": ["math", "precomputation", "parity"],
   "accepted_user_count": 433,
   "submission_count": null,
   "average_tries": 1.233299970626831

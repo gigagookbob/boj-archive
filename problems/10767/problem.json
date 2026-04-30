@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO US Open 2015 Contest, Bronze",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "hash_set",
-    "mitm",
-    "string",
-    "set"
-  ],
+  "tags": ["data_structures", "graphs", "hash_set", "mitm", "string", "set"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 3.910399913787842

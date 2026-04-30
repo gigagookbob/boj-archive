@@ -15,9 +15,7 @@
   "hint": "<p>Wszystkie ciągi długości 4, które spełniają podane kryteria to 1000, 1001, 1010.</p>",
   "source": "Contest, Spontaniczny Konkurs Informatyczny, SKI 2010",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.09089994430542

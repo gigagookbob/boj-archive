@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 테스트 케이스에서, $S = S_{1} \\cup S_{3} = \\{1, 2, 3, 4\\}$일 때 원소 개수가 최대이다.</p>\r\n\r\n<p>두 번째 테스트 케이스에서, $S = S_{2} \\cup S_{3} \\cup S_{4} = \\{2, 3, 4, 5, 6\\}$일 때 원소 개수가 최대이다.</p>\r\n\r\n<p>세 번째 테스트 케이스에서, $S = S_{2} \\cup S_{5} = S_{2} \\cup S_{3} \\cup S_{5} = \\{3, 5, 6, 8, 9, 10\\}$일 때 원소 개수가 최대이다.</p>\r\n\r\n<p>네 번째 테스트 케이스에서, 가능한 $S$는 $S = \\varnothing$로 유일하다.</p>\r\n",
   "source": "Contest, Codeforces, Codeforces Round 899 (Div. 2), puppy, koosaga, vector, silverwolf, qwerasdfzxcl, mjhmjh1104, mingyu331, lys9546, lisifu, lighton, leinad2, alex0211, kongum, kep1er07, jk410, jamesoh1201, gs20036, fs_edge, flappybird, chansol, benedict0724",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 195,
   "submission_count": null,
   "average_tries": 1.4768999814987183

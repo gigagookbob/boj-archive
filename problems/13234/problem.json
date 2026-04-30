@@ -35,10 +35,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2016 AIPO Preliminary Round",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 598,
   "submission_count": null,
   "average_tries": 1.2926000356674194

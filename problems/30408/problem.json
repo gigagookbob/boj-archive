@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 춘배컵, 2023 제1회 춘배컵, ksoosung77, fs_edge, gggkik, lys9546, naeby, nflight11, pjshwa, qvixnh22, rustiebeats, utilforever, wider93, wizardrabbit, ychangseok",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 296,
   "submission_count": null,
   "average_tries": 2.702699899673462

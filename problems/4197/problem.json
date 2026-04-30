@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 27 September, 2008, ho94949",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "geometry", "simulation"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 2.6786000728607178

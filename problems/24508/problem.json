@@ -27,11 +27,7 @@
   "hint": null,
   "source": "pjshwa, heeda0528, jthis, swoon, tony9402",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "two_pointer"],
   "accepted_user_count": 361,
   "submission_count": null,
   "average_tries": 3.883699893951416

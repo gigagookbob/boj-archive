@@ -19,12 +19,7 @@
   "hint": "<p>In the first example, following $7$ cases are possible.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 500px; height: 243px;\"/></p>\n<p>In the second example, make sure you print the answer modulo $(10^{9} + 7)$.</p>",
   "source": "Contest, Codeforces, Codeforces Round 589 (Div. 2), spongbob9876",
   "level": 16,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1175999641418457

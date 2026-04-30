@@ -19,12 +19,7 @@
   "hint": null,
   "source": "corea",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "geometry",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "geometry", "segtree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.9000000953674316

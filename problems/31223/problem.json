@@ -19,13 +19,7 @@
   "hint": "<p>본 문제에서 정의하는 <strong>선인장 그래프</strong>는 연결 그래프가 아닐 수 있음에 주의하세요.</p>\r\n",
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division, hjroh0315, dhyang24, naeby, quickn, utilforever",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "knapsack",
-    "bcc",
-    "cactus"
-  ],
+  "tags": ["dp", "graphs", "knapsack", "bcc", "cactus"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.705899953842163

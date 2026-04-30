@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Central Division, ACM South Pacific Central Division 2015",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 1042,
   "submission_count": null,
   "average_tries": 1.5556999444961548

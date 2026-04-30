@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, JOIG Spring Training Camp, JOIG 2021/2022 Spring Training Camp",
   "level": 14,
-  "tags": [
-    "dp",
-    "binary_search",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["dp", "binary_search", "prefix_sum", "two_pointer"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.7072999477386475

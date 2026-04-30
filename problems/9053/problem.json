@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2008",
   "level": 14,
-  "tags": [
-    "bitmask",
-    "bruteforcing",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "bruteforcing", "dp", "dp_bitfield"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

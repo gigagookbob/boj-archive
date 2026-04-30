@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Far Eastern Russia Regional Contest, NEERC Far-Eastern Subregional 2000, baekjoon, jh05013",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "sorting",
-    "number_theory",
-    "set"
-  ],
+  "tags": ["math", "bruteforcing", "sorting", "number_theory", "set"],
   "accepted_user_count": 290,
   "submission_count": null,
   "average_tries": 1.899999976158142

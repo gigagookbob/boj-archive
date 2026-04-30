@@ -19,11 +19,7 @@
   "hint": "<p>Clarification of the first example: You took meals 1, 3 and 4 that are part of a menu and the lady will charge you with an entire menu. Meals 6 and 7 aren’t part of a menu, so you pay their full price.</p>\n<p>Clarification of the second example: You took two portions of meal 1 (Wiener Schnitzel), but the lady will charge you one portion along with one portion of meal 2 as a menu, but will charge the other portion separately (because it doesn’t pay off to charge it as a second menu). You took two juices (meal 6), but you pay for them separately because they are not a part of the menu.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #7",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.4247000217437744

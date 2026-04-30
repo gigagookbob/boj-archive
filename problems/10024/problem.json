@@ -15,10 +15,7 @@
   "hint": "<h4>Output Details</h4><p>There are two cyclic shifts, one involving cows 5, 1, and 2, and the other involving cows 3 and 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO March 2014 Contest, Bronze",
   "level": 8,
-  "tags": [
-    "implementation",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["implementation", "permutation_cycle_decomposition"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.4207000732421875

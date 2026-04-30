@@ -15,10 +15,7 @@
   "hint": "<p>능력치 총 합이 2<sup>31</sup>-1 보다 클 수 있다.</p>\r\n",
   "source": null,
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 2.6185998916625977

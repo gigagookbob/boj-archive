@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2018 Sogang Programming Contest, Master, semteo04, pichulia",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "binary_search", "disjoint_set"],
   "accepted_user_count": 2699,
   "submission_count": null,
   "average_tries": 2.9170000553131104

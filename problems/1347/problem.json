@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, aldrlsb11, myungwoo, jh05013",
   "level": 9,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 2602,
   "submission_count": null,
   "average_tries": 1.7059999704360962

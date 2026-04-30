@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2008 (Single), baekjoon",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set"],
   "accepted_user_count": 1777,
   "submission_count": null,
   "average_tries": 2.348900079727173

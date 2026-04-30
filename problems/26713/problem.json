@@ -19,9 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładów: W pierwszym teście przykładowym, aby ciąg mógł zostać zaśpiewany przez pliszkę alternującą, wystarczy zmienić czwarty wyraz ciągu, na przykład na −1. W drugim teście przykładowym trzeba zmienić co najmniej dwa wyrazy, otrzymując na przykład ciąg [−1 000 001, −1 000 000, −1 000 002, −1 000 000].</p>",
   "source": "Contest, Algorithmic Engagements, PA 2022",
   "level": 6,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.6399999856948853

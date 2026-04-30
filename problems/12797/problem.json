@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 1: Online",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring",
-    "berlekamp_massey"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring", "berlekamp_massey"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 2.7300000190734863

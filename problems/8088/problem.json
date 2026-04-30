@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1996/1997, Stage 2",
   "level": 13,
-  "tags": [
-    "graphs",
-    "greedy",
-    "sorting",
-    "constructive"
-  ],
+  "tags": ["graphs", "greedy", "sorting", "constructive"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.217400074005127

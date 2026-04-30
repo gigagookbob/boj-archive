@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022, jh05013, chunghan, doju, functionx, heeda0528, hyperbolic, kclee2172, lky7674, man_of_learning, myungwoo, queued_q",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "ad_hoc", "set", "hash_set", "tree_set"],
   "accepted_user_count": 373,
   "submission_count": null,
   "average_tries": 2.6273000240325928

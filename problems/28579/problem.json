@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, November 07, 2021, Advanced",
   "level": 15,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

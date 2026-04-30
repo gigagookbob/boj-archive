@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2012",
   "level": 11,
-  "tags": [
-    "bfs",
-    "dfs",
-    "flood_fill",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["bfs", "dfs", "flood_fill", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.0499999523162842

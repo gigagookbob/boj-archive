@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2014, Contest, Open Cup, 2014/2015 Season, Stage 4: Grand Prix of Europe",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 1.7545000314712524

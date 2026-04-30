@@ -31,9 +31,7 @@
   "hint": null,
   "source": "cheetose",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 433,
   "submission_count": null,
   "average_tries": 2.15939998626709

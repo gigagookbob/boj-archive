@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, we have N = 5 problem sets and M = 4 students.</p>\n<ul>\n<li>For the first student, we are looking for a problem with the difficulty closest to their skill level S<sub>1</sub> = 14. The problem with the minimum difference is problem with difficulty 12, which we can find in the third problem set, so P<sub>1</sub> = 12.</li>\n<li>For the second student, we are looking for a problem with the difficulty closest to their skill level S<sub>2</sub> = 24. Fortunately, we can find a problem of this exact difficulty in the fourth problem set, so P<sub>2</sub> = 24.</li>\n<li>For the third student, we are once again looking for a problem with the difficulty closest to the skill level S<sub>3</sub> = 24. As we already used the problem with difficulty 24, we cannot use this problem. The problem closest in difficulty is 11, as 12 was already used as well. Therefore P<sub>3</sub> = 11.</li>\n<li>Finally, for the fourth student, we are looking for the problem closest to his skill level S<sub>4</sub> = 4. We have two problems with the same difference: 2 and 6. We choose the easier problem, so P<sub>4</sub> = 2.</li>\n</ul>\n<p>In Sample Case #2, we have N = 1 problem set and M=1 student. In the only problem set, there is only one problem, so we have to use this problem to examine the first and only student, so P<sub>1</sub> = 42.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round D",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "implementation"
-  ],
+  "tags": ["binary_search", "data_structures", "implementation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.842099905014038

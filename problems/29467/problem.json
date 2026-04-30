@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 26, 2012, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 26, 2012, Advanced",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 1.2135000228881836

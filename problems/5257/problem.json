@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2011",
   "level": 26,
-  "tags": [
-    "graphs",
-    "geometry",
-    "divide_and_conquer",
-    "mst",
-    "convex_hull"
-  ],
+  "tags": ["graphs", "geometry", "divide_and_conquer", "mst", "convex_hull"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.479599952697754

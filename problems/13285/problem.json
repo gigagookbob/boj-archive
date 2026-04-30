@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2016 Japan Domestic Contest",
   "level": 21,
-  "tags": [
-    "trees",
-    "tree_isomorphism"
-  ],
+  "tags": ["trees", "tree_isomorphism"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.5262999534606934

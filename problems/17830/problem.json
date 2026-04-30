@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"2.png\" style=\"height: 292px; width: 250px;\"/>  </p>\n<p>이진수의 곱셈 역시 십진수를 곱하는 것과 유사한 방식으로 계산할 수 있다.</p>",
   "source": "University, 홍익대학교, 2019 홍익대학교 프로그래밍 경진대회, Green55",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "difference_array"
-  ],
+  "tags": ["math", "greedy", "difference_array"],
   "accepted_user_count": 153,
   "submission_count": null,
   "average_tries": 2.372499942779541

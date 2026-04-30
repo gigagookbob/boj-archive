@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 송도고등학교, 송도고 코드마스터 2024, cherub8128, jinseo, cologne, dohoon, ibm2006, lisifu, plast, sait2000, sjhi00",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.3148000240325928

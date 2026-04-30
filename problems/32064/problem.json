@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2022 ICPC Asia Jakarta Regional Contest",
   "level": 22,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.1514999866485596

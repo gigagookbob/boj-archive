@@ -10,9 +10,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2023, functionx, dohoon, hjroh0315, kiwiyou, sorohue, tony9402, utilforever",
   "level": 11,
-  "tags": [
-    "differential_cryptanalysis"
-  ],
+  "tags": ["differential_cryptanalysis"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 2.3069000244140625

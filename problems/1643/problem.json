@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 1999, ZZangZZang",
   "level": 12,
-  "tags": [
-    "math",
-    "implementation",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "implementation", "probability", "linearity_of_expectation"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 2.6545000076293945

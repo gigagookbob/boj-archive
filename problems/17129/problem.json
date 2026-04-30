@@ -27,12 +27,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCCC 벚꽃맞이 컨테스트, wookje",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 1352,
   "submission_count": null,
   "average_tries": 2.5592000484466553

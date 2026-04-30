@@ -15,11 +15,7 @@
   "hint": "<p>Jeżeli miasto numer 3 zostanie przydzielone Bitocji, to występować będzie tylko jedno połączenie między miastami Bitocji i Bajtocji - między miastami 3 i 4.</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Olympiad Group)",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.857100009918213

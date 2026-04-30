@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest 연습 세션, tae",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.4323999881744385

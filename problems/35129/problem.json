@@ -19,10 +19,7 @@
   "hint": "<p>In Sample Input 1, all the test cases describe impossible situations.</p>\n<ul>\n<li>In the first test case, the two statements are clearly contradicting each other.</li>\n<li>In the second test case, the first statement implies that the member $1$ joined the society first, and later, the member $2$ joined, because otherwise the member $1$ could not have recommended the member $2$. The second statement, however, implies the reverse order. Satisfying both is impossible.</li>\n<li>In the third test case, the first statement essentially says that the recommender set of the member $1$ is identical to that of the member $2$. As no two members have the same recommender set, $1$ and $2$ must designate the same member. Then, the second and the third statements are contradictory.</li>\n</ul>\n<p>The first test case of Sample Input 2 is possible. There are many possible scenarios. One example is as follows: the member $3$ is actually the founder, the member $2$ joined by the recommendation of $\\{3\\}$, and the member $1$ joined by the recommendation of $\\{2\\}$.</p>\n<p>The last test case of Sample Input 2 is also possible. Note that it is not necessary that all the members of the society are mentioned in the information. There must be at least $4$ members in the society.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2025 ICPC Asia Yokohama Regional Contest",
   "level": 26,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

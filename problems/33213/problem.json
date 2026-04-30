@@ -23,9 +23,7 @@
   "hint": "<p>Pojašnjenje trećeg probnog primjera: Dva su parnokošuljaša i tri neparnokošuljaša, što znači da će Mirko postati neparnokošuljaš, a njegov će nadimak biti $1$ jer je to najmanji neparan prirodan broj i nitko nema taj nadimak.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2024",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 1.2640000581741333

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2013: Snowstorm Spring 2013",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "greedy", "parametric_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

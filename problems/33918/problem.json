@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2025 SCON, dohyonne, cologne, jhnah917, jhwest2, junseo, kyo20111, ryute",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "dp_deque"
-  ],
+  "tags": ["dp", "data_structures", "deque", "deque_trick", "dp_deque"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 5.253799915313721

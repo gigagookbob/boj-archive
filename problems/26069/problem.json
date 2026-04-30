@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 곰곰컵, 제2회 곰곰컵, pjshwa, bnb2011, chogahui05, jthis, jyheo98, lms0806, pichulia, r4pidstart, tony9402",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "tree_set"],
   "accepted_user_count": 10431,
   "submission_count": null,
   "average_tries": 1.5561000108718872

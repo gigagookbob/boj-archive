@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2010 Greater New York Programming Contest, baekjoon, Nada, typhoon",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2004,
   "submission_count": null,
   "average_tries": 1.2080999612808228

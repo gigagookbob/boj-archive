@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회, messi",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "difference_array"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "difference_array"],
   "accepted_user_count": 1593,
   "submission_count": null,
   "average_tries": 2.8575000762939453

@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2022, Division 1, University, University of Alberta Programming Contest, UAPC 2022, Division 2",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.475000023841858

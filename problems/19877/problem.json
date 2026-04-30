@@ -15,10 +15,7 @@
   "hint": "<p>Рассмотрим тест из примера.</p>\n<p>Перед первым изменением плакаты следует поднять друзьям с номерами 2, 4, 5, 6. Суммарная красочность поднятых плакатов будет равняться 17.</p>\n<p>После первого изменения плакат друга с номером 6 имеет красочность 0. Теперь плакаты следует поднять друзьям с номерами 1, 3, 4, 5. Суммарная красочность будет равняться 13.</p>\n<p>После второго изменения плакат друга с номером 2 имеет красочность 5. Плакаты следует поднять друзьям с номерами 1, 2, 4, 5. Суммарная красочность будет равняться 15.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2020",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

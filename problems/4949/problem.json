@@ -15,11 +15,7 @@
   "hint": "<p>7번째의 &quot; .&quot;와 같이 괄호가 하나도 없는 경우도 균형잡힌 문자열로 간주할 수 있다.</p>\r\n",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2011 Japan Domestic Contest, occidere, chminoo, jh05013",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "stack"
-  ],
+  "tags": ["data_structures", "string", "stack"],
   "accepted_user_count": 52393,
   "submission_count": null,
   "average_tries": 2.9540998935699463

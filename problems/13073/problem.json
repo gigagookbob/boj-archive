@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2015, citizen",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 745,
   "submission_count": null,
   "average_tries": 1.2604000568389893

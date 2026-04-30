@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2015",
   "level": 19,
-  "tags": [
-    "2_sat",
-    "bruteforcing",
-    "graphs",
-    "scc"
-  ],
+  "tags": ["2_sat", "bruteforcing", "graphs", "scc"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.770799994468689

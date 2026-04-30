@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["bruteforcing", "backtracking", "permutation_cycle_decomposition"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 1.833299994468689

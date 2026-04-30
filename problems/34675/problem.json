@@ -19,11 +19,7 @@
   "hint": "<p>복선이란, 2개의 궤도로 구성되어 있는 선로를 말합니다. 문제에서의 복선은 상행, 하행으로 이루어져 있는 선로를 의미합니다.</p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 8회 코딩 테스트, chogahui05, mujigae, utilforever",
   "level": 16,
-  "tags": [
-    "dp",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "knapsack", "traceback"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.600000023841858

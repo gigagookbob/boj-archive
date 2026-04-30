@@ -15,10 +15,7 @@
   "hint": "<p>원래 정식 오델로는 8*8 보드판에서 진행하지만, 설명의 편의를 위해 6*6 보드판으로 변경하였다.</p>",
   "source": "University, 연세대학교, 2018 연세대학교 컴퓨터과학과 프로그래밍 경진대회, ae04071, portableangel, zych1751",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 389,
   "submission_count": null,
   "average_tries": 2.3933000564575195

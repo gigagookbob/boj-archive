@@ -15,9 +15,7 @@
   "hint": "<p>Bythony can choose a segment of 6 blocks: BSSBCS, out of which he can construct a three blocks high gray tower, two blocks high white tower, and a one block high black tower.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2014/2015, Stage 2",
   "level": 20,
-  "tags": [
-    "case_work"
-  ],
+  "tags": ["case_work"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.8333001136779785

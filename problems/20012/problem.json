@@ -23,10 +23,7 @@
   "hint": "<p>В первом примере, перестановка будет иметь такой вид $\\langle 1 2 3 4 5\\rangle \\rightarrow \\langle 1 2 3 5 4\\rangle \\rightarrow \\langle 2 1 3 5 4\\rangle \\rightarrow \\langle 2 3 1 5 4\\rangle$. Ответ, предложенный во втором примере, тоже корректен.</p>\n<p>В третьем примере перестановка уже хаотическая, и ничего менять не надо.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2012",
   "level": 8,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.8181999921798706

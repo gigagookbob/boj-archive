@@ -15,13 +15,7 @@
   "hint": "<p>Just so you remember, rotation is done as follows:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 175px; height: 175px;\"/></p>\n<p>Example test case looks like this:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 242px; height: 242px;\"/></p>\n<p>The first set of points is {1, 2, 3, 4}, and the second set of points is {1′, 2′, 3′, 4′}. After the rotation of the second set of lines by −π/2 around axis (0; 0; 1), we obtain the following matching: {(1′; 2),(2′; 3),(3′; 4),(4′, 1)}.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 4: Oleksandr Kulkov Contest 2",
   "level": 26,
-  "tags": [
-    "ad_hoc",
-    "divide_and_conquer",
-    "geometry",
-    "geometry_3d",
-    "math"
-  ],
+  "tags": ["ad_hoc", "divide_and_conquer", "geometry", "geometry_3d", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 22

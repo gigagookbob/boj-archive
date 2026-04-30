@@ -35,10 +35,7 @@
   "hint": null,
   "source": "tony9402, jh05013, melon940925, rhs0266",
   "level": 12,
-  "tags": [
-    "dp",
-    "grid_graph"
-  ],
+  "tags": ["dp", "grid_graph"],
   "accepted_user_count": 428,
   "submission_count": null,
   "average_tries": 2.1775999069213867

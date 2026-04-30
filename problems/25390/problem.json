@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022, queued_q, bnb2011, doju, hyperbolic, kclee2172, myungwoo, quickn",
   "level": 22,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "dp_sum_over_subsets"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.5609999895095825

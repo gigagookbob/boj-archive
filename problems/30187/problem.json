@@ -27,13 +27,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2023 서울대학교 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2023 서울대학교 프로그래밍 경시대회, Division 1 (Open Contest), 16silver, azberjibiou, mhy908, sharaelong",
   "level": 21,
-  "tags": [
-    "case_work",
-    "graphs",
-    "implementation",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["case_work", "graphs", "implementation", "linear_algebra", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.857100009918213

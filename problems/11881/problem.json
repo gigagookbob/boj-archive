@@ -15,11 +15,7 @@
   "hint": "<p>위에 설명한 예제와 같습니다. 만들 수 있는 지우개는 2−4−1 지우개와 3−4−1 지우개뿐이므로, 부피의 합은 a<sub>2</sub>a<sub>4</sub>a<sub>1</sub>+a<sub>3</sub>a<sub>4</sub>a<sub>1</sub>=1×2×3+1×2×3=12가 됩니다.</p>",
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA4, fldj2855",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["math", "dp", "prefix_sum"],
   "accepted_user_count": 178,
   "submission_count": null,
   "average_tries": 2.572999954223633

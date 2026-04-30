@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2015",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "ternary_search"
-  ],
+  "tags": ["bruteforcing", "math", "ternary_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.800000190734863

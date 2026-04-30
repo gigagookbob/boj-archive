@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2008, WeissBlume",
   "level": 19,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 351,
   "submission_count": null,
   "average_tries": 3.90310001373291

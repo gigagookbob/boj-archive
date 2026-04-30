@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2007 Greater New York Programming Contest, baekjoon, exupery",
   "level": 13,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.9179999828338623

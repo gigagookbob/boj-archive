@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 282px; height: 100px;\"/></p>\n<p>We do not increase the height of the barrier at position 2 because this will not change the amount of water. We increase by 1 centimeter the barrier height at position 4. This increases the total amount of water by 1 cubic centimeter.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2019, Group B (Juniors), Olympiad, International Autumn Tournament in Informatics, 2019, Group C",
   "level": 14,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.5

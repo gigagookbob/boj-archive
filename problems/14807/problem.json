@@ -15,12 +15,7 @@
   "hint": "<p>Note that the last sample case would not appear in the Small dataset.</p>\n<p>In Case #1 there are two options: use the horse in city 1 for the entire trip, or change horses in city 2. Both horses have enough endurance, so both options are viable. Since the horse in city 2 is faster, it is better to change, for a total time of 1/3 + 1/4.</p>\n<p>In Case #2 there are two intermediate cities in which you can change horses. If you change horses in city 2, however, your new horse, while blazingly fast, will not have enough endurance, so you will be forced to change again in city 3. If you keep your horse, you will have the option to change horses (or not) in city 3. So, the three options, with their total times, are:</p>\n<ol>\n<li>Change horses in both city 2 and 3 (1/10 + 1/1000 + 10/8 = 1.351).</li>\n<li>Change horses just in city 3 (2/10 + 10/8 = 1.45).</li>\n<li>Never change horses (12/10 = 1.2).</li>\n</ol>\n<p>In Case #3, there are lots of alternatives for each delivery. The optimal one for the first delivery (city 2 to city 4) is to go to city 1 in time 10/1000, change horses, and then go to cities 2, 3 and 4, in that order, using the horse from city 1, which takes time (10 + 10 + 10) / 60.</p>\n<p>For the second delivery (city 3 to city 1) you have no choice but to first go to city 4 which takes time 10/5. Your relatively fast horse does not have enough endurance to get anywhere else, so you need to grab the horse in city 4. You could use it to get directly to city 1 in time 15, but that would be slower than riding it to city 2 in time 6 and then using the blazingly fast horse in city 2 to get to city 1 in just 10/1000 extra time.</p>\n<p>In the third delivery (city 3 to city 2) of Case #3 it is optimal to use the first two steps of the previous one, for a total time of 10/5 + 6 = 8.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 1B",
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.6303999423980713

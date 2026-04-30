@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, shjgkwo",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "articulation"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "articulation"],
   "accepted_user_count": 4001,
   "submission_count": null,
   "average_tries": 2.8327999114990234

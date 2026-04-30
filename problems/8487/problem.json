@@ -15,12 +15,7 @@
   "hint": "<p>Wystarczą satelity w <em>x</em> = 31.(6) oraz <em>x</em> = 112.</p>",
   "source": "Camp, POI Training Camp, ONTAK 2009",
   "level": 21,
-  "tags": [
-    "greedy",
-    "geometry",
-    "sweeping",
-    "convex_hull"
-  ],
+  "tags": ["greedy", "geometry", "sweeping", "convex_hull"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 3

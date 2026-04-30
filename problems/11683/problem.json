@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2015",
   "level": 18,
-  "tags": [
-    "dp",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "game_theory", "sprague_grundy"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.9242000579833984

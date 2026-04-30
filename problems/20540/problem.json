@@ -19,10 +19,7 @@
   "hint": "<p>MBTI는  Myers-Briggs Type Indicator의 줄임말이다.</p>",
   "source": "University, 인하대학교, 2020 인하대학교 프로그래밍 경진대회 (IUPC), dongwoo338, august14, bsgreentea, dlstj0923, polohee81, rhs0266, tony9402, tyoungs",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2362,
   "submission_count": null,
   "average_tries": 1.2295000553131104

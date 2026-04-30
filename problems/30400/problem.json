@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 1회 DGUPC, iansong, kiwiyou, leo020630, parkky, utilforever, wjdclgns12",
   "level": 18,
-  "tags": [
-    "greedy",
-    "string",
-    "manacher"
-  ],
+  "tags": ["greedy", "string", "manacher"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.1951000690460205

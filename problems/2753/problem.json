@@ -19,11 +19,7 @@
   "hint": null,
   "source": "jh05013, rory143",
   "level": 1,
-  "tags": [
-    "implementation",
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["implementation", "arithmetic", "math"],
   "accepted_user_count": 215745,
   "submission_count": null,
   "average_tries": 1.927899956703186

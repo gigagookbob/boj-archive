@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 23, 2010, Advanced",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "string"
-  ],
+  "tags": ["bruteforcing", "string"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

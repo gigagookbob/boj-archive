@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2020",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "sorting",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "sorting", "dfs"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.6666998863220215

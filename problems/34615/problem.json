@@ -27,11 +27,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: Ilustracija prikazuje kako se mijenjao broj bombončića na stolu nakon svake promjene.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 612px; height: 395px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Croatian Olympiad in Informatics for Girls 2024",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 4.5

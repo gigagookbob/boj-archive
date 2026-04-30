@@ -23,10 +23,7 @@
   "hint": "<p>벽은 부숴버리라고 있는 것.</p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 7회 코딩 테스트, chogahui05, aig0016, dongwook7, kkgojn, utilforever",
   "level": 13,
-  "tags": [
-    "constructive",
-    "sorting"
-  ],
+  "tags": ["constructive", "sorting"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 3.951200008392334

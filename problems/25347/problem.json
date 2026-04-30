@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 3, ahgus89, gs18115, jhwest2, stonejjun03, whqkrkt04",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "probability"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 3.975600004196167

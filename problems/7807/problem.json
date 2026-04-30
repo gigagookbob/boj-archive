@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2007, doju",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "eulerian_path",
-    "graphs"
-  ],
+  "tags": ["bruteforcing", "eulerian_path", "graphs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

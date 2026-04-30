@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2021",
   "level": 23,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.558799982070923

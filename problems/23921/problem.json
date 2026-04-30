@@ -15,11 +15,7 @@
   "hint": "<p>There are three lucky fragments in the first test case, namely, KICKSTARTPROBLEMNAMEDKICKSTART and two occurrences of KICKSTART. The text in the second test case has no lucky fragments at all.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round G",
   "level": 8,
-  "tags": [
-    "math",
-    "string",
-    "combinatorics"
-  ],
+  "tags": ["math", "string", "combinatorics"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.4390000104904175

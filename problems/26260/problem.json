@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, SW마에스트로, 제13기 알고리즘 대회, seungwuk98, chansol, jyheo98, leeh18, man_of_learning, tony9402",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "sorting",
-    "trees",
-    "dfs",
-    "recursion"
-  ],
+  "tags": ["graphs", "graph_traversal", "sorting", "trees", "dfs", "recursion"],
   "accepted_user_count": 221,
   "submission_count": null,
   "average_tries": 1.4524999856948853

@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2022, Stage 1",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 939,
   "submission_count": null,
   "average_tries": 1.186400055885315

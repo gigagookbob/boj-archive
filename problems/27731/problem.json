@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2022, leeh18, deuslovelt, eaststar, jthis, rasauq1122",
   "level": 17,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 5.199999809265137

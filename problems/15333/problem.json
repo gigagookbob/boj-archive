@@ -27,13 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ACM-ICPC Asia Tsukuba Regional Contest 2017",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick", "dp", "segtree"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.951200008392334

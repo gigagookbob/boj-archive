@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2018/2019 Spring Training Camp",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "dijkstra",
-    "graphs",
-    "implementation",
-    "shortest_path"
-  ],
+  "tags": ["ad_hoc", "dijkstra", "graphs", "implementation", "shortest_path"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.5833001136779785

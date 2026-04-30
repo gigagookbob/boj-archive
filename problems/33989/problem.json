@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2025 한양대학교 ALOHA 벚꽃컵, Div. 1, jsj0412, jjang36524, tlsdydaud1, thak00, terrasphere, myyh1234, mathtw1030, lkh3happy, leo020630, 0xchaser, ingyu1008, gubshig, gggkik, gangminson, fs_edge, dohoon, asdarwin03, 99asdfg",
   "level": 8,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 204,
   "submission_count": null,
   "average_tries": 2.171600103378296

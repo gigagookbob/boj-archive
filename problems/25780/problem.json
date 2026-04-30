@@ -19,11 +19,7 @@
   "hint": "<p>For the first Sample input, the maximum possible sum of student satisfaction scores can be achieved by the following assignments:</p>\n<ul>\n<li>Student 1 to Section 1</li>\n<li>Student 2 to Section 2</li>\n<li>Student 3 to Section 2</li>\n<li>Student 4 to Section 1</li>\n<li>Student 5 to Section 1</li>\n</ul>\n<p>So, the total satisfaction is: 10 + 8 + 4 + 11 + 12 = 45</p>",
   "source": "University, University of Central Florida, 2022 Local Programming Contest (Final Round)",
   "level": 20,
-  "tags": [
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "mcmf", "graphs"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.333299994468689

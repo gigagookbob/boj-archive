@@ -23,12 +23,7 @@
   "hint": "<p>In the second sample case, the optimal card price is $5.26$€, as it results in the highest possible turnover of $21.04$€, with four sales happening. In total, there are five buyers willing to pay at least $5.26$€: Three are willing to pay exactly $5.26$€, one is willing to pay $6.17$€ and one is even willing to pay $21.04$€. On the other hand, there are just four sellers willing to part with their card at $5.26$€: Three at exactly this price and one would already be happy with $4.50$€.</p>\n<p>Note that there is an alternative solution: at a card price of $21.04$€, there will be exactly one sale, resulting in the same optimal turnover.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2021",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "simulation", "prefix_sum", "two_pointer"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.1379001140594482

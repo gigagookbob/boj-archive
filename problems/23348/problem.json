@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제1회 한국항공대학교 프로그래밍 경진대회(KAUPC), soo7652, bnb2011, palilo, pjshwa, shjohw12, WeissBlume",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1862,
   "submission_count": null,
   "average_tries": 1.2481000423431396

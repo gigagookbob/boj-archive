@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제1회 코드 챔피언십, 79brue, jh05013",
   "level": 15,
-  "tags": [
-    "math",
-    "geometry",
-    "parity"
-  ],
+  "tags": ["math", "geometry", "parity"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.8288999795913696

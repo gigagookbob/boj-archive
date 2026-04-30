@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2005, saytome33",
   "level": 12,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "parsing"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.5111000537872314

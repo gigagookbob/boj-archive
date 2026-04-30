@@ -19,11 +19,7 @@
   "hint": "<p>아래는 포커 패의 목록이다. 높은 패부터 내림차순이다.</p>\r\n\r\n<ul>\r\n\t<li><strong>straight flush</strong>: 무늬가 같고 숫자가 연속적인 $5$장의 카드</li>\r\n\t<li><strong>quadruple</strong>: 숫자가 같은 $4$장의 카드</li>\r\n\t<li><strong>full house</strong>: 숫자가 같은 $3$장의 카드와, 숫자가 같은 나머지 $2$장의 카드</li>\r\n\t<li><strong>flush</strong>: 무늬가 같은 $5$장의 카드</li>\r\n\t<li><strong>straight</strong>: 숫자가 연속적인 $5$장의 카드</li>\r\n\t<li><strong>triple</strong>: 숫자가 같은 $3$장의 카드</li>\r\n\t<li><strong>two pair</strong>: $2$개의 <strong>pair</strong></li>\r\n\t<li><strong>pair</strong>: 숫자가 같은 $2$장의 카드</li>\r\n</ul>\r\n\r\n<p>여러 조건을 동시에 만족하는 경우에는 조건을 만족하는 가장 높은 패로 계산된다.</p>\r\n",
   "source": "School, 한국과학영재학교, 2022 Fall CS2 Final Mock Exam, flakepowders, eric00513, kiwiyou, leeh18, parkky, runnie0427",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["implementation", "bruteforcing", "case_work"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.6944000720977783

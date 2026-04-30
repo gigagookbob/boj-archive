@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2017",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

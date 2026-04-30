@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação da SBC 2022 - Extra Vitória Site",
   "level": 13,
-  "tags": [
-    "backtracking",
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["backtracking", "implementation", "recursion"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

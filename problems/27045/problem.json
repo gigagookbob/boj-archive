@@ -15,10 +15,7 @@
   "hint": "<p>Cow 3 is the only cow of high popularity.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO November 2003 Contest, Green",
   "level": 19,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.5881999731063843

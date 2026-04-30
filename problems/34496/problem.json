@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, there are four sticks, all of which are length $9$ except for one that is length $1$. The optimal way to create a kite is to apply the operation $8$ times to the stick of length $1$. We will then have four sticks of length $9$, which we can use to make a kite.</p>\n<p>In the second test case, there are five sticks. We do not need to apply any operations because we already have four sticks of lengths $9$, $9$, $20$, $20$, so the answer is $0$.</p>\n<p>In the third test case, it can be shown that the minimum number of operations needed is $2$. One way to make a kite with $2$ operations would be to extend the sticks of length $1$ and $3$ so that our collection of sticks has lengths $5$, $4$, $4$, $2$, $2$. The last four sticks can then form a kite.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Spring 2025 Invitational, Qualification Round 1",
   "level": 9,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.4285999536514282

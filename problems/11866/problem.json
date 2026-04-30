@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "queue"],
   "accepted_user_count": 54395,
   "submission_count": null,
   "average_tries": 1.746999979019165

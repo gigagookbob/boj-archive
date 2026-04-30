@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 4: SPb SU Contest, LVII SPb SU Championship",
   "level": 25,
-  "tags": [
-    "fft",
-    "generating_function",
-    "kitamasa",
-    "kmp",
-    "math",
-    "string"
-  ],
+  "tags": ["fft", "generating_function", "kitamasa", "kmp", "math", "string"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 5

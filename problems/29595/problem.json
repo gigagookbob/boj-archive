@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 31, 2009, Advanced",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

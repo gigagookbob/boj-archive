@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2024",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 217,
   "submission_count": null,
   "average_tries": 1.746500015258789

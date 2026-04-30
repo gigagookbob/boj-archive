@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, ksoosung77, eric00513, kiwiyou, lms0806, nflight11, pill27211, pjshwa, sedev57, starbow, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 8,
-  "tags": [
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["prefix_sum", "sliding_window"],
   "accepted_user_count": 539,
   "submission_count": null,
   "average_tries": 1.2726999521255493

@@ -15,10 +15,7 @@
   "hint": "<p>부분 문자열이란, 문자열에서 연속한 부분에 해당하는 문자열이다. 예를 들어 <code>ab</code>, <code>bca</code>, <code>abca</code>는 <code>abca</code>의 부분 문자열이고, <code>ac</code>, <code>ba</code>는 <code>abca</code>의 부분 문자열이 아니다.</p>",
   "source": "University, 한양대학교, 제12회 한양대학교 프로그래밍 경시대회(HCPC), Beginner Division, University, 한양대학교, 제12회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, jsj0412, 0xchaser, 79brue, azberjibiou, hibye1217, jthis, leo020630, mathtw1030, mhy908, pizzaroot, sadtreap, terrasphere, tlsdydaud1",
   "level": 11,
-  "tags": [
-    "string",
-    "prefix_sum"
-  ],
+  "tags": ["string", "prefix_sum"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.666700005531311

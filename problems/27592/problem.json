@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Atlantic Regional, 2022 Mid-Atlantic USA Regional Contest, Division 1, ICPC, Regionals, North America, South Central USA Regional, 2022 South Central USA Regional Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2022 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Mid-Central Regional, 2022 Mid-Central USA Regional Contest, ICPC, Regionals, North America, North Central North America Regional, 2022 North Central NA Regional Contest, ICPC, Regionals, North America, Pacific Northwest Regional, 2022 ICPC Pacific Northwest Region, Division 1, ICPC, Regionals, North America, Rocky Mountain Regional, 2022 Rocky Mountain Regional Contest",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "segtree",
-    "sorting"
-  ],
+  "tags": ["data_structures", "geometry", "segtree", "sorting"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.333299994468689

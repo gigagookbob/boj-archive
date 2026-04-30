@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2022 인하대학교 프로그래밍 경진대회 (IUPC), wjdclgns12, 39dll, gumgood, jh05013, jhnah917, yooshnn",
   "level": 21,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "combinatorics",
-    "mitm"
-  ],
+  "tags": ["math", "prefix_sum", "combinatorics", "mitm"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 4.829800128936768

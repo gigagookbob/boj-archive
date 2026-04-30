@@ -23,13 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "set", "tree_set"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.4762001037597656

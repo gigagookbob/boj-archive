@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2021/2022, Stage 1",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "backtracking",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["ad_hoc", "backtracking", "combinatorics", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.75

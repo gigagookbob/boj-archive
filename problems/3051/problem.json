@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #2, baekjoon",
   "level": 20,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry", "line_intersection"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.296299934387207

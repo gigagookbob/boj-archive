@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2023 Greater New York Programming Contest",
   "level": 11,
-  "tags": [
-    "backtracking",
-    "bruteforcing"
-  ],
+  "tags": ["backtracking", "bruteforcing"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.076900005340576

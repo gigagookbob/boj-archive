@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Tijek igre po setovima prikazan je u tablici. Rezultati su oblika „broj_gemova_Nikola:broj_gemova_Josip“:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 665px; height: 66px;\"/></p>\n<p>U prvom setu rezultat je bio 6:3 za Nikolu, u drugom 6:5 za Josipa, a u trećem 6:1 za Nikolu. Nikola je za G1 odabrao vrijednost tri zato što bi, da se tijekom online igre osvajao set nakon tri osvojena gema, osvojio sva tri seta. Sva tri seta bi osvojio i za G1=4 dok bi za G1=1 i G1=2 i G1=5 osvojio po dva seta.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2020, Junior Croatian Olympiad in Informatics 2020 - Preliminary Round",
   "level": 4,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.0967999696731567

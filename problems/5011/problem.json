@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2011",
   "level": 11,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 2.937000036239624

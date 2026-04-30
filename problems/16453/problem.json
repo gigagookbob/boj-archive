@@ -19,14 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2018",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "lca",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "lca", "hld"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.2759000062942505

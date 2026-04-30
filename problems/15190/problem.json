@@ -15,13 +15,7 @@
   "hint": "<p>For the first problem, Figure 1 shows the first tree and the other tree is its mirror image. They have different structures, because the order of the children is significant.</p>\n<p>Figure 2 shows the first tree in the second problem. The other tree is represented using more nodes but has the same structure.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2017",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "ad_hoc",
-    "disjoint_set",
-    "recursion"
-  ],
+  "tags": ["data_structures", "graphs", "ad_hoc", "disjoint_set", "recursion"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

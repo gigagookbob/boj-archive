@@ -19,11 +19,7 @@
   "hint": null,
   "source": "danny253, jh05013, adh0463, cbs0615, klimmek55, whquddn55, suhgyuho",
   "level": 19,
-  "tags": [
-    "dp",
-    "string",
-    "kmp"
-  ],
+  "tags": ["dp", "string", "kmp"],
   "accepted_user_count": 379,
   "submission_count": null,
   "average_tries": 6.696599960327148

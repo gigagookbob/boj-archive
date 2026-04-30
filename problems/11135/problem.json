@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2010",
   "level": 16,
-  "tags": [
-    "exponentiation_by_squaring",
-    "implementation",
-    "math",
-    "string"
-  ],
+  "tags": ["exponentiation_by_squaring", "implementation", "math", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 5.800000190734863

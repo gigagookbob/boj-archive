@@ -35,12 +35,7 @@
   "hint": null,
   "source": "baekjoon, chogahui05",
   "level": 12,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d",
-    "ternary_search"
-  ],
+  "tags": ["math", "geometry", "geometry_3d", "ternary_search"],
   "accepted_user_count": 939,
   "submission_count": null,
   "average_tries": 1.8050999641418457

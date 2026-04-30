@@ -15,12 +15,7 @@
   "hint": "<p>순서대로 \\( \\frac{1}{3} \\),\\( \\frac{1}{3} \\),\\( \\frac{1}{3} \\),\\( 0 \\)을 의미한다.</p>",
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, august14",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring",
-    "kitamasa"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring", "kitamasa"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.297300100326538

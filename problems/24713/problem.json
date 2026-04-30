@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 6: ICPC Camp Day 1: PKU Contest",
   "level": 22,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.4211000204086304

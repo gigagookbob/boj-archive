@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회, kookmin20103324, doju",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 2219,
   "submission_count": null,
   "average_tries": 1.7412999868392944

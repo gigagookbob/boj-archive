@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2024 고려대학교 프로그래밍 경시대회 (KCPC), 예비소집, eoaud0108, kidw0124, amel, edwardblue, finimage, jinhan814, kevinlys00, rachel2003, wnguscjf01, yijw0930",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "lis"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "lis"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.1521999835968018

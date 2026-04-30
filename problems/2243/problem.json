@@ -15,11 +15,7 @@
   "hint": null,
   "source": "hoan123432",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["binary_search", "segtree", "data_structures"],
   "accepted_user_count": 5372,
   "submission_count": null,
   "average_tries": 2.4946000576019287

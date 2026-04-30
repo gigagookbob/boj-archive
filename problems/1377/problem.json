@@ -19,9 +19,7 @@
   "hint": null,
   "source": "baekjoon, skynet",
   "level": 14,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 6653,
   "submission_count": null,
   "average_tries": 2.7606000900268555

@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, <b>N</b> = 7 and <b>Q</b> = 5.</p>\n<ul>\n<li>For the first question, Anna must use the blocks <code>AACC</code>. She can rearrange these blocks into the palindrome <code>ACCA</code> (or <code>CAAC</code>).</li>\n<li>For the second question, Anna must use the blocks <code>A</code>. This is already a palindrome, so she does not need to rearrange them.</li>\n<li>For the third question, Anna must use the blocks <code>BAAC</code>. These blocks cannot be rearranged into a palindrome.</li>\n<li>For the fourth question, Anna must use the blocks <code>CA</code>. These blocks cannot be rearranged into a palindrome.</li>\n<li>For the fifth question, Anna must use the blocks <code>AACCA</code>. She can rearrange these blocks to form the palindrome <code>ACACA</code> (or <code>CAAAC</code>).</li>\n</ul>\n<p>In total, she is able to answer \"yes\" to 3 of Bob's questions, so the answer is 3.</p>\n<p>In Sample Case #2, <b>N</b> = 3 and <b>Q</b> = 5. For the first question, Anna must use the blocks <code>XYZ</code> to create a palindrome. This is impossible, and since the rest of Bob's questions are the same as the first one, the answer is 0.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2019, Round B",
   "level": 10,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["string", "ad_hoc", "prefix_sum"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.325600028038025

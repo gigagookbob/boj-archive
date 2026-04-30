@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제6회 한양대학교 프로그래밍 경시대회, Beginner Division, pch6828, tongnamuu",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 310,
   "submission_count": null,
   "average_tries": 2.0129001140594482

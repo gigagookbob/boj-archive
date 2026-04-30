@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 23, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 23, 2019, Advanced",
   "level": 16,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.878000020980835

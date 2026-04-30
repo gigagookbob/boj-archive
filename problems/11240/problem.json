@@ -15,10 +15,7 @@
   "hint": "<p>ตัวอย่างการวางเครื่องฉีดน้ าที่ใช้จ านวนเครื่องน้อยที่สุด</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:108px; width:108px\"/></p>\n<p style=\"text-align: center;\">กรณีทดสอบที่หนึ่ง</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:173px; width:240px\"/></p>\n<p style=\"text-align: center;\">กรณีทดสอบที่สอง</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand First Round Online, Thailand First Round Online 2014",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2010",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "traceback"
-  ],
+  "tags": ["dp", "greedy", "sorting", "traceback"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 6.238100051879883

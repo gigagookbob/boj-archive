@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2023, CCC 2023 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2023, CCC 2023 Senior Division",
   "level": 7,
-  "tags": [
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["implementation", "geometry"],
   "accepted_user_count": 148,
   "submission_count": null,
   "average_tries": 1.86489999294281

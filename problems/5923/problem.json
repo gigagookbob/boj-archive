@@ -15,11 +15,7 @@
   "hint": "<p>토글이란 0-&gt;1, 1-&gt;0으로 바꾸는 연산이다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO November 2011 Contest, Gold, baekjoon, cheetose",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 2.3561999797821045

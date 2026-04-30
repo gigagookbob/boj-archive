@@ -23,11 +23,7 @@
   "hint": null,
   "source": "MenOfPassion, dhyang24, eric00513, jbkmath48128, palilo",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 230,
   "submission_count": null,
   "average_tries": 1.4957000017166138

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2019 Mid-Central Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "parametric_search"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "parametric_search"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.3529000282287598

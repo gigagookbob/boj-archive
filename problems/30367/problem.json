@@ -23,11 +23,7 @@
   "hint": "<p>In Sample Input 3, one of the optimal routes is below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 254px; height: 140px;\"/></p>\n<p style=\"text-align: center;\">Figure B.2. The optimal route in Sample Input 3</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2023 Day 3",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.2894999980926514

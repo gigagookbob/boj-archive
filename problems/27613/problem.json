@@ -15,13 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 400px; height: 401px;\"/></p>\n<p style=\"text-align: center;\">The shortest path from the first case in the sample input.</p>",
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2022-2023 East Central Regional Contest",
   "level": 23,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "geometry",
-    "case_work",
-    "recursion"
-  ],
+  "tags": ["implementation", "ad_hoc", "geometry", "case_work", "recursion"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

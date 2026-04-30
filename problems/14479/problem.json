@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, Larry will need to play an average of four hours to win the single card he needs to complete his collection.</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2016",
   "level": 19,
-  "tags": [
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "math", "probability"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

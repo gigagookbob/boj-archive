@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:399px; width:359px\"/></p>\n<p>The program can be executed as follows:</p>\n<p>Time    Instructions<br/>\n  1          1</p>\n<p>  2         2  3  4</p>\n<p>  3         5  6  7</p>\n<p>  4         8  10</p>\n<p>  5         9  12</p>\n<p>  6         11 13 14</p>\n<p>  7         15 16 17</p>\n<p>  8         18 19 20</p>\n<p><br/>\n—————<br/>\nSample grading tests:</p>\n<ul>\n<li>1ocen: n=10, q=2, instruction tree is a path;</li>\n<li>2ocen: n=10, q=3, a small random test;</li>\n<li>3ocen: n=100, q=3, all instructions other than 1 are its subsequent instructions;</li>\n<li>4ocen: n=127, q=1, instructions form a complete binary tree;</li>\n<li>5ocen: n=1,000,000, q=31, instruction tree is a long path.</li>\n</ul>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 2",
   "level": 25,
-  "tags": [
-    "cht",
-    "greedy",
-    "math",
-    "trees"
-  ],
+  "tags": ["cht", "greedy", "math", "trees"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.2778000831604004

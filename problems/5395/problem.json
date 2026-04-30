@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2010",
   "level": 11,
-  "tags": [
-    "case_work",
-    "implementation",
-    "math",
-    "simulation"
-  ],
+  "tags": ["case_work", "implementation", "math", "simulation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.7691999673843384

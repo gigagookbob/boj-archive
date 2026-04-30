@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2010 Arab Collegiate Programming Contest, baekjoon",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["math", "dp", "ad_hoc", "case_work"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.7142999172210693

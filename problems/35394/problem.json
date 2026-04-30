@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2025",
   "level": 0,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

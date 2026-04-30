@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "traceback"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.3231000900268555

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Beginner Division, dksu40, chansol, ingyu1008, jhnah917, my3, thak00, tony9402",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 278,
   "submission_count": null,
   "average_tries": 2.0576000213623047

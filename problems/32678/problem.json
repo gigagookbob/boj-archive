@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2024 Rocky Mountain Regional Contest",
   "level": 8,
-  "tags": [
-    "dp",
-    "geometry"
-  ],
+  "tags": ["dp", "geometry"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.1875

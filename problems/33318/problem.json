@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2025, 1차 선발고사, ainta",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "smaller_to_larger",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "smaller_to_larger", "hld"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.88100004196167

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "isku, vvipconcert",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "prefix_sum", "two_pointer"],
   "accepted_user_count": 25453,
   "submission_count": null,
   "average_tries": 2.0460000038146973

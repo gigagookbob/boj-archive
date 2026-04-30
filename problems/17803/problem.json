@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2019",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "geometry"
-  ],
+  "tags": ["math", "dp", "geometry"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.4838999509811401

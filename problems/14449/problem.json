@@ -15,10 +15,7 @@
   "hint": "<p>In this example, the cows of heights 34, 5, and 2 are unbalanced.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 January Contest, Gold, orihehe",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 292,
   "submission_count": null,
   "average_tries": 1.3630000352859497

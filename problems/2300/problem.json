@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2006, 중등부, Olympiad, 한국정보올림피아드, KOI 2006, 고등부, hhs250",
   "level": 14,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 880,
   "submission_count": null,
   "average_tries": 2.549999952316284

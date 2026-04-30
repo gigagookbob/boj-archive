@@ -19,11 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, jyheo98, kiwiyou, powergee, tony9402",
   "level": 11,
-  "tags": [
-    "prefix_sum",
-    "sliding_window",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "sliding_window", "difference_array"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.891900062561035

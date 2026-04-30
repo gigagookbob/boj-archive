@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2017, Practice",
   "level": 23,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

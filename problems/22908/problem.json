@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Orange Cup, Orange Cup, 79brue, azberjibiou, cs71107, whqkrkt04",
   "level": 19,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.7407000064849854

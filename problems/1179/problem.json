@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5, YunGoon",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "recursion"
-  ],
+  "tags": ["math", "dp", "recursion"],
   "accepted_user_count": 477,
   "submission_count": null,
   "average_tries": 2.811300039291382

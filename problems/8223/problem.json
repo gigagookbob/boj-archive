@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2011/2012, Stage 1",
   "level": 20,
-  "tags": [
-    "lca",
-    "trees"
-  ],
+  "tags": ["lca", "trees"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.09089994430542

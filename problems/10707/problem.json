@@ -19,10 +19,7 @@
   "hint": "<p>입출력예제 1에서, JOI군의 집에서 사용하는 수도의 양은 10리터이다.</p>\r\n\r\n<ul>\r\n\t<li>X사의 수도요금은 9 &times; 10 = 90엔이다.</li>\r\n\t<li>JOI군의 집에서 사용한 양이 20리터 이하이므로 Y사의 수도요금은 기본요금인 100엔이다.</li>\r\n</ul>\r\n\r\n<p>JOI군의 집은 수도요금이 더 싼 X사를 고르고, 이때의 한 달치 수도요금은 90엔이다.</p>\r\n\r\n<p>입출력예제 2에서, JOI군의 집에서 사용하는 수도의 양은 250리터이다.</p>\r\n\r\n<ul>\r\n\t<li>X사의 수도요금은 8 &times; 250 = 2000엔이다.</li>\r\n\t<li>JOI군의 집에서 사용한 양이 100리터 이상이므로 초과량은 250 - 100 = 150리터이다. 따라서 Y사의 수도요금은 기본요금인 300엔에 더해서 10 &times; 150 = 1500엔의 추가요금이 붙고, 총 요금은 300 + 1500 = 1800엔이 된다.</li>\r\n</ul>\r\n\r\n<p>JOI군의 집은 수도요금이 더 싼 Y사를 고르고, 이때의 한 달치 수도요금은 1800엔이다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2014/2015 예선, pinebananais, eric00513",
   "level": 3,
-  "tags": [
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["arithmetic", "math"],
   "accepted_user_count": 6885,
   "submission_count": null,
   "average_tries": 1.31850004196167

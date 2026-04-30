@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, havana723, chansol, cologne, cozyyg, gs18115, pichulia, shiftpsh, topology",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 756,
   "submission_count": null,
   "average_tries": 1.2869999408721924

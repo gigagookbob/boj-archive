@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, November 12, 2022, Advanced",
   "level": 19,
-  "tags": [
-    "constructive",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["constructive", "game_theory", "sprague_grundy"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

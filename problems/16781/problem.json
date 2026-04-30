@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2016",
   "level": 24,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.7955000400543213

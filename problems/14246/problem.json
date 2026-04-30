@@ -19,9 +19,7 @@
   "hint": null,
   "source": "curnurx",
   "level": 9,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 785,
   "submission_count": null,
   "average_tries": 2.8661999702453613

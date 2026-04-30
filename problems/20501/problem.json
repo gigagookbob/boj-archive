@@ -15,9 +15,7 @@
   "hint": "<p>입출력 양이 많다. 느린 입출력 함수를 쓰면 입력 받는 데에 걸리는 시간만으로 시간 초과가 발생할 수 있으므로 유의하라.</p>\n<ul>\n<li>C++에서는, <code>cin</code>, <code>cout</code> 함수를 가급적 쓰지 말고, <code>scanf</code>, <code>printf</code> 함수로 입출력을 진행하는 편이 좋다.</li>\n<li>Java에서는, <code>Scanner</code> 클래스 대신, <code>BufferedReader</code> 클래스를 사용하여 입력받는 편이 좋다.</li>\n<li>Python에서는, <code>input</code> 함수를 쓰는 대신, <code>import sys</code>를 코드의 앞 부분에서 선언하면 같은 역할을 하는 더 빠른 함수인 <code>sys.stdin.readline</code>을 쓸 수 있다.</li>\n</ul>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제4회 천하제일 코딩대회, junie",
   "level": 14,
-  "tags": [
-    "bitset"
-  ],
+  "tags": ["bitset"],
   "accepted_user_count": 278,
   "submission_count": null,
   "average_tries": 2.323699951171875

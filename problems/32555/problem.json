@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2024",
   "level": 21,
-  "tags": [
-    "bipartite_matching",
-    "hall"
-  ],
+  "tags": ["bipartite_matching", "hall"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.3333001136779785

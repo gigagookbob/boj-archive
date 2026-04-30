@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2017, Contest, Open Cup, 2016/2017 Season, Stage 16: Grand Prix of America, dasyma",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 3.066699981689453

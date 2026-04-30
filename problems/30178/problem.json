@@ -15,10 +15,7 @@
   "hint": "<p>The first elements of $s$ are $1, 2, 3, 4, 8, 12, 5, 10, 15, \\dots $</p>",
   "source": "Contest, Codeforces, Codeforces Round 633 (Div. 1), Contest, Codeforces, Codeforces Round 633 (Div. 2), spongbob9876",
   "level": 19,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.583299994468689

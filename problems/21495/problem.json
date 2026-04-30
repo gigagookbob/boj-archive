@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере подходят следующие варианты:</p>\n<ul>\n<li>Андрей живет на станции 1, а Борис на станции 2;</li>\n<li>Андрей живет на станции 1, а Борис на станции 4;</li>\n<li>Андрей живет на станции 2, а Борис на станции 1;</li>\n<li>Андрей живет на станции 2, а Борис на станции 3;</li>\n<li>Андрей живет на станции 3, а Борис на станции 2;</li>\n<li>Андрей живет на станции 3, а Борис на станции 4;</li>\n<li>Андрей живет на станции 4, а Борис на станции 1;</li>\n<li>Андрей живет на станции 4, а Борис на станции 3.</li>\n</ul>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2015",
   "level": 7,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3600000143051147

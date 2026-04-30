@@ -15,12 +15,7 @@
   "hint": "<p>i = 3, j = 5일 때, 점수는 (6 + 4 + 5) &times; 4 = 60이 된다.</p>\r\n",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2005",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "divide_and_conquer",
-    "stack"
-  ],
+  "tags": ["data_structures", "segtree", "divide_and_conquer", "stack"],
   "accepted_user_count": 2409,
   "submission_count": null,
   "average_tries": 3.2262001037597656

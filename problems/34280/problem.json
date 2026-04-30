@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2025, ibm2006",
   "level": 19,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

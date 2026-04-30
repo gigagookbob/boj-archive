@@ -15,11 +15,7 @@
   "hint": "<p>조각상들을 다음의 나이가 되도록 두 그룹으로 나눈다: (8 1 2) and (1 5 4). 그룹 별 합은 11과 10이다. 비트 OR을 계산하면 11이 된다.</p>\r\n",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2015",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "bitmask"
-  ],
+  "tags": ["dp", "greedy", "bitmask"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 2.3675999641418457

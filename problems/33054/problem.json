@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2024 December Contest, Platinum",
   "level": 24,
-  "tags": [
-    "divide_and_conquer",
-    "dp",
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["divide_and_conquer", "dp", "greedy", "two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

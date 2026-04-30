@@ -15,9 +15,7 @@
   "hint": "<p>There are seven competitors: a Gnold programmer followed by two Helpfile programmers, followed by another Gnold programmer, followed by another two Helpfile programmers followed by a final Gnold programmer. Programmers want to goto dinner in pairs.</p>\n<p>First send the first pair of Hs to dinner, leaving GGHHG. Then send the second pair of Hs to dinner, leaving GGG; finally, send in the group of Gs. It might be coincidental that the two pairs of Helpfile programmers entered the cafeteria successively.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2009, CCO 2009",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.875

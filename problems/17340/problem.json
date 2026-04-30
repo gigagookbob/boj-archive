@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2007",
   "level": 22,
-  "tags": [
-    "cht",
-    "dp"
-  ],
+  "tags": ["cht", "dp"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 7.8333001136779785

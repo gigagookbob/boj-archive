@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, moonrabbit2, doju, choiking10",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 1.885699987411499

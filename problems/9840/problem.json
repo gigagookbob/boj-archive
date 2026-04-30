@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2009",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask",
-    "grid_graph",
-    "tsp"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "bitmask", "grid_graph", "tsp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.1818000078201294

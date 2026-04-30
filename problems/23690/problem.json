@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the second example: All permutations of the magnets are valid because no two magnets can attract each other.</p>\n<p>Clarification of the third example: If we denote the magnets with <code>1</code>, <code>2</code> and <code>3</code>, and an empty slot with <code>_</code>, the possible arrangements of magnets are <code>13_2</code>, <code>31_2</code>, <code>2_13</code> and <code>2_31</code>.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #2",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

@@ -15,10 +15,7 @@
   "hint": "<p>Sample Input 1 contains two test cases. In the first one, you will rather walk to 0-th floor than to wait for the lift which is 18 floors away. In the second test case, an example of the fastest way is when you call the lift and walk 1 floor upstairs in the meantime, then you call the lift to 9-th underground floor and wait for the lift which you then take to the 0-th floor.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2021",
   "level": 6,
-  "tags": [
-    "math",
-    "case_work"
-  ],
+  "tags": ["math", "case_work"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.921099901199341

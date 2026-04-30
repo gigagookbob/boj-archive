@@ -15,10 +15,7 @@
   "hint": null,
   "source": "june020615, djm03178",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1492,
   "submission_count": null,
   "average_tries": 1.3035999536514282

@@ -19,10 +19,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 515px; height: 540px;\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #3",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.25

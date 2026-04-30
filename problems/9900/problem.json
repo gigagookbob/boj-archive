@@ -15,10 +15,7 @@
   "hint": "<p>In the above example, s<sub><i>small</i></sub>(3) is the sequence <i>A</i> and bit-string 111 is the 6-th element of <i>A</i>. Consequently, we have the following sample input and output.</p>\n<p>Do not try to construct all LNR sequences and then find the smallest LNR sequence. You can find the smallest LNR sequence by preferring left-shift moves where a \"0\" is shifted in (over those moves where a \"1\" is shifted in).</p>",
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2004",
   "level": 21,
-  "tags": [
-    "graphs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "eulerian_path"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

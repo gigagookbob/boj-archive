@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, ACM ICPC Asia Kuala Lumpur Regional Contest 2014",
   "level": 8,
-  "tags": [
-    "bitmask",
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bitmask", "bruteforcing", "implementation"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.0625

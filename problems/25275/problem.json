@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2022",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.899999976158142

@@ -15,10 +15,7 @@
   "hint": "<p>(1번 사탕)을 선물 받는 경우 만족도는 2, (2번 사탕)을 선물 받는 경우 만족도는 2, (1, 2번 사탕)을 선물 받는 경우 만족도는 4.</p>\n<p>따라서 2 + 2 + 4 = 8</p>",
   "source": null,
   "level": 10,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 2.0357000827789307

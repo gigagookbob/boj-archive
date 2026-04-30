@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:134px; width:435px\"/></p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"3.png\" style=\"height:124px; width:470px\"/></p>\n<p>두 번째 길을 이용해0-1-2-3-새집-6-5-4 순서로 이동하면 25의 거리를 이동해 가장 조금만 걷고 배달을 마칠 수 있다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2017 Sogang Programming Contest, Champion, qdqd",
   "level": 17,
-  "tags": [
-    "prefix_sum",
-    "case_work"
-  ],
+  "tags": ["prefix_sum", "case_work"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 5.7555999755859375

@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, havana723, chansol, cologne, cozyyg, gs18115, pichulia, shiftpsh, topology",
   "level": 4,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 2910,
   "submission_count": null,
   "average_tries": 1.6079000234603882

@@ -27,13 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2018",
   "level": 22,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "shortest_path",
-    "dijkstra",
-    "flow"
-  ],
+  "tags": ["graphs", "binary_search", "shortest_path", "dijkstra", "flow"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.6888999938964844

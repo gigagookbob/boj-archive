@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2011, RCC 2011 First Qualification Round",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 3.9544999599456787

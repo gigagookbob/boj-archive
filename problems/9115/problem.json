@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2006 Qualification",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "knapsack"
-  ],
+  "tags": ["math", "dp", "graphs", "knapsack"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.384600043296814

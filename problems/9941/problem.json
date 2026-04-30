@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 2013",
   "level": 12,
-  "tags": [
-    "recursion"
-  ],
+  "tags": ["recursion"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.7458000183105469

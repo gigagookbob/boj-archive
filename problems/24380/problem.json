@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2013, Group C",
   "level": 10,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "prefix_sum", "pigeonhole_principle"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 5.35290002822876

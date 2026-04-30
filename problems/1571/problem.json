@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "crt"
-  ],
+  "tags": ["math", "number_theory", "crt"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.121999979019165

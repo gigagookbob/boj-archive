@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2024 Sogang Programming Contest, Champion, hulahula3247, jinhan814, lky7674",
   "level": 25,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_graph",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "bipartite_graph", "mfmc"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.266700029373169

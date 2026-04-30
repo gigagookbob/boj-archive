@@ -15,12 +15,7 @@
   "hint": "<p>$1.5$초의 시간이 흐른 후 조쌤은 $(0, 3)$에 위치해 있고 각 학생은 $(0, 3)$, $(-0.5, 3.5)$, $(4, -3.5)$에 위치하여 있다. 즉 반경 $1$ 안에 있는 $1$, $2$번 학생을 조쌤은 잡을 수 있고 이것이 한 번에 잡을 수 있는 최대 학생 수가 된다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO Holiday Bonus 2009 Contest, Gold, author6, luciaholic",
   "level": 16,
-  "tags": [
-    "math",
-    "geometry",
-    "case_work",
-    "sweeping"
-  ],
+  "tags": ["math", "geometry", "case_work", "sweeping"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 4.4375

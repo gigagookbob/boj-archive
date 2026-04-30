@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, UT Invitational Programming Contest, UT Invitational Programming Contest 2020",
   "level": 16,
-  "tags": [
-    "dp",
-    "linearity_of_expectation",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "linearity_of_expectation", "math", "probability"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

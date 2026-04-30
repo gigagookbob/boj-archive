@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 First Qualification Round",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "sorting", "probability"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.125

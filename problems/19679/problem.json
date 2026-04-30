@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 275px; height: 159px;\"/></p>\n<p>There are 5 fancy rectangles of shape: <img alt=\"\" src=\"2.png\" style=\"width: 48px; height: 49px;\"/></p>\n<p>There are 3 fancy rectangles of shape: <img alt=\"\" src=\"3.png\" style=\"width: 86px; height: 48px;\"/></p>\n<p>There is 1 fancy rectangle of shape: <img alt=\"\" src=\"4.png\" style=\"width: 126px; height: 52px;\"/></p>\n<p>There are 2 fancy rectangles of shape: <img alt=\"\" src=\"5.png\" style=\"width: 45px; height: 81px;\"/></p>\n<p>There is 1 fancy rectangle of shape: <img alt=\"\" src=\"6.png\" style=\"width: 78px; height: 78px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2020, Day 1",
   "level": 18,
-  "tags": [
-    "math",
-    "data_structures",
-    "combinatorics",
-    "stack"
-  ],
+  "tags": ["math", "data_structures", "combinatorics", "stack"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 3.269200086593628

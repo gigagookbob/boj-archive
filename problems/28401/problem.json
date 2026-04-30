@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 243px; width: 600px;\"/></p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023, bubbler, evenharder, golazcc83, hyperbolic, jh05013, queued_q, tlsdydaud1, wapas",
   "level": 21,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "convex_hull", "line_intersection"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3

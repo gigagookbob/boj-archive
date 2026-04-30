@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics", "probability"],
   "accepted_user_count": 1261,
   "submission_count": null,
   "average_tries": 1.958799958229065

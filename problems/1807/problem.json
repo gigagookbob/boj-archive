@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 2012, baekjoon, august14",
   "level": 14,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "parametric_search"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 2.7778000831604004

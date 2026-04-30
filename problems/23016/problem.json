@@ -19,9 +19,7 @@
   "hint": "<p>In the Sample 1, the minimum number of cuts is 5. One of the possible series of cuts is as follows:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 175px; height: 175px;\"/></p>\n<p>In the Sample 2, the minimum number of cuts is 3. One of the possible series of cuts is as follows:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 164px; height: 132px;\"/></p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round E",
   "level": 17,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

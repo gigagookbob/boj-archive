@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2011, baekjoon",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 6.150000095367432

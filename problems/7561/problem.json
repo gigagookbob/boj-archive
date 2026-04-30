@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2001, baekjoon",
   "level": 12,
-  "tags": [
-    "math",
-    "linear_algebra"
-  ],
+  "tags": ["math", "linear_algebra"],
   "accepted_user_count": 221,
   "submission_count": null,
   "average_tries": 4.271500110626221

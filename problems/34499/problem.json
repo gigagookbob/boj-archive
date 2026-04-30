@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, Busy Beaver can move all the balls in the first bin to the second bin. Then he will have exactly $1 + 2 = 3$ balls in the second bin, making the second bin full. </p>\n<p>Then he can move all the balls from the second bin to the third bin. Then he will have exactly $5 + 3 = 8$ balls in the third bin, making the third bin full. </p>\n<p>Finally, he can throw all the balls in the third bin away.</p>\n<p>In the second test case, it can be shown that it is impossible to discard all the balls.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Spring 2025 Invitational, Qualification Round 2",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

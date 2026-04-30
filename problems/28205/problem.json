@@ -15,12 +15,7 @@
   "hint": "<p>In the first example test, one rook is not enough to cover every square, but two rooks are enough, and there are six ways to place two rooks to cover every square (<code>R</code> denotes a rook, <code>*</code> denotes an empty square):</p>\n<pre>\nR          *          *          *          *          *  \n**         R*         R*         R*         *R         ** \n*R*        R**        *R*        **R        R**        RR*\n</pre>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 7: Gennady Korotkevich Contest 7",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.200000047683716

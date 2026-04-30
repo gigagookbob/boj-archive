@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2016, ho94949",
   "level": 21,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "scc"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "dfs", "scc"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 4.199999809265137

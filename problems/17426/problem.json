@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2010, jh05013, koosaga",
   "level": 26,
-  "tags": [
-    "dp",
-    "traceback",
-    "dp_connection_profile"
-  ],
+  "tags": ["dp", "traceback", "dp_connection_profile"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.0713999271392822

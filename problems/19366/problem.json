@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 2: Xiaoxu Guo Contest",
   "level": 22,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.4375

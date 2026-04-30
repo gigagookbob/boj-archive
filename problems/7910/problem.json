@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2011",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "set"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.3225998878479004

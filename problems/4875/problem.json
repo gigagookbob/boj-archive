@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2003 Rocky Mountain Regional Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "parsing",
-    "string"
-  ],
+  "tags": ["math", "number_theory", "parsing", "string"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.8666999340057373

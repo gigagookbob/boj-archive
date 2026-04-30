@@ -15,10 +15,7 @@
   "hint": "<p>One of the possible ways to fulfill the order within 12 Days is the following:</p>\n<ul>\n<li>At the beginning [houses:0, factories:10, non-utilized area:50]</li>\n<li>Day 1: Construct 10 factories [0,20,40]</li>\n<li>Day 2: Construct 10 factories [0,30,30]</li>\n<li>Day 3: Construct 10 houses [10,30,20]</li>\n<li>Day 4: Construct 10 houses [20,30,10]</li>\n<li>Day 5: Construct 10 houses [30,30,0]</li>\n<li>Day 6: Raze 15 factories [30,15,15]</li>\n<li>Day 7: Construct 5 houses [35,15,10]</li>\n<li>Day 8: Construct 5 houses [40,15,5]</li>\n<li>Day 9: Construct 5 houses [45,15,0]</li>\n<li>Day 10: Raze 5 factories [45,10,5]</li>\n<li>Day 11: Construct 3 houses [48,10,2]</li>\n<li>Day 12: Construct 2 houses [50,10,0]</li>\n</ul>",
   "source": "Olympiad, Latvian olympiad in informatics, 13th Latvian olympiad in informatics, Stage III (Country)",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4

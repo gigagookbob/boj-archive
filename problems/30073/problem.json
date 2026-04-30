@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2019/2020, School Stage, 10-12 Classes",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "string"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.9375

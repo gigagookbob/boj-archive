@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #5, baekjoon",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["bruteforcing", "case_work"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 6.866700172424316

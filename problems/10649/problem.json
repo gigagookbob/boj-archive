@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO December 2014 Contest, Gold, myungwoo, suhgyuho",
   "level": 16,
-  "tags": [
-    "dp",
-    "greedy",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "greedy", "bitmask", "dp_bitfield"],
   "accepted_user_count": 190,
   "submission_count": null,
   "average_tries": 2.5683999061584473

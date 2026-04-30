@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2016, Day 1",
   "level": 26,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "disjoint_set",
-    "mst",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "data_structures", "disjoint_set", "mst", "eulerian_path"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.142899990081787

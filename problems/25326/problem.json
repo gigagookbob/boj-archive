@@ -15,11 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, Green55, jthis, palilo, wider93",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 318,
   "submission_count": null,
   "average_tries": 1.1886999607086182

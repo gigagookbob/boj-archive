@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, November 9, 2019, Advanced",
   "level": 21,
-  "tags": [
-    "bruteforcing",
-    "dp"
-  ],
+  "tags": ["bruteforcing", "dp"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, November 7, 2015, Basic",
   "level": 6,
-  "tags": [
-    "implementation",
-    "graphs",
-    "eulerian_path"
-  ],
+  "tags": ["implementation", "graphs", "eulerian_path"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.816699981689453

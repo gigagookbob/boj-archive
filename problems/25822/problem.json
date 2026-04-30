@@ -23,9 +23,7 @@
   "hint": null,
   "source": "lms0806, chansol, chogahui05, pjshwa, tony9402",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 199,
   "submission_count": null,
   "average_tries": 3.0302000045776367

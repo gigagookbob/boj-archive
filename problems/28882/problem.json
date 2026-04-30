@@ -15,10 +15,7 @@
   "hint": "<p>В тестовом примере бомба поразит двигатели с координатами $(4, 0)$ и $(2, 2)$. Расстояние до оставшихся $2$ двигателей больше $4$, поэтому они не будут поражены.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, November 26, 2017, Advanced",
   "level": 13,
-  "tags": [
-    "geometry",
-    "prefix_sum"
-  ],
+  "tags": ["geometry", "prefix_sum"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

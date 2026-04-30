@@ -15,11 +15,7 @@
   "hint": "<p>0.5초와 1.5초에 부딪친 후 2초가 되면 처음과 같은 상태가 된다.</p>",
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, august14",
   "level": 23,
-  "tags": [
-    "kmp",
-    "math",
-    "string"
-  ],
+  "tags": ["kmp", "math", "string"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.842099905014038

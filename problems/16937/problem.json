@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry", "case_work"],
   "accepted_user_count": 1868,
   "submission_count": null,
   "average_tries": 2.52839994430542

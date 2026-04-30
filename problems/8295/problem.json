@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 4,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 224,
   "submission_count": null,
   "average_tries": 1.25

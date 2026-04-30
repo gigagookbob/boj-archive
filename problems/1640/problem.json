@@ -27,10 +27,7 @@
   "hint": "<p>예제 1의 경우 가운데 행을 뒤집고, 가운데 열을 뒤집으면 된다.</p>",
   "source": "baekjoon, portableangel",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "parity"],
   "accepted_user_count": 227,
   "submission_count": null,
   "average_tries": 1.8193999528884888

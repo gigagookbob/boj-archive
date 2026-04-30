@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, havana723, chansol, cologne, cozyyg, gs18115, kipa00, pichulia, shiftpsh",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 3904,
   "submission_count": null,
   "average_tries": 2.4056999683380127

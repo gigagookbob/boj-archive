@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, PIZZA, ZA and PITA can be spelled as PIZ_A, ZA and PI_A. There are not enough letters to spell PROGRAM or CONTEST. In the second test case, BANANAS and FIGS can be spelled as _A_A_A_and ____. On the other hand, CARROTS would require 6 blanks in addition to the A.</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2005",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.3547999858856201

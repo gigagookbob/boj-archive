@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2005, Regional Competition - Juniors, author5",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "parsing"],
   "accepted_user_count": 473,
   "submission_count": null,
   "average_tries": 1.4757000207901

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "hrocky125, doju, naeby, koosaga",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 4130,
   "submission_count": null,
   "average_tries": 3.224900007247925

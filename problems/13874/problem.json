@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2016",
   "level": 22,
-  "tags": [
-    "cht",
-    "dp"
-  ],
+  "tags": ["cht", "dp"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 4.46150016784668

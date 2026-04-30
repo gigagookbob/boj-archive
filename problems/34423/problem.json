@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2021",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.357100009918213

@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2012",
   "level": 12,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive",
-    "heuristics"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive", "heuristics"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.736799955368042

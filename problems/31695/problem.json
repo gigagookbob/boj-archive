@@ -15,10 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Wejściowy ciąg można podzielić na przykład na ciągi [1, 3, 1] i [2, 2]. W ten sposób oba wynikowe ciągi będą posiadały lidera (odpowiednio liczby 1 i 2).</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.75

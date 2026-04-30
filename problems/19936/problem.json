@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2020, Day 2",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "recursion"
-  ],
+  "tags": ["math", "dp", "recursion"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.688499927520752

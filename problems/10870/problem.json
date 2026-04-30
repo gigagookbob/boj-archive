@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 4,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 70427,
   "submission_count": null,
   "average_tries": 1.6370999813079834

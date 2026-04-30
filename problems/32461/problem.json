@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2024 KAIST 14th ICPC Mock Competition, sharaelong, azberjibiou, benedict0724, cologne, jhwest2, koosaga, seonah",
   "level": 23,
-  "tags": [
-    "case_work",
-    "combinatorics",
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["case_work", "combinatorics", "exponentiation_by_squaring", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.90910005569458

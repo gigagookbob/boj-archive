@@ -23,11 +23,7 @@
   "hint": "<p><strong>위도(Latitude)</strong>는 적도를 기준으로 북쪽과 남쪽을 나타내는 각도이다. 북반구는 양수로, 남반구는 음수로 나타내며, 범위는 $-90$도(남극)에서 $90$도(북극)까지이다.</p>\n<p><strong>경도(Longitude)</strong>는 본초 자오선(영국 그리니치 천문대)을 기준으로 동쪽과 서쪽을 나타내는 각도이다. 동쪽은 양수로, 서쪽은 음수로 나타내며, 범위는 $-180$도에서 $180$도까지이다.</p>",
   "source": "University, 한양대학교 · 세종대학교, 제 2회 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC), Intermediate, University, 한양대학교 · 세종대학교, 제 2회 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC), Beginner, infikei, dkxkqkrtkddn, dohoon, gggkik, gs22123, gunwookim, hansoyo, iccodly, ingyu1008, jrdora, opusdeisong, wjdclgns12",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 2.1960999965667725

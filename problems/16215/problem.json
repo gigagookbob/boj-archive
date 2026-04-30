@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제2회 웰노운컵 Day 1, junie",
   "level": 22,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["geometry", "binary_search", "parametric_search"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4.571400165557861

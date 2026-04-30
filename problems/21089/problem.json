@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 5: Almost Retired Dandelion Contest, ICPC Camp Contest 2, Contest, Open Cup, 2020/2021 Season, Stage 11: Grand Prix of Nizhny Novgorod",
   "level": 28,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "offline_queries",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "offline_queries", "segtree"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 3.61899995803833

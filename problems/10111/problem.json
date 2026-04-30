@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCO 2014",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "trees",
-    "combinatorics",
-    "dp_tree"
-  ],
+  "tags": ["math", "dp", "graphs", "trees", "combinatorics", "dp_tree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.583299994468689

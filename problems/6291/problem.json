@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2013",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "greedy",
-    "number_theory"
-  ],
+  "tags": ["math", "dp", "greedy", "number_theory"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.703700065612793

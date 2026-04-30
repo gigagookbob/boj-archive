@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2024 ICPC Asia Yokohama Regional Contest",
   "level": 25,
-  "tags": [
-    "geometry",
-    "linear_programming",
-    "duality"
-  ],
+  "tags": ["geometry", "linear_programming", "duality"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

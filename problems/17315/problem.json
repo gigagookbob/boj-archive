@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2013",
   "level": 18,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["exponentiation_by_squaring", "math"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.3333001136779785

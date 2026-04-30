@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2012, lll4592, seongside",
   "level": 19,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.819999933242798

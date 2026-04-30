@@ -15,12 +15,7 @@
   "hint": "<p>The above cases meet the limits for Test Set 1. Another sample case that does not meet those limits appears at the end of this section.</p>\n<p>Note: the <b>L<sub>i</sub></b> values in these sample cases for Test Set 1 were chosen for ease of understanding and were not randomly generated. Your solution will be run against these sample cases and must pass them.</p>\n<p>In Sample Case #1, all of the attachment points have the same value, so we should pick the pair connected by the longest chord, which in this case is a horizontal diameter of the circle that has a length of 4 centimeters. So the total length needed is 4 + 3 + 3 = 10 centimeters.</p>\n<p>In Sample Case #2, the fourth and fifth points are extremely close to the third point, but have much smaller <b>L</b> values. We can effectively rule them out and focus on the possible connections among the first three points, as follows:</p>\n<ul>\n<li>first and second points: length 10√2 + 8 + 7: ≈29.142136.</li>\n<li>first and third points: length ≈19.923894 + 8 + 9: ≈36.923894.</li>\n<li>second and third points: length ≈12.855726 + 7 + 9: ≈28.855726.</li>\n</ul>\n<p>Using the first and third points gives us the greatest total length.</p>\n<p>The following additional case could not appear in Test Set 1, but could appear in Test Set 2.</p>\n<pre>\n1\n6 1 10\n0 10\n15000000000 1\n30000000000 1\n45000000000 1\n60000000000 1\n75000000000 1\n</pre>\n<p>The correct output is <code>Case #1: 12.2175228580 12.0000000000 11.7653668647 11.5176380902 11.2610523844 3.0000000000 2.7653668647 2.7653668647 2.5176380902 2.5176380902</code></p>\n<p>Notice that there are three possible pairs of points tied for producing the 9th longest cord. Also, it is fine if lines connecting different pairs of points intersect, since Lauren will only be playing one note at a time.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2020, Virtual World Finals",
   "level": 26,
-  "tags": [
-    "sorting",
-    "geometry",
-    "binary_search",
-    "sweeping"
-  ],
+  "tags": ["sorting", "geometry", "binary_search", "sweeping"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

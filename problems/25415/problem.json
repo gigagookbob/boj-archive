@@ -19,13 +19,7 @@
   "hint": null,
   "source": "august14",
   "level": 23,
-  "tags": [
-    "sorting",
-    "geometry",
-    "binary_search",
-    "sweeping",
-    "bulldozer"
-  ],
+  "tags": ["sorting", "geometry", "binary_search", "sweeping", "bulldozer"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 3.822200059890747

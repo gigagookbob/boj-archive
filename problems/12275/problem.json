@@ -15,12 +15,7 @@
   "hint": "<ul>\n<li>Igor only needs to remove the comment in one pass. He doesn't remove additional comment blocks created as a result of the removal of any comment block. For example:\n\t<pre>\n//*no recursion*/* file header */</pre>\n\tshould generate:\n\n\t<pre>\n/* file header */</pre>\n</li>\n<li>The <b><code>*</code></b> character in any <b><code>/*</code></b> or <b><code>/*</code></b>cannot be re-used in another <b><code>/*</code></b> or <b><code>*/</code></b>. For example the following does <b>NOT</b> form a proper comment block\n\t<pre>\n/*/\n</pre>\n</li>\n</ul>",
   "source": "Contest, Google, Google's Coding Competitions, Google of Greater China Test for New Grads of 2014, Round B China New Grad Test 2014, Contest, Google, Kick Start, Google Kick Start 2013, Round B",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "string", "stack"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.4285999536514282

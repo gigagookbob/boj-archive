@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2017",
   "level": 20,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.6440999507904053

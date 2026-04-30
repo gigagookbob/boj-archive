@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2017 송년대회, namnamseo",
   "level": 23,
-  "tags": [
-    "dp",
-    "sorting",
-    "geometry",
-    "two_pointer",
-    "convex_hull"
-  ],
+  "tags": ["dp", "sorting", "geometry", "two_pointer", "convex_hull"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.965499997138977

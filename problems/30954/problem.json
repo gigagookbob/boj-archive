@@ -15,11 +15,7 @@
   "hint": "<p>This is the example discussed earlier in the problem statement. The sample output shows a sequence of 14 moves which bring the stacks into the desired end state.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2023",
   "level": 20,
-  "tags": [
-    "implementation",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["implementation", "constructive", "case_work"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.666700005531311

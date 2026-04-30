@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 9: Grand Prix of Peterhof",
   "level": 14,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "constructive",
-    "precomputation"
-  ],
+  "tags": ["backtracking", "bitmask", "constructive", "precomputation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

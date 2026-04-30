@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, APAC Semifinal",
   "level": 12,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3

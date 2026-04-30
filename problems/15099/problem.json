@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:242px; width:252px\"/></p>\n<p style=\"text-align:center\">Figure E.1: K=6</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"3.png\" style=\"height:249px; width:256px\"/></p>\n<p style=\"text-align:center\">Figure E.2: No</p>",
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2017 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, South Central USA Regional, 2017 South Central USA Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.75

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2015, CCC 2015 Junior Division",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 1.5723999738693237

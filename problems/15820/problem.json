@@ -23,9 +23,7 @@
   "hint": "<p>3번 예제는 Small에서는 나오지 않는다.</p>",
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 1, University, 아주대학교, 2018 Ajou Programming Contest, Division 2, Acka",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2097,
   "submission_count": null,
   "average_tries": 1.4358999729156494

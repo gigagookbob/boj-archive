@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2014, RCC 2014 First Qualification Round",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.238800048828125

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #5, arine",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory"
-  ],
+  "tags": ["math", "greedy", "number_theory"],
   "accepted_user_count": 383,
   "submission_count": null,
   "average_tries": 1.7075999975204468

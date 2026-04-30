@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Mid-Central European Regional Contest, MCERC 1999",
   "level": 15,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.857100009918213

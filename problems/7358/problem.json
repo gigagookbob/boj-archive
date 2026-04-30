@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2001 East Central Regional Contest",
   "level": 13,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.4615000486373901

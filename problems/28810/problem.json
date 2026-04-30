@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 10, 2018, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 10, 2018, Advanced",
   "level": 6,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.5861999988555908

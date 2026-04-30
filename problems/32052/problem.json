@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2024 Japan Domestic Contest",
   "level": 20,
-  "tags": [
-    "constructive",
-    "case_work",
-    "knapsack"
-  ],
+  "tags": ["constructive", "case_work", "knapsack"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.705899953842163

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2016",
   "level": 19,
-  "tags": [
-    "hashing",
-    "kmp",
-    "string"
-  ],
+  "tags": ["hashing", "kmp", "string"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.7842999696731567

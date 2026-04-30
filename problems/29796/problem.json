@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup), shiftpsh, cologne, tony9402, utilforever",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "flow",
-    "parametric_search",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "parametric_search", "graphs"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.6791999340057373

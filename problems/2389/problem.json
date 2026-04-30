@@ -15,11 +15,7 @@
   "hint": null,
   "source": "zych1751, jh05013",
   "level": 20,
-  "tags": [
-    "geometry",
-    "heuristics",
-    "min_enclosing_circle"
-  ],
+  "tags": ["geometry", "heuristics", "min_enclosing_circle"],
   "accepted_user_count": 532,
   "submission_count": null,
   "average_tries": 2.949199914932251

@@ -10,13 +10,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2023, functionx, dohoon, kiwiyou, utilforever",
   "level": 22,
-  "tags": [
-    "graphs",
-    "trees",
-    "constructive",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "trees", "constructive", "dag", "topological_sorting"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

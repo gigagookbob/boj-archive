@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BCF, BCF 2025, 79brue, aeren, leinad2, mjhmjh1104, qwerasdfzxcl, silverwolf",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc", "constructive"],
   "accepted_user_count": 190,
   "submission_count": null,
   "average_tries": 1.8789000511169434

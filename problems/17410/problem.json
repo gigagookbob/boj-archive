@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "sqrt_decomposition"
-  ],
+  "tags": ["sqrt_decomposition"],
   "accepted_user_count": 617,
   "submission_count": null,
   "average_tries": 5.252799987792969

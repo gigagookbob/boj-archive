@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 HEPC, PRIME, msgee, jh05013",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1724,
   "submission_count": null,
   "average_tries": 1.5928000211715698

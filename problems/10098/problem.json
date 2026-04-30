@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2014, junie",
   "level": 26,
-  "tags": [
-    "geometry",
-    "polygon_area",
-    "prefix_sum",
-    "sweeping",
-    "trees"
-  ],
+  "tags": ["geometry", "polygon_area", "prefix_sum", "sweeping", "trees"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.875

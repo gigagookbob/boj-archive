@@ -23,10 +23,7 @@
   "hint": "<p>For the first Sample Input, the first teacher can give two lectures and the third teacher can give two lectures, so the total cost is 10 + 17 = 27.</p>\n<p>For the third Sample Input, the first teacher can give two lectures and the second teacher can give three lectures, so the total cost is 20 + 37 = 57.</p>",
   "source": "University, University of Central Florida, 2022 Local Programming Contest (Qualifying Round)",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.7856999635696411

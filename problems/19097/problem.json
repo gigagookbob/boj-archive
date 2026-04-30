@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 6: Warsaw U Contest, XVII OpenCup Onsite",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "sqrt_decomposition"
-  ],
+  "tags": ["math", "number_theory", "sqrt_decomposition"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.0625

@@ -15,12 +15,7 @@
   "hint": "<p>No line in the example ends with a space character.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 4: Grand Prix of Siberia, Division 1",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "case_work", "parsing"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 4.044099807739258

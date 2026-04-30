@@ -19,10 +19,7 @@
   "hint": "<p>In the first example output permutation gives us the value of  $$ \\frac{1}{3} + \\frac{2}{4} = \\frac{5}{6} $$ which is minimal.</p>\n<p>In the second example only possible output leads to value of $$ \\frac{5}{5} + \\frac{5}{5} = 2 $$</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2017",
   "level": 3,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 327,
   "submission_count": null,
   "average_tries": 1.4494999647140503

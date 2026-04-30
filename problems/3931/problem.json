@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2004 in Ehime",
   "level": 22,
-  "tags": [
-    "implementation",
-    "geometry",
-    "case_work",
-    "geometry_3d"
-  ],
+  "tags": ["implementation", "geometry", "case_work", "geometry_3d"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

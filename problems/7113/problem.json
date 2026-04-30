@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 11th Latvian olympiad in informatics, Stage II (District/City)",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "recursion"
-  ],
+  "tags": ["math", "number_theory", "recursion"],
   "accepted_user_count": 307,
   "submission_count": null,
   "average_tries": 1.6514999866485596

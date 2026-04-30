@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2008, CCC 2008 Junior Division",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.2455999851226807

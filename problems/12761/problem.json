@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2016 전북대 프로그래밍 경진대회, wjdtmdrbs88, tkffpstldh2, doju",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 2484,
   "submission_count": null,
   "average_tries": 1.8615000247955322

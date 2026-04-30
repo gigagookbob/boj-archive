@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2022 ICPC Sinchon Winter Algorithm Camp Contest, 초급, swoon, gratus907, Green55, gumgood, kyo20111, lky7674, mjhmjh1104, tony9402",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "stack",
-    "deque",
-    "queue"
-  ],
+  "tags": ["data_structures", "stack", "deque", "queue"],
   "accepted_user_count": 9736,
   "submission_count": null,
   "average_tries": 2.9000000953674316

@@ -15,10 +15,7 @@
   "hint": "<p>В этом примере можно обойтись одним деревом. Пусть корнем дерева будет вершина 1, тогда выгодно провести ребра $1 \\to 2$ и $1 \\to 3$. Стоимость дерева --- сумма глубин второй и третьей веришины --- $1 + 1 = 2$.</p>\n<p>Листом дерева называется вершина, соединенная только со своим предком.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 10, 2013, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 10, 2013, Advanced",
   "level": 8,
-  "tags": [
-    "math",
-    "trees"
-  ],
+  "tags": ["math", "trees"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.1851999759674072

@@ -15,11 +15,7 @@
   "hint": "<p>The first $35$ letters printed by Cody-Jamal's program are <code>ABCD<u>E</u>FGHIJKLMNOPQRSTUVWXYZAABB<u>C</u>CDDE...</code>. Therefore, the $5$th printed character is <code>E</code> and the $31$st is <code>C</code>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round A",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "binary_search"
-  ],
+  "tags": ["math", "bruteforcing", "binary_search"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2

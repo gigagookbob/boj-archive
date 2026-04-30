@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016 연습 세션, functionx",
   "level": 0,
-  "tags": [
-    "arithmetic",
-    "math",
-    "implementation"
-  ],
+  "tags": ["arithmetic", "math", "implementation"],
   "accepted_user_count": 186,
   "submission_count": null,
   "average_tries": 3.0053999423980713

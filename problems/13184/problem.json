@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제4회 kriiicon, august14",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "fft",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "fft", "math"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 5.5

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 14,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 230,
   "submission_count": null,
   "average_tries": 2.0522000789642334

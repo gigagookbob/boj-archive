@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #2, cologne, solvedac, ai4youej, bnb2011, chansol, cologne, cozyyg, gs18115, jh05013, moonrabbit2, pichulia, shiftpsh",
   "level": 15,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 236,
   "submission_count": null,
   "average_tries": 3.8431999683380127

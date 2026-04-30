@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2021 KAIST 11th ICPC Mock Competition, Contest, Open Cup, 2021/2022 Season, Stage 4: Grand Prix of Korea, easrui, koosaga, cs71107, easrui, spectaclehong, tncks0121, xiaowuc1",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "maximum_subarray"
-  ],
+  "tags": ["data_structures", "segtree", "maximum_subarray"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.0833001136779785

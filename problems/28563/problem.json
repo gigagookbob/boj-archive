@@ -23,11 +23,7 @@
   "hint": "<p>Во втором примере из условия ответ равен $\\frac{20}{8}$ или $\\frac{5}{2}$. Несложно убедиться, что $536838146 \\cdot 2 = p + 5$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, October 23, 2021",
   "level": 21,
-  "tags": [
-    "combinatorics",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

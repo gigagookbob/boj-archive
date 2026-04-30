@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 1, University, 아주대학교, 2018 Ajou Programming Contest, Division 2, Acka",
   "level": 14,
-  "tags": [
-    "math",
-    "sorting",
-    "combinatorics",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "sorting", "combinatorics", "exponentiation_by_squaring"],
   "accepted_user_count": 2588,
   "submission_count": null,
   "average_tries": 3.456700086593628

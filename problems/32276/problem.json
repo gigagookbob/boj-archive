@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ainta",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "case_work", "parity"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.6774001121520996

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #1, cologne, solvedac, ai4youej, chansol, cologne, cozyyg, gs18115, kyo20111, moonrabbit2, pichulia",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "dp", "number_theory", "harmonic_number"],
   "accepted_user_count": 461,
   "submission_count": null,
   "average_tries": 2.075900077819824

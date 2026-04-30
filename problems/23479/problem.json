@@ -15,12 +15,7 @@
   "hint": "<p>The following is a solution for each test:</p>\n<ul>\n<li>(3,3,3)</li>\n<li>(2,2,2,2)</li>\n<li>(2,3,3,3,4,4)</li>\n<li>(15)</li>\n<li>Impossible</li>\n<li>Impossible</li>\n</ul>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 15: Grand Prix of Tokyo",
   "level": 28,
-  "tags": [
-    "dp",
-    "greedy",
-    "ad_hoc",
-    "parametric_search"
-  ],
+  "tags": ["dp", "greedy", "ad_hoc", "parametric_search"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

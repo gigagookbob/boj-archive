@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2011, RCC 2011 Second Qualification Round",
   "level": 4,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "geometry", "arithmetic"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 1.7143000364303589

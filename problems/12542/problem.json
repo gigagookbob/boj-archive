@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Code Jam Africa and Arabia 2011, Qualification Round",
   "level": 8,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.1785999536514282

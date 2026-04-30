@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2021, Day 2",
   "level": 29,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "dp", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

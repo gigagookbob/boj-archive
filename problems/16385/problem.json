@@ -15,14 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2017",
   "level": 15,
-  "tags": [
-    "dp",
-    "data_structures",
-    "set",
-    "bitmask",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["dp", "data_structures", "set", "bitmask", "dp_bitfield", "tsp"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.8909000158309937

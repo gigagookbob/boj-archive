@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2007, 중등부",
   "level": 20,
-  "tags": [
-    "greedy",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["greedy", "permutation_cycle_decomposition"],
   "accepted_user_count": 691,
   "submission_count": null,
   "average_tries": 2.1113998889923096

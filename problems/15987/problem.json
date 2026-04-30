@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제2회 소프트콘, jwvg0425",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 4.468800067901611

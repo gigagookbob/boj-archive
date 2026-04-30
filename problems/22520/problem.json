@@ -23,13 +23,7 @@
   "hint": "<p> </p>\n<p>制約より，次のことが保証される．</p>\n<ul>\n<li>初期状態において，車輪が床にめり込んでいることはない．</li>\n<li>車輪が目標位置を初めて越えて回転し終わったとき，必ず車輪のある 1 面が床に接地している．</li>\n</ul>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2011 Day 4",
   "level": 20,
-  "tags": [
-    "case_work",
-    "geometry",
-    "implementation",
-    "math",
-    "simulation"
-  ],
+  "tags": ["case_work", "geometry", "implementation", "math", "simulation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2

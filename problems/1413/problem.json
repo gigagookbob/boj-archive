@@ -31,11 +31,7 @@
   "hint": "<p>예제 1의 경우 1번 박스에 열쇠2가 들어있으면, 모든 키를 얻을 수 있다.</p>",
   "source": "baekjoon, adfsfsf, YunGoon, jh05013",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 584,
   "submission_count": null,
   "average_tries": 2.0360000133514404

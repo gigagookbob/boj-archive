@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Division Championships, 2021 ICPC North America Division Championships",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.524999976158142

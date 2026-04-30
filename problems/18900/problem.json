@@ -19,9 +19,7 @@
   "hint": "<p>In first sample, Johnny can print cuboids of heights 6, 5, 4, 3 in one right-to-left sweep, and the 2, 1 in a left-to-right sweep.</p>\n<p>In second sample, Johnny can print cuboids of heights  8, 7, 6 in a left-to-right sweep, then 5, 4 in right-to-left sweep and finally 3, 2, 1 also in a right-to-left sweep.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2017",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.6348999738693237

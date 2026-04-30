@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "bruteforcing",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "bruteforcing", "stack"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 2.0999999046325684

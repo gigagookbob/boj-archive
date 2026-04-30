@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2017 전북대학교 프로그래밍 경진대회, eyeballs, portableangel",
   "level": 17,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "offline_queries"
-  ],
+  "tags": ["implementation", "data_structures", "offline_queries"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.825700044631958

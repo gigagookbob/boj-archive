@@ -23,12 +23,7 @@
   "hint": "<p>Solution to the first Sample Input:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 470px; height: 86px;\"/></p>\n<p>Solution to the second Sample Input:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 636px; height: 88px;\"/></p>",
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Final Round)",
   "level": 24,
-  "tags": [
-    "binary_search",
-    "directed_mst",
-    "graphs",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "directed_mst", "graphs", "parametric_search"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.727299928665161

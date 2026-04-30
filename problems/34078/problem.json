@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2기 -chinoaww는 피드백이 아니에요-, hyperbolic, denniskim, djm03178, flakepowders, iluem100, kdy40929, ksoosung77, oh040411, pyb1031, wizardrabbit",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["greedy", "sorting", "permutation_cycle_decomposition"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 2.686000108718872

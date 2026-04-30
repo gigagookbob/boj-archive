@@ -23,9 +23,7 @@
   "hint": null,
   "source": "baekjoon, tongnamuu",
   "level": 11,
-  "tags": [
-    "arbitrary_precision"
-  ],
+  "tags": ["arbitrary_precision"],
   "accepted_user_count": 1443,
   "submission_count": null,
   "average_tries": 2.7276999950408936

@@ -15,12 +15,7 @@
   "hint": "<p>In the first query, the only integer from $1$ to $5$ missing from $[3, 5, 2, 1, 5]$ is $4$, so $4$ is the only possible answer.</p>\n<p>After the second query, the array becomes $[3, 5, 2, 4, 5]$.</p>\n<p>After the third query, the array becomes $[3, 5, 1, 4, 5]$.</p>\n<p>The last query asks for an integer from $1$ to $5$ missing from $[1, 4, 5]$. Either $2$ or $3$ would be acceptable answers to this query.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Beginner Round",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "set",
-    "pigeonhole_principle"
-  ],
+  "tags": ["data_structures", "ad_hoc", "set", "pigeonhole_principle"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3.5

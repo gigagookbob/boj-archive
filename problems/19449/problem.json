@@ -19,11 +19,7 @@
   "hint": "<p>There are $11$ possible values of $r_{1}$, $r_{2}$, $c_{1}$ and $c_{2}$ in the first sample:</p>\n<ol>\n<li>$r_{1} = 1,~~~r_{2} = 1,~~~c_{1} = 1,~~~c_{2} = 1$;</li>\n<li>$r_{1} = 1,~~~r_{2} = 1,~~~c_{1} = 1,~~~c_{2} = 3$;</li>\n<li>$r_{1} = 1,~~~r_{2} = 1,~~~c_{1} = 3,~~~c_{2} = 3$;</li>\n<li>$r_{1} = 1,~~~r_{2} = 2,~~~c_{1} = 1,~~~c_{2} = 2$;</li>\n<li>$r_{1} = 1,~~~r_{2} = 2,~~~c_{1} = 1,~~~c_{2} = 3$;</li>\n<li>$r_{1} = 1,~~~r_{2} = 2,~~~c_{1} = 2,~~~c_{2} = 3$;</li>\n<li>$r_{1} = 1,~~~r_{2} = 2,~~~c_{1} = 3,~~~c_{2} = 3$;</li>\n<li>$r_{1} = 2,~~~r_{2} = 2,~~~c_{1} = 1,~~~c_{2} = 3$;</li>\n<li>$r_{1} = 2,~~~r_{2} = 2,~~~c_{1} = 2,~~~c_{2} = 2$;</li>\n<li>$r_{1} = 2,~~~r_{2} = 2,~~~c_{1} = 2,~~~c_{2} = 3$;</li>\n<li>$r_{1} = 2,~~~r_{2} = 2,~~~c_{1} = 3,~~~c_{2} = 3$.</li>\n</ol>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 2: Pavel Khaustov Contest 2",
   "level": 21,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["dp", "prefix_sum", "two_pointer"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

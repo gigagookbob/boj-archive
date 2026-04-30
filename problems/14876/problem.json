@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2017",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "stack",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "stack", "sweeping"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.666700005531311

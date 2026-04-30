@@ -31,10 +31,7 @@
   "hint": "<p>In the provided input data for the fifth sample, the sequence of numbers is split into three separate lines for clarity, but it should be understood that in the actual test data, the sequence is given in one line. The actual number of Harmonious Subsequences in this example is $4\\,991\\,221\\,765 = 5 \\times 998\\,244\\,353$, hence the output is zero as a result of finding its remainder after dividing by the number $998\\,244\\,353$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2023",
   "level": 12,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.0476000308990479

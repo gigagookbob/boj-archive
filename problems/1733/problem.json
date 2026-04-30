@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author10, bluesquanium, doju",
   "level": 20,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 6.7129998207092285

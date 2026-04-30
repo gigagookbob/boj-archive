@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Round 1A)",
   "level": 19,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

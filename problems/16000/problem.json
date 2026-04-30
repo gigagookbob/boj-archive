@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, 카카오 코드 페스티벌, 카카오 코드 페스티벌 2018",
   "level": 19,
-  "tags": [
-    "articulation",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["articulation", "graphs", "graph_traversal"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 6.4552998542785645

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2009",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "trees",
-    "set",
-    "lca"
-  ],
+  "tags": ["data_structures", "graphs", "trees", "set", "lca"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

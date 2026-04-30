@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2019",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "disjoint_set", "sqrt_decomposition"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2

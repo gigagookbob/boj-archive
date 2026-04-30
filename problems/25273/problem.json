@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2022",
   "level": 18,
-  "tags": [
-    "constructive",
-    "trees"
-  ],
+  "tags": ["constructive", "trees"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

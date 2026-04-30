@@ -15,10 +15,7 @@
   "hint": "<p>The diagram above describes an optimal sequence of trades in the first test case.</p>\n<p>In the fourth test case, it is impossible to perform any trades, since you don't start with any pair of cards with the same type, so the answer is $0$.</p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 14,
-  "tags": [
-    "case_work",
-    "invariant"
-  ],
+  "tags": ["case_work", "invariant"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.75

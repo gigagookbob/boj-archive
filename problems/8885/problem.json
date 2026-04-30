@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2013",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 4.28410005569458

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, operaghost, bghgu, 2chanhaeng, djm03178, sait2000, mymasterpark2, upple1",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 14296,
   "submission_count": null,
   "average_tries": 2.5617001056671143

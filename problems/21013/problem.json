@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2020",
   "level": 16,
-  "tags": [
-    "math",
-    "constructive"
-  ],
+  "tags": ["math", "constructive"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.7618999481201172

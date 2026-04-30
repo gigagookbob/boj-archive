@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2017",
   "level": 22,
-  "tags": [
-    "greedy",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sweeping"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.9696999788284302

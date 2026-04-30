@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 7: North American Contest 1",
   "level": 13,
-  "tags": [
-    "sorting",
-    "ad_hoc",
-    "parametric_search"
-  ],
+  "tags": ["sorting", "ad_hoc", "parametric_search"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.8966000080108643

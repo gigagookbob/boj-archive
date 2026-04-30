@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2024 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2024 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, South Central USA Regional, 2024 South Central USA Regional Contest, Division 1, ICPC, Regionals, North America, South Central USA Regional, 2024 South Central USA Regional Contest, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2024 Mid-Atlantic USA Regional Contest, Division 1, ICPC, Regionals, North America, Mid-Atlantic Regional, 2024 Mid-Atlantic USA Regional Contest, Division 2",
   "level": 19,
-  "tags": [
-    "implementation",
-    "trees"
-  ],
+  "tags": ["implementation", "trees"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.7778000831604004

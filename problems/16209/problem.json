@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 대구과학고등학교, 대구과학고 코드잼 경시대회 2018, junie, daun20211",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "constructive",
-    "deque"
-  ],
+  "tags": ["data_structures", "greedy", "constructive", "deque"],
   "accepted_user_count": 292,
   "submission_count": null,
   "average_tries": 3.36299991607666

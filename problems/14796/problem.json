@@ -15,11 +15,7 @@
   "hint": "<p>The sample output displays one set of answers to the sample cases. Other answers may be possible. Note that the last sample case would not appear in the Small dataset.</p>\n<p>In sample case #1, the grid is 2-by-2 and is initially blank. The output corresponds to the following grid. (In these explanations, we will use <code>.</code> to denote a blank cell.)</p>\n<pre>\n<code>x.\n+o</code></pre>\n<p>In sample case #2, the only cell is already occupied by an <code>o</code> model, and it is impossible to add a new model or replace the <code>o</code> model.</p>\n<p>In sample case #3, the grid looks like this before you place any models:</p>\n<pre>\n<code>...\n+++\nx..</code></pre>\n<p>The output corresponds to this grid:</p>\n<pre>\n<code>.x.\n++o\nx..</code></pre>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Qualification Round",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "bipartite_matching",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "bipartite_matching", "constructive"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5

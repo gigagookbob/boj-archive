@@ -15,11 +15,7 @@
   "hint": "<p>In the given example Petya can transfer the following files: <code>a.t</code>, <code>con.exe</code>, <code>solution.cpp</code>.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Elimination round 2, 2017-2018",
   "level": 6,
-  "tags": [
-    "case_work",
-    "implementation",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "string"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.5161000490188599

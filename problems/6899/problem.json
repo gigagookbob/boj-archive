@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2004, CCO 2004",
   "level": 15,
-  "tags": [
-    "implementation",
-    "string",
-    "trees",
-    "simulation",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "trees", "simulation", "parsing"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

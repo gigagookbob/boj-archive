@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 11., pyb1031, jthis, kiwiyou, utilforever",
   "level": 18,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.6842000484466553

@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2021, Stage 1",
   "level": 6,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.2683000564575195

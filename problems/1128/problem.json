@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "math",
-    "backtracking"
-  ],
+  "tags": ["math", "backtracking"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 5.081099987030029

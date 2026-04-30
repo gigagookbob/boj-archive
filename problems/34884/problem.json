@@ -15,10 +15,7 @@
   "hint": "<p>길이 $N$의 순열은 $1$부터 $N$까지의 수가 정확히 한 번 등장하는 수열을 말한다.</p>\n<p>예를 들어, $[3,5,1,2,4]$와 $[1,3,2]$는 순열이지만, $[2,3,2]$ 또는 $[0]$은 순열이 아니다.</p>",
   "source": "University, 한양대학교, 2025 한양대학교 ALOHA 단풍컵, gggkik, daniel604, fs_edge, lkh3happy, myyh1234, tlsdydaud1",
   "level": 12,
-  "tags": [
-    "constructive",
-    "randomization"
-  ],
+  "tags": ["constructive", "randomization"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 2.2197999954223633

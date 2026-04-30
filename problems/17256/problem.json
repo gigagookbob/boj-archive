@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCON, cake_monotone",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 7819,
   "submission_count": null,
   "average_tries": 1.2580000162124634

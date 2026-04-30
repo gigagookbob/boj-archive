@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 4: Xi Lin Contest",
   "level": 23,
-  "tags": [
-    "dp",
-    "graphs"
-  ],
+  "tags": ["dp", "graphs"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -19,9 +19,7 @@
   "hint": "<p><strong>Python 3 사용자는 PyPy3로 제출할 것을 권장한다.</strong></p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2024, khj20006, bsyun0571, gi1dong2, hellogaon, hyoseok, iccodly, putdata, rasauq1122, rhdqor213, tony9402, tyoungs, yijw0930",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.4844000339508057

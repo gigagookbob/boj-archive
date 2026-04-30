@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2025 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2025 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, wjdclgns12, 39dll, aym506, chlwnsgud7, cmgjol010, dongggle, gumgood, hjkim9911, jinhan814, jkw8357, jthis, plan_pt, tlsdydaud1",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 1.2273000478744507

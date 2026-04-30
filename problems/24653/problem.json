@@ -23,13 +23,7 @@
   "hint": "<p>In Example 1, the first two billboards are appearing on days 1 and 2. Then those 2 billboards are removed on day 3. After that, on day 5, the last billboard appears, which is then removed on day 6. So you may visit on day 2 (to see billboards 1 and 2) and on day 5 (to see billboard 3), two times in total.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 1: Kyoto U Contest 2, Contest, Open Cup, 2021/2022 Season, Stage 10: Grand Prix of Kyoto",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "sorting",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "sorting", "tree_set", "set"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.1683000326156616

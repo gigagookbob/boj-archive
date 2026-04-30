@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO October 2005 Contest, Silver, BaaaaaaaaaaarkingDog, jh05013",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 177,
   "submission_count": null,
   "average_tries": 2.6270999908447266

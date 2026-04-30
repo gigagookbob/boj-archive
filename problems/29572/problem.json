@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 3, 2009, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 3, 2009, Advanced",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.3125

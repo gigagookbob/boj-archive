@@ -15,11 +15,7 @@
   "hint": "<p>The input on the left describes a string with 8 characters, of which 2 are magic. The output on the right shows one way of balancing this input: the first magic parenthesis corresponds to 3 opening parentheses, and the second magic parenthesis corresponds to 1 opening parenthesis. And indeed, the magic-free string <code>(((((<u>)))</u>)<u>)</u></code> is properly balanced, where the closing parentheses corresponding to the magic parentheses are <u>underlined</u>.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2005",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "stack"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.8181999921798706

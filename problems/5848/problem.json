@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 5 cows.  Cow 1 does not forward messages.  Cow 2 forwards messages to cow 4, and so on.</p><h4>Output Details</h4><p>Cow 1 is not loopy since she does not forward messages.  Cow 3 is also not loopy since she forwards messages to cow 1, who then does not forward messages onward.  All other cows are loopy.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO February 2013 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal"],
   "accepted_user_count": 228,
   "submission_count": null,
   "average_tries": 1.7193000316619873

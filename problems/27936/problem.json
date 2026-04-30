@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교x연세대학교, 2023 고려대학교x연세대학교 프로그래밍 경시대회, lky7674, edwardblue, jthis, moonrabbit2, ystaeyoon113",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching", "mfmc"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 3.4544999599456787

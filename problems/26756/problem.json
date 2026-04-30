@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2021, Stage 1",
   "level": 11,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "implementation", "simulation", "pigeonhole_principle"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.294100046157837

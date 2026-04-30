@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2003, occidere, koosaga",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["math", "implementation", "sorting"],
   "accepted_user_count": 218,
   "submission_count": null,
   "average_tries": 2.6881000995635986

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Lawali",
   "level": 30,
-  "tags": [
-    "trees",
-    "smaller_to_larger",
-    "euler_tour_technique",
-    "splay_tree"
-  ],
+  "tags": ["trees", "smaller_to_larger", "euler_tour_technique", "splay_tree"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 9.53849983215332

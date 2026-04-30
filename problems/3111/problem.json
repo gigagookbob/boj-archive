@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #1 - Seniors, baekjoon, chogahui05",
   "level": 17,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "stack",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "string", "stack", "deque"],
   "accepted_user_count": 980,
   "submission_count": null,
   "average_tries": 4.563300132751465

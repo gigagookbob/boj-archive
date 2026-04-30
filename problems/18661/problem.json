@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 9: MEX Foundation Contest",
   "level": 24,
-  "tags": [
-    "fft",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["fft", "math", "number_theory"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.9230999946594238

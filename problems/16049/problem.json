@@ -23,14 +23,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2018, Contest, Open Cup, 2017/2018 Season, Stage 16: Grand Prix of America, kks227",
   "level": 25,
-  "tags": [
-    "articulation",
-    "cactus",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["articulation", "cactus", "dp", "dp_tree", "graphs", "trees"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2008 Pacific Northwest Region Programming Contest",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "binary_search",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "geometry", "binary_search", "disjoint_set"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3

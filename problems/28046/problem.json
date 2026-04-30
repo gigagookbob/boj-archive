@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 23,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["geometry", "convex_hull", "point_in_convex_polygon"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.7390999794006348

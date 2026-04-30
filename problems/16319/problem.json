@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2018",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "set"
-  ],
+  "tags": ["math", "dp", "set"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.384600043296814

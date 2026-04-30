@@ -23,10 +23,7 @@
   "hint": "<p>For the first sample, we can let our point q be (0, 0). All other points are distance 5 away. For the second sample, we can let q be (1.5, 1.5).</p>",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2017 Pacific Northwest Region Programming Contest, Division 1",
   "level": 22,
-  "tags": [
-    "geometry",
-    "math"
-  ],
+  "tags": ["geometry", "math"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.1851999759674072

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, moonrabbit2, isku",
   "level": 10,
-  "tags": [
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["two_pointer", "sliding_window"],
   "accepted_user_count": 2976,
   "submission_count": null,
   "average_tries": 2.533900022506714

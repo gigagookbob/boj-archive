@@ -15,13 +15,7 @@
   "hint": "<p>В первом примере Боб может восстановить $n=0$, но получить какую-либо информацию о единицах измерения не получится, поэтому ответ $-1$. </p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Qualification",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "hash_set",
-    "math",
-    "set"
-  ],
+  "tags": ["bruteforcing", "data_structures", "hash_set", "math", "set"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.1154000759124756

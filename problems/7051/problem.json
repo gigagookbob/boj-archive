@@ -15,11 +15,7 @@
   "hint": "<p>The above sequence of moves gives the following sequence of configurations:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 477px; height: 80px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2004, Day 2",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "constructive", "implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 7

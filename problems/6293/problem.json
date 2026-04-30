@@ -15,11 +15,7 @@
   "hint": "<p>fdhxhhxffhxfahxhhhxhhhxfdhxfghxfahhx 를 누르면 36번 키를 눌러서 &#39;e&#39;를 모두 제거할 수 있다.</p>\r\n\r\n<p>문제에서 설명한 명령은 실제 Vim 명령이다.</p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2013, baekjoon, metadata, koosaga",
   "level": 27,
-  "tags": [
-    "dp",
-    "case_work",
-    "divide_and_conquer"
-  ],
+  "tags": ["dp", "case_work", "divide_and_conquer"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.1303999423980713

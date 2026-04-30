@@ -23,9 +23,7 @@
   "hint": "<p>첫 번째 예제&nbsp;에서 [5,4,3] 을 터트리고 [2,1]을 터트리면 모든 풍선을 터트릴 수 있으므로 최소한 2개의 화살을 필요로 한다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #1, infoefficiency, admln, funny0728",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 2491,
   "submission_count": null,
   "average_tries": 2.609800100326538

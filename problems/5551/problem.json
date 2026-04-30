@@ -19,11 +19,7 @@
   "hint": "<p>예제 1의 경우에 도로의 길이는 모두 1이고, 쇼핑몰은 1번 도시에만 있다. 쇼핑몰과 가장 먼 거리에 있는 집의 위치는 2번 도시와 3번 도시를 연결하는 도로에서 2번 도시와 거리가 0.5만큼 떨어져 있는 위치 위에 있는 곳이다. 이 집과 쇼핑몰의 거리는 1.5이다. 따라서, 반올림하면 2가 된다.</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 221px; height: 181px;\" /></p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2010/2011, baekjoon",
   "level": 16,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 191,
   "submission_count": null,
   "average_tries": 2.3036999702453613

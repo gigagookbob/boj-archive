@@ -19,10 +19,7 @@
   "hint": "<p>181920은 2020 ICPC Asia Seoul Regional Contest 동상 수상팀, NLP는 2022 ICPC Asia Seoul Regional Contest 은상 수상팀이다.</p>",
   "source": "University, 숭실대학교, 2023 SCON, jhnah917, chansol, cologne, edenooo, junseo, kyo20111, ryute",
   "level": 4,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 1081,
   "submission_count": null,
   "average_tries": 1.323799967765808

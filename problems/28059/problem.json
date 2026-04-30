@@ -15,11 +15,7 @@
   "hint": "<p>The sample does the following operations:</p>\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"width: 500px;\">\n<tbody>\n<tr>\n<td> </td>\n<td>Chosen $t$</td>\n<td>New $s$</td>\n</tr>\n<tr>\n<td>$0$</td>\n<td> </td>\n<td>$\\{24, 33, 48, 63, 90, 93, 97\\}$</td>\n</tr>\n<tr>\n<td>$1$</td>\n<td>$\\{33, 90, 93\\}$</td>\n<td>$\\{24, 48, \\underline{60}, 63, 97\\}$</td>\n</tr>\n<tr>\n<td>$2$</td>\n<td>$\\{60, 63\\}$</td>\n<td>$\\{\\underline{3}, 24, 48, 97\\}$</td>\n</tr>\n<tr>\n<td>$3$</td>\n<td>$\\{24, 48\\}$</td>\n<td>$\\{3, \\underline{24}, 97\\}$</td>\n</tr>\n<tr>\n<td>$4$</td>\n<td>$\\{3, 24, 97\\}$</td>\n<td>$\\{\\underline{94}\\}$</td>\n</tr>\n</tbody>\n</table>\n<p>The values underlined in $s$ denote the integer inserted. After the fourth operation, $s$ is reduced to a single integer value of $94$. It can be shown that no other sequence of operations results in a larger value.</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2023 KAIST RUN Spring Contest, zoooma13, kdh9949, sjimed, songc",
   "level": 22,
-  "tags": [
-    "bruteforcing",
-    "constructive",
-    "pigeonhole_principle"
-  ],
+  "tags": ["bruteforcing", "constructive", "pigeonhole_principle"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.0799999237060547

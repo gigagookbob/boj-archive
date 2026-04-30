@@ -15,9 +15,7 @@
   "hint": "<p>In the first case, C<sub>0</sub>, C<sub>1</sub> and C<sub>2</sub> might have been 1, 2 and 4, and the values of S<sub>n</sub> we have starting at n=1. If this is correct, we don't know C<sub>3</sub>, so the next number in the sequence could be anything! Therefore the answer is unknown.</p>\n<p>In the second case, we cannot know all the values of C<sub>k</sub> or even what n is, but we can prove that in any sequence, if 1, 10, 11, 200 occur in order, then the next value will always be 201.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, AMER Semifinal",
   "level": 13,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

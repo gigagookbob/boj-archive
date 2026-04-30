@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.2, akim9905, eaststar, gbe0808, hsh8086, jthis, pani, pjshwa, tlsdydaud1, utilforever",
   "level": 11,
-  "tags": [
-    "math",
-    "binary_search",
-    "arithmetic"
-  ],
+  "tags": ["math", "binary_search", "arithmetic"],
   "accepted_user_count": 348,
   "submission_count": null,
   "average_tries": 2.692500114440918

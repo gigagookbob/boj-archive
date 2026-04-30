@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2016",
   "level": 18,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["exponentiation_by_squaring", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

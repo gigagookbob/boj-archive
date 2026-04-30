@@ -15,10 +15,7 @@
   "hint": "<p>In the first example below, flipping switch S<sub>4</sub> followed by S<sub>7</sub> will turn off all the lights.</p>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2011",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "greedy"
-  ],
+  "tags": ["bruteforcing", "greedy"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.299999952316284

@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>In the first query, Lana can take chocolates with prices 1, 9, 22, and 10. Lana will pay 38 kunas, and Fran 4 kunas. The answer is 38 − 4 = 34.</p>\n<p>In the second query, Lana will choose chocolates with prices 22 and 19. She will pay 10 kunas, and Fran will pay 31 kunas. The answer is 10 − 31 = −21.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #1",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.7390999794006348

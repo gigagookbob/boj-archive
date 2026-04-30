@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC 2010",
   "level": 11,
-  "tags": [
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["implementation", "recursion"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 15.199999809265137

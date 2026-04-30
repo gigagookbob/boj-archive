@@ -23,11 +23,7 @@
   "hint": "<p>톨레미의 정리에 따르면 다음과 같이 원에 내접한 사각형은 마주 보는 두 쌍의 변의 곱의 합이 두 대각선의 곱과 같다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>",
   "source": "University, 충남대학교, 제3회 생각하는 프로그래밍 대회, jaehoo1",
   "level": 6,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 456,
   "submission_count": null,
   "average_tries": 1.695199966430664

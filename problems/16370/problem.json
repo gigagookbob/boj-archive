@@ -27,11 +27,7 @@
   "hint": "<p>Examples with answer “YES” are depicted below.</p>\n<p>Each cell of the stripe represents a single day. Rectangles represent trips, each trip starts in the morning and ends in the evening. Rectangles with angled corners represent visa applications. Each application starts in the middle of a day and ends t<sub>i</sub> days after. The trip and the visa application for the same country have the same color.</p>\n<p>In examples with two passports, visa applications and trips depicted above the time stripe are made using the first passport, visa applications and trips depicted below the time stripe are made using the second passport.</p>",
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2018",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "dp",
-    "two_pointer"
-  ],
+  "tags": ["bitmask", "dp", "two_pointer"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 6.75

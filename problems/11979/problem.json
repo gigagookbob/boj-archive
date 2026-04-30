@@ -15,9 +15,7 @@
   "hint": "<p>In the example, the placement of the optimal frame is indicated by 'f's below:</p>\n<pre>\n.ffff.\n.fX.fX\nXf.Xf.\n.ffff.\n..X...\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO January 2016 Contest, Platinum",
   "level": 14,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.6949000358581543

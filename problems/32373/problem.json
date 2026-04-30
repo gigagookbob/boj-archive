@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2024, sk14cj, aeren, dabbler1, gs22123, iccodly, kimyh9797, leedongbin, penguin1234",
   "level": 8,
-  "tags": [
-    "math",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["math", "sorting", "ad_hoc"],
   "accepted_user_count": 246,
   "submission_count": null,
   "average_tries": 1.8659000396728516

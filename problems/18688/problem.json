@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2016 Arab Collegiate Programming Contest",
   "level": 7,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "ad_hoc", "pigeonhole_principle"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.7233999967575073

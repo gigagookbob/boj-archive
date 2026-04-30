@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2012, baekjoon",
   "level": 18,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree",
-    "parity"
-  ],
+  "tags": ["math", "data_structures", "segtree", "parity"],
   "accepted_user_count": 325,
   "submission_count": null,
   "average_tries": 1.6584999561309814

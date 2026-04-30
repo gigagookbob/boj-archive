@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2024 ICPC Pacific Northwest Regional, Division 2",
   "level": 4,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.0986000299453735

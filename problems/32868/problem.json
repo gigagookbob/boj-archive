@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제11회 한양대학교 프로그래밍 경시대회(HCPC), Beginner Division, University, 한양대학교, 제11회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, paull04, robert334, gunwookim, jk410, juneharold, mjhmjh1104, my3, myyh1234, tlsdydaud1",
   "level": 14,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "case_work"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "case_work"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 5.279099941253662

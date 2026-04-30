@@ -15,12 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Dla przedziałów będących całymi ciągami zachodzi f([1, 2, 5, 7, 4], [8, 3, 6]) = 2, a ich splotem o stabilności równej 2 jest na przykład ciąg [1, 8, 2, 5, 3, 7, 4, 6].</p>\n<p>Gdy rozważymy przedziały [1, 2, 5, 7] i [3], to otrzymamy f([1, 2, 5, 7], [3]) = 3, a ich splotem o stabilności równej 3 jest na przykład ciąg [1, 2, 5, 3, 7]. Można wykazać, że pary ciągów ([1, 2, 5, 7], [3]) nie można spleść tak, aby otrzymać ciąg o stabilności mniejszej niż 3.</p>\n<p>Dla przedziałów [4] i [6] zachodzi f([4], [6]) = 2, a dobrymi przykładami są oba ich możliwe sploty: [4, 6] i [6, 4].</p>\n<p>Każdą parę przedziałów w tym przykładzie można spleść tak, żeby stabilność otrzymanego splotu była nie większa niż 3. Stąd odpowiedzi dla x ≥ 4 są równe 0.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 27,
-  "tags": [
-    "divide_and_conquer",
-    "implementation",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["divide_and_conquer", "implementation", "math", "prefix_sum"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

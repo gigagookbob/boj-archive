@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2011",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["bruteforcing", "implementation", "simulation"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.61899995803833

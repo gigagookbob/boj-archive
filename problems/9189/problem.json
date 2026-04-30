@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 1999 Pacific Northwest Region Programming Contest, ICPC, Regionals, North America, East Central North America Regional, 1999 East Central Regional Contest",
   "level": 16,
-  "tags": [
-    "dp",
-    "game_theory",
-    "implementation"
-  ],
+  "tags": ["dp", "game_theory", "implementation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.2000000476837158

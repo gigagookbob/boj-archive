@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, leejseonal ddforces (ryuted for div.1), leejseonal ddforces (ryuted for div.1), leejseo",
   "level": 14,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 2.5524001121520996

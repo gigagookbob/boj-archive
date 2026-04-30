@@ -15,11 +15,7 @@
   "hint": "<p>To avoid ambiguities due to rounding errors, the judge tests have been constructed so that all answers are at least 0.001 away from a decision boundary (i.e., you can assume that the area is never 2.4997).</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2005",
   "level": 24,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "geometry_3d"
-  ],
+  "tags": ["geometry", "convex_hull", "geometry_3d"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.4047999382019043

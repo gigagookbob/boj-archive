@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "precomputation"
-  ],
+  "tags": ["ad_hoc", "constructive", "precomputation"],
   "accepted_user_count": 699,
   "submission_count": null,
   "average_tries": 5.33050012588501

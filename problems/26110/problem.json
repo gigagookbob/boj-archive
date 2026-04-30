@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2022",
   "level": 13,
-  "tags": [
-    "string",
-    "recursion"
-  ],
+  "tags": ["string", "recursion"],
   "accepted_user_count": 282,
   "submission_count": null,
   "average_tries": 1.8049999475479126

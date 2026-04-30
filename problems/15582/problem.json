@@ -23,12 +23,7 @@
   "hint": "<p><strong>Clarification of the first test case:</strong></p>\n<p>The distance which both students must walk to a bus stop is 2. The squared value of that instance is 4.</p>\n<p><strong>Clarification of the second test case:</strong></p>\n<p>Since only one line exists, in total there is a single bus with a capacity of 1, which is not sufficient to distribute all the students properly.</p>\n<p><strong>Clarification of the third test case:</strong></p>\n<p>Firstly, two students go to the first stop. The nearest stop to the third student is the second stop, but that stop belongs to the bus line of an already full bus. Therefore, the third student must go to the third stop, and the squared value of their path length is 9. Every other distribution results in greater weakness.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #7, messi",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "flow",
-    "parametric_search",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "parametric_search", "graphs"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.615399956703186

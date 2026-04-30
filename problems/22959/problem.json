@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 중급, djs100201, gumgood, gunwookim, kyo20111, lky7674, pichulia",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 2.8970000743865967

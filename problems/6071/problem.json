@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Beijing, Beijing Regional Contest 2002",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.2423999309539795

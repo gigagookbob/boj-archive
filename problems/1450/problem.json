@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "mitm"
-  ],
+  "tags": ["binary_search", "mitm"],
   "accepted_user_count": 4315,
   "submission_count": null,
   "average_tries": 2.368000030517578

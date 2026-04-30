@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2010 Southeast USA Regional Programming Contest, baekjoon, zych1751",
   "level": 9,
-  "tags": [
-    "dp",
-    "maximum_subarray"
-  ],
+  "tags": ["dp", "maximum_subarray"],
   "accepted_user_count": 1188,
   "submission_count": null,
   "average_tries": 1.9327000379562378

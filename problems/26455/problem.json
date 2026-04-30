@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ICPC 2021 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Winter 2023, Day 1: JAGain in Petrozavodsk",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.9032000303268433

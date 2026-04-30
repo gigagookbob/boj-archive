@@ -19,12 +19,7 @@
   "hint": "<ul>\n<li>패에 적힌 수의 조합이 같아도 다른 위치의 패를 뽑은 경우에는 서로 다른 경우로 셉니다.</li>\n<li>패 $14$장을 뽑았을 때 용을 여러 종류의 조합으로 만들 수 있어도 하나의 경우로 셉니다.</li>\n</ul>",
   "source": "Contest, BOJ User Contest, 마작컵, 마작컵 2024 - 우인전 3/4 님만 오면 ㄱ, cologne, gs18115, moonrabbit2, shiftpsh",
   "level": 15,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics", "backtracking"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.0625

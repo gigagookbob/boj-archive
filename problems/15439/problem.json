@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 4 March, 2017, kiwiyou",
   "level": 2,
-  "tags": [
-    "implementation",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["implementation", "combinatorics", "math"],
   "accepted_user_count": 18930,
   "submission_count": null,
   "average_tries": 1.1593999862670898

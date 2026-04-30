@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2001, CCO 2001",
   "level": 19,
-  "tags": [
-    "graphs",
-    "string",
-    "parsing",
-    "scc",
-    "traceback",
-    "2_sat"
-  ],
+  "tags": ["graphs", "string", "parsing", "scc", "traceback", "2_sat"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 10

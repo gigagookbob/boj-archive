@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:345px; width:390px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2004/2005, Stage 1",
   "level": 23,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "hashing",
-    "randomization"
-  ],
+  "tags": ["geometry", "convex_hull", "hashing", "randomization"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 41

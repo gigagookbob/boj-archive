@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2007",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "mitm"
-  ],
+  "tags": ["ad_hoc", "mitm"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 20.5

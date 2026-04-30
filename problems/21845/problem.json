@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2021",
   "level": 19,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["math", "ad_hoc", "binary_search"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 4.7778000831604

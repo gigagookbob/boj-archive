@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2013 Day 3",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "math",
-    "pythagoras"
-  ],
+  "tags": ["binary_search", "geometry", "math", "pythagoras"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.9000000953674316

@@ -27,9 +27,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2018",
   "level": 12,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2609000205993652

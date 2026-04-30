@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2021 Preliminaries",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "randomization",
-    "birthday"
-  ],
+  "tags": ["math", "number_theory", "randomization", "birthday"],
   "accepted_user_count": 144,
   "submission_count": null,
   "average_tries": 3.4096999168395996

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2006 Japan Domestic Contest",
   "level": 17,
-  "tags": [
-    "implementation",
-    "parsing",
-    "recursion",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "recursion", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.375

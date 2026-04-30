@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 9: Grand Prix of Nanjing, Division 1",
   "level": 15,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["implementation", "ad_hoc", "case_work"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

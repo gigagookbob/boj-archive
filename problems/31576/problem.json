@@ -15,11 +15,7 @@
   "hint": "<p>문제 페이지에서 샘플 코드를 다운로드받을 수 있다. 만약 Visual Studio나 Eclipse, Code::Blocks와 같은 IDE 툴을 사용한다면 ethereum.cpp, ethereum.h, grader.cpp (또는 ethereum.c ethereum.h, grader.c)를 한 프로젝트에 넣어서 컴파일하면 된다. 터미널에서 코드를 컴파일한다면 아래 컴파일 명령어를 이용하면 된다.</p>\n<ul>\n<li>C / gcc: <code class=\"compilation_command\">gcc -Wall -lm -static -o ethereum -O2 ethereum.c grader.c</code></li>\n<li>C++ / G++: <code class=\"compilation_command\">g++ -Wall -lm -static -o ethereum -O2 ethereum.cpp grader.cpp</code></li>\n</ul>\n<p>프로그램을 실행한 후 표준입력(stdin)으로 비트코인의 시세 $B$와 이더리움의 시세 $E$를 입력받는다. 모든 정보를 입력받으면 샘플 채점기는 정답/오답 여부를 출력한다.</p>\n<p>답안을 제출할 때에는 ethereum.c 또는 ethereum.cpp에 해당하는 코드만 제출하면 된다.</p>",
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2017 연습 세션",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "extended_euclidean"
-  ],
+  "tags": ["math", "number_theory", "extended_euclidean"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.5455000400543213

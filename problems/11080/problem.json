@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Western Division, ACM South Pacific Western Division 2015, ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Eastern Division, ACM South Pacific Eastern Division 2015, ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Central Division, ACM South Pacific Central Division 2015",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "case_work"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.978300094604492

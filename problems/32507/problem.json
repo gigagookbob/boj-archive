@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2024",
   "level": 14,
-  "tags": [
-    "backtracking",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["backtracking", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.809500217437744

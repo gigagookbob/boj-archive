@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first and second example: In the sketches, examples are shown. All attacked squares are marked with a dot, except the one on which the piece is located.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 120px; height: 120px;\"/></p>\n<p style=\"text-align: center;\">(a) first example</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 120px; height: 120px;\"/></p>\n<p style=\"text-align: center;\">(b) second example</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #4",
   "level": 6,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.2069000005722046

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2016 IUPC 인하대학교 프로그래밍 경진대회, klight1994",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 669,
   "submission_count": null,
   "average_tries": 3.3169000148773193

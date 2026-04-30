@@ -15,10 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, hyoseok, surface_03",
   "level": 9,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 863,
   "submission_count": null,
   "average_tries": 1.9142999649047852

@@ -19,10 +19,7 @@
   "hint": "<p>Обяснение на пример 1: Поднизовете са <code>bc</code>, <code>abc</code>, <code>bca</code>, <code>dbc</code>, <code>bcd</code>, <code>adbc</code>, <code>dabc</code>, <code>abcd</code>, <code>dbca</code>, <code>bcad</code>, <code>bcda</code>.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2014, Group C",
   "level": 8,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.4230999946594238

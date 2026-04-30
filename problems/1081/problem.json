@@ -31,9 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 1541,
   "submission_count": null,
   "average_tries": 2.171999931335449

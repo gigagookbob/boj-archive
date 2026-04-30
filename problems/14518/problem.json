@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2017, Croatian Olympiad in Informatics 2017",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc",
-    "bitmask",
-    "bitset"
-  ],
+  "tags": ["bruteforcing", "ad_hoc", "bitmask", "bitset"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7273000478744507

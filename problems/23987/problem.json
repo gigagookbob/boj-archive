@@ -15,9 +15,7 @@
   "hint": "<p>In the first sample case, Thanh can get a total beauty of 6, no matter how the wall is destroyed. On the first day, he can paint either section of wall with beauty score 3. At the end of the day, either the 1st section or the 4th section will be destroyed, but it does not matter which one. On the second day, he can paint the other section with beauty score 3.</p>\n<p>In the second sample case, Thanh can get a total beauty of 14, by painting the leftmost section of wall (with beauty score 9). The only section of wall that can be destroyed is the rightmost one, since the leftmost one is painted. On the second day, he can paint the second leftmost section with beauty score 5. Then the last unpainted section of wall on the right is destroyed. Note that on the second day, Thanh cannot choose to paint the third section of wall (with beauty score 8), since it is not adjacent to any other painted sections.</p>\n<p>In the third sample case, Thanh can get a total beauty of 7. He begins by painting the section in the middle (with beauty score 1). Whichever section is destroyed at the end of the day, he can paint the remaining wall at the start of the second day.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2018, Round H",
   "level": 14,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.0587999820709229

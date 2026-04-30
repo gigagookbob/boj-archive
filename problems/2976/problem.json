@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, Croatian Regional Competition in Informatics 2008, Olympiad, Croatian Highschool Competitions in Informatics, 2008, Regional Competition - Juniors, citizen, eric00513, hyakintoss, jh05013",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.8652000427246094

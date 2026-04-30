@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2023-2024",
   "level": 9,
-  "tags": [
-    "math",
-    "probability",
-    "linearity_of_expectation",
-    "invariant"
-  ],
+  "tags": ["math", "probability", "linearity_of_expectation", "invariant"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.4348000288009644

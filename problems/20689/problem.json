@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2020 ICPC Asia Jakarta Regional Contest",
   "level": 21,
-  "tags": [
-    "graphs",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "ad_hoc"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5788999795913696

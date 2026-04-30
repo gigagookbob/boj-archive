@@ -15,9 +15,7 @@
   "hint": "<p>[The \"N 1\", \"N 4\", and \"S 4\" are all on the same street.  The others are on different unique streets.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO March 2004 Contest, Blue",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.1110999584197998

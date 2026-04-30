@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 254,
   "submission_count": null,
   "average_tries": 2.078700065612793

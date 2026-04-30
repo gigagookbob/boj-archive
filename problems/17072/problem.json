@@ -15,9 +15,7 @@
   "hint": "<p>예제의 원본 그림은 이렇게 생겼다.</p>\n<p><img alt=\"\" src=\"5.png\" style=\"height: 58px; width: 40px;\"/></p>",
   "source": "University, 연세대학교, 2019 연세대학교 컴퓨터과학과 프로그래밍 경진대회, portableangel",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1121,
   "submission_count": null,
   "average_tries": 1.6021000146865845

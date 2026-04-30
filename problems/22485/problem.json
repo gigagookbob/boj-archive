@@ -31,13 +31,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2012 Day 4",
   "level": 22,
-  "tags": [
-    "dfs",
-    "geometry",
-    "graphs",
-    "graph_traversal",
-    "line_intersection"
-  ],
+  "tags": ["dfs", "geometry", "graphs", "graph_traversal", "line_intersection"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

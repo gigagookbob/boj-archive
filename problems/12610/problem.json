@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, World Finals",
   "level": 21,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "combinatorics", "probability", "linearity_of_expectation"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.833299994468689

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2013, RCC 2013 First Qualification Round",
   "level": 14,
-  "tags": [
-    "math",
-    "graphs",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "graphs", "exponentiation_by_squaring"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

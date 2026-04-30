@@ -19,14 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2016",
   "level": 24,
-  "tags": [
-    "2_sat",
-    "data_structures",
-    "graphs",
-    "scc",
-    "trees",
-    "trie"
-  ],
+  "tags": ["2_sat", "data_structures", "graphs", "scc", "trees", "trie"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.759999990463257

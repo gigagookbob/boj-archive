@@ -35,9 +35,7 @@
   "hint": null,
   "source": "baekjoon, doju",
   "level": 19,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 3.3691999912261963

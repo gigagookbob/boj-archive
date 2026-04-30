@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2012",
   "level": 21,
-  "tags": [
-    "bellman_ford",
-    "flow",
-    "graphs",
-    "mcmf",
-    "shortest_path"
-  ],
+  "tags": ["bellman_ford", "flow", "graphs", "mcmf", "shortest_path"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3.5

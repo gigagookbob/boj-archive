@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2022-23, First Selection Competition",
   "level": 13,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

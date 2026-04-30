@@ -19,11 +19,7 @@
   "hint": null,
   "source": "jh05013",
   "level": 19,
-  "tags": [
-    "string",
-    "suffix_array",
-    "z"
-  ],
+  "tags": ["string", "suffix_array", "z"],
   "accepted_user_count": 550,
   "submission_count": null,
   "average_tries": 2.483599901199341

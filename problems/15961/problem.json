@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2012, 고등부, 7h1320, asdf1357, jkm5368, luke1046, thdalstn6352",
   "level": 12,
-  "tags": [
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["two_pointer", "sliding_window"],
   "accepted_user_count": 5726,
   "submission_count": null,
   "average_tries": 2.8745999336242676

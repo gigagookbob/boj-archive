@@ -15,10 +15,7 @@
   "hint": "<p>Opis jedinog probnog primjera: Prazne linije između tablica su dodane zbog čitljivosti, ti ih <strong>ne trebaš</strong> ispisati. Prva tablica iz ispisa:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 231px; height: 233px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Junior Final Exam #1",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

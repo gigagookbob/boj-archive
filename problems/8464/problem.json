@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2010",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "binary_search",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "binary_search", "inclusion_and_exclusion"],
   "accepted_user_count": 761,
   "submission_count": null,
   "average_tries": 3.488800048828125

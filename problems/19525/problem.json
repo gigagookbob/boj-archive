@@ -15,12 +15,7 @@
   "hint": "<p>Output for this example satisfies all conditions but the third (number of '<code>O</code>' in the grid).</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 9: Grand Prix of Japan, Contest, Open Cup, 2016/2017 Season, Stage 1: Grand Prix of Japan",
   "level": 22,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "constructive"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.434799909591675

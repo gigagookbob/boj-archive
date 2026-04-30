@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2015 연세대학교 프로그래밍 경시대회, jsa3824",
   "level": 7,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation"],
   "accepted_user_count": 1123,
   "submission_count": null,
   "average_tries": 2.5306999683380127

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2019 ICPC Asia Jakarta Regional Contest",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching", "mcmf"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.899999976158142

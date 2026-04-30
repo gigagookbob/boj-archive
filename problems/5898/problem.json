@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 6 fields, with trails connecting (5,1), (3,6), (2,4), (2,1), and (3,2).  Field i has C(i) = i cows.</p><h4>Output Details</h4><p>Field 1 has M(1) = 15 cows within a distance of 2 trails, etc.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO February 2012 Contest, Gold",
   "level": 17,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "rerooting"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.75

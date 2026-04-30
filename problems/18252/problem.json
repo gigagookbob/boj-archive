@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2019!, ryute, cgiosy, Lawali, leejseo",
   "level": 22,
-  "tags": [
-    "geometry",
-    "two_pointer",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "two_pointer", "convex_hull"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 4.8684000968933105

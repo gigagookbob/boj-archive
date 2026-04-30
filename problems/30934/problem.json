@@ -23,12 +23,7 @@
   "hint": "<p>For Sample Input 1, the probabilities to remain in the end for all the cards are equal, that are $1/3$.</p>\n<p>For Sample Input 2, let us consider the probability of the leftmost card to remain in the end. To make this happen, the first number the die shows up should not be one. After getting a number other than one, six cards will remain. Each of these six cards will remain in the end with the same probability. From this observation, the probability of the leftmost card to remain in the end is computed as $(5/6) \\times (1/6) = 5/36$. The same argument holds for the rightmost card. As for the rest of the cards, the probabilities are equal, and they are $(1 - 2 \\times 5/36)/5 = 13/90$.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2023 Asia Yokohama Regional",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "dp", "combinatorics", "probability"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.708299994468689

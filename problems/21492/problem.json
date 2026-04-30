@@ -15,9 +15,7 @@
   "hint": "<p>В приведенном примере Алиса может, например, выбрать 4-й и 5-й призы. После этого для Боба оптимально выбрать 9-й и 10-й призы с суммарной ценностью 7.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2015",
   "level": 12,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.642899990081787

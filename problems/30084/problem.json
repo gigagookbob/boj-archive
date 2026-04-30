@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2019/2020, National Round (1), 10-12 Classes",
   "level": 13,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

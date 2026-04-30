@@ -19,10 +19,7 @@
   "hint": "<ul>\n<li>예제 1: 그림 3에 해당하는 퍼즐입니다.</li>\n<li>예제 2: 파이프를 어떻게 돌려도 $(1, 1)$에서 $(2, 4)$까지 연결할 수 없습니다.</li>\n</ul>",
   "source": "Contest, 한국정보기술진흥원, 제3회 청소년 IT경시대회, 초등부, Contest, 한국정보기술진흥원, 제3회 청소년 IT경시대회, 고등부, ai4youej",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 2.7574000358581543

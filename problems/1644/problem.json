@@ -27,13 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2005 in Tokyo, author5, d252b, thesulks, upsk1",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "two_pointer",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "two_pointer", "primality_test", "sieve"],
   "accepted_user_count": 19974,
   "submission_count": null,
   "average_tries": 2.3738999366760254

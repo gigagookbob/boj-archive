@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, the input is a natural Latin square, which means no row or column has repeated elements. All four values in the main diagonal are 1, and so the trace (their sum) is 4.</p>\n<p>In Sample Case #2, all rows and columns have repeated elements. Notice that each row or column with repeated elements is counted only once regardless of the number of elements that are repeated or how often they are repeated within the row or column. In addition, notice that some integers in the range 1 through <b>N</b> may be absent from the input.</p>\n<p>In Sample Case #3, the leftmost and rightmost columns have repeated elements.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2020, Qualification Round",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.1110999584197998

@@ -15,11 +15,7 @@
   "hint": "<p>소수는 $1$보다 크면서, $1$과 자기 자신만을 약수로 가지는 양의 정수다.</p>",
   "source": "Contest, BOJ User Contest, 구데기컵, , cozyyg, dhyang24, hibye1217, ho94949, jh05013, pichulia, sorohue, wapas",
   "level": 6,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 559,
   "submission_count": null,
   "average_tries": 2.497299909591675

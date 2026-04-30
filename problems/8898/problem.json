@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2012, baekjoon, pichulia, myungwoo",
   "level": 23,
-  "tags": [
-    "graphs",
-    "dag",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "dag", "bipartite_matching"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 4.35290002822876

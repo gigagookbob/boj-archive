@@ -15,10 +15,7 @@
   "hint": null,
   "source": "wapas, iktk, pentagon03, utilforever, wider93",
   "level": 20,
-  "tags": [
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "dp_digit"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.9000000953674316

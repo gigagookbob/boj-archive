@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author9, koosaga",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 1402,
   "submission_count": null,
   "average_tries": 2.3310000896453857

@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 7766,
   "submission_count": null,
   "average_tries": 3.7916998863220215

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "leeh18, chansol, faang12594, max804, shjohw12",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.15310001373291

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2020",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "dag",
-    "lis"
-  ],
+  "tags": ["dp", "graphs", "greedy", "dag", "lis"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.916700005531311

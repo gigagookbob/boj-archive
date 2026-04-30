@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 30 September, 2006",
   "level": 17,
-  "tags": [
-    "string",
-    "binary_search",
-    "hashing"
-  ],
+  "tags": ["string", "binary_search", "hashing"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.875

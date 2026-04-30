@@ -19,12 +19,7 @@
   "hint": "<p>I exemplet finns det exakt ett namn som förekommer mer än en gång -- <code>kent</code>. Alltså är svaret 1.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, Online Qualification",
   "level": 5,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.3257999420166016

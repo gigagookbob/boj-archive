@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, martinok1103, aig0016, cjh970422, eric00513, jh01533, kiwiyou, lms0806, nflight11, pill27211, sedev57, starbow, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set"],
   "accepted_user_count": 765,
   "submission_count": null,
   "average_tries": 1.9556000232696533

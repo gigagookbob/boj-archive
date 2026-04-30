@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2005, 초등부",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "bruteforcing",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "bruteforcing", "stack"],
   "accepted_user_count": 8630,
   "submission_count": null,
   "average_tries": 2.360300064086914

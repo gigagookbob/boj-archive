@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2014-15, Selection Competition",
   "level": 13,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.266700029373169

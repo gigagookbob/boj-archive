@@ -19,11 +19,7 @@
   "hint": "<p>In the ﬁrst example, the document must be signed by two officials — the ﬁrst one accept documents on Mondays, Wednesdays and Fridays, and the second one — on Mondays and Thursdays. The fastest way to sign the document is one of the following: you submit the document to the ﬁrst official on Monday or on Wednesday, and then submit it to the second official on Thursday, so you will need 4 days to sign document. In the second example, the ﬁrst official works on Tuesdays and Fridays, and the second one — on Mondays and Tuesdays. Even if you submit the document to the ﬁrst official on Tuesday, you will not complete the process within ﬁrst week, you can only do this on the next Monday, and the whole process will take 8 days. </p>",
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2010",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.4930000305175781

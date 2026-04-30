@@ -15,11 +15,7 @@
   "hint": "<p>대회 중에 이 문제에 제출한 기록이 있으면서, 욱제에게 인터넷 편지를 보낸 기록이 있는 참가자 중 가장 감동적인 편지를 작성한 참가자 1명에게 [ ?? ] 가 주어진다.</p>\n<p>대회 중에 이 문제에 <strong>코드를 제출한 기록</strong>이 없거나, 욱제가 사회에 나오기 전까지<strong> 인터넷 편지를 보낸 기록</strong>이 없는 참가자는 상품 수령 대상에서 제외된다. 인터넷 편지를 보낼 때에는 본인의 BOJ 아이디를 기입해야 한다. 편지는 <strong>4월 8일 수요일</strong>부터 <strong>육군 훈련소 &gt; 내 자녀 찾기</strong>(<a href=\"http://www.katc.mil.kr/katc/community/children.jsp\">http://www.katc.mil.kr/katc/community/children.jsp</a>) 에서 보낼 수 있다.</p>\n<p>문제에 제출한 답안과 인터넷 편지의 내용이 같을 필요는 없다.</p>",
   "source": "Contest, BOJ User Contest, 논산 코드 페스티벌, 제1회 논산 코드 페스티벌, wookje",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "precomputation"
-  ],
+  "tags": ["math", "bruteforcing", "precomputation"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 2.246500015258789

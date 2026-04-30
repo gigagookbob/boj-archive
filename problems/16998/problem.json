@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2019, Contest, Open Cup, 2018/2019 Season, Stage 14: Grand Prix of America",
   "level": 22,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean",
-    "floor_sum"
-  ],
+  "tags": ["math", "number_theory", "euclidean", "floor_sum"],
   "accepted_user_count": 357,
   "submission_count": null,
   "average_tries": 2.0027999877929688

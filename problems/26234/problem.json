@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2016/2017 Season, Stage 5: Grand Prix of Siberia",
   "level": 11,
-  "tags": [
-    "math",
-    "sorting",
-    "number_theory"
-  ],
+  "tags": ["math", "sorting", "number_theory"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.9544999599456787

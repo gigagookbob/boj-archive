@@ -19,11 +19,7 @@
   "hint": null,
   "source": "hjroh0315, mingyu331, utilforever, wider93",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["implementation", "greedy", "constructive"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.7889000177383423

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2015, onjo0127",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "implementation", "number_theory", "primality_test"],
   "accepted_user_count": 656,
   "submission_count": null,
   "average_tries": 4.417699813842773

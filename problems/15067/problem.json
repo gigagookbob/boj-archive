@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2016 East Central Regional Contest 연습 세션",
   "level": 9,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "string", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.9206000566482544

@@ -19,11 +19,7 @@
   "hint": "<p>소용돌이 문양의 엄밀한 정의는 다음과 같다.</p>\r\n\r\n<p>반지름이 $0$인 소용돌이 문양은 $1\\times 1$ 크기의 격자 한 칸으로 정의된다.</p>\r\n\r\n<p>$2$ 이상의 모든 짝수 $d$에 대해, 반지름이 $d$인 소용돌이 문양은 다음과 같은 방식으로 만들 수 있다.</p>\r\n\r\n<ul>\r\n\t<li>크기가 $(2d+1)\\times(2d+1)$인 격자를 준비한다.</li>\r\n\t<li>반지름이 $d-2$인 소용돌이 문양을 격자의 중심에 색칠한다.</li>\r\n\t<li>위에서 색칠한 칸 중 가장 오른쪽 아래에 있는 칸에서 시작해, 오른쪽으로 두 칸을 더 색칠한다.</li>\r\n\t<li>마지막으로 색칠한 칸에서 시작해, 위로 $2d-2$칸, 왼쪽으로 $2d$칸, 아래로 $2d$칸, 오른쪽으로 $2d$칸을 차례로 색칠한다.</li>\r\n</ul>\r\n\r\n<p>위와 같은 방식으로 $d=4$인 소용돌이 문양을 만들면 아래와 같다.</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 1017px; height: 300px;\" /></p>\r\n",
   "source": "Contest, BOJ User Contest, BCF, BCF 2025, 79brue, aeren, leinad2, mjhmjh1104, qwerasdfzxcl, silverwolf",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["ad_hoc", "prefix_sum", "difference_array"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.9677000045776367

@@ -15,9 +15,7 @@
   "hint": "<p>In this simple example, there are 4 fields all connected in a linear fashion. A minimum of three grass types are needed. For example, Farmer John could plant the fields with grass types A, B, and C as A - B - C - A.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 January Contest, Silver",
   "level": 9,
-  "tags": [
-    "trees"
-  ],
+  "tags": ["trees"],
   "accepted_user_count": 321,
   "submission_count": null,
   "average_tries": 1.4455000162124634

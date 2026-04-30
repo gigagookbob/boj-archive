@@ -15,13 +15,7 @@
   "hint": "<p>주어진 수열을 9번째 수까지 나타내면 아래와 같다.</p>\n<p>2, 13, -7, 2, 3, 4, 5, 6, 7</p>",
   "source": "Contest, GENIUSainta.com - oj.uz Contest, OJUZ10",
   "level": 13,
-  "tags": [
-    "math",
-    "data_structures",
-    "sorting",
-    "ad_hoc",
-    "tree_set"
-  ],
+  "tags": ["math", "data_structures", "sorting", "ad_hoc", "tree_set"],
   "accepted_user_count": 148,
   "submission_count": null,
   "average_tries": 3.3715999126434326

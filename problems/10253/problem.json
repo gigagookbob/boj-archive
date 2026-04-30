@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2014, doju, myungwoo, baekjoon",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "implementation", "number_theory", "euclidean"],
   "accepted_user_count": 1737,
   "submission_count": null,
   "average_tries": 3.175600051879883

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 2: Nexon Arena",
   "level": 22,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "ad_hoc"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 4.8333001136779785

@@ -15,10 +15,7 @@
   "hint": "<p>The sample describes an instance of the game. The first line of the input contains the amount of money, the next one the number of days, the following line contains the prices per day of the Pokemons. </p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2016",
   "level": 10,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 3.606100082397461

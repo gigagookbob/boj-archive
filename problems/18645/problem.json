@@ -15,11 +15,7 @@
   "hint": "<p>Note that all cases except the sample case have a lot of measurements — more precisely, k = 800 · n<sup>2</sup>.</p>\n<p>In the sample input and output above, both edges were colored black for the first measurement, and only the first edge was colored black for the second measurement.</p>\n<p>There are 33 non-sample test cases in this problem.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 7: Petr Mitrichev Contest 15",
   "level": 22,
-  "tags": [
-    "math",
-    "randomization",
-    "statistics"
-  ],
+  "tags": ["math", "randomization", "statistics"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.5

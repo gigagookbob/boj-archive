@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ICPC 2020 Asia Yokohama Regional 2020",
   "level": 18,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "bellman_ford"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.636399984359741

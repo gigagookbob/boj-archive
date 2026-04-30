@@ -15,9 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Pomimo że zarówno Algosia jak i Bajtek zdobyli dokładnie 161 punktów, to zgodnie z zasadami Potyczek Algorytmicznych lepszy wynik uzyskała Algosia.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 189,
   "submission_count": null,
   "average_tries": 1.746000051498413

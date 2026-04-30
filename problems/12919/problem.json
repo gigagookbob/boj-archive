@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 11,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "recursion"
-  ],
+  "tags": ["string", "bruteforcing", "recursion"],
   "accepted_user_count": 6323,
   "submission_count": null,
   "average_tries": 3.15339994430542

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2024 KAIST 14th ICPC Mock Competition, octane, arnold518, azberjibiou, jhwest2, koosaga, seonah, silverwolf, urd05, whqkrkt04",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.5

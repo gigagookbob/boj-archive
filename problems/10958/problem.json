@@ -15,10 +15,7 @@
   "hint": "<p>The eight possible ways are:</p>\n<ul>\n<li>no matches visited</li>\n<li>the match worth 100</li>\n<li>the first match worth 500</li>\n<li>the second match worth 500</li>\n<li>the match worth 100 and the first match worth 500</li>\n<li>the match worth 100 and the second match worth 500</li>\n<li>both matches worth 500</li>\n<li>the match worth 1000.</li>\n</ul>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2015, Day 2",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "mitm"
-  ],
+  "tags": ["binary_search", "mitm"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.105299949645996

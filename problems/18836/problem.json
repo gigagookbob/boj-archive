@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 최종 구데기컵 2, kdh9949",
   "level": 0,
-  "tags": [
-    "deque",
-    "segtree",
-    "binary_search",
-    "data_structures"
-  ],
+  "tags": ["deque", "segtree", "binary_search", "data_structures"],
   "accepted_user_count": 0,
   "submission_count": null,
   "average_tries": 0

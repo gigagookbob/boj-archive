@@ -15,12 +15,7 @@
   "hint": "<p>This sequence of 11 values has mean exactly 47 and variance exactly 2080.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2013 연습 세션",
   "level": 16,
-  "tags": [
-    "math",
-    "greedy",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["math", "greedy", "constructive", "bitmask"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.3333001136779785

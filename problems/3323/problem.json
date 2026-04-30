@@ -15,12 +15,7 @@
   "hint": "<p>\r\n\t<img alt=\"\" src=\"1.png\" style=\"width: 304px; height: 207px;\" /></p>\r\n",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2009, Day 2, baekjoon, august14",
   "level": 23,
-  "tags": [
-    "convex_hull",
-    "data_structures",
-    "geometry",
-    "segtree"
-  ],
+  "tags": ["convex_hull", "data_structures", "geometry", "segtree"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 5.159999847412109

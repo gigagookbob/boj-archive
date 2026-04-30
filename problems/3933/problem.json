@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2003 in Aizu, baekjoon, jung2381187",
   "level": 11,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 922,
   "submission_count": null,
   "average_tries": 1.8632999658584595

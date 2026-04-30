@@ -15,9 +15,7 @@
   "hint": "<ul>\n<li>In sample case #1, the 2nd checkpoint is a peak.</li>\n<li>In sample case #2, there are no peaks.</li>\n<li>In sample case #3, the 2nd and 4th checkpoint are peaks.</li>\n<li>In sample case #4, there are no peaks.</li>\n</ul>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round B",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 272,
   "submission_count": null,
   "average_tries": 1.2389999628067017

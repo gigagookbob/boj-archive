@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020 예선, sait2000, pichulia, shiftpsh, tncks0121, windflower",
   "level": 23,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["exponentiation_by_squaring", "math", "number_theory"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 4.125

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 15 July, 2012, doju",
   "level": 15,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.5676000118255615

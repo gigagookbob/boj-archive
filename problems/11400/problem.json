@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, august14, doju",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "articulation"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "articulation"],
   "accepted_user_count": 2793,
   "submission_count": null,
   "average_tries": 2.406399965286255

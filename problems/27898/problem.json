@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 16,
-  "tags": [
-    "data_structures",
-    "prefix_sum",
-    "segtree",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "prefix_sum", "segtree", "sorting", "sweeping"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.25

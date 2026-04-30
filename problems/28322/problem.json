@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2023, CCO 2023",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "lazyprop",
-    "prefix_sum",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "lazyprop", "prefix_sum", "segtree"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

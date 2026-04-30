@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:122px; width:157px\" /></p>\r\n",
   "source": "Contest, Algorithmic Engagements, PA 2009, baekjoon",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 4208,
   "submission_count": null,
   "average_tries": 1.7470999956130981

@@ -15,10 +15,7 @@
   "hint": "<p>First operation is to rotate two rightmost tiles, after this all tiles lie vertically. Second operation is to rotate two leftmost tiles, after this we will get desired configuration.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 557px; height: 100px;\"/></p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis University Open, Olympiad in Informatics 2016-2017",
   "level": 21,
-  "tags": [
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["constructive", "implementation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

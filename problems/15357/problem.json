@@ -23,13 +23,7 @@
   "hint": "<p>Clarification of the second test case:</p>\n<p>The puzzle can be solved in 8 moves, illustrated in the pictures below.</p>\n<p>In the first move, we turn towards the left wall, shoot and create a portal that appears on the wall in the 3rd row and 1st column (coordinates (3,1)) from the right side.</p>\n<p>In the second move, we create a portal from the upper side of the wall at coordinates (6,2). </p>\n<p>In the third move, we step into the portal at coordinates (3,1) and exit at coordinates (5,2) - a non-obstructed field with the second portal.</p>\n<p>In the fourth move, we turn right and create a portal from the left side of the wall at coordinates (5,7). Since there are already two portals, the one at field (3,1) disappears.</p>\n<p>In the fifth move, we step into the portal at coordinates (6,2) and exit at coordinates (5,6) with the second portal.</p>\n<p>In the sixth move, we create a new portal from the lower side of the wall at coordinates (1,6), making the portal at coordinates (6,2) disappear.</p>\n<p>In the seventh move, we step into the portal at coordinates (5,7) and exit at coordinates (2,6).</p>\n<p>Finally, in the eighth move, we move one place to the right to end the game.</p>\n<p>The portal creation in moves 1, 2, 4 and 6 lasts zero amounts of time, whereas the rest of the move last one unit of time, so the total time needed to solve the puzzle is 4 units of time.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:272px; width:597px\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #3",
   "level": 18,
-  "tags": [
-    "bfs",
-    "dijkstra",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "dijkstra", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.4583001136779785

@@ -23,12 +23,7 @@
   "hint": "<p>In the first sample, one vehicle can follow the path (0, 1, 2) and the other can follow (0, 3). In the second sample, the only solution is to use paths (0, 1), (0, 2), and (0, 3). In the final sample, one vehicle can follow (0, 1), another (0, 4, 6), and the last one (0, 2, 3, 5, 7).</p>",
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2016 Rocky Mountain Regional Contest, bluefire",
   "level": 19,
-  "tags": [
-    "bipartite_matching",
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["bipartite_matching", "dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.38100004196167

@@ -15,9 +15,7 @@
   "hint": "<p>A good program can recover keys in less than 10 seconds for any allowed input file.</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2001, Day 2",
   "level": 0,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 464,
   "submission_count": null,
   "average_tries": 1.3944000005722046

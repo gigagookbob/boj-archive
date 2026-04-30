@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Startlink Online Contest, Startlink Online Contest #1, haden, doju, lyzqm",
   "level": 19,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.9615000486373901

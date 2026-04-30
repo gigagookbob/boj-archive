@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ekdns7952, WeissBlume, bupjae",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "linear_algebra"
-  ],
+  "tags": ["math", "implementation", "linear_algebra"],
   "accepted_user_count": 14821,
   "submission_count": null,
   "average_tries": 1.4437999725341797

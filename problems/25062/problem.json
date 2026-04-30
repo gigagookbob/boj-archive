@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2021-2022",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "case_work",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "case_work", "euclidean"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.8875000476837158

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #2, baekjoon, 10_J, onjo0127",
   "level": 3,
-  "tags": [
-    "implementation",
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["implementation", "arithmetic", "math"],
   "accepted_user_count": 22931,
   "submission_count": null,
   "average_tries": 1.2529000043869019

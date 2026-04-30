@@ -31,10 +31,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3

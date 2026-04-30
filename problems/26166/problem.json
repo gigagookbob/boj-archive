@@ -27,13 +27,7 @@
   "hint": null,
   "source": "pjshwa, pichulia, r4pidstart, tony9402",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "game_theory",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "game_theory", "dag", "topological_sorting"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 4.559999942779541

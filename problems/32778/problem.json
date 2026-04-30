@@ -43,10 +43,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 7회 코딩 테스트, chogahui05, aig0016, dongwook7, kkgojn, utilforever",
   "level": 3,
-  "tags": [
-    "string",
-    "parsing"
-  ],
+  "tags": ["string", "parsing"],
   "accepted_user_count": 485,
   "submission_count": null,
   "average_tries": 1.4536000490188599

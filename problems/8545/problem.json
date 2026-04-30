@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2002.11",
   "level": 1,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 5649,
   "submission_count": null,
   "average_tries": 1.2615000009536743

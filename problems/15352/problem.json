@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 행동 2에서 욱제는 등록번호 1, 2번에게 선물을 줍니다. ( 1-1-2-3-1 )</p>\n<p>두 번째 행동 2에서 욱제는 등록번호 1, 2, 5번에게 선물을 줍니다. ( 1-1-1 )</p>\n<p>마지막 행동 2에서 욱제는 등록번호 1, 5번에게 선물을 줍니다. ( 1-1 )</p>",
   "source": "moonrabbit2, adh0463, jh05013",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 3.926300048828125

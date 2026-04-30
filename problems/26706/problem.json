@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Wynik dla 1, 3 i 6 bajtolitrów to 0 – już na początku mamy butelki z tymi objętościami oranżady.</p>\n<p>Żeby uzyskać 0 bajtolitrów, wystarczy przelać oranżadę z pierwszej butelki do drugiej lub trzeciej butelki. Wtedy pierwsza butelka się opróżni. Moglibyśmy też przelać oranżadę z drugiej do trzeciej butelki. Wtedy z kolei druga butelka stanie się pusta.</p>\n<p>Żeby uzyskać 2 bajtolitry, wystarczy przelać oranżadę z drugiej lub trzeciej butelki do pierwszej. Wtedy w pierwszej butelce będą dokładnie 2 bajtolitry.</p>\n<p>Żeby uzyskać 4 bajtolitry, wystarczy przelać oranżadę z pierwszej butelki do drugiej. Wtedy w drugiej butelce będą dokładnie 4 bajtolitry.</p>\n<p>Żeby uzyskać 5 bajtolitrów, wystarczy przelać oranżadę z trzeciej butelki do pierwszej. Wtedy w trzeciej butelce będzie dokładnie 5 bajtolitrów.</p>\n<p>Żeby uzyskać 7 bajtolitrów, wystarczy przelać oranżadę z pierwszej butelki do trzeciej. Wtedy w trzeciej butelce będzie dokładnie 7 bajtolitrów.</p>\n<p>Żeby uzyskać 9 bajtolitrów, wystarczy przelać oranżadę z drugiej butelki do trzeciej. Wtedy w trzeciej butelce będzie dokładnie 9 bajtolitrów.</p>\n<p>Uzyskanie 8 bajtolitrów wymaga dwóch przelań. Najpierw przelewamy oranżadę z drugiej butelki do trzeciej, a następnie z trzeciej do pierwszej. Wtedy w trzeciej butelce zostanie nam dokładnie 8 bajtolitrów oranżady.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2021",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

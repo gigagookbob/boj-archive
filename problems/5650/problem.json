@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2011 ACM-ICPC Asia Phuket Regional Programming Contest 연습 세션",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.0999999046325684

@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 23,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.7222000360488892

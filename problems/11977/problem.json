@@ -15,10 +15,7 @@
   "hint": "<p>In this example, launching a cow onto the hay bale at position 5 will cause the bales at positions 4 and 6 to explode, each with blast radius 2. These explosions in turn cause the bales at positions 3 and 8 to explode, each with blast radius 3. However, these final explosions are not strong enough to reach the bale at position 13.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO January 2016 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 301,
   "submission_count": null,
   "average_tries": 2.136199951171875

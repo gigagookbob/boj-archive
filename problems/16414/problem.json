@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2018 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, Southeast USA Regional, 2018 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2018 Pacific Northwest Region Programming Contest, Division 1",
   "level": 22,
-  "tags": [
-    "math",
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["math", "geometry", "convex_hull"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.75

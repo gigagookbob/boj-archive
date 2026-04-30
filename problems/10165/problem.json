@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2014, 고등부, Olympiad, 한국정보올림피아드, KOI 2014, 중등부, Olympiad, 한국정보올림피아드, KOI 2014, 초등부, apjw6112",
   "level": 16,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 1482,
   "submission_count": null,
   "average_tries": 2.944000005722046

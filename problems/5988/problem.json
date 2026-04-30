@@ -15,12 +15,7 @@
   "hint": "<p>1024는 2로 나누어지므로 짝수이고, 5931은 그렇지 않으므로 홀수이다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO October 2009 Contest, Gold, joonas",
   "level": 3,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "string", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 7112,
   "submission_count": null,
   "average_tries": 1.983299970626831

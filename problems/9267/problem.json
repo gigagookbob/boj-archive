@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2013, baekjoon, doju",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "extended_euclidean"
-  ],
+  "tags": ["math", "number_theory", "extended_euclidean"],
   "accepted_user_count": 341,
   "submission_count": null,
   "average_tries": 9.217000007629395

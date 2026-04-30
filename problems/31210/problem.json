@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2022, Group D",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["bruteforcing", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.4000000953674316

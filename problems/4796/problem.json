@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2012 Rocky Mountain Regional Contest, baekjoon, jh05013",
   "level": 5,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 12998,
   "submission_count": null,
   "average_tries": 2.5013999938964844

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #6, baekjoon, bh_17, k5nen, winan305, xohzzwn6kcj9, niceotter, wider93",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 8216,
   "submission_count": null,
   "average_tries": 4.666900157928467

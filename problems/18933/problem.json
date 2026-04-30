@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 10: Grand Prix of Xi'An, koosaga",
   "level": 27,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "sweeping",
-    "disjoint_set"
-  ],
+  "tags": ["graphs", "data_structures", "sweeping", "disjoint_set"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3

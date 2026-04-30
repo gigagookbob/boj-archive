@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 cows at positions (0,10), (0,-10), (10,0), and (-10,0).  The silo is centered at (0,0) and has radius 5.</p><h4>Output Details</h4><p>All 6 pairs of cows can see each-other, except for the pairs situated on opposite sides of the silo: the cows at (-10,0) and (10,0) cannot see each-other, and the cows at (0,-10) and (0,10) cannot see each-other.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO November 2013 Contest, Gold",
   "level": 17,
-  "tags": [
-    "sorting",
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["sorting", "geometry", "binary_search"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.148099899291992

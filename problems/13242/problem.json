@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2016 AIPO National Finals, jh05013",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "hash_set", "tree_set"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.2829999923706055

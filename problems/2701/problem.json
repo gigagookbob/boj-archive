@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2009 Greater New York Programming Contest, baekjoon, Nada",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "traceback"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.9782999753952026

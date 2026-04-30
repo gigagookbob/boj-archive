@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제2회 웰노운컵 Day 1, junie, jh05013",
   "level": 23,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "tree_compression"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "tree_compression"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 4

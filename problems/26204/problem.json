@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação da SBC 2022",
   "level": 10,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.0476000308990479

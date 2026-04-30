@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, University of Maryland High School Programming Contest, HSPC 2011",
   "level": 15,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.8333001136779785

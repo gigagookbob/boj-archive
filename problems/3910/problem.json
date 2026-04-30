@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2006 in Yokohama, baekjoon",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "backtracking",
-    "precomputation"
-  ],
+  "tags": ["graphs", "graph_traversal", "backtracking", "precomputation"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.2832999229431152

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 16,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["dp", "greedy", "sorting"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 3.1068999767303467

@@ -15,10 +15,7 @@
   "hint": "<p>In the given sample, three groups need to present their labs: the first group has labs taking 5 and 15 minutes, the second group takes 10 and 20 minutes, and the third group has a single lab taking an entire hour.</p>\n<p>If we choose the order $5, 10, 60, 20, 15$, the third group will wait only for 60 minutes. The second group will, besides their own labs, have to wait for the lab of the third group, and therefore take $10+60+20 = 90$ minutes. The first group will instead take $5 + 10 + 60 + 20 + 15 = 110$ minutes.</p>\n<p>The sum of this is $60 + 90 + 110 = 260$ minutes.</p>\n<p>Note that the order 10, 15, 60, 20, 5 would have resulted in a worse time of $265$, but this is not allowed: group 1 may not present their second lab before their first.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Final",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

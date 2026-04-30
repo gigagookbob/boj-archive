@@ -15,13 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Zwróć uwagę, że po usunięciu np. trzeciej, piątej i siódmej drogi Bajtocja rozpadnie się na więcej niż dwie części. Mimo to, taka trójka krawędzi powinna zostać policzona tylko raz.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 237px; height: 93px;\"/></p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 30,
-  "tags": [
-    "bcc",
-    "cactus",
-    "graphs",
-    "hashing",
-    "implementation"
-  ],
+  "tags": ["bcc", "cactus", "graphs", "hashing", "implementation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.6666998863220215

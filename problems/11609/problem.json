@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2015 Pacific Northwest Region Programming Contest, Division 2",
   "level": 6,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 252,
   "submission_count": null,
   "average_tries": 1.6825000047683716

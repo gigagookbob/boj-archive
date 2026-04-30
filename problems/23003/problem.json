@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, the longest strictly increasing substring ending at position 1 is <code>A</code>. The longest strictly increasing substrings ending at positions 2, 3 and 4 are <code>AB</code>, <code>B</code> and <code>BC</code>, respectively.</p>\n<p>In Sample Case #2, the longest strictly increasing substrings for each position are <code>A</code>, <code>AB</code>, <code>A</code>, <code>AC</code>, <code>ACD</code> and <code>A</code>.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round B",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 1.2552000284194946

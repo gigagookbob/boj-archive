@@ -15,11 +15,7 @@
   "hint": "<p>Piłeczki będą spadały kolejno do wierzchołków o numerach: 0, 2, 1, 3.</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Intermediate Group)",
   "level": 8,
-  "tags": [
-    "math",
-    "trees",
-    "bitmask"
-  ],
+  "tags": ["math", "trees", "bitmask"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.958299994468689

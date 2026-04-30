@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2018 Preliminaries",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 2.8875999450683594

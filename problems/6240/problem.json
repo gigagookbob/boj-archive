@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO US Open 2007 Contest, Gold, Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Olympiad Group)",
   "level": 16,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.6225999593734741

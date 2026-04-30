@@ -19,12 +19,7 @@
   "hint": null,
   "source": "author5",
   "level": 12,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["implementation", "ad_hoc", "geometry", "pythagoras"],
   "accepted_user_count": 266,
   "submission_count": null,
   "average_tries": 2.879699945449829

@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 0,
-  "tags": [
-    "graphs",
-    "trees",
-    "dag",
-    "scc",
-    "dominator_tree"
-  ],
+  "tags": ["graphs", "trees", "dag", "scc", "dominator_tree"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

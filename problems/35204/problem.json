@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2025",
   "level": 14,
-  "tags": [
-    "math",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "probability", "linearity_of_expectation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

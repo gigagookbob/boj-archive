@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2017 ACM South Pacific Programming Contest",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "string",
-    "segtree",
-    "suffix_array"
-  ],
+  "tags": ["data_structures", "string", "segtree", "suffix_array"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.9166998863220215

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO February 2011 Contest, Silver",
   "level": 15,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.0344998836517334

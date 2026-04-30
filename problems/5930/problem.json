@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>FJ's song is 1,8,5,7,9,10.  A ruminant seventh chord is some transposition/re-ordering of 4,6,7.</p><h4>Output Details</h4><p>Two ruminant seventh chords appear in FJ's song (and these occurrences actually overlap by one note).  The first is 8,5,7 (transposed by +1 and reordered) starting at index 2, and the second is 7,9,10 (transposed by +3) starting at index 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO November 2011 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["implementation", "bruteforcing", "sorting"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 1.3592000007629395

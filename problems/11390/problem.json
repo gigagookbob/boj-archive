@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제3회 kriiicon, august14",
   "level": 14,
-  "tags": [
-    "math",
-    "geometry",
-    "combinatorics"
-  ],
+  "tags": ["math", "geometry", "combinatorics"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.819700002670288

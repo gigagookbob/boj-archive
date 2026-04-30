@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Olympiad Group)",
   "level": 20,
-  "tags": [
-    "divide_and_conquer"
-  ],
+  "tags": ["divide_and_conquer"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

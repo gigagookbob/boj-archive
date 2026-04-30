@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "hld"],
   "accepted_user_count": 1094,
   "submission_count": null,
   "average_tries": 4.677299976348877

@@ -19,12 +19,7 @@
   "hint": "<p>An optimal solution to the first sample case would be the following: place a mattress between the second and the third cell. In this case the first, second, fourth, and fifth prisoner will rebel.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2021",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "trees",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "trees", "stack"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.7083001136779785

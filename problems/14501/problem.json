@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, ashwpark, jh05013",
   "level": 8,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 42789,
   "submission_count": null,
   "average_tries": 1.937000036239624

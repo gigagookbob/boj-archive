@@ -19,11 +19,7 @@
   "hint": null,
   "source": "cs71107",
   "level": 27,
-  "tags": [
-    "dp",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "string", "ad_hoc"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

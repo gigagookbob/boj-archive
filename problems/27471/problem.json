@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Winter Contest, eric00513, eaststar, flakepowders, heeda0528, hjroh0315, jk410, kiwiyou, ssamt, tony9402, whqkrkt04",
   "level": 18,
-  "tags": [
-    "math",
-    "data_structures",
-    "sorting",
-    "segtree",
-    "combinatorics"
-  ],
+  "tags": ["math", "data_structures", "sorting", "segtree", "combinatorics"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 2.5455000400543213

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2008, 1207koo",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 2817,
   "submission_count": null,
   "average_tries": 2.7667999267578125

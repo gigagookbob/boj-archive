@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2009, koosaga",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "set",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "trees", "set", "smaller_to_larger"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.1077001094818115

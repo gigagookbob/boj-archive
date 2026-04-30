@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경찰대학, 2019 ChickenReallyGood 대회, woong8730, kyo20111",
   "level": 11,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 2.1277999877929688

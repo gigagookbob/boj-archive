@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #2, baekjoon",
   "level": 7,
-  "tags": [
-    "string",
-    "sorting",
-    "parsing"
-  ],
+  "tags": ["string", "sorting", "parsing"],
   "accepted_user_count": 4947,
   "submission_count": null,
   "average_tries": 3.0274999141693115

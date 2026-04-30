@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2024",
   "level": 19,
-  "tags": [
-    "bipartite_matching",
-    "hashing"
-  ],
+  "tags": ["bipartite_matching", "hashing"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

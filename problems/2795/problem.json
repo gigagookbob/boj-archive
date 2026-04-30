@@ -19,13 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 1 &rarr; 3 &rarr; 4 &rarr; 2 &rarr; 6 &rarr; 3 &rarr; 4 &rarr; 5 &rarr; 1와 같이 이동하면 된다.</p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2012, Croatian Olympiad in Informatics 2012, baekjoon",
   "level": 24,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "floyd_warshall"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra", "floyd_warshall"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 3.072200059890747

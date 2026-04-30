@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 09., rustiebeats, chogahui05, heeda0528, kiwiyou, nflight11, pjshwa, snrnsidy, tony9402, utilforever",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "prefix_sum", "bitmask"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.3671000003814697

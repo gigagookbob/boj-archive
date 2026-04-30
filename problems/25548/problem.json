@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2022 POSTECH Programming Contest, leo020630, hyperbolic, knon0501, lky7674, qjatn0120baek, slah007, tlsdydaud1",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.9529000520706177

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 31, 2009, Advanced",
   "level": 15,
-  "tags": [
-    "knapsack",
-    "sorting"
-  ],
+  "tags": ["knapsack", "sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 4.5

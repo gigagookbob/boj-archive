@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 08., eggx50000, kiwiyou, pyb1031, utilforever",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lca",
-    "tree_diameter"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lca", "tree_diameter"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4.058800220489502

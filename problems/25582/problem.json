@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2022 부산대학교 CodeRace, Rche, chansol, jh05013, lky7674, tony9402",
   "level": 18,
-  "tags": [
-    "string",
-    "manacher"
-  ],
+  "tags": ["string", "manacher"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.3171000480651855

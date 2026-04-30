@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2019",
   "level": 23,
-  "tags": [
-    "bipartite_matching",
-    "implementation",
-    "stable_marriage"
-  ],
+  "tags": ["bipartite_matching", "implementation", "stable_marriage"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.36359977722168

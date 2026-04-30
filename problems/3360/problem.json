@@ -15,9 +15,7 @@
   "hint": "<p>1,2,3을 더해서 6이 되면서 증가하지 않는 수열로 이루어진 경우는 다음 7가지 이다. 7을&nbsp;1000000으로 나눈 나머지인 7이 출력이 된다.</p>\r\n\r\n<ol>\r\n\t<li>3+3</li>\r\n\t<li>3+2+1</li>\r\n\t<li>3+1+1+1</li>\r\n\t<li>2+2+2</li>\r\n\t<li>2+2+1+1</li>\r\n\t<li>2+1+1+1+1</li>\r\n\t<li>1+1+1+1+1+1</li>\r\n</ol>\r\n",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2008, baek1134",
   "level": 10,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 3.4066998958587646

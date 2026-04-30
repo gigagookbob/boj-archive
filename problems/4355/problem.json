@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 1 June, 2002, baekjoon, bachjs, chogahui05, jh05013, kth990303",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "euler_phi"],
   "accepted_user_count": 1062,
   "submission_count": null,
   "average_tries": 3.565000057220459

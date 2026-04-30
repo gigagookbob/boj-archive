@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:181px; width:207px\" /></p>\r\n",
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2010, koosaga",
   "level": 22,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.2142999172210693

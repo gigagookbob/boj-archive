@@ -23,12 +23,7 @@
   "hint": "<p>In Example 1, the juggler paints the white ball in red, obtaining the order \"<code>BBRR</code>\", then removes combo \"<code>BR</code>\"; the remaining balls have order \"<code>BR</code>\", so they can be removed. Since there are 4 balls initially, and after each trick, exactly two balls are removed, 2 is the maximal possible number of tricks that can be done.</p>\n<p>In Example 2, the juggler cannot obtain any sequence of 3 balls with two red and one blue ball regardless of the coloring of the white ball, so the answer is 0.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 1: Kyoto U Contest 2, Contest, Open Cup, 2021/2022 Season, Stage 10: Grand Prix of Kyoto",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "dp",
-    "multi_segtree",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "multi_segtree", "segtree"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5

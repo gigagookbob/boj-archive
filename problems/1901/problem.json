@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 2012, dlaud5379, jh05013",
   "level": 18,
-  "tags": [
-    "string",
-    "parsing",
-    "recursion"
-  ],
+  "tags": ["string", "parsing", "recursion"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.142899990081787

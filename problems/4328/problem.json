@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 20 September, 2003, baekjoon",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 375,
   "submission_count": null,
   "average_tries": 1.9707000255584717

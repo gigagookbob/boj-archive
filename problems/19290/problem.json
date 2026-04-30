@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 4: Yandex Cup 2018, Contest, Open Cup, 2017/2018 Season, Stage 11: Grand Prix of Khamovniki",
   "level": 18,
-  "tags": [
-    "constructive",
-    "case_work",
-    "bitmask"
-  ],
+  "tags": ["constructive", "case_work", "bitmask"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 8.800000190734863

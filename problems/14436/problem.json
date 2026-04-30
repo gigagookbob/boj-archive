@@ -15,14 +15,7 @@
   "hint": "<ul>\n<li>첫 번째 쿼리를 수행하고 난 뒤에 S = a이다. 서로 다른 부분 문자열의 개수는 1개 (a)이다.</li>\n<li>두 번째 쿼리를 수행하고 난 뒤에 S = ab이다. 서로 다른 부분 문자열의 개수는 3개 (a, b, ab)이다.</li>\n<li>세 번째 쿼리를 수행하고 난 뒤에 S = aba이다. 서로 다른 부분 문자열의 개수는 5개 (a, b, ab, ba, aba)이다.</li>\n<li>네 번째 쿼리를 수행하고 난 뒤에 S = abaa이다. 서로 다른 부분 문자열의 개수는 8개 (a, b, ab, ba, aa, aba, baa, abaa)이다.</li>\n<li>다섯 번째 쿼리를 수행하고 난 뒤에 S = baa이다. 서로 다른 부분 문자열의 개수는 5개 (a, b, ba, aa, baa)이다.</li>\n<li>여섯 번째 쿼리를 수행하고 난 뒤에 S = aa이다. 서로 다른 부분 문자열의 개수는 2개 (a, aa)이다.</li>\n<li>일곱 번째 쿼리를 수행하고 난 뒤에 S = a이다. 서로 다른 부분 문자열의 개수는 1개 (a)이다.</li>\n<li>여덟 번째 쿼리를 수행하고 난 뒤에 S = aa이다. 서로 다른 부분 문자열의 개수는 2개 (a, aa)이다.</li>\n</ul>\n<p>정답은 1 + 3 + 5 + 8 + 5 + 2 + 1 + 2 = 27, 27 mod 1000000007 = 27 이다.</p>",
   "source": "baekjoon, jh05013",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "trie",
-    "hld",
-    "suffix_tree"
-  ],
+  "tags": ["data_structures", "string", "trees", "trie", "hld", "suffix_tree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 8.5

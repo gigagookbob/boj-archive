@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 2, stonejjun03, denniskim, 79brue, aeren, ahgus89, azberjibiou, blackking26, gs18115, jh05013, jhnah917",
   "level": 13,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 411,
   "submission_count": null,
   "average_tries": 2.8053998947143555

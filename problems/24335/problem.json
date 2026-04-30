@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2020, Group E",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.4677000045776367

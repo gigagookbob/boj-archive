@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2023, 0613antonio, kiwiyou, naeby, qwerasdfzxcl, rustiebeats, shiftpsh, solvedac, swoon, utilforever, wjdclgns12",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 235,
   "submission_count": null,
   "average_tries": 2.4084999561309814

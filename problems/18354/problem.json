@@ -15,10 +15,7 @@
   "hint": null,
   "source": "sait2000",
   "level": 25,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 4.633299827575684

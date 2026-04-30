@@ -23,11 +23,7 @@
   "hint": "<p>Explanation of the first sample case: Vito will choose all the cards from the table, creating $3$ COMBO moves.</p>\n<p>Explanation of the second sample case: Vito will select the first $2$ red cards and all $3$ blue cards, creating $6$ COMBO moves. The deck strength is $4$ because Vito selected $$2 red cards, so the number of COMBO moves, i.e., $6$, is reduced by $2$.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #3",
   "level": 14,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bruteforcing", "bitmask"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.5625

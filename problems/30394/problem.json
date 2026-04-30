@@ -15,9 +15,7 @@
   "hint": "<p>2413은 재휘의 학번이다.</p>",
   "source": "School, DGUPC, 제 1회 DGUPC, andypants, iansong, kiwiyou, leo020630, parkky, utilforever, wjdclgns12",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 602,
   "submission_count": null,
   "average_tries": 1.6080000400543213

@@ -23,11 +23,7 @@
   "hint": "<p>집게를 이용해 쿠키의 위치를 바꿀 수는 없다. 제자리에서 앞/뒷면 상태를 바꾸는 것만 가능하다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2024 서울대학교 프로그래밍 경시대회, Division 2, cozyyg, kdh9949, parkky, whqkrkt04",
   "level": 20,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "ad_hoc", "two_pointer"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.4166998863220215

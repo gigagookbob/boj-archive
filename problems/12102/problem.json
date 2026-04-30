@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, eric00513",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.632699966430664

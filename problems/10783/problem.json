@@ -19,14 +19,7 @@
   "hint": "<p>In the first example we can assign contestants 1, 3, 6 and 7 to the left side (which results in a team of strength 1 + 8 + 2 + 1 = 12) and contestants 2, 4, 5 and 8 to the right side (which results in a team of strength 2 + 2 + 5 + 2 = 11). The difference of strengths between teams is 1.</p>\n<p>In the second example both players of strength 4 have to be in the same team, thus the minimal difference of strengths between teams is 6.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2015",
   "level": 19,
-  "tags": [
-    "bfs",
-    "bitset",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "knapsack"
-  ],
+  "tags": ["bfs", "bitset", "dp", "graphs", "graph_traversal", "knapsack"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 6.46150016784668

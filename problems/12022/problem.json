@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2016 연세대 컴퓨터과학과 프로그래밍 경진대회, jsa3824",
   "level": 20,
-  "tags": [
-    "graphs",
-    "stable_marriage"
-  ],
+  "tags": ["graphs", "stable_marriage"],
   "accepted_user_count": 185,
   "submission_count": null,
   "average_tries": 1.7135000228881836

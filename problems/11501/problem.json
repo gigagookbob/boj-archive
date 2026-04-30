@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2015, myungwoo, djm03178",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 10407,
   "submission_count": null,
   "average_tries": 2.7451000213623047

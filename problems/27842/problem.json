@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 February Contest, Platinum",
   "level": 23,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "sqrt_decomposition",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "sqrt_decomposition", "trees"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 9.75

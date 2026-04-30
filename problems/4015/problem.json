@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2008, chpark1111, grace0068",
   "level": 16,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.5925999879837036

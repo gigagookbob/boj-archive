@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 19: Grand Prix of Daejeon, ainta",
   "level": 27,
-  "tags": [
-    "math",
-    "combinatorics",
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["math", "combinatorics", "bitmask", "backtracking"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

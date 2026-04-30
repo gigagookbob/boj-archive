@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제2회 임스의 메이플컵, wapas, menborong, nflight11, pichulia, tony9402",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "traceback"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 4.673500061035156

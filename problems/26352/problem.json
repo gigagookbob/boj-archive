@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2011 Local Programming Contest",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "greedy",
-    "math"
-  ],
+  "tags": ["ad_hoc", "greedy", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.0587999820709229

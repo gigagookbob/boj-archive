@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2005, 초등부, jh05013, mwy3055, ehdrb700606",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 8184,
   "submission_count": null,
   "average_tries": 2.500699996948242

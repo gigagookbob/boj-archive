@@ -19,12 +19,7 @@
   "hint": "<p>The example contains only $10$ steps. This is only to demonstrate the format of input and output. During system testing, there will be exactly $18\\,500$ steps.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2024, Day 6: Nyatl’s Game Contest",
   "level": 23,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "probability",
-    "randomization"
-  ],
+  "tags": ["math", "ad_hoc", "probability", "randomization"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 11.199999809265137

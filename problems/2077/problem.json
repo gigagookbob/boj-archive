@@ -15,12 +15,7 @@
   "hint": "<p>이 문제는 <a href=\"https://snups.org/snupc2024/\">SNUPC 2024</a>의 히든 문제였습니다. 대회 포스터의 우하단을 참고하세요.</p>",
   "source": "leecm0070, sharaelong, bnb2011, kwoncycle, tlsdydaud1, utilforever",
   "level": 14,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "pigeonhole_principle"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.936199903488159

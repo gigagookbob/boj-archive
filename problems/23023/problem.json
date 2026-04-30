@@ -15,14 +15,7 @@
   "hint": null,
   "source": null,
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "bitmask",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "dp", "number_theory", "bitmask", "primality_test", "sieve"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 3.465100049972534

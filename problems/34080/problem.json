@@ -19,11 +19,7 @@
   "hint": "<p>이 문제는 노래 일천광년 (一千光年)을 모티브로 하였다.</p>\n<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"2.png\" title=\"YouTube video player\" width=\"560\"></iframe></p>",
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2기 -chinoaww는 피드백이 아니에요-, jalapen0_p1ckle, djm03178, flakepowders, hyperbolic, kdy40929, ksoosung77, kuhyaku, minchan_bae, oh040411, pyb1031, wizardrabbit",
   "level": 17,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "invariant"
-  ],
+  "tags": ["math", "ad_hoc", "invariant"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.5698000192642212

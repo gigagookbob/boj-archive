@@ -23,12 +23,7 @@
   "hint": null,
   "source": null,
   "level": 7,
-  "tags": [
-    "implementation",
-    "geometry",
-    "case_work",
-    "pythagoras"
-  ],
+  "tags": ["implementation", "geometry", "case_work", "pythagoras"],
   "accepted_user_count": 636,
   "submission_count": null,
   "average_tries": 2.5566000938415527

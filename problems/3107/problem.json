@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #1 - Juniors, baekjoon, riverkeh, ynlee411, jh05013",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1887,
   "submission_count": null,
   "average_tries": 2.6465001106262207

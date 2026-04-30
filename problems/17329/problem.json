@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"2.png\"/><br/>\n </p>",
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2010",
   "level": 21,
-  "tags": [
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "mcmf", "graphs"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

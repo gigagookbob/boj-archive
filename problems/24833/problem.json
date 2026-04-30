@@ -15,12 +15,7 @@
   "hint": "<p>In the first case, Gildong can control the air conditioner to satisfy all customers in the following way:</p>\n<ul>\n<li>At $0$-th minute, change the state to <em>heating</em> (the temperature is 0).</li>\n<li>At $2$-nd minute, change the state to <em>off</em> (the temperature is 2).</li>\n<li>At $5$-th minute, change the state to <em>heating</em> (the temperature is 2, the $1$-st customer is satisfied).</li>\n<li>At $6$-th minute, change the state to <em>off</em> (the temperature is 3).</li>\n<li>At $7$-th minute, change the state to <em>cooling</em> (the temperature is 3, the $2$-nd customer is satisfied).</li>\n<li>At $10$-th minute, the temperature will be 0, which satisfies the last customer.</li>\n</ul>\n<p>In the third case, Gildong can change the state to <em>heating</em> at $0$-th minute and leave it be. Then all customers will be satisfied. Note that the $1$-st customer's visit time equals the $2$-nd customer's visit time.</p>\n<p>In the second and the fourth case, Gildong has to make at least one customer unsatisfied.</p>",
   "source": "Contest, Codeforces, Codeforces Round 620 (Div. 2), djm03178",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "greedy", "simulation", "two_pointer"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.1606999635696411

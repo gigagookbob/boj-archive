@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), Qualification, NOI 2018 Preliminary",
   "level": 12,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.3889000415802002

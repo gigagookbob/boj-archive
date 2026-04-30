@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023, hyperbolic, evenharder, golazcc83, jh05013, tlsdydaud1, wapas, wider93",
   "level": 23,
-  "tags": [
-    "kmp",
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "string"
-  ],
+  "tags": ["kmp", "math", "number_theory", "prefix_sum", "string"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.857100009918213

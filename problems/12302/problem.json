@@ -15,11 +15,7 @@
   "hint": "<p>In example 2, bet 1 on each of the 34 empty numbers for a guaranteed payback of 36, and a profit of 36 - 34 = 2. In example 3, bet 1 on each of the 33 empty numbers, so that you win 36 with probability 33/35. The gives an expected profit of 33/35 * 36 - 33.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 3",
   "level": 17,
-  "tags": [
-    "math",
-    "greedy",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "probability"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.18179988861084

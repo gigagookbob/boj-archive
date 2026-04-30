@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:153px; width:281px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2005/2006, Stage 3",
   "level": 21,
-  "tags": [
-    "bruteforcing",
-    "graphs"
-  ],
+  "tags": ["bruteforcing", "graphs"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 7.800000190734863

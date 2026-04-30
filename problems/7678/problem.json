@@ -15,11 +15,7 @@
   "hint": "<p>In the test case above, teams 1 and 2 and teams 3 and 4 play against each other in the first round; the winners of each match then play to determine the winner of the tournament. The probability that team 2 wins the tournament in this case is:</p>\n<p>P(2 wins) = P(2 beats 1)P(3 beats 4)P(2 beats 3) + P(2 beats 1)P(4 beats 3)P(2 beats 4)<br/>\n= p<sub>21</sub>p<sub>34</sub>p<sub>23</sub> + p<sub>21</sub>p<sub>43</sub>p<sub>24</sub> = 0.9 · 0.6 · 0.4 + 0.9 · 0.4 · 0.5<br/>\n= 0.396.</p>\n<p>The next most likely team to win is team 3, with a 0.372 probability of winning the tournament.</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2006, cozyyg",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.2726999521255493

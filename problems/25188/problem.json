@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, 서강대학교, 청정수컵, 2022 서강대학교 청정수컵, 청정수 Round, meque98, bnb2011, cheetose, djs100201, dong_gas, gumgood, jh05013, jinhan814, lky7674, meque98, tony9402",
   "level": 13,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 1.3731000423431396

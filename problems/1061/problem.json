@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["bruteforcing", "geometry", "convex_hull"],
   "accepted_user_count": 158,
   "submission_count": null,
   "average_tries": 6.550600051879883

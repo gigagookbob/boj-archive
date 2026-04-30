@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 cows, at positions (0,1), (2,1), (2,0), and (2,-5).</p><h4>Output Details</h4><p>There are two different routes: Farmer John can visit cows in the orders 1-2-4-3 or 3-4-2-1 before returning to the origin.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO March 2012 Contest, Bronze",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 2.588200092315674

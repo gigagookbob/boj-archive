@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2019",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "deque"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.151900053024292

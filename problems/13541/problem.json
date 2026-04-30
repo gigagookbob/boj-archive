@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, doju",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "string",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "string", "priority_queue"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.4721999168395996

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2023, 79brue, mjhmjh1104, nick832, utilforever",
   "level": 23,
-  "tags": [
-    "bitmask",
-    "greedy",
-    "sorting",
-    "trees",
-    "tree_compression"
-  ],
+  "tags": ["bitmask", "greedy", "sorting", "trees", "tree_compression"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 11.384599685668945

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #7, WeissBlume",
   "level": 17,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.6734999418258667

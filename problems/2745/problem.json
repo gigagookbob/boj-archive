@@ -15,11 +15,7 @@
   "hint": null,
   "source": "bupjae",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "math"
-  ],
+  "tags": ["implementation", "string", "math"],
   "accepted_user_count": 39577,
   "submission_count": null,
   "average_tries": 2.0346999168395996

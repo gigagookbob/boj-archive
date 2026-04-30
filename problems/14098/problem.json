@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2014 - 2nd Round",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "tree_set"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.583299994468689

@@ -35,9 +35,7 @@
   "hint": "<p>In the first example, the given picture contains one \"<code>+</code>\".</p>\n<p>In the second example, two vertical branches are located in a different column.</p>\n<p>In the third example, there is a dot outside of the shape.</p>\n<p>In the fourth example, the width of the two vertical branches is $2$.</p>\n<p>In the fifth example, there are two shapes.</p>\n<p>In the sixth example, there is an empty space inside of the shape.</p>",
   "source": "Contest, Codeforces, Codeforces Round 566 (Div. 2), spongbob9876",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.6857000589370728

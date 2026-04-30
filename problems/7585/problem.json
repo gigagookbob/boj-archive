@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2009",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "parsing",
-    "stack"
-  ],
+  "tags": ["data_structures", "string", "parsing", "stack"],
   "accepted_user_count": 254,
   "submission_count": null,
   "average_tries": 2.4133999347686768

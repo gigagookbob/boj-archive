@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2011, Final Exam #1",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "deque",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["data_structures", "deque", "implementation", "simulation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.2221999168395996

@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2009",
   "level": 21,
-  "tags": [
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["constructive", "bitmask"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 2.019200086593628

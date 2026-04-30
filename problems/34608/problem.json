@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2025 ICPC Asia Pacific Championship",
   "level": 16,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "binary_search",
-    "case_work"
-  ],
+  "tags": ["greedy", "ad_hoc", "binary_search", "case_work"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.0833001136779785

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2016",
   "level": 20,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "angle_sorting"],
   "accepted_user_count": 370,
   "submission_count": null,
   "average_tries": 3.940500020980835

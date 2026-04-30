@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2012",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "bruteforcing",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "bruteforcing", "disjoint_set"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.1232999563217163

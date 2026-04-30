@@ -19,10 +19,7 @@
   "hint": "<p>예제 2에 대해, 살 확률은 51.6%로 죽을 확률인 48.4%보다 높다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2018",
   "level": 18,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 2.506700038909912

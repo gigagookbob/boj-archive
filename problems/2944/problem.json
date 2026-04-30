@@ -23,13 +23,7 @@
   "hint": "<p>두 번째 예제의 경우, 1교시가 시작할 때 상근이는 수박을 두 개 던진다. 2교시에는 1번, 4번 학생은 수박을 2번과 3번에게 두 개씩, 2번과 3번은 1번과 4번에게 한 개씩 던진다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #5, baekjoon, cheetose",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "implementation", "simulation"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.8478000164031982

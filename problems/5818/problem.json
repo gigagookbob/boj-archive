@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example: We will organize meetings between spies 1 and 2, then 2 and 3, and send spy 2 on the assignment.</p>\n<p>Clarification of the second example: We will organize a meeting between spies 2 and 3, and send spies 1 and 2 on the assignment.</p>\n<p>Clarification of the third example: We will organize meetings between spies 2 and 4, then 1 and 2, then 3 and 5, and send spies 1 and 3 (or 1 and 5) on the assignment.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2013, Croatian Olympiad in Informatics 2013",
   "level": 14,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.3594000339508057

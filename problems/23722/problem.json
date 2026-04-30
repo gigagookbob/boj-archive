@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2021 Japan Domestic Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "number_theory", "simulation"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 1.205899953842163

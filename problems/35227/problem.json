@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2025",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "sweeping",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "sweeping", "disjoint_set"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.0666999816894531

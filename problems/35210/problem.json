@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2025",
   "level": 11,
-  "tags": [
-    "string",
-    "randomization",
-    "heuristics"
-  ],
+  "tags": ["string", "randomization", "heuristics"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2

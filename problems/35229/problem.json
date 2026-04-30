@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2025",
   "level": 12,
-  "tags": [
-    "graphs",
-    "greedy",
-    "constructive",
-    "parity"
-  ],
+  "tags": ["graphs", "greedy", "constructive", "parity"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

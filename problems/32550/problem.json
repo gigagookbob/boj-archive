@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2024",
   "level": 21,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3

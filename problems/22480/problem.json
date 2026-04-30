@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2012 Day 3B",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "mitm"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "mitm"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

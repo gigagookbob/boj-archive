@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO December 2004 Contest, Gold",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "scc"
-  ],
+  "tags": ["graphs", "graph_traversal", "scc"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.9056999683380127

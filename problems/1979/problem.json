@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2005",
   "level": 16,
-  "tags": [
-    "math",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arbitrary_precision"],
   "accepted_user_count": 186,
   "submission_count": null,
   "average_tries": 3.118299961090088

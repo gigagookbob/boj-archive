@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2006: 100 Years of Engineering",
   "level": 10,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.2352999448776245

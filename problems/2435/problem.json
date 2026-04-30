@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 2916,
   "submission_count": null,
   "average_tries": 2.1110999584198

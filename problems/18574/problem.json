@@ -15,12 +15,7 @@
   "hint": "<p>In the first sample test case, the answer is \\(2\\) because we can make XOR value arbitrarily close to \\(2\\) choosing \\(1\\) from the first interval and \\(1 − 2^p\\) from the second interval, where \\(p\\) is a large enough integer, but we can obtain neither exactly \\(2\\) nor any greater number.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 6: Belarusian SU Contest, Contest, Open Cup, 2018/2019 Season, Stage 12: Grand Prix of Belarus",
   "level": 26,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "greedy", "number_theory", "arbitrary_precision"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.81820011138916

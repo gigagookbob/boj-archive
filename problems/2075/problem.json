@@ -15,11 +15,7 @@
   "hint": null,
   "source": "onjo0127, tncks0121, xhdtlsid2, djm03178",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "sorting", "priority_queue"],
   "accepted_user_count": 16166,
   "submission_count": null,
   "average_tries": 2.488300085067749

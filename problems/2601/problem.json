@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2004, 중등부, Apple_Cplus",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree", "sweeping"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 3.4667000770568848

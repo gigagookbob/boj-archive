@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2009",
   "level": 14,
-  "tags": [
-    "arbitrary_precision",
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "combinatorics", "dp", "math"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3

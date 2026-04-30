@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서울시립대학교, 2023 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 1, University, 서울시립대학교, 2023 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 2, sangyoon9, jinhan814, tae826, utilforever",
   "level": 14,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "recursion"
-  ],
+  "tags": ["math", "ad_hoc", "recursion"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 1.7009999752044678

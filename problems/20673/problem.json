@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2020, kbk0421, wsb0722",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1788,
   "submission_count": null,
   "average_tries": 1.8630000352859497

@@ -19,12 +19,7 @@
   "hint": "<p><em>Палиндромом</em> называется строка, одинаково читающаяся в обоих направлениях. Так, например, строки \"<code>a</code>\", \"<code>abraarba</code>\" являются палиндромами, а \"<code>ab</code>\" и \"<code>abracadabra</code>\" нет.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Qualification 2015-16",
   "level": 25,
-  "tags": [
-    "dp",
-    "string",
-    "divide_and_conquer",
-    "hirschberg"
-  ],
+  "tags": ["dp", "string", "divide_and_conquer", "hirschberg"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.3333001136779785

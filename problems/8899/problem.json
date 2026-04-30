@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2012, myungwoo",
   "level": 20,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "sweeping",
-    "parametric_search"
-  ],
+  "tags": ["geometry", "binary_search", "sweeping", "parametric_search"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 4.030300140380859

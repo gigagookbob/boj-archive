@@ -23,9 +23,7 @@
   "hint": null,
   "source": "baekjoon, dareka",
   "level": 7,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 9896,
   "submission_count": null,
   "average_tries": 1.7115999460220337

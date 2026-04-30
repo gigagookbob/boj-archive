@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2008, baekjoon",
   "level": 6,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 618,
   "submission_count": null,
   "average_tries": 1.7232999801635742

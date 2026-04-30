@@ -23,10 +23,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2018_01, firebird",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 223,
   "submission_count": null,
   "average_tries": 1.5964000225067139

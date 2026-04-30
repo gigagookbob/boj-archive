@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 전시관, 제1 전시관, august14, ho94949",
   "level": 24,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "dp_sum_over_subsets"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.5385000705718994

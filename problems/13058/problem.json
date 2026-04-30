@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2016",
   "level": 23,
-  "tags": [
-    "dp",
-    "divide_and_conquer",
-    "divide_and_conquer_optimization"
-  ],
+  "tags": ["dp", "divide_and_conquer", "divide_and_conquer_optimization"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 4.905700206756592

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2017 KAIST 7th ACM-ICPC Mock Competition, topology",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "set",
-    "tree_set",
-    "convex_hull"
-  ],
+  "tags": ["data_structures", "geometry", "set", "tree_set", "convex_hull"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.8261001110076904

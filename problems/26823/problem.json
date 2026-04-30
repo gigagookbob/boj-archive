@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Camp, JPOI Summer Training Camp, JPOI Summer Training Camp 2020",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 미적확통컵, 2022 제1회 미적확통컵, kiwiyou, azberjibiou, parkky, wider93",
   "level": 20,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["math", "data_structures", "segtree"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.125

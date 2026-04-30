@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2024, CCC 2024 Senior Division",
   "level": 22,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2

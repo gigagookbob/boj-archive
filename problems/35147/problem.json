@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), 예비소집, kidw0124, foxpython, austin0817, cywohoy, dong0625, ezh8n, sshs29hanul, tlsdydaud1, utilforever",
   "level": 13,
-  "tags": [
-    "math",
-    "precomputation"
-  ],
+  "tags": ["math", "precomputation"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.31820011138916

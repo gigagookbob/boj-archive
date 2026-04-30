@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2023 부산대학교 CodeRace, Beginner, ido_013, pichulia, wider93, pichulia, jthis, leeh18, shjohw12",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "probability",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "dp", "probability", "arbitrary_precision"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 7.643799781799316

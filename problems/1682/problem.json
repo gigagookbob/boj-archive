@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author9, doju, portableangel",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 211,
   "submission_count": null,
   "average_tries": 2.829400062561035

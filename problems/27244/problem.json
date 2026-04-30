@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2019",
   "level": 16,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.0952000617980957

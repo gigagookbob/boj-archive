@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 2: CCPC Contest 1",
   "level": 20,
-  "tags": [
-    "bitset"
-  ],
+  "tags": ["bitset"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

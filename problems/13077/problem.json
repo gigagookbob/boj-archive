@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2015",
   "level": 10,
-  "tags": [
-    "math",
-    "trees"
-  ],
+  "tags": ["math", "trees"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.1538000106811523

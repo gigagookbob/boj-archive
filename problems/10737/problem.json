@@ -15,10 +15,7 @@
   "hint": "<p>답이 될 수 있는 문자열은 </p>\n<p>2 1</p>\n<p>밖에 없다.</p>",
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, august14",
   "level": 20,
-  "tags": [
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["string", "suffix_array"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.705899953842163

@@ -19,10 +19,7 @@
   "hint": "<p>Recall that the determinant can be defined as follows:</p>\n<p>\\[\\det{A} = \\sum_{\\sigma \\in S_n}{\\text{sgn}(\\sigma)} \\prod_{i=1}^{n}{A_{\\sigma_i}^{(i)}}\\]</p>\n<p>Here, \\(S_n\\) is the set of all permutations of \\(\\{1, \\dots , n\\}\\), and \\(\\text{sgn}(\\sigma)\\) is the sign of permutation \\(\\sigma\\): \\(−1\\) if it has an odd number of inversions and \\(+1\\) if this number is even. An inversion is a pair of indices \\((i, j)\\) such that \\(i &lt; j\\) but \\(\\sigma_i &gt; \\sigma_j\\) .</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 7: Oleksandr Kulkov Contest 1, Botan Investment Cup",
   "level": 28,
-  "tags": [
-    "math",
-    "linear_algebra"
-  ],
+  "tags": ["math", "linear_algebra"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 6.900000095367432

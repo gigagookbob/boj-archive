@@ -19,11 +19,7 @@
   "hint": null,
   "source": "author5, amel",
   "level": 24,
-  "tags": [
-    "backtracking",
-    "knuth_x",
-    "dancing_links"
-  ],
+  "tags": ["backtracking", "knuth_x", "dancing_links"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 4.646299839019775

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2026 KPSC Spring Algorithm Challenge, tapris, young_out, chan120714, kangsm02, kevinlys00, naixt1478, playsworld16, saywoo, shinhuichan, sjhi00, skuru, sodiumd, usb9245",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "difference_array"
-  ],
+  "tags": ["data_structures", "segtree", "difference_array"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.379300117492676

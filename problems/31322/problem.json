@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 2: Grand Prix of Siberia",
   "level": 18,
-  "tags": [
-    "math",
-    "geometry",
-    "case_work",
-    "calculus"
-  ],
+  "tags": ["math", "geometry", "case_work", "calculus"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3

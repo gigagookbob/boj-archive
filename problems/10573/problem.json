@@ -15,11 +15,7 @@
   "hint": "<p>모든 자리 수가 같으면, 증가하는 수이다.</p>\r\n",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2014 Pacific Northwest Region Programming Contest, Division 2, 79brue, hyakintoss, mathjuny, plzrun, movie_jo",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 224,
   "submission_count": null,
   "average_tries": 1.955399990081787

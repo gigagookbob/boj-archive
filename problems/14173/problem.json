@@ -15,10 +15,7 @@
   "hint": "<p>In the example above, the first original rectangle has corners (6,6) and (8,8). The second has corners at (1,8) and (4,9). By drawing a square fence of side length 7 with corners (1,6) and (8,13), the original areas can still be enclosed; moreover, this is the best possible, since it is impossible to enclose the original areas with a square of side length only 6. Note that there are several different possible valid placements for the square of side length 7, as it could have been shifted vertically a bit.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2016 December Contest, Bronze",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 2056,
   "submission_count": null,
   "average_tries": 1.3896000385284424

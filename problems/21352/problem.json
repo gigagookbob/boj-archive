@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, KATT3",
   "level": 12,
-  "tags": [
-    "implementation",
-    "dp",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "dp", "string", "ad_hoc"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

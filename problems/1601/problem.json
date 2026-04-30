@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, jinsj1",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "backtracking"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "backtracking"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.8958001136779785

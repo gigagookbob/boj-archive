@@ -31,11 +31,7 @@
   "hint": null,
   "source": "University, 경희대학교, 경희대학교 2025 봄 프로그래밍 경시대회 (KHSPC 2025), yyyy7089, nflight11, overnap, pani, qvixnh22, tlsdydaud1, tony9402",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 2.4658000469207764

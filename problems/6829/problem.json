@@ -15,10 +15,7 @@
   "hint": "<p>The first output occurs since Patrick loses immediately, since he cannot form any reaction. (Roland’s perfect winning strategy is “do nothing.”)</p>\n<p>The second output occurs since Patrick has the perfect winning strategy “form reaction ABCD,” which makes Roland lose on his first turn.</p>\n<p>The third output is explained in the problem statement.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2008, CCC 2008 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2008, CCC 2008 Senior Division",
   "level": 14,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.8333001136779785

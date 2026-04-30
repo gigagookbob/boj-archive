@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 2: ZJU Contest 1",
   "level": 19,
-  "tags": [
-    "backtracking",
-    "case_work",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["backtracking", "case_work", "combinatorics", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

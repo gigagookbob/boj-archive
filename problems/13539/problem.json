@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, h0ngjun7",
   "level": 25,
-  "tags": [
-    "trees",
-    "link_cut_tree"
-  ],
+  "tags": ["trees", "link_cut_tree"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 1.6837999820709229

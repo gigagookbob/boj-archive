@@ -23,11 +23,7 @@
   "hint": "<p>첫 번째 예제에서 주연이는 다음의 순서로 버튼을 누르면 된다.</p>\r\n\r\n<p>RIGHT, OK, LEFT 7번, OK, LEFT, OK, LEFT 2번, OK, LEFT 3번, OK</p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, National Competition #2 - Juniors, luke0201",
   "level": 14,
-  "tags": [
-    "dp",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "string", "bruteforcing"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.9737000465393066

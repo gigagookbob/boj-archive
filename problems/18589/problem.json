@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 1: Songyang Chen Contest 2",
   "level": 21,
-  "tags": [
-    "combinatorics",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["combinatorics", "math", "prefix_sum"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.2856999635696411

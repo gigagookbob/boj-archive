@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "prefix_sum",
-    "bitmask"
-  ],
+  "tags": ["prefix_sum", "bitmask"],
   "accepted_user_count": 290,
   "submission_count": null,
   "average_tries": 1.9069000482559204

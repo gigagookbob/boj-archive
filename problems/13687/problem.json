@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2006",
   "level": 5,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "arithmetic"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.3729000091552734

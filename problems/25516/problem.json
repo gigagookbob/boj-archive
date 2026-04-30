@@ -15,13 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, dhyang24, eric00513, jbkmath48128, leo020630, palilo",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "dfs"],
   "accepted_user_count": 634,
   "submission_count": null,
   "average_tries": 1.8043999671936035

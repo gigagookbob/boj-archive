@@ -15,10 +15,7 @@
   "hint": "<p>In the example above, the cow in row 1, column 1 (the upper-left corner) is the offending cow, since Farmer John can shout at row 2 and column 3 to make all other cows face left, with just this cow facing right.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 US Open Contest, Silver, dohoon",
   "level": 15,
-  "tags": [
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["greedy", "implementation"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 2.7544000148773193

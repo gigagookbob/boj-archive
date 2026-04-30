@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 31, 2009, Advanced",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "recursion"
-  ],
+  "tags": ["math", "dp", "recursion"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

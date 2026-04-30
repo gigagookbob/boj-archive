@@ -15,13 +15,7 @@
   "hint": null,
   "source": "chogahui05, tony9402, YunGoon",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "priority_queue",
-    "stack"
-  ],
+  "tags": ["data_structures", "segtree", "set", "priority_queue", "stack"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 4.7916998863220215

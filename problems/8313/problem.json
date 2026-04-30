@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree",
-    "mitm"
-  ],
+  "tags": ["math", "data_structures", "segtree", "mitm"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.4166998863220215

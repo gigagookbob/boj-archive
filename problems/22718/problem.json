@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2008 Day 3",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "precomputation"
-  ],
+  "tags": ["math", "number_theory", "precomputation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.7999999523162842

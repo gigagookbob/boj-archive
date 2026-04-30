@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, 2024 North Central NA Regional Contest, ICPC, Regionals, North America, Rocky Mountain Regional, 2024 Rocky Mountain Regional Contest, ICPC, Regionals, North America, Mid-Central Regional, 2024 Mid-Central USA Programming Contest",
   "level": 23,
-  "tags": [
-    "binary_search",
-    "two_pointer",
-    "mitm"
-  ],
+  "tags": ["binary_search", "two_pointer", "mitm"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

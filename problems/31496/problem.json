@@ -19,10 +19,7 @@
   "hint": "<p>이 문제는 받아야 하는 입력의 양이 많으므로, 입출력 속도에 따라 시간 초과를 받을 수 있음에 유의하라.</p>",
   "source": "Contest, BOJ User Contest, 카툰컵, 카툰컵 Zero: ~Prologue~, toycartoon, dbrua1222, djeleanor2, eric00513, index, ingyu1008, nflight11, pani, ruykun, sorohue, utilforever, ychangseok",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 496,
   "submission_count": null,
   "average_tries": 1.75

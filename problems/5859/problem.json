@@ -15,12 +15,7 @@
   "hint": "<p>Statements 1 and 3 cannot both be satisfied at the same time, but statements 1 and 2 can be, if we let cows 1..3 tell the truth and cow 4 be a liar.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO January 2013 Contest, Bronze",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 2.8522000312805176

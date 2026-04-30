@@ -23,13 +23,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2019 송년대회, yclock, TAMREF",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "segtree",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["data_structures", "graphs", "segtree", "shortest_path", "dijkstra"],
   "accepted_user_count": 148,
   "submission_count": null,
   "average_tries": 5.358099937438965

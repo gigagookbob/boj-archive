@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2023, 0613antonio, kiwiyou, rustiebeats, shiftpsh, solvedac, utilforever, wjdclgns12",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "euler_phi"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.22760009765625

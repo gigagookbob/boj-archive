@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2011, baekjoon, 2015112119",
   "level": 21,
-  "tags": [
-    "math",
-    "greedy",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["math", "greedy", "constructive", "case_work"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 6.225800037384033

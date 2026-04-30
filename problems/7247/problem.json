@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2021/2022, District Stage, 7-9 Classes",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "math",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "math", "string"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.2400000095367432

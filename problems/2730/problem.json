@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2005 Greater New York Programming Contest, baekjoon, sloth",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "case_work", "parsing"],
   "accepted_user_count": 131,
   "submission_count": null,
   "average_tries": 3.1907999515533447

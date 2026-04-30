@@ -15,10 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, chansol, eric00513, jhnah917, jthis, palilo, parkky, sait2000, tlsdydaud1, tony9402",
   "level": 12,
-  "tags": [
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["implementation", "recursion"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 7.065199851989746

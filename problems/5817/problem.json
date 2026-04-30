@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2013, Croatian Olympiad in Informatics 2013, wwiiiii",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 2.1500000953674316

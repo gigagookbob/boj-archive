@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ndb796, ajtwlstmdgks",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "dijkstra"],
   "accepted_user_count": 17212,
   "submission_count": null,
   "average_tries": 2.970599889755249

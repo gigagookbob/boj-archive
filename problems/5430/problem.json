@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2012, baekjoon, chatterboy, doju, jh05013, sojungkid",
   "level": 11,
-  "tags": [
-    "deque",
-    "parsing",
-    "implementation",
-    "string",
-    "data_structures"
-  ],
+  "tags": ["deque", "parsing", "implementation", "string", "data_structures"],
   "accepted_user_count": 33272,
   "submission_count": null,
   "average_tries": 4.616300106048584

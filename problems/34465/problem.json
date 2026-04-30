@@ -15,10 +15,7 @@
   "hint": "<p>If we color the sample grid with respect to the value in each cell, we get</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 181px; height: 200px;\"/></p>\n<p>In the first query, all components are snakes.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 200px; height: 221px;\"/></p>\n<p>In the second query, the component that is not a snake is colored in black.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 200px; height: 224px;\"/></p>\n<p>In the third query, the component that is not a snake is colored in black.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\" style=\"width: 200px; height: 222px;\"/></p>\n<p>In the fourth query, all components are snakes.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"6.png\" style=\"width: 200px; height: 221px;\"/></p>\n<p>In the fifth query, the component that is not a snake is colored in black.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"7.png\" style=\"width: 200px; height: 222px;\"/></p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Beginner Round, University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Advanced Round 2",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["ad_hoc", "prefix_sum"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

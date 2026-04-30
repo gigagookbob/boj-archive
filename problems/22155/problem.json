@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2012, RCC 2012 Second Qualification Round",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 989,
   "submission_count": null,
   "average_tries": 1.5713000297546387

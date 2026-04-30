@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO January 2007 Contest, Silver, djm03178, qilip",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["ad_hoc", "prefix_sum"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 2.7778000831604004

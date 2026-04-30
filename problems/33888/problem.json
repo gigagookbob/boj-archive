@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 351px; width: 600px;\"/></p>\n<p style=\"text-align: center;\">왼쪽 : 예제 $1$의 가오리 그래프, 오른쪽 : 예제 $2$의 가오리 그래프</p>",
   "source": "University, 아주대학교, 2025 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2025 아주대학교 프로그래밍 경시대회 APC, Div.2, University, 아주대학교, 2025 아주대학교 프로그래밍 경시대회 APC, Open Contest, golazcc83, akim9905, bnb2011, js9028, jthis, lky7674, mujigae, pani, silvester71, tlsdydaud1, ystaeyoon113",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 1.8070000410079956

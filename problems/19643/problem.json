@@ -35,10 +35,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2020 ICPC Sinchon Summer Algorithm Camp Contest, 초급, 906bc, Green55, jh05013, pichulia, gumgood, pichulia, rhs0266, shiftpsh",
   "level": 18,
-  "tags": [
-    "backtracking",
-    "heuristics"
-  ],
+  "tags": ["backtracking", "heuristics"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 9.821399688720703

@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "parametric_search",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "binary_search", "parametric_search", "flow", "mcmf"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.3076999187469482

@@ -19,9 +19,7 @@
   "hint": "<p>In the first example, the x = 14 and y = 10. Therefore, the difference between these two values is 4.</p>\n<p>In the second example, the size of the arrays is already 1. Therefore, x = 14 and y = 42.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2019, Contest, Open Cup, 2019/2020 Season, Stage 6: Grand Prix of Southeastern Europe",
   "level": 16,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 1.4193999767303467

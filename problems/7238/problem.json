@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2021/2022, School Stage, 10-12 Classes",
   "level": 7,
-  "tags": [
-    "arithmetic",
-    "greedy",
-    "implementation",
-    "math",
-    "simulation"
-  ],
+  "tags": ["arithmetic", "greedy", "implementation", "math", "simulation"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.166700005531311

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2024",
   "level": 14,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.416700005531311

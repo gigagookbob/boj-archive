@@ -15,12 +15,7 @@
   "hint": "<p>화살표를 클릭하면 한별이의 증명을 더 자세히 읽을 수 있다.</p>",
   "source": "wider93, hjroh0315, kiwiyou, utilforever",
   "level": 10,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "bfs"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 2.176100015640259

@@ -23,11 +23,7 @@
   "hint": "<p>첫 번째 예제는 <em>r</em><sub>36</sub> = <em>r</em><sub>35 </sub>⊗ <em>r</em><sub>34 </sub>⊗ <em>r</em><sub>33</sub> = 1, <em>r</em><sub>37</sub> = <em>r</em><sub>36 </sub>⊗ <em>r</em><sub>35 </sub>⊗ <em>r</em><sub>34</sub> = 0, <em>r</em><sub>38</sub> = <em>r</em><sub>37 </sub>⊗ <em>r</em><sub>36 </sub>⊗ <em>r</em><sub>35</sub> = 1로 풀어서 쓸 수 있다. 이를 만족하는 <em>r</em><sub>33</sub>, <em>r</em><sub>34</sub>, <em>r</em><sub>35</sub>는 0, 1, 0 뿐이다. <em>r</em><sub>0</sub> ∼<em>r</em><sub>32</sub>은 어떠한 값이 와도 상관 없다. 그러나 이 중 사전순으로 가장 빠르려면 <em>r</em><sub>0</sub>, <em>r</em><sub>1</sub>, ... , <em>r</em><sub>32</sub> = 0이여야 한다.</p>\n<p>두 번째 예제는 모든 <em>a</em><sub>i</sub> 값이 0이기 때문에 가능한 Output은 0뿐이다. 그러나 1이 왔으므로 답은 NO이다.</p>",
   "source": "University, POSTECH, 2019 PPC, jhs7jhs, jh05013",
   "level": 18,
-  "tags": [
-    "gaussian_elimination",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["gaussian_elimination", "linear_algebra", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2

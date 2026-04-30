@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2016 in Tsukuba, Camp, Petrozavodsk Programming Camp, Winter 2017, Day 8: Japanese Contest",
   "level": 26,
-  "tags": [
-    "game_theory",
-    "mitm",
-    "hackenbush"
-  ],
+  "tags": ["game_theory", "mitm", "hackenbush"],
   "accepted_user_count": 147,
   "submission_count": null,
   "average_tries": 3.0543999671936035

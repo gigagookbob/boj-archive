@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Codeforces, Hello 2020, ckw1140",
   "level": 22,
-  "tags": [
-    "geometry",
-    "math",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["geometry", "math", "sorting", "two_pointer"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.1363999843597412

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 6 June, 1998",
   "level": 0,
-  "tags": [
-    "backtracking",
-    "string"
-  ],
+  "tags": ["backtracking", "string"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

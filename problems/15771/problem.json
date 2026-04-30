@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2018 KAIST RUN Spring Contest, platinant, jh05013",
   "level": 22,
-  "tags": [
-    "cht",
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["cht", "data_structures", "dp", "segtree"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 7.025000095367432

@@ -15,11 +15,7 @@
   "hint": "<p>처음에 (2,1)을 누르게 되면, 아래와 같이 변하고</p>\r\n\r\n<pre>\r\n0 0 0 1\r\n1 0 1 0\r\n1 1 1 0\r\n1 0 0 1</pre>\r\n\r\n<p>여기서 (2,4)를 누르게 되면, 아래와 같이 변한다.</p>\r\n\r\n<pre>\r\n0 0 0 0\r\n1 0 0 1\r\n1 1 1 1\r\n1 0 0 1</pre>\r\n\r\n<p>여기서 (3,1)를 누르게 되면, 아래와 같이 변한다.</p>\r\n\r\n<pre>\r\n0 0 00\r\n0 0 0 1\r\n0 0 1 1\r\n0 0 0 1</pre>\r\n\r\n<p>여기서 (3,4)를 누르게 되면, 아래와 같이 변하고 끝난다.</p>\r\n\r\n<pre>\r\n0 0 0 0\r\n0 0 0 0\r\n0 0 0 0\r\n0 0 0 0</pre>\r\n\r\n<p>물론 아래의 있는 해 역시 가능하지만 아래 답은 사전순으로 더 뒤에 있으므로 예제 출력이 답이 된다.</p>\r\n\r\n<pre>\r\n0 1 1 0\r\n0 0 0 0\r\n0 0 0 0\r\n0 1 1 0</pre>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO US Open 2007 Contest, Silver, author6, Apple_Cplus",
   "level": 17,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bruteforcing", "bitmask"],
   "accepted_user_count": 180,
   "submission_count": null,
   "average_tries": 4.377799987792969

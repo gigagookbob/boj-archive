@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 정보 알고리즘경시대회, 2022 선린 정보 알고리즘경시대회, kyo20111, chansol, jhnah917, junseo, prarie, ryute",
   "level": 12,
-  "tags": [
-    "math",
-    "data_structures",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["math", "data_structures", "set", "tree_set"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 3.7227001190185547

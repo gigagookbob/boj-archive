@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 1998, Day 1",
   "level": 14,
-  "tags": [
-    "math",
-    "graphs",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["math", "graphs", "permutation_cycle_decomposition"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.2726999521255493

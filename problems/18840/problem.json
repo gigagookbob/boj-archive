@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2019/2020 Spring Training Camp, cki86201",
   "level": 26,
-  "tags": [
-    "constructive",
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["constructive", "greedy", "implementation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.0999999046325684

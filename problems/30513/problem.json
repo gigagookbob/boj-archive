@@ -23,12 +23,7 @@
   "hint": "<p>이 문제에서, $M$차원 유클리드 공간 안의 어떤 두 $(M-1)$차원 $a, b$에 대해 도형 $a$를 포함하는 무한 $(M-1)$차원 공간 $A$와 $b$를 포함하는 무한 $(M-1)$차원 공간 $B$를 설정했을 때 $A$에 속한 모든 점에 대해 그 점의 $B$로의 정사영까지의 거리가 항상 같고 그 값이 $0$이 아니라면 두 도형 $a, b$를 서로 <strong>평행</strong>하다고 정의한다.</p>",
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2023, 0613antonio, sorohue, kiwiyou, shiftpsh, solvedac, utilforever, wjdclgns12",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "combinatorics",
-    "geometry_hyper"
-  ],
+  "tags": ["math", "geometry", "combinatorics", "geometry_hyper"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.38100004196167

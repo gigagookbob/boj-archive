@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Regional Contest",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "dfs"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.125

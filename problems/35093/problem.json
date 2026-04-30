@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2025",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.263200044631958

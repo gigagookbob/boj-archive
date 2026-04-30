@@ -15,10 +15,7 @@
   "hint": null,
   "source": "august14",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 3.0406999588012695

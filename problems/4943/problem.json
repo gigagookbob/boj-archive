@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2011 in Fukuoka",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "greedy",
-    "string"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "greedy", "string"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.3157999515533447

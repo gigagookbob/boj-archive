@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2008",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "backtracking"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "backtracking"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 5.133299827575684

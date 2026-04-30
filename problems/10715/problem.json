@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2014/2015, pinebananais, cokcjswo",
   "level": 15,
-  "tags": [
-    "graphs",
-    "sorting",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "sorting", "shortest_path", "dijkstra"],
   "accepted_user_count": 280,
   "submission_count": null,
   "average_tries": 2.049999952316284

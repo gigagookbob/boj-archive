@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2008 Rocky Mountain Regional Contest",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "precomputation",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "precomputation", "sorting", "sweeping"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

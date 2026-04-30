@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2002",
   "level": 9,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.1470999717712402

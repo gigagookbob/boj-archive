@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2014, mitslll, baekjoon",
   "level": 19,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "backtracking",
-    "parametric_search"
-  ],
+  "tags": ["geometry", "binary_search", "backtracking", "parametric_search"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 4.72730016708374

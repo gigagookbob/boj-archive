@@ -15,9 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Test przykładowy odpowiada przykładowym operacjom opisanym w treści zadania.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2025",
   "level": 15,
-  "tags": [
-    "bitset"
-  ],
+  "tags": ["bitset"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2

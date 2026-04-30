@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2016",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "prime_factorization"],
   "accepted_user_count": 124,
   "submission_count": null,
   "average_tries": 2.024199962615967

@@ -15,11 +15,7 @@
   "hint": "<p>The first part is transmitted using the contacts 1, 3 and 5, i.e. from the headquarters to agent 2, from agent 2 to agent 3 and from agent 2 also to agent 4. The second part is transmitted using the contact persons 2, 4 and 6, i.e. from the headquarters to agent 3, from agent 3 to agent 2 and from agent 2 to agent 4.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2008, Day 1",
   "level": 26,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -19,12 +19,7 @@
   "hint": "<p>Обяснение на пример 2: Числото 24 има 8 делители: 1, 2, 3, 4, 6, 8, 12 и 24. Числото 30 също има 8 делители: 1, 2, 3, 5, 6, 10, 15 и 30. Но 24 е по-малкото от двете числа.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2016, Group D",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.136399984359741

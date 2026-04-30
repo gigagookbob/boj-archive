@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제5회 천하제일 코딩대회 예선, jhnah917, junie, leejseo",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "two_pointer"],
   "accepted_user_count": 438,
   "submission_count": null,
   "average_tries": 2.9679999351501465

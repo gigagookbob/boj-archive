@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, moonrabbit2, djm03178, doju",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "maximum_subarray"
-  ],
+  "tags": ["data_structures", "segtree", "maximum_subarray"],
   "accepted_user_count": 464,
   "submission_count": null,
   "average_tries": 2.680999994277954

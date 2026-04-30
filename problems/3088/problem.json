@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2012, Junior Croatian Olympiad in Informatics - Exam #2, baekjoon, myungum",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 418,
   "submission_count": null,
   "average_tries": 2.483299970626831

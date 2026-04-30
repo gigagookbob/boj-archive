@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2024, Day 5: Der Kontest",
   "level": 11,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "string", "number_theory", "euclidean"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.25

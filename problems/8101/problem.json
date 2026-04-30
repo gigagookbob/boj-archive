@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1995/1996, Stage 1",
   "level": 14,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["math", "geometry", "binary_search"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 3.7428998947143555

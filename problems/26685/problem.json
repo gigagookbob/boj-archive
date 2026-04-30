@@ -19,11 +19,7 @@
   "hint": "<p>Wyjaśnienie drugiego przykładu: Istnieje tylko jedna ścieżka ze schroniska na szczyt Góry Kratowej. Podążając nią, kolejni podróżnicy wejdą na szczyt: po 13 minutach, po 14 minutach, po 13 minutach i po 13 minutach.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

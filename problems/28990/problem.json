@@ -19,9 +19,7 @@
   "hint": "<p>В первом примере изначальная сумма равна <code>-1</code>, но поменяв числа местами, можно получить <code>1</code>. Во втором примере ничего не поменяется при смене, поэтому можно не менять числа местами вовсе.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, February 11, 2017",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5788999795913696

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2014 East Central Regional Contest 연습 세션",
   "level": 15,
-  "tags": [
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "line_intersection"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.9285999536514282

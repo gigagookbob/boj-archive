@@ -15,12 +15,7 @@
   "hint": "<p>The first two ranges overlap slightly and cover a combined angle of 270421 arc seconds.  The third range covers 3600 arc seconds.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO February 2004 Contest, Orange",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "sweeping"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "sweeping"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

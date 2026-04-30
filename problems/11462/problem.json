@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2015",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["bruteforcing", "set"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 2.0495998859405518

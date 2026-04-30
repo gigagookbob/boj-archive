@@ -31,12 +31,7 @@
   "hint": "<p>The following two figures depict the arrangements in the first and the fourth sample. Two students are connected by an edge if they know each other's names.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 512px; height: 278px;\"/></p>\n<p>In the first game of the first sample, the ball is given to student $1$. Student $1$ passes the ball to their best friend, student $5$. The ball reaches student $4$ after student $5$ passes it to them, needing two passes in total.</p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2024, Day 2",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "binary_search", "set", "tree_set"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

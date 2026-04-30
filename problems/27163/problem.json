@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, havana723, shiftpsh, chansol, cologne, cozyyg, gs18115, kipa00, pichulia, topology",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "knapsack", "traceback"],
   "accepted_user_count": 174,
   "submission_count": null,
   "average_tries": 5.293099880218506

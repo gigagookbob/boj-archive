@@ -15,9 +15,7 @@
   "hint": "<p>초기 빈 풍선 줄은 다음과 같다.</p>\r\n\r\n<pre>\r\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .</pre>\r\n\r\n<p>한필이가 1번 슬롯부터 3개씩 띄어서 R 풍선을 설치했다.</p>\r\n\r\n<pre>\r\nR . . R . . R . . R . . R . . R . . R . . R . . R . . R . .</pre>\r\n\r\n<p>3번 슬롯부터 7개씩 띄어서 B 풍선을 설치했다.</p>\r\n\r\n<pre>\r\nR . B R . . R . . R . . R . . R B . R . . R . B R . . R . .</pre>\r\n\r\n<p>1번 슬롯부터 4개씩 띄어서 D 풍선을 설치했다.</p>\r\n\r\n<pre>\r\nR . B R D . R . D R . . R . . R B . R . D R . B R . . R D .</pre>\r\n\r\n<p>최종적으로 13개의 슬롯이 빈다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO US Open 2007 Contest, Bronze, School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2016 송년대회, koosaga",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1112,
   "submission_count": null,
   "average_tries": 1.5405000448226929

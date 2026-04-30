@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, nova9128, Apple_Cplus, jsa3824, djm03178, YunGoon",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 4138,
   "submission_count": null,
   "average_tries": 2.229099988937378

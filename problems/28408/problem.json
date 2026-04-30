@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023, egod1537, 99asdfg, amel, asdarwin03, evenharder, hyperbolic, jh05013, kclee2172, qwerasdfzxcl, tlsdydaud1, wapas",
   "level": 16,
-  "tags": [
-    "math",
-    "trees",
-    "recursion"
-  ],
+  "tags": ["math", "trees", "recursion"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 2.5455000400543213

@@ -15,12 +15,7 @@
   "hint": "<p>1호관에서 3호관, 4호관을 거쳐 5호관으로 간다면, 3시간만에 3500원의 지출로 도착할 수 있다. (다행히 이번 수업은 휴강이었다고 합니다.)</p>",
   "source": "University, 전북대학교, 2016 전북대 프로그래밍 경진대회, joonas",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "dijkstra"],
   "accepted_user_count": 480,
   "submission_count": null,
   "average_tries": 3.1770999431610107

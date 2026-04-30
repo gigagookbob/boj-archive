@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2011 ACM South Pacific Programming Contest, baekjoon",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 6949,
   "submission_count": null,
   "average_tries": 1.8854999542236328

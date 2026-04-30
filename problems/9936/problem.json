@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #5, baekjoon, jh05013",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 211,
   "submission_count": null,
   "average_tries": 3.6161000728607178

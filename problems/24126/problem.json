@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2009/2010 Spring Training Camp",
   "level": 18,
-  "tags": [
-    "prefix_sum",
-    "bipartite_matching"
-  ],
+  "tags": ["prefix_sum", "bipartite_matching"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.631600022315979

@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2024, Division 1, University, University of Alberta Programming Contest, UAPC 2024, Division 2",
   "level": 13,
-  "tags": [
-    "case_work",
-    "geometry",
-    "line_intersection",
-    "math"
-  ],
+  "tags": ["case_work", "geometry", "line_intersection", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.4544999599456787

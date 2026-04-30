@@ -15,10 +15,7 @@
   "hint": null,
   "source": "jh05013, WeissBlume",
   "level": 12,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.88100004196167

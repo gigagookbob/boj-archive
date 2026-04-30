@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, Round 1A",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["implementation", "bruteforcing", "set"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2011, 초등부, tncks0121, jh05013",
   "level": 8,
-  "tags": [
-    "prefix_sum",
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["prefix_sum", "two_pointer", "sliding_window"],
   "accepted_user_count": 26201,
   "submission_count": null,
   "average_tries": 2.6214001178741455

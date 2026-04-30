@@ -35,9 +35,7 @@
   "hint": null,
   "source": "baekjoon, kks227, myungwoo",
   "level": 11,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 3746,
   "submission_count": null,
   "average_tries": 2.6572000980377197

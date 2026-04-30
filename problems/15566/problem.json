@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, jh05013, moonrabbit2, veydpz",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 235,
   "submission_count": null,
   "average_tries": 3.127700090408325

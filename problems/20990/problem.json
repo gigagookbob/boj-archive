@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2020",
   "level": 17,
-  "tags": [
-    "greedy",
-    "trees"
-  ],
+  "tags": ["greedy", "trees"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.884600043296814

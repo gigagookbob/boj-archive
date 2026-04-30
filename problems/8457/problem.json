@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2011",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "string",
-    "segtree",
-    "stack",
-    "suffix_array"
-  ],
+  "tags": ["data_structures", "string", "segtree", "stack", "suffix_array"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

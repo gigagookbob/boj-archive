@@ -15,9 +15,7 @@
   "hint": "<p>It is known that there will be at least one solution for each given test input.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2003",
   "level": 5,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 2.5938000679016113

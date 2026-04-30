@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, cgiosy",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "beats"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "beats"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 21.144899368286133

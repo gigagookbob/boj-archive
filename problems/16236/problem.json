@@ -35,13 +35,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 13,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation", "bfs"],
   "accepted_user_count": 26194,
   "submission_count": null,
   "average_tries": 2.1875998973846436

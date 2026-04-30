@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2020, Stage 2",
   "level": 10,
-  "tags": [
-    "math",
-    "graphs",
-    "trees",
-    "lca"
-  ],
+  "tags": ["math", "graphs", "trees", "lca"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.0399999618530273

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2005",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dag",
-    "scc"
-  ],
+  "tags": ["graphs", "graph_traversal", "dag", "scc"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.3333001136779785

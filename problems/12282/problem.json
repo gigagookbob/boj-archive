@@ -15,12 +15,7 @@
   "hint": "<p>Note: </p>\n<p>In the 2nd test case after moving 1 cell down from his starting cell, Edison will still be able to lean on the wall at the cell (1,2) by his left hand. </p>\n<p>In the third test case, due to Edison can't touch the wall at cell (2,2) initially, so he has to go east in his first step.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google of Greater China Test for New Grads of 2014, Round A China New Grad Test 2014, Contest, Google, Kick Start, Google Kick Start 2013, Round A",
   "level": 13,
-  "tags": [
-    "implementation",
-    "graphs",
-    "simulation",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "graphs", "simulation", "grid_graph"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.2777999639511108

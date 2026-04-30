@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Beginner Div., functionx",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 395,
   "submission_count": null,
   "average_tries": 2.5999999046325684

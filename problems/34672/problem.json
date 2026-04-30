@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 8회 코딩 테스트, chogahui05, mujigae, utilforever",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "bitmask"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.906999945640564

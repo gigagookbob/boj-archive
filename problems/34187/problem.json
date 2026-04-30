@@ -15,10 +15,7 @@
   "hint": "<p>$\\lfloor -\\frac{1}{2} \\rfloor$은 $-1$임에 유의하자.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2025 신촌지역 대학교 프로그래밍 동아리 연합 여름 대회 (SUAPC 2025 Summer), mujigae, coconut99, ez_code, golazcc83, iluem100, jinhan814, kdy40929, lky7674, playsworld16, ystaeyoon113",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["ad_hoc", "binary_search"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 2.252700090408325

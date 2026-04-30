@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2017 December Contest, Gold",
   "level": 15,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 308,
   "submission_count": null,
   "average_tries": 2.263000011444092

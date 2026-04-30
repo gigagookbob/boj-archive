@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, doju, sait2000, rdd6584",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dp", "graphs", "shortest_path"],
   "accepted_user_count": 764,
   "submission_count": null,
   "average_tries": 3.7839999198913574

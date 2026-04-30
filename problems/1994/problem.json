@@ -15,13 +15,7 @@
   "hint": null,
   "source": "doju",
   "level": 15,
-  "tags": [
-    "dp",
-    "data_structures",
-    "sorting",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["dp", "data_structures", "sorting", "binary_search", "set"],
   "accepted_user_count": 625,
   "submission_count": null,
   "average_tries": 3.65120005607605

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 10th Latvian olympiad in informatics, Stage II (District/City)",
   "level": 11,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.8461999893188477

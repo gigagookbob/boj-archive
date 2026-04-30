@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:210px; width:225px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2006/2007, Stage 2",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "stack"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.5738000869750977

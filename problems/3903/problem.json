@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2007 in Tokyo, baekjoon",
   "level": 22,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "binary_search", "half_plane_intersection"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 2.863300085067749

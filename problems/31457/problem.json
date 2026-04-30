@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "sorting",
-    "bitmask"
-  ],
+  "tags": ["implementation", "bruteforcing", "sorting", "bitmask"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.90910005569458

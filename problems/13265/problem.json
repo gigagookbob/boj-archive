@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2016 KAIST 6th ACM-ICPC Mock Competition, mighty93, doju, scka",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "bipartite_graph"],
   "accepted_user_count": 1088,
   "submission_count": null,
   "average_tries": 2.2564001083374023

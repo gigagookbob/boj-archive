@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2023 Mid-Central USA Programming Contest, ICPC, Regionals, North America, South Central USA Regional, 2023 South Central USA Regional Contest, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2023 Mid-Atlantic USA Regional Contest, Division 2, ICPC, Regionals, North America, Southeast USA Regional, 2023 Southeast USA Regional Programming Contest, Division 2, xiaowuc1",
   "level": 4,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 1.2710000276565552

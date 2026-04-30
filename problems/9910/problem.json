@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2002",
   "level": 9,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.13510000705719

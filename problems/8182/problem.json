@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:138px; width:171px\"/></p>\n<p>The route that Byteasar should follow leaves town no. 6 in the direction of town no. 4, then turns to the road connecting towns no. 2 and 5, and finally goes along the road connecting Byteburg with the town no. 4.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2008/2009, Stage 3",
   "level": 24,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "greedy"
-  ],
+  "tags": ["convex_hull", "geometry", "greedy"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 5.6153998374938965

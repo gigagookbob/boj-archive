@@ -23,13 +23,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: U prvom scenariju sva polja su crna pa je optimalno direktno krenuti prema donjeg desnom polju. U drugom scenariju postoje dva bijela polja, no na kojem god završili nakon teleportacije, možemo u idućem koraku doći do donjeg desnog polja.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2024",
   "level": 19,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "probability"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "bfs", "probability"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

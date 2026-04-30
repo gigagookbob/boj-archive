@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 3: Japanese Contest, Head of Republic of Karelia Cup, Round I",
   "level": 25,
-  "tags": [
-    "dijkstra",
-    "flow",
-    "graphs",
-    "mcmf",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "flow", "graphs", "mcmf", "shortest_path"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 7.444399833679199

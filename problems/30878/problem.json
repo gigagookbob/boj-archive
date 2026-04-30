@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제10회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, my3, cologne, hjroh0315, kiwiyou, mjhmjh1104, seonah, solvedac, yijw0930",
   "level": 15,
-  "tags": [
-    "math",
-    "probability",
-    "calculus"
-  ],
+  "tags": ["math", "probability", "calculus"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 1.6033999919891357

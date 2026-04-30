@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제2회 소프트콘, ainch96, cnhs2205",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "sparse_table"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 3.875

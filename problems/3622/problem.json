@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 269px; height: 271px;\" /></p>\r\n",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2006, portableangel",
   "level": 4,
-  "tags": [
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["geometry", "case_work"],
   "accepted_user_count": 519,
   "submission_count": null,
   "average_tries": 2.6723999977111816

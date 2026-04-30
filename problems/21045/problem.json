@@ -31,12 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2017",
   "level": 19,
-  "tags": [
-    "case_work",
-    "dp",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["case_work", "dp", "math", "prefix_sum"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.066699981689453

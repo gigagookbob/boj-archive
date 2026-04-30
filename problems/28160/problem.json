@@ -23,12 +23,7 @@
   "hint": "<p>모든 가능한 입력에 대해서 <em>R</em>번째 행운 수와 <em>L</em>번째 행운 수의 차이는 2,000,000 (2 × 10<sup>6</sup>)보다 작다.</p>",
   "source": "sait2000, byeongkeunahn, wider93",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["math", "data_structures", "segtree", "binary_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4.125

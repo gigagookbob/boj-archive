@@ -19,11 +19,7 @@
   "hint": null,
   "source": "cozyyg",
   "level": 16,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.5

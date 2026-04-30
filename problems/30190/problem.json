@@ -23,10 +23,7 @@
   "hint": "<p>여우 마을의 전설은 사실일까요?</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2023 서울대학교 프로그래밍 경시대회, Division 2, sharaelong, 16silver, azberjibiou, cs71107, grace0068, starwh03, whqkrkt04",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 131,
   "submission_count": null,
   "average_tries": 2.6106998920440674

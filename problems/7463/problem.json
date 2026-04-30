@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2004",
   "level": 19,
-  "tags": [
-    "math",
-    "geometry",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "geometry", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 13.470600128173828

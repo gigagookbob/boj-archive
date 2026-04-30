@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2002 East Central Regional Contest, sait2000",
   "level": 13,
-  "tags": [
-    "dp",
-    "backtracking"
-  ],
+  "tags": ["dp", "backtracking"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 4.01140022277832

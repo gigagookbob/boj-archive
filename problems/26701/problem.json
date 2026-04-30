@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2021",
   "level": 27,
-  "tags": [
-    "dp",
-    "binary_search",
-    "slope_trick"
-  ],
+  "tags": ["dp", "binary_search", "slope_trick"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -19,12 +19,7 @@
   "hint": "<p>{11, 22, 33, 44, 55, 66, 77, 88, 99}</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2013",
   "level": 12,
-  "tags": [
-    "math",
-    "combinatorics",
-    "precomputation",
-    "mitm"
-  ],
+  "tags": ["math", "combinatorics", "precomputation", "mitm"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.119999885559082

@@ -19,9 +19,7 @@
   "hint": "<p>Explanation 1</p>\n<p>Bytes 1 and 2 have an odd number of 1s but byte 3 has an even number. So odd parity is being used but byte 3 is broken.</p>\n<p>The parity byte gives all columns of bits an odd number of 1s except for 5 where they are even, so bit 5 is broken. Bit 5 of byte 3 is corrupt. </p>\n<p>Explanation 2</p>\n<p>The first 4 bytes all have an even number of 1s except for byte 2 which is the broken byte.</p>\n<p>The parity byte gives all columns of bits an even number of 1s except for 2 where they are odd, so bit 2 is broken. Bit 2 of byte 2 is corrupt.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2017",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.6533000469207764

@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the second example</p>\n<p>Antun can take a blue pebble from the left (<code>CPPCCCC</code>). Then, Branka has to take a red pebble.</p>\n<p>If she takes a pebble from the left (<code>PPCCCC</code>), Antun will take the first, and Branka the second blue pebble on the left, after which only red pebbles remain and Branka will lose.</p>\n<p>If she takes a pebble from the right (<code>CPPCCC</code>), Antun can take another pebble from the right and then Branka will again have to take another red pebble and lose.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #1",
   "level": 16,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["dp", "prefix_sum", "game_theory"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.8205000162124634

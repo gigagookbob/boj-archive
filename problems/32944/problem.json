@@ -19,9 +19,7 @@
   "hint": "<ul>\n<li>수열 $A_i$의 가장 긴 증가하는 부분 수열은 모든 $A_i$의 부분 수열 중 가장 긴 증가하는 수열을 의미한다.</li>\n<li>부분 수열이란 주어진 수열에서 1개 이상의 원소를 골라 원래 순서대로 나열하여 얻은 수열을 말한다.</li>\n<li>증가하는 수열이란 맨 처음 원소를 제외한 모든 원소가 바로 전 원소보다 큰 수열을 말한다. 다시 말해 길이가 $N$인 수열 $C$가 있을 때, $C_{i-1} &lt; C_i (2 \\le i \\le N)$ 를 만족하면 $C$는 증가하는 수열이다. 정의에 의해 길이가 $1$인 수열은 모두 증가하는 수열이다.</li>\n<li>다음은 정현이의 알고리즘을 C++, Python, Java로 구현한 예시 코드이다.</li>\n</ul>\n<p><strong>C++</strong></p>\n<pre>\nvector&lt;int&gt; b;\nfor(int x : a){\n    if(b.empty() || b.back() &lt; x){\n        b.push_back(x);\n    }\n}</pre>\n<p><strong>Python 3</strong></p>\n<pre>\nb = []\nfor x in a:\n    if not b or b[-1] &lt; x:\n        b.append(x)</pre>\n<p><strong>Java</strong></p>\n<pre>\nArrayList&lt;Integer&gt; b = new ArrayList&lt;Integer&gt;();\nfor(int x : a){\n    if(b.isEmpty() || b.get(b.size() - 1) &lt; x){\n        b.add(x);\n    }\n}</pre>",
   "source": "School, 대전과학고등학교, 제1회 대전과학고등학교 프로그래밍 경진대회 DSHStack, ohwphil, hyperbolic, iktk, sjhi00, woohyun_jng",
   "level": 10,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 148,
   "submission_count": null,
   "average_tries": 1.5743000507354736

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2012",
   "level": 17,
-  "tags": [
-    "math",
-    "binary_search",
-    "calculus"
-  ],
+  "tags": ["math", "binary_search", "calculus"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.0833001136779785

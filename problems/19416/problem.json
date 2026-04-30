@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 7: National Taiwan U Contest",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "segtree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

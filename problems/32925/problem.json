@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Regional Contest",
   "level": 12,
-  "tags": [
-    "graphs",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "ad_hoc"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.7894999980926514

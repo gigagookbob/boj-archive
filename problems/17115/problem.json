@@ -15,10 +15,7 @@
   "hint": "<p>손으로 직접 commit의 내용(commit message 등)을 수정해보며 git amend를 하기는 어려울 것이다. 이 문제의 출제 계기가 된 <a href=\"https://github.com/dj-shin/gitchain\">https://github.com/dj-shin/gitchain</a> 에 자동으로 채굴(?)을 해주는 코드가 있으니 참고하자.</p>\n<p>N이 10을 넘기만 해도 아주 힘들어질 것이다. 대회 시간 안에 얼마만큼의 N까지 갈 수 있을까?</p>\n<p>현재 구데기컵의 영문 명칭은 Ghudegy Cup이지만, 이 문제는 출제 당시의 영문 명칭 Kudeki를 유지한다.</p>",
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 구데기컵 2018, veydpz",
   "level": 0,
-  "tags": [
-    "precomputation",
-    "bruteforcing"
-  ],
+  "tags": ["precomputation", "bruteforcing"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.1538000106811523

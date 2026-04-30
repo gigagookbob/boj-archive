@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2011 Greater New York Programming Contest, baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "combinatorics",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["math", "combinatorics", "permutation_cycle_decomposition"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 1.6289000511169434

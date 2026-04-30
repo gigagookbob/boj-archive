@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, FallSpot 2010",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic",
-    "probability"
-  ],
+  "tags": ["math", "arithmetic", "probability"],
   "accepted_user_count": 320,
   "submission_count": null,
   "average_tries": 1.2374999523162842

@@ -27,9 +27,7 @@
   "hint": "<p>예제 4의 경우에 4, 20, 100, 452, 476, 500, 524, 548, 572, 596이 정답이다.</p>",
   "source": "baekjoon",
   "level": 11,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 148,
   "submission_count": null,
   "average_tries": 4.331099987030029

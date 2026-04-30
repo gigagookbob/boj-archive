@@ -15,10 +15,7 @@
   "hint": "<p>Correct answer for the sample is achieved by putting four stones in the first and the last stove and by putting two stones in the second. After that, the heat in every compartment except second is equal to zero, while the heat in the second compartment is equal to $8$.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, First elimination round, 2018-2019",
   "level": 22,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.5455000400543213

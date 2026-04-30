@@ -23,11 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​first​ ​test​ ​case:</p>\n<p>No substitutes were needed, the entire team will play the game from start to end.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #1, jh05013",
   "level": 18,
-  "tags": [
-    "greedy",
-    "sorting",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "constructive"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.529400110244751

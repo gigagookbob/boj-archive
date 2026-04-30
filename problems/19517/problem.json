@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 8: DPRK Contest",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "flow",
-    "mfmc",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "mfmc", "graphs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

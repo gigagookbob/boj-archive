@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2019, jh05013",
   "level": 22,
-  "tags": [
-    "implementation",
-    "constructive",
-    "case_work",
-    "recursion"
-  ],
+  "tags": ["implementation", "constructive", "case_work", "recursion"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 7.1666998863220215

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 12., kiwiyou, amsminn, bnb2011, cologne, hibye1217, tony9402, utilforever",
   "level": 18,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "binary_search", "shortest_path", "dijkstra"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.0968000888824463

@@ -19,11 +19,7 @@
   "hint": "<p>예제 입/출력 1에서는 JOI가 물리, 생물, 지구과학, 역사, 4과목을 선택한 경우에 시험의 총 점수가 제일 높습니다.</p>\r\n\r\n<p>물리, 생물, 지구과학, 역사의 점수가&nbsp;각각 100, 76,42, 10이므로&nbsp;선택한 과목의 총 점수는 228입니다.</p>\r\n\r\n<p>예제 입/출력 2에서는 JOI가 화학, 생물, 지구과학, 지리, 4과목을 선택한 경우에&nbsp;시험의 총 점수가 제일 높습니다.</p>\r\n\r\n<p>화학, 생물, 지구과학, 지리의 점수가&nbsp;각각 21, 15, 42, 62이므로 선택한 과목의 총 점수는 140입니다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2015/2016 예선, csc9211, plzrun",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 7815,
   "submission_count": null,
   "average_tries": 1.327299952507019

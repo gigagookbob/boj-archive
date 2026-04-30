@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #2, baekjoon, august14, dlwodnsdl, jh05013",
   "level": 9,
-  "tags": [
-    "graphs"
-  ],
+  "tags": ["graphs"],
   "accepted_user_count": 1016,
   "submission_count": null,
   "average_tries": 2.0097999572753906

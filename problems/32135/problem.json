@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제1회 피갤컵, bubbler, amel, dabbler1, hamuim, herdson, hyperion1019, ibm2006, kdh9949, kidw0124, lky7674, nick832, plast, pyb1031, skeep194",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "number_theory", "constructive"],
   "accepted_user_count": 194,
   "submission_count": null,
   "average_tries": 1.5824999809265137

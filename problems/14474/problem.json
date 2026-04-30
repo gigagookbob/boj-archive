@@ -19,12 +19,7 @@
   "hint": "<p>入力例 1 において，標高が 5, 7, 8, 9 の 4 個の区域が尾根である．例えば，標高 9 の区域に雨が降った場合，最終的に雨水は標高 1, 2, 3 の 3 個の区域に溜まる．したがって，標高 9 の区域は尾根である．また，標高 6 の区域に雨が降った場合，最終的に雨水は標高 1 の区域にしか溜まらない．したがって，標高 6 の区域は尾根ではない．</p>\n<p>入力例 2 において，標高が 8, 10, 11, 12 の 4 個の区域が尾根である．</p>\n<p>※各入出力例のデータは，右クリック等によりファイルに保存して利用可能です．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2016/2017 예선",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.604200005531311

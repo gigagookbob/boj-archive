@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ekffjaos553",
   "level": 10,
-  "tags": [
-    "trees",
-    "recursion"
-  ],
+  "tags": ["trees", "recursion"],
   "accepted_user_count": 40402,
   "submission_count": null,
   "average_tries": 1.479699969291687

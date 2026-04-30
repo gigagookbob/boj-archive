@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2014-2015 Season, October 25, 2014, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2014-2015 Season, October 25, 2014, Advanced",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "set"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.736799955368042

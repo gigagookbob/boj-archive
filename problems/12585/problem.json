@@ -15,9 +15,7 @@
   "hint": "<p>In Case #1, decreasing the 7 to 3 costs 4 and is the cheapest solution. In Case #2, deleting is extremely expensive; it's cheaper to insert elements so your final array looks like <code>[1, 6, 11, 16, 21, 26, 31, 36, 41, 46, 50, 45, 40, 35, 30, 25, 20, 15, 10, 7]</code>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 1A",
   "level": 12,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.3333001136779785

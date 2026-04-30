@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2019 Sogang Programming Contest, Champion, ZZangZZang, jh05013, shiftpsh",
   "level": 17,
-  "tags": [
-    "math",
-    "sorting",
-    "set",
-    "prefix_sum",
-    "calculus"
-  ],
+  "tags": ["math", "sorting", "set", "prefix_sum", "calculus"],
   "accepted_user_count": 182,
   "submission_count": null,
   "average_tries": 2.763700008392334

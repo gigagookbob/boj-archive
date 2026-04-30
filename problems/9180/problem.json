@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2004 Pacific Northwest Region Programming Contest",
   "level": 9,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.4285999536514282

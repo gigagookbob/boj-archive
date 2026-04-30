@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 23, 2016",
   "level": 14,
-  "tags": [
-    "math",
-    "combinatorics",
-    "bitmask"
-  ],
+  "tags": ["math", "combinatorics", "bitmask"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

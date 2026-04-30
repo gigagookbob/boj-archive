@@ -15,12 +15,7 @@
   "hint": "<p>It's actually better to visit all the addresses, go back to the office, and get to school from there.</p>\n<p>An example route: 0 -&gt; 1 -&gt; 0 -&gt; 2 -&gt; 0 -&gt; school = 1 + 1 + 2 + 2 + 1 = 7</p>",
   "source": ", Contest, Waterloo's local Programming Contests, 2 October, 2011",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.5

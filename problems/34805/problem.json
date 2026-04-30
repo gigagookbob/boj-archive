@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, DGIST, 2025 DGIST 알고리즘 경진대회, haruki291sa, ksoosung77, leo020630, tlsdydaud1, tony9402",
   "level": 15,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "hashing"
-  ],
+  "tags": ["math", "bruteforcing", "hashing"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8696000576019287

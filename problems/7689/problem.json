@@ -15,12 +15,7 @@
   "hint": "<ul>\n<li>Typing “56” takes three time units. At time 1, both left and right fingers have moved one position to the right and are on keys “5” and “6” respectively. Then, each key is pressed sequentially.</li>\n<li>Typing “71” takes five time units. During the first two time units, the left finger moves up to the “7” and presses the key. However, the right finger is not allowed to be in the same column as the left finger, and hence the left finger takes two time units to get to the “1” key and one time unit to press it.</li>\n</ul>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2005",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

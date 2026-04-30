@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере единственная конфета спрятана в пяти уровнях коробок.</p>\n<p>Во втором примере, чтобы получить $13$ конфет, Андрей должен открыть самую большую коробку, затем две коробки уровня $2$, и, наконец, пять из шести имеющихся коробок уровня $1$.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Short Qualification 2017-18",
   "level": 15,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

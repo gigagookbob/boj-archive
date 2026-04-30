@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2016/2017 Spring Training Camp",
   "level": 25,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "randomization"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "randomization"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 5.80649995803833

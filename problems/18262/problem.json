@@ -15,11 +15,7 @@
   "hint": "<p>In this example, there is only one path from $1$ to $N.$ Its flow is $\\min(3,4)=3$ and its cost is $2+5=7.$</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2019 December Contest, Gold",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 194,
   "submission_count": null,
   "average_tries": 1.77839994430542

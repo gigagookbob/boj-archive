@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 카툰컵, Cartoon Cup: ONE, sksms1375, areian13, cdg0228, iktk, kaorin, ksoosung77, minjunnick, nflight11, ohwphil, qvixnh22, terrasphere, toycartoon, utilforever",
   "level": 6,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 179,
   "submission_count": null,
   "average_tries": 1.782099962234497

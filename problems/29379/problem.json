@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, March 18, 2013",
   "level": 8,
-  "tags": [
-    "bitmask",
-    "recursion"
-  ],
+  "tags": ["bitmask", "recursion"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.6363999843597412

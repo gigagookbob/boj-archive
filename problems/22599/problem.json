@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Contest, JAG Winter Contest 2010",
   "level": 19,
-  "tags": [
-    "graphs",
-    "game_theory",
-    "flow",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "game_theory", "flow", "bipartite_matching"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.6923000812530518

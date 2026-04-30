@@ -15,11 +15,7 @@
   "hint": "<p>m = 2인 경우 아래와 같이 16가지 경우가 있다.</p>\r\n\r\n<p><img alt=\"\" src=\"2.png\" style=\"height:389px; width:533px\" /></p>\r\n",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2013 ACM-ICPC Asia Phuket Regional Programming Contest, baekjoon",
   "level": 16,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.8378000259399414

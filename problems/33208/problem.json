@@ -19,9 +19,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: Prije početka Stjepan može staviti skriptu na hrpu $1$ (ovo ne računamo kao premještanje). Zatim dok pristigne druga majica, on premjesti skriptu na hrpu $3$. Nakon toga, dok pristigne šesta majica, on premjesti skriptu natrag na hrpu $1$. Nije moguće postići manje premještanja, no ovo nije jedini način premještanja skripte.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2024",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.4375

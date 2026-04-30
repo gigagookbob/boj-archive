@@ -19,10 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"1.png\" title=\"YouTube video player\" width=\"560\"></iframe></p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 10., bnb2011, chogahui05, snrnsidy, utilforever",
   "level": 16,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 4.153800010681152

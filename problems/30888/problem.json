@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2023 연습 세션",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "sorting"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5937999486923218

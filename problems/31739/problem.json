@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>$(r_1,c_1)$과 $(r_2,c_2)$ 사이의 택시 거리 $d$는 다음과 같이 정의된다: $d = \\left\\vert r_1-r_2 \\right\\vert + \\left\\vert c_1-c_2 \\right \\vert$</li>\n</ul>",
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2024 IamCoder Qualification Test, sonamoo, denniskim, ehlee0815, flappybird, gs20036, gs22059, gs22123, iccodly, jk410, junwoojune, mjhmjh1104",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 4.660999774932861

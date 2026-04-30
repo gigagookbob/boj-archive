@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, European Championship, The 2025 ICPC European Championship",
   "level": 25,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "geometry",
-    "shortest_path",
-    "convex_hull"
-  ],
+  "tags": ["graphs", "ad_hoc", "geometry", "shortest_path", "convex_hull"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

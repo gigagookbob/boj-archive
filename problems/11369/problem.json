@@ -15,9 +15,7 @@
   "hint": null,
   "source": "School, University of Virginia High School Programming Contest, UVa HSPC 2014",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.5

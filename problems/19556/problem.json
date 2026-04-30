@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2020",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["ad_hoc", "binary_search"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 4.599999904632568

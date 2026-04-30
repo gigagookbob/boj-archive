@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2016",
   "level": 25,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "convex_hull",
-    "ternary_search",
-    "cht"
-  ],
+  "tags": ["geometry", "binary_search", "convex_hull", "ternary_search", "cht"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.235300064086914

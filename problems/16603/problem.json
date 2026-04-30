@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2018",
   "level": 18,
-  "tags": [
-    "constructive",
-    "geometry",
-    "trees"
-  ],
+  "tags": ["constructive", "geometry", "trees"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.421099901199341

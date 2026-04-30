@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2018 Sogang Programming Contest, Champion, gs15120, jh05013",
   "level": 8,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 487,
   "submission_count": null,
   "average_tries": 2.757699966430664

@@ -19,10 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładów: Rozważmy pierwszy przykład. Poniższy opis pokazuje scenariusz, w którym drugi sum (o wadze 7 gramów) staje się królem Morza Bajtockiego:</p>\n<table class=\"table table-bordered\">\n<tbody>\n<tr>\n<th colspan=\"6\">Wagi sumów [g]</th>\n<th>Opis</th>\n</tr>\n</tbody>\n<tbody>\n<tr>\n<td>2</td>\n<td>7</td>\n<td>1</td>\n<td>8</td>\n<td>2</td>\n<td>8</td>\n<td>Początkowy stan Morza Bajtockiego.</td>\n</tr>\n<tr>\n<td>3</td>\n<td>7</td>\n<td>-</td>\n<td>8</td>\n<td>2</td>\n<td>8</td>\n<td>Pierwszy sum zjada trzeciego suma i jego masa wzrasta do 3 gramów.</td>\n</tr>\n<tr>\n<td>-</td>\n<td>10</td>\n<td>-</td>\n<td>8</td>\n<td>2</td>\n<td>8</td>\n<td>Drugi sum zjada pierwszego suma, co zwiększa jego masę do 10 gramów.</td>\n</tr>\n<tr>\n<td>-</td>\n<td>10</td>\n<td>-</td>\n<td>8</td>\n<td>-</td>\n<td>10</td>\n<td>Szósty sum zjada piątego suma i jego nowa masa wynosi 10 gramów.</td>\n</tr>\n<tr>\n<td>-</td>\n<td>18</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>10</td>\n<td>Drugi sum zjada czwartego suma.</td>\n</tr>\n<tr>\n<td>-</td>\n<td>28</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>-</td>\n<td>Drugi sum zjada szóstego suma i staje się królem Morza Bajtockiego.</td>\n</tr>\n</tbody>\n</table>\n<p>Można natomiast udowodnić, że pierwszy sum (o początkowej wadze 2 gramów) nie jest w stanie stać się królem.</p>\n<p>Zwróć uwagę na to, że w drugim przykładzie drugi sum (o wadze 4 gramów) nie może zjeść żadnego innego suma, więc nie może on stać się królem Morza Bajtockiego.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2021",
   "level": 9,
-  "tags": [
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["sorting", "binary_search"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.809499979019165

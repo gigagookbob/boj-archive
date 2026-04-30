@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2025 Sogang Programming Contest, Champion, hulahula3247, dong_gas, jinhan814, jk410, jthis, tmdgud0617, wbcho0504, woohyun_jng",
   "level": 6,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 286,
   "submission_count": null,
   "average_tries": 2.0594000816345215

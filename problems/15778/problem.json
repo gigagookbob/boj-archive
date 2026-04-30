@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2018 KAIST RUN Spring Contest, ho94949, jh05013, eric00513, happiness96, sky1357, kazel",
   "level": 17,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 180,
   "submission_count": null,
   "average_tries": 4.383299827575684

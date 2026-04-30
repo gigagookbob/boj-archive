@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2010: Oil Spill",
   "level": 11,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["dp", "bruteforcing", "bitmask"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.6923000812530518

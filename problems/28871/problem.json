@@ -19,9 +19,7 @@
   "hint": "<p>В первом примере Тор не оставил шансов Халку, не дав совершить ни единого удара, поэтому ни о каких камбэках не может быть и речи.</p>\n<p>Во втором примере Халк мог нанести удар первым, затем пропустить два удара от Тора, после чего добить его серией из шести ударов. Таким образом сначала лидировал Халк, затем камбэк совершил Тор, а потом Халк снова вернул себе лидерство.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, November 11, 2017, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, November 11, 2017, Advanced",
   "level": 6,
-  "tags": [
-    "case_work"
-  ],
+  "tags": ["case_work"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.2609000205993652

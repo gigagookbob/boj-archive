@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 2회 DGUPC, byunsanghoon1025, kes0716, kwoncycle, mjhmjh1104",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.708299994468689

@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Online Qualification",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.4027999639511108

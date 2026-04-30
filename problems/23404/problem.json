@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the third example: The two <em>sets</em> are 111, 222, 333 and 111, 123 and 132.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #1",
   "level": 25,
-  "tags": [
-    "math",
-    "dp",
-    "linear_algebra",
-    "fft"
-  ],
+  "tags": ["math", "dp", "linear_algebra", "fft"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

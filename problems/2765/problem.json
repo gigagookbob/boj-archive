@@ -15,10 +15,7 @@
   "hint": "<ul>\r\n\t<li>&pi;의 값은 3.1415927을 사용하면 된다.</li>\r\n\t<li>1마일은 5280피트이다.</li>\r\n\t<li>1피트는 12인치이다.</li>\r\n\t<li>1시간은 60분이다.</li>\r\n\t<li>1분은 60초이다.</li>\r\n\t<li>1펄롱은 201.168미터이다.</li>\r\n</ul>\r\n",
   "source": "ICPC, Regionals, North America, Greater New York Region, 2003 Greater New York Programming Contest, arine, baekjoon, kesakiyo, jh05013",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 1760,
   "submission_count": null,
   "average_tries": 1.5794999599456787

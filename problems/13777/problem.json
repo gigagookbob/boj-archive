@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2016",
   "level": 5,
-  "tags": [
-    "implementation",
-    "binary_search"
-  ],
+  "tags": ["implementation", "binary_search"],
   "accepted_user_count": 564,
   "submission_count": null,
   "average_tries": 1.5957000255584717

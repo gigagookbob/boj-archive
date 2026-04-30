@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, there is only one person. The sequence of visited floors is $1 \\to 5 \\to 3$, and the time is $6$.</p>\n<p>In the second test case, one of the correct sequences is $1 \\to 8 \\to 2 \\to 7 \\to 4$ with the time $21$.</p>\n<p>In the third test case, one of the correct sequences is $1 \\to 10 \\to 6 \\to 3 \\to 8$ with the time $21$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2025",
   "level": 21,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

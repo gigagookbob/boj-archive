@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 US Open Contest, Platinum",
   "level": 25,
-  "tags": [
-    "bcc",
-    "data_structures",
-    "disjoint_set",
-    "implementation",
-    "math"
-  ],
+  "tags": ["bcc", "data_structures", "disjoint_set", "implementation", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2

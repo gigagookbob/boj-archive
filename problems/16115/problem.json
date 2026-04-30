@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 예제의 선풍기는 아래와 같다.</p>\n<p style=\"text-align: center;\"><img alt=\"첫 번째 예제의 선풍기\" src=\"1.png\" style=\"width:40.31%;\"/></p>\n<p>이를 반시계 방향으로 45° 돌렸을 때 자취는 아래와 같다. 처음 도형과 마지막 도형을 짙게 칠하였다.</p>\n<p style=\"text-align: center;\"><img alt=\"반시계 방향으로 45° 돌렸을 때 자취\" src=\"2.png\" style=\"width:56.39%;\"/></p>\n<p>이렇게 90°를 돌리는 순간 자취는 반지름이 2√<span style=\"text-decoration: overline;\">2</span>인 원이 된다. 따라서 답은 90이다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2018 서울대학교 프로그래밍 경시대회, Division 2, cki86201",
   "level": 13,
-  "tags": [
-    "sorting",
-    "geometry",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "angle_sorting"],
   "accepted_user_count": 231,
   "submission_count": null,
   "average_tries": 3.8787999153137207

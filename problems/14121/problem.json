@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2011",
   "level": 11,
-  "tags": [
-    "constructive",
-    "greedy",
-    "parsing",
-    "string"
-  ],
+  "tags": ["constructive", "greedy", "parsing", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.875

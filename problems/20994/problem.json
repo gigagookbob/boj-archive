@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2020",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "ternary_search"
-  ],
+  "tags": ["data_structures", "greedy", "ternary_search"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.727299928665161

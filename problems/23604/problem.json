@@ -19,11 +19,7 @@
   "hint": "<p>For Sample 1, system of equations $$ \\left\\{\\begin{array}{ccc} 7 &amp; \\equiv &amp; 3 \\pmod{4} \\\\ 17 &amp; \\equiv &amp; 5 \\pmod{4} \\\\ 9  &amp; \\equiv &amp; 1 \\pmod{4} \\end{array}\\right. $$ is satisfied and it is easy to verify that it is not satisfied for $m &gt; 4$.</p>\n<p> For Sample 2, system of equations $$ \\left\\{\\begin{array}{ccc} 4 &amp; \\equiv &amp; 2 \\pmod{1} \\\\ 6 &amp; \\equiv &amp; 2 \\pmod{1} \\\\ 5  &amp; \\equiv &amp; 2 \\pmod{1} \\end{array}\\right. $$ is satisfied and it is easy to verify that it is not satisfied for $m &gt; 1$.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 6: Grand Prix of Poland, ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2018",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.3585000038146973

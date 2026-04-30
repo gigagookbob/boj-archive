@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2010",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.207800030708313

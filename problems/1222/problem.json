@@ -23,11 +23,7 @@
   "hint": "<p>첫 번째 예제의 경우 홍준이가 한 팀당 두 명으로 결정하면, 2번과 3번 학교가 참가할 수 있다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #1, baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 629,
   "submission_count": null,
   "average_tries": 3.9061999320983887

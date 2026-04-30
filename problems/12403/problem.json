@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2012, Qualification Round",
   "level": 9,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.0587999820709229

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 2017 선린 봄맞이 교내대회, wookje, busyhuman",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 2090,
   "submission_count": null,
   "average_tries": 2.171299934387207

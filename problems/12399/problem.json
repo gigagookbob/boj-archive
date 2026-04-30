@@ -15,12 +15,7 @@
   "hint": "<p>In the first case, the faster car can shift over to the right lane and easily overtake the slower one. In the second case, the two cars driving side-by-side at 100 m/s will reach the car going 50 m/s in 10 seconds, and somebody will have to change speed, as both lanes will be blocked.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2012, Round 1A",
   "level": 22,
-  "tags": [
-    "graphs",
-    "sorting",
-    "sweeping",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "sorting", "sweeping", "bipartite_graph"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

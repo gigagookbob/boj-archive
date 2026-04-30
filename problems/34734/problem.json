@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Championship, The 2025 ICPC Latin America Championship",
   "level": 9,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.190500020980835

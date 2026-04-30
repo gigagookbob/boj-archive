@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 12., moonlit, bnb2011, chogahui05, cologne, djs100201, heeda0528, hibye1217, kiwiyou, pjshwa, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "number_theory"
-  ],
+  "tags": ["math", "dp", "graphs", "number_theory"],
   "accepted_user_count": 183,
   "submission_count": null,
   "average_tries": 3.377000093460083

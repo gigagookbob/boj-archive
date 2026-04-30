@@ -15,11 +15,7 @@
   "hint": "<p>최대공약수는 정수에서도 유일하지 않다. 예를들어 정수 $g$가 두 정수 $n,m$의 최대공약수라면, $-g$도 $n,m$의 최대공약수이다.</p>",
   "source": "University, 광주과학기술원, 광주과학기술원 HOLICS 알고리즘 대회 2018, cea",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 4.872700214385986

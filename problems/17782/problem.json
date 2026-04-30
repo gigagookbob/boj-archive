@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2019",
   "level": 17,
-  "tags": [
-    "dp",
-    "greedy",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "trees", "dp_tree"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 1.4253000020980835

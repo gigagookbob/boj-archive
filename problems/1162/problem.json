@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO February 2009 Contest, Gold, author6, djm03178, sait2000, jongseo_park, kdk8361",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 3469,
   "submission_count": null,
   "average_tries": 4.208700180053711

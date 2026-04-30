@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, LTH Challenge 2020",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 1.246500015258789

@@ -23,11 +23,7 @@
   "hint": "<p>그래프 이론에서 경로란, 같은 정점을 최대 한 번 방문하는 인접한 정점들의 순서이다. 즉, $X(X \\geq 1)$개의 정점으로 이루어진 정점들의 나열 $P = {v_1, v_2, \\cdots, v_{X-1}, v_X}$이 경로가 되는 조건은 $i \\neq j$일때 $v_i \\neq v_j$이고, $1 \\leq i \\leq X - 1$에 대해서 끝점이 각각 $v_i, v_{i+1}(v_i \\neq v_{i+1})$인 간선이 존재해야 한다. 증가 수열이란 길이가 $n$인 수열 $a$에 대해 $a_1 &lt; a_2 &lt; ... &lt; a_{n - 1} &lt; a_n$을 만족하는 수열이다.</p>",
   "source": "University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 2, null_nullptr, heeda0528, mbae059, qvixnh22, skeep194, swoon, tony9402, utilforever, vkdldjvkdnj",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag"
-  ],
+  "tags": ["dp", "graphs", "dag"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.342099905014038

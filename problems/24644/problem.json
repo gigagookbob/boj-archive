@@ -23,11 +23,7 @@
   "hint": "<p>The following pictures illustrate all three example tests:</p>\n<table class=\"table table-bordered td-center td-middle\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 121px; height: 123px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 123px; height: 123px;\"/></td>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 161px; height: 163px;\"/></td>\n</tr>\n<tr>\n<td>\n<p>$a = 0.5$, $b = 0.5$</p>\n<p>$a/b = 1$</p>\n</td>\n<td>\n<p>$a ≈ 0.744$, $b ≈ 0.372$</p>\n<p>$a/b = 2$</p>\n</td>\n<td>\n<p>$a ≈ 3.394$, $b ≈ 2.263$</p>\n<p>$a/b = 1.5$</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p>In the first example test, for the center of the square, the direction imbalance is equal to $1$ for any direction, i.e. any segment is split into two equal parts.</p>\n<p>In the second example test, it's well-known that the median intersection point of a triangle splits the medians in a $2:1$ ratio. In the given triangle, the medians define the most imbalanced directions for that point. For any other point, the imbalance is even bigger.</p>\n<p>In the third example test, the Grand center is located at $(1.6, 1.6)$. </p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Regional Contest",
   "level": 24,
-  "tags": [
-    "geometry",
-    "parametric_search",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "parametric_search", "half_plane_intersection"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.5

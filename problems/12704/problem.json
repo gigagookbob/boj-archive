@@ -15,11 +15,7 @@
   "hint": "<p>In case 1, we can change the gate on node 3 to an OR gate to achieve the desired result at the root.<br/>\nIn case 2, only the root can be changed but changing it to an OR gate does not help.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Round 2",
   "level": 15,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.1818000078201294

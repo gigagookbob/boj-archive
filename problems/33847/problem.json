@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2025 부산대학교 프로그래밍 대회 (PNUPC), Division 2",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 2.9000000953674316

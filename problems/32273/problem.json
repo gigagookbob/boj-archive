@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 19,
-  "tags": [
-    "math",
-    "greedy",
-    "bitmask",
-    "divide_and_conquer",
-    "parity"
-  ],
+  "tags": ["math", "greedy", "bitmask", "divide_and_conquer", "parity"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

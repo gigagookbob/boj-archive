@@ -15,10 +15,7 @@
   "hint": "<p>This customer chose 0 red plates, 2 green plates, and 4 blue plates. Therefore, the cost of the meal in dollars is 0 × 3 + 2 × 4 + 4 × 5 = 28.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2024, CCC 2024 Junior Division",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 2510,
   "submission_count": null,
   "average_tries": 1.125100016593933

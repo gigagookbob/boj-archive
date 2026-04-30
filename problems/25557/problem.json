@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2022 Summer), tlsdydaud1, eaststar, gumgood, heeda0528, leo020630, lky7674, mjhmjh1104, pjshwa, shjohw12, tae826",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "dp", "probability", "linearity_of_expectation"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.783099889755249

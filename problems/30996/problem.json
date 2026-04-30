@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 미적확통컵, 2023 제2회 미적확통컵, pjshwa, haru_101, invrtd_h, kiwiyou, mujigae, utilforever, ychangseok",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "randomization",
-    "statistics"
-  ],
+  "tags": ["math", "dp", "randomization", "statistics"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.4242000579833984

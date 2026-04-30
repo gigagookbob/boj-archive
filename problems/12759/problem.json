@@ -15,11 +15,7 @@
   "hint": "<p>예제는 아래와 같다. 플레이어 2부터 시작한다.</p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:88px; width:749px\"/></p>",
   "source": "University, 전북대학교, 2016 전북대 프로그래밍 경진대회, joonas, juhongkim2",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation",
-    "case_work"
-  ],
+  "tags": ["implementation", "simulation", "case_work"],
   "accepted_user_count": 1092,
   "submission_count": null,
   "average_tries": 2.633699893951416

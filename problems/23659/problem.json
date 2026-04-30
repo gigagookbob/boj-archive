@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 9: Grand Prix of Peterhof",
   "level": 17,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 6.599999904632568

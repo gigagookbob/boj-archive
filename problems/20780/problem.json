@@ -19,12 +19,7 @@
   "hint": "<p>The plots for the labyrinth and the first query of the first sample data are shown below.</p>\n<table class=\"table table-bordered td-center\" style=\"width:100%;\">\n<tbody>\n<tr>\n<td style=\"width:50%;\"><img alt=\"\" src=\"1.png\" style=\"width: 259px; height: 260px;\"/></td>\n<td style=\"width:50%;\"><img alt=\"\" src=\"2.png\" style=\"width: 259px; height: 260px;\"/></td>\n</tr>\n<tr>\n<td style=\"width:50%;\">(a) The labyrinth</td>\n<td style=\"width:50%;\">(b) One possible shortest path for the first query</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 486px; height: 44px;\"/></p>\n<p style=\"text-align: center;\">Plots for sample test data</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 5: Grand Prix of Weihai, Division 1",
   "level": 19,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "prefix_sum"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "prefix_sum"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.363600015640259

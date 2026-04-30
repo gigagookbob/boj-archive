@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 12 June, 2004",
   "level": 8,
-  "tags": [
-    "greedy",
-    "string",
-    "sorting",
-    "parsing"
-  ],
+  "tags": ["greedy", "string", "sorting", "parsing"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.5556000471115112

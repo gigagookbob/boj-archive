@@ -15,11 +15,7 @@
   "hint": "<p>(1,2)와 (2,1)은 서로 다른 경우이다.</p>",
   "source": "Contest, kriiicon, 제2회 kriiICPC, august14",
   "level": 15,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 3.4286000728607178

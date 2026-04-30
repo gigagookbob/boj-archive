@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2011, baekjoon",
   "level": 16,
-  "tags": [
-    "math",
-    "binary_search",
-    "combinatorics"
-  ],
+  "tags": ["math", "binary_search", "combinatorics"],
   "accepted_user_count": 190,
   "submission_count": null,
   "average_tries": 5.221099853515625

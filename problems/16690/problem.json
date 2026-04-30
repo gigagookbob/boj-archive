@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2018 Pacific Northwest Region Programming Contest, Division 2",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.440000057220459

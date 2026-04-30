@@ -19,10 +19,7 @@
   "hint": "<p>Один из способов разложить приборы в первом примере:</p>\n<ul>\n<li>Маршрут первого официанта: $1 \\rightarrow 2 \\rightarrow 3$.</li>\n<li>Маршрут второго официанта: $3 \\rightarrow 4 \\rightarrow 5$.</li>\n</ul>\n<p>Один из способов разложить приборы во втором примере:</p>\n<ul>\n<li>Маршрут первого официанта: $3 \\rightarrow 4 \\rightarrow 5 \\rightarrow 6$.</li>\n<li>Маршрут второго официанта: $1 \\rightarrow 2 \\rightarrow 1 \\rightarrow 7$.</li>\n</ul>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, March 28, 2021",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "case_work"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 5

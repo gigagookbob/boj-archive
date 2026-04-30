@@ -15,9 +15,7 @@
   "hint": "<p>The kangaroo starts from cell 2 and finishes in cell 3. The two correct routes are 2 -&gt; 1 -&gt; 4 -&gt; 3 and 2 -&gt; 4 -&gt; 1 -&gt; 3.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2016, Day 1",
   "level": 23,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 1.7908999919891357

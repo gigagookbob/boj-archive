@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO March 2011 Contest, Silver",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "ad_hoc", "set", "tree_set"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.1892000436782837

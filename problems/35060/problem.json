@@ -10,13 +10,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2025 송년대회, dkim110807, gs22059, iccodly, kuhyaku, lighton, lunarlity, moonrabbit2, silst2713, utilforever",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "probability",
-    "invariant"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "probability", "invariant"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.3190999031066895

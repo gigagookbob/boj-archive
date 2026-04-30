@@ -31,12 +31,7 @@
   "hint": null,
   "source": "baekjoon, chansol",
   "level": 15,
-  "tags": [
-    "math",
-    "data_structures",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["math", "data_structures", "sorting", "priority_queue"],
   "accepted_user_count": 442,
   "submission_count": null,
   "average_tries": 4.03849983215332

@@ -15,10 +15,7 @@
   "hint": "<p>x~y는 당연히 x번째 부터 y번째가 맞다. 하지만, 이 문제에서는 x &gt; y인 경우 y번째 부터 x번째이다.</p>",
   "source": "xhark, djm03178, planetarynebula, citizen, myungwoo, sg1774",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 6228,
   "submission_count": null,
   "average_tries": 3.105799913406372

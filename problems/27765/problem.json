@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, the city consists of a grid with 3 rows and 4 columns, with one station in the upper left block and one station in the block to the left of the lower right block. The first station can only patrol the three blocks that touch the edge or corner of its block; every other block is at a horizontal or vertical distance of more than 1 away. The second station can patrol any block in the grid (except for the blocks containing the stations). The difference in number of blocks assigned is minimized if you assign station 1 all three of the blocks it can patrol, and then assign the remaining seven blocks to station 2.</p>\n<p>In Sample Case #2, one optimal strategy is to assign the blocks as follows. In this picture, <code>1</code> represents station 1, <code>2</code> represents station 2, <code>!</code> represents a block assigned to station 1, <code>@</code> represents a block assigned to station 2, and <code>.</code> represents a block assigned to neither station (because neither station can patrol it). Notice that a station's assigned blocks do not need to form a single continuous area.</p>\n<pre>\n<code>@@@@.\n!!!@.\n!2!@.\n1!!@.\n!@!@.</code></pre>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2018, World Finals",
   "level": 23,
-  "tags": [
-    "binary_search",
-    "flow",
-    "graphs",
-    "mcmf"
-  ],
+  "tags": ["binary_search", "flow", "graphs", "mcmf"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

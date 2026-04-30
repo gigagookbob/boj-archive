@@ -15,11 +15,7 @@
   "hint": null,
   "source": "myungwoo",
   "level": 12,
-  "tags": [
-    "dp",
-    "string",
-    "lcs"
-  ],
+  "tags": ["dp", "string", "lcs"],
   "accepted_user_count": 5407,
   "submission_count": null,
   "average_tries": 1.9280999898910522

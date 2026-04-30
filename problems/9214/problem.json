@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, Australian Programming Contest, AuPC 2013, kks227",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 1.8944000005722046

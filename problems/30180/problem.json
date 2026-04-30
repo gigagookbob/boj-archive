@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2023 서울대학교 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2023 서울대학교 프로그래밍 경시대회, Division 1 (Open Contest), arnold518, chansol, gs18115, kdh9949, whqkrtk04",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "sparse_table",
-    "deque",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "sparse_table", "deque", "deque_trick"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.0278000831604004

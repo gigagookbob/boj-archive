@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO US Open 2003 Contest, Green",
   "level": 19,
-  "tags": [
-    "flow",
-    "parametric_search",
-    "graphs"
-  ],
+  "tags": ["flow", "parametric_search", "graphs"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

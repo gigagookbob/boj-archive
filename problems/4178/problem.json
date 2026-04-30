@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 13 June, 2009",
   "level": 19,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 5.5

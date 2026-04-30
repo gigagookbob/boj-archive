@@ -15,9 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:284px; width:329px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2004/2005, Stage 3",
   "level": 21,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3.3333001136779785

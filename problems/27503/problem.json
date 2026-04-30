@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Winter Algorithm Camp Contest, 중급, dart, eaststar, man_of_learning, pinebananais, tae826, ystaeyoon113",
   "level": 18,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.8703999519348145

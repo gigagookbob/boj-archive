@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 01., bnb2011, chogahui05, lky7674, utilforever",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "data_structures",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "data_structures", "combinatorics"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.434799909591675

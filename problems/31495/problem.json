@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 카툰컵, 카툰컵 Zero: ~Prologue~, toycartoon, djeleanor2, eric00513, index, ingyu1008, nflight11, pani, sorohue, utilforever, ychangseok",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2020,
   "submission_count": null,
   "average_tries": 2.906399965286255

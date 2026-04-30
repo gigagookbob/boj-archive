@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2025",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy",
-    "binary_search",
-    "parametric_search",
-    "physics"
-  ],
+  "tags": ["math", "greedy", "binary_search", "parametric_search", "physics"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1

@@ -15,12 +15,7 @@
   "hint": "<p><sup>1</sup>We apologize, if people feel offended by this traditional view on the role of men and women in a line of ancestry.</p>\n<p><sup>2</sup>We apologize if people feel offended by this traditional view on the sex of a person.</p>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2010 Preliminaries",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.5385000705718994

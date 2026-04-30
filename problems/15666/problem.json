@@ -23,9 +23,7 @@
   "hint": null,
   "source": "baekjoon, chogahui05, thak00",
   "level": 9,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 20651,
   "submission_count": null,
   "average_tries": 1.2582000494003296

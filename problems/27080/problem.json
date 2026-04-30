@@ -15,11 +15,7 @@
   "hint": "<p>13*12*11*10*9*8*7*6*5*4*3*2*1=6227020800 base 10, which in base 3 is 121001222020102200000, so the right-most non-zero digit is 2.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO US Open 2002 Contest, Orange",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "prime_factorization"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.0741000175476074

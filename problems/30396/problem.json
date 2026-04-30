@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 1회 DGUPC, chang061005, iansong, kiwiyou, leo020630, parkky, utilforever, wjdclgns12",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 1.9902000427246094

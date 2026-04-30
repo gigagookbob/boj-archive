@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li>Python 사용자는 PyPy로 제출하는 것을 권장한다.</li>\n</ul>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제6회 천하제일 코딩대회 본선, junseo, chansol, jhnah917, myyh1234",
   "level": 13,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 170,
   "submission_count": null,
   "average_tries": 1.9646999835968018

@@ -39,11 +39,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Championship, The 2024 ICPC Latin America Championship",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "string", "ad_hoc"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.0967999696731567

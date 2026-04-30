@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, game9777",
   "level": 9,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 12807,
   "submission_count": null,
   "average_tries": 2.8303000926971436

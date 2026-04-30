@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제2회 코드 챔피언십 Division 1, azberjibiou",
   "level": 15,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 3.6828999519348145

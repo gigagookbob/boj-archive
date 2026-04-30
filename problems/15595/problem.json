@@ -43,12 +43,7 @@
   "hint": null,
   "source": "baekjoon, blender333, ldw2614",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 378,
   "submission_count": null,
   "average_tries": 2.2302000522613525

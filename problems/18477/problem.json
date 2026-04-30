@@ -23,13 +23,7 @@
   "hint": "<p>In the first sample, with k = 1 you should take edge (2, 3) with weight 5. And with k = 2 you should take two edges, (2, 4) and (3, 5), with total weight 6. There are no matchings with a greater number of edges</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 2: 300iq Contest 2, Contest, Open Cup, 2019/2020 Season, Stage 1: Grand Prix of Kazan, 300iq",
   "level": 29,
-  "tags": [
-    "divide_and_conquer",
-    "dp",
-    "dp_tree",
-    "hld",
-    "trees"
-  ],
+  "tags": ["divide_and_conquer", "dp", "dp_tree", "hld", "trees"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.761899948120117

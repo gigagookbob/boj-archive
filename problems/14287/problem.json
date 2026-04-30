@@ -15,12 +15,7 @@
   "hint": null,
   "source": "jason9319, thrudgelmir",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "euler_tour_technique"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "euler_tour_technique"],
   "accepted_user_count": 990,
   "submission_count": null,
   "average_tries": 1.9505000114440918

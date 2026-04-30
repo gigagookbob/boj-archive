@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2025 KAIST 15th ICPC Mock Competition, University, MIT, The MIT Programming Contest, 2025-26, MIT Team Contest 2, ibm2006, ai4youej, imeimi2000, koosaga, qwerasdfzxcl, silverwolf",
   "level": 21,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.5

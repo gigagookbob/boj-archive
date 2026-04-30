@@ -15,11 +15,7 @@
   "hint": "<p>위 [그림 3]에서 주어진 그래프와 같습니다.</p>\n<p> </p>",
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA5",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 4.0096001625061035

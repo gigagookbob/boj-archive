@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 326px; height: 423px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 6: Warsaw U Contest, XVI Open Cup Onsite",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "polygon_area"
-  ],
+  "tags": ["bruteforcing", "geometry", "polygon_area"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.705899953842163

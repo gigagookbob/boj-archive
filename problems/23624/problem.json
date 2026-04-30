@@ -15,10 +15,7 @@
   "hint": "<p>The string $a + a + baa$ has 14 subsequences, the string $a + baa + a$ has 13 subsequences, and the string $baa + a + a$ has 10 subsequences. Each of these lines can be obtained with the aid of only two permutations, since there are two occurrences of the substring $a$.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 7: Grand Prix of Siberia",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp"
-  ],
+  "tags": ["bitmask", "dp"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

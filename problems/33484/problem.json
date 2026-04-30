@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제6회 고려대학교 MatKor Cup: 2025 Winter, eoaud0108, finimage, jinhan814, kidw0124, leeminjae, m4ushold, tlsdydaud1, utilforever",
   "level": 24,
-  "tags": [
-    "math",
-    "recursion"
-  ],
+  "tags": ["math", "recursion"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.625

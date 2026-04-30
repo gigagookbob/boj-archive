@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2011/2012, Stage 3, tlwpdus",
   "level": 24,
-  "tags": [
-    "string",
-    "hashing",
-    "manacher"
-  ],
+  "tags": ["string", "hashing", "manacher"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 2.481100082397461

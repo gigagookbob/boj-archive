@@ -15,12 +15,7 @@
   "hint": "<p>The following picture shows all possible ways to solve the task in the first sample test. Note that the order of integers written doesn't matter, only the number of integers written with each color.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 492px; height: 511px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2020",
   "level": 12,
-  "tags": [
-    "backtracking",
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["backtracking", "combinatorics", "dp", "math"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7273000478744507

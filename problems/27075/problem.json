@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO US Open 2002 Contest, Green",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "mst"
-  ],
+  "tags": ["graphs", "graph_traversal", "mst"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.25

@@ -15,9 +15,7 @@
   "hint": null,
   "source": null,
   "level": 20,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.7778000831604004

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2020/2021, National Round (2), 7-9 Classes",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "priority_queue",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "set", "priority_queue", "sliding_window"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.142899990081787

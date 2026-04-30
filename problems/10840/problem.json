@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2015, 고등부, medic_programmer, baekjoon",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "set",
-    "hashing"
-  ],
+  "tags": ["data_structures", "set", "hashing"],
   "accepted_user_count": 727,
   "submission_count": null,
   "average_tries": 4.361800193786621

@@ -15,9 +15,7 @@
   "hint": "<p>Cell 9,9 contains 2 items (it appears twice in the input list), cell 4,5 contains 1 and cell 6,3 contains none (it did not occur in the input list).</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2011",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 1.5051000118255615

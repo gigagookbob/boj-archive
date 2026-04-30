@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2010",
   "level": 5,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 1.9153000116348267

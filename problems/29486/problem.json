@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, September 25, 2010",
   "level": 15,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive",
-    "scc"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive", "scc"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

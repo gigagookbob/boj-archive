@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2018 송년대회, pasa3232",
   "level": 20,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "bitmask",
-    "backtracking",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bruteforcing", "bitmask", "backtracking", "dp_bitfield"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.75

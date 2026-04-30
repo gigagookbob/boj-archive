@@ -15,12 +15,7 @@
   "hint": "<p>In the first data set, the statements given by programmers cannot all be true. The programmers 1 and 2 stated that they were in the office between times 1 and 4 but the programmer 3 stated that at time 2 there was only a single person apart from him there. If we discount that last statement, the remaining ones can be true.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 2",
   "level": 23,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["binary_search", "greedy", "implementation", "simulation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.0625

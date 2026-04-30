@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2016/2017 Season, Stage 7: Grand Prix of Dolgoprudny",
   "level": 21,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["greedy", "ad_hoc", "game_theory", "sprague_grundy"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.482800006866455

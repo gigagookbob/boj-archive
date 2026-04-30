@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2015, 고등부",
   "level": 23,
-  "tags": [
-    "dp",
-    "sweeping"
-  ],
+  "tags": ["dp", "sweeping"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 3.7744998931884766

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2017-18, Second Selection Competition",
   "level": 25,
-  "tags": [
-    "dp",
-    "precomputation",
-    "dp_connection_profile"
-  ],
+  "tags": ["dp", "precomputation", "dp_connection_profile"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5

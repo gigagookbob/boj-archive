@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2025 East Central NA Regional Contest",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "sorting", "simulation"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.399999976158142

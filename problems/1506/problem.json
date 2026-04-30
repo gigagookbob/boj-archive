@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon, cheetose, juhongkim2, kajebiii",
   "level": 16,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 944,
   "submission_count": null,
   "average_tries": 1.6653000116348267

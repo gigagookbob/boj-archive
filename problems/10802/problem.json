@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2015, 중등부, baekjoon",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "dp_digit"],
   "accepted_user_count": 387,
   "submission_count": null,
   "average_tries": 2.9921998977661133

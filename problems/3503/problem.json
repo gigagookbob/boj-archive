@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2011",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["bruteforcing", "ad_hoc"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 6.90910005569458

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 4: SPb SU Contest, LVII SPb SU Championship",
   "level": 11,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.5

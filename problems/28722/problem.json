@@ -19,10 +19,7 @@
   "hint": "<p>В первом тесте, у Билла есть один вариант хода, после него останется две полоски: <code>R</code> и <code>B</code>. В обоих полосках цвет первой клетки совпадает с цветом последней клетки, поэтому у Ричи нет хода.</p>\n<p>Во втором тесте, Билл не может сделать первый ход, потому что цвета первой и последней клеток исходной полоски совпадают. Поэтому, он проигрывает.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 5, 2019",
   "level": 4,
-  "tags": [
-    "implementation",
-    "game_theory"
-  ],
+  "tags": ["implementation", "game_theory"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 1.3087999820709229

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제2회 천하제일 코딩대회 예선, wookje",
   "level": 8,
-  "tags": [
-    "graphs",
-    "string"
-  ],
+  "tags": ["graphs", "string"],
   "accepted_user_count": 1254,
   "submission_count": null,
   "average_tries": 1.429800033569336

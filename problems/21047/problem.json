@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2020",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "constructive"
-  ],
+  "tags": ["bruteforcing", "constructive"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 2.1389000415802

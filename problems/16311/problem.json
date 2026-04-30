@@ -31,12 +31,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2018",
   "level": 20,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "game_theory"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "game_theory"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.309499979019165

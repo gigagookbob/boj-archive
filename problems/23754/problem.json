@@ -27,13 +27,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Open, glanceyes, djm03178, gumgood, jh05013, lky7674, shiftpsh",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "knapsack",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "knapsack", "dag", "topological_sorting"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 4.969699859619141

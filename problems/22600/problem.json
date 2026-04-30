@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Contest, JAG Winter Contest 2010",
   "level": 15,
-  "tags": [
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "math", "probability"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

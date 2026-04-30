@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 2, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Open Contest, ksi4495, blackking26, kaorin, kep1er07, lky7674, lycoris1600, mujigae, qvixnh22, sjh1224, sungjae0506",
   "level": 16,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 4.826700210571289

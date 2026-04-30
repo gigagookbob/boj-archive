@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, cjh970422, tony9402, utilforever, ychangseok",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 589,
   "submission_count": null,
   "average_tries": 1.5126999616622925

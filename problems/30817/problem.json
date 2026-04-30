@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample it's enough to buy only t-shirt of color $1$, cause in any match teams will be able to choose different colors, without using color $1$. For example, in the game between first and second teams Joseph may tell team number $1$ to use color $2$ and team number $2$ to use color $3$.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2015-16, Day 2",
   "level": 15,
-  "tags": [
-    "greedy",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["greedy", "constructive", "case_work"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

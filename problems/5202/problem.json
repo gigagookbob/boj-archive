@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2005: Summer on the Beach",
   "level": 18,
-  "tags": [
-    "calculus",
-    "geometry",
-    "geometry_3d",
-    "math"
-  ],
+  "tags": ["calculus", "geometry", "geometry_3d", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.7142999172210693

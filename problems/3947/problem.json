@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2012 Greater New York Programming Contest, baekjoon, ntopia",
   "level": 9,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.733299970626831

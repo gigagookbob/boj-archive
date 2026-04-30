@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2024 송년대회, gs22059, ehlee0815, gs20036, gs22123, ibm2006, jk410, junwoojune, lisifu, puppy, qwerasdfzxcl",
   "level": 14,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 1.570199966430664

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, rhdqor213",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "difference_array"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "difference_array"],
   "accepted_user_count": 3716,
   "submission_count": null,
   "average_tries": 1.8971999883651733

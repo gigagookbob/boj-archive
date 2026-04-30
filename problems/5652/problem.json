@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2009 ACM-ICPC Asia Phuket Regional Programming Contest",
   "level": 17,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "dp",
-    "sorting"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "dp", "sorting"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5.25

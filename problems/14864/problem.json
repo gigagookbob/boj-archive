@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2017, 중등부, Olympiad, 한국정보올림피아드, KOI 2017, 초등부",
   "level": 14,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 1128,
   "submission_count": null,
   "average_tries": 1.958299994468689

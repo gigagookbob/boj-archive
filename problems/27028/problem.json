@@ -15,10 +15,7 @@
   "hint": "<p>Farms 2 and 6 are 20+3+13=36 apart.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO February 2004 Contest, Green",
   "level": 16,
-  "tags": [
-    "trees",
-    "lca"
-  ],
+  "tags": ["trees", "lca"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.416700005531311

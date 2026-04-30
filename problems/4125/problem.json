@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 13 October, 2012",
   "level": 8,
-  "tags": [
-    "binary_search",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "sorting", "two_pointer"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.854200005531311

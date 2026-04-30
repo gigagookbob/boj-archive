@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA9",
   "level": 20,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.59089994430542

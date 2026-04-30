@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2016 ACM-ICPC Asia-Bangkok Regional Contest",
   "level": 19,
-  "tags": [
-    "extended_euclidean",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["extended_euclidean", "math", "number_theory"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 3.636399984359741

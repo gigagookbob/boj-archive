@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2024 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, South Central USA Regional, 2024 South Central USA Regional Contest, Division 1, ICPC, Regionals, North America, Mid-Atlantic Regional, 2024 Mid-Atlantic USA Regional Contest, Division 1",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "tree_diameter"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.833299994468689

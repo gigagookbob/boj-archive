@@ -31,12 +31,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제2회 한국항공대학교 프로그래밍 경진대회(KAUPC), minjea917, bnb2011, dlehgns011, gojib2002, hello70825, leo020630, rhs0266",
   "level": 13,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "queue"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 4.036399841308594

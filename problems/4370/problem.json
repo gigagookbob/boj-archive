@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 22 September, 2001, baekjoon",
   "level": 12,
-  "tags": [
-    "dp",
-    "set",
-    "game_theory"
-  ],
+  "tags": ["dp", "set", "game_theory"],
   "accepted_user_count": 280,
   "submission_count": null,
   "average_tries": 2.157099962234497

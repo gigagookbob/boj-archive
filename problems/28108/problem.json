@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, 2023 POSTECH Programming Contest, Contest, University, POSTECH, 2023 POSTECH Programming Contest, Open Contest, leo020630, eaststar, hyperbolic, jthis, kwoncycle, menborong, pasa3232, qjatn0120baek, slah007, tlsdydaud1",
   "level": 17,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "prefix_sum",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["dp", "bruteforcing", "prefix_sum", "inclusion_and_exclusion"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.5806000232696533

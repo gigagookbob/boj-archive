@@ -31,10 +31,7 @@
   "hint": null,
   "source": "jh05013",
   "level": 8,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 255,
   "submission_count": null,
   "average_tries": 1.192199945449829

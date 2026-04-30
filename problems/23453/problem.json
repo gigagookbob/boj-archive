@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 10: Grand Prix of Xi’An",
   "level": 22,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.142899990081787

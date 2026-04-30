@@ -10,10 +10,7 @@
   "hint": "<p>Note that your score for each subtask is the minimum of the scores for the test cases in the subtask.</p>",
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2018, Day 1",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 124,
   "submission_count": null,
   "average_tries": 2.69350004196167

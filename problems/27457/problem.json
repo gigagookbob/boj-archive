@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2쿨, dhyang24, bubbler, hyperbolic, index, sait2000",
   "level": 23,
-  "tags": [
-    "case_work",
-    "dp",
-    "recursion"
-  ],
+  "tags": ["case_work", "dp", "recursion"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

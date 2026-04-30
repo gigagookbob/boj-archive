@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, Philippines Multi-Provincial Programming Contest, Philippines Multi-Provincial Programming Contest 2013, baekjoon, doju",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 1397,
   "submission_count": null,
   "average_tries": 2.7616000175476074

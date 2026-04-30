@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["math", "bruteforcing", "sorting"],
   "accepted_user_count": 5908,
   "submission_count": null,
   "average_tries": 3.2439000606536865

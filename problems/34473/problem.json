@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, LG Collegiate Programming Contest, LGCPC 2025 본선, benedict0724, koosaga",
   "level": 17,
-  "tags": [
-    "dp",
-    "traceback"
-  ],
+  "tags": ["dp", "traceback"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.342900037765503

@@ -15,11 +15,7 @@
   "hint": "<p>For the first example, there are exactly four ways to bounce exactly four times and return to the same point. See the figure below.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:143px; width:551px\"/></p>\n<p>For the second example, there are exactly two ways to bounce exactly three times and return to the same point. See the figure below.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"3.png\" style=\"height:166px; width:334px\"/></p>",
   "source": "ICPC, Regionals, Asia Pacific, Philippines, 2016 ACM-ICPC Asia-Manila Regional Programming Contest 연습 세션",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "euler_phi"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 2.1345999240875244

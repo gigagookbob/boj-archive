@@ -15,11 +15,7 @@
   "hint": "<p>For the answer from the sample, the grid property is held, but the grid size is too small to be accepted as a solution.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 1: Kyoto U Contest 1",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["ad_hoc", "constructive", "backtracking"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5312999486923218

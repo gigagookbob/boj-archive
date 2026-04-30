@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, these are all the strings that can be obtained, in alphabetical order: <code>PEEEEL</code>, <code>PEEEELL</code>, <code>PEEEL</code>, <code>PEEELL</code>, <code>PEEL</code>, <code>PEELL</code>, <code>PPEEEEL</code>, <code>PPEEEELL</code>, <code>PPEEEL</code>, <code>PPEEELL</code>, <code>PPEEL</code>, and <code>PPEELL</code>.</p>\n<p>In Sample Case #2, every string that can be obtained contains only <code>A</code>s. The shortest of those is alphabetically first, because it is a prefix of all others.</p>\n<p>In Sample Case #3, there are $1024$ possible strings which can be generated from <code>CODEJAMDAY</code> out of which <code>CCODDEEJAAMDAAY</code> is the lexicographically smallest one.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Round 1A",
   "level": 10,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 1.5377999544143677

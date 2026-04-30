@@ -15,12 +15,7 @@
   "hint": "<p>The situation looks like this:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:362px; width:284px\"/></p>",
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2017",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "convex_hull",
-    "deque"
-  ],
+  "tags": ["data_structures", "geometry", "convex_hull", "deque"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4

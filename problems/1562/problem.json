@@ -15,11 +15,7 @@
   "hint": "<p>참고로, N=1일때부터, N=40일 때 까지 답을 모두 더하면 126461847755이 나온다.</p>",
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 7433,
   "submission_count": null,
   "average_tries": 1.8513000011444092

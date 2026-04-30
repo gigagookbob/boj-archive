@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, MIT, The MIT Programming Contest, 2008-09, MIT Programming Contest Team Contest 1 2008, baekjoon, jh05013, qawbecrdtey",
   "level": 16,
-  "tags": [
-    "dp",
-    "string",
-    "bitset"
-  ],
+  "tags": ["dp", "string", "bitset"],
   "accepted_user_count": 187,
   "submission_count": null,
   "average_tries": 6.44920015335083

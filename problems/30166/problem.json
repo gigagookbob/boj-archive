@@ -15,13 +15,7 @@
   "hint": "<p>In the first test case, $f(0) = 0$, $f(1) = f(2) \\approx 0.866$, $f(3) = 0$.</p>\n<p>In the second test case, $f(55) \\approx 0.999969$, which is the largest among all possible values.</p>",
   "source": "Contest, Codeforces, Codeforces Round 566 (Div. 2), spongbob9876",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "euclidean",
-    "math",
-    "mitm",
-    "number_theory"
-  ],
+  "tags": ["binary_search", "euclidean", "math", "mitm", "number_theory"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4

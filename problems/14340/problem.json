@@ -15,12 +15,7 @@
   "hint": "<p>In sample case #3, there are four rooms and we are looking for probability that the first room is occupied. When the first family arrives, there are 3 possible situations, each with probability 1/3: occupy rooms 1+2, 2+3 or 3+4. In the first situation, the first room is already occupied and will stay occupied. In the second situation, the first room is free and no more families can be accommodated, so it will stay free. Finally, in the third situation, the next arriving family will definitely get rooms 1+2, and thus the first room will be occupied. The probability that the first room is occupied is thus 2/3, and the answer is 666666672, since <code>(666666672 * 3) mod 1000000007 = 2 mod 1000000007</code>.</p>\n<p>The probability for sample case #1 is 1/2, and for sample cases #2 and #4 it is 1.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, World Finals",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["combinatorics", "dp", "math", "prefix_sum"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.368399977684021

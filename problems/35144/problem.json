@@ -19,10 +19,7 @@
   "hint": "<p>이 문제의 제목은 <a href=\"/user/foxpython\">foxpython</a>의 아이디어가 맞지만, 놀랍게도 이 문제의 출제자는 아니다.</p>\r\n",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), 예비소집, austin0817, foxpython, cywohoy, devluyten, ezh8n, foxpython, kidw0124, mathjuny, sksms1375, sshs29hanul, tlsdydaud1, utilforever, w8385, wnguscjf01",
   "level": 9,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.438599944114685

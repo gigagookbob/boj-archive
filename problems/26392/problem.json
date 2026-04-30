@@ -23,10 +23,7 @@
   "hint": "<p>Note: For clarity’s sake, in the examples there are blank lines between matrices. In the test cases there will not be blank lines between matrices.</p>\n<p>Clarification of the first example: The values of the first and the second NFP do not change over the days, so their insecurities are equal to 0. The value of the third NFP decreases by 1 on the second day, so the insecurity is equal to 1. The value of the fourth NFP increases by 1 on the second day, so the insecurity is equal to 1.</p>\n<p>Clarification of the second example: The maximum value NFP has is 5 (on days 6 and 8), and the minimum value is 1 (on day 1). Therefore, the insecurity is equal to 5 − 1 = 4.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #1",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 231,
   "submission_count": null,
   "average_tries": 1.1818000078201294

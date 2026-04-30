@@ -31,9 +31,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2024 서울대학교 프로그래밍 경시대회, Division 2, hidercpp, ai4youej, eunlin, imtore, juneharold, kipa00, lemonoyaa, lky7674, octane, TAMREF, whqkrkt04",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.2683000564575195

@@ -15,11 +15,7 @@
   "hint": "<p>\n<img alt=\"\" src=\"1.jpg\" style=\"width: 720px; height: 319px; \"/></p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2002, 고등부, yclock",
   "level": 21,
-  "tags": [
-    "geometry",
-    "heuristics",
-    "min_enclosing_circle"
-  ],
+  "tags": ["geometry", "heuristics", "min_enclosing_circle"],
   "accepted_user_count": 527,
   "submission_count": null,
   "average_tries": 4.195400238037109

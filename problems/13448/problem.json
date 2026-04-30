@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack"],
   "accepted_user_count": 421,
   "submission_count": null,
   "average_tries": 2.546299934387207

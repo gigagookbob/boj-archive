@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2011",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["math", "dp", "game_theory", "sprague_grundy"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.0999999046325684

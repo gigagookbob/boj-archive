@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 93px; height: 95px;\"/></p>\n<p style=\"text-align: center;\">Explanation for the first test</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 159px; height: 95px;\"/></p>\n<p style=\"text-align: center;\">Explanation for the second test</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2017",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "case_work", "constructive", "implementation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 5.3333001136779785

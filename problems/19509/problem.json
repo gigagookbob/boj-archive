@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 8: DPRK Contest",
   "level": 27,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "prefix_sum"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "prefix_sum"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 5.142899990081787

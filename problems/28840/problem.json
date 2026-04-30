@@ -19,11 +19,7 @@
   "hint": "<p>Второй тест из условия не подходит под ограничения первой подзадачи. Чтобы получить баллы за эту подзадачу, проходить второй тест из условия не обязательно.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, March 2, 2019",
   "level": 3,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "string", "arithmetic"],
   "accepted_user_count": 191,
   "submission_count": null,
   "average_tries": 1.3036999702453613

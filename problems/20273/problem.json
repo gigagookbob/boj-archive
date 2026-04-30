@@ -15,10 +15,7 @@
   "hint": "<p>Image rights</p>\n<ul>\n<li>Stake image:<a href=\"https://pixabay.com/vectors/croquet-stake-wood-game-148670/\">https://pixabay.com/vectors/croquet-stake-wood-game-148670/</a>, public domain</li>\n<li>Goat image: <a href=\"https://pixabay.com/vectors/goat-drawing-animal-1456762/\">https://pixabay.com/vectors/goat-drawing-animal-1456762/</a>, public domain</li>\n</ul>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, Télécom ParisTech Internal Selection, Concours interne de programmation Télécom ParisTech 2019",
   "level": 8,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.2894999980926514

@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Online Qualification",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.476199984550476

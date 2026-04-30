@@ -15,13 +15,7 @@
   "hint": "<p>The line has 7 cows with 3 features; the table below summarizes the correspondence:</p>\n<pre>\n             Feature 3:   1   1   1   0   0   1   0\n             Feature 2:   1   1   1   1   0   0   1\n             Feature 1:   1   0   1   0   1   0   0\n             Key:         7   6   7   2   1   4   2\n             Cow #:       1   2   3   4   5   6   7</pre>\n<p>In the range from cow #3 to cow #6 (of size 4), each feature appears in exactly 2 cows in this range:</p>\n<pre>\n             Feature 3:     1   0   0   1  -&gt; two total\n             Feature 2:     1   1   0   0  -&gt; two total\n             Feature 1:     1   0   1   0  -&gt; two total\n             Key:           7   2   1   4\n             Cow #:         3   4   5   6</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO March 2007 Contest, Gold",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "hash_set", "tree_set"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 2.3150999546051025

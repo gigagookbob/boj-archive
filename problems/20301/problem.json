@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Open, sbrus_1213, gumgood, jhnah917, pichulia, QuqqU, rhs0266, shiftpsh, sogangcse, woonikim",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 1787,
   "submission_count": null,
   "average_tries": 2.1185998916625977

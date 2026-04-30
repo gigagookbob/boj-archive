@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2023",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["math", "data_structures", "segtree"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

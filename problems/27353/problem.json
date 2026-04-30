@@ -10,13 +10,7 @@
   "hint": null,
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2021",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "trees", "dfs"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.5332999229431152

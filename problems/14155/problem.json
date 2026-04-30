@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2007",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "offline_queries",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "offline_queries", "segtree", "sweeping"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

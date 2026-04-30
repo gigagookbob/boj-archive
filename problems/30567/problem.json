@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2023",
   "level": 17,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "parsing",
-    "shortest_path",
-    "string"
-  ],
+  "tags": ["dijkstra", "graphs", "parsing", "shortest_path", "string"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.6666998863220215

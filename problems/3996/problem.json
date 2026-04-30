@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제에서 상근이는 0, 1, 2, 9, 10, 11, 18, 19, 20을 외웠다.</p>\r\n\r\n<p>19는 3진법과 -3진법에서 19 = 201<sub>3</sub> = 201<sub>-3</sub> 으로 표현이 같다. 하지만, 7은 7 = 21<sub>3</sub> = 111<sub>-3</sub> 으로 같지 않다.</p>\r\n\r\n<p>두 번째 예제의 경우에는 0, 1, 4, 5, 16, 17, 20, 21을 외우면 된다.</p>\r\n",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2012, baekjoon, ZZangZZang",
   "level": 13,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 3.1171998977661133

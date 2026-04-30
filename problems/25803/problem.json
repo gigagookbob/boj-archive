@@ -23,9 +23,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Final Round)",
   "level": 8,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.0293999910354614

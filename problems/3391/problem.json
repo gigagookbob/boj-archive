@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2001",
   "level": 19,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 4.769199848175049

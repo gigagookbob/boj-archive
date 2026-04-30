@@ -19,9 +19,7 @@
   "hint": "<p>예제는 문제의 정답이 아니다.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2008, baekjoon",
   "level": 12,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 725,
   "submission_count": null,
   "average_tries": 1.8579000234603882

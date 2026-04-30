@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing", "simulation"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 4.400000095367432

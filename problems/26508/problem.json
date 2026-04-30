@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2016, Novice, School, PLU High School Programming Contest, PLU 2016, Advanced",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.1851999759674072

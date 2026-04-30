@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2022, Group E",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.6666998863220215

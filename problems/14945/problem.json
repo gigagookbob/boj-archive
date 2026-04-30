@@ -23,9 +23,7 @@
   "hint": "<p>랩실의 크기가 3일 경우 (기웅, 민수)가 이동 가능한 방법은 (아래-아래, 대각-아래), (아래-아래, 대각-대각), (아래-대각, 대각-대각), (대각-아래, 아래-아래), (대각-대각, 아래-아래), (대각-대각, 아래-대각) 이 있다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2017 Sogang Programming Contest, Champion, qdqd, kyaryunha",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 332,
   "submission_count": null,
   "average_tries": 1.8163000345230103

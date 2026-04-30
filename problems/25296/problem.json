@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, the total number of players chosen as geese must be $2$. There are only three possible ways to select $2$ players. The following color configurations are possible: $[1, 1]$, $[1, 2]$, and $[2, 1]$. The first one has two players wearing hats of color $1$, so it is not valid, but the other two are valid. Therefore the answer is $2$.</p>\n<p>Sample Case #2 is the one illustrated in the statement, with color $1$ being yellow and color $2$ being blue. The total number of players chosen as geese in this case must be between $2$ and $3$, because selecting $4$ geese would require at least one color to be out of bounds. For cases with $2$ geese, the only requirement is that we do not select $2$ geese both wearing hats of color $1$; all $5$ such selections are valid. If choosing $3$ geese, the options are $[1, 2, 1]$, $[2, 1, 2]$, $[1, 2, 2]$, $[2, 2, 1]$, or $[2, 1, 2]$. All but the first one are valid, adding another $4$ valid options, for a total of $9$.</p>\n<p>In Sample Case #3, notice that there can be hat colors that nobody is wearing. In this case, since there is only $1$ player wearing hat color $3$ and $1$ is not in range, the only valid way is to pick $0$ players wearing that hat color.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Round 3",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "math",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "math", "segtree"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.7894999980926514

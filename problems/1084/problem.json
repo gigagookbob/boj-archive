@@ -43,10 +43,7 @@
   "hint": null,
   "source": "baekjoon, jiminp, mjhmjh1104",
   "level": 18,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 5.4222002029418945

@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере можно проинтерпретировать строку тремя способами:</p>\n<ul>\n<li>&lt;&lt;Страница 2 из 3507645&gt;&gt;</li>\n<li>&lt;&lt;Страница 23 из 507645&gt;&gt;</li>\n<li>&lt;&lt;Страница 2350 из 7645&gt;&gt;</li>\n</ul>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2011",
   "level": 6,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 4.622600078582764

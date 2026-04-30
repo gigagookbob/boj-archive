@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2021",
   "level": 18,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "bfs"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.2000000476837158

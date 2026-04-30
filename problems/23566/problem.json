@@ -19,13 +19,7 @@
   "hint": "<p>The first sample corresponds to Figure A.1.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2021",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "offline_queries",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "offline_queries", "hld"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 4.173099994659424

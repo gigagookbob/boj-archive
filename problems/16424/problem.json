@@ -35,12 +35,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2018 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Pacific Northwest Regional, 2018 Pacific Northwest Region Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2018 Pacific Northwest Region Programming Contest, Division 2",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.4752000570297241

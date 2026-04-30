@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2019",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "segtree",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "segtree", "set"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.1666998863220215

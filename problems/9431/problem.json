@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2013 South Central USA Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.8461999893188477

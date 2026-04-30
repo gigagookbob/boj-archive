@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>(1 , 1) : 3 + 3 = 6</li>\n<li>(1 , 2) : 3 + 9 = 12</li>\n<li>(1 , 3) : 3 + 6 = 9</li>\n<li>(1 , 4) : 3 + 6 = 9</li>\n<li>(2 , 2) : 9 + 9 = 18</li>\n<li>(2 , 3) : 9 + 6 = 15</li>\n<li>(2 , 4) : 9 + 6 = 15</li>\n<li>(3 , 3) : 6 + 6 = 12</li>\n<li>(3 , 4) : 6 + 6 = 12</li>\n<li>(4 , 4) : 6 + 6 = 12</li>\n<li>6 ^ 12 ^ 9 ^ 9 ^ 18 ^ 15 ^ 15 ^ 12 ^ 12 ^ 12 = 20</li>\n</ul>",
   "source": "Contest, infO(1) Cup, infO(1) Cup 2017 International Round",
   "level": 21,
-  "tags": [
-    "sorting",
-    "bitmask",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "bitmask", "two_pointer"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 5.096799850463867

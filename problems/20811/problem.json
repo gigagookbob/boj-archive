@@ -23,11 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 512px; height: 100px;\"/></p>\n<p style=\"text-align: center;\">FIGUR 1. Figuren visar situationen i det första exemplet när den sista (tolfte) deltagaren försvunnit på ö nummer 5.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2020, Qualification",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 1.0666999816894531

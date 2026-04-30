@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2013 ACM-ICPC Asia Phuket Regional Programming Contest 연습 세션, baekjoon, tncks0121, mythofys, topology, alkyne",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 14042,
   "submission_count": null,
   "average_tries": 2.3060998916625977

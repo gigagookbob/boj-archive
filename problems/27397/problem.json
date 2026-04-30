@@ -15,12 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, hjroh0315, kiwiyou, utilforever, wizardrabbit",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.4035000801086426

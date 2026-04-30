@@ -15,10 +15,7 @@
   "hint": "<p>There are seven cows and they are facing backward, backward, forward, backward, forward, backward, and backward, respectively.</p>\n<p>For K = 3, the machine must be operated three times: turn cows (1,2,3), (3,4,5), and finally (5,6,7):</p>\n<pre>\n     B &gt; F   F   F\n     B &gt; F   F   F\n     F &gt; B &gt; F   F\n     B   B &gt; F   F\n     F   F &gt; B &gt; F\n     B   B   B &gt; F\n     B   B   B &gt; F</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO March 2007 Contest, Gold",
   "level": 15,
-  "tags": [
-    "sliding_window",
-    "difference_array"
-  ],
+  "tags": ["sliding_window", "difference_array"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.9881999492645264

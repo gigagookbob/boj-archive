@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2015 Division 1, Contest, Calgary Collegiate Programming Contest, CCPC 2015 Division 2",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "sorting", "hash_set", "tree_set"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.9696999788284302

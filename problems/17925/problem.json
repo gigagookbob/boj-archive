@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, Nova Challenge 2018",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "string",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "sorting", "set", "hash_set"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.19569993019104

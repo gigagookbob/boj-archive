@@ -23,13 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​third​ ​test​ ​case:</p>\n<p>The following image depicts the Tetris matrix when Ivica came back to his computer.</p>\n<p><img alt=\"\" src=\"6.png\" style=\"height:186px; width:256px\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #1",
   "level": 10,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "case_work",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "case_work", "dfs"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.2613999843597412

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, dpsqlsdh, ploffer11",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "merge_sort_tree"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "merge_sort_tree"],
   "accepted_user_count": 2629,
   "submission_count": null,
   "average_tries": 2.055500030517578

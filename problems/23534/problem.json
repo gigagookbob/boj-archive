@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample the resulting list of strings may be: \"<code>j</code>\", \"<code>o</code>\", \"<code>jj</code>\", \"<code>jo</code>\", \"<code>oo</code>\", \"<code>jjo</code>\", \"<code>joo</code>\", \"<code>jojo</code>\".</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 20: Grand Prix of Ural",
   "level": 9,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.049999952316284

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, December 11, 2010",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "hld"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.5

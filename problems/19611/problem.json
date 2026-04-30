@@ -15,10 +15,7 @@
   "hint": "<p>There are three friends with the following triangular wedges of vision, along with the possible positions that Grundy can be placed, as shown in the diagram below:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 607px; height: 465px;\"/></p>\n<p>Notice the points (2, 3) and (4, 3) are visible only by the friend at position 0, since they lie on the boundary of the triangular wedge of vision for the friend at position 3.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2020, CCO 2020",
   "level": 15,
-  "tags": [
-    "math",
-    "sorting"
-  ],
+  "tags": ["math", "sorting"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.6799999475479126

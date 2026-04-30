@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제2회 피갤컵, plast, dong5995, herdson, kwoncycle, leo020630, lunarlity, pyb1031, realpsdoingdamyoo",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "parity"],
   "accepted_user_count": 355,
   "submission_count": null,
   "average_tries": 3.1070001125335693

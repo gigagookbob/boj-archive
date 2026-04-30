@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2023 Mid-Central USA Programming Contest, xiaowuc1",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "set", "hash_set"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.1110999584197998

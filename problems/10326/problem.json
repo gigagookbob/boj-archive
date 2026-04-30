@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2014",
   "level": 19,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "greedy",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "greedy", "shortest_path"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

@@ -15,12 +15,7 @@
   "hint": "<p>Bessie should attend the first showing of the fourth movie from time 0 to time 20.  Then she watches the first showing of the first movie from time 20 to time 65.  Finally she watches the last showing of the second movie from time 65 to time 100. </p>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO January 2015 Contest, Gold, orihehe",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["binary_search", "bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.8783999681472778

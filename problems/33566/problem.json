@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제2회 유틸컵, starbow, dkim110807, playsworld16, utilforever, yijw0930",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 11.04170036315918

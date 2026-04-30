@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2013",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "graphs",
-    "mst",
-    "offline_queries"
-  ],
+  "tags": ["bruteforcing", "graphs", "mst", "offline_queries"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.5555999279022217

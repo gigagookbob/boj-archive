@@ -15,10 +15,7 @@
   "hint": "<p>The output in the example does not multiply integers, so submitting this program will give you the \"<code>Wrong Answer</code>\" verdict. The program is only provided to illustrate the output format.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 8: Belarusian SU Contest, Yandex Cup, Grand Prix of Belarud, Contest, Open Cup, 2020/2021 Season, Stage 12: Grand Prix of Belarus",
   "level": 28,
-  "tags": [
-    "ad_hoc",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "implementation"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.2726999521255493

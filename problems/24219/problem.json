@@ -15,11 +15,7 @@
   "hint": "<p>A good program can recover keys in less than 10 seconds for any allowed input file.</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2001, Day 2",
   "level": 0,
-  "tags": [
-    "bruteforcing",
-    "string",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "string", "implementation"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 4.508200168609619

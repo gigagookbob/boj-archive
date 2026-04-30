@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:173px; width:203px\"/></p>\n<p>The figure illustrates the hierarchy of employees. The encircled numbers are employee id's, whereas the numbers in italics given next to them (if any) are their disclosed salaries. The employee 3 has to earn 1 bythaler, and employee 6 has to earn 8 bythalers. The salaries of employees 7, 8, 9 and 10 cannot be uniquely determined from disclosed salaries.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2011/2012, Stage 3",
   "level": 21,
-  "tags": [
-    "greedy",
-    "trees"
-  ],
+  "tags": ["greedy", "trees"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 7.599999904632568

@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 15,
-  "tags": [
-    "dp",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["dp", "sorting", "sweeping"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.1875

@@ -31,12 +31,7 @@
   "hint": "<p>Note that some of the samples are not valid input for all test groups.</p>\n<p>In the first sample, if Lieke picks tulip $0$, she cannot pick the two tulips on the right. Picking tulip $1$ does not prohibit her from picking tulip $2$, but tulip $2$ prohibits her from picking tulip $1$, thus she cannot pick both of them. So, the maximum number of flowers Lieke can pick is $1$.</p>\n<p>In the second sample, the maximum possible number of tulips Lieke can pick is $3$ and the way it can be obtained is shown in the picture. Other ways of picking tulips result in a smaller answer.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 512px; height: 147px;\"/></p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2024, Day 1",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "priority_queue"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "priority_queue"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.1538000106811523

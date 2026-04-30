@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, Green55, hello70825, TAMREF",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 1509,
   "submission_count": null,
   "average_tries": 3.8269999027252197

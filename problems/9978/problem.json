@@ -15,10 +15,7 @@
   "hint": "<ol>\n<li>All buses continuously go on their routes, starting back up with their first route after their last route is done.</li>\n<li>If the passenger’s arrival time coincides with any of the bus’ route departure times, he/she catches the bus at that time.</li>\n</ol>",
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2002 South Central USA Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 22,
-  "tags": [
-    "2_sat",
-    "graphs",
-    "scc"
-  ],
+  "tags": ["2_sat", "graphs", "scc"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 5.692299842834473

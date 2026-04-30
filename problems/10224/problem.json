@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's High 2014, tae",
   "level": 22,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["bruteforcing", "geometry", "line_intersection"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 11.5

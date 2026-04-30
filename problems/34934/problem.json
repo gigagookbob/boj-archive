@@ -23,9 +23,7 @@
   "hint": "<p>2026학년도 입학 기준, 서울사이버대학교 학부 학과/전공은 공과대학 7개 학과(빅데이터·정보보호학과, 인공지능학과, 응용수학·통계학과, 컴퓨터공학과, 전기전자공학과, 기계제어공학과, 드론·로봇공학과)를 포함하여 49개이고, 일반대학원 학과는 AI융합기술학과를 포함하여 5개이다. 즉, 총 54개 학과로 구성되어 있다.</p>",
   "source": "University, 서울사이버대학교, 2025 서울사이버대학교 프로그래밍 경진대회 (SCUPC), jychun, oldos, cgiosy, junseo, kyo20111, sean9892",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 734,
   "submission_count": null,
   "average_tries": 1.1035000085830688

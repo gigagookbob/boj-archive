@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 플로우컵, 제1회 플로우컵, eric00513, luniro, kipa00, leejseo, rhs0266",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 1941,
   "submission_count": null,
   "average_tries": 1.2405999898910522

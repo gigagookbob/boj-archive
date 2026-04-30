@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2025-2026 Northwestern Russia Regional Contest",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "divide_and_conquer",
-    "sqrt_decomposition",
-    "lis"
-  ],
+  "tags": ["ad_hoc", "divide_and_conquer", "sqrt_decomposition", "lis"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.7142999172210693

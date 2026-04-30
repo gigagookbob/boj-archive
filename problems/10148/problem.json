@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2014",
   "level": 15,
-  "tags": [
-    "sorting",
-    "prefix_sum",
-    "parity"
-  ],
+  "tags": ["sorting", "prefix_sum", "parity"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

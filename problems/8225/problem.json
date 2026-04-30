@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:85px; width:212px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2011/2012, Stage 2",
   "level": 18,
-  "tags": [
-    "constructive",
-    "data_structures",
-    "disjoint_set",
-    "graphs"
-  ],
+  "tags": ["constructive", "data_structures", "disjoint_set", "graphs"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.7072999477386475

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 중급, lky7674, djs100201, gumgood, gunwookim, kyo20111, pichulia",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "divide_and_conquer"
-  ],
+  "tags": ["ad_hoc", "divide_and_conquer"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 5.424200057983398

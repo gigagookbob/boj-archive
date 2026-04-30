@@ -31,11 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2014 in Tokyo",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.3863999843597412

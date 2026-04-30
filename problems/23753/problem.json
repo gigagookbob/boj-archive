@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Champion, University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Open, ho94949, shiftpsh, jh05013",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "implementation",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "implementation", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 5.888899803161621

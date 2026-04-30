@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2023 Rocky Mountain Regional Contest",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 251,
   "submission_count": null,
   "average_tries": 1.4622000455856323

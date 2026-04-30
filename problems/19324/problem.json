@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 8: Saratov SU Contest, Contest, Open Cup, 2017/2018 Season, Stage 13: Grand Prix of Saratov",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "two_pointer"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.6562999486923218

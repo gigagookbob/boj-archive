@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2018: Family",
   "level": 10,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.892899990081787

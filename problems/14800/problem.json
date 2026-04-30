@@ -15,11 +15,7 @@
   "hint": "<p>Note that the last sample case would not appear in the Small dataset.</p>\n<p> </p>\n<p>Sample cases #1 and #2 are the ones described in the problem statement.</p>\n<p> </p>\n<p>In sample case #3, you can form a kit out of the 450 g package of the first ingredient and the 1100 g package of the second ingredient, and say that the kit makes 10 servings of ratatouille. That number of servings requires 500 g of the first ingredient; you have 450 g, which is 90% of 500 and within the allowed limit. It requires 1000 g of the second ingredient; you have 1100 g, which is 110% of 1000 and within the allowed limit.</p>\n<p>Once you form this kit, however, you cannot form the remaining packages into a kit. 449 g of the first ingredient and 1101 g of the second ingredient would not be able to form 10 (or any other number of) servings. In fact, the (450 g, 1100 g) kit is the only kit that can be formed from these packages.</p>\n<p>In sample case #4, no kits can be formed. Note that the recipe requires particular amounts of particular ingredients <em>in the given order</em>; the ingredients are not interchangeable. This is fine French cuisine, after all!</p>\n<p>In sample case #5, the recipe has only one ingredient — how elegantly simple! A single serving cannot use more than 11 g, and two servings cannot use fewer than 18 g. It is possible to form three kits: two with an 11 g package, and one with an 18 g package.</p>\n<p>In sample case #6, you can form three valid kits: (700 g, 800 g, 900 g), which makes 10 servings, and (1500 g, 1600 g, 1700 g) and (1260 g, 1440 g, 1620 g), each of which makes 20 servings. Note that you could also say that the (1260 g, 1440 g, 1620 g) kit makes 17, 18, or 19 servings, but it does not matter how many servings a kit makes as long as the kit is valid.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 1A",
   "level": 17,
-  "tags": [
-    "greedy",
-    "math",
-    "sorting"
-  ],
+  "tags": ["greedy", "math", "sorting"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.5434999465942383

@@ -15,12 +15,7 @@
   "hint": "<p>만약 명우가 처음에 510카드를 고르면 홍준이는 다음에 어떤 수를 골라도 종이에 적는 수가 511이기 때문에 게임에 지게 된다.</p>",
   "source": "myungwoo, jh05013",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp",
-    "game_theory",
-    "knapsack"
-  ],
+  "tags": ["bitmask", "dp", "game_theory", "knapsack"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.9230999946594238

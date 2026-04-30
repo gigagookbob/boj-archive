@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2013 Day 4",
   "level": 20,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "trees",
-    "dp_tree",
-    "game_theory"
-  ],
+  "tags": ["dp", "bruteforcing", "trees", "dp_tree", "game_theory"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

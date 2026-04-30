@@ -19,11 +19,7 @@
   "hint": "<p>In the second example let $i_k, s_k, n_k, o_k$ represent the cities of $k$-th country on the inner, southern, nothern and outer roads, accordingly. One of the minimal paths looks like: $i_1 \\rightarrow s_1 \\rightarrow s_2 \\rightarrow i_2 \\rightarrow i_3 \\rightarrow n_3 \\rightarrow i_3 \\rightarrow i_4 \\rightarrow s_4 $. Covered distance equals to $\\frac{5}{4}$ of country length, two segments of inner road and one of southern. So the answer is $\\frac{5}{4} \\cdot 2 \\pi \\cdot 1 + 2 \\cdot \\frac{2 \\pi \\cdot 2}{4} + \\frac{2 \\pi \\cdot 3}{4} = 6 \\pi \\approx 18.849555922$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2018",
   "level": 11,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "geometry_3d"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.8261001110076904

@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2012/2013, baekjoon",
   "level": 20,
-  "tags": [
-    "greedy",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "binary_search", "parametric_search"],
   "accepted_user_count": 302,
   "submission_count": null,
   "average_tries": 2.3708999156951904

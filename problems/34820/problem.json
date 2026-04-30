@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 서울대학교, 2025 SCSC 알고리즘 대난투, sjh1224, leo020630, ohwphil, sjhi00, sorohue, tony9402, toycartoon, yijw0930",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dag",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "dag", "grid_graph"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.5713999271392822

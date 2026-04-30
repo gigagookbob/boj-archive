@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2017 송년대회, kdh9949",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "set",
-    "two_pointer"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "set", "two_pointer"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 3.4035000801086426

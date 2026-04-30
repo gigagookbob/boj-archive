@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Champion, University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Open, yjyj1027, dbfldkfdbgml, gumgood, jhnah917, pichulia, raararaara, rhs0266, shiftpsh, woonikim",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "bitmask",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "trees", "bitmask", "lca", "sparse_table"],
   "accepted_user_count": 184,
   "submission_count": null,
   "average_tries": 3.2988998889923096

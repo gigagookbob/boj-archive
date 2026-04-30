@@ -19,14 +19,7 @@
   "hint": null,
   "source": "University, Centroid 연합, 2025 Centroid Cup, pani, chan120714, chlwnsgud7, gggkik, hjkim9911, jh01533, mujigae, plan_pt, sendol, sjhi00, swoon, tony9402, utilforever, wapas, yup0927",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "knapsack", "traceback"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.6410000324249268

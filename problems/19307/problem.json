@@ -19,11 +19,7 @@
   "hint": "<p>In the first example test case, seats $(1, 2)$, $(2, 0)$ and $(1, 1)$ are occupied. There are 10 options to buy tickets in row 0, 2 options in row 1 and 6 options in row 2. The sum is $10 + 2 + 6 = 18$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 6: Gennady Korotkevich Contest 3, Grand Prix of Gomel, Contest, Open Cup, 2017/2018 Season, Stage 12: Grand Prix of Gomel",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "trees"
-  ],
+  "tags": ["data_structures", "implementation", "trees"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.625

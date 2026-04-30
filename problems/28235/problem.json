@@ -19,9 +19,7 @@
   "hint": "<ul>\n<li>문자열의 대소문자를 구분하여야 함에 유의하라.</li>\n</ul>",
   "source": "School, 송도고등학교, 송도고 코드마스터 2023, dohoon, songdo_computer, cherub8128, leo020630, mjhmjh1104, parkky, pjshwa, tlsdydaud1",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 5601,
   "submission_count": null,
   "average_tries": 1.2670999765396118

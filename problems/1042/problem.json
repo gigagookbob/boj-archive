@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, kks227, tjdwo5313, cki86201, jseo, jh05013",
   "level": 20,
-  "tags": [
-    "dp",
-    "string",
-    "set"
-  ],
+  "tags": ["dp", "string", "set"],
   "accepted_user_count": 216,
   "submission_count": null,
   "average_tries": 2.5185000896453857

@@ -31,12 +31,7 @@
   "hint": "<p>⌊x⌋는 x를 넘지 않는 가장 큰 정수이다.</p>",
   "source": "baekjoon, jh05013",
   "level": 11,
-  "tags": [
-    "dp",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["dp", "data_structures", "set", "hash_set"],
   "accepted_user_count": 5580,
   "submission_count": null,
   "average_tries": 2.6256000995635986

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 February Contest, Silver",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 2.5764000415802

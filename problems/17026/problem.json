@@ -15,10 +15,7 @@
   "hint": "<p>In this example, Bessie can see the first and last mountain. The second mountain is obscured by the first.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 January Contest, Silver",
   "level": 13,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 311,
   "submission_count": null,
   "average_tries": 2.5113000869750977

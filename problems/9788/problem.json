@@ -15,9 +15,7 @@
   "hint": "<p>The answer for the second test case is 6; Split L into {8} and {1,5,4,7}, we have ans = (8-8) + (7-1) = 0 + 6 = 6.</p>\n<p>The answer for the third test case is 3; Split L into {8}, {1}, and {5,4,7}, we have ans = (8-8) + (1-1) + (7-4) = 0 + 0 + 3 = 3.</p>\n<p>The answer for the fourth test case is 1; Split L into {8}, {1}, {5,4}, and {7}, we have ans = (8-8) + (1-1) + (5-4) + (7-7) = 0 + 0 + 1 + 0 = 1.</p>\n<p>The answer of the first and the fifth test cases should be obvious.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Southern Programming Contest, Thailand Southern Programming Contest 2012",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

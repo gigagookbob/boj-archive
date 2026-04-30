@@ -15,10 +15,7 @@
   "hint": "<p>There will be 9 different DNA to appear during the experiment in the first sample test: $00100111$, $0010$, $0111$, $00$, $10$, $01$, $11$, $0$ and $1$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2020",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.125

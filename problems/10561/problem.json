@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2014 Pacific Northwest Region Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2014 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2014 Southeast USA Regional Programming Contest, Division 2, kks227",
   "level": 17,
-  "tags": [
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "dp_digit"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.4687999486923218

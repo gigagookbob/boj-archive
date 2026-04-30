@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2013: Snowstorm Spring 2013",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.4615000486373901

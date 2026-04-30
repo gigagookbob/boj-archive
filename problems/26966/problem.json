@@ -15,12 +15,7 @@
   "hint": "<p>After the first removal, the shortest $4$-path is:</p>\n<pre>\n1 -&gt; 2 -&gt; 3 -&gt; 2 -&gt; 3\n</pre>\n<p>After the second removal, the shortest $4$-path is:</p>\n<pre>\n1 -&gt; 3 -&gt; 2 -&gt; 1 -&gt; 3\n</pre>\n<p>After the third removal, the shortest $4$-path is:</p>\n<pre>\n1 -&gt; 3 -&gt; 3 -&gt; 3 -&gt; 3\n</pre>\n<p>After six removals, there is no longer a $4$-path.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2022 December Contest, Platinum",
   "level": 22,
-  "tags": [
-    "dp",
-    "graphs",
-    "case_work",
-    "shortest_path"
-  ],
+  "tags": ["dp", "graphs", "case_work", "shortest_path"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.5713999271392822

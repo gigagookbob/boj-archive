@@ -27,9 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2015/2016, KimJJ, khj94811",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 508,
   "submission_count": null,
   "average_tries": 2.214600086212158

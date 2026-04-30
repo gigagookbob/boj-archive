@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2010, Day 2",
   "level": 18,
-  "tags": [
-    "math",
-    "sorting",
-    "combinatorics",
-    "two_pointer"
-  ],
+  "tags": ["math", "sorting", "combinatorics", "two_pointer"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.2400000095367432

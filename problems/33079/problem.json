@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2024, mingyu331, 79brue, azberjibiou, ibm2006, math_rabbit_1028",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "precomputation"
-  ],
+  "tags": ["ad_hoc", "precomputation"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 8.800000190734863

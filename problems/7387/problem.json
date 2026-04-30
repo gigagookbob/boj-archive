@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2004",
   "level": 7,
-  "tags": [
-    "sorting",
-    "case_work"
-  ],
+  "tags": ["sorting", "case_work"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.0322999954223633

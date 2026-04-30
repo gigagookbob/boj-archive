@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2018, Advanced",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.0255999565124512

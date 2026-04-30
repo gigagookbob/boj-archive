@@ -15,12 +15,7 @@
   "hint": "<p>Sample cases #1 and #2 are the ones described in the problem statement.</p>\n<p>In sample case #3, nobody knows how to do anything! One optimal strategy is to teach worker A to operate machine 1, worker B to operate machine 2, and worker C to operate machine 3.</p>\n<p>In sample case #4, no action is necessary. There is only one worker, and the worker already knows how to operate the one machine.</p>\n<p>In sample case #5, worker B already knows how to operate machines 1 and 2. One optimal strategy is to teach worker A to operate machine 3, and make A the only worker who can operate that machine. But now we have to consider that B might operate either machine 1 or 2 upon arrival, so C needs to be able to operate the one not chosen by B. So C must be taught to operate both 1 and 2.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 2",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "backtracking",
-    "bitmask",
-    "bruteforcing"
-  ],
+  "tags": ["ad_hoc", "backtracking", "bitmask", "bruteforcing"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.7647000551223755

@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first test case: It’s not necessary to add lights to the street, since all N meters are already lit up.</p>\n<p>Clarification of the third test case: It is necessary to add one lamp, for example at location 13.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #4",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["math", "implementation", "greedy"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.7647000551223755

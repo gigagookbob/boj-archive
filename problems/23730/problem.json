@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, UNIST, 3rd UNIST Algorithm Programming Contest Uni-CODE 2021, queued_q, wbjeon2k, chunghan, cs71107, jh05013, koosaga, leejseo",
   "level": 6,
-  "tags": [
-    "implementation",
-    "constructive"
-  ],
+  "tags": ["implementation", "constructive"],
   "accepted_user_count": 161,
   "submission_count": null,
   "average_tries": 2.6398000717163086

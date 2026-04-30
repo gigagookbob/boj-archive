@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 January Contest, Platinum",
   "level": 19,
-  "tags": [
-    "dp",
-    "randomization",
-    "heuristics",
-    "lis",
-    "simulated_annealing"
-  ],
+  "tags": ["dp", "randomization", "heuristics", "lis", "simulated_annealing"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 6.754700183868408

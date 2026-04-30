@@ -31,13 +31,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "implementation",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "implementation", "tree_set", "set"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.0369999408721924

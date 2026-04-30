@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 17 September, 2005",
   "level": 14,
-  "tags": [
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "line_intersection"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

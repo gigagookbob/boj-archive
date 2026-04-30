@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2024, kimyh9797, aeren, dabbler1, gs22123, iccodly, leedongbin, penguin1234, sk14cj",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "two_pointer"],
   "accepted_user_count": 179,
   "submission_count": null,
   "average_tries": 2.547499895095825

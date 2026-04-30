@@ -19,12 +19,7 @@
   "hint": "<p>예제 2 설명 : 3번 정점에 불을 붙여야 그래프가 가장 빨리 모두 태워진다.</p>",
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016, functionx, paraworld",
   "level": 16,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "bruteforcing", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 1303,
   "submission_count": null,
   "average_tries": 1.9378000497817993

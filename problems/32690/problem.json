@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, DGIST, 2024 DGIST 알고리즘 경진대회, bnb2011, 99asdfg, jinhan814, jyheo98, leo020630, sjhi00, tlsdydaud1, yyyy7089",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3.549999952316284

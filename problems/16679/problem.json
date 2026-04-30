@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Beginner Div., University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Advanced Div., University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Intermediate Div., evenharder, isku",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 3.778599977493286

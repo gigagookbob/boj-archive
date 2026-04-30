@@ -19,13 +19,7 @@
   "hint": null,
   "source": "pjshwa, swoon, bnb2011, chansol, heeda0528, jthis, jyheo98, tony9402",
   "level": 19,
-  "tags": [
-    "math",
-    "trees",
-    "combinatorics",
-    "case_work",
-    "lca"
-  ],
+  "tags": ["math", "trees", "combinatorics", "case_work", "lca"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.25

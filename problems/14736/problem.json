@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2017 KAIST 7th ACM-ICPC Mock Competition, topology",
   "level": 6,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 304,
   "submission_count": null,
   "average_tries": 1.736799955368042

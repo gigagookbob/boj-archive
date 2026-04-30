@@ -23,13 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​first​ ​test​ ​case: The interval from the 2 nd to the 5 th position consists of numbers (4, 3, 9, 1). In it, the following are interesting contiguous subarrays (denoted with square brackets): [4]​ 3 9 1, 4 [3]​ ​9 1, 4 3 [9]​ 1, 4 [3​ ​9]​ 1</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #2",
   "level": 23,
-  "tags": [
-    "math",
-    "data_structures",
-    "ad_hoc",
-    "number_theory",
-    "segtree"
-  ],
+  "tags": ["math", "data_structures", "ad_hoc", "number_theory", "segtree"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.266700029373169

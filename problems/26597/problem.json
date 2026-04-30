@@ -23,9 +23,7 @@
   "hint": "<ol>\n<li>구간 $\\left[-10^{18}, 10^{18}\\right]$에 있는 단 하나의 정수만 모든 질의응답에 대해 참이라면 준성이의 최애 숫자가 무엇인지 정확히 알아낼 수 있다고 한다.</li>\n<li>구간 $\\left[-10^{18}, 10^{18}\\right]$에 있는 모든 정수가 모든 질의응답에 대해 거짓이라면 질의응답에 모순된 내용이 있다고 한다.</li>\n</ol>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2022, rasauq1122, amsminn, bsyun0571, eaststar, hellogaon, mksmk606, rhdqor213, tony9402",
   "level": 9,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 286,
   "submission_count": null,
   "average_tries": 4.451000213623047

@@ -19,13 +19,7 @@
   "hint": "<ul>\n<li>예제 1: \"()\", \"()()\", \"()()()\", \"()()()()\", \"()()()()()\"</li>\n<li>예제 2: \"()\", \"(())\", \"(())()\"</li>\n</ul>",
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "string",
-    "binary_search",
-    "set",
-    "suffix_array"
-  ],
+  "tags": ["data_structures", "string", "binary_search", "set", "suffix_array"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.0799999237060547

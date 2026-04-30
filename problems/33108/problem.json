@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2024",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "hash_set"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

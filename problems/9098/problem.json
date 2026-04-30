@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, 2003 ACM Asia Programming Contest Kaohsiung Site",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.569000005722046

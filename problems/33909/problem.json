@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2025 SCON, dohyonne, moonlit, chleee, cologne, jhnah917, jhwest2, jms020820, junseo, kyo20111, m4ushold, rkaskan506, ryute, w8385",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 450,
   "submission_count": null,
   "average_tries": 1.3200000524520874

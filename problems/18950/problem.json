@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 1: t.me / umnik_team Contest",
   "level": 24,
-  "tags": [
-    "math",
-    "combinatorics",
-    "fft"
-  ],
+  "tags": ["math", "combinatorics", "fft"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

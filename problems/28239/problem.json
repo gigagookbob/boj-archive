@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>$2^0=1$이고, 양의 정수 $k$에 대해 $2^k = \\overbrace{2\\times 2\\times \\cdots \\times 2}^{k}$로 정의된다.</li>\n<li>C/C++의 경우, 32bit 정수형 <span style=\"color:#e74c3c;\"><code>int</code></span>의 범위를 넘어가는 정수를 다루게 되므로 64bit 정수형 <span style=\"color:#e74c3c;\"><code>long long</code></span> 사용을 권장한다.</li>\n</ul>",
   "source": "School, 송도고등학교, 송도고 코드마스터 2023, dohoon, cherub8128, leo020630, mjhmjh1104, parkky, pjshwa, tlsdydaud1",
   "level": 5,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["math", "bruteforcing", "bitmask"],
   "accepted_user_count": 604,
   "submission_count": null,
   "average_tries": 2.48009991645813

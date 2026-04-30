@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2026 신촌지역 대학교 프로그래밍 동아리 연합 겨울 대회 (SUAPC 2026 Winter) 연습 세션, wlgh7407, gs22059, ibasic, jinhan814, js7777, junwoojune, lky7674, mythofys, sorohue",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "greedy", "graph_traversal", "bfs"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 3.5455000400543213

@@ -19,12 +19,7 @@
   "hint": "<p>The picture illustrates the amount of water accumulating on the street in the first example.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 803px; height: 200px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2023",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "lazyprop"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.1666998863220215

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Winter Algorithm Camp Contest, 중급, woonikim, gratus907, iknoom1107, jwvg0425, tony9402",
   "level": 18,
-  "tags": [
-    "dp",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "game_theory", "sprague_grundy"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.916700005531311

@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2023 2차대회, 고등부, koosaga",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.4000000953674316

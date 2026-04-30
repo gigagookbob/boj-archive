@@ -15,11 +15,7 @@
   "hint": "<p>$\\oplus$는 <a href=\"https://en.wikipedia.org/wiki/Bitwise_operation\">xor연산</a>을 나타낸다.</p>",
   "source": "Contest, BOJ User Contest, 피갤컵, 제2회 피갤컵, pyb1031, dong5995, herdson, kwoncycle, lunarlity, plast",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "constructive", "bitmask"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.420599937438965

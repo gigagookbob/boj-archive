@@ -23,12 +23,7 @@
   "hint": "<p>В первом тестовом примере подходят все числа от $1$ до $9$, кроме $3$ и $4$.</p>\n<p>Во втором тестовом примере подходят только числа $1$, $11$ и $111$.</p>\n<p>В третьем тестовом примере подходят все числа длиной от $1$ до $5$, состоящие только из $3$ и $4$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 10, 2018, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 10, 2018, Advanced",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "combinatorics", "dp_digit"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

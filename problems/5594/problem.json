@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2006/2007",
   "level": 12,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.4375

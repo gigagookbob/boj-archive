@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2014",
   "level": 25,
-  "tags": [
-    "math",
-    "dp",
-    "traceback",
-    "calculus",
-    "physics"
-  ],
+  "tags": ["math", "dp", "traceback", "calculus", "physics"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.4615000486373901

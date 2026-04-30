@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2011",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "linked_list"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 4.508800029754639

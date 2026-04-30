@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2009 Greater New York Programming Contest, baekjoon, sky1357, doju, lys7aves, jh05013",
   "level": 13,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "prefix_sum"],
   "accepted_user_count": 267,
   "submission_count": null,
   "average_tries": 2.352099895477295

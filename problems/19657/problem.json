@@ -10,13 +10,7 @@
   "hint": "<p>You can look at the units digit of <em>N</em> to distinguish the special graphs from the other cases.</p>",
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2019",
   "level": 26,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "case_work",
-    "graphs",
-    "randomization"
-  ],
+  "tags": ["ad_hoc", "binary_search", "case_work", "graphs", "randomization"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -19,9 +19,7 @@
   "hint": "<p>図 4-2 において，石に書かれた数字はそれぞれの石の滑りやすさを表すとする． 矢印で示された順番で石を渡るとき，それぞれのジャンプの危険度は，順番に 0， (2 ＋ 2) × 1 = 4，(2 ＋ 1) × 1 = 3，(1 ＋ 4) × 2 = 10，0 であり，合計は 17 となる． このとき，ジャンプの危険度の合計は最小となる．</p>\n<p>この例は入出力例に対応している．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 238px; height: 248px;\"/></p>\n<p style=\"text-align: center;\">図 4-2 経路の例</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2007/2008",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.148099899291992

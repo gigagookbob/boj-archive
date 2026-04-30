@@ -15,11 +15,7 @@
   "hint": "<p>Sample Case #1 is the one described in the problem statement.</p>\n<p>In Sample Case #2, our first pivot will be <code>1</code>, which is a worst-case pivot, because it causes all of the other values <code>2 3 4</code> to end up in one of the two new lists. However, the Kicksort call on the list <code>2 3 4</code> will choose <code>3</code> as a pivot. This is not a worst-case pivot, because it puts <code>2</code> in one of the new lists, and <code>4</code> in the other.</p>\n<p>In Sample Case #3, Kicksort will start by choosing the worst-case pivot <code>2</code>, and then it has no other pivot choices to make.</p>\n<p>In Sample Case #4, Kicksort will start by choosing <code>2</code>, which is not a worst-case pivot.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2017, Round F",
   "level": 10,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

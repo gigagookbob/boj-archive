@@ -19,14 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2022/2023",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "trees",
-    "disjoint_set",
-    "lca"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "trees", "disjoint_set", "lca"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 2.156899929046631

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2002.05",
   "level": 15,
-  "tags": [
-    "bfs",
-    "dijkstra",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "dijkstra", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

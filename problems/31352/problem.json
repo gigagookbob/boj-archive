@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 10: Grand Prix of China",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "probability",
-    "dp_connection_profile"
-  ],
+  "tags": ["math", "dp", "graphs", "probability", "dp_connection_profile"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

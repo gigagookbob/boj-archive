@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, Onyaomale can illuminate the entire freeway by placing bulbs in the western-most and middle street lights only, leaving the eastern-most one unused. With these two lights covering $[0, 5]$ and $[4, 10]$, the entire freeway ($[0, 10]$) is illuminated.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>In Sample Case #2, Onyaomale has the same configuration as in Sample Case #1, but with weaker lightbulbs. In this case, there is no way for her to illuminate the entire freeway. In particular, even if all the street lights are lit, the middle point between the $4$-th and $5$-th meters would still not be illuminated.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p>For Sample Case #3 Onyaomale has an additional street light at the $3$-th meter, compared to Sample Case #2, while all other conditions are the same. In this case, installing a lightbulb in every street light is the only way to have the entire freeway illuminated.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\"/></p>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round A",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.8181999921798706

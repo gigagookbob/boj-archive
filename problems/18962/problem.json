@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 1: Songyang Chen Contest 1",
   "level": 18,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "functional_graph"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "functional_graph"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.1666998863220215

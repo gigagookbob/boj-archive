@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2020",
   "level": 22,
-  "tags": [
-    "constructive",
-    "backtracking",
-    "precomputation"
-  ],
+  "tags": ["constructive", "backtracking", "precomputation"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2

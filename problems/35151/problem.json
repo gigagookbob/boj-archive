@@ -19,10 +19,7 @@
   "hint": "<p>실제 포획률은 최소 $3$, 최대 $255$이고, 하품을 통한 상태 변화는 최소 $1$턴에서 최대 $3$턴 유지되며, 데미지 식, 도주율 등 훨씬 더 다양한 변수와 복잡한 식을 통해 계산되는 등 고증 오류가 일부 있다. 단, 개사기 포켓몬 <strong>루브도</strong>를 사용한다면 위의 기술배치를 실제로 사용할 수 있다.</p>\r\n\r\n<p>실제로 동우가 이 문제를 만들던 당시 민재는 한 게임의 포켓몬 도감을 채우던 중이었고, 문제가 선정된 시점에는 이미 모두 완성하였다.</p>\r\n",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), Div. 2, kidw0124, foxpython, cywohoy, dong0625, ezh8n, foxpython, leeminjae, sshs29hanul, tlsdydaud1, utilforever",
   "level": 11,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.8181999921798706

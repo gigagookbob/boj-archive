@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2019",
   "level": 15,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "math",
-    "probability"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "math", "probability"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.411799907684326

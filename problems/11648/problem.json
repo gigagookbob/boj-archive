@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2015 Southeast USA Regional Programming Contest, Division 2, kipa00",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1790,
   "submission_count": null,
   "average_tries": 1.2094999551773071

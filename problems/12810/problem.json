@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2016, RCC 2016 1st Qualification Round",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.5455000400543213

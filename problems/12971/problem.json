@@ -23,11 +23,7 @@
   "hint": null,
   "source": "nova9128",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 413,
   "submission_count": null,
   "average_tries": 2.043600082397461

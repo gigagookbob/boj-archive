@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2012",
   "level": 22,
-  "tags": [
-    "constructive",
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["constructive", "dp", "dp_tree", "trees"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.9230999946594238

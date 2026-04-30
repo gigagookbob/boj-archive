@@ -15,11 +15,7 @@
   "hint": "<p>첫 번째 예제의 경우, 홍준이와 아이들은 각 티켓을 종류별로 3개씩 가지고 있다. 즉, 행성은 0번부터 9번까지 총 10개가 존재한다. 홍준이와 아이들은 0번 행성에서 출발한다. 첫 번째 티켓을 사용해서&nbsp;1 &rarr; 2, 5 &rarr; 4,&nbsp;7 &rarr; 8, 두 번째 티켓을 사용해서&nbsp;3 &rarr; 1, 4 &rarr; 6, &nbsp;9 &rarr; 7, 세 번째 티켓을 사용해서&nbsp;0 &rarr; 3, 2 &rarr; 5, 6 &rarr; 9로 이동할 수 있다.</p>\r\n",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2012, h0ngjun7, beulshu10231, kjp4155",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "case_work", "constructive"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.7021000385284424

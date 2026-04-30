@@ -19,9 +19,7 @@
   "hint": "<p>The following illustrates two possible ways to cut the slab in the first sample.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 128px; height: 128px;\"/><img alt=\"\" src=\"3.png\" style=\"width: 128px; height: 128px;\"/></p>\n<p>The following illustrates the only way to cut the slab in the second sample.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 134px; height: 163px;\"/></p>",
   "source": "Camp, Osijek Competitive Programming Camp, Winter 2023, Day 9: Magical Story of LaLa, aeren",
   "level": 22,
-  "tags": [
-    "case_work"
-  ],
+  "tags": ["case_work"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.6666998863220215

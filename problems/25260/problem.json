@@ -19,12 +19,7 @@
   "hint": "<p>In the first example, it is possible to start at event $1$ and end at event $4$ by switching from event $1$ to event $5$ and then to event $4$, resulting in two event switches. However, there is no way to start at event $3$ and end at event $2$ because event $2$ ends before event $3$.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2022",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "sparse_table"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 4.285699844360352

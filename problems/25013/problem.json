@@ -10,10 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2020, 2차 선발고사, ainta",
   "level": 24,
-  "tags": [
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "two_pointer"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 5.560999870300293

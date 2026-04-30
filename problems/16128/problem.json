@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 예시는 건물이 하나뿐이며, 첫 날에는 시계 방향으로 한 번, 둘째 날에는 시계 또는 반시계 방향으로 두 번 회전시키면 된다.</p>\n<p>두 번째 예시의 최초의 건물과 꽃밭의 배치는 다음과 같다.</p>\n<p style=\"text-align: center;\"><img alt=\"두 번째 예시의 최초의 건물과 꽃밭의 배치\" height=\"140\" src=\"3.png\" width=\"140\"/></p>\n<p>1일차 일일 퀘스트는 아래와 같은 방법으로 완료할 수 있다.</p>\n<p style=\"text-align: center;\"><img alt=\"1일차 일일 퀘스트의 완료 방법\" height=\"140\" src=\"4.png\" width=\"675\"/></p>\n<p>2일차 일일 퀘스트는 아래와 같은 방법으로 완료할 수 있다.</p>\n<p style=\"text-align:center;\"><img alt=\"2일차 일일 퀘스트의 완료 방법\" height=\"140\" src=\"5.png\" width=\"496\"/></p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2018 서울대학교 프로그래밍 경시대회, Division 1, doju",
   "level": 20,
-  "tags": [
-    "math",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["math", "divide_and_conquer", "recursion"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 3.418600082397461

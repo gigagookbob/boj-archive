@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 9: Carnegie Mellon U Contest",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "stack",
-    "string"
-  ],
+  "tags": ["bruteforcing", "data_structures", "stack", "string"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.2221999168396

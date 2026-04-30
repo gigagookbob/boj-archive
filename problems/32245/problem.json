@@ -15,11 +15,7 @@
   "hint": "<p>세준이의 <a href=\"https://codeforces.com/\"><code>Codeforces</code></a>핸들은 <a href=\"https://codeforces.com/profile/SafeSpot\"><code>SafeSpot</code></a>이고, <a href=\"/\"><code>BOJ</code></a>핸들은 <a href=\"/user/devluyten\"><code>devluyten</code></a>이다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제5회 고려대학교 MatKor Cup: 2024 Summer/Fall, tlsdydaud1, changhw, devluyten, kidw0124, lighter, sshs29hanul, utilforever, yijw0930",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2

@@ -15,10 +15,7 @@
   "hint": "<p>In this example, the following is an optimal series of transformations:</p>\n<ol>\n<li>Transform one unit of metal 1 into metal 2.</li>\n<li>Transform one unit of metal 2 into metal 3.</li>\n<li>Transform one unit of metal 3 and metal 4 into metal 5.</li>\n</ol>\n<p>Now Bessie is left with one unit of metal 1 and one unit of metal 5. She cannot form any additional units of metal 5.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Bronze",
   "level": 14,
-  "tags": [
-    "graphs",
-    "parametric_search"
-  ],
+  "tags": ["graphs", "parametric_search"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 3.023099899291992

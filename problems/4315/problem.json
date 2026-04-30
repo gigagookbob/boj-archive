@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 12 June, 2004, baekjoon",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 156,
   "submission_count": null,
   "average_tries": 2.128200054168701

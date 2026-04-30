@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO US Open 2011 Contest, Gold",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "parity"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "parity"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.9844000339508057

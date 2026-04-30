@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2025 신촌지역 대학교 프로그래밍 동아리 연합 겨울 대회 (SUAPC 2025 Winter), young_out, golazcc83, jinhan814, jthis, kidw0124, leo020630, lky7674, plast, tony9402",
   "level": 16,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 3.0322999954223633

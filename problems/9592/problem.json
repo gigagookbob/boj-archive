@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2013, ntopia",
   "level": 18,
-  "tags": [
-    "recursion",
-    "string"
-  ],
+  "tags": ["recursion", "string"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.9473999738693237

@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2021, Stage 3",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "bitmask",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "bitmask", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

@@ -15,9 +15,7 @@
   "hint": "<p>In the first test case, shooting a laser at the top right bulb turns on all the bulbs which are off, and does not toggle any bulbs which are on.</p>\n<p>In the second test case, shooting the top left and top right bulbs will do the job.</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2016",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.219499945640564

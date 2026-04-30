@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2013",
   "level": 21,
-  "tags": [
-    "graphs"
-  ],
+  "tags": ["graphs"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5788999795913696

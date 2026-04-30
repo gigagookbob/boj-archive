@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 7: Ural FU Dandelion Contest",
   "level": 24,
-  "tags": [
-    "trees",
-    "splay_tree"
-  ],
+  "tags": ["trees", "splay_tree"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 5.72730016708374

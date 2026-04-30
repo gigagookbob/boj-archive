@@ -15,13 +15,7 @@
   "hint": "<p>For Case #1, one possible sequence for the minimum number of keypresses to move the cursor from its current position to the desired position is: Up, Up, Right, Up, Left, Up, Left 15 times.</p>",
   "source": "University, University of Central Florida, 2017 Local Programming Contest",
   "level": 11,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation", "simulation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.4375

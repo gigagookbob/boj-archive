@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, there are exactly six moves in total, no matter how the players act. In the second example, Alice can place her square wherever she wants, and Bob will lose immediately.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 5: Moscow IPT Contest",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "case_work", "game_theory"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 6

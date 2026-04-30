@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2005, 중등부, vl0612, onlyhim, snowflake",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 1413,
   "submission_count": null,
   "average_tries": 2.626300096511841

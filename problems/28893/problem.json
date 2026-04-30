@@ -15,10 +15,7 @@
   "hint": "<p>В тесте из условия наибольшей общей неубывающей подпоследовательностью данных последовательностей является последовательность $\\{0, 0, 1, 1, 1\\}$. Она имеет длину $5$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, January 21, 2018",
   "level": 8,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.4667000770568848

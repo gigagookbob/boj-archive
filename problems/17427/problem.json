@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 5539,
   "submission_count": null,
   "average_tries": 2.4570999145507812

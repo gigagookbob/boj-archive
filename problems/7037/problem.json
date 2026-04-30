@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO November 2005 Contest, Gold",
   "level": 13,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "string"
-  ],
+  "tags": ["dp", "prefix_sum", "string"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.1110999584198

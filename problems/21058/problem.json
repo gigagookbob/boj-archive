@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2020, Camp, Petrozavodsk Programming Camp, Winter 2021, Day 3: Nordic+ Contest 2020",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "case_work", "constructive", "implementation"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 5.047599792480469

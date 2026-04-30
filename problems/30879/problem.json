@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제10회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, seonah, cologne, kiwiyou, mjhmjh1104, solvedac, yijw0930",
   "level": 19,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "parametric_search",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "binary_search", "parametric_search", "scc", "2_sat"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2.923099994659424

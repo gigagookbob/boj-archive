@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2024",
   "level": 26,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "case_work", "math", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.875

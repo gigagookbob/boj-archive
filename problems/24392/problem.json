@@ -23,9 +23,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2022 중앙대학교 CHAC (ChAOS Hello2022 Algorithm Contest), omjin7n, bnb2011, chogahui05, dkvltmxhf, dlaud5379, dlstj0923, pjshwa, smmaker118, soljin8122, thrudgelmir, tngus5851, tony9402, xingxing2001",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 462,
   "submission_count": null,
   "average_tries": 2.6233999729156494

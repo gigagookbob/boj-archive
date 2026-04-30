@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, Philippines Multi-Provincial Programming Contest, Philippines Multi-Provincial Programming Contest 2013, baekjoon",
   "level": 0,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8696000576019287

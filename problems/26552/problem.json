@@ -15,9 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2018, Novice, School, PLU High School Programming Contest, PLU 2018, Advanced",
   "level": 4,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 223,
   "submission_count": null,
   "average_tries": 1.125599980354309

@@ -35,13 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "set",
-    "bfs"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "set", "bfs"],
   "accepted_user_count": 2483,
   "submission_count": null,
   "average_tries": 3.3657000064849854

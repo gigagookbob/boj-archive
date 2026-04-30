@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2022, ICPC, World Finals, ICPC World Finals 2023",
   "level": 27,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.8966000080108643

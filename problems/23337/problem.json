@@ -23,11 +23,7 @@
   "hint": "<p>The problem statement is a fiction.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2021",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 182,
   "submission_count": null,
   "average_tries": 1.2802000045776367

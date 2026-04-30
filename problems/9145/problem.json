@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2000",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "bipartite_matching"
-  ],
+  "tags": ["data_structures", "string", "set", "bipartite_matching"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.3889000415802002

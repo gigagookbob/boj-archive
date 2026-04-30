@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2022, Beginner, School, CS@Mines, CS@Mines HSPC 2022, Advanced",
   "level": 6,
-  "tags": [
-    "math",
-    "arithmetic",
-    "probability"
-  ],
+  "tags": ["math", "arithmetic", "probability"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.0434999465942383

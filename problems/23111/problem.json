@@ -15,11 +15,7 @@
   "hint": "<p>In the example, there are two bypass paths for the first edge.</p>\n<p>The longer one contains $9$ colors (from $2$ to $10$), so it is not special.</p>\n<p>The shorter one consists of the edges $2$, $3$, and $11$ (colors $2$, $3$, and $5$), so it is special.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 1: Kyoto U Contest 1",
   "level": 22,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

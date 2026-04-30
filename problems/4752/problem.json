@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2005 Mid-Atlantic Regional Programming Contest, baekjoon",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "parsing",
-    "stack",
-    "string"
-  ],
+  "tags": ["data_structures", "parsing", "stack", "string"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 3.981100082397461

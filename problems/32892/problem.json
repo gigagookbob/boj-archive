@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2024",
   "level": 14,
-  "tags": [
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["sorting", "knapsack"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.4348000288009644

@@ -15,10 +15,7 @@
   "hint": "<p>In 2015 Fridays are February 13, March 13 and November 13, and in 2016 is May 13 only.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 14: Grand Prix of East and West",
   "level": 9,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

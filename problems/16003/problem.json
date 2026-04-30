@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, 카카오 코드 페스티벌, 카카오 코드 페스티벌 2018",
   "level": 25,
-  "tags": [
-    "graphs",
-    "chordal_graph"
-  ],
+  "tags": ["graphs", "chordal_graph"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 3.9804000854492188

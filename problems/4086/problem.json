@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2011 Southeast USA Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

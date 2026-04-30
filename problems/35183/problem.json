@@ -19,10 +19,7 @@
   "hint": "<p>지난 12월 12일 하스스톤의 랭킹 시스템 적용 이후, 아시아 서버의 첫 전설 등급 달성자가 등장했다.</p>\n<p>배틀태그 \"광역맞으면서렌함\"을 사용 중인 이 유저는 14일 저녁 하스스톤 인벤 자유게시판을 통해 본인의 전설 등급 달성을 밝혔으며, 해당 시각을 기준으로 아시아 서버에서 랭크전 1위를 달성한 것이 확인되었다.</p>",
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 4 : Grand Final, blackking26, jhwest2, silverwolf, stonejjun03",
   "level": 11,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 189,
   "submission_count": null,
   "average_tries": 1.8148000240325928

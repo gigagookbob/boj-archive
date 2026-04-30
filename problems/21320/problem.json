@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2021 IGRUS Newbie Programming Contest, 39dll, Lawali, rhs0266, tony9402, wjdclgns12",
   "level": 16,
-  "tags": [
-    "dp",
-    "trees",
-    "parity"
-  ],
+  "tags": ["dp", "trees", "parity"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 2.3912999629974365

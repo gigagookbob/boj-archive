@@ -15,12 +15,7 @@
   "hint": "<p>아래는 예제를 푸는 과정을 나타낸다.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:564px; width:221px\"/></p>",
   "source": "exqt",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "stack"],
   "accepted_user_count": 475,
   "submission_count": null,
   "average_tries": 2.2525999546051025

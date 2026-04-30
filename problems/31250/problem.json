@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2024!, kyo20111, stonejjun03, ahgus89, cgiosy, cs71107, jhnah917, jhwest2",
   "level": 20,
-  "tags": [
-    "implementation",
-    "graphs",
-    "simulation",
-    "functional_graph"
-  ],
+  "tags": ["implementation", "graphs", "simulation", "functional_graph"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 3.5757999420166016

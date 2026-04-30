@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2017, yclock",
   "level": 28,
-  "tags": [
-    "backtracking",
-    "graphs",
-    "graph_traversal",
-    "math"
-  ],
+  "tags": ["backtracking", "graphs", "graph_traversal", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.8125

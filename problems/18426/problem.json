@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #5",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "combinatorics", "exponentiation_by_squaring"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.399999976158142

@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case we have only two white stars, so we cannot draw any polygons.</p>\n<p>In the second test case we have three white stars, so we can draw only one polygon (a triangle), as shown in the picture below. It turns out that we are able to catch the blue star in this polygon. The length of the perimeter of this polygon is $5+5+52 \\approx 17.071068$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round F",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["bruteforcing", "geometry", "point_in_convex_polygon"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.588200092315674

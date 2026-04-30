@@ -15,10 +15,7 @@
   "hint": "<p>발머의 피크 이론(Ballmer&#39;s Peak Theory)은 프로그래머의 혈중 알콜 농도가 0.129% 와 0.138% 사이일 때 초인적인 코딩 실력을 발휘한다는 이론이다.</p>\r\n",
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2012, baekjoon",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 3028,
   "submission_count": null,
   "average_tries": 2.9514999389648438

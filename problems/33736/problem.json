@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2025 February Contest, Bronze",
   "level": 10,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.342900037765503

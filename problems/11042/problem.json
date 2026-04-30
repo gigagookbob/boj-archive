@@ -15,14 +15,7 @@
   "hint": "<p>The second input \"01u10u\" may possibly cause a deadlock. After one thread has executed the initial four instructions \"01u1\", the thread keeps only one lock L1. If another thread executes the first instruction '0' at this time, this thread acquires L0. Then, the first thread tries to acquire L0, already kept by the second thread, while the second thread tries to acquire L1, kept by the first thread; This leads to a deadlock.</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:129px; width:341px\"/> → <img alt=\"\" src=\"2.png\" style=\"height:128px; width:340px\"/> →  <img alt=\"\" src=\"3.png\" style=\"height:128px; width:341px\"/></p>\n<p>Figure 1: Why the Sample Input 2 \"01u10u\" is unsafe.</p>\n<p>Contrarily, the third input \"201u210u\" is safe. If one thread had executed up to \"201u21\" and another to \"20\", then one may think it would lead to a deadlock, but this can never happen because no two threads can simultaneously keep L<sub>2</sub>.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2015 Japan Domestic Contest",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bitmask",
-    "dfs",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bitmask", "dfs", "dp_bitfield"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

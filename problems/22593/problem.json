@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2011 Day 4",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "case_work",
-    "priority_queue"
-  ],
+  "tags": ["dp", "data_structures", "case_work", "priority_queue"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 13

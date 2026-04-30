@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 1쿨, dhyang24, djs100201, heeda0528, hyperbolic, index, sivcde0405",
   "level": 13,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 2.7583999633789062

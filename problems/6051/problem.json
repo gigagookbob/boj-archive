@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO US Open 2010 Contest, Silver, skykhs3, xhdtlsid2",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "stack", "linked_list"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 2.8496999740600586

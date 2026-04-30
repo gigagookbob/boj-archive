@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2013, Group A (Seniors)",
   "level": 20,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4.6666998863220215

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2018 Goricon, exqt",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 1957,
   "submission_count": null,
   "average_tries": 3.5441999435424805

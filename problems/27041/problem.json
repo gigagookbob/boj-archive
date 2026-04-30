@@ -15,10 +15,7 @@
   "hint": "<p>A single line with an integer that is the smallest number of \"legal\" leaps that are required for Bessie to reach coordinate E.</p>\n<p>Here's a diagram of the beach and leaps:</p>\n<pre>\n# # c c # #   &lt;--- cow denoted by 'c'\n0 1 2 3 4 5   &lt;--- location numbers\n  1     2 3   &lt;--- where leaps 1, 2, and 3 end\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO December 2003 Contest, Orange",
   "level": 6,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.3478000164031982

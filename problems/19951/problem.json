@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2020 IGRUS Newbie Programming Contest, gsts007, baekjoon, chobe1, gunwookim, panda959595, rhs0266, saemy90, tyoungs, zxcvber",
   "level": 11,
-  "tags": [
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "difference_array"],
   "accepted_user_count": 1801,
   "submission_count": null,
   "average_tries": 1.6224000453948975

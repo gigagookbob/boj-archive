@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2022",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "bitmask",
-    "randomization"
-  ],
+  "tags": ["ad_hoc", "bitmask", "randomization"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.7291998863220215

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2001, 초등부, orihehe, tncks0121, chocoem, compro0317",
   "level": 13,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 8023,
   "submission_count": null,
   "average_tries": 2.7535998821258545

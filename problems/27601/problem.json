@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2022-2023",
   "level": 21,
-  "tags": [
-    "pigeonhole_principle"
-  ],
+  "tags": ["pigeonhole_principle"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.0869998931884766

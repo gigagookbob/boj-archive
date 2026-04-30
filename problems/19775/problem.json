@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 100px; height: 153px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2014",
   "level": 8,
-  "tags": [
-    "constructive",
-    "greedy"
-  ],
+  "tags": ["constructive", "greedy"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.4138000011444092

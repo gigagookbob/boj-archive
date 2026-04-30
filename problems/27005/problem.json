@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO US Open 2005 Contest, Silver",
   "level": 12,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "string"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "string"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.5384999513626099

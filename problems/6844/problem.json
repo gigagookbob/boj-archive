@@ -27,9 +27,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2007, CCC 2007 Junior Division",
   "level": 9,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.100000023841858

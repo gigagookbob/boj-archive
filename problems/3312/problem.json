@@ -15,11 +15,7 @@
   "hint": "<p>The example above is the same as in the task description.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2011, Practice",
   "level": 9,
-  "tags": [
-    "prefix_sum",
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["prefix_sum", "string", "two_pointer"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.767400026321411

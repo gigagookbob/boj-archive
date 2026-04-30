@@ -27,9 +27,7 @@
   "hint": "<p>В первом примере группа цифр 148 заменятся на число 13 = 1 + 4 + 8.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2012",
   "level": 10,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.230799913406372

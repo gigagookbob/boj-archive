@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 30 September, 2000, kbu1564",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 303,
   "submission_count": null,
   "average_tries": 3.544600009918213

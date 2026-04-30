@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2022 Fall CS2 Final Mock Exam, flakepowders, eric00513, kiwiyou, leeh18, parkky",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "binary_search", "constructive"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.105299949645996

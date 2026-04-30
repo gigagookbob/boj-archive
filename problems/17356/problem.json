@@ -19,10 +19,7 @@
   "hint": "<p>소수의 거듭제곱을 계산하려면</p>\n<ul>\n<li>C, C++의 경우 pow 함수를 사용하면 된다.</li>\n<li>Java의 경우 Math.pow 함수를 사용하면 된다.</li>\n<li>Python의 경우 ** 연산자를 사용하면 된다.</li>\n</ul>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회, jh05013",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 3570,
   "submission_count": null,
   "average_tries": 1.1929999589920044

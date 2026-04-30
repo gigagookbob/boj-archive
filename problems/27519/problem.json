@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제1회 흐즈로컵, hjroh0315, eaststar, hibye1217, index, jjang36524, tony9402, utilforever, whqkrkt04",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "dp", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 138,
   "submission_count": null,
   "average_tries": 1.7970999479293823

@@ -15,10 +15,7 @@
   "hint": "<p>Even though 5 is the deepest reading Bessie gets, and the number 2 occurs twice, 1 is the largest number that occurs in two adjacent cells.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO March 2009 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.5161000490188599

@@ -19,10 +19,7 @@
   "hint": "<p>Во втором примере Петя не может выиграть в последнем туре. Однако, назвав число 2, Петя не позволяет выиграть первому игроку, и тем самым остается вторым по итогам всей игры. У четырех игроков баллы меньше чем у Пети.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2007",
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.6333000659942627

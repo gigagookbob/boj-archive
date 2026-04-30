@@ -19,11 +19,7 @@
   "hint": null,
   "source": "rdd6584",
   "level": 15,
-  "tags": [
-    "sorting",
-    "ad_hoc",
-    "invariant"
-  ],
+  "tags": ["sorting", "ad_hoc", "invariant"],
   "accepted_user_count": 556,
   "submission_count": null,
   "average_tries": 2.9711999893188477

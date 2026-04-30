@@ -23,10 +23,7 @@
   "hint": "<p>Для работы с числами большими $10^9$ рекомендуется использовать $64$-битный тип данных.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, January 28, 2017",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.6110999584197998

@@ -15,11 +15,7 @@
   "hint": "<p>The first station name is a single letter, so it can match anywhere. Since we want the first index where it matches, the correct answer is 0.</p>\n<p>The second station name is a single letter repeated twice. There are no repeated letters in the input, so it can't be in s.</p>\n<p>The third station can be matched with ABCBA which starts at index 1.</p>\n<p>The fourth station can be matched with BCBC which starts at index 6.</p>\n<p>The fifth station is a name with 5 different letters. This can't be matched.</p>\n<p>Note that the first letter of s is indexed by 0.</p>",
   "source": "School, Cornell University High School Programming Contest, Cornell University High School Programming Contest 2016",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.40910005569458

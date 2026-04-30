@@ -15,11 +15,7 @@
   "hint": "<p>1-2-4-3-1의 경로로 여행을 다녀오면 된다. 조건을 만족하면서 10 이하의 시간으로 여행을 다녀올 수는 없다.</p>",
   "source": "kdr06006",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 409,
   "submission_count": null,
   "average_tries": 3.0341999530792236

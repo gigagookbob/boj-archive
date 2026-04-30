@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2019, Novice",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 1.1110999584197998

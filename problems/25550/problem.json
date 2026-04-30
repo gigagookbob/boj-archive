@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, 2022 POSTECH Programming Contest, leo020630, bnb2011, hyperbolic, kclee2172, knon0501, lky7674, qjatn0120baek, slah007, tlsdydaud1",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 205,
   "submission_count": null,
   "average_tries": 2.668299913406372

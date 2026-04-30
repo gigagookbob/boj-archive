@@ -23,11 +23,7 @@
   "hint": "<p>예제 1의 경우 Score(A, A)와 Score(A, C)를 10으로 만들면, 나머지 원소를 규칙에 맞게 만드는 것은 쉽다. 따라서 모든 세 쌍의 DNA 점수는 30이 된다.</p>",
   "source": "baekjoon, dotorya",
   "level": 12,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 3.4258999824523926

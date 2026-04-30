@@ -19,11 +19,7 @@
   "hint": "<p>호반우의 평균 스탯 수치는 다음과 같이 구할 수 있습니다.</p>\n<p>평균 스탯 수치 $=\\begin{aligned} \\frac{STR+DEX+INT+LUK}{4} \\end{aligned}$</p>",
   "source": "University, 경북대학교, 2023 Goricon, hamuim, exqt, hyperbolic, leo020630, utilforever",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1948,
   "submission_count": null,
   "average_tries": 1.4204000234603882

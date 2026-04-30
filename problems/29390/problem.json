@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, September 24, 2011",
   "level": 12,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "bruteforcing", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

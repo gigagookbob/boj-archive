@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2008, baekjoon, leejseo, WeissBlume",
   "level": 18,
-  "tags": [
-    "graphs",
-    "traceback",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "traceback", "scc", "2_sat"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 4.676799774169922

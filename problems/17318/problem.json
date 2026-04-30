@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2012",
   "level": 25,
-  "tags": [
-    "math",
-    "binary_search",
-    "calculus",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "binary_search", "calculus", "numerical_analysis"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 4.392899990081787

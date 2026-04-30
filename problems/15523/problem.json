@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2017",
   "level": 16,
-  "tags": [
-    "constructive",
-    "graphs"
-  ],
+  "tags": ["constructive", "graphs"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.8667000532150269

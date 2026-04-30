@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, you cannot redip, so the expected value is just the mean of the items in the bag which is (1 + 2 + 3 + 4) / 4 = 2.5.</p>\n<p>In Sample Case #2, the best strategy is to keep the item of value 10 if you get it, and redip otherwise. The chance of getting that item (on either the first or second draw) is 1 - (2/3)<sup>2</sup> = 5/9, hence the expected value is (5/9 * 10) + (4/9 * 1) = 6.</p>\n<p>In Sample Case #3, since all the items have the same value, it does not matter how many times you redip and hence the expected value is 80000.</p>\n<p>Note that cases #3 and #5 would not appear in the Small dataset.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2018, Round A",
   "level": 14,
-  "tags": [
-    "math",
-    "binary_search",
-    "probability"
-  ],
+  "tags": ["math", "binary_search", "probability"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

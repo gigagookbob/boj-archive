@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2019 December Contest, Bronze",
   "level": 9,
-  "tags": [
-    "backtracking",
-    "bruteforcing",
-    "string"
-  ],
+  "tags": ["backtracking", "bruteforcing", "string"],
   "accepted_user_count": 372,
   "submission_count": null,
   "average_tries": 1.5644999742507935

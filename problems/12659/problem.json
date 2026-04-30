@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, Qualification Round",
   "level": 9,
-  "tags": [
-    "dp",
-    "backtracking"
-  ],
+  "tags": ["dp", "backtracking"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 1.4019999504089355

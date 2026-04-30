@@ -19,11 +19,7 @@
   "hint": "<p>In the first example there is an array of size 3, containing a permutation of the numbers 1, 2 and 3. Additionally, it is given that the minimum among the numbers at indices between 1 and 2 is 2, and the minimum among the numbers at indices between 1 and 3 (i.e. the whole array) is 1. There are only two arrays matching these conditions: [2, 3, 1] and [3, 2, 1].</p>\n<p>In the second example there are 576 arrays that match the given conditions.</p>",
   "source": "Olympiad, Nordic Olympiad in Informatics, 2018",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8260999917984009

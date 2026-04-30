@@ -23,10 +23,7 @@
   "hint": "<p>Explanation for Output for Sample Input 1</p>\n<p>Note that it does not matter which pipe you use the pipe enhancer on because D = 0, so it will not affect the maintenance fee of any pipe.</p>\n<p>On the first day, you should deactivate the pipe from building 2 to 3 and activate the pipe from building 4 to 1.</p>\n<p>Explanation for Output for Sample Input 2</p>\n<p>One solution using the minimum number of days is to first use the pipe enhancer on the pipe from building 1 to 2 to decrease its cost to 3. Then on the first day, replace the pipe from building 2 to 3 with the pipe from building 1 to 3, and on the second day replace the pipe from 1 to 4 with the pipe from building 1 to 5. Note that the cost of the optimal plan is 10.</p>\n<p>Additionally, there are no solutions where you use the pipe enhancer on the pipe from building 1 to 3 or the pipe from building 1 to 5. Doing so would make that pipe have a maintenance fee of 0, and then any optimal plan would have cost 11 (and we have already seen that we can achieve a cost of 10).</p>\n<p>Explanation for Output for Sample Input 3</p>\n<p>The initial valid plan is already an optimal plan. Be careful of integer overflow when implementing your solution.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Senior Division",
   "level": 18,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 3.047600030899048

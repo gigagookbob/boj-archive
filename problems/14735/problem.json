@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2017 KAIST 7th ACM-ICPC Mock Competition, wwiiiii",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "flow",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "graphs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

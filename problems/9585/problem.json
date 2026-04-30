@@ -15,10 +15,7 @@
   "hint": "<p>In this example two towers are mounted at the same point. This is allowed, but only one, the longest, of the towers mounted at the same point is considered to be illuminated by the sun.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2013",
   "level": 20,
-  "tags": [
-    "geometry",
-    "math"
-  ],
+  "tags": ["geometry", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

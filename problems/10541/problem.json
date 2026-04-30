@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #1, yang, cokcjswo, Green55",
   "level": 14,
-  "tags": [
-    "math",
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["math", "implementation", "prefix_sum"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 4.010499954223633

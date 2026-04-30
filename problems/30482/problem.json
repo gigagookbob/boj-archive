@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2023",
   "level": 18,
-  "tags": [
-    "geometry",
-    "implementation",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "implementation", "line_intersection"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.708299994468689

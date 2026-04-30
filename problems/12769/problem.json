@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2016, codingbug, portableangel",
   "level": 19,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "bruteforcing", "binary_search", "parametric_search"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 4.574100017547607

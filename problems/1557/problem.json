@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "binary_search",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "binary_search", "inclusion_and_exclusion"],
   "accepted_user_count": 2046,
   "submission_count": null,
   "average_tries": 2.591399908065796

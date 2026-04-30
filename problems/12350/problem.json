@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, EuroPython 2013, EuroPython 2013",
   "level": 14,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

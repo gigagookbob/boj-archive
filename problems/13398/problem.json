@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, tncks0121, dj910401, ha_ram, k930503, mythofys, solarmagic",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 7540,
   "submission_count": null,
   "average_tries": 3.215100049972534

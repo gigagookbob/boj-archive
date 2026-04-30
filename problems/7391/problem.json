@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2004",
   "level": 23,
-  "tags": [
-    "geometry",
-    "graphs",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "graphs", "line_intersection"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 3

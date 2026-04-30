@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2000",
   "level": 15,
-  "tags": [
-    "floyd_warshall",
-    "geometry",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["floyd_warshall", "geometry", "graphs", "shortest_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

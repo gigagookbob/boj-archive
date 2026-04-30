@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, World Finals Dress Rehearsal, ACM-ICPC World Finals Dress Rehearsal 2009",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 7725,
   "submission_count": null,
   "average_tries": 1.0702999830245972

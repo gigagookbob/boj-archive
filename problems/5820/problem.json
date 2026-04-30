@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2011, Day 1",
   "level": 22,
-  "tags": [
-    "trees",
-    "divide_and_conquer",
-    "centroid",
-    "centroid_decomposition"
-  ],
+  "tags": ["trees", "divide_and_conquer", "centroid", "centroid_decomposition"],
   "accepted_user_count": 769,
   "submission_count": null,
   "average_tries": 4.546199798583984

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2002, Day 2",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "convex_hull",
-    "geometry",
-    "rotating_calipers"
-  ],
+  "tags": ["binary_search", "convex_hull", "geometry", "rotating_calipers"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 5.23330020904541

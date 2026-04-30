@@ -19,9 +19,7 @@
   "hint": "<p>For the first example:</p>\n<p>Doghouse 1 is the primary home of dogs 5 and 1 and secondary home of dogs 6 and 4. If doghouse 1 is unavailable, then dog 1 will sleep in doghouse 3 and dog 5 will sleep in doghouse 2.</p>\n<p>Doghouse 2 is the primary home of dogs 3 and 6 and secondary home of dogs 5 and 2. If doghouse 2 is unavailable, then dog 3 will sleep in doghouse 3 and dog 6 will sleep in doghouse 1.</p>\n<p>Doghouse 3 is the primary home of dogs 4 and 2 and secondary home of dogs 1 and 3. If doghouse 3 is unavailable, then dog 4 will sleep in doghouse 1 and dog 2 will sleep in doghouse 2.</p>\n<p>So it can be seen that no doghouse will ever contain more than 3 dogs.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 24 June, 2017",
   "level": 11,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.294100046157837

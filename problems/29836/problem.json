@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2022-23, Final Round",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["bruteforcing", "binary_search", "set"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.333299994468689

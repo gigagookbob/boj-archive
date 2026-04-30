@@ -15,12 +15,7 @@
   "hint": "<p>There are four students lined up on the field, and the principal wishes teams to have a combined skill level of 5. He first points at the first and fourth student, encompassing all four inclusively. There exists one team in this range, consisting of the first two students which has a combined skill of 5. He then points at the third and fourth students, between which there exists no team of two with a total skill of 5.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2017",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "set",
-    "offline_queries",
-    "mo"
-  ],
+  "tags": ["data_structures", "set", "offline_queries", "mo"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 8

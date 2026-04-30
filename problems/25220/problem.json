@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2022, CCO 2022",
   "level": 21,
-  "tags": [
-    "flow",
-    "greedy",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "greedy", "mcmf", "graphs"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.0357000827789307

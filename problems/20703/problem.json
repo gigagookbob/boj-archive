@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, the possible values are $a=3$, $c=7$; $a=6$, $c=5$; $a=9$, $c=3$; and $a=12$, $c=1$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Online)",
   "level": 8,
-  "tags": [
-    "euclidean",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["euclidean", "math", "number_theory"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.666700005531311

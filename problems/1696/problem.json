@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 2000, 79brue",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "eulerian_path"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "eulerian_path"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 3.278700113296509

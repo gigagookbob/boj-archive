@@ -19,10 +19,7 @@
   "hint": "<p>Обратите внимание, что в примере приведены конкретные варианты вывода в первом запуске и ввода во втором запуске. Если ваша программа выведет другое множество $R$, при втором запуске ввод также будет другой.</p>\n<p>Также при втором запуске зашифрованные сообщения передаются программе участника не обязательно в том порядке, в котором они следовали при первом запуске.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2023",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 7.125

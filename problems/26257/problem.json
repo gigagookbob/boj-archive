@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, SW마에스트로, 제13기 알고리즘 대회, leeh18, chansol, jyheo98, man_of_learning, seungwuk98, tony9402",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 160,
   "submission_count": null,
   "average_tries": 1.5687999725341797

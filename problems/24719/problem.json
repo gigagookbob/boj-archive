@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the second example:</p>\n<p>There is only one diamond in the table (the one with the smallest possible size). There appears to be another diamond containing it, but it is not considered a diamond because its inside is not completely filled with '<code>.</code>'. The shape on the right side of the table is also not a diamond because it’s missing a <code>#</code> character on its edge.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #5",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

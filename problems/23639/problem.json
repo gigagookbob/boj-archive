@@ -15,11 +15,7 @@
   "hint": "<p>One possible consistent coloring in two colors is $1, 1, 1, 2$. Since indices $2$ and $4$ are inconsistent, one color is not enough.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 8: Grand Prix of Dolgoprudny",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2005",
   "level": 19,
-  "tags": [
-    "graphs",
-    "arbitrary_precision",
-    "bcc",
-    "cactus"
-  ],
+  "tags": ["graphs", "arbitrary_precision", "bcc", "cactus"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 4.761199951171875

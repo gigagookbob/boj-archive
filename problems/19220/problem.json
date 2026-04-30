@@ -27,11 +27,7 @@
   "hint": "<p>Both in the second and the third example, there exist graphs that satisfy the given conditions but none of them are cactuses.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2019",
   "level": 26,
-  "tags": [
-    "graphs",
-    "constructive",
-    "cactus"
-  ],
+  "tags": ["graphs", "constructive", "cactus"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.4286000728607178

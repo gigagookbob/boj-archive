@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 14 July, 2007",
   "level": 7,
-  "tags": [
-    "math",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "sorting", "arithmetic"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.3437999486923218

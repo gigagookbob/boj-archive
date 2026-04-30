@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 단국대학교부속소프트웨어고등학교, 단대소프트고 2022 여름대회, gggkik, flappybird, jjang36524, leo020630, lkh3happy, MenOfPassion, nicehong7, quickn",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "sorting", "disjoint_set"],
   "accepted_user_count": 164,
   "submission_count": null,
   "average_tries": 1.823199987411499

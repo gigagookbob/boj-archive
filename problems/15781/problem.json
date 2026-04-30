@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2018 인하대학교 프로그래밍 경진대회 (IUPC), klight1994, pkcchoi3",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 2988,
   "submission_count": null,
   "average_tries": 1.1647000312805176

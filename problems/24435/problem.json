@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 9,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "sorting",
-    "backtracking"
-  ],
+  "tags": ["string", "bruteforcing", "sorting", "backtracking"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 1.5676000118255615

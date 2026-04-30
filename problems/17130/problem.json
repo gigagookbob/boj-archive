@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCCC 벚꽃맞이 컨테스트, lobo_prix",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 495,
   "submission_count": null,
   "average_tries": 3.9677000045776367

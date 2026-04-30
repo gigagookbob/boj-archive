@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2014",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "eulerian_path",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["ad_hoc", "eulerian_path", "graphs", "graph_traversal"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.1818000078201294

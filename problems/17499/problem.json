@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2019 Goricon, exqt",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 779,
   "submission_count": null,
   "average_tries": 2.4505999088287354

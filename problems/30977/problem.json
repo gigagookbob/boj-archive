@@ -19,12 +19,7 @@
   "hint": "<p>Python 3 사용자는 PyPy3로 제출할 것을 권장한다.</p>",
   "source": "Contest, BOJ User Contest, 나들이, 첫 번째 나들이, vkdldjvkdnj, ibm2006, iktk, measurezero, mujigae, utilforever",
   "level": 21,
-  "tags": [
-    "math",
-    "string",
-    "fft",
-    "kmp"
-  ],
+  "tags": ["math", "string", "fft", "kmp"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 7.14709997177124

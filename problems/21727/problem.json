@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, IDTcup, 제 3회 IDTcup, TAMREF, aeren",
   "level": 27,
-  "tags": [
-    "matroid"
-  ],
+  "tags": ["matroid"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.3333001136779785

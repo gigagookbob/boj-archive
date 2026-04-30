@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, dsa2341, taedy0311",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 11877,
   "submission_count": null,
   "average_tries": 1.56850004196167

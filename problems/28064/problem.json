@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, 새내기 Round, University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, Open Contest, minigimbob, djs100201, dong_gas, eaststar, hulahula3247, jthis, lem0nad3, maker29, mjhmjh1104, pjshwa, p_jun, yunny_world",
   "level": 6,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 469,
   "submission_count": null,
   "average_tries": 1.5949000120162964

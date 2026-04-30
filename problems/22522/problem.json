@@ -35,13 +35,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2011 Day 4",
   "level": 18,
-  "tags": [
-    "bellman_ford",
-    "dp",
-    "graphs",
-    "greedy",
-    "shortest_path"
-  ],
+  "tags": ["bellman_ford", "dp", "graphs", "greedy", "shortest_path"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

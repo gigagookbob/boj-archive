@@ -15,11 +15,7 @@
   "hint": "<p>1 -&gt; 2 -&gt; 4로 상황을 바꾸면 두 번 상황이 바뀐 후 꿈을 이루게 된다.</p>",
   "source": "Contest, kriiicon, 제2회 kriiICPC, august14",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 319,
   "submission_count": null,
   "average_tries": 2.0971999168395996

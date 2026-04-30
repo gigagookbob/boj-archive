@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 2 October, 1999, baekjoon, silvercube",
   "level": 15,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 6.739099979400635

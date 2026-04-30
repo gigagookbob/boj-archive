@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 1999 Pacific Northwest Region Programming Contest, ICPC, Regionals, North America, East Central North America Regional, 1999 East Central Regional Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 175,
   "submission_count": null,
   "average_tries": 1.4113999605178833

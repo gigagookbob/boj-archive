@@ -15,13 +15,7 @@
   "hint": "<ul>\n<li>반올림은 다음과 같이 정의된다: 어떤 수 $x$를 반올림하여 $y$가 되었다면, $y$는 $x$와 차가 가장 작은 정수(들) 중 최댓값이다.</li>\n<li>차는 다음과 같이 정의된다: $x$와 $y$의 차는 $x-y$와 $y-x$중 작지 않은 수이다.</li>\n</ul>",
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2024 IamCoder Qualification Test, jaemin2573, denniskim, jk410, lighton, mjhmjh1104",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc",
-    "combinatorics",
-    "case_work"
-  ],
+  "tags": ["math", "dp", "ad_hoc", "combinatorics", "case_work"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 5.75

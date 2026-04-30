@@ -15,11 +15,7 @@
   "hint": "<p>예제 입출력에서 각 동작을 수행한 후 텍스트와 커서, 변수 $C$의 상태는 아래와 같습니다.</p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th>동작의 종류</th>\n<th>편집기의 텍스트</th>\n<th>커서의 위치</th>\n<th>올바른 괄호 문자열?</th>\n<th>$C$</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>)</code></td>\n<td>\"<code>)</code>\"</td>\n<td>$1$</td>\n<td>아니오</td>\n<td>$0$</td>\n</tr>\n<tr>\n<td><code>&lt;</code></td>\n<td>\"<code>)</code>\"</td>\n<td>$0$</td>\n<td>아니오</td>\n<td>$0$</td>\n</tr>\n<tr>\n<td><code>(</code></td>\n<td>\"<code>()</code>\"</td>\n<td>$1$</td>\n<td>네</td>\n<td>$3$</td>\n</tr>\n<tr>\n<td><code>&lt;</code></td>\n<td>\"<code>()</code>\"</td>\n<td>$0$</td>\n<td>네</td>\n<td>$7$</td>\n</tr>\n<tr>\n<td><code>(</code></td>\n<td>\"<code>(()</code>\"</td>\n<td>$1$</td>\n<td>아니오</td>\n<td>$7$</td>\n</tr>\n<tr>\n<td><code>)</code></td>\n<td>\"<code>()()</code>\"</td>\n<td>$2$</td>\n<td>네</td>\n<td>$1$</td>\n</tr>\n<tr>\n<td><code>X</code></td>\n<td>\"<code>(()</code>\"</td>\n<td>$1$</td>\n<td>아니오</td>\n<td>$1$</td>\n</tr>\n<tr>\n<td><code>(</code></td>\n<td>\"<code>((()</code>\"</td>\n<td>$2$</td>\n<td>아니오</td>\n<td>$1$</td>\n</tr>\n<tr>\n<td><code>)</code></td>\n<td>\"<code>(()()</code>\"</td>\n<td>$3$</td>\n<td>아니오</td>\n<td>$1$</td>\n</tr>\n<tr>\n<td><code>)</code></td>\n<td>\"<code>(())()</code>\"</td>\n<td>$4$</td>\n<td>네</td>\n<td>$11$</td>\n</tr>\n</tbody>\n</table>",
   "source": "Contest, 한국정보기술진흥원, 제3회 청소년 IT경시대회, 중등부, hjroh0315",
   "level": 17,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "linked_list"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4.142899990081787

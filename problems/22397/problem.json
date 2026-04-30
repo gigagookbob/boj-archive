@@ -15,11 +15,7 @@
   "hint": "<p>1番目の入力の初期状態は次のようになる．</p>\n<pre>\nb．\n.b\n</pre>\n<p>(1,1) のボールを (1,2) に移動させるので命令後の盤面は次のようになる．</p>\n<pre>\n.b\n.b</pre>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2016 B",
   "level": 8,
-  "tags": [
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "string"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.0625

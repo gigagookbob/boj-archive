@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Te dwie trójki to (1, 2, 32) oraz (5, 10, 20).</p>",
   "source": "Contest, Algorithmic Engagements, PA 2018",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.105299949645996

@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2021",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc",
-    "probability",
-    "lcs"
-  ],
+  "tags": ["math", "dp", "ad_hoc", "probability", "lcs"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 4.01609992980957

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2009",
   "level": 15,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.9544999599456787

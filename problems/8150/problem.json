@@ -15,13 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"2.gif\" style=\"height:174px; width:187px\"/></p>\n<p>The beginnings of streets 1 and 3 may become new starting points for the examination, for instance.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2006/2007, Stage 3",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "two_pointer",
-    "lis"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "two_pointer", "lis"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.6786000728607178

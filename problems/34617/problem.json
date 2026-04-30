@@ -23,9 +23,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: Ako bi preračunali milisekunde u sate i minute, dobili bismo da će se Morana voziti avionom prema Parizu koji polijeće u 13:00 i traje $180$ min za cijenu $3$. Avion će sletiti u 16:00, pa će Morana otići na idući let u 17:30 prema Zagrebu koji traje $170$ min za cijenu $3$.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Croatian Olympiad in Informatics for Girls 2024",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

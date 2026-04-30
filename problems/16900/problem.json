@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon, psi0613",
   "level": 16,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 600,
   "submission_count": null,
   "average_tries": 1.8732999563217163

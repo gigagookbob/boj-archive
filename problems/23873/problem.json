@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2021 December Contest, Gold",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "segtree", "set", "tree_set"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.4590001106262207

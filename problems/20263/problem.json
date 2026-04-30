@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, 2020 ICPC Asia Taipei-Hsinchu Regional",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "mst"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.4666999578475952

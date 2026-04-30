@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, shiftpsh",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "trie"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.8875999450683594

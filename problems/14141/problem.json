@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2009",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "flow",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "graphs"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

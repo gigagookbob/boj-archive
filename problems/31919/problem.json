@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Romanian IOI Selection, Romanian IOI 2017 Selection #3",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

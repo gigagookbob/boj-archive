@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2022",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["ad_hoc", "constructive", "sorting", "sweeping"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 6.3333001136779785

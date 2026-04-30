@@ -15,12 +15,7 @@
   "hint": "<p>1 + 4 - (2 - (1 + 10) - 6) = 20</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO February 2004 Contest, Orange",
   "level": 12,
-  "tags": [
-    "dp",
-    "greedy",
-    "backtracking",
-    "recursion"
-  ],
+  "tags": ["dp", "greedy", "backtracking", "recursion"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

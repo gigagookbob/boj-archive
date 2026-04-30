@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, 2020 ICPC Asia Taipei-Hsinchu Regional",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.1521999835968018

@@ -19,11 +19,7 @@
   "hint": "<p>Так выглядит разрезание торта в первом примере:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 160px; height: 88px;\"/></p>\n<p>А так во втором примере:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 160px; height: 161px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, September 25, 2010",
   "level": 14,
-  "tags": [
-    "geometry",
-    "math",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "math", "polygon_area"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

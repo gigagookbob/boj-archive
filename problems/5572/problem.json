@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2008/2009, baekjoon",
   "level": 16,
-  "tags": [
-    "implementation",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "sorting", "ad_hoc"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.5634000301361084

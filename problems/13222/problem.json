@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2015 AIPO Preliminary Round",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 743,
   "submission_count": null,
   "average_tries": 1.176300048828125

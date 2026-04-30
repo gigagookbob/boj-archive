@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), Qualification, NOI 2023 Qualification",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.7826000452041626

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2016 Spring RUN@KAIST Programming Contest, jaydoubluel, jh05013, sait2000",
   "level": 25,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "burnside"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "burnside"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.523800015449524

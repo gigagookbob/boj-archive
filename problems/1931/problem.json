@@ -15,10 +15,7 @@
   "hint": "<p>(1,4), (5,7), (8,11), (12,14) 를 이용할 수 있다.</p>",
   "source": "jws0324, kimchangyoung, rosedskim, andy627",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 66153,
   "submission_count": null,
   "average_tries": 3.0915000438690186

@@ -27,10 +27,7 @@
   "hint": null,
   "source": "MenOfPassion, chansol, jthis, leo020630, pjshwa, tlsdydaud1, wider93",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 244,
   "submission_count": null,
   "average_tries": 2.0041000843048096

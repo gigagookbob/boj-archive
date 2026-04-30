@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 16,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "stack"
-  ],
+  "tags": ["data_structures", "implementation", "stack"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.640000104904175

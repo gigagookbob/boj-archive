@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 제1회 하이콘, swoon, Green55, gs18115, pjshwa",
   "level": 11,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["sorting", "binary_search", "prefix_sum"],
   "accepted_user_count": 433,
   "submission_count": null,
   "average_tries": 2.6835999488830566

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2019",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.6500000953674316

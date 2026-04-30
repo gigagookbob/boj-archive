@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, National Competition #2 - Juniors",
   "level": 12,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.4129999876022339

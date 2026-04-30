@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, May 13, 2018, Medium, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, May 13, 2018, Hard",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

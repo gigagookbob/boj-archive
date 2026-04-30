@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "backtracking",
-    "dp",
-    "greedy"
-  ],
+  "tags": ["backtracking", "dp", "greedy"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.428599834442139

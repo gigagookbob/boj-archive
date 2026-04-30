@@ -31,12 +31,7 @@
   "hint": null,
   "source": "baekjoon, BaaaaaaaaaaarkingDog, Green55, wjdclgns12, sujung4394",
   "level": 5,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "prime_factorization"],
   "accepted_user_count": 63399,
   "submission_count": null,
   "average_tries": 1.837399959564209

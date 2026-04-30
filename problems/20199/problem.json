@@ -19,10 +19,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>The match between players 1 and 2 is played on court 2, because the winner (player 1) has the best (first) position. For the match between playes 1 and 3, the winner has the same position on all three courts, but the loser has a better position on court 2. For the match between players 2 and 3, court 1 and 3 are equal, so the one with the smaller index is chosen (court 1).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #1",
   "level": 20,
-  "tags": [
-    "bitmask",
-    "case_work"
-  ],
+  "tags": ["bitmask", "case_work"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.9166998863220215

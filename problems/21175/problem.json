@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2020 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, Pacific Northwest Regional, 2020 ICPC Pacific Northwest Region, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2020 ICPC Pacific Northwest Region, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2020 Mid-Atlantic USA Regional Contest",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "case_work",
-    "dfs",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "case_work", "dfs", "flood_fill"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.4544999599456787

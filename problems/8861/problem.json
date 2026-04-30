@@ -15,10 +15,7 @@
   "hint": "<p>Możliwe 4 operacje to: 10010000 -&gt; <strong>0110</strong>0000 -&gt; <strong>10</strong>100000 -&gt; <strong>0</strong>0100000 -&gt; 00100<strong>111</strong></p>",
   "source": "Contest, Spontaniczny Konkurs Informatyczny, SKI 2010",
   "level": 11,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.7647000551223755

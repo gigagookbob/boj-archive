@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2024!, ibm2006, jhnah917, kipa00, kyo20111, ryute, stonejjun03, TAMREF",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "combinatorics",
-    "dp",
-    "math",
-    "randomization"
-  ],
+  "tags": ["ad_hoc", "combinatorics", "dp", "math", "randomization"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.5833001136779785

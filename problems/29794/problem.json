@@ -23,11 +23,7 @@
   "hint": "<p>용사의 수 $N$의 제한 $626\\,852$는 2011년 달성한 메이플스토리의 최고 동시 접속자 수이다.</p>\r\n",
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup), ruykun, anfidthtn, chansol, cologne, shiftpsh, tony9402, utilforever",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["bruteforcing", "prefix_sum", "difference_array"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 2.3243000507354736

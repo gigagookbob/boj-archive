@@ -23,12 +23,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "backtracking",
-    "probability"
-  ],
+  "tags": ["math", "dp", "backtracking", "probability"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

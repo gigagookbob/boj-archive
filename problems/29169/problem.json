@@ -19,13 +19,7 @@
   "hint": "<p>В первом тесте нужно купить все буквы.</p>\n<p>Во втором тесте нужно купить буквы &lt;&lt;a&gt;&gt;, &lt;&lt;b&gt;&gt;, &lt;&lt;c&gt;&gt;, &lt;&lt;d&gt;&gt;, потом продублировать строку и удалить &lt;&lt;d&gt;&gt;.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2014-2015 Season, February 14, 2015",
   "level": 19,
-  "tags": [
-    "graphs",
-    "string",
-    "shortest_path",
-    "dijkstra",
-    "z"
-  ],
+  "tags": ["graphs", "string", "shortest_path", "dijkstra", "z"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -15,11 +15,7 @@
   "hint": "<p>In this sample test our targeted (average) reward across all $T=2$ days is $30$.</p>\n<p>For the first day, since $W=60$, you can reach the total target by winning at least once. One possible strategy is to just get to that single win.</p>\n<ul>\n<li>On round $1$, you choose $A_1=$ <code>R</code>. You have an equal chance of a win, a tie, or a loss, giving you an expected value of $20$.</li>\n<li>On round $2$, $r_2=1$ and $p_2=s_2=0$. Your friend's probability of choosing <code>P</code> is $Pr[$<code>P</code>$]=r_2/1=1$, which guarantees your friend's choice $B_2=$ <code>P</code>.</li>\n<li>If you choose $A_2=$ <code>S</code>, you are guaranteed a win, giving you a score of $60$ for round $2$.</li>\n<li>Regardless of what you choose for all following rounds in the game, your expected value after just two rounds is $20+60=80$, which is enough to reach our target.</li>\n</ul>\n<p>Moreover, as we already will have the average across all 2 days at least $\\frac{80}{2}=40 \\ge X=30$, for the second day we can use any strategy.</p>\n<p>Note that this is not a unique solution. As long as the average expected score is $\\ge 30$, other outputs would also be accepted.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round C",
   "level": 16,
-  "tags": [
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "math", "probability"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.299999952316284

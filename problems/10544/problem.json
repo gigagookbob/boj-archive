@@ -19,13 +19,7 @@
   "hint": "<p>Clarification of the first sample test: If Mirko starts off at house 1, he can drop off volunteers at houses 1-2-4-2-5, respectively. If he starts off at house 2, the possible sequence is 2-5-2-4.</p>\n<p> </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #1, 79brue, polequoll, koosaga",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree",
-    "tree_diameter"
-  ],
+  "tags": ["dp", "graphs", "trees", "dp_tree", "tree_diameter"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.3792999982833862

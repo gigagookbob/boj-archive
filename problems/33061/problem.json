@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2024 December Contest, Silver",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "offline_queries"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "offline_queries"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.6216000318527222

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #7, baekjoon",
   "level": 16,
-  "tags": [
-    "graphs",
-    "sorting",
-    "mst"
-  ],
+  "tags": ["graphs", "sorting", "mst"],
   "accepted_user_count": 8994,
   "submission_count": null,
   "average_tries": 2.6830999851226807

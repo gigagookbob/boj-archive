@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2017",
   "level": 8,
-  "tags": [
-    "greedy",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["greedy", "permutation_cycle_decomposition"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.6922999620437622

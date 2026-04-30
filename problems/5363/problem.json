@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2011, Advanced, School, PLU High School Programming Contest, PLU 2011, Novice, baekjoon, upple1",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2050,
   "submission_count": null,
   "average_tries": 1.3449000120162964

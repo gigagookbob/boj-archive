@@ -15,12 +15,7 @@
   "hint": "<p>In the <strong>first test case</strong>, the output is illustrated in the following picture, where different colors correspond to different companies (blue for 1, red for 2, green for 3, and yellow for 4):</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 194px; height: 129px;\"/></p>\n<p>If we consider, for example, only companies $2$ and $3$, we can see that from any city it is possible to reach every other city (picture on the left below). However, if we restrict to company $2$ alone, it becomes impossible to reach city $5$ from city $1$ (picture on the right).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 425px; height: 129px;\"/></p>\n<p>In the <strong>second test case</strong>, the output is illustrated in the following picture:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 89px; height: 92px;\"/></p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2022-2023",
   "level": 14,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "constructive",
-    "disjoint_set"
-  ],
+  "tags": ["graphs", "data_structures", "constructive", "disjoint_set"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.9556000232696533

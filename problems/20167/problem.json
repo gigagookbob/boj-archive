@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 류호석배 알고리즘 코딩 테스트, 제1회 류호석배 알고리즘 코딩 테스트, rhs0266, BaaaaaaaaaaarkingDog, dlstj0923, tony9402",
   "level": 10,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 404,
   "submission_count": null,
   "average_tries": 1.7697999477386475

@@ -31,9 +31,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2016 AIPO National Finals",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 860,
   "submission_count": null,
   "average_tries": 1.2115999460220337

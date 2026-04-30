@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, India, The 2008 Asia Amritapuri Contest",
   "level": 21,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4.6666998863220215

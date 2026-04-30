@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2020",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "rerooting"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.4443999528884888

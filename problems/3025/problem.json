@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #6, baekjoon, aru0504",
   "level": 18,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "stack"],
   "accepted_user_count": 385,
   "submission_count": null,
   "average_tries": 5.745500087738037

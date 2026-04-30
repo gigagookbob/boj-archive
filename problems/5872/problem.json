@@ -15,11 +15,7 @@
   "hint": "<h4>Output Details</h4>\n<p>The last parenthesis must be toggled, and so must one of the two middle right parentheses.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO November 2012 Contest, Silver",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "stack"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 1.5293999910354614

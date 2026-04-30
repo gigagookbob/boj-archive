@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, dotorya",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 304,
   "submission_count": null,
   "average_tries": 2.345400094985962

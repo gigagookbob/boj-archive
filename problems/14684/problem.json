@@ -19,11 +19,7 @@
   "hint": "<p>Explanation of Output for Sample Input 1</p>\n<p>Between 12:00 and 12:34, there is only the time 12:34 for which the digits form an arithmetic sequence.</p>\n<p>Explanation of Output for Sample Input 2</p>\n<p>Between 12:00 and 3:00, the following times form arithmetic sequences in their digits (with the difference shown:</p>\n<ul>\n<li>12:34 (difference 1),</li>\n<li>1:11 (difference 0),</li>\n<li>1:23 (difference 1),</li>\n<li>1:35 (difference 2),</li>\n<li>1:47 (difference 3),</li>\n<li>1:59 (difference 4),</li>\n<li>2:10 (difference -1),</li>\n<li>2:22 (difference 0),</li>\n<li>2:34 (difference 1),</li>\n<li>2:46 (difference 2),</li>\n<li>2:58 (difference 3).</li>\n</ul>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Junior Division",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.6211999654769897

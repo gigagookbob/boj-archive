@@ -15,10 +15,7 @@
   "hint": "<p>The initial order of books is $(5, 1, 2, 4, 3)$. To sort these books out, first, put the book $4$ in the end, then do the same with book $5$. After the first visitor, the bookshelf now looks like $(5, 1, 2, 3, 4)$; it's enough to just move the book $5$ to the end. After the second visitor the order of books is $(3, 1, 2, 5, 4)$. For this order the minimum number of moves is $3$, there are several ways to achieve the final order in $3$ moves.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open 2020-2021, Qualification, Contest 1",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.666700005531311

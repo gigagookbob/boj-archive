@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2022, Division 2",
   "level": 8,
-  "tags": [
-    "math",
-    "string",
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["math", "string", "ad_hoc", "bitmask"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.1369999647140503

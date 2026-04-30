@@ -15,11 +15,7 @@
   "hint": "<p>In case 1, using the generation method, the set of intervals generated are: {[1, 1]}. Removing the only interval, the <em>covered area</em> is 0.</p>\n<p>In case 2, using the generation method, the set of intervals generated are: {[2, 5], [3, 5], [4, 7]}. Removing the first, second or third interval would cause the covered area of remaining intervals to be 5, 6 and 4, respectively.</p>\n<p>In case 3, using the generation method, the set of intervals generated are: {[3, 4], [1, 9], [0, 8], [2, 4]}. Removing the first, second, third or fourth interval would cause the covered area of remaining intervals to be 10, 9, 9 and 10, respectively.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round B APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round B",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["bruteforcing", "sorting", "sweeping"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.1578999757766724

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Codeforces, Codeforces Round 851 (Div. 2), azberjibiou, ahgus89, dohoon, flappybird, ho94949, jhnah917, jjang36524, lighton, mjhmjh1104, ncy09, puppy, tlsdydaud1",
   "level": 17,
-  "tags": [
-    "math",
-    "binary_search",
-    "combinatorics"
-  ],
+  "tags": ["math", "binary_search", "combinatorics"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.226699948310852

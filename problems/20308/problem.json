@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2020 Sogang Programming Contest, Open, sogangcse, gumgood, pichulia, QuqqU, raararaara, rhs0266, shiftpsh, woonikim",
   "level": 18,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "two_pointer",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "two_pointer", "angle_sorting"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.3529000282287598

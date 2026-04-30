@@ -15,10 +15,7 @@
   "hint": "<p>N is 6 and A is: 4, 2, 6, 1, 5, 3.</p>\n<p>Valid values for X are:</p>\n<ul>\n<li>X = 1, we swap the numbers on the following positions (1,2), (3,4), (4,5), (5,6), (2,3), (4,5), (1,2), (3,4);</li>\n<li>X = 3, we swap the numbers on the following positions (1,4), (3,6).</li>\n</ul>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2011",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.75

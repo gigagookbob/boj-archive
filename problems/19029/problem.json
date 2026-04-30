@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 9: Japanese+ Selection",
   "level": 25,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "case_work"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

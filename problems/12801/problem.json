@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2016, Croatian Olympiad in Informatics 2016, khsoo01, yclock, kks227",
   "level": 24,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "binary_search", "convex_hull"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.1379001140594482

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2025",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "number_theory",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "graphs", "number_theory", "dp_digit"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.3529000282287598

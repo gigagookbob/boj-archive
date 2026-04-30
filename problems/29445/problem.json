@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, March 17, 2012",
   "level": 9,
-  "tags": [
-    "bitmask",
-    "divide_and_conquer",
-    "math",
-    "recursion",
-    "string"
-  ],
+  "tags": ["bitmask", "divide_and_conquer", "math", "recursion", "string"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1

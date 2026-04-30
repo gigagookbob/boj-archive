@@ -15,9 +15,7 @@
   "hint": "<p>Slavkov put izgleda ovako:</p>\n<p><img alt=\"\" src=\"4.png\" style=\"height:121px; width:230px\"/></p>\n<p>Zacrnjenim pomacima Slavko je prešao između dvije pločice. </p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2014 - 1st Round",
   "level": 13,
-  "tags": [
-    "recursion"
-  ],
+  "tags": ["recursion"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

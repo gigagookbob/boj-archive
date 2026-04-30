@@ -15,11 +15,7 @@
   "hint": null,
   "source": "roy752, kdk8361, bububu111",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 30453,
   "submission_count": null,
   "average_tries": 2.2425999641418457

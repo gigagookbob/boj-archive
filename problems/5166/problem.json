@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2008: It's a Zoo",
   "level": 9,
-  "tags": [
-    "math",
-    "probability",
-    "string"
-  ],
+  "tags": ["math", "probability", "string"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.5

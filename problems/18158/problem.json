@@ -15,9 +15,7 @@
   "hint": null,
   "source": "yclock",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 255,
   "submission_count": null,
   "average_tries": 2.125499963760376

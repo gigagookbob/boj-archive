@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제4회 가톨릭대학교 프로그래밍 경진대회 (CCPC), rhkgkrwkhj, ljwljw8541, geon08, gjdms611, kimcoding, kimdae963, rhs0266, tony9402, tyoungs",
   "level": 5,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 681,
   "submission_count": null,
   "average_tries": 2.1747000217437744

@@ -19,10 +19,7 @@
   "hint": "<p>이 문제는 Python3를 이용하여 풀 수 있음이 보장되지 않습니다. Python3를 이용하는 분들은 Python3과 같은 문법을 가지면서 일반적으로 더 빠르게 동작하는 PyPy3를 이용해 제출하는 것을 권장드립니다.</p>",
   "source": "University, DGIST, 2022 DGIST 현풍전산배 알고리즘 대회, bnb2011, ekwoo, gumgood, jhnah917, lky7674, tae826, tony9402",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 162,
   "submission_count": null,
   "average_tries": 1.9383000135421753

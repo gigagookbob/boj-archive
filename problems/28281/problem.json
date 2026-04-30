@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 강원도 대학생 코딩 경진대회, 강원도 대학생 코딩 경진대회, junie, kyo20111, mjhmjh1104",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 2242,
   "submission_count": null,
   "average_tries": 1.4754999876022339

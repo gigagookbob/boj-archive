@@ -19,10 +19,7 @@
   "hint": "<ul>\n<li>The bus operator is not allowed to return to a different, parallel, eastbound road; they have to use the same road as the one by which they entered the city.</li>\n<li>More than one monument can be present at the same coordinate</li>\n</ul>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2018",
   "level": 13,
-  "tags": [
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["prefix_sum", "sweeping"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.7842999696731567

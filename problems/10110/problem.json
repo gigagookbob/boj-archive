@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCO 2014",
   "level": 17,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "prefix_sum",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "prefix_sum", "shortest_path"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.0714000463485718

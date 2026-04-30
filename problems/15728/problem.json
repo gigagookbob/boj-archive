@@ -15,10 +15,7 @@
   "hint": "<p>상대팀은 ‘팀 숫자카드’ 2장의 카드를 견제 할 수 있고 가장 큰 점수가 나올 수 있는 카드 4와 카드 3을 견제할 것이다. 이후 남은 카드로 이 팀은 ‘공유 숫자카드’의 카드 5와 ‘팀 숫자카드’의 카드 2로 최대 10점을 얻을 수 있다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 HEPC, MAVEN, hellogaon, jh05013, tncks0121",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 459,
   "submission_count": null,
   "average_tries": 2.749500036239624

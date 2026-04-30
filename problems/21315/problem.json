@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2021 IGRUS Newbie Programming Contest, panda959595, Lawali, rhs0266, tony9402, wjdclgns12",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 540,
   "submission_count": null,
   "average_tries": 2.151900053024292

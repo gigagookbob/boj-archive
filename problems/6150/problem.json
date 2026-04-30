@@ -15,11 +15,7 @@
   "hint": "<p>The following is a table of the cows' numbers for each turn:</p>\n<pre>\n          Cows' numbers\nTurn    Cow1  Cow2  Cow3\n 0        1     0     4\n 1        4     5     1\n 2        6     5     9\n 3       14    15    11\n 4       26    25    29</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO Special Chinese 2007 Contest, Gold",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.7407000064849854

@@ -15,11 +15,7 @@
   "hint": "<p>A year is a leap year if it is divisible by 4, unless it is divisible by 100 but not by 400 (for example leap years are 2000 and 2004, but not 2002 nor 1900).</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2007",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 2.0571000576019287

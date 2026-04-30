@@ -31,13 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "combinatorics",
-    "lucas"
-  ],
+  "tags": ["math", "dp", "number_theory", "combinatorics", "lucas"],
   "accepted_user_count": 2097,
   "submission_count": null,
   "average_tries": 2.280400037765503

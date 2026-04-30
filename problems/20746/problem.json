@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, LTH Challenge 2017",
   "level": 6,
-  "tags": [
-    "dp",
-    "greedy",
-    "string",
-    "case_work"
-  ],
+  "tags": ["dp", "greedy", "string", "case_work"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.565200090408325

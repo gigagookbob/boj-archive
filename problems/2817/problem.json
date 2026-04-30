@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #3, pichulia, eric00513, luluctrl4, zych1751, shp9408, bupjae, kke0949",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 529,
   "submission_count": null,
   "average_tries": 2.6445999145507812

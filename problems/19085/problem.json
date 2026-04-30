@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 5: Moscow IPT Contest",
   "level": 20,
-  "tags": [
-    "bitset",
-    "data_structures",
-    "segtree",
-    "sqrt_decomposition"
-  ],
+  "tags": ["bitset", "data_structures", "segtree", "sqrt_decomposition"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4

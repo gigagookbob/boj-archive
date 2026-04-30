@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2014",
   "level": 15,
-  "tags": [
-    "bitmask",
-    "greedy"
-  ],
+  "tags": ["bitmask", "greedy"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.200000047683716

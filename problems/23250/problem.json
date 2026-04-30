@@ -31,10 +31,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "math",
-    "recursion"
-  ],
+  "tags": ["math", "recursion"],
   "accepted_user_count": 379,
   "submission_count": null,
   "average_tries": 3.073899984359741

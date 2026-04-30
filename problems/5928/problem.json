@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>Bessie ends the contest on November 12, at 13:14 (that is, at 1:14 PM).</p><h4>Output Details</h4><p>Bessie ends the contest 1563 minutes after she starts.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO November 2011 Contest, Bronze",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 3107,
   "submission_count": null,
   "average_tries": 1.7656999826431274

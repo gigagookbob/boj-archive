@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2019 ICPC Asia Jakarta Regional Contest, ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2021 ICPC Asia Jakarta Regional Contest 연습 세션",
   "level": 4,
-  "tags": [
-    "implementation",
-    "constructive"
-  ],
+  "tags": ["implementation", "constructive"],
   "accepted_user_count": 230,
   "submission_count": null,
   "average_tries": 1.4608999490737915

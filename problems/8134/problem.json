@@ -15,11 +15,7 @@
   "hint": "<p>And the following are every possible numbers of atoms of each particular element: (0,1,1), (1,0,1), (1,1,0), (2,0,2), (2,1,3).</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2005/2006, Stage 3",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 5.75

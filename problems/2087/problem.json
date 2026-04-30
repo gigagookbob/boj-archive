@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2001/2002, Stage 3, Contest, Algorithmic Engagements, PA 2002.05",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "set",
-    "bitmask",
-    "hash_set",
-    "mitm"
-  ],
+  "tags": ["data_structures", "set", "bitmask", "hash_set", "mitm"],
   "accepted_user_count": 200,
   "submission_count": null,
   "average_tries": 2.7750000953674316

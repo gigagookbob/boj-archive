@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 6: Warsaw U Contest, XVI Open Cup Onsite",
   "level": 28,
-  "tags": [
-    "bitset",
-    "crt",
-    "dp",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bitset", "crt", "dp", "math", "number_theory"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3.6666998863220215

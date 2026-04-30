@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #5, baekjoon, fhskf94kr",
   "level": 5,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 4204,
   "submission_count": null,
   "average_tries": 2.10509991645813

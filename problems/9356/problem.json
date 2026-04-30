@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, ACM Jordanian Collegiate Programming Contest, JCPC 2012, entropy",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 1.7578999996185303

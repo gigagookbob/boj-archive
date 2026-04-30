@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon, jenny00513, jh05013, raboribus",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 4222,
   "submission_count": null,
   "average_tries": 4.030799865722656

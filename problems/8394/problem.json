@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:111px; width:102px\" /></p>\r\n\r\n<p>n=4인 경우에는 5가지 방법이 있다.</p>\r\n",
   "source": "Contest, Algorithmic Engagements, PA 2006, baekjoon",
   "level": 8,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 2589,
   "submission_count": null,
   "average_tries": 2.2007999420166016

@@ -15,11 +15,7 @@
   "hint": "<p>모든 예제의 방에는 3개의 창문이 있다.<br/>\n1번 예제의 경우, 강화한 창문과 돌을 맞은 창문이 같은 경우에만 창문이 깨지지 않으므로, 창문이 깨질 확률은 2/3이다.<br/>\n2번 예제의 경우, 어떤 창문이 강화되고, 돌 하나가 그 창문을 때려서 버텼다고 하더라도, 어떤 창문이라도 두 번째 돌을 버틸 수 없으므로, 창문이 깨질 확률은 1이다.<br/>\n3번 예제의 경우, 두 개의 강화 창문은 깨질 염려가 없다. 다만, 남은 창문 하나가 어느 일꾼에 의해서도 강화되지 않고 돌을 맞았을 경우에는 창문이 깨지므로, 전체적으로 창문이 깨지는 확률은 2/3*2/3*1/3 = 4/27이다.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google Code Jam Korea 2012, Code Jam Korea 2012 결선 라운드",
   "level": 21,
-  "tags": [
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "math", "probability"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

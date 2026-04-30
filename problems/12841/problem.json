@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, SCCC 2016 Summer Contest, hyo123bin, ntopia",
   "level": 9,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 581,
   "submission_count": null,
   "average_tries": 2.332200050354004

@@ -15,9 +15,7 @@
   "hint": "<p>In the first test case, here's one possible way the game could proceed:</p>\n<ul>\n<li>Bob chooses the first pile. Alice removes $1$ stone from it.</li>\n<li>Alice chooses the third pile. Bob removes $2$ stones from it.</li>\n<li>Bob chooses the third pile. Alice removes $1$ stone from it.</li>\n<li>Alice chooses the second pile. Bob removes $2$ stones from it and wins.</li>\n</ul>\n<p>In the second test case, Bob chooses the only pile, and Alice wins by removing the only stone from it.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2025",
   "level": 16,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2999999523162842

@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Atlantic Regional, 2021 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, North Central North America Regional, 2021 North Central NA Regional Contest",
   "level": 10,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "string", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.191499948501587

@@ -39,11 +39,7 @@
   "hint": "<ul>\n<li>$0$개의 행동을 고른 경우 각각의 행동을 수행하는 데에 걸리는 시간의 합과, 수행한 각각의 행동을 수행했을 때 얻는 만족감의 합은 모두 $0$이다.</li>\n<li>C/C++, Java 등의 언어에서 일부 변수를 $32$비트 정수형으로 선언한 경우 오버플로우가 발생할 수 있음에 유의하라.</li>\n</ul>",
   "source": "School, 대전과학고등학교, 제1회 대전과학고등학교 프로그래밍 경진대회 DSHStack, leessjn, hyperbolic, iktk, koi312500, ohwphil, sjhi00, woohyun_jng",
   "level": 14,
-  "tags": [
-    "dp",
-    "knapsack",
-    "sorting"
-  ],
+  "tags": ["dp", "knapsack", "sorting"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.6756999492645264

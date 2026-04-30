@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2011, baekjoon",
   "level": 11,
-  "tags": [
-    "math",
-    "recursion"
-  ],
+  "tags": ["math", "recursion"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 1.4490000009536743

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2019 KAIST RUN Spring Contest, Contest, Open Cup, 2018/2019 Season, Stage 19: Grand Prix of Daejeon, ainta",
   "level": 25,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "bipartite_matching",
-    "hall"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "bipartite_matching", "hall"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.1723999977111816

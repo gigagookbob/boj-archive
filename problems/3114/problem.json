@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 불도저가 오른쪽-아래, 오른쪽-아래, 아래로 이동하면 된다. 경로의 아래에 있는 사과 나무의 개수는 3+2+4=9개이고, 위에 있는 바나나 나무의 개수는 3+5=8개이다.</p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #2 - Juniors, baekjoon, fldj2855, planetarynebula",
   "level": 14,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 704,
   "submission_count": null,
   "average_tries": 2.9161999225616455

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제2회 고려대학교 MatKor Cup: 2023 Winter, eoaud0108, kidw0124, amel, chas0612, coo001",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 326,
   "submission_count": null,
   "average_tries": 3.1933000087738037

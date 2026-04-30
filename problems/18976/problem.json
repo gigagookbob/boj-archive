@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 3: MIPT Contest",
   "level": 19,
-  "tags": [
-    "graphs",
-    "mst",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "mst", "planar_graph"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.416700005531311

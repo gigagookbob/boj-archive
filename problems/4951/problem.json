@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2011 Japan Domestic Contest",
   "level": 18,
-  "tags": [
-    "dp",
-    "geometry",
-    "bitmask",
-    "dp_bitfield",
-    "bitset"
-  ],
+  "tags": ["dp", "geometry", "bitmask", "dp_bitfield", "bitset"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.9000000953674316

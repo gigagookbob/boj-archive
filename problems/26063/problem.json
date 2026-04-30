@@ -19,9 +19,7 @@
   "hint": "<p>Во втором примере есть два поля, которые можно гарантированно решить: </p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 256px; height: 106px;\"/></p>\n<p>Есть два других поля ширины $2$, но их невозможно отличить друг от друга просто посмотрев на нижний ряд:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 256px; height: 106px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Qualification",
   "level": 13,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2

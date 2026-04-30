@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Junior Final Exam #2",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "constructive",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "constructive", "priority_queue"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.3529000282287598

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2011, baekjoon, tae",
   "level": 18,
-  "tags": [
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "convex_hull"],
   "accepted_user_count": 979,
   "submission_count": null,
   "average_tries": 4.207399845123291

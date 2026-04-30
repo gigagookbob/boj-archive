@@ -19,10 +19,7 @@
   "hint": "<p>문자열의 부분 수열이란 주어진 문자열의 일부 문자를 원래 순서대로 나열하여 얻을 수 있는 문자열이다.</p>",
   "source": "University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2025 서울대학교 SCSC 프로그래밍 경시대회, Division 2, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2025 서울대학교 SCSC 프로그래밍 경시대회, Division 3, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2025 서울대학교 SCSC 프로그래밍 경시대회, Open Contest, mujigae, hyperion1019, jinhan814, jthis, kdy40929, ksi4495, lycoris1600, ohwphil, pangitwise, qvixnh22, sjh1224, sjhi00, sungjae0506, tony9402, utilforever",
   "level": 12,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 294,
   "submission_count": null,
   "average_tries": 3.210900068283081

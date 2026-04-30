@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Beginner Division, oknkc8",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 479,
   "submission_count": null,
   "average_tries": 1.88100004196167

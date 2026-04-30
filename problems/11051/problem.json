@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, BaaaaaaaaaaarkingDog, kimsu00215, loveyourself, skyoliver",
   "level": 9,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 21702,
   "submission_count": null,
   "average_tries": 2.5625998973846436

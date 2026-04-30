@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 2, jhwest2, aeren, azberjibiou, jh05013, stonejjun03",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "game_theory"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "game_theory"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.6521999835968018

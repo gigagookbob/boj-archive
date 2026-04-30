@@ -23,12 +23,7 @@
   "hint": "<p>The following picture corresponds to the situation of the first sample case above:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 171px; height: 191px;\"/></p>\n<p>Here, the corner where the watchman is located at the beginning is shown in bold and his route is indicated by shoe prints. An optimal route for you would be the following: you wait at your starting location (corner 1) for one minute, and then go to corners 2, 5, and finally 6 without further delay.</p>\n<p>The second sample has the same museum layout, but the starting location and direction of the watchman differ. A possible optimal route: go from 1 to 2, 3, 4, 5, and finally 6.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2021",
   "level": 26,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "implementation",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "implementation", "shortest_path"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 6.3333001136779785

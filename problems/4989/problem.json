@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2005 Japan Domestic Contest",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bitmask",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "bitmask", "dijkstra"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.1786000728607178

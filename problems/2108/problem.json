@@ -27,11 +27,7 @@
   "hint": null,
   "source": "jh05013, skynet, bjh3502, bsyun0571, djm03178, jungyh1509, kongum, palilo, YunGoon",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["math", "implementation", "sorting"],
   "accepted_user_count": 44324,
   "submission_count": null,
   "average_tries": 3.504199981689453

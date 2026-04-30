@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, wijae",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 12175,
   "submission_count": null,
   "average_tries": 1.4699000120162964

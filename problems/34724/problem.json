@@ -23,11 +23,7 @@
   "hint": "<p>동국대학교 일산병원은 고양시에 있으며, 동국대학교의 재학생이라면 누구든 할인을 받을 수 있다.</p>",
   "source": "University, 동국대학교, 2025 동국대학교 프로그래밍 경진대회 DGUPC, sungso376, kckyoung2, kevinlys00, pgggggggggh, swoon, wlgh7407",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "bruteforcing", "ad_hoc"],
   "accepted_user_count": 259,
   "submission_count": null,
   "average_tries": 1.270300030708313

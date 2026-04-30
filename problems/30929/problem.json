@@ -27,10 +27,7 @@
   "hint": "<p>In Sample Input 1, the player is promoted to the rank $1$ after finishing the fourth quiz, because the ratio of the correct answers 3$/4$ is higher than $p/q = 4/7$. Note that, the promotion didn’t happen at the third quiz because only three quizzes had been answered, which is less than $c = 4$. Then, after the eleventh quiz, the player is promoted to the rank $2$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 342px; height: 55px;\"/></p>\n<p style=\"text-align: center;\">Figure B.1. The timings of rank promotions of Sample Input 1</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2023 Asia Yokohama Regional",
   "level": 16,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.2999999523162842

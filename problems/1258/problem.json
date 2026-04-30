@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 247,
   "submission_count": null,
   "average_tries": 1.4817999601364136

@@ -19,13 +19,7 @@
   "hint": "<p>Note that in the second and third testcase from the first sample test it isn’t possible to do any move, so the first player loses immediately.</p>\n<p>Here is the tower from the second sample test together with two Gurdurr with their own metal beams (which are not taken from the tower):</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 693px; height: 200px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 5: Radewoosh + mnbvmar Contest, Contest, Open Cup, 2019/2020 Season, Stage 2: Grand Prix of Warsaw",
   "level": 21,
-  "tags": [
-    "dp",
-    "bitmask",
-    "game_theory",
-    "dp_bitfield",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "bitmask", "game_theory", "dp_bitfield", "sprague_grundy"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.3076999187469482

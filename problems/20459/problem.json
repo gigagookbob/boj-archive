@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере в начальный момент в БЛК находятся 4 частицы: частица е<sup>+</sup> в точке –1, частица е<sup>–</sup> в точке 0, частица е<sup>+</sup> в точке 1 и частица е<sup>–</sup> в точке 5.</p>\n<p>В момент времени 0.5 первая частица е<sup>+</sup> и первая частица е<sup>–</sup> сталкиваются в точке с координатой –0.5 и исчезают. В момент времени 1 оставшиеся две частицы находятся в точках с координатами 2 и 4, соответственно. В момент времени 2 они сталкиваются в точке 3 и исчезают. Больше в БЛК частиц нет.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2017",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.399999976158142

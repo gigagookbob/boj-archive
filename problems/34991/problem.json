@@ -27,11 +27,7 @@
   "hint": "<p>어떤 문자열 $S$의 부분문자열은 $S$의 연속된 일부를 의미한다.</p>\n<p>토카는 실제로 <a href=\"/user/toycppartoon\">toycppartoon</a>이라는 부계정을 가지고 있다.</p>",
   "source": "Contest, BOJ User Contest, 카툰컵, Cartoon Cup: ONE, toycartoon, areian13, iktk, kaorin, ksoosung77, minjunnick, nflight11, ohwphil, qvixnh22, utilforever",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 2.440500020980835

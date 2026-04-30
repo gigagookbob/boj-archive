@@ -19,12 +19,7 @@
   "hint": "<p>По понятной причине, привести тест полностью в рамках условия не представляется возможным. Первые два теста доступны по ссылкам <a href=\"https://upload.acmicpc.net/5088c0e3-4422-493a-b099-aa5f2c353abe/\">01.in</a> и <a href=\"https://upload.acmicpc.net/f1508700-bc2c-4d41-8d92-ad5758e53dce/\">02.in</a>.</p>\n<p>В тестах, являющихся настоящими английскими текстами, могут встречаться опечатки и нарушения правил орфографии и пунктуации, принятых в английском языке. Однако, жюри гарантирует, что они встречаются в количестве, не оказывающем существенного влияния на возможные решения этой задачи.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, October 19, 2013, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, October 19, 2013, Advanced",
   "level": 12,
-  "tags": [
-    "math",
-    "string",
-    "ad_hoc",
-    "statistics"
-  ],
+  "tags": ["math", "string", "ad_hoc", "statistics"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 6.4583001136779785

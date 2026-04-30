@@ -23,11 +23,7 @@
   "hint": "<p>multiset은 중복 원소를 허용하는 집합이다.</p>",
   "source": "University, 서강대학교, K512컵, 2025 서강대학교 K512컵, lem0nad3, jthis, tony9402, utilforever",
   "level": 13,
-  "tags": [
-    "trees",
-    "constructive",
-    "parity"
-  ],
+  "tags": ["trees", "constructive", "parity"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.559999942779541

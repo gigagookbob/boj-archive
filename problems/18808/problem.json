@@ -43,11 +43,7 @@
   "hint": null,
   "source": "BaaaaaaaaaaarkingDog, doju, oree2113, subinium, yys11631",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 4406,
   "submission_count": null,
   "average_tries": 1.5647000074386597

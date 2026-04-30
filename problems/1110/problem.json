@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, eric00513, jh05013, doju",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 109180,
   "submission_count": null,
   "average_tries": 2.091200113296509

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "indioindio, ZZangZZang, djm03178, kcm1700",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set",
-    "hash_set",
-    "mitm"
-  ],
+  "tags": ["data_structures", "binary_search", "set", "hash_set", "mitm"],
   "accepted_user_count": 5010,
   "submission_count": null,
   "average_tries": 3.337100028991699

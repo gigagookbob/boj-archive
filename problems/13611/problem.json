@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2014",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["math", "number_theory", "permutation_cycle_decomposition"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.0625

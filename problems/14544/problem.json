@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, South Africa Regional Contest, Beninese Collegiate Programming Contest, The 2016 Beninese Collegiate Programming Contest",
   "level": 5,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 183,
   "submission_count": null,
   "average_tries": 1.2295000553131104

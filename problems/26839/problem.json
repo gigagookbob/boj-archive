@@ -19,13 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 330px; height: 200px;\"/></p>\n<p style=\"text-align: center;\">Rysunek odpowiada pierwszemu testowi przykładowemu. Strzałkami oznaczono pozycje, w których gracz stuka w ekran telefonu.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2016/2017, Stage 1",
   "level": 14,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["implementation", "greedy", "sorting", "parity", "invariant"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

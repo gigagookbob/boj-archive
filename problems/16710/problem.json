@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2018 송년대회, bjwj5505",
   "level": 20,
-  "tags": [
-    "graphs",
-    "game_theory"
-  ],
+  "tags": ["graphs", "game_theory"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.8333001136779785

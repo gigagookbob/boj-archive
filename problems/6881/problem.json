@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2005, CCO 2005",
   "level": 11,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 2.8494999408721924

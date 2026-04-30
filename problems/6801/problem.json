@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2010, CCC 2010 Senior Division",
   "level": 13,
-  "tags": [
-    "greedy",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "binary_search", "parametric_search"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.1500000953674316

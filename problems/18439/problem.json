@@ -19,13 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 26,
-  "tags": [
-    "dp",
-    "string",
-    "bitset",
-    "lcs",
-    "bitset_lcs"
-  ],
+  "tags": ["dp", "string", "bitset", "lcs", "bitset_lcs"],
   "accepted_user_count": 426,
   "submission_count": null,
   "average_tries": 2.8991000652313232

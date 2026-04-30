@@ -15,14 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 150px; height: 154px;\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2016/2017, Stage 1",
   "level": 22,
-  "tags": [
-    "bitset",
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "scc"
-  ],
+  "tags": ["bitset", "constructive", "dfs", "graphs", "graph_traversal", "scc"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.5713999271392822

@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2014/2015, sujin",
   "level": 23,
-  "tags": [
-    "dp",
-    "trees",
-    "binary_search",
-    "dp_tree",
-    "parametric_search"
-  ],
+  "tags": ["dp", "trees", "binary_search", "dp_tree", "parametric_search"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.2112998962402344

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2017",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag"
-  ],
+  "tags": ["dp", "graphs", "dag"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.7036999464035034

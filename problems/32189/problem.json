@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 한국디지털미디어고등학교, 제 1회 2024 디미고 프로그래밍 챌린지, seungchan0325, dkim110807, ian0704, lem0nad3, lky7674, max804, nflight11, wizardrabbit, wjdclgns12",
   "level": 15,
-  "tags": [
-    "dp",
-    "string",
-    "ad_hoc",
-    "lcs"
-  ],
+  "tags": ["dp", "string", "ad_hoc", "lcs"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.0353000164031982

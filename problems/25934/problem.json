@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2015 Local Programming Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.144700050354004

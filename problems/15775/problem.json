@@ -23,11 +23,7 @@
   "hint": "<p>예제에 대한 그림은 다음과 같다.:</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 391px; height: 351px;\" /></p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 600px; height: 379px;\" /></p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 429px; height: 459px;\" /></p>\r\n",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2018 KAIST RUN Spring Contest, koosaga, eric00513, jh05013",
   "level": 18,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 3.5134999752044678

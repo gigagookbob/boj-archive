@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2022, Beginner",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.1399999856948853

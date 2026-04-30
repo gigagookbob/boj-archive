@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2015",
   "level": 9,
-  "tags": [
-    "arbitrary_precision",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["arbitrary_precision", "implementation", "simulation"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.6666998863220215

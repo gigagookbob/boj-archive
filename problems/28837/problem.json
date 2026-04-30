@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере сначала можно нажать на первую кнопку и из вселенной номер $2$ переместиться во вселенную номер $2 \\lor 3 = 3$, а затем нажать кнопку $4$ и из вселенной $3$ переместиться во вселенную $3 \\lor 10 = 11$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, February 10, 2019",
   "level": 10,
-  "tags": [
-    "greedy",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bitmask"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.2592999935150146

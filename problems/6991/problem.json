@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"3.jpg\" style=\"height:207px; width:297px\"/></p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2008, 고등부",
   "level": 20,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "hashing"
-  ],
+  "tags": ["graphs", "ad_hoc", "hashing"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.4655001163482666

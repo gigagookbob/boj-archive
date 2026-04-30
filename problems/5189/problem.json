@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2006: 100 Years of Engineering",
   "level": 14,
-  "tags": [
-    "geometry",
-    "case_work",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "case_work", "line_intersection"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.25

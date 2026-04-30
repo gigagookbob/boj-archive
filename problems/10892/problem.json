@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:110px; width:139px\"/></p>\n<p>위와 같다</p>",
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "geometry", "constructive"],
   "accepted_user_count": 225,
   "submission_count": null,
   "average_tries": 1.4043999910354614

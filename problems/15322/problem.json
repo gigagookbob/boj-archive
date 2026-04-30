@@ -23,10 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​first​ ​test​ ​case: The first piece of land can be mowed without making any turns if he starts from the field in the first column of the table, faced to the right and only going forwards. A similar idea applies for the second piece of land.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #2",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 248,
   "submission_count": null,
   "average_tries": 1.378999948501587

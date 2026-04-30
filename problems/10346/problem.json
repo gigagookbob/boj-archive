@@ -15,13 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"4.png\" style=\"height:959px; width:674px\"/></p>",
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2014 Mid-Central Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bitmask",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bitmask", "dfs"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1764999628067017

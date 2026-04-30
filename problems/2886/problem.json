@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #7, pl0892029",
   "level": 15,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["implementation", "greedy", "sorting"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 4.452400207519531

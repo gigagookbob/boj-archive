@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, JOI Open Contest, JOI Open Contest 2015",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.5185000896453857

@@ -27,11 +27,7 @@
   "hint": "<p>I första exempelfallet står en från klass A och en från klass B i den andra kolumnen. Då båda dessa elever måste ha samma färg på hatten måste hela klass A ha samma färg som hela klass B. Slutsatsen är att alla elever på avslutningen måste ha samma färg, vilket gör att svaret blir $1$.</p>\n<p>I andra exempelfallet måste klass A och B ha samma färg, då det finns en elev från vardera av dessa två klasser i den första kolumnen. Klass C kan däremot få en annan färg på sina hattar. Svaret blir då $2$.</p>\n<p>I det tredje exempelfallet kan vi ge varje klass varsin färg, eftersom det inte förekommer två elever från olika klasser i samma kolumn. Svaret blir $3$</p>\n<p>I det sista exempelfallet kan vi tilldela alla elever från klass A, B och C en färg, och alla elever från klass D och E en annan färg. Svaret blir $2$.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Online Qualification",
   "level": 8,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "greedy"
-  ],
+  "tags": ["graphs", "graph_traversal", "greedy"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.0525999069213867

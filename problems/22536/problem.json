@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Contest, JAG Winter Contest 2012",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "bitmask",
-    "probability",
-    "dp_bitfield"
-  ],
+  "tags": ["math", "dp", "graphs", "bitmask", "probability", "dp_bitfield"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

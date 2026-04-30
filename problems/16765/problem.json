@@ -15,9 +15,7 @@
   "hint": "<p>In this example, the optimal solution is to group the first three cows and the last three cows, leaving the middle cow on a team by itself (remember that it is fine to have teams of size less than $K$). This effectively boosts the skill levels of the 7 cows to 15, 15, 15, 9, 10, 10, 10, which sums to 84.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Gold",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 282,
   "submission_count": null,
   "average_tries": 1.5815999507904053

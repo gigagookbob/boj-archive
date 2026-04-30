@@ -15,9 +15,7 @@
   "hint": "<p>On the upper boundary the first socket contains ports $1, 2$ and  $3$, the second: port $4$, and the third: $5, 6, 7$ and $8$. By switching the sockets we can obtain the following sequences of ports on the upper boundary:</p>\n<ul>\n<li>$(1, 2, 3)\\quad (4)\\quad (5, 6, 7, 8)$;</li>\n<li>$(1, 2, 3)\\quad (4)\\quad (8, 7, 6, 5)$;</li>\n<li>$(3, 2, 1)\\quad (4)\\quad (5, 6, 7, 8)$;</li>\n<li>$(3, 2, 1)\\quad (4)\\quad (8, 7, 6, 5)$.</li>\n</ul>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2017",
   "level": 22,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

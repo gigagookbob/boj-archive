@@ -15,10 +15,7 @@
   "hint": "<p>Note that Sample Cases #4 and #5 would not appear in the Small dataset.</p>\n<p>Sample Case #1 is the one described in the problem statement.</p>\n<p>In Sample Case #2, Jamie must cover for all of Cameron's activity time, and then Cameron must cover all the remaining time. This schedule entails four exchanges.</p>\n<p>In Sample Case #3, there is an exchange at midnight, from Cameron to Jamie. No matter how the parents divide up the remaining 1438 non-activity minutes of the day, there must be at least one exchange from Jamie to Cameron, and there is no reason to add more exchanges than that.</p>\n<p>In Sample Case #4, note that back-to-back activities can exist for the same partner or different partners. There is no exchange at midnight because Cameron has activities both right before and right after that time. However, the schedule needs to add some time for Cameron in between Jamie's activities, requiring a total of 4 exchanges. Notice that it is optimal to add a single interval for Cameron of length 718 somewhere between minutes 2 and 1438, but the exact position of that added interval does not impact the number of exchanges, so there are multiple optimal schedules.</p>\n<p>In Sample Case #5, a possible optimal schedule is to assign Cameron to the intervals (in minutes) 100-200, 500-620, and 900-1400.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 1C",
   "level": 10,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.333299994468689

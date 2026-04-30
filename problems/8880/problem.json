@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2013, baekjoon, joonas",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "backtracking"
-  ],
+  "tags": ["math", "number_theory", "backtracking"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.978300094604492

@@ -19,11 +19,7 @@
   "hint": "<p>First example is the one from the problem statement.</p>\n<p>In the second example, sequence cannot be repaired.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2015",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "string",
-    "stack"
-  ],
+  "tags": ["data_structures", "string", "stack"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.024399995803833

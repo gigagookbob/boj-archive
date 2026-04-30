@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 5: U of Wroclaw Contest",
   "level": 18,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "dp", "segtree"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2

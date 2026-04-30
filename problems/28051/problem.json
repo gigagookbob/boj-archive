@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 20,
-  "tags": [
-    "greedy",
-    "string",
-    "binary_search",
-    "hashing",
-    "kmp"
-  ],
+  "tags": ["greedy", "string", "binary_search", "hashing", "kmp"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.1951000690460205

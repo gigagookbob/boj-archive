@@ -15,11 +15,7 @@
   "hint": null,
   "source": "moonrabbit2",
   "level": 22,
-  "tags": [
-    "articulation",
-    "bcc",
-    "graphs"
-  ],
+  "tags": ["articulation", "bcc", "graphs"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 5.5

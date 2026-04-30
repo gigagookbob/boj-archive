@@ -23,11 +23,7 @@
   "hint": "<p><em>Isn't the last sample sample beautiful and concise?</em> </p>",
   "source": "Camp, Moscow Pre-Finals ACM ICPC Workshop, Moscow Pre-Finals ACM ICPC Workshop 2018",
   "level": 19,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "ad_hoc", "planar_graph"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

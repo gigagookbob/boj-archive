@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2011, baekjoon",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 3.4530999660491943

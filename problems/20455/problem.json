@@ -15,11 +15,7 @@
   "hint": "<p>В примере пользователю необходимо оптимально действовать следующим образом: нажать на кнопку B и получить число 36, затем нажать на кнопку A и получить число 18, затем нажать на кнопку C и получить число 8, затем второй раз нажать на кнопку A и получить число 4.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2017",
   "level": 9,
-  "tags": [
-    "dp",
-    "greedy",
-    "math"
-  ],
+  "tags": ["dp", "greedy", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2

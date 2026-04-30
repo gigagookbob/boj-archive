@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2006 Mid-Atlantic Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "geometry", "two_pointer"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

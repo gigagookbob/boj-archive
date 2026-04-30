@@ -23,10 +23,7 @@
   "hint": "<p>Всички естествени числа, по-малки от 68889, имат устойчивост 6 или по-малка.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2018, Group C",
   "level": 12,
-  "tags": [
-    "math",
-    "precomputation"
-  ],
+  "tags": ["math", "precomputation"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.4118000268936157

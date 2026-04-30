@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제2회 생각하는 프로그래밍 대회, willook",
   "level": 10,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 2039,
   "submission_count": null,
   "average_tries": 1.5253000259399414

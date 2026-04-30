@@ -263,12 +263,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, District Championships",
   "level": 0,
-  "tags": [
-    "ad_hoc",
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["ad_hoc", "implementation", "parsing", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

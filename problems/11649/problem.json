@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2015 Southeast USA Regional Programming Contest, Division 2",
   "level": 6,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 157,
   "submission_count": null,
   "average_tries": 1.3631000518798828

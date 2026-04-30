@@ -23,11 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 90px; height: 93px;\"/></p>\n<p style=\"text-align: center;\">Рис. 1: Пояснение для первого теста</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 196px; height: 197px;\"/></p>\n<p style=\"text-align: center;\">Рис. 2: Пояснение для второго теста</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 196px; height: 197px;\"/></p>\n<p style=\"text-align: center;\">Рис. 3: Пояснение для третьего теста</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, February 10, 2018",
   "level": 16,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 9.5

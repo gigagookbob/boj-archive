@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2020 SciOI #1, blackking26",
   "level": 23,
-  "tags": [
-    "mo",
-    "offline_queries",
-    "prefix_sum"
-  ],
+  "tags": ["mo", "offline_queries", "prefix_sum"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 6.2778000831604

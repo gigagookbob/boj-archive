@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2003 in Aizu, alsidnf",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask"
-  ],
+  "tags": ["dp", "bitmask"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.4544999599456787

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2020 December Contest, Gold",
   "level": 21,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.5184999704360962

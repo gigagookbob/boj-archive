@@ -19,12 +19,7 @@
   "hint": "<p>놀이판과 장치들의 위치는 아래 그림과 같습니다. 각 장치 위에 쓰인 수들은 이 장치를 설치하기 위해 필요한 비용을 나타냅니다.</p>\r\n\r\n<p><img alt=\"\" src=\"2.png\" style=\"height:322px; width:278px\" /></p>\r\n\r\n<p>다섯 개의 장치들 중 2번째, 4번째, 5번째 장치를 두면, 놀이판은 아래와 같게 됩니다.</p>\r\n\r\n<p><img alt=\"\" src=\"3.png\" style=\"height:322px; width:276px\" /></p>\r\n\r\n<p>그러면, 꼭대기의 어떤 격자에 공이 등장하더라도 이 공은 바닥의 (7, 3)에 도달할 것입니다. 이들 장치를 설치하는 데에 드는 총 비용은 25원입니다. 여러분은 25를 출력해야 하는데, 25원보다 적은 비용을 들이면서 공이 도달할 수 있는 바닥의 격자가 단 하나 존재하도록 할 수 없기 때문입니다.</p>\r\n",
   "source": "Contest, JOI Open Contest, JOI Open Contest 2014, tncks0121",
   "level": 22,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "dp", "segtree"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 2.585900068283081

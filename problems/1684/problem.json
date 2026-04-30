@@ -23,11 +23,7 @@
   "hint": null,
   "source": "author6, jh05013, kimhero, citizen",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 720,
   "submission_count": null,
   "average_tries": 2.0292000770568848

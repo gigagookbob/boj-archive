@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 스타보우컵, 제1회 스타보우컵, starbow, kiwiyou, leo020630, lycoris1600, naeby, utilforever, yup0927",
   "level": 13,
-  "tags": [
-    "case_work",
-    "implementation",
-    "math"
-  ],
+  "tags": ["case_work", "implementation", "math"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 4.555600166320801

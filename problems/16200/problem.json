@@ -31,10 +31,7 @@
   "hint": "<p>예를 들어, 5명의 학생이 있고, X<sub>1</sub> = 1, X<sub>2</sub> = 2, X<sub>3</sub> = 5, X<sub>4</sub> = 2, X<sub>5</sub> = 1인 경우에 팀의 수의 최솟값은 4이다.</p>\r\n\r\n<p>{1}, {2}, {3}, {4}, {5}로 5개의 팀을 만드는 방법이 있지만, 이것은 팀의 수가&nbsp;최소가 아니다. {1}, {3}, {5}, {2, 4}와 같이 팀을 만들면, 문제의 조건을 모두 만족하고, 팀의 수도 최소이다.</p>\r\n",
   "source": "haden, tncks0121",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 485,
   "submission_count": null,
   "average_tries": 1.7030999660491943

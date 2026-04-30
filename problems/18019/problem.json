@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2019",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "math"
-  ],
+  "tags": ["bruteforcing", "implementation", "math"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 2.3438000679016113

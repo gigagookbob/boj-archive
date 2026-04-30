@@ -23,11 +23,7 @@
   "hint": "<p>Informally speaking, a context-free formal grammar is a set of terminals (lowercase English letters in this problem), a set of nonterminals (uppercase English letters in this problem), and a set of rules of how a nonterminal can be replaced with a string of nonterminals or terminals.</p>\n<p>Chomsky reduced form is a form where each rule is a replacement with either a single terminal or exactly two nonterminals. In fact, any context-free grammar which does not generate the empty string can be converted to Chomsky reduced form.</p>\n<p>A string of terminals is in the language of the grammar if one can use the rules to convert a string of a single starting nonterminal into the given string. You can get some formal details at <a href=\"https://en.wikipedia.org/wiki/Context-free_grammar\">https://en.wikipedia.org/wiki/Context-free_grammar</a>. </p>\n<p>The formal grammar in the two last examples defines all non-empty correct bracket sequences, with opening brackets denoted with '<code>c</code>' and closing brackets denoted with '<code>j</code>'.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2020-2021 North-Western Russia Regional Contest",
   "level": 22,
-  "tags": [
-    "arbitrary_precision",
-    "dp",
-    "graphs"
-  ],
+  "tags": ["arbitrary_precision", "dp", "graphs"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 5

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2014, baekjoon",
   "level": 8,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["graphs", "graph_traversal", "permutation_cycle_decomposition"],
   "accepted_user_count": 11391,
   "submission_count": null,
   "average_tries": 1.5710999965667725

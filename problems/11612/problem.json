@@ -27,13 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2015 Pacific Northwest Region Programming Contest, Division 2, ICPC, Regionals, North America, Southeast USA Regional, 2015 Southeast USA Regional Programming Contest, Division 1",
   "level": 12,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bipartite_graph"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "bfs", "bipartite_graph"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.8799999952316284

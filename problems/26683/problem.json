@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

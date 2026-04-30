@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024 예선, golazcc83, azberjibiou, chansol, cki86201, evenharder, gs22123, jh05013, kclee2172, kipa00, queued_q, qwerasdfzxcl, sorohue, whqkrkt04",
   "level": 17,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 3.3106000423431396

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 강원도 대학생 코딩 경진대회, 강원도 대학생 코딩 경진대회, kyo20111, junie, mjhmjh1104",
   "level": 12,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "sorting",
-    "bfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "sorting", "bfs"],
   "accepted_user_count": 199,
   "submission_count": null,
   "average_tries": 3.251300096511841

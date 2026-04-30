@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog primjera: Kvadratni podstringovi su: ab, abca, bcac, ca, cacc, caccaa, ac, acca, cc, ccaa, ca, caab, aa i ab.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2019, Junior Final Exam #2",
   "level": 12,
-  "tags": [
-    "sliding_window",
-    "string"
-  ],
+  "tags": ["sliding_window", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.125

@@ -15,12 +15,7 @@
   "hint": "<p>Первая группа тестов проверяется в момент сдачи задачи на проверку и стоит 50 баллов. Баллы за эту группу начисляются только при прохождении всех тестов группы. Во всех тестах этой группы отсутствуют команды <code>save</code> и <code>load</code></p>\n<p>Вторая группа тестов проверяется после окончания олимпиады и стоит 50 баллов. Баллы за эту группу начисляются только при прохождении всех тестов группы.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, January 18, 2014",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 504,
   "submission_count": null,
   "average_tries": 1.253999948501587

@@ -27,9 +27,7 @@
   "hint": null,
   "source": "baekjoon, waylight3, newdeal",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 30705,
   "submission_count": null,
   "average_tries": 2.2251999378204346

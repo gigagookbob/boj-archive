@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2014",
   "level": 19,
-  "tags": [
-    "implementation",
-    "simulation",
-    "randomization"
-  ],
+  "tags": ["implementation", "simulation", "randomization"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 5.900000095367432

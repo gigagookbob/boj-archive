@@ -15,9 +15,7 @@
   "hint": "<p>В примере возможны следующие варианты знаков &lt;&lt;движение по полосам&gt;&gt;:</p>\n<table class=\"table table-bordered table-center-60\">\n<thead>\n<tr>\n<th>С левой полосы</th>\n<th>С правой полосы</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>разворот</td>\n<td>разворот, налево, прямо, направо</td>\n</tr>\n<tr>\n<td>разворот</td>\n<td>налево, прямо, направо</td>\n</tr>\n<tr>\n<td>разворот, налево</td>\n<td>налево, прямо, направо</td>\n</tr>\n<tr>\n<td>разворот, налево</td>\n<td>прямо, направо</td>\n</tr>\n<tr>\n<td>разворот, налево, прямо</td>\n<td>прямо, направо</td>\n</tr>\n<tr>\n<td>разворот, налево, прямо</td>\n<td>направо</td>\n</tr>\n<tr>\n<td>разворот, налево, прямо, направо</td>\n<td>направо</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2007",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

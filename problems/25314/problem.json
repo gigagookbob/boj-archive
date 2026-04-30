@@ -19,9 +19,7 @@
   "hint": "<p>출력에서 <span style=\"color:#e74c3c;\"><code>long</code></span>과 <span style=\"color:#e74c3c;\"><code>long</code></span>, <span style=\"color:#e74c3c;\"><code>long</code></span>과 <span style=\"color:#e74c3c;\"><code>int</code></span> 사이에는 공백이 하나씩 들어간다.</p>\n<p>실제로 C++에서 각 정수 자료형이 저장할 수 있는 수의 크기는 환경에 따라 달라질 수 있다. 덧붙여, 실제로 문제 내용과 같이 <span style=\"color:#e74c3c;\"><code>long long long int</code></span>와 같은 자료형을 사용한 코드를 GCC의 C++ 컴파일러를 사용해 컴파일하려고 할 경우 <code>'long long long' is too long for GCC</code>라는 에러 메시지와 함께 컴파일되지 않는다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022 예선, ho94949, shiftpsh, quickn, myungwoo, man_of_learning, lky7674, kclee2172, jh05013, hyperbolic, 99asdfg, heeda0528, functionx, exqt, doju, djm03178, bnb2011, amok",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 83296,
   "submission_count": null,
   "average_tries": 1.579200029373169

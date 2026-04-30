@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, harinboy",
   "level": 9,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 58605,
   "submission_count": null,
   "average_tries": 2.5562000274658203

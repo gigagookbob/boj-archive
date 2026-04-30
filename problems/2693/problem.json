@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2009 Greater New York Programming Contest, baekjoon, occidere",
   "level": 5,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 13177,
   "submission_count": null,
   "average_tries": 1.3199000358581543

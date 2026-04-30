@@ -19,10 +19,7 @@
   "hint": null,
   "source": null,
   "level": 9,
-  "tags": [
-    "string",
-    "sliding_window"
-  ],
+  "tags": ["string", "sliding_window"],
   "accepted_user_count": 10665,
   "submission_count": null,
   "average_tries": 2.724100112915039

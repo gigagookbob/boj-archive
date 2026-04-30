@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2013",
   "level": 15,
-  "tags": [
-    "greedy",
-    "prefix_sum",
-    "sorting"
-  ],
+  "tags": ["greedy", "prefix_sum", "sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

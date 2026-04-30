@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2013, baekjoon",
   "level": 28,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "greedy", "segtree"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.1333000659942627

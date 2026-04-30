@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO US Open 2007 Contest, Gold",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 253,
   "submission_count": null,
   "average_tries": 2.2054998874664307

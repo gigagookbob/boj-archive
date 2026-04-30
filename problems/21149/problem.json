@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Southeast USA Regional, 2020 Southeast USA Regional Programming Contest, ICPC, Regionals, North America, Mid-Central Regional, 2020 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, Mid-Atlantic Regional, 2020 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, South Central USA Regional, 2020 South Central USA Regional Contest",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 2.050800085067749

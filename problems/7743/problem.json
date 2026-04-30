@@ -15,13 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:225px; width:169px\"/></p>",
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2004",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "binary_search", "set", "prefix_sum", "sweeping"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

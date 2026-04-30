@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, IDTcup, 제 3회 IDTcup, TAMREF, 79brue, aeren, qwerasdfzxcl",
   "level": 24,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "lucas"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "lucas"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.125

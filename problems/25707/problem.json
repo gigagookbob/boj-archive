@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2022 IGRUS Newbie Programming Contest, aym506, 39dll, chlwnsgud7, gumgood, wjdclgns12, yooshnn, yuja",
   "level": 6,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "sorting", "ad_hoc"],
   "accepted_user_count": 937,
   "submission_count": null,
   "average_tries": 1.3489999771118164

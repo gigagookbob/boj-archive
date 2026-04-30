@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 500px; height: 291px;\"/></p>\n<p style=\"text-align: center;\">State of the grid after each operation for example 2</p>",
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2024 KAIST 14th ICPC Mock Competition, azberjibiou, cologne, jhwest2, koosaga, urd05",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "ad_hoc", "segtree", "lazyprop"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

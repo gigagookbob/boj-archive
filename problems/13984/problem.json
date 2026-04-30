@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2016 Pacific Northwest Region Programming Contest, Division 2",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "priority_queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "priority_queue"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.666700005531311

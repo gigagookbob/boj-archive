@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2016, pkcchoi3",
   "level": 18,
-  "tags": [
-    "dijkstra",
-    "geometry",
-    "graphs",
-    "implementation",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "geometry", "graphs", "implementation", "shortest_path"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 3.6923000812530518

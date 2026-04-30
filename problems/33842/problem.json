@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 04-05., pyb1031, jthis, snrnsidy, tony9402, utilforever",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2

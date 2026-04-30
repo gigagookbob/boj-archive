@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2019",
   "level": 17,
-  "tags": [
-    "floyd_warshall",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["floyd_warshall", "graphs", "shortest_path"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

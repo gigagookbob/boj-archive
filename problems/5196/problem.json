@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2006: Midterm Elections",
   "level": 12,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "backtracking"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "backtracking"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.4443999528884888

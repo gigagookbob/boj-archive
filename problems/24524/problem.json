@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2022 성균관대학교 프로그래밍 경진대회, shjohw12, 79brue, cs71107, hibye1217, jh05013, jhnah917, tony9402",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "string"
-  ],
+  "tags": ["data_structures", "greedy", "string"],
   "accepted_user_count": 516,
   "submission_count": null,
   "average_tries": 2.2713000774383545

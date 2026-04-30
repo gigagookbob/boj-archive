@@ -15,9 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2020, Advanced",
   "level": 10,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.38100004196167

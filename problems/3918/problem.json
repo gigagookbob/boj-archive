@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2005 in Tokyo",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "bruteforcing"
-  ],
+  "tags": ["bitmask", "bruteforcing"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

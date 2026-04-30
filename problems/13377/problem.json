@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2015 ACM-ICPC Thailand National Programming Contest",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "precomputation"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "precomputation"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 1.3029999732971191

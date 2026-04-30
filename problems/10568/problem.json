@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2014 Pacific Northwest Region Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2014 Pacific Northwest Region Programming Contest, Division 2, doju",
   "level": 12,
-  "tags": [
-    "floyd_warshall",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["floyd_warshall", "graphs", "shortest_path"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.516700029373169

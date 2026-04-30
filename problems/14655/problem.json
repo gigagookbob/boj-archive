@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 라운드에서 –2, -7, -8을 뒤집으면 동전 값의 합을 최대로 만들 수 있다.</p>\n<p>두 번째 라운드에서 1, 8, -7을 뒤집고 7, 5, 2를 뒤집으면 동전 값의 합을 최소로 만들 수 있다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제1회 천하제일 코딩대회 본선, jh05013",
   "level": 6,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 1344,
   "submission_count": null,
   "average_tries": 1.1890000104904175

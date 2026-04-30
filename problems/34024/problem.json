@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2025 Spring Automata 창하컵, raehwan0418, davidkim0, edward3378, eric00513, flakepowders, mythofys, parkky, sooahn07",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.666700005531311

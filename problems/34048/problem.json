@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 06., swoon, chogahui05, jthis, pyb1031, utilforever",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.4607000350952148

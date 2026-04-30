@@ -19,13 +19,7 @@
   "hint": "<p>Graphs for 2n = 4:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 438px; height: 247px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 1: 300iq Contest, 300iq",
   "level": 25,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "combinatorics",
-    "generating_function"
-  ],
+  "tags": ["math", "dp", "graphs", "combinatorics", "generating_function"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5312999486923218

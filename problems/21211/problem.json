@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2020-2021",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["ad_hoc", "dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.1509000062942505

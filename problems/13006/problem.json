@@ -27,11 +27,7 @@
   "hint": null,
   "source": null,
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 2.7571001052856445

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2015 in Tsukuba",
   "level": 23,
-  "tags": [
-    "trees",
-    "lca",
-    "dominator_tree"
-  ],
+  "tags": ["trees", "lca", "dominator_tree"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5

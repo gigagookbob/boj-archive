@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 08., kiwiyou, chogahui05, cologne, heeda0528, lky7674, pjshwa, rustiebeats, tony9402, utilforever",
   "level": 7,
-  "tags": [
-    "math",
-    "data_structures",
-    "geometry",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["math", "data_structures", "geometry", "set", "hash_set"],
   "accepted_user_count": 302,
   "submission_count": null,
   "average_tries": 1.5694999694824219

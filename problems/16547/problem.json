@@ -15,11 +15,7 @@
   "hint": "<p>The only way to form an oblong is with points 1,2,7,8. Of the remaining four points there are two ways to form a right triangle from them.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 316px; height: 299px;\"/></p>",
   "source": "Contest, Waterloo's local Programming Contests, 30 September, 2018",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "geometry", "backtracking"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

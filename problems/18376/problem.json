@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, IDTcup, 제 2회 IDTcup, TAMREF",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "trees"
-  ],
+  "tags": ["data_structures", "segtree", "trees"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 8.133299827575684

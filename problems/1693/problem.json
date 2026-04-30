@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author6",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 1134,
   "submission_count": null,
   "average_tries": 3.051100015640259

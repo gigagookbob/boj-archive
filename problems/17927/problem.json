@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, Nova Challenge 2018",
   "level": 14,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.6923000812530518

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2017",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.833299994468689

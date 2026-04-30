@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2005",
   "level": 22,
-  "tags": [
-    "graphs",
-    "bipartite_matching",
-    "scc"
-  ],
+  "tags": ["graphs", "bipartite_matching", "scc"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 7

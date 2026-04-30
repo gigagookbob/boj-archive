@@ -15,10 +15,7 @@
   "hint": "<p>예제의 순열 그래프를 그리면 다음과 같다.</p>\r\n\r\n<p><img alt=\"\" src=\"1.png\" style=\"height:44px; width:140px\" /></p>\r\n",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2012, School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2016 송년대회, koosaga",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "ad_hoc"
-  ],
+  "tags": ["data_structures", "ad_hoc"],
   "accepted_user_count": 300,
   "submission_count": null,
   "average_tries": 2.3132998943328857

@@ -15,10 +15,7 @@
   "hint": "<p>The first example denotes the actual names used in the <em>Gapja</em> system. These strings usually are either a number or the name of some animal.</p>",
   "source": "Contest, Codeforces, Hello 2020, koosaga",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 220,
   "submission_count": null,
   "average_tries": 1.1090999841690063

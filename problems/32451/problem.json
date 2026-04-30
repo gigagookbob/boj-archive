@@ -27,13 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2024, jhnah917",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "segtree",
-    "constructive"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "segtree", "constructive"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.5741000175476074

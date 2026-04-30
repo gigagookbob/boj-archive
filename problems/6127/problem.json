@@ -15,9 +15,7 @@
   "hint": "<p>The pasture has 4 rows and 4 columns. Bessie needs to shoot cows at (2,1), (2,3), and (4,1):</p>\n<pre>\n           . . . .\n           C . C .  \n           . . . .   &lt;---  Cow locations\n           C . . .</pre>\n<p>Bessie can occupy any of these cells: (2,1), (2,3), (3,2), (4,1), and (4,3). The diagram below notates possibly shared spaces by '*':</p>\n<pre>\n        .. . .           . . . .\n        B . B .   ---\\    * . * .\n        . B . .   ---/    . B . .\n        B . B .           * . B .\n   Potential Bessie     Bessie &amp;amp; Cows\n     Locations</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO October 2007 Contest, Gold",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.1538000106811523

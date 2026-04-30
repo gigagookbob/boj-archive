@@ -15,10 +15,7 @@
   "hint": "<p>For the first query, the possible triples are $(A_1,A_2,A_5)$ and $(A_2,A_3,A_4).$</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 January Contest, Gold",
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 181,
   "submission_count": null,
   "average_tries": 3.3315000534057617

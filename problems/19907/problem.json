@@ -15,11 +15,7 @@
   "hint": "<p>На рисунке приведены уровни снега на площади перед каждым действием в примере и оптимальный маршрут такси для каждой успешной попытки проехать от одного квадрата до другого.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 504px; height: 623px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2019",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

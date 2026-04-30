@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2010, baekjoon, ytw0728",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.3824000358581543

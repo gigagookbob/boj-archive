@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 9: Carnegie Mellon U Contest",
   "level": 23,
-  "tags": [
-    "implementation",
-    "graphs",
-    "data_structures",
-    "segtree",
-    "scc"
-  ],
+  "tags": ["implementation", "graphs", "data_structures", "segtree", "scc"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4.75

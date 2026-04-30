@@ -19,13 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, kiwiyou, powergee, tony9402",
   "level": 12,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "trees",
-    "bitmask"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "trees", "bitmask"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.5844000577926636

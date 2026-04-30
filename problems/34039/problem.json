@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2025 KPSC Summer Algorithm Challenge, chan120714, gggkik, haru_101, kangsm02, kevinlys00, lky7674, saywoo, sjhi00, usb9245, utilforever, young_out",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 2.470599889755249

@@ -31,12 +31,7 @@
   "hint": "<p>In Sample 1, we have the next grid ('<code>.</code>' denotes white square, '<code>!</code>' --- black square):</p>\n<pre>\n...\n.!.</pre>\n<p>We assign alphabet to white squares, like below.</p>\n<pre>\nABC\nD!E</pre>\n<p>So we get (here $dist(A,B)$ is the shortest distance between $A$ and $B$):</p>\n<p>$dist(A, B) = 1$, $dist(A, C) = 2$, $dist(A, D) = 1$, $dist(A, E) = 3$, $dist(B, C) = 1$, $dist(B, D) = 2$, $dist(B, E) = 2$, $dist(C, D) = 3$, $dist(C, E) = 1$, $dist(D, E) = 4$, and sum of those is $20$.</p>\n<p>In Sample 2, we assign alphabet to white squares, like below.</p>\n<pre>\nABC\nDE!</pre>\n<p>So we get:</p>\n<p>$dist(A, B) = 1$, $dist(A, C) = 2$, $dist(A, D) = 1$, $dist(A, E) = 2$, $dist(B, C) = 1$, $dist(B, D) = 2$, $dist(B, E) = 1$, $dist(C, D) = 3$, $dist(C, E) = 2$, $dist(D, E) = 1$, and sum of those is $16$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 23,
-  "tags": [
-    "bfs",
-    "coordinate_compression",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "coordinate_compression", "graphs", "graph_traversal"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

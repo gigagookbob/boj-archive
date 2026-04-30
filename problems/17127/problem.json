@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCCC 벚꽃맞이 컨테스트, wookje",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 1366,
   "submission_count": null,
   "average_tries": 1.3946000337600708

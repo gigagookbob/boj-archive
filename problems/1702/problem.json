@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2002, author6, koosaga, palilo, wjdeh515",
   "level": 16,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 4.099999904632568

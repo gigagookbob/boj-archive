@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 2, jms020820, edwardblue, jsj0412, m4ushold, tlsdydaud1",
   "level": 18,
-  "tags": [
-    "dp",
-    "binary_search",
-    "parametric_search",
-    "knapsack"
-  ],
+  "tags": ["dp", "binary_search", "parametric_search", "knapsack"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 4.296299934387207

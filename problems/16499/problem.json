@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 ERICA Software-Up Programming Contest, League B",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "sorting", "set", "hash_set"],
   "accepted_user_count": 1280,
   "submission_count": null,
   "average_tries": 1.4062999486923218

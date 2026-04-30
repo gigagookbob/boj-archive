@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 OVA ~한여름의 수학여행 편~, sait2000, hyperbolic",
   "level": 24,
-  "tags": [
-    "case_work",
-    "dp",
-    "recursion"
-  ],
+  "tags": ["case_work", "dp", "recursion"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -23,12 +23,7 @@
   "hint": "<p>2, 3번 예제는 Small에서는 나오지 않는다.</p>",
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 1, mitslll",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation",
-    "trees",
-    "calculus"
-  ],
+  "tags": ["math", "implementation", "trees", "calculus"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.825000047683716

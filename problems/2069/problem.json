@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO US Open 2002 Contest, Green",
   "level": 13,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.174999952316284

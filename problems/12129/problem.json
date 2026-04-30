@@ -15,13 +15,7 @@
   "hint": "<p>In Case #1, the company has only a CEO and no other employees, but it does not violate any of the laws, so no changes need to be made.<br/>\n<br/>\nHere is the org chart for Case #2:<br/>\n<br/>\n<img src=\"https://code.google.com/codejam/contest/images/?image=fairland_sample_2.png&amp;p=5709131113562112&amp;c=4254486\"/> <br/>\nThe optimal strategy is to save employees 0, 1, and 5 (who have salaries of 10, 13, and 8, respectively). It is not possible to save employee 2, for example, because her salary is more than 5 away from employee 0's salary of 10; since employee 0 cannot be laid off, employee 2 must be laid off (along with all employees who report to her).<br/>\n<br/>\nIf you want to check your sequences for employees 1 through 5, they are:<br/>\n<br/>\n<strong>S</strong>: 13, 16, 2, 5, 8<br/>\n<strong>M</strong>: 17, 3, 13, 14, 16<br/>\nManager numbers: 17 % 1 = 0, 3 % 2 = 1, 13 % 3 = 1, 14 % 4 = 2, 16 % 5 = 1</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 3",
   "level": 13,
-  "tags": [
-    "graphs",
-    "greedy",
-    "bruteforcing",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["graphs", "greedy", "bruteforcing", "graph_traversal", "trees"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

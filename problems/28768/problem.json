@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере Джерри может действовать следующим образом:</p>\n<ol>\n<li>Сначала разрезать шоколадку $10 \\times 4$ на два прямоугольника $10 \\times 2$ и $10 \\times 2$.</li>\n<li>Склеить из прямоугольников шоколадку $20 \\times 2$.</li>\n<li>Разрезать шоколадку $20 \\times 2$ на два прямоугольника $20 \\times 1$ и $20 \\times 1$.</li>\n<li>Склеить из прямоугольников шоколадку $40 \\times 1$.</li>\n</ol>\n<p>Итоговый периметр будет равен $40 \\cdot 2 + 1 \\cdot 2 = 82$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, February 27, 2021",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3478000164031982

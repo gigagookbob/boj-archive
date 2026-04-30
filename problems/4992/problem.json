@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2004 Japan Domestic Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "stack"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.2329000234603882

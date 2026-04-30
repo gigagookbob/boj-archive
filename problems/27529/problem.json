@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter), amel, heeda0528, jthis, mjhmjh1104, pjshwa, tlsdydaud1, utilforever",
   "level": 17,
-  "tags": [
-    "implementation",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["implementation", "sorting", "sweeping"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.558799982070923

@@ -15,10 +15,7 @@
   "hint": "<p>비슷한 문제로 <a href=\"https://www.acmicpc.net/problem/2553\">https://www.acmicpc.net/problem/2553</a>가 있다.</p>\r\n",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC Semi-Final 2010, jcdgods, injoon2018",
   "level": 4,
-  "tags": [
-    "math",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arbitrary_precision"],
   "accepted_user_count": 1159,
   "submission_count": null,
   "average_tries": 2.467600107192993

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, University of Virginia High School Programming Contest, UVa HSPC 2011, happiness96",
   "level": 8,
-  "tags": [
-    "case_work",
-    "implementation",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "string"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3.549999952316284

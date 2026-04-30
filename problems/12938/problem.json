@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "primality_test"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 2.5

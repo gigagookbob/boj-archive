@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:283px; width:299px\"/></p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2010 Round Two",
   "level": 19,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["implementation", "ad_hoc", "case_work"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.25

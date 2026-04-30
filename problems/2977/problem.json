@@ -19,10 +19,7 @@
   "hint": "<p>예제에서 99달러로 첫 번째 부품의 소형 패키지 3개와 대형 패키지 1개를, 두 번째 부품의 소형 패키지 1개와 대형 패키지 2개를 구입할 수 있다. (3&middot;10 + 1&middot;11 + 1&middot;10 + 2&middot;24 = 99)</p>\r\n\r\n<p>비밀창고에는 첫 번째 부품이 51개 (8 + 3&middot;10 + 1&middot;13), 두 번째 부품이 60개 (20 + 1&middot;6 + 2&middot;17) 있게 되고 총 5개의 폭탄을 만들 수 있다.</p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, Croatian Regional Competition in Informatics 2008, Olympiad, Croatian Highschool Competitions in Informatics, 2008, Regional Competition - Seniors, ZZangZZang, pmn0001",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 3.425100088119507

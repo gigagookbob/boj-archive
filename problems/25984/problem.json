@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2022 Preliminaries",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "sorting",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "sorting", "set"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.725000023841858

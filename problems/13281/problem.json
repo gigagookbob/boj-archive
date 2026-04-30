@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2016 Japan Domestic Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation",
-    "sorting"
-  ],
+  "tags": ["implementation", "simulation", "sorting"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.3150999546051025

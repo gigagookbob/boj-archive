@@ -15,12 +15,7 @@
   "hint": "<p>The string is transformed as follows:</p>\n<p style=\"text-align: center;\"><code>a</code> $\\rightarrow$ <code>ab</code> $\\rightarrow$ <code>bcb</code> $\\rightarrow$ <code>bdeb</code> $\\rightarrow$ <code>bbbdebbb</code></p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Gold",
   "level": 20,
-  "tags": [
-    "dp",
-    "string",
-    "trees",
-    "recursion"
-  ],
+  "tags": ["dp", "string", "trees", "recursion"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 3.2885000705718994

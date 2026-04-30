@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, Kandelion",
   "level": 12,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 1086,
   "submission_count": null,
   "average_tries": 2.176800012588501

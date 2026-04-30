@@ -15,11 +15,7 @@
   "hint": "<p>마지막 상태는 버튼이 모두 꺼진 상태, 버튼이 모두 켜진 상태, 짝수만 켜진 상태, 홀수만 켜진 상태, 1, 4, 7, 10층이 켜진 상태, 1, 2, 6, 7, 8층이 켜진 상태, 3, 4, 5, 9, 10층이 켜진 상태로 총 7가지가 될 수 있다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2017 Sogang Programming Contest, Master, lvalue, lyzqm",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "set",
-    "case_work"
-  ],
+  "tags": ["data_structures", "set", "case_work"],
   "accepted_user_count": 275,
   "submission_count": null,
   "average_tries": 3.2981998920440674

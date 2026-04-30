@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2019 KAIST RUN Spring Contest, ainta",
   "level": 20,
-  "tags": [
-    "graphs",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "ad_hoc"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 2.8197999000549316

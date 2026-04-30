@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2026 KSA Automata Winter Contest, eric00513, bennyk0406, dinojaemin, flakepowders, parkky, pkearth, raehwan0418, sadtreap, utilforever, wizardrabbit",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["implementation", "greedy", "constructive"],
   "accepted_user_count": 166,
   "submission_count": null,
   "average_tries": 1.7229000329971313

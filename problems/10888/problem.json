@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14",
   "level": 14,
-  "tags": [
-    "math",
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["math", "data_structures", "disjoint_set"],
   "accepted_user_count": 158,
   "submission_count": null,
   "average_tries": 2.4937000274658203

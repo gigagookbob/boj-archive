@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division, hjroh0315, biximo, dhyang24, eggx50000, quickn, utilforever",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 1.333299994468689

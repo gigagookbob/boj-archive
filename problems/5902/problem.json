@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>The rope has length L=10, and there are 5 knots at positions 0, 2, 4, 6, and 10.</p>\n<h4>Output Details</h4>\n<p>The valid folding positions are 1, 2, 3, and 8.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO February 2012 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.1666998863220215

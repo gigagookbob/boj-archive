@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2020",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "knapsack"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "knapsack"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.6110999584197998

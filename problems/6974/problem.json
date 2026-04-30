@@ -15,11 +15,7 @@
   "hint": "<p>If the dividend is n digits long and the divisor is m digits long, derive a formula in terms of n and m that approximates the maximum number of single-digit subtractions performed by your program.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 1997, CCC 1997",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 485,
   "submission_count": null,
   "average_tries": 1.4763000011444092

@@ -15,10 +15,7 @@
   "hint": "<p>In sample case #1:</p>\n<ul>\n<li>The first query asks for the sweetness score of [3, 9, 8] which is 3 × 1 - 9 × 2 + 8 × 3 = 9.</li>\n<li>The second query asks for the sweetness score of [2] which is 2 × 1 = 2.</li>\n<li>The third query asks for the sweetness score of [1, 10] which is 1 × 1 - 10 × 2 = -19.</li>\n</ul>\n<p>Thus, the final output should be 9 + 2 - 19 = -8.</p>\n<p>In sample case #2:</p>\n<ul>\n<li>The first and only query asks for the sweetness score of [7, 5] which is 7 × 1 - 5 × 2 = -3.</li>\n</ul>\n<p>Thus, the final output should be -3.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round C",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.399999976158142

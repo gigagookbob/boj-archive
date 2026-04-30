@@ -23,13 +23,7 @@
   "hint": "<p>In the first example, the only bean is initially at $(1, 1)$. Alice moves it to $(1, 2)$. Bob's only one move is to $(2,2)$, then Alice moves the bean to $(2,3)$ and Bob has no moves left, so Alice is the winner.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 1: Kyoto U Contest 1",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "dp",
-    "game_theory",
-    "segtree",
-    "sprague_grundy"
-  ],
+  "tags": ["data_structures", "dp", "game_theory", "segtree", "sprague_grundy"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.6666998863220215

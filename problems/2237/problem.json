@@ -19,11 +19,7 @@
   "hint": "<p>실제 기출문제는 1 ≤ N ≤ 30, 1 ≤ A[i] ≤ 30 이며, 불가능한 경우에는 0을 출력해야 한다.</p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2000, 고등부, ntopia",
   "level": 17,
-  "tags": [
-    "dp",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "knapsack", "traceback"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 2.2314999103546143

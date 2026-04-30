@@ -23,13 +23,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Summer Contest, mickeyjung, ai4youej, cologne, dohoon, eric00513, flakepowders, hjroh0315, kiwiyou, parkky, utilforever, yongwhan",
   "level": 22,
-  "tags": [
-    "bellman_ford",
-    "cht",
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["bellman_ford", "cht", "dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 7.705900192260742

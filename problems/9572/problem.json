@@ -15,9 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 6 targets.  The first is at position x=5 and is worth 6 points, and so on.</p><h4>Output Details</h4><p>Bessie hops from position x=4 (8 points) to position x=5 (6 points) to position x=7 (6 points) to position x=10 (5 points).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO November 2013 Contest, Silver",
   "level": 17,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.5957000255584717

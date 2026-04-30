@@ -23,12 +23,7 @@
   "hint": "<p>In the first sample, the destination cell is too far from the starting cell, so the robot can't reach it in four or less pressings.</p>\n<p>In the second sample, all buttons can be broken before the beginning of the game, so robot will stay at the starting-destination point.</p>\n<p>In the third sample, if all buttons are broken according to the answer, the resulting sequence of robot's actions will be the <code>LURDRD</code> and robot will reach the destination.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2016-17, Day 2",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "string", "simulation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

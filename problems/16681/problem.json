@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Advanced Div., University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Intermediate Div., oree2113",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 872,
   "submission_count": null,
   "average_tries": 4.092899799346924

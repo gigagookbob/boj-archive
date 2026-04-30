@@ -23,9 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera:</p>\n<ol>\n<li>upit: $7 + 2 + 1 + 7$</li>\n<li>upit: $5 + 5$</li>\n<li>upit: $9 + 9 + 2$</li>\n<li>upit: $4$</li>\n<li>upit: $1 + 1 + 16 + 6$</li>\n</ol>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Junior Final Exam #2",
   "level": 9,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.2857000827789307

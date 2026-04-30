@@ -19,10 +19,7 @@
   "hint": null,
   "source": "author5, rory143",
   "level": 8,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 2067,
   "submission_count": null,
   "average_tries": 1.8457000255584717

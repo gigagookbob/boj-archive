@@ -15,12 +15,7 @@
   "hint": "<p>You start out really hungry (energy: 4), so all you can manage with your initial energy level is to make it to the bad food in the top left corner. You now need to eat enough to make it somewhere else. Unfortunately, because of the access control letters ‘B’ and the really slow squares in the top right, you cannot make it to the locations of quality 4 and 5 in time to make your meeting at time 37. So you eat the minimum amount of food to make it to the level 3 food on the left, almost at the bottom. Instead of going straight down (which would be slow), you go one square to the right, using your access privileges for ‘D’, ‘A’, and ‘E’ along the way. You eat level-3 food for as long as you can (and enough to safely make it to the meeting spot), then leave to make it to the meeting location in time. Overall, you will spend 7 units of time eating bad food (because that’s how much energy you need to make it to level-3 food), and 11 units of time eating level-3 food, for a total of 7 + 3 · 11 = 40 food points.</p>\n<p>Instead of initially heading to the top-left corner, you could have gone to the level-1 food in the top middle. But even if you eat there, because of the ‘B’ access control and the slow squares in the top right, you won’t be able to eat enough level-4 or level-5 food to do better, and heading for level-2 food (which you could do) will give you fewer food points as well.</p>",
   "source": "University, The USC Programming Contest, Spring 2019: Graduation",
   "level": 16,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "dp", "graphs", "grid_graph"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 5

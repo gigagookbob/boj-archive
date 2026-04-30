@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #4",
   "level": 18,
-  "tags": [
-    "inclusion_and_exclusion",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["inclusion_and_exclusion", "math", "number_theory"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.8889000415802002

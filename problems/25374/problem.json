@@ -19,12 +19,7 @@
   "hint": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<th style=\"text-align: center;\">등급</th>\n<th style=\"text-align: center;\">조건</th>\n</tr>\n<tr>\n<td style=\"text-align: center;\">1등급</td>\n<td style=\"text-align: center;\">($x_1$점 초과인 사람의 비율)% $\\lt$ 4%</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">2등급</td>\n<td style=\"text-align: center;\">4% $\\leq$ ($x_2$점 초과인 사람의 비율)% $\\lt$ 11%</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">3등급</td>\n<td style=\"text-align: center;\">11% $\\leq$ ($x_3$점 초과인 사람의 비율)% $\\lt$ 23%</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">4등급</td>\n<td style=\"text-align: center;\">23% $\\leq$ ($x_4$점 초과인 사람의 비율)% $\\lt$ 40%</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">5등급</td>\n<td style=\"text-align: center;\">40% $\\leq$ ($x_5$점 초과인 사람의 비율)% $\\lt$ 60%</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">6등급</td>\n<td style=\"text-align: center;\">60% $\\leq$ ($x_6$점 초과인 사람의 비율)% $\\lt$ 77%</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">7등급</td>\n<td style=\"text-align: center;\">77% $\\leq$ ($x_7$점 초과인 사람의 비율)% $\\lt$ 89%</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">8등급</td>\n<td style=\"text-align: center;\">89% $\\leq$ ($x_8$점 초과인 사람의 비율)% $\\lt$ 96%</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">9등급</td>\n<td style=\"text-align: center;\">96% $\\leq$ ($x_9$점 초과인 사람의 비율)%</td>\n</tr>\n</tbody>\n</table>\n<ul>\n<li>$i$등급의 조건에 해당하는 점수 $x_i$점을 받은 사람은 $i$등급을 받는다.</li>\n</ul>\n<p>예를 들어서, $N=100$이고, 100점을 받은 사람이 11명이고, 99점을 받은 사람이 1명인 경우를 가정해보자. (나머지 사람들은 99점 미만이라고 가정한다) 100점 초과인 사람은 0%이므로 100점을 받은 11명은 모두 1등급을 받는다. 99점 초과인 비율은 11%이기 때문에, 99점을 받은 1명은 2등급이 아닌 3등급을 받는다.</p>\n<p>위 예에서 2등급을 받은 사람이 없는 것과 같이, 등급블랭크는 특정 등급을 받은 사람이 존재하지 않는다는 것을 의미한다.</p>",
   "source": "School, 동래고등학교, 2022 동래고등학교 정보과학 문제해결 대회, chansol, chogahui05, jhnah917, mjhmjh1104, tlsdydaud1, tony9402",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "sorting", "arithmetic"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 1.9708000421524048

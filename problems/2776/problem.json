@@ -15,13 +15,7 @@
   "hint": null,
   "source": "chjiiwon30, august14, djm03178",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "binary_search",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "binary_search", "set", "hash_set"],
   "accepted_user_count": 9380,
   "submission_count": null,
   "average_tries": 3.009700059890747

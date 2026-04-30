@@ -19,11 +19,7 @@
   "hint": "<p>The document in the problem statement is not official. Please refer to Prof. CJ Hwang’s blog <a href=\"https://icpcasia.wp.txstate.edu/\">https://icpcasia.wp.txstate.edu/</a> for the official rules.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2022",
   "level": 4,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.3167999982833862

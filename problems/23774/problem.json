@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2021",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "parametric_search"
-  ],
+  "tags": ["data_structures", "parametric_search"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.7407000064849854

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2003, National Competition #2 - Seniors",
   "level": 10,
-  "tags": [
-    "graphs",
-    "string",
-    "graph_traversal",
-    "bfs",
-    "parsing"
-  ],
+  "tags": ["graphs", "string", "graph_traversal", "bfs", "parsing"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.6970000267028809

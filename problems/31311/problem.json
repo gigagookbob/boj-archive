@@ -23,14 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2023",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "trees",
-    "disjoint_set",
-    "mst",
-    "lca"
-  ],
+  "tags": ["data_structures", "graphs", "trees", "disjoint_set", "mst", "lca"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 4.17140007019043

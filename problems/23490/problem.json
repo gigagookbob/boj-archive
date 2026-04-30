@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 18: Grand Prix of Bytedance",
   "level": 25,
-  "tags": [
-    "math",
-    "string",
-    "prefix_sum",
-    "precomputation"
-  ],
+  "tags": ["math", "string", "prefix_sum", "precomputation"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.7143000364303589

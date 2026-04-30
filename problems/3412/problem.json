@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2012",
   "level": 5,
-  "tags": [
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["geometry", "pythagoras"],
   "accepted_user_count": 265,
   "submission_count": null,
   "average_tries": 2.0037999153137207

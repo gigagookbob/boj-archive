@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2012, 고등부, kiwiyou",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "coordinate_compression"],
   "accepted_user_count": 3477,
   "submission_count": null,
   "average_tries": 2.226099967956543

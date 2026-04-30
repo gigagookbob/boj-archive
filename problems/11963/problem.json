@@ -15,10 +15,7 @@
   "hint": "<p>Here, Bessie must have cards 2, 5, and 6, and 7 in her hand, and she can use these to win at most 2 points, by saving her '2' card until one of the hands in the second half of the game.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO December 2015 Contest, Gold",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 235,
   "submission_count": null,
   "average_tries": 2.0680999755859375

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2015 Mid-Central Regional Programming Contest, chatterboy, kyg516",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 2482,
   "submission_count": null,
   "average_tries": 1.4121999740600586

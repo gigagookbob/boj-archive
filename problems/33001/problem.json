@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2024 ICPC Asia Yokohama Regional Contest",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["math", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.2884999513626099

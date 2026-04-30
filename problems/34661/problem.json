@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 10., pjshwa, chogahui05, kaorin, lky7674, snrnsidy, tony9402, utilforever",
   "level": 6,
-  "tags": [
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["game_theory", "parity"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 1.2488000392913818

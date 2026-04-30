@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제2회 가톨릭대학교 프로그래밍 경진대회 (CCPC), kimcoding, fullmoon5110, jh20s, rhs0266",
   "level": 15,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 5.971700191497803

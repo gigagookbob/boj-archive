@@ -27,11 +27,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 1, semteo04, jh05013, Lawali, pichulia, shiftpsh",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "math"
-  ],
+  "tags": ["binary_search", "geometry", "math"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 6.449999809265137

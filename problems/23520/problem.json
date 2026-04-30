@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 17: Grand Prix of Baltic Sea",
   "level": 10,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.2105000019073486

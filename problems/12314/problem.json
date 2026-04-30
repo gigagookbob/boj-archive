@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 2",
   "level": 20,
-  "tags": [
-    "graphs",
-    "greedy",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "greedy", "dag", "topological_sorting"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

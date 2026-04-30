@@ -19,13 +19,7 @@
   "hint": "<p>문제의 설명은 사실과 다르다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 2, malkoring, pichulia, jh05013, jhnah917, Lawali, leejseo, pichulia, shiftpsh",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 3159,
   "submission_count": null,
   "average_tries": 2.321899890899658

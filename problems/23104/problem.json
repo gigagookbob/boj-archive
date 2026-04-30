@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 1: Kyoto U Contest 1",
   "level": 13,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["dp", "prefix_sum", "two_pointer"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.4426000118255615

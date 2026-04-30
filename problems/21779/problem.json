@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2020/2021 Spring Training Camp",
   "level": 16,
-  "tags": [
-    "dp",
-    "geometry",
-    "bitmask",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["dp", "geometry", "bitmask", "dp_bitfield", "tsp"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.31820011138916

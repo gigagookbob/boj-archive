@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2012 Preliminaries, kks227, jh05013, podracer, rdd6584",
   "level": 21,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["geometry", "convex_hull", "point_in_convex_polygon"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 7.2571001052856445

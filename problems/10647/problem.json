@@ -19,11 +19,7 @@
   "hint": "<p>Clarification of the first example: The closest apple to the one that fell in the first year is the apple in the field (1,1). The apple that fell in the second year fell on the exact field where the tree is located, so the squared distance is 0. The apple that fell in the third year is equally distant to all three existing trees in the fruit garden.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #5",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["binary_search", "bruteforcing", "implementation"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.4286000728607178

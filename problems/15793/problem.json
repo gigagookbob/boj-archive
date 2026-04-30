@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2017 연습 세션",
   "level": 15,
-  "tags": [
-    "graphs",
-    "greedy",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "greedy", "flow", "mcmf"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.114300012588501

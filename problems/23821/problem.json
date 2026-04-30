@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2021 POSTECH Programming Contest, slah007, gravekper, hitonanode, hojoon0205, shiftpsh",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "prefix_sum",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "prefix_sum", "bfs"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.9166998863220215

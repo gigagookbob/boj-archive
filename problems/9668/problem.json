@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example: On the first day, each table will socialise only with itself so the answer for groups sized 1 is 1. Already on the second day, people sitting at tables 1 and 2 are going to get 5 candies per capita and socialise together, so the answer for a group sized 2 is 2.</p>\n<p>On the third day, tables 1, 2 and 3 will socialise (because they all have 3 candies per capita).</p>\n<p>On the sixth day, tables 1, 2, 3 and 4 will socialise (because they now have 1 candy per capita).</p>\n<p>Finally, on the twelfth day, all tables will socialise together because they will all get zero candy per capita.</p>\n<p>Clarification of the second example: All tables have the same amount of candy per capita, so a group sized less than 3 will never exist.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #4",
   "level": 18,
-  "tags": [
-    "math",
-    "sweeping"
-  ],
+  "tags": ["math", "sweeping"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.142899990081787

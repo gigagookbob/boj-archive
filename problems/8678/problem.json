@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Beginner Group)",
   "level": 3,
-  "tags": [
-    "math",
-    "number_theory",
-    "arithmetic"
-  ],
+  "tags": ["math", "number_theory", "arithmetic"],
   "accepted_user_count": 370,
   "submission_count": null,
   "average_tries": 1.9567999839782715

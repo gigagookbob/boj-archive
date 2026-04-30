@@ -15,11 +15,7 @@
   "hint": "<p>For each <code>Query</code> event, output one line containing one integer – the number of different colors of candy that can be caught by the corresponding bag.</p>",
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2008",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "multi_segtree",
-    "segtree"
-  ],
+  "tags": ["data_structures", "multi_segtree", "segtree"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

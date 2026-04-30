@@ -15,10 +15,7 @@
   "hint": "<p>Explanation of examples</p>\n<p>Case #1 has several possible solutions. We can keep house #1, but we have to destroy any two of the remaining 3 houses. In particular, it is not enough to destroy only the tallest house because house #3 will continue to block the view from house #4.</p>\n<p>Case #2 does not require any destruction. Every resident can already see the lake.</p>\n<p>Case #3 is hopeless. We must destroy all but one of the houses. It does not matter which one we leave standing.</p>\n<p>In case #4, only the resident of the shortest house is complaining about his lack of a view. We could destroy the 3 houses to the west of him, but we might as well destroy his house instead. That'll teach him not to complain.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Code Jam for Veterans 2013, Online Competition",
   "level": 6,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 1.5614999532699585

@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2025, Practice",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "lis"
-  ],
+  "tags": ["ad_hoc", "lis"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 5.3333001136779785

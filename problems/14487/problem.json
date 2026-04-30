@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 2017 선린 봄맞이 교내대회, wookje",
   "level": 4,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 3399,
   "submission_count": null,
   "average_tries": 1.2900999784469604

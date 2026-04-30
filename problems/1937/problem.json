@@ -15,12 +15,7 @@
   "hint": null,
   "source": "apjw6112, Hibbah, thsdnjstjq1, tncks0121, logwns, wkd48632",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 12377,
   "submission_count": null,
   "average_tries": 3.2458999156951904

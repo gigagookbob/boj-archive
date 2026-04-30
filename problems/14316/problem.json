@@ -15,10 +15,7 @@
   "hint": "<p>In Case 1, the possible pairs are (1, 2), (1, 5), (2, 1), (2, 4), (4, 2), (4, 5), (5, 1), and (5, 4).</p>\n<p>In Case 2, the possible pairs are (1, 2), (1, 3), and (4, 1).</p>\n<p>In Case 3, No possible pairs are there, as i != j.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round B APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round B",
   "level": 11,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["exponentiation_by_squaring", "math"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.4063000679016113

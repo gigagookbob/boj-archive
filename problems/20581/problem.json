@@ -19,12 +19,7 @@
   "hint": "<p><strong>Explanation to first sample test:</strong> $3$-dimensional hypercube is just a mere cube. Following pictures show which vertices belong to following balls. Grey circle denotes center of a ball.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 512px; height: 172px;\"/></p>\n<p>First ball contains vertices 000, 100, 010, 001. Second ball contains vertices 100, 000, 110, 101. Third ball is just a single vertex 111. Sum of these balls contains $7$ vertices --- all of them except 011.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 1: Warsaw U Contest",
   "level": 22,
-  "tags": [
-    "case_work",
-    "combinatorics",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["case_work", "combinatorics", "math", "prefix_sum"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3

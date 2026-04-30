@@ -15,13 +15,7 @@
   "hint": "<p>\n\t사전편집상의 순서(lexicographical order)에서 리스트 l<sub>1</sub>\u0002이 리스트 l<sub>2</sub>\u0003보다 작다는 것은 \u0001l<sub>1</sub>이 l<sub>2</sub>의 접두어(prefix)이거나 l<sub>1</sub>과 l<sub>2</sub>가 서로 다른 첫 번째 위치 j에서 \u0001\u0002l<sub>1</sub>[j] &lt; l<sub>2</sub>[j]의 관계가 성립함을 의미한다.</p>",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2009",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "tree_set",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "greedy", "set", "tree_set", "sparse_table"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 3.8399999141693115

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2005 Rocky Mountain Regional Contest",
   "level": 20,
-  "tags": [
-    "sorting",
-    "ad_hoc",
-    "geometry",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "ad_hoc", "geometry", "angle_sorting"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.625

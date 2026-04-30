@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Qualification Round",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "game_theory"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "game_theory"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.1785999536514282

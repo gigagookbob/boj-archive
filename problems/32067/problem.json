@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2022 ICPC Asia Jakarta Regional Contest, ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2023 ICPC Asia Jakarta Regional Contest 연습 세션",
   "level": 12,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.2999999523162842

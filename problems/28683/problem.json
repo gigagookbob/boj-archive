@@ -31,13 +31,7 @@
   "hint": "<p>실제로 피카츄가 “피타츄”에서 유래되었다는 것은 근거가 없다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Div. 2, University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Open Contest - Phase 1, kidw0124, azberjibiou, cologne, shiftpsh, tlsdydaud1, utilforever, w8385, wnguscjf01, yijw0930",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "number_theory",
-    "pythagoras"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "number_theory", "pythagoras"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 2.249000072479248

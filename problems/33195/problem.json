@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, 2024 ICPC Asia Tehran Regional Contest",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "sorting"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 15.5

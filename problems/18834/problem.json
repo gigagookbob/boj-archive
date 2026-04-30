@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 최종 구데기컵 2, kipa00",
   "level": 0,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 0,
   "submission_count": null,
   "average_tries": 0

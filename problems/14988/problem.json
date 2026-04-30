@@ -23,14 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2017 Preliminaries",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "hash_set",
-    "stack",
-    "queue"
-  ],
+  "tags": ["data_structures", "greedy", "set", "hash_set", "stack", "queue"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.5484000444412231

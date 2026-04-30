@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022 예선, exqt, bnb2011, doju, ho94949, jh05013, lky7674, myungwoo, quickn, shiftpsh",
   "level": 18,
-  "tags": [
-    "math",
-    "data_structures",
-    "combinatorics",
-    "stack"
-  ],
+  "tags": ["math", "data_structures", "combinatorics", "stack"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.5

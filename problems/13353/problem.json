@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2016 Preliminaries",
   "level": 20,
-  "tags": [
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["constructive", "dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.029400110244751

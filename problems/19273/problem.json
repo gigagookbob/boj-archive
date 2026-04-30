@@ -19,12 +19,7 @@
   "hint": "<p>In Sample 1, the objective can be achieved in three operations, as follows: first, choose the path connecting Vertex $1, 2$, and $x = 1$, then, choose the path connecting Vertex $2, 3$, and $x = 2$; lastly, choose the path connecting Vertex $0, 4$, and $x = 4$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "trees", "bitmask", "dp_bitfield"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5262999534606934

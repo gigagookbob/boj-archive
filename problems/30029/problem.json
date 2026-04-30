@@ -31,13 +31,7 @@
   "hint": "<p>부분 수열이란 주어진 수열에서 $1$개 이상의 원소를 골라 원래 순서대로 나열한 수열이다.</p>",
   "source": "University, 충남대학교, 2023 충남대학교 SW-IT Contest, Division 1, ygonepiece, ai4youej, flappybird, martinok1103, solvedac, swoon, utilforever, w8385",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "binary_search",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "binary_search", "lazyprop"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.5483999252319336

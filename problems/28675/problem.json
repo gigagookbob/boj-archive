@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере оптимальный маршрут --- дойти до '<code>n</code>' в первой строке за $12$ шагов, затем спуститься вниз на $1$ и добавить '<code>u</code>' и '<code>t</code>', стоящие подряд справа, что потребует еще $4$ шага.</p>\n<p>Во втором примере оптимальный маршрут задается точками $(4, 4)$, '<code>s</code>'$(5, 5)$, '<code>q</code>'$(3, 5)$, '<code>u</code>'$(5, 3)$, '<code>i</code>'$(6, 4)$, '<code>r</code>'$(4, 5)$ (дважды), '<code>e</code>'$(4, 6)$ и '<code>l</code>'$(6, 7)$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, February 13, 2021",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.7778000831604004

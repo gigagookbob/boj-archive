@@ -15,11 +15,7 @@
   "hint": "<p>Here, the path from farm 1 and farm 4 involves farms 1, 2, and 4. All of these contain Holsteins, so the first friend will be satisfied while the second one will not.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2019 December Contest, Silver",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "trees",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "trees", "disjoint_set"],
   "accepted_user_count": 295,
   "submission_count": null,
   "average_tries": 2.3831000328063965

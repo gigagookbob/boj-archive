@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2021, Online Qualification",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.3171000480651855

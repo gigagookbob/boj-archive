@@ -15,10 +15,7 @@
   "hint": null,
   "source": "djm03178, harnel_tngn, yoon6624",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 703,
   "submission_count": null,
   "average_tries": 2.9033000469207764

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2005 Preliminaries",
   "level": 20,
-  "tags": [
-    "math",
-    "geometry",
-    "arbitrary_precision",
-    "euler_characteristic"
-  ],
+  "tags": ["math", "geometry", "arbitrary_precision", "euler_characteristic"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 6.5

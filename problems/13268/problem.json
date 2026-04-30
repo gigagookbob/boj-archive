@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2016 KAIST 6th ACM-ICPC Mock Competition, parkg",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation",
-    "case_work"
-  ],
+  "tags": ["implementation", "simulation", "case_work"],
   "accepted_user_count": 383,
   "submission_count": null,
   "average_tries": 2.4751999378204346

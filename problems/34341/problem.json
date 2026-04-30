@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2025 서울대학교 프로그래밍 경시대회, Div.1, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2025 서울대학교 프로그래밍 경시대회, Div.2, ncy09, jk410, jthis, pyb1031, sadtreap",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.8461999893188477

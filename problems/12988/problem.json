@@ -15,9 +15,7 @@
   "hint": null,
   "source": "jh05013, rdd6584",
   "level": 19,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.2972999811172485

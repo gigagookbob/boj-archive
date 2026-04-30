@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 7, 2020, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 7, 2020, Advanced",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.3529000282287598

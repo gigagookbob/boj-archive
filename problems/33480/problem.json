@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제6회 고려대학교 MatKor Cup: 2025 Winter, yijw0930, eoaud0108, jinhan814, kidw0124, midoria, utilforever",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "heuristics",
-    "geometry_hyper"
-  ],
+  "tags": ["ad_hoc", "geometry", "heuristics", "geometry_hyper"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.3845999240875244

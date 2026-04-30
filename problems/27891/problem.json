@@ -27,10 +27,7 @@
   "hint": null,
   "source": "School, NLCS Jeju, GEC-Cup, dhyang24, dohoon, firstin0907, hjroh0315, jk410, kbmin24, kiwiyou, mjhmjh1104, parkky, sait2000, sorohue",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 394,
   "submission_count": null,
   "average_tries": 1.5964000225067139

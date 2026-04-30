@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2004, 중등부, goooora",
   "level": 16,
-  "tags": [
-    "dp",
-    "traceback",
-    "lcs"
-  ],
+  "tags": ["dp", "traceback", "lcs"],
   "accepted_user_count": 421,
   "submission_count": null,
   "average_tries": 2.541599988937378

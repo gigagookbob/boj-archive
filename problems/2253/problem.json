@@ -15,12 +15,7 @@
   "hint": null,
   "source": "doju, nanami",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 1270,
   "submission_count": null,
   "average_tries": 4.332300186157227

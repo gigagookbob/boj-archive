@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2024 연세대학교 프로그래밍 경진대회, plast, dabbler1, hamuim, jhwest2, playsworld16, ystaeyoon113",
   "level": 19,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.5

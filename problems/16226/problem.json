@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제2회 웰노운컵 Day 2, rdd6584",
   "level": 15,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "set"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2.5641000270843506

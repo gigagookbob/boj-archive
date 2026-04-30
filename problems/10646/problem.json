@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #5, shjgkwo",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "greedy",
-    "string"
-  ],
+  "tags": ["ad_hoc", "greedy", "string"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.892899990081787

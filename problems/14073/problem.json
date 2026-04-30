@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2015",
   "level": 15,
-  "tags": [
-    "implementation",
-    "dp",
-    "bitmask"
-  ],
+  "tags": ["implementation", "dp", "bitmask"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, European Championship, The 2024 ICPC European Championship",
   "level": 13,
-  "tags": [
-    "bipartite_graph",
-    "geometry",
-    "graphs"
-  ],
+  "tags": ["bipartite_graph", "geometry", "graphs"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.8421000242233276

@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2020, Round 1C",
   "level": 12,
-  "tags": [
-    "math",
-    "probability",
-    "statistics"
-  ],
+  "tags": ["math", "probability", "statistics"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.0625

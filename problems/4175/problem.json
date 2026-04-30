@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 27 September, 2009",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "deque"
-  ],
+  "tags": ["data_structures", "graphs", "dag", "topological_sorting", "deque"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.263200044631958

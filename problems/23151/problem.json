@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 6: Xi’an JTU Contest 1, GP of Xi’an, Contest, Open Cup, 2021/2022 Season, Stage 3: Grand Prix of XiAn",
   "level": 21,
-  "tags": [
-    "graphs",
-    "constructive"
-  ],
+  "tags": ["graphs", "constructive"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

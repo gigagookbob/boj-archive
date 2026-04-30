@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2008, 중등부, Olympiad, 한국정보올림피아드, KOI 2008, 고등부",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "bitset"
-  ],
+  "tags": ["dp", "bitmask", "bitset"],
   "accepted_user_count": 301,
   "submission_count": null,
   "average_tries": 3.6245999336242676

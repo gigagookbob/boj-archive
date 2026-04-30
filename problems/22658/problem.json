@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2008",
   "level": 17,
-  "tags": [
-    "case_work",
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "parsing", "string"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3

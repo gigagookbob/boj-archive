@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 28, 2020, Advanced",
   "level": 19,
-  "tags": [
-    "articulation",
-    "graphs"
-  ],
+  "tags": ["articulation", "graphs"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.25

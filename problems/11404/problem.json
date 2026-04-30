@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, algoshipda, dlwocks31, kyaryunha_cpp, dbfldkfdbgml, koosaga",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 29660,
   "submission_count": null,
   "average_tries": 2.3101000785827637

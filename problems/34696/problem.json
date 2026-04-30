@@ -15,11 +15,7 @@
   "hint": "<p>두 점 $(a,b)$와 $(c,d)$의 유클리드 거리는 $\\sqrt{{(a-c)}^2+{(b-d)}^2}$이다.</p>",
   "source": "School, 대전과학고등학교, 제2회 대전과학고등학교 프로그래밍 경진대회 DSHStack, wider93, gmroh06, jms020820, lycoris1600, ohwphil, realpsdoingdamyoo, sjhi00, tlsdydaud1, utilforever",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.075500011444092

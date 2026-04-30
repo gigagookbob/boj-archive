@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2013, baekjoon",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 302,
   "submission_count": null,
   "average_tries": 3.7086000442504883

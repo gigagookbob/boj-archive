@@ -23,11 +23,7 @@
   "hint": "<p>Explanation for Output for Sample Input 1</p>\n<p>After 2 days, each team had scored a total of 4 runs.</p>\n<p>Explanation for Output for Sample Input 2</p>\n<p>The only time when the Swifts and the Semaphores had scored the same number of runs was the beginning of the season.</p>\n<p>Explanation for Output for Sample Input 3</p>\n<p>The Swifts and Semaphores have the same number of total runs after the first game, and after the third game, and after the fourth game. We take the largest of these values (1, 3 and 4) and output 4.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Senior Division",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic",
-    "prefix_sum"
-  ],
+  "tags": ["math", "arithmetic", "prefix_sum"],
   "accepted_user_count": 321,
   "submission_count": null,
   "average_tries": 1.3488999605178833

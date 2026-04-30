@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2018",
   "level": 17,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.735300064086914

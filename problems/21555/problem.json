@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제2회 코드 챔피언십 Division 2, 79brue",
   "level": 9,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 1.6584999561309814

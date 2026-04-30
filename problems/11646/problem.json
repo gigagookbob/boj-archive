@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2015 Rocky Mountain Regional Contest",
   "level": 14,
-  "tags": [
-    "bitset",
-    "dp"
-  ],
+  "tags": ["bitset", "dp"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.4286000728607178

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, South Africa Regional Contest, 2001 South Africa Regional Contest",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "floyd_warshall"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.2999999523162842

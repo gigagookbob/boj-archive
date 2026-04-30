@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2015",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.25

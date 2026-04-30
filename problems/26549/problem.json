@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2018, Novice, School, PLU High School Programming Contest, PLU 2018, Advanced",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.329400062561035

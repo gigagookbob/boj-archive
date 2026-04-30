@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2005, Qualification",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.4068000316619873

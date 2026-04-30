@@ -15,9 +15,7 @@
   "hint": "<p>1행 2열과 3행 3열에 하나씩, 총 두 개의 Rook을 배치할 수 있다.</p>\r\n",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2002, Day 2, author10",
   "level": 18,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 508,
   "submission_count": null,
   "average_tries": 2.2815001010894775

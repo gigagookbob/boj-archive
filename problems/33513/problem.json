@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 02., jjaewon9, jthis, swoon, utilforever",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "prefix_sum"
-  ],
+  "tags": ["data_structures", "segtree", "prefix_sum"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 5.285699844360352

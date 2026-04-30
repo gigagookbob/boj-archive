@@ -15,10 +15,7 @@
   "hint": "<p>In the given example the point was initially at location 1 and is moving at a speed q = 1.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2013",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "heuristics"
-  ],
+  "tags": ["binary_search", "heuristics"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

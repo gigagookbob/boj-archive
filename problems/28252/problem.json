@@ -27,10 +27,7 @@
   "hint": "<p>그래프에서 <strong>차수(Degree)</strong>란 어떤 정점에 연결된 간선의 개수를 말한다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 06., bnb2011, chogahui05, djs100201, dohoon, dong_gas, heeda0528, jthis, pjshwa, snrnsidy, tmdgud0617, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "trees",
-    "constructive"
-  ],
+  "tags": ["trees", "constructive"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.6210999488830566

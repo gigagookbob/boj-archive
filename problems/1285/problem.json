@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 15,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bruteforcing", "bitmask"],
   "accepted_user_count": 2686,
   "submission_count": null,
   "average_tries": 2.279599905014038

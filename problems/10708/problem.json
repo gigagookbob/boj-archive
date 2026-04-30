@@ -19,9 +19,7 @@
   "hint": "<p>예제 1의 경우, 3명의 친구가 4번의 게임을 합니다.</p>\r\n\r\n<ul>\r\n\t<li>첫 번째 게임의 타겟은 &#39;친구 1&#39;이므로, 친구 1 은 2점, 친구 2 는 1점, 친구 3 은 0점을 얻습니다.</li>\r\n\t<li>두 번째 게임의 타겟은 &#39;친구 2&#39;이므로, 친구 1 은 0점, 친구 2 는 2점, 친구 3 은 1점을 얻습니다.</li>\r\n\t<li>세 번째 게임의 타겟은 &#39;친구 3&#39;이므로, 친구 1 은 0점, 친구 2 는 0점, 친구 3 은 3점을 얻습니다.</li>\r\n\t<li>네 번째 게임의 타겟은 &#39;친구 2&#39;이므로, 친구 1 은 1점, 친구 2 는 1점, 친구 3 은 1점을 얻습니다.</li>\r\n</ul>\r\n\r\n<p>4번의 게임 종료 후의 합계 점수는, 친구 1 은 3점, 친구 2 는 4점, 친구 3은 5점이 됩니다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2014/2015 예선, cake_monotone, eric00513, jenny00513, pink, wjdwithyou",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1159,
   "submission_count": null,
   "average_tries": 1.1562000513076782

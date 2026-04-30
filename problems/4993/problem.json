@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2004 Japan Domestic Contest",
   "level": 10,
-  "tags": [
-    "bfs",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 1.3300000429153442

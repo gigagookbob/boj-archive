@@ -15,12 +15,7 @@
   "hint": "<p>(<strong>x<sub>1</sub></strong>,<strong>x<sub>2</sub></strong>,<strong>x<sub>3</sub></strong>) oznacza ustawienie z mostem nr <strong>x<sub>i</sub></strong> na poziomie <strong>i</strong>.</p>\n<p>W przypadku ustawień (2,3,1) oraz (3,2,1) liczba przecięć mostów jest równa 0 i jest oczywiście najmniejsza z możliwych. Spośród tych ustawień najmniejsze leksykograficznie jest ustawienie (2,3,1).</p>",
   "source": "Contest, Spot, CoolSpot 2011",
   "level": 13,
-  "tags": [
-    "graphs",
-    "greedy",
-    "topological_sorting",
-    "dag"
-  ],
+  "tags": ["graphs", "greedy", "topological_sorting", "dag"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

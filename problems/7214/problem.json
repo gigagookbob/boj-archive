@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2020/2021, School Stage, 7-9 Classes",
   "level": 5,
-  "tags": [
-    "math",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "pigeonhole_principle"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.2036999464035034

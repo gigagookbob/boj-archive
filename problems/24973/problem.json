@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Platinum",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "lis"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "lis"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.5587999820709229

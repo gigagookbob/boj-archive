@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2019: Graduation",
   "level": 17,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "case_work",
-    "calculus",
-    "physics"
-  ],
+  "tags": ["math", "bruteforcing", "case_work", "calculus", "physics"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.800000190734863

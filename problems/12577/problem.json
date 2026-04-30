@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 1B",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.2157000303268433

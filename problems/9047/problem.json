@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2008, baekjoon",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "sorting", "simulation"],
   "accepted_user_count": 1447,
   "submission_count": null,
   "average_tries": 2.275700092315674

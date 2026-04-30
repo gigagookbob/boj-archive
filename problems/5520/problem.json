@@ -15,9 +15,7 @@
   "hint": "<p>Each number represents a time accoring to following table:</p>\n<pre>\n0 = 12 o'clock\n1 = 3 o'clock\n2 = 6 o'clock \n3 = 9 o'clock\n3 3 0         3 0 0         3 0 0          0 0 0         0 0 0 \n2 2 2   5-&gt;   3 3 3   8-&gt;   3 3 3   4 -&gt;   0 3 3   9-&gt;   0 0 0 \n2 1 2         2 2 2         3 3 3          0 3 3         0 0 0 </pre>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 1994, Day 2, cokcjswo",
   "level": 12,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 2.5752999782562256

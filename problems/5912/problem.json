@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are N=7 stacks, and FJ issues K=4 instructions.  The first instruction is to add a haybale to stack 5, the second is to add haybales to stacks 2..4, etc.</p><h4>Output Details</h4><p>After Bessie is finished, the stacks have heights 0,1,2,3,3,1,0.  The median stack height is 1, since 1 is the middle element in the sorted ordering 0,0,1,1,2,3,3.</p><p></p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO January 2012 Contest, Bronze",
   "level": 10,
-  "tags": [
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "difference_array"],
   "accepted_user_count": 378,
   "submission_count": null,
   "average_tries": 1.9815000295639038

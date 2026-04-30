@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2024, math_rabbit_1028, 79brue, dohoon, jimini23, jk410, kdy40929, kuhyaku, qwerasdfzxcl, tlsdydaud1, woohyun_jng",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "binary_search",
-    "knapsack"
-  ],
+  "tags": ["math", "dp", "binary_search", "knapsack"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.7826000452041626

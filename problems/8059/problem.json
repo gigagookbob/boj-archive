@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:426px; width:249px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1998/1999, Stage 2",
   "level": 17,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.6666998863220215

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2015, RCC 2015 Warm-up",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "sorting",
-    "set",
-    "simulation"
-  ],
+  "tags": ["implementation", "data_structures", "sorting", "set", "simulation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.6666998863220215

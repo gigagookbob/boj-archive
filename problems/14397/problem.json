@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 7,
-  "tags": [
-    "implementation",
-    "graphs",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "graphs", "grid_graph"],
   "accepted_user_count": 344,
   "submission_count": null,
   "average_tries": 1.2064000368118286

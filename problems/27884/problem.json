@@ -35,11 +35,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 5회 코딩테스트, chogahui05, chansol, eaststar, egod1537, kiwiyou, utilforever",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.9012000560760498

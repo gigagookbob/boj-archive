@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제2회 초콜릿컵, bubbler, mingyu331, wider93",
   "level": 22,
-  "tags": [
-    "dp",
-    "case_work",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "case_work", "bitmask", "dp_bitfield"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.1666998863220215

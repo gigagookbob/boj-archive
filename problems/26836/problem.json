@@ -15,13 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Poziom wody na wszystkich polach może być równy 2 (1 możliwość) albo każde z pól niezależnie może mieć poziom wody równy 0 lub 1 (2<sup>6</sup> = 64 możliwości).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 128px; height: 187px;\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2017/2018, Stage 1",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "data_structures",
-    "disjoint_set",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "data_structures", "disjoint_set", "dp", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

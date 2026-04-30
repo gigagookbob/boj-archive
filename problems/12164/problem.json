@@ -15,11 +15,7 @@
   "hint": "<p>In the first sample case, there are four trees forming a square, and a fifth tree inside the square. Since the first four trees are already on the boundary, the squirrels for those trees each write down 0. Since one tree needs to be cut down for the fifth tree to be on the boundary, the fifth squirrel writes down 1.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 1A",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "geometry", "two_pointer"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.4515999555587769

@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2014",
   "level": 23,
-  "tags": [
-    "hungarian"
-  ],
+  "tags": ["hungarian"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.5416998863220215

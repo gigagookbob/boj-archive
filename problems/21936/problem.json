@@ -19,11 +19,7 @@
   "hint": "<p>For the first sample, “<code>ababab</code>” is the best bullet string. Three among its six suffixes, “<code>ababab</code>”, “<code>abab</code>”, and “<code>ab</code>” obtain 4, 4, and 2 points, respectively, achieving the score 10. A bullet string “<code>ababca</code>” may look promising, but its suffixes “<code>ababca</code>”, “<code>abca</code>”, and “<code>a</code>” get 5, 2, and 1, summing up only to 8.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2020 Asia Yokohama Regional",
   "level": 22,
-  "tags": [
-    "dp",
-    "string",
-    "kmp"
-  ],
+  "tags": ["dp", "string", "kmp"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.4412000179290771

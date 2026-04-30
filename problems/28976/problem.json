@@ -15,12 +15,7 @@
   "hint": "<p>Пояснение к тесту из примера. Кратчайший путь для первого и второго вопроса соответственно.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 430px; height: 206px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Advanced",
   "level": 14,
-  "tags": [
-    "greedy",
-    "geometry",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["greedy", "geometry", "binary_search", "set"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.4614999294281006

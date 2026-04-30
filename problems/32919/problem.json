@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case, Devin can run the script once on server $1$, twice on server $2$, and once on server $4$. As a result, each server will be handling $5$ units of load.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Regional Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "linear_algebra",
-    "hashing"
-  ],
+  "tags": ["math", "ad_hoc", "linear_algebra", "hashing"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.625

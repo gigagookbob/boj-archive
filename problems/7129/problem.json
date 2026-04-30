@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, Preliminary Round, Advanced",
   "level": 19,
-  "tags": [
-    "string",
-    "geometry",
-    "case_work",
-    "kmp"
-  ],
+  "tags": ["string", "geometry", "case_work", "kmp"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 8

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, MOSS Division, University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, Open Contest, khj20006, bsyun0571, bumsoo0515, gi1dong2, hellogaon, jaemkim01, kjmin622, putdata, qsccsq22, rasauq1122, rhdqor213, sjhi00, skeep194, tony9402",
   "level": 11,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "game_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "dp", "number_theory", "game_theory", "euclidean"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.6180000305175781

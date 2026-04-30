@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2024 ICPC Asia Pacific Championship",
   "level": 23,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination",
-    "xor_basis"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination", "xor_basis"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.3845999240875244

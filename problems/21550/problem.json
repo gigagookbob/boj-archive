@@ -23,12 +23,7 @@
   "hint": "<p>Разбиение на гаджеты в первом примере изображено на рисунке в условии.</p>\n<p>Обратите внимание, что в этой задаче размер входных данных может быть большим. Рекомендуем ознакомиться с разделом &lt;&lt;Скорость ввода и выбор ОС&gt;&gt; в памятке участника.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2021, qwerasdfzxcl",
   "level": 19,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.4166998863220215

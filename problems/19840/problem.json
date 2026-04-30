@@ -15,10 +15,7 @@
   "hint": "<p>There are six possible pairs in sample test, the following values $b_{ij}$ are obtained: 13, 31, 101, 103, 110, 310, their sum is equal to 668.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2017",
   "level": 10,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7418999671936035

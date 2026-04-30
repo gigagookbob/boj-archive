@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, Croatian Regional Competition in Informatics 2007, Olympiad, Croatian Highschool Competitions in Informatics, 2007, Regional Competition - Seniors, baekjoon, doju",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 1235,
   "submission_count": null,
   "average_tries": 2.022700071334839

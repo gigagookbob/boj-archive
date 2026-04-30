@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Yokohama Regional Contest 2018, Camp, Petrozavodsk Programming Camp, Winter 2019, Day 3: Japanese Contest",
   "level": 16,
-  "tags": [
-    "greedy",
-    "sorting",
-    "grid_graph"
-  ],
+  "tags": ["greedy", "sorting", "grid_graph"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 1.26419997215271

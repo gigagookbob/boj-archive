@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2018",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "recursion",
-    "euclidean"
-  ],
+  "tags": ["math", "implementation", "number_theory", "recursion", "euclidean"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 1.9189000129699707

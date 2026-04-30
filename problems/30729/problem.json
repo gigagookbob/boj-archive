@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере Бомбослав может использовать одну квадратную область $2 \\times 2$, которой он покроет весь огород. Во втором примере Бомбослав использует  одну квадратную облатсь $3 \\times 3$, которой он покроет квадрат $1 \\times 1$.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2017-18",
   "level": 6,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.8148000240325928

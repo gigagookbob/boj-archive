@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2018 KAIST 8th ACM-ICPC Mock Competition, Contest, Open Cup, 2018/2019 Season, Stage 5: Grand Prix of Korea, jaydoubluel",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 309,
   "submission_count": null,
   "average_tries": 2.203900098800659

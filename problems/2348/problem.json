@@ -23,10 +23,7 @@
   "hint": null,
   "source": "iktk, nflight11, sksms1375, utilforever, wizardrabbit, ychangseok",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 4.851900100708008

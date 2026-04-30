@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, three problems with hardnesses of 0, 1, and 1 are selected first. Then the first judge proposes the problem with hardness 3 and it is selected, too. The problem proposed by the second judge with hardness 1 is not selected, because it is too easy. Then the problems proposed by the third, the first, and the second judges are selected (their hardnesses are 5, 12 and 23). The following three proposed problems with hardness of 17, 1 and 20 are not selected, and the problemset is completed with a problem proposed by the third judge with hardness of 49. So the total hardness of the problemset is 94.</p>\n<p>In the second example, three problems with hardnesses of 1, 1, and 2 are selected first. The second problem of the first judge (hardness 3) is too easy. The second judge is out of his easy problems, so he proposes a problem with hardness 50 and it is selected. The third judge’s problem with hardness 5 is not selected. The judges decide to take 6 more hard problems to complete the problemset, which gives the total hardness of 54 + 6 · 50 = 354.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2015",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 1.2842999696731567

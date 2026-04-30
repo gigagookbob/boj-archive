@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2013, myungwoo, sjh931125",
   "level": 18,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 602,
   "submission_count": null,
   "average_tries": 2.2009999752044678

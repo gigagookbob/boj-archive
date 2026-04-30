@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round H",
   "level": 17,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "linked_list"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 5.0345001220703125

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2015",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "greedy"
-  ],
+  "tags": ["data_structures", "greedy"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1

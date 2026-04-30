@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2001, Day 2",
   "level": 14,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.4000000953674316

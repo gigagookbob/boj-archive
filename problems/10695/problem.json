@@ -15,10 +15,7 @@
   "hint": "<p>A knight in position (r,c) (r is the row number, and c is the column number, the rows are numbered from 1 to n from the top to the bottom and the columns are numbered from 1 to n from the left to the right) on a chessboard, can move only to one of 8 possible other positions (if that position is within the chess board): (r-1 , c+2) (r-1 , c-2) , (r+1 , c+2) , (r+1 , c-2) , (r-2 , c+1) , (r-2 , c-1) , (r+2 , c+1) , (r+2 , c-1)</p>\n<p>About the IBM Chill Zone “a relaxing, fun way to unwind nightly with old and new friends at the ACMICPC World Finals is to stop by the IBM Chill Zone! A great way to participate in interactive games and interesting conversation with innovative IBMers and attendees from all over the world, the IBM Chill Zone is always a favorite for all.”</p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, Tunisian Collegiate Programming Contest, TCPC 2013",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 351,
   "submission_count": null,
   "average_tries": 1.3875000476837158

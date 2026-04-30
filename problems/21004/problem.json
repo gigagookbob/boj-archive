@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 1: Jagiellonian U Contest, Grand Prix of Krakow, Contest, Open Cup, 2020/2021 Season, Stage 10: Grand Prix of Krakow",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 2.580199956893921

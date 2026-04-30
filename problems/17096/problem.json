@@ -19,11 +19,7 @@
   "hint": null,
   "source": "moonrabbit2",
   "level": 17,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 3.1586999893188477

@@ -15,13 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\"/></p>\n<p>Byteasar should deliver the computers to the houses in the following order: 3, 2, 4, 5, 6, and 1. The game will be installed after 11, 10, 10, 10, 8, and 9 minutes respectively, in the house number order. Thus everyone can play after 11 minutes.</p>\n<p>If Byteasar delivered the game in the following order: 3, 4, 5, 6, 2, and 1, then the game would be installed after: 11, 16, 10, 8, 6, and 7 minutes respectively. Hence, everyone could play only after 16 minutes,</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 3",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.9158999919891357

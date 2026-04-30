@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2002",
   "level": 8,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.233299970626831

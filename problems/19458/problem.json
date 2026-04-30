@@ -19,12 +19,7 @@
   "hint": "<p>Note that the expected value is always finite, that is, $\\mathtt{E}f(s_1, \\ldots, s_n) &lt; \\infty$.  </p>\n<p>In the second sample the answer is $\\frac{7}{3}$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 3: Moscow IPT Contest",
   "level": 22,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "combinatorics", "probability", "linearity_of_expectation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.3157999515533447

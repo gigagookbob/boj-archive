@@ -15,11 +15,7 @@
   "hint": "<p>Here's a valid program for the first test case:</p>\n<pre>\nif (b[0] == 0) return 0;\nelse return 1;\n</pre>\n<p>Another valid program for the first test case:</p>\n<pre>\nif (b[0] == 1) return 1;\nelse return 0;\n</pre>\n<p>A valid program for the second test case:</p>\n<pre>\nif (b[1] == 1) return 1;\nelse if (b[0] == 0) return 0;\nelse return 1;\n</pre>\n<p>Clearly, there is no valid program corresponding to the third test case, because Elsie's program must always produce the same output for the same input.</p>\n<p>It may be shown that there is no valid program corresponding to the last test case.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2022 December Contest, Bronze",
   "level": 15,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 2.1900999546051025

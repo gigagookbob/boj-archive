@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, UT Invitational Programming Contest, UT Invitational Programming Contest 2020",
   "level": 13,
-  "tags": [
-    "parametric_search"
-  ],
+  "tags": ["parametric_search"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

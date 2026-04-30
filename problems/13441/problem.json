@@ -35,11 +35,7 @@
   "hint": "<p>예제 1의 경우에는 1번 나무를 마법의 나무로 바꾸면 된다. 이렇게 되면, 1번 나무는 마법의 나무이면서 보호받지 못하는 나무가 된다.</p>\n<p>에제 2의 경우에 3번 나무를 마법의 나무로 바꾸고, 1번 나무를 마법의 나무로 바꾸면, 1번 나무가 2번 나무를 보호하고, 2번 나무가 3번 나무를 보호하게 된다. 1번 나무는 마법의 나무이면서 보호받지 못하는 나무가 될 것 이고, 2번 나무는 일반 나무이면서 보호받는 나무, 3번 나무는 마법의 나무이면서 보호받는 나무가 된다.</p>",
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "shortest_path", "bipartite_matching"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.3877999782562256

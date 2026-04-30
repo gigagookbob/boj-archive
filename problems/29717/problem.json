@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, ksoosung77, jh01533, kiwiyou, nflight11, pill27211, pjshwa, starbow, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 9,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 279,
   "submission_count": null,
   "average_tries": 3.1110999584198

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제2회 초콜릿컵, bubbler, kiwiyou, mingyu331, parkky, sangyoon9, sorohue, wider93",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "case_work", "parity"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 6.953800201416016

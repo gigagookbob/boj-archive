@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2008, CCC 2008 Senior Division",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.25

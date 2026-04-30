@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2019 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Winter 2020, Day 2: Greetings from Japan",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.645799994468689

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2009 Day 2",
   "level": 11,
-  "tags": [
-    "math",
-    "string",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "string", "ad_hoc", "combinatorics"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.1363999843597412

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2007, 중등부",
   "level": 19,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive", "simulation"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 4.299099922180176

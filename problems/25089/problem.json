@@ -15,9 +15,7 @@
   "hint": "<p>Sample Case #1 is the image provided above. The proposed color is using up all of the ink in the cyan, magenta, and yellow cartridges of the first printer and all of the ink in the black cartridge of the last printer. This means that no additional unit of ink could be used from any of the $4$ ink colors, so the given sample output is the only possible output for this case.</p>\n<p>In Sample Case #2, magenta is the only color that both the first and second printers have, so our only chance would be to use $10^6$ units of magenta. Unfortunately, the third printer does not have quite enough, making this case impossible.</p>\n<p>In Sample Case #3, other correct outputs are: \"<code>400000 100000 100000 400000</code>\", \"<code>300000 0 0 700000</code>\", and \"<code>350000 140000 160000 350000</code>\", among lots of others. Notice that \"<code>300000 140000 160000 700000</code>\" would not be a valid answer because, even though there is enough ink in all printers to do that, the total number of ink units must be exactly $10^6$.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Qualification Round",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 1.246000051498413

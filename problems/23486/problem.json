@@ -19,11 +19,7 @@
   "hint": "<p>After the $5$-th query, there are $4$ monsters whose HPs are $1$ and $2$ monsters whose HPs are $2$.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 15: Grand Prix of Tokyo",
   "level": 26,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "segtree"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

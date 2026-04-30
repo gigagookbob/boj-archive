@@ -19,12 +19,7 @@
   "hint": "<p>그래프의 줄기를 이루는 정점의 개수는 한 개 이상이다.</p>",
   "source": "University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Beginner Division, University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Advanced Division, my3, chansol, dksu40, ingyu1008, jhnah917, tony9402, yjinpark",
   "level": 14,
-  "tags": [
-    "graphs",
-    "trees",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "trees", "dag", "topological_sorting"],
   "accepted_user_count": 225,
   "submission_count": null,
   "average_tries": 3.8933000564575195

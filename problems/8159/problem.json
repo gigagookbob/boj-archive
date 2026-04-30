@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2007/2008, Stage 2",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "sliding_window"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.272700071334839

@@ -43,11 +43,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2018",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "bitset",
-    "two_pointer"
-  ],
+  "tags": ["ad_hoc", "bitset", "two_pointer"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

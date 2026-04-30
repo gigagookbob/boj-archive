@@ -19,12 +19,7 @@
   "hint": "<p>You are not prohibited to output leading zeroes, but the checking program counts them when determining the length of the number. For example, if $n = 3$, query \"$001$\" is valid, but \"$0001$\" is invalid.</p>\n<p>The second sample just demonstrates the interaction format, guessing can be done in smaller number of queries.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 7: Ural FU Dandelion Contest",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 5.357100009918213

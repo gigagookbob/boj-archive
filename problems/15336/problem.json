@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ACM-ICPC Asia Tsukuba Regional Contest 2017",
   "level": 26,
-  "tags": [
-    "flow",
-    "greedy",
-    "graphs"
-  ],
+  "tags": ["flow", "greedy", "graphs"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.649999976158142

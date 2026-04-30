@@ -15,12 +15,7 @@
   "hint": "<p>U prvom scenariju svaka je birtija dobila točno po jedan glas te su svi studenti u grupi dominantni. Dakle, grupa će u svaku od birtija otići s jednakom vjerojatnošću od 25%.</p>\n<p>U drugom scenariju će jedini student koji nije dominantan odabrati prvu birtiju s vjerojatnošću 3/5, dok če drugu, odnosno treću birtiju odabrati s vjerojatnošću 1/5. Ipak, neovisno o tome što taj student odabere, birtija pod brojem 1 će na kraju imati najveći broj glasova.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2022",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "implementation",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "implementation", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

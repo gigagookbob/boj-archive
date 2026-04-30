@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2024, math_rabbit_1028, qwerasdfzxcl, 79brue, jimini23, jk410, kuhyaku",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 3.1389000415802

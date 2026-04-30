@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2013, 고등부, tncks0121, 20191647, degurii, gojib2002, shjohw12, sjyrsh0712, yclock",
   "level": 13,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 11900,
   "submission_count": null,
   "average_tries": 2.892400026321411

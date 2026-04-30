@@ -15,10 +15,7 @@
   "hint": "<p>The minimal possible total cost is $566 \\cdot 1+239 \\cdot 1+30 \\cdot 1+1 \\cdot 2+1 \\cdot 2=839$:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 206px; height: 150px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2021",
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.885699987411499

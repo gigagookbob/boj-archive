@@ -27,11 +27,7 @@
   "hint": "<p>В первом примере подходят последовательности $\\langle 0, 1, 0 \\rangle$ и $\\langle 1, 0, 1 \\rangle$.</p>\n<p>Во втором примере не существует ни одной двоичной последовательности длины 4 с заданной Z-функцией.</p>\n<p>В третьем примере $z[2] = 3$, что противоречит определению Z-функции, поэтому ответ 0.</p>\n<p>В четвертом примере подходит любая двоичная последовательность длины 3.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2013",
   "level": 17,
-  "tags": [
-    "2_sat",
-    "graphs",
-    "scc"
-  ],
+  "tags": ["2_sat", "graphs", "scc"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.799999952316284

@@ -15,9 +15,7 @@
   "hint": "<p>In this example, FJ needs 4 buckets: He uses buckets 1 and 2 for milking cow 3 (starting at time 2). He uses bucket 3 for milking cow 1 (starting at time 4). When cow 2 arrives at time 8, buckets 1 and 2 are now available, but not bucket 3, so he uses buckets 1, 2, and 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Bronze",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 891,
   "submission_count": null,
   "average_tries": 1.4847999811172485

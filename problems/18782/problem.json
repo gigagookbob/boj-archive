@@ -15,13 +15,7 @@
   "hint": "<p>It is possible to partition this tree into paths of length $K$ for $K=1,2,3.$ For $K=3$, a possible set of paths is as follows:</p>\n<p>$$13-12-11-8, 10-9-8-6, 7-6-2-3, 5-4-2-1$$</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 February Contest, Gold",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dp_tree"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 2.328000068664551

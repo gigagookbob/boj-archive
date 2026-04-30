@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2012 Pacific Northwest Region Programming Contest",
   "level": 21,
-  "tags": [
-    "calculus",
-    "math"
-  ],
+  "tags": ["calculus", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.875

@@ -15,12 +15,7 @@
   "hint": "<p>The first test case satisfies the conditions for the easy subproblem, the copier duplicated the subsequence <code>1 4</code>. In the second test case we started with <code>4 3 1 2</code>, changed it into <code>(4 3) 1 2 (4 3)</code>, then changed that sequence into <code>4 (3 1) 2 (3 1) 4 3</code>, and finally changed that into <code>4 3 1 2 (3 1 4) 3 (3 1 4)</code>.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2014",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc",
-    "set"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc", "set"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.114799976348877

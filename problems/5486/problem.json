@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:381px; width:330px\"/></p>\n<p>Views of the track before and after each reconfiguration. The x axis denotes the rail number. The y axis and the numbers over points denote elevation. The numbers over segments denote elevation changes.</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2005, Day 1, ksmzzang2003",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 4.6666998863220215

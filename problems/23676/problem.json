@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 13: Grand Prix of Bytedance",
   "level": 12,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "greedy",
-    "sorting",
-    "set"
-  ],
+  "tags": ["graphs", "data_structures", "greedy", "sorting", "set"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.2308000326156616

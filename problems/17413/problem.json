@@ -39,12 +39,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "string", "stack"],
   "accepted_user_count": 18860,
   "submission_count": null,
   "average_tries": 1.740399956703186

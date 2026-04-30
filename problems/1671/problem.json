@@ -27,9 +27,7 @@
   "hint": null,
   "source": "baekjoon, djm03178, windflower, shiftpsh",
   "level": 18,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 2363,
   "submission_count": null,
   "average_tries": 2.9200000762939453

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 1999-2000 Season, USACO Winter 2000 Contest, Orange",
   "level": 4,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 348,
   "submission_count": null,
   "average_tries": 1.1953999996185303

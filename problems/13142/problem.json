@@ -15,11 +15,7 @@
   "hint": "<p>아래 표도 찬식이의 취향이 될 수 있다.</p>\n<pre>\n.011\n1.00\n01.1\n010.</pre>",
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016, functionx",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.727299928665161

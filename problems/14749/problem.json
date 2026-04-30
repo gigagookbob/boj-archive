@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2017",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "constructive",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "constructive", "dfs"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 2.5385000705718994

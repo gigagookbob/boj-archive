@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 US Open Contest, Platinum",
   "level": 20,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.5428999662399292

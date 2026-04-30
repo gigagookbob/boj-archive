@@ -31,12 +31,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2019 Goricon, exqt",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.809499979019165

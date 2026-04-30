@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 2: 300iq Contest 2, Contest, Open Cup, 2019/2020 Season, Stage 1: Grand Prix of Kazan, 300iq",
   "level": 23,
-  "tags": [
-    "gaussian_elimination",
-    "greedy",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["gaussian_elimination", "greedy", "linear_algebra", "math"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3.2142999172210693

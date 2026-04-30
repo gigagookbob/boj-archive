@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2001, National Competition #2 - Juniors",
   "level": 14,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "bruteforcing",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["backtracking", "bitmask", "bruteforcing", "dp", "dp_bitfield"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.1666998863220215

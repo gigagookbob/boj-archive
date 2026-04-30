@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Open, wbcho0504, djm03178, gumgood, jh05013, jhnah917, lky7674, shiftpsh",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.898900032043457

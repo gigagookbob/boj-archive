@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, Regional Competition - Juniors",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.8824000358581543

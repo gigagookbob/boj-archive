@@ -19,11 +19,7 @@
   "hint": "<p>Во втором примере после одного применения катализатора будет 5 генов <code>X</code> и 6 генов <code>Y</code>. Соотвественно, гена <code>X</code> на -1 больше, чем гена <code>Y</code>.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2014-2015 Season, October 12, 2014, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2014-2015 Season, October 12, 2014, Advanced",
   "level": 7,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "arithmetic"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.3703999519348145

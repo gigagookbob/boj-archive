@@ -43,11 +43,7 @@
   "hint": "<p>For $k = 1$, the sequence of all valid numbers starts with $2, 3, 4, 5, 6, 7, 8, 9, 12, 13, \\ldots$</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 7: Moscow IPT Contest, Contest, Open Cup, 2021/2022 Season, Stage 1: Grand Prix of Dolgoprudny",
   "level": 24,
-  "tags": [
-    "math",
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "dp_digit"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

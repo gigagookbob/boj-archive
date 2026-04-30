@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 17 January, 2001",
   "level": 23,
-  "tags": [
-    "geometry",
-    "polygon_area",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "polygon_area", "half_plane_intersection"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.6923000812530518

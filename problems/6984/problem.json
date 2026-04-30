@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 1996, CCO 1996",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "set",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "set", "bfs", "dfs"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.301900029182434

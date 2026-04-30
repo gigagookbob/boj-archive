@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 11: Grand Prix of Tatarstan, Division 2",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.4605000019073486

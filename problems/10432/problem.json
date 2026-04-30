@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2014 Greater New York Programming Contest, portableangel",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 278,
   "submission_count": null,
   "average_tries": 1.406499981880188

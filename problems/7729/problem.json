@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2010",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "dp",
-    "dp_tree",
-    "game_theory",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "dp", "dp_tree", "game_theory", "trees"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 7.6666998863220215

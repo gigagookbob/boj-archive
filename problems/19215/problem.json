@@ -15,12 +15,7 @@
   "hint": "<p>The second and third samples are illustrated below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 423px; height: 211px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 9: Michael Tikhomirov Contest 1",
   "level": 23,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "geometry",
-    "recursion"
-  ],
+  "tags": ["implementation", "ad_hoc", "geometry", "recursion"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -15,9 +15,7 @@
   "hint": "<p>Farmer John and Bessie are playing one game on a 3*3 checkerboard with the checker piece initially at (1, 1) (i.e. at the center of the board).</p>\n<p>Bessie initially can only move the checker piece to either (1, 0) or (0, 1), or (0, 0). Bessie can immediately win by moving the piece to (0, 0).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO US Open 2011 Contest, Silver",
   "level": 18,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.9070000648498535

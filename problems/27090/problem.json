@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2022, math_rabbit_1028, 79brue, ncy09, physics07, sharaelong, whqkrkt04",
   "level": 18,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "greedy",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "greedy", "shortest_path"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.157900094985962

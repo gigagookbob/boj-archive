@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 4: Ce Bin and Ryyi Ji Contest 1",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "beats"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "beats"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 1.779099941253662

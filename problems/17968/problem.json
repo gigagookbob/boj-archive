@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2019",
   "level": 7,
-  "tags": [
-    "implementation",
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "dp", "bruteforcing"],
   "accepted_user_count": 486,
   "submission_count": null,
   "average_tries": 1.4362000226974487

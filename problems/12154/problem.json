@@ -15,12 +15,7 @@
   "hint": "<p>In Case #2, flipping does not help and the optimal strategy is to just count up to 19.<br/>\n<br/>\nIn Case #3, the optimal strategy is to count up to 12, flip to 21, and then continue counting up to 23. That is, the numbers you will say are 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 21, 22, 23.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 1B",
   "level": 14,
-  "tags": [
-    "case_work",
-    "greedy",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["case_work", "greedy", "implementation", "simulation"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.840000033378601

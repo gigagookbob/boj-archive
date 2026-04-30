@@ -19,12 +19,7 @@
   "hint": "<p>In Sample Input $1$, with a group size of $2$, the average for the first group ($1$ and $3$) is $2$, the average for the second group ($4$ and $2$) is $3$, and the average for the third group ($8$ and $1$) is $4$ because you always round down to the nearest integer. The rest of the data is discarded because you cannot create a group of size $2$. The noise level of this input with a group size of $2$ is $1$ because the maximum difference between adjacent group averages is $1$. This is less than or equal to the threshold of $1$. Since using a group size of $1$ would result in a noise level of $7$, the lowest group size that satisfies the noise level threshold is $2$.</p>\n<p>In Sample Input $2$, when using a group size of $2$, the third group ($1$ and $1$) has an average of $1$. This causes the difference between the averages of the second and third groups to be $2$, which is greater than the threshold of $1$. So using a group size of $2$ is not sufficient to satisfy the noise level threshold. A group size of $3$ is sufficient because the first group's average is $2$ (remember, always round <strong>down</strong>), and the second group's average is $1$.</p>",
   "source": ", School, CS@Mines, CS@Mines HSPC 2023, Beginner, School, CS@Mines, CS@Mines HSPC 2023, Advanced",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.4737000465393066

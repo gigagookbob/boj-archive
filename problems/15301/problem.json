@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2017 Greater New York Programming Contest",
   "level": 19,
-  "tags": [
-    "gaussian_elimination",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["gaussian_elimination", "linear_algebra", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 14: Grand Prix of East and West",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.642899990081787

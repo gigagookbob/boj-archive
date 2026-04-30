@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, the fastest way to get a $5$ is to increase the number by one five times.</p>\n<p>In the second example, we start by producing a one, and then reverse the bits, turning $1 = 2^{0}$ into $2\\,147\\,483\\,648 = 2^{31}$.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 13: Grand Prix of Three Capitals",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "math"
-  ],
+  "tags": ["bitmask", "math"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.8788000345230103

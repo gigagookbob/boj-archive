@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2011, Novice, School, PLU High School Programming Contest, PLU 2016, Novice",
   "level": 4,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 1.5262999534606934

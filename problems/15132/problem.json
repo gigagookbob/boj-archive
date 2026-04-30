@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2017",
   "level": 8,
-  "tags": [
-    "math",
-    "string",
-    "parsing"
-  ],
+  "tags": ["math", "string", "parsing"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.517199993133545

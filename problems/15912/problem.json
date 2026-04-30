@@ -19,9 +19,7 @@
   "hint": "<p>2번째 예제에서는  1,2번 부품을 10 x 4 의 비용으로 한번에 구입하고 3번 부품을 99의 비용으로 구입하고 4,5번 부품을 7x4의 비용으로 구입해서 총 167의 비용으로 구입한다면 최소의 비용으로 모든 부품을 구입할 수 있다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2018, bluefire",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 182,
   "submission_count": null,
   "average_tries": 1.884600043296814

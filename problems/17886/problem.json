@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2018",
   "level": 18,
-  "tags": [
-    "geometry",
-    "case_work",
-    "line_intersection",
-    "physics"
-  ],
+  "tags": ["geometry", "case_work", "line_intersection", "physics"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5

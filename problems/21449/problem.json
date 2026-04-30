@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере команды на 4 и 5 месте могут сдать по одной задаче, команда на 6 месте --- три, а команда на 7 месте --- 4. Суммарно таким образом команды смогут сдать 9 задач.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2009",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.2000000476837158

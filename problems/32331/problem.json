@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 · 세종대학교, 제 2회 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC), Beginner, hansoyo, opusdeisong, dkxkqkrtkddn, dohoon, gggkik, gs22123, gunwookim, iccodly, infikei, ingyu1008, jrdora, wjdclgns12, zxvm5962",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "sorting", "case_work"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 3.5048999786376953

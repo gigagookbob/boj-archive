@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 29 September, 2019",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.7407000064849854

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2008",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "stack"
-  ],
+  "tags": ["data_structures", "dfs", "graphs", "graph_traversal", "stack"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.200000047683716

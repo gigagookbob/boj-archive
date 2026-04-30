@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2020",
   "level": 23,
-  "tags": [
-    "geometry",
-    "polygon_area",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "polygon_area", "half_plane_intersection"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 4.35290002822876

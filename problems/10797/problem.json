@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2015, 초등부, jh05013, baekjoon",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 20676,
   "submission_count": null,
   "average_tries": 1.2254999876022339

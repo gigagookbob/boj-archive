@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2017",
   "level": 17,
-  "tags": [
-    "math",
-    "recursion"
-  ],
+  "tags": ["math", "recursion"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.438999891281128

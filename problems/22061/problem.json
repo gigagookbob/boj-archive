@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2015, RCC 2015 Third Qualification Round",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 225,
   "submission_count": null,
   "average_tries": 2.2267000675201416

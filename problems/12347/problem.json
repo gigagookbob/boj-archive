@@ -31,10 +31,7 @@
   "hint": null,
   "source": null,
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 2.2620999813079834

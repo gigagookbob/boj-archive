@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2011, CCC 2011 Senior Division",
   "level": 10,
-  "tags": [
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "recursion"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.5676000118255615

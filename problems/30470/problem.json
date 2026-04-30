@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2023 Goricon, hamuim, exqt, hyperbolic, leo020630, utilforever",
   "level": 11,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "stack"],
   "accepted_user_count": 199,
   "submission_count": null,
   "average_tries": 4.015100002288818

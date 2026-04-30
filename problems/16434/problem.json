@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2018 Goricon, exqt, kyo20111",
   "level": 12,
-  "tags": [
-    "implementation",
-    "binary_search"
-  ],
+  "tags": ["implementation", "binary_search"],
   "accepted_user_count": 2659,
   "submission_count": null,
   "average_tries": 3.4825000762939453

@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예제에서 피돌이가 첫 번째 라운드에서 보자기를 내면 3, 4번째 친구가 남고 두 번째 라운드에서 주먹을 내면 3번째 친구만 남아 선물을 나누어 줄 수 있다.</p>\n<p>두 번째 예제에서 피돌이가 어떻게 내더라도 친구들이 모두 남거나 모두 탈락하기 때문에 선물을 나누어 줄 수 없다.</p>",
   "source": "Contest, BOJ User Contest, 피갤컵, 제1회 피갤컵, amel, dabbler1, hamuim, herdson, hyperion1019, ibm2006, kdh9949, kidw0124, lky7674, nick832, plast, skeep194",
   "level": 11,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 221,
   "submission_count": null,
   "average_tries": 2.5385000705718994

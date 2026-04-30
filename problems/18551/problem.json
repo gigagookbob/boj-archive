@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 8: Petrozavodsk SU Contest",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "graphs",
-    "mitm"
-  ],
+  "tags": ["binary_search", "graphs", "mitm"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.599999904632568

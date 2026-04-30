@@ -15,12 +15,7 @@
   "hint": "<p>ddu of nglish of rdable nough <br/>\nof not hve xplnation</p>",
   "source": "School, Cornell University High School Programming Contest, Cornell University High School Programming Contest 2016",
   "level": 12,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing",
-    "regex"
-  ],
+  "tags": ["implementation", "string", "parsing", "regex"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 5.255300045013428

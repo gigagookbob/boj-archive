@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 1: Jagiellonian U Contest, Grand Prix of Krakow, Contest, Open Cup, 2020/2021 Season, Stage 10: Grand Prix of Krakow",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc",
-    "pigeonhole_principle"
-  ],
+  "tags": ["implementation", "string", "ad_hoc", "pigeonhole_principle"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.830199956893921

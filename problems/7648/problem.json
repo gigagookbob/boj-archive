@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2010 Round Two",
   "level": 19,
-  "tags": [
-    "bipartite_matching",
-    "flow",
-    "graphs"
-  ],
+  "tags": ["bipartite_matching", "flow", "graphs"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, Philippines Multi-Provincial Programming Contest, Philippines Multi-Provincial Programming Contest 2013, baekjoon, jh05013, nlkey2022, TAMREF, jung2381187, sait2000, sslktong",
   "level": 17,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "bruteforcing", "numerical_analysis"],
   "accepted_user_count": 480,
   "submission_count": null,
   "average_tries": 7.1666998863220215

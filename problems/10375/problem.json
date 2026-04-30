@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2014",
   "level": 13,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "precomputation"
-  ],
+  "tags": ["greedy", "bruteforcing", "precomputation"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.875

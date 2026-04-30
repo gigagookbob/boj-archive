@@ -19,12 +19,7 @@
   "hint": "<p>xor 연산의 정의는 <a href=\"https://en.wikipedia.org/wiki/Bitwise_operation#XOR\">여기</a>에서 확인할 수 있다.</p>",
   "source": "University, 중앙대학교, 2022 중앙대학교 CHAC (ChAOS Hello2022 Algorithm Contest), dkvltmxhf, bnb2011, chogahui05, dlaud5379, dlstj0923, omjin7n, pjshwa, smmaker118, soljin8122, thrudgelmir, tngus5851, tony9402, xingxing2001",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "bitmask",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "bitmask", "trie"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 1.8966000080108643

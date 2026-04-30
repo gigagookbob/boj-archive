@@ -15,13 +15,7 @@
   "hint": null,
   "source": "author5, wlaud",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "sorting", "set", "hash_set"],
   "accepted_user_count": 55485,
   "submission_count": null,
   "average_tries": 2.335700035095215

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, jaehoo1, Apple_Cplus",
   "level": 5,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 1816,
   "submission_count": null,
   "average_tries": 2.1761999130249023

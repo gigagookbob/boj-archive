@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제5회 kriiicon, august14",
   "level": 18,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.875

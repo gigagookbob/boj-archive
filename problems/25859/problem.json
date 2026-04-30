@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2019 Local Programming Contest",
   "level": 6,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 1.242400050163269

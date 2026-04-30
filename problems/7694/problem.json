@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2004",
   "level": 13,
-  "tags": [
-    "math",
-    "geometry",
-    "number_theory",
-    "polygon_area",
-    "pick"
-  ],
+  "tags": ["math", "geometry", "number_theory", "polygon_area", "pick"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.829300045967102

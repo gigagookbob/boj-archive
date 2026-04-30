@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO November 2008 Contest, Silver, inspire12, isku",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 1050,
   "submission_count": null,
   "average_tries": 1.8151999711990356

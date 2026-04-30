@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 2: ITMO U 1 Contest",
   "level": 25,
-  "tags": [
-    "dp",
-    "dp_connection_profile",
-    "berlekamp_massey",
-    "kitamasa"
-  ],
+  "tags": ["dp", "dp_connection_profile", "berlekamp_massey", "kitamasa"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

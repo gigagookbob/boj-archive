@@ -15,9 +15,7 @@
   "hint": "<ul>\n<li>C/C++의 경우, 32bit 정수형 <span style=\"color:#e74c3c;\"><code>int</code></span>의 범위를 넘어가는 정수를 다루게 되므로 64bit 정수형 <span style=\"color:#e74c3c;\"><code>long long</code></span> 사용을 권장한다.</li>\n</ul>",
   "source": "School, 송도고등학교, 송도고 코드마스터 2023, jinseo, dohoon, leo020630, mjhmjh1104, parkky",
   "level": 17,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 5.736800193786621

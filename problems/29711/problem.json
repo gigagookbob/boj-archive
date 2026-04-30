@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2023 Japan Domestic Contest",
   "level": 21,
-  "tags": [
-    "math",
-    "implementation",
-    "dp",
-    "probability",
-    "knapsack"
-  ],
+  "tags": ["math", "implementation", "dp", "probability", "knapsack"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

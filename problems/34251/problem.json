@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Lemon Cup, Lemon Cup, woohyun_jng, changhw, denniskim, kuhyaku, lighton, minchan_bae, pk661, realpsdoingdamyoo, ryanson, utilforever",
   "level": 25,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.5455000400543213

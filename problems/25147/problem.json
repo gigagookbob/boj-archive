@@ -23,9 +23,7 @@
   "hint": "<p>Pojašnjenje prvog test podatka: Mirko u svom prvom potezu posjećuje polja redoslijedom navedenim na svakom polju:</p>\n<pre>\n01...\n.234.\n.9x5.\n.876.\n.....</pre>\n<p>te u svom 10. koraku prvog poteza ponovno staje na polje označeno brojem 2. Kada ponovno stane na polje označeno brojem 2, zid nastaje na 8 polja (polja s brojevima 2 - 9).</p>\n<p>Pojašnjenje drugog test podatka: Mirko ne može ograditi Slavkovu figuru jer ako Slavko postavi figuru na početnu poziciju u predzadnjem redu, nakon Mirkovih 10 koraka Slavko pomiče figuru u posljednji red i pobjeđuje.</p>\n<p>Pojašnjenje trećeg test podatka: Jedan od mogućih načina da Mirko ogradi Slavkovu figuru s 30 zidova je da se kreće navedenim redoslijedom:</p>\n<pre>\n 0  1  2  3  4  .  .  .\n29  .  .  .  5  6  7  .\n28  .  .  .  .  .  8  9\n27  .  .  x  .  .  . 10\n26  .  .  .  x  .  . 11\n25  .  .  x  .  .  . 12\n24  .  .  .  .  .  . 13\n23 22  .  .  .  .  . 14\n . 21 20 19 18 17 16 15</pre>\n<p>te u 30. koraku staje na polje označeno brojem 0. Mirku je potrebno 3 poteza da bi ogradio tih 30 polja pa Slavko može napraviti 2 poteza prije nego Mirko dovrši zid. Vidimo da se Slavko unutar ta 2 koraka sigurno nalazi unutar ograđenog područja.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2016, Junior Croatian Olympiad in Informatics 2016",
   "level": 14,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

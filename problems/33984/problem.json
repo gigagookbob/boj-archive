@@ -19,14 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2025 한양대학교 ALOHA 벚꽃컵, Div. 1, gggkik, tlsdydaud1",
   "level": 23,
-  "tags": [
-    "math",
-    "data_structures",
-    "greedy",
-    "segtree",
-    "set",
-    "case_work"
-  ],
+  "tags": ["math", "data_structures", "greedy", "segtree", "set", "case_work"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 9

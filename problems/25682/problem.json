@@ -27,9 +27,7 @@
   "hint": null,
   "source": "wider93, eric00513, jbkmath48128, jh05013, powergee, tlsdydaud1, tony9402",
   "level": 12,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 4361,
   "submission_count": null,
   "average_tries": 2.5495998859405518

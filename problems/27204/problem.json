@@ -19,12 +19,7 @@
   "hint": "<p>All possible ways to build a fortress from the first sample are in the picture.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 342px; height: 119px;\"/></p>\n<p>All possible ways to build a fortress from the second sample are in the picture.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 630px; height: 392px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2022",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

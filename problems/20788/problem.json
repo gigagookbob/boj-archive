@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 6: Grand Prix of NorthBeach (Bei Sha Tan), Division 1",
   "level": 17,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.099999904632568

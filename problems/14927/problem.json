@@ -23,11 +23,7 @@
   "hint": "<p>예제 1: (모든 전구를 다 눌러야한다.)</p>\n<p>예제 2: (0,1), (0,2), (1,0), (2,0), (2,2)를 누르면 된다.</p>",
   "source": "University, 홍익대학교, 2017 홍익대학교 컴퓨터공학과 코딩대회, wonjaek36, whdgurclzls",
   "level": 17,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bruteforcing", "bitmask"],
   "accepted_user_count": 661,
   "submission_count": null,
   "average_tries": 1.7246999740600586

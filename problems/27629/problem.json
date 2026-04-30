@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2021",
   "level": 22,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["convex_hull", "geometry", "sorting"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 28.5

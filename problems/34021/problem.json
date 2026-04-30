@@ -19,11 +19,7 @@
   "hint": "<p>궁금한 사람들을 위해, 아래는 내전 당시 스코어보드를 찍은 사진이다.</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 500px; max-width: 100%;\" /></p>\r\n\r\n<p>참고로 hibye1217은 이 상태에서 2시간 동안 E를 못 풀어서 수상을 못 했다고 한다.</p>\r\n",
   "source": "hibye1217, minjunnick, mujigae, oh040411, utilforever",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 199,
   "submission_count": null,
   "average_tries": 1.6884000301361084

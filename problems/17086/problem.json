@@ -19,12 +19,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, jyn47",
   "level": 9,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs"],
   "accepted_user_count": 6164,
   "submission_count": null,
   "average_tries": 2.0318000316619873

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2014-2015 Season, January 17, 2015",
   "level": 21,
-  "tags": [
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["geometry", "binary_search"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

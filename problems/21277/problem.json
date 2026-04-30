@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 류호석배 알고리즘 코딩 테스트, 제2회 류호석배 알고리즘 코딩 테스트, rhs0266, BaaaaaaaaaaarkingDog, dlstj0923, tony9402",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 232,
   "submission_count": null,
   "average_tries": 3.9094998836517334

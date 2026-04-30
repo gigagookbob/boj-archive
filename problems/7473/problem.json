@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2003",
   "level": 20,
-  "tags": [
-    "flow",
-    "mfmc",
-    "graphs"
-  ],
+  "tags": ["flow", "mfmc", "graphs"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

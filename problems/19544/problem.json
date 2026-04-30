@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020, moonrabbit2, ahgus89, Diuven, evenharder, pichulia, shiftpsh, tncks0121",
   "level": 16,
-  "tags": [
-    "combinatorics",
-    "graphs",
-    "math"
-  ],
+  "tags": ["combinatorics", "graphs", "math"],
   "accepted_user_count": 202,
   "submission_count": null,
   "average_tries": 2.212899923324585

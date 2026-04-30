@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open 2020-2021, Qualification, Contest 1",
   "level": 4,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "arithmetic"],
   "accepted_user_count": 195,
   "submission_count": null,
   "average_tries": 1.6051000356674194

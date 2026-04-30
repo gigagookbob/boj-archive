@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 블롭컵, 제1회 블롭컵, dj035, amsminn, chansol, jjang36524, lighton, mjhmjh1104, tlsdydaud1",
   "level": 13,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 285,
   "submission_count": null,
   "average_tries": 3.6315999031066895

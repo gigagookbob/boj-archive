@@ -23,12 +23,7 @@
   "hint": "<ul>\n<li>예제 1: S(3, 1) = 6</li>\n<li>예제 2: S(3, 2) = 12</li>\n<li>예제 3: S(4, 2) = 288</li>\n</ul>",
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "dp", "number_theory", "prime_factorization"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 2.344399929046631

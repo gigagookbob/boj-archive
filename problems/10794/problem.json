@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2015",
   "level": 26,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "dfs",
-    "articulation"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "dfs", "articulation"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.603800058364868

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2005",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "sorting", "parsing"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

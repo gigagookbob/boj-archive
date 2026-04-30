@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #6, baekjoon",
   "level": 17,
-  "tags": [
-    "geometry",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["geometry", "inclusion_and_exclusion"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.1809000968933105

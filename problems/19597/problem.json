@@ -15,12 +15,7 @@
   "hint": "<p>사전식 순서: 두 문자열 S, T가 주어졌을 때 S가 T의 prefix 이거나 혹은 S와 T를 비교했을 때 처음으로 다른 문자 (알파벳)가 각각 s, t인 경우 s가 t보다 사전순으로 앞서는 경우 S가 T보다 사전순으로 앞선다고 한다.</p>\r\n",
   "source": null,
   "level": 12,
-  "tags": [
-    "dp",
-    "greedy",
-    "string",
-    "backtracking"
-  ],
+  "tags": ["dp", "greedy", "string", "backtracking"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 2.8417000770568848

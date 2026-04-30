@@ -15,9 +15,7 @@
   "hint": "<p>In the first sample, since Alice goes first and $a = n = 10$, she can fill in the entire board on her first move, and Bob will not have any legal moves, losing the game.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 718px; height: 75px;\"/></p>\n<p>In the second sample, Alice can never stop Bob from placing a piece on his first turn. After Bob's first turn, there will only be $4$ empty squares in total, so Alice can never place a piece on her second turn and will lose the game.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 718px; height: 46px;\"/></p>",
   "source": "University, Rutgers University, Rutgers University Programming Contest Spring 2025",
   "level": 16,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2

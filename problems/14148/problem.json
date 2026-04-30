@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2008",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["combinatorics", "dp", "math", "number_theory"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

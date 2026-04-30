@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2011, dlwodnsdl",
   "level": 13,
-  "tags": [
-    "math",
-    "binary_search",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "binary_search", "arbitrary_precision"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 2.9340999126434326

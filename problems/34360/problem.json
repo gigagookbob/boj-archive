@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2025, Day 2",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitset"
-  ],
+  "tags": ["dp", "bitset"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

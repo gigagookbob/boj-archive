@@ -23,13 +23,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, jthis, jyheo98, tlsdydaud1, tony9402",
   "level": 12,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 1.725000023841858

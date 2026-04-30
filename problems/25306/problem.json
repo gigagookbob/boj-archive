@@ -19,9 +19,7 @@
   "hint": "<p><strong>비트 XOR</strong> (Bitwise XOR) 에 대해 잘 모르는 사람은 이 <a href=\"https://en.wikipedia.org/wiki/Bitwise_operation#XOR\">위키백과 링크</a>를 참조하라.</p>",
   "source": "University, 연세대학교 미래캠퍼스, 2022 연세대학교 미래캠퍼스 슬기로운 코딩생활, junie, jhnah917, yclock",
   "level": 12,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 598,
   "submission_count": null,
   "average_tries": 2.227400064468384

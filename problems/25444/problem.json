@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2022, Croatian Olympiad in Informatics 2022, kyo20111",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["ad_hoc", "string", "two_pointer"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.636399984359741

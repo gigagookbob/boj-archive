@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2019, 1차 선발고사",
   "level": 17,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "rerooting"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.076900005340576

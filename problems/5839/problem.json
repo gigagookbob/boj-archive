@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>Bessie runs at a speed of 1 for 2 units of time, then at a speed of 4 for 1 unit of time, then at a speed of 1 for 1 unit of time, and finally at a speed of 2 for 10 units of time. Elsie runs at a speed of 2 for 3 units of time, then at a speed of 1 for 2 units of time, then finally at a speed of 3 for 9 units of time. Note that both cows run for a total of 14 units of time.</p>\n<h4>Output Details</h4>\n<p>Elsie is ahead until time t=3, when both cows meet after both have traveled 6 units of total distance and travel together for 1 unit of time. Bessie then pulls ahead briefly (the first leadership change), only to be overtaken shortly thereafter by Elsie (the second leadership change). Elsie ends the race in the lead.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO March 2013 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 157,
   "submission_count": null,
   "average_tries": 1.6751999855041504

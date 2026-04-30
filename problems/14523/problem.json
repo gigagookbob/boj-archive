@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 US Open Contest, Platinum",
   "level": 25,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "segtree",
-    "set",
-    "mst"
-  ],
+  "tags": ["graphs", "data_structures", "segtree", "set", "mst"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.6470999717712402

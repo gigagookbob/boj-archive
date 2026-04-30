@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2010 Day 3",
   "level": 15,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "case_work",
-    "two_pointer",
-    "mitm"
-  ],
+  "tags": ["sorting", "binary_search", "case_work", "two_pointer", "mitm"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 5

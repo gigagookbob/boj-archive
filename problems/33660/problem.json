@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2025, Division 1, University, University of Alberta Programming Contest, UAPC 2025, Division 2",
   "level": 16,
-  "tags": [
-    "case_work",
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["case_work", "greedy", "implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

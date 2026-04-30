@@ -19,11 +19,7 @@
   "hint": "<p>String \"banan\" should be replaced with $\\uparrow \\uparrow \\rightarrow \\uparrow \\rightarrow$. The area under the broken line is then $5$:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 130px; height: 113px;\"/></p>\n<p>For string \"abcdefghijklmnopaaaa\" there are two optimal solutions with the area 90:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 320px; height: 127px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 1: Warsaw U Contest",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "ad_hoc", "bitmask"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.3636000156402588

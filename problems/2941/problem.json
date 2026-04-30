@@ -31,10 +31,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #5, baekjoon, jh05013, cake_monotone, evenharder, handong, jh05013, veydpz, zzangho, jh05013",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 87538,
   "submission_count": null,
   "average_tries": 2.2109999656677246

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 미적확통컵, 2022 제1회 미적확통컵, jh05013, azberjibiou, heeda0528, kiwiyou, wider93",
   "level": 20,
-  "tags": [
-    "dp",
-    "math",
-    "probability",
-    "statistics"
-  ],
+  "tags": ["dp", "math", "probability", "statistics"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.923099994659424

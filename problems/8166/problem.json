@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:115px; width:112px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2007/2008, Stage 3",
   "level": 17,
-  "tags": [
-    "sorting",
-    "geometry",
-    "prefix_sum"
-  ],
+  "tags": ["sorting", "geometry", "prefix_sum"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.8529000282287598

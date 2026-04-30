@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ho94949",
   "level": 28,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work",
-    "recursion"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work", "recursion"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 8.920000076293945

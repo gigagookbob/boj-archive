@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2005: Summer on the Beach",
   "level": 9,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.3529000282287598

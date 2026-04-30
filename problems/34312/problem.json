@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2024",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.0967999696731567

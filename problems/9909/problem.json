@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2002",
   "level": 9,
-  "tags": [
-    "bitmask",
-    "bruteforcing",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["bitmask", "bruteforcing", "implementation", "simulation"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.0499999523162842

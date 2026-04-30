@@ -15,11 +15,7 @@
   "hint": "<p>If at least two cows remain, then exactly two of them get a box of cereal.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 US Open Contest, Silver",
   "level": 16,
-  "tags": [
-    "implementation",
-    "offline_queries",
-    "recursion"
-  ],
+  "tags": ["implementation", "offline_queries", "recursion"],
   "accepted_user_count": 223,
   "submission_count": null,
   "average_tries": 2.5739998817443848

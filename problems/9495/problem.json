@@ -15,12 +15,7 @@
   "hint": null,
   "source": "myungwoo",
   "level": 22,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching", "mfmc"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.9785000085830688

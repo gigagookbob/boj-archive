@@ -19,9 +19,7 @@
   "hint": "<p>В первом тестовом примере $a_0 = 1, a_1 = 2, a_2 = 2$. Рассмотрев все пары чисел, можно убедиться, что для каждой из них неравенство выполняется:</p>\n<ol>\n<li>$a_0 - a_1 = 1 - 2 &lt; 1 - 0$.</li>\n<li>$a_1 - a_2 = 2 - 2 &lt; 2 - 1$.</li>\n<li>$a_0 - a_2 = 1 - 2 &lt; 2 - 0$.</li>\n</ol>\n<p>Во втором примере неравенства будут выполняться, например, при выборе чисел с индексами $1, 2, 3$ и $4$. При большем количестве чисел найдется такая пара, для которой неравенство выполняться не будет.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 15, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 15, 2016, Advanced",
   "level": 15,
-  "tags": [
-    "lis"
-  ],
+  "tags": ["lis"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.1600000858306885

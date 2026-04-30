@@ -15,13 +15,7 @@
   "hint": "<p>Note that this problem has been asked in a previous USACO contest, at the silver level; however, the limits in the present version have been raised considerably, so one should not expect many points from the solution to the previous, easier version.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO US Open 2016 Contest, Platinum",
   "level": 25,
-  "tags": [
-    "dp",
-    "data_structures",
-    "set",
-    "priority_queue",
-    "slope_trick"
-  ],
+  "tags": ["dp", "data_structures", "set", "priority_queue", "slope_trick"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2

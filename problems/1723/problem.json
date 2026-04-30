@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO Winter 2002 Contest, Green, author5",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["bruteforcing", "sorting", "binary_search"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 3.530900001525879

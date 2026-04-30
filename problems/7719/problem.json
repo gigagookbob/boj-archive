@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2010",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "trees",
-    "stack",
-    "trie",
-    "aho_corasick"
-  ],
+  "tags": ["dp", "data_structures", "trees", "stack", "trie", "aho_corasick"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 7.6315999031066895

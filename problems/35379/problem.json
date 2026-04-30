@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2025 East Central NA Regional Contest",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2014",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "math"
-  ],
+  "tags": ["ad_hoc", "math"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.61899995803833

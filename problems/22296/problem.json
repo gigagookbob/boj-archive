@@ -10,12 +10,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2021 Spring CS1 Final Mock Exam, parkky, jh05013",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "case_work", "math", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 8.875

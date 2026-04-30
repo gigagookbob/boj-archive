@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2008",
   "level": 17,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "convex_hull", "polygon_area"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4.75

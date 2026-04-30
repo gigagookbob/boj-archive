@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2025 송년대회, dkim110807, lighton, denniskim, flappybird, kuhyaku, moonrabbit2, utilforever",
   "level": 22,
-  "tags": [
-    "trees",
-    "divide_and_conquer",
-    "centroid",
-    "centroid_decomposition"
-  ],
+  "tags": ["trees", "divide_and_conquer", "centroid", "centroid_decomposition"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 6.86959981918335

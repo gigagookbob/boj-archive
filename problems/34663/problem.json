@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 10., pyb1031, chogahui05, kaorin, utilforever",
   "level": 18,
-  "tags": [
-    "case_work",
-    "game_theory"
-  ],
+  "tags": ["case_work", "game_theory"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.9048000574111938

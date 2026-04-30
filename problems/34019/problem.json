@@ -19,11 +19,7 @@
   "hint": null,
   "source": "hibye1217, knen, minjunnick, mujigae, nflight11, oh040411, pyb1031, utilforever",
   "level": 11,
-  "tags": [
-    "math",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["math", "parity", "invariant"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 1.2733999490737915

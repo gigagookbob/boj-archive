@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2012, RCC 2012 First Qualification Round",
   "level": 4,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "geometry_3d"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.6075999736785889

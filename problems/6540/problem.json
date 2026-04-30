@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2004",
   "level": 16,
-  "tags": [
-    "dp",
-    "trees"
-  ],
+  "tags": ["dp", "trees"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.6666998863220215

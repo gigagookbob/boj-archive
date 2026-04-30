@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2000 Mid-Central Regional Programming Contest, opros, dreammusic23",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 9568,
   "submission_count": null,
   "average_tries": 2.0452001094818115

@@ -15,12 +15,7 @@
   "hint": "<p>For the first case, the only possible multi-set is $\\{1\\}$. So the answer is $1^3 = 1$.</p>\n<p>For the second case, there are two possible multi-sets: $\\{1, 1\\}$ and $\\{2\\}$. So the answer is $2^3 + 1^3 = 9$.</p>\n<p>For the third case, there are three possible multi-sets: $\\{1, 1, 1\\}$, $\\{1, 2\\}$, and $\\{3\\}$. So the answer is $3^3 + 2^3 + 1^3 = 36$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 7: DPRK Contest 2",
   "level": 25,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "generating_function",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "generating_function", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

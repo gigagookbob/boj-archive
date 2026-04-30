@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, if we set the missing number to be 5, we have exactly 4 arithmetic progressions.</p>\n<ul>\n<li>top left diagonal: [3,5,7]</li>\n<li>top right diagonal: [−1,5,11]</li>\n<li>middle column: [4,5,6]</li>\n<li>right column: [11,9,7]</li>\n</ul>\n<p>If we set the missing number to any other integer, there would be only 1 progression. Thus, the answer is 4.</p>\n<p>In Sample Case #2, if we set the missing number to be 4, we have exactly 3 arithmetic progressions.</p>\n<ul>\n<li>top right diagonal: [6,4,2]</li>\n<li>middle row: [3,4,5]</li>\n<li>left column: [4,3,2]</li>\n</ul>\n<p>Setting the missing number to any other integer results in fewer progressions, so we output 3.</p>\n<p>In Sample Case #3, if we set the missing number to be 9, we have all possible arithmetic progressions. There are 8 total progressions (each one is [9,9,9]), so we output 8.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round D",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "case_work"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.732100009918213

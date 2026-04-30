@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2014 Rocky Mountain Regional Contest, ICPC, Regionals, North America, North Central North America Regional, NCNA 2014, ghssh1",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 3727,
   "submission_count": null,
   "average_tries": 1.9350999593734741

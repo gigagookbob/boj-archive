@@ -15,10 +15,7 @@
   "hint": "<p>어떤 수열에서 몇 개의 수들을 제거해서 만든 부분 수열을 만들 수 있다. 이때 만들어진 부분 수열 중 내림차순으로 정렬된 가장 긴 부분 수열을 <strong>최장 감소 부분 수열</strong>이라고 한다.</p>",
   "source": "University, POSTECH, 2023 POSTECH Programming Contest, Contest, University, POSTECH, 2023 POSTECH Programming Contest, Open Contest, kwoncycle, hyperbolic, leo020630, menborong, slah007, tony9402",
   "level": 22,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.7407000064849854

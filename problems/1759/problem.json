@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO November 2005 Contest, Bronze, author5, djm03178, sksdong1",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics", "backtracking"],
   "accepted_user_count": 32112,
   "submission_count": null,
   "average_tries": 2.192699909210205

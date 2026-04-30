@@ -19,10 +19,7 @@
   "hint": "<p>입력 예제 1에서 (0, 0) / (3, 3) / (10, 10)을 지나는 직선을 찾을 수 있다. 2.75개 이상의 점을 지났으니 그러한 직선이 있다고 볼 수 있다.</p>\r\n",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2014, koosaga",
   "level": 16,
-  "tags": [
-    "geometry",
-    "randomization"
-  ],
+  "tags": ["geometry", "randomization"],
   "accepted_user_count": 327,
   "submission_count": null,
   "average_tries": 5.5167999267578125

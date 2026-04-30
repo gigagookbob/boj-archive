@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, joonas, cgiosy",
   "level": 5,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 71857,
   "submission_count": null,
   "average_tries": 4.130099773406982

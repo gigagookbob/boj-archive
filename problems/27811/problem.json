@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, the first customer gets 1 pancake from the right stack, leaving 1 pancake in each stack. The second customer wants 2 pancakes, but neither stack has enough for them, even though there are 2 pancakes in total.</p>\n<p>In Sample Case #2, the first customer gets 1 pancake from the left stack, because both stacks have the same amount. This leaves 1 pancake in the left stack and 2 in the right stack. The second customer wants 2 pancakes, which you serve to them from the right stack, emptying it. When the third customer arrives, neither stack has 3 pancakes, so no more orders are fulfilled.</p>\n<p>In Sample Case #3, the first customer is served from the right stack, leaving 8 pancakes in the left stack and 10 in the right stack. The second customer is also served from the right stack, leaving 8 pancakes in each stack. The third customer is served from the left stack, leaving 5 pancakes there and 8 in the right stack. The fourth customer is then served from the right stack, leaving 4 pancakes there. Serving the fifth customer empties the left stack, and then there are not enough pancakes remaining in either stack to serve a sixth customer.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2020, Round 2",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "math",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "math", "parametric_search"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.833299994468689

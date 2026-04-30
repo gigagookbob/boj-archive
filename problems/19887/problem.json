@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2015",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sliding_window"
-  ],
+  "tags": ["implementation", "sliding_window"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.049999952316284

@@ -15,13 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Na rysunku przedstawiono rozwiązanie optymalne wykorzystujące ruchy opisane wektorami [0, 2], [3, 1] oraz [2, −2]. Inne, równie dobre rozwiązanie uzyskujemy za pomocą wektorów [0, 2], [−3, 1] oraz [−2, −2].</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 201px; height: 150px;\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2017/2018, Stage 1",
   "level": 20,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "two_pointer",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "two_pointer", "angle_sorting"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 4.68179988861084

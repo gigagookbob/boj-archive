@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 624,
   "submission_count": null,
   "average_tries": 1.5688999891281128

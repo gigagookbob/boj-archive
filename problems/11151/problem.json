@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2012",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "bitmask", "backtracking"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.3451999425888062

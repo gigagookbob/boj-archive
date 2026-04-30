@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, UNIST-DGIST-POSTECH, 2026 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2026 UDPC), Junior Division, University, UNIST-DGIST-POSTECH, 2026 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2026 UDPC), Senior Division, leo020630, minsung05, 99asdfg, jinhan814, jthis, kwoncycle, pyb1031, utilforever",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.3468999862670898

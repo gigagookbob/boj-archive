@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2017 고려대학교 프로그래밍 대회, Div 1, functionx",
   "level": 11,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 502,
   "submission_count": null,
   "average_tries": 1.8068000078201294

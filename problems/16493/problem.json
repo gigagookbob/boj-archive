@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 ERICA Software-Up Programming Contest, League A, jh05013",
   "level": 9,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "knapsack"
-  ],
+  "tags": ["dp", "bruteforcing", "knapsack"],
   "accepted_user_count": 1641,
   "submission_count": null,
   "average_tries": 1.5270999670028687

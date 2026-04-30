@@ -15,10 +15,7 @@
   "hint": "<p>Оптимальное положение моста показано на следующем рисунке:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 182px; height: 355px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2008",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

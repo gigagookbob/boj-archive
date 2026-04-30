@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>FJ owns 5 fields, with mooing volumes 0,17,16,20,19.  There are two breeds of cows; the first moos at a volume of 5, and the other at a volume of 7.</p><h4>Output Details</h4><p>There are 2 cows of breed #1 and 1 cow of breed #2 in field 2, and there is another cow of breed #1 in field 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO March 2014 Contest, Silver, heeda0528",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.96589994430542

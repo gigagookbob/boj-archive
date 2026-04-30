@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2021, Stage 1",
   "level": 10,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "prefix_sum", "combinatorics"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.0526000261306763

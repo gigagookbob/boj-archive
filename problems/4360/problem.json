@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 26 January, 2002",
   "level": 20,
-  "tags": [
-    "geometry",
-    "ternary_search",
-    "gradient_descent"
-  ],
+  "tags": ["geometry", "ternary_search", "gradient_descent"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 3.657900094985962

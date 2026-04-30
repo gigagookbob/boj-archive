@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2025",
   "level": 16,
-  "tags": [
-    "math",
-    "geometry",
-    "parity"
-  ],
+  "tags": ["math", "geometry", "parity"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.0769000053405762

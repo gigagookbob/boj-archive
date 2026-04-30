@@ -23,13 +23,7 @@
   "hint": "<p>예제1 : 12 12 11 13은 잃어버린 P카드 :&nbsp;&nbsp;12개, K : 12개, H : 11개, T : 13라는 뜻이다.</p>\r\n\r\n<p>예제2 : 같은 카드(H02)가 존재하므로&nbsp;GRESKA을 출력하였다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #1, infoefficiency",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "parsing"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set", "parsing"],
   "accepted_user_count": 1186,
   "submission_count": null,
   "average_tries": 1.506700038909912

@@ -23,9 +23,7 @@
   "hint": "<p>В первом тесте Профессор мог на обоих этапах перемещать бактерию номер $2$.</p>\n<p>Во втором тесте на первом этапе он переместил бактерию номер $2$, а на втором --- $1$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, March 5, 2017",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

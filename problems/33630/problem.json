@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2025 IamCoder Qualification Test, byunjaewoo, gs22059, lighton, mjhmjh1104, woohyun_jng",
   "level": 23,
-  "tags": [
-    "cht",
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["cht", "data_structures", "dp", "segtree"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4

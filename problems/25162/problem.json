@@ -23,11 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: mrlja i naljepnica (nakon rotacije) posve su jednake pa ih možemo savršeno preklopiti.</p>\n<p>Opis drugog probnog primjera: kako god naljepnica bila položena na mrlju, barem jedan njezin dio ostat će nepokriven.</p>\n<p>Opis trećeg probnog primjera: vidi sliku u tekstu zadatka.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Junior Croatian Olympiad in Informatics 2021",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1

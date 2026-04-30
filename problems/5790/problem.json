@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2012 ACM South Pacific Programming Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.4230999946594238

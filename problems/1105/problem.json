@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, njh0602",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 5016,
   "submission_count": null,
   "average_tries": 3.035099983215332

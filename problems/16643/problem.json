@@ -15,11 +15,7 @@
   "hint": "<p>장식은 총 2개가 있으며, 모든 조각이 구분 가능하도록 올리는 방법은 16가지가 있습니다.</p>\n<p>그중 2번, 2번, 2번, 1번, 2번, 1번, 1번, 1번 순으로 올리는 것이 최종 피로도가 278로 가장 작습니다.</p>",
   "source": "Contest, BOJ User Contest, 키파컵, 제1회 키파컵, kipa00",
   "level": 20,
-  "tags": [
-    "math",
-    "backtracking",
-    "parametric_search"
-  ],
+  "tags": ["math", "backtracking", "parametric_search"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.3529000282287598

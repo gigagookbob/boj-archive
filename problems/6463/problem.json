@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 1997 South Central USA Regional Programming Contest, baekjoon",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "number_theory", "arbitrary_precision"],
   "accepted_user_count": 463,
   "submission_count": null,
   "average_tries": 2.092900037765503

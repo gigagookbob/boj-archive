@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 4.3846001625061035

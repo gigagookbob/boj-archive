@@ -15,13 +15,7 @@
   "hint": "<p>The series from fifth to twelfth as well as from sixth to thirteenth toss contain exactly 6 heads and 2 tails, i.e., three times more heads than tails. There does not exist a longer sequence with this property.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "hash_set", "tree_set"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 3.9079999923706055

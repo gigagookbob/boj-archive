@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 2: Nexon Arena, koosaga",
   "level": 17,
-  "tags": [
-    "case_work",
-    "graphs"
-  ],
+  "tags": ["case_work", "graphs"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.9824999570846558

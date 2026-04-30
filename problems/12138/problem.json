@@ -15,9 +15,7 @@
   "hint": "<p>Case #1 is consistent with two tributary streams with no farmers drawing from them.</p>\n<p>Case #2 could a single tributary stream being diverted every 4 days. However, <strong>D</strong> is 2 in this case, so this farmer is breaking the agreement.</p>\n<p>Case #3 could be two farmers each with a diversion cycle of 4 days.</p>\n<p>Case #4 could be three farmers with diversion cycles of 1, 2 and 4 days.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 3",
   "level": 23,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.421099901199341

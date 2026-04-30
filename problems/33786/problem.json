@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, Delft University of Technology, Sjaars Kampioenschap Programmeren 2014",
   "level": 5,
-  "tags": [
-    "math",
-    "arbitrary_precision",
-    "recursion"
-  ],
+  "tags": ["math", "arbitrary_precision", "recursion"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.975600004196167

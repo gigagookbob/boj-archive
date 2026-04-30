@@ -15,12 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, baekjoon, eric00513, jhnah917, tony9402",
   "level": 14,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "bruteforcing", "shortest_path", "dijkstra"],
   "accepted_user_count": 178,
   "submission_count": null,
   "average_tries": 5.224699974060059

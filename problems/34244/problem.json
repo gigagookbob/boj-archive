@@ -19,11 +19,7 @@
   "hint": "<p>예제는 이해를 돕기 위한 것으로 실제로 채점하지는 않는다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 08., pyb1031, kiwiyou, utilforever",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "randomization",
-    "xor_basis"
-  ],
+  "tags": ["ad_hoc", "randomization", "xor_basis"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.454500198364258

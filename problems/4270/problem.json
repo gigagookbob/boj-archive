@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 24 September, 2006",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.066699981689453

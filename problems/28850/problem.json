@@ -23,10 +23,7 @@
   "hint": "<p>В первом примере Эггси может заходить в приложение $5$ дней подряд и получить, соответственно, $1 + 2 + 3 + 4 + 4 = 14$ бонусов.</p>\n<p>Во втором тестовом примере Эггси может зайти в приложение три дня подряд, затем пропустить один день, а затем зайти еще два дня подряд. В результате он получит $1 + 4 + 2 + 1 + 4 = 12$ бонусов и потратит на это $3 + 1 + 2 = 6$ дней.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, September 30, 2017",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.1666998863220215

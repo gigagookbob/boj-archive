@@ -23,11 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Tablica za svaku sekundu i svakog čovjeka opisuje na kojem se planetu u određenoj sekundi nalazio određeni čovjek.</p>\n<table class=\"table table-bordered table-center-50 td-center th-center\">\n<tbody>\n<tr>\n<th> </th>\n<th>čovjek $1$</th>\n<th>čovjek $2$</th>\n<th>čovjek $3$</th>\n<th>čovjek $4$</th>\n<th>čovjek $5$</th>\n</tr>\n<tr>\n<th>$1$. sekunda</th>\n<td>$5$</td>\n<td>$1$</td>\n<td>$4$</td>\n<td>$3$</td>\n<td>$2$</td>\n</tr>\n<tr>\n<th>$2$. sekunda</th>\n<td>$2$</td>\n<td>$5$</td>\n<td>$3$</td>\n<td>$4$</td>\n<td>$1$</td>\n</tr>\n<tr>\n<th>$3$. sekunda</th>\n<td>$1$</td>\n<td>$2$</td>\n<td>$4$</td>\n<td>$3$</td>\n<td>$5$</td>\n</tr>\n<tr>\n<th>$4$. sekunda</th>\n<td>$5$</td>\n<td>$1$</td>\n<td>$3$</td>\n<td>$4$</td>\n<td>$2$</td>\n</tr>\n<tr>\n<th>$5$. sekunda</th>\n<td>$2$</td>\n<td>$5$</td>\n<td>$4$</td>\n<td>$3$</td>\n<td>$1$</td>\n</tr>\n</tbody>\n</table>\n<p>U prvih pet sekundi ih je najviše na svojem izvornom planetu bilo troje, i to u trećoj sekundi.</p>\n<p>Opis drugog probnog primjera: Već u drugoj sekundi je svih petero ljudi bilo na svom izvornom planetu.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Junior Final Exam #1",
   "level": 13,
-  "tags": [
-    "math",
-    "permutation_cycle_decomposition",
-    "harmonic_number"
-  ],
+  "tags": ["math", "permutation_cycle_decomposition", "harmonic_number"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.2222000360488892

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2017 KAIST 7th ACM-ICPC Mock Competition, wwiiiii",
   "level": 20,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["graphs", "graph_traversal", "math", "number_theory"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

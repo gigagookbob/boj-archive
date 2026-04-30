@@ -23,12 +23,7 @@
   "hint": "<p>부분 직사각형이란, 행을 위부터 1, 2, …, <em>N</em>으로 번호를 매기고 열을 왼쪽부터 1, 2, …, <em>M</em>으로 번호를 매길 때, 1<em> </em>≤<em> r<sub>1</sub> </em>≤<em> r<sub>2</sub> </em>≤<em> N, </em>1<em> </em>≤<em> c<sub>1</sub> </em>≤<em> c<sub>2</sub> </em>≤<em> M</em>인 어떤 <em>r<sub>1</sub>, r<sub>2</sub>, c<sub>1</sub>, c<sub>2</sub></em>에 대하여 행의 번호가 <em>r<sub>1</sub></em> 이상 <em>r<sub>2</sub></em> 이하이며, 열의 번호가 <em>c<sub>1</sub> </em>이상 <em>c<sub>2</sub></em> 이하인 모든 칸의 집합을 뜻한다. 가능한 모든 부분 직사각형이란, 부등식을 만족하는 모든 서로 다른 (<em>r<sub>1</sub>,c<sub>1</sub>,r<sub>2</sub>,c<sub>2</sub></em>)에 대해 한 번씩 직사각형을 만든 것을 뜻한다.</p>",
   "source": "University, 연세대학교, 2019 연세대학교 컴퓨터과학과 프로그래밍 경진대회, portableangel, djm03178",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["math", "dp", "knapsack", "traceback"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 3.4614999294281006

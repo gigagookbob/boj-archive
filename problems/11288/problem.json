@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Irish Collegiate Programming Contest, IrICPC 2015",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 2.396699905395508

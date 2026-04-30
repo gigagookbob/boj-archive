@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2004, CCC 2004 Senior Division",
   "level": 15,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "geometry_3d", "ternary_search"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

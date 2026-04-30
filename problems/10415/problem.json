@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2014 Rocky Mountain Regional Contest, ICPC, Regionals, North America, North Central North America Regional, NCNA 2014",
   "level": 17,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "binary_search", "polygon_area"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.8518999814987183

@@ -27,11 +27,7 @@
   "hint": "<p>In Sample Input 1, you will win either the first or the second type of prize, but not the third.</p>\n<p>In Sample Input 2, the following four combinations of prizes are possible. In any of these, the number of prizes of any single type is no more than $m = 2$, and thus, you are not unhappy.</p>\n<ul>\n<li>Two prizes of the first type and one prize of the second type</li>\n<li>Two prizes of the first type and one prize of the third type</li>\n<li>Two prizes of the second type and one prize of the third type</li>\n<li>One prize of each of the three types</li>\n</ul>\n<p>In Sample Input 3, only the last one of the four combinations above does not contain more than one prize of any single type.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2025 ICPC Asia Yokohama Regional Contest",
   "level": 22,
-  "tags": [
-    "math",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.2308000326156616

@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2014 Rocky Mountain Regional Contest, corea",
   "level": 19,
-  "tags": [
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["string", "suffix_array"],
   "accepted_user_count": 320,
   "submission_count": null,
   "average_tries": 1.7094000577926636

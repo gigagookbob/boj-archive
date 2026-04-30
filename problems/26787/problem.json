@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Bitek mógł zanotować wagony o numerach:</p>\n<ul>\n<li>1, 2, 4 i 5,</li>\n<li>1, 2, 4 i 9,</li>\n<li>1, 2, 7 i 9,</li>\n<li>1, 6, 7 i 9,</li>\n<li>albo 4, 6, 7 i 9.</li>\n</ul>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2022/2023, Stage 1",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2

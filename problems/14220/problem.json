@@ -19,10 +19,7 @@
   "hint": null,
   "source": null,
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs"
-  ],
+  "tags": ["dp", "graphs"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 2.180000066757202

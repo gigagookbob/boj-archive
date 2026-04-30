@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2025",
   "level": 17,
-  "tags": [
-    "sorting",
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["sorting", "ad_hoc", "geometry"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.8889000415802002

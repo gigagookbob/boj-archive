@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020, kdh9949, evenharder, pichulia, rhs0266, shiftpsh, tncks0121",
   "level": 16,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 257,
   "submission_count": null,
   "average_tries": 2.653700113296509

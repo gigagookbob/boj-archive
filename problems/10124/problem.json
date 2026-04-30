@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 1",
   "level": 20,
-  "tags": [
-    "randomization"
-  ],
+  "tags": ["randomization"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 4.11359977722168

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2021 ICPC Asia Jakarta Regional Contest",
   "level": 20,
-  "tags": [
-    "divide_and_conquer",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["divide_and_conquer", "geometry", "sweeping"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.5

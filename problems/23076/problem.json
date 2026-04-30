@@ -15,10 +15,7 @@
   "hint": "<p>For the first test case, every house has a trash bin in front of it, and therefore none of the house owners will have to walk to take their trashes out.</p>\n<p>For the second test case, the first and the fourth house owners have trash bins in front of their houses, and therefore will not have to walk. The second house owner will walk towards the first house, and the distance will be equal to $1$. The third, fifth, and sixth house owners will walk towards the fourth house, and the distances will be equal to $1$, $1$, and $2$, respectively.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round F",
   "level": 7,
-  "tags": [
-    "math",
-    "string"
-  ],
+  "tags": ["math", "string"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.8768999576568604

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, 2019 ICPC Asia Taipei-Hsinchu Regional",
   "level": 18,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.5676000118255615

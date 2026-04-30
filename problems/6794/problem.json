@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2010, CCC 2010 Junior Division",
   "level": 3,
-  "tags": [
-    "math",
-    "precomputation"
-  ],
+  "tags": ["math", "precomputation"],
   "accepted_user_count": 739,
   "submission_count": null,
   "average_tries": 1.8660000562667847

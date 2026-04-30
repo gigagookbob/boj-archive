@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 10: Grand Prix of China",
   "level": 17,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["graphs", "data_structures", "disjoint_set", "mst"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.333299994468689

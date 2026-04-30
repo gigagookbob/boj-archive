@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2008",
   "level": 21,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring",
-    "berlekamp_massey"
-  ],
+  "tags": ["math", "exponentiation_by_squaring", "berlekamp_massey"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 7.7778000831604

@@ -15,11 +15,7 @@
   "hint": "<p>The first case can be drawn as follows:</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:383px; width:223px\"/></p>\n<p>No arrangement of the second case has a line of symmetry:</p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:263px; width:223px\"/></p>\n<p>One way of drawing the third case with a symmetry line is as follows:</p>\n<p><img alt=\"\" src=\"3.png\" style=\"height:319px; width:414px\"/></p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, World Finals",
   "level": 21,
-  "tags": [
-    "trees",
-    "hashing",
-    "tree_isomorphism"
-  ],
+  "tags": ["trees", "hashing", "tree_isomorphism"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.379300117492676

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2013, doju",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "binary_search",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "binary_search", "bfs"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 6.263199806213379

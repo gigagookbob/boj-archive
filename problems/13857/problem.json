@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2016, sait2000",
   "level": 19,
-  "tags": [
-    "kmp",
-    "string"
-  ],
+  "tags": ["kmp", "string"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 4.620699882507324

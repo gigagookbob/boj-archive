@@ -19,9 +19,7 @@
   "hint": "<ul>\n<li>There are many possible solutions for most puzzles. Any valid solution will be accepted.</li>\n<li>You do not have to provide the optimal solution; your solution will be accepted as long as it is valid and has 2(k-1)<sup>2</sup> or fewer moves.</li>\n</ul>",
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Final Round)",
   "level": 14,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2

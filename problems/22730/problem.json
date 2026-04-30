@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2006",
   "level": 17,
-  "tags": [
-    "case_work",
-    "geometry",
-    "line_intersection",
-    "math",
-    "sorting"
-  ],
+  "tags": ["case_work", "geometry", "line_intersection", "math", "sorting"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

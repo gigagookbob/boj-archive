@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 1차대회, 중등부, Olympiad, 한국정보올림피아드, KOI 2025 1차대회, 고등부",
   "level": 14,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 232,
   "submission_count": null,
   "average_tries": 3.194000005722046

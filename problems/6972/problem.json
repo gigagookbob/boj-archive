@@ -15,10 +15,7 @@
   "hint": "<p>And,</p>\n<p>b) If there are t = 2^(2^k) teams, where k is an integer, how many rounds are played in the tournament?</p>\n<p>c) How many games are played in an t team competition?</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 1997, CCC 1997",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 5.4375

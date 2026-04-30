@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2018 SCCC Programming Contest, sys7961, jh05013",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 3.771899938583374

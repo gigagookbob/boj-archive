@@ -15,10 +15,7 @@
   "hint": "<p>Explanation of Output for Sample Input</p>\n<p>The low tide measurements (in order) were 10, 7, 3, and 2. The high tide measurements (in order) were 40, 50, 90, and 110.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Senior Division",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 1.6988999843597412

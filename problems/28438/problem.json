@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #1, cologne, solvedac, ai4youej, bnb2011, chansol, cologne, cozyyg, gs18115, jh05013, kyo20111, moonrabbit2, pichulia, wapas",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["math", "implementation", "ad_hoc"],
   "accepted_user_count": 848,
   "submission_count": null,
   "average_tries": 1.8360999822616577

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2025, CCC 2025 Junior Division",
   "level": 11,
-  "tags": [
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["prefix_sum", "sweeping"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.8333001136779785

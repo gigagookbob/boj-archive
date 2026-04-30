@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 7: ICPC Camp Day 2, Gennady Korotkevich Contest 6, Contest, Open Cup, 2021/2022 Season, Stage 13: Grand Prix of Gomel",
   "level": 22,
-  "tags": [
-    "cactus",
-    "dp",
-    "graphs"
-  ],
+  "tags": ["cactus", "dp", "graphs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

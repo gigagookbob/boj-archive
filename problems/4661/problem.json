@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2000 Mid-Central Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "implementation",
-    "trees"
-  ],
+  "tags": ["implementation", "trees"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.3870999813079834

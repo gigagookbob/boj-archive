@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 와쿠(AGCU)컵, 제1회 와쿠(AGCU)컵, surung9898, bnb2011, cgiosy, eaststar, jyheo98, lms0806, parkky, pjshwa, qawbecrdtey, tony9402, yooyou7",
   "level": 5,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 1626,
   "submission_count": null,
   "average_tries": 2.4760000705718994

@@ -23,10 +23,7 @@
   "hint": null,
   "source": null,
   "level": 21,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 747,
   "submission_count": null,
   "average_tries": 3.1110999584198

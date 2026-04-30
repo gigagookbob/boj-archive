@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере наибольший суммарный уровень ликования равен $3 + 5 + 9 = 17$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2014",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.8889000415802002

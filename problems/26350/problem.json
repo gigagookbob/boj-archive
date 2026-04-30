@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2011 Local Programming Contest",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 874,
   "submission_count": null,
   "average_tries": 2.109800100326538

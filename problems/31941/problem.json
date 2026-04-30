@@ -19,12 +19,7 @@
   "hint": "<p>C/C++, Java 등의 언어에서 일부 변수를 <span style=\"color:#e74c3c;\"><code>int</code></span>로 선언한 경우 오버플로우가 발생할 수 있음에 유의하라.</p>",
   "source": "University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 2, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Open Contest, ohwphil, blackking26, kaorin, kep1er07, ksi4495, lky7674, lycoris1600, mujigae, qvixnh22, sjh1224, sungjae0506, whqkrkt04",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "sparse_table"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.9393999576568604

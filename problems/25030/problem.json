@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제5회 kriiicon, august14",
   "level": 24,
-  "tags": [
-    "math",
-    "number_theory",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "number_theory", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

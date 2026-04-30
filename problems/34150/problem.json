@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Div.1, School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Open Contest, dkim110807, swlee0202, gs22059, iccodly, kuhyaku, sadtreap",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["math", "dp", "combinatorics", "game_theory", "sprague_grundy"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.559999942779541

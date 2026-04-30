@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2025",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "backtracking",
-    "game_theory",
-    "recursion"
-  ],
+  "tags": ["ad_hoc", "backtracking", "game_theory", "recursion"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 3

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2007, 초등부, lg8375, devetude, myungwoo, kkccmm1202",
   "level": 10,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 6306,
   "submission_count": null,
   "average_tries": 2.9702999591827393

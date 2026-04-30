@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 16, 2013, Beginner, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 16, 2013, Advanced",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "geometry"
-  ],
+  "tags": ["binary_search", "geometry"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 6

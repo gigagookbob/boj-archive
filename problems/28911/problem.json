@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, March 25, 2018",
   "level": 11,
-  "tags": [
-    "implementation",
-    "prefix_sum",
-    "simulation"
-  ],
+  "tags": ["implementation", "prefix_sum", "simulation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

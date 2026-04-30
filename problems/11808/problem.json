@@ -15,11 +15,7 @@
   "hint": "<p>세 번째 테스트 케이스의 경우, 키노피오가 5, 2, 4번 성을 순서대로 뽑으면&nbsp;가능하다. 4, 2, 5번도 가능하다.</p>\r\n",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2014 Arab Collegiate Programming Contest, kks227",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 124,
   "submission_count": null,
   "average_tries": 3.878999948501587

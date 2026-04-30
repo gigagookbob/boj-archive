@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, UNIST-DGIST-POSTECH, 2023 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2023 UDPC), leo020630, 99asdfg, cs71107, hyperbolic, kdh9949, knon0501, queued_q, slah007, tony9402, utilforever",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "sweeping",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "segtree", "set", "sweeping", "two_pointer"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.7528998851776123

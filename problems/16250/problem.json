@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2016, RCC 2016 Final Round",
   "level": 21,
-  "tags": [
-    "bcc",
-    "cactus",
-    "flow",
-    "graphs"
-  ],
+  "tags": ["bcc", "cactus", "flow", "graphs"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.75

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Final Round)",
   "level": 18,
-  "tags": [
-    "implementation",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["implementation", "geometry", "geometry_3d"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 8

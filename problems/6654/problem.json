@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2007",
   "level": 17,
-  "tags": [
-    "string",
-    "binary_search",
-    "set",
-    "hashing",
-    "suffix_array"
-  ],
+  "tags": ["string", "binary_search", "set", "hashing", "suffix_array"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.272700071334839

@@ -35,9 +35,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 409px;\"/><img alt=\"\" src=\"2.png\" style=\"width: 300px; height: 409px;\"/><img alt=\"\" src=\"3.png\" style=\"width: 300px; height: 409px;\"/><img alt=\"\" src=\"4.png\" style=\"width: 300px; height: 409px;\"/><img alt=\"\" src=\"5.png\" style=\"width: 300px; height: 409px;\"/><img alt=\"\" src=\"6.png\" style=\"width: 300px; height: 409px;\"/><img alt=\"\" src=\"7.png\" style=\"width: 300px; height: 409px;\"/></p>",
   "source": "baekjoon",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 28600,
   "submission_count": null,
   "average_tries": 1.6092000007629395

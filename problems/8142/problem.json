@@ -19,12 +19,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:177px; width:177px\"/></p>\n<p><img alt=\"\" src=\"2.gif\" style=\"height:177px; width:177px\"/></p>\n<p>The above figures show the ridges (continuous line) and the valleys (dashed line).</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2006/2007, Stage 2, gumgood",
   "level": 13,
-  "tags": [
-    "bfs",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.7376999855041504

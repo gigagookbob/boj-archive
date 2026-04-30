@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.7821999788284302

@@ -15,9 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 3 cows at positions 7, 0, and 100.  Installation of a base station of power r costs 20 + 5*r.</p><h4>Output Details</h4><p>The optimal solution is to build a base station at position 3.5 (with power 3.5) and another at position 100 (with power 0).  The first base station covers cows 1 and 2, and the second covers cow 3.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO December 2012 Contest, Silver",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 3.0961999893188477

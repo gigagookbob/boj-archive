@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2025, Division 1, University, University of Alberta Programming Contest, UAPC 2025, Division 2",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.583299994468689

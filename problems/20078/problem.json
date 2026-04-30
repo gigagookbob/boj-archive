@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2017, Day 1",
   "level": 26,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "game_theory"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.6122000217437744

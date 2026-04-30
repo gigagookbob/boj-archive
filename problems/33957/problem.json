@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, 2025 POSTECH Programming Contest, Contest, University, POSTECH, 2025 POSTECH Programming Contest, Open Contest, leo020630, gggkik, hyperbolic, jthis, menborong, minsung05, petamingks, plast, slah007",
   "level": 9,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.3594000339508057

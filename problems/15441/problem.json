@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 4 March, 2017",
   "level": 14,
-  "tags": [
-    "constructive",
-    "greedy",
-    "math"
-  ],
+  "tags": ["constructive", "greedy", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.18179988861084

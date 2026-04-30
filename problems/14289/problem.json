@@ -15,11 +15,7 @@
   "hint": null,
   "source": "masooka, solarmagic, yukariko",
   "level": 16,
-  "tags": [
-    "math",
-    "graphs",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "graphs", "exponentiation_by_squaring"],
   "accepted_user_count": 782,
   "submission_count": null,
   "average_tries": 1.42330002784729

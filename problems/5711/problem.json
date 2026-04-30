@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2009",
   "level": 18,
-  "tags": [
-    "math",
-    "string",
-    "combinatorics",
-    "suffix_array"
-  ],
+  "tags": ["math", "string", "combinatorics", "suffix_array"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

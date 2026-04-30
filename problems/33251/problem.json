@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2019",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "string"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1

@@ -15,13 +15,7 @@
   "hint": "<p>ABABA를 만드는 방법은 총 8가지가 있다.</p>\r\n\r\n<ol>\r\n\t<li>ABA에서 시작 -&gt; AB + ABA</li>\r\n\t<li>ABA에서 시작 -&gt; ABA + BA</li>\r\n\t<li>AB에서 시작 -&gt; AB + A -&gt; AB + ABA</li>\r\n\t<li>AB에서 시작 -&gt; AB + A -&gt; ABA + BA</li>\r\n\t<li>BA에서 시작 -&gt; A + BA -&gt; AB + ABA</li>\r\n\t<li>BA에서 시작 -&gt; A + BA -&gt; ABA + BA</li>\r\n\t<li>ABAB에서 시작 -&gt; ABAB + A</li>\r\n\t<li>BABA에서 시작 -&gt; A + BABA</li>\r\n</ol>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO February 2014 Contest, Silver, baekjoon",
   "level": 15,
-  "tags": [
-    "dp",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["dp", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 2.0708000659942627

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ndb796, jh05013",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 4184,
   "submission_count": null,
   "average_tries": 1.5221999883651733

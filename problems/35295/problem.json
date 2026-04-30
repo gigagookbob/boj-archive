@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2026 KSA Automata Winter Contest, mickeyjung, eric00513, mythofys, wizardrabbit, utilforever, sooahn07, sadtreap, raehwan0418, pkearth, parkky, number0316, bennyk0406, leejseo, hjroh0315, flakepowders, edward3378, dinojaemin",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 265,
   "submission_count": null,
   "average_tries": 2.2263998985290527

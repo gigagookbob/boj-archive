@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제2회 코드 챔피언십 Division 2, blackking26",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.479200005531311

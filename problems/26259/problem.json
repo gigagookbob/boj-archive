@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, SW마에스트로, 제13기 알고리즘 대회, seungwuk98, chansol, jyheo98, leeh18, man_of_learning, tony9402",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 4.720300197601318

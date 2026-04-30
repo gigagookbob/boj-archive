@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제6회 한양대학교 프로그래밍 경시대회, Beginner Division, University, 한양대학교, 제6회 한양대학교 프로그래밍 경시대회, Advanced Division, oknkc8",
   "level": 14,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 2.8719000816345215

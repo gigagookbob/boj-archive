@@ -15,11 +15,7 @@
   "hint": "<p>During the interval between 11:15:17 and 13:00:24 there were three persons inside the library.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2007",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting",
-    "string"
-  ],
+  "tags": ["implementation", "sorting", "string"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.5769000053405762

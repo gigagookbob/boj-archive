@@ -19,10 +19,7 @@
   "hint": "<p>Illustration for the second sample test:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 382px; height: 141px;\"/></p>\n<p>For clarity, red lamps in the illustration have a pentagon shape and blue lamps have a star shape.</p>\n<p>Then $r = 1$, $b = 1$, $|r - b| = 0$ and this arrangement will be one of the most optimal.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2022",
   "level": 7,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1764999628067017

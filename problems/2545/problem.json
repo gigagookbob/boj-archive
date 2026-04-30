@@ -15,11 +15,7 @@
   "hint": "<p>두 번째 테스트 케이스를 보자. 왜 정답이 64일까? 가장 먼저 4 * 5 변에 맞춰서 2번 팬케익을 자르면 남은 팬케익은 4*5*4가 된다. 그 다음에 4 * 4 변에 맞추어 팬케익을 자르면 4*4*4가 된다. 따라서 64이다.</p>\r\n",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2010 연습 세션",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "arithmetic"],
   "accepted_user_count": 346,
   "submission_count": null,
   "average_tries": 3.3584001064300537

@@ -15,9 +15,7 @@
   "hint": "<p>The maximum sum is obtained by taking the sum from the second through the sixth number (4, 9, -2, -5, 8) =&gt; 14.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO January 2011 Contest, Silver",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 169,
   "submission_count": null,
   "average_tries": 1.5740000009536743

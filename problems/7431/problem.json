@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2000",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "math",
-    "parametric_search",
-    "ternary_search"
-  ],
+  "tags": ["binary_search", "math", "parametric_search", "ternary_search"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.18179988861084

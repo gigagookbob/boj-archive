@@ -19,11 +19,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:111px; width:220px\"/></p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2016",
   "level": 20,
-  "tags": [
-    "geometry",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["geometry", "constructive", "case_work"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.899999976158142

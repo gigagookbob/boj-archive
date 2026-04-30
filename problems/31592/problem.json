@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2024 ICPC Asia Pacific Championship 연습 세션, ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2025 ICPC Asia Pacific Championship 연습 세션",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc",
-    "differential_cryptanalysis"
-  ],
+  "tags": ["bruteforcing", "ad_hoc", "differential_cryptanalysis"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.217400074005127

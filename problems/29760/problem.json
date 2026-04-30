@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2023 중앙대학교 프로그래밍 경진대회 (CPC), Division 1, University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2023 중앙대학교 프로그래밍 경진대회 (CPC), Open Contest, University, 국민대학교, 2023 국민대학교 알고리즘 콘테스트, Open Contest, halin, chansol, hibye1217, kiwiyou, menborong, saywoo, shiftpsh, utilforever, uyk0329, wapas, wider93",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.852299928665161

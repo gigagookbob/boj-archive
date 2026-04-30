@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제2회 소프트콘, cnhs2205",
   "level": 9,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "euclidean"],
   "accepted_user_count": 475,
   "submission_count": null,
   "average_tries": 3.109499931335449

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, SpringSpot 2010",
   "level": 19,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

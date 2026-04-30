@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 26 Septemeber, 2010, baekjoon",
   "level": 16,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["math", "ad_hoc", "case_work"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 5.304299831390381

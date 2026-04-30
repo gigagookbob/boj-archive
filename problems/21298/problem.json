@@ -19,11 +19,7 @@
   "hint": "<p>아래에서 $M=N=O=P=Q=R=S=T=U=V=W=2$이고 <span class=\"__h_hyper\">$A$</span>$_{mnopqrstuvw}=m+2n+4o+8p+16q+32r+64s+128t+256u+512v+1\\,024w$인 <span class=\"__h_hyper\">하이퍼 배열</span>에 대해 연산들의 실행 결과를 시각적으로 확인할 수 있다. 모든 연산에 대해 $m_1=n_1=o_1=p_1=q_1=r_1=s_1=t_1=u_1=v_1=w_1=1$이고 $m_2=n_2=o_2=p_2=q_2=r_2=s_2=t_2=u_2=v_2=w_2=2$이다.\n\n</p>\n<div style=\"height: 750px; padding: 16px; overflow: auto; margin-top: 32px;\">\n<div id=\"__h_container\"> </div>\n</div>\n<div style=\"height: 200px; overflow: auto; margin-top: 32px;\">\n<div id=\"__h_axes\"> </div>\n</div>\n<p id=\"__h_buttons\"> </p>",
   "source": "Contest, BOJ User Contest, 구데기컵, EtvycAuRLZpb6hhe86x0, shiftpsh",
   "level": 21,
-  "tags": [
-    "implementation",
-    "geometry",
-    "geometry_hyper"
-  ],
+  "tags": ["implementation", "geometry", "geometry_hyper"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 5.2581000328063965

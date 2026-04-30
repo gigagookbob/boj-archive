@@ -19,10 +19,7 @@
   "hint": "<div class=\"mt-container\"><textarea class=\"mt-textarea\" id=\"mtInputData\" placeholder=\"입력 예시:\n5\n0 2 4 3 1 0\" rows=\"3\"></textarea>\n<div class=\"mt-controls\"><button class=\"mt-btn\" onclick=\"mtLoadData()\">초기화</button><button class=\"mt-btn mt-btn-dec\" onclick=\"mtModifyHeights(1)\">증가</button><button class=\"mt-btn mt-btn-dec\" onclick=\"mtModifyHeights(-1)\">감소</button><span class=\"mt-info\">수정: <span id=\"mtOpCount\" style=\"font-weight: 700;\">0</span>회</span></div>\n<div class=\"mt-help\">마우스를 드래그하여 구간을 선택하세요.</div>\n<canvas class=\"mt-canvas\" id=\"mtCanvas\"></canvas></div>",
   "source": "School, 한국디지털미디어고등학교, 제4회 디미고 프로그래밍 챌린지, ibasic, hibye1217, k_san, shinhuichan, sorohue, utilforever, woohyun_jng",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy"
-  ],
+  "tags": ["data_structures", "greedy"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.9333000183105469

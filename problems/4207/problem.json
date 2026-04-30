@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2012",
   "level": 21,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "bitmask",
-    "bitset"
-  ],
+  "tags": ["graphs", "bruteforcing", "bitmask", "bitset"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 4.448999881744385

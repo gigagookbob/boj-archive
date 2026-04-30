@@ -19,12 +19,7 @@
   "hint": "<p>Example 2: ({2} and {1,3} is a valid partition.)</p>",
   "source": "Contest, Startlink Online Contest, Startlink Online Contest #1, haden, doju, seok9311",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "bipartite_graph"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 1.815999984741211

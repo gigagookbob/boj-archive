@@ -43,11 +43,7 @@
   "hint": "<p><em>R </em>제한이 10인 이유는 crypt keeper의 경로 수가 10이기 때문입니다. 해당 맵은 정방향 한정 잠수함이 패치되기 전까지 <strong>제일 어려운 맵 중 하나였습니다.</strong></p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 3회 코딩테스트, chogahui05, 9507ym, amsminn, bnb2011, jthis, jyheo98, pjshwa, swoon, tony9402",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["data_structures", "implementation", "simulation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 12.83329963684082

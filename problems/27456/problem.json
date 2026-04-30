@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2쿨, ibm2006, djm03178, hyperbolic, index, kiwiyou, sait2000",
   "level": 20,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "trees",
-    "constructive"
-  ],
+  "tags": ["graphs", "ad_hoc", "trees", "constructive"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.9375

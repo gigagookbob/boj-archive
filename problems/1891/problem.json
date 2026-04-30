@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author10, rkckskdk",
   "level": 12,
-  "tags": [
-    "math",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["math", "divide_and_conquer", "recursion"],
   "accepted_user_count": 981,
   "submission_count": null,
   "average_tries": 3.0836000442504883

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2018",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "arbitrary_precision",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "arbitrary_precision", "euclidean"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.287500023841858

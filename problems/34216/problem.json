@@ -10,13 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2025, Day 1",
   "level": 24,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "constructive",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "constructive", "dfs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.2726999521255493

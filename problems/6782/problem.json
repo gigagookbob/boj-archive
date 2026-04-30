@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2011, CCC 2011 Junior Division",
   "level": 8,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.4230999946594238

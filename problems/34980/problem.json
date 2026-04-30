@@ -27,11 +27,7 @@
   "hint": null,
   "source": "School, 대전대신고등학교, 제1회 코더즈 코딩페어, cwrgw, 0917ba, chan120714, dabbler1, dinojaemin, jihwan_0319, kckyoung2, lms0806, minchan_bae, nflight11, thak00, tony9402, toycartoon, utilforever, young_out",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "case_work"],
   "accepted_user_count": 406,
   "submission_count": null,
   "average_tries": 1.2414000034332275

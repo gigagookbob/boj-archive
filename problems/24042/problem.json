@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2021!, functionx, cheetose, cs71107, dennisstar, ho94949, jhhope1, jhnah917, junseo, kyo20111, ryute, shiftpsh",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 996,
   "submission_count": null,
   "average_tries": 3.466900110244751

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2019",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "parametric_search"
-  ],
+  "tags": ["math", "geometry", "parametric_search"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 8.529399871826172

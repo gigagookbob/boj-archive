@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #7, baekjoon",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "bitmask"
-  ],
+  "tags": ["math", "greedy", "number_theory", "bitmask"],
   "accepted_user_count": 1919,
   "submission_count": null,
   "average_tries": 2.375699996948242

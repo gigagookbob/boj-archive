@@ -15,10 +15,7 @@
   "hint": "<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th>Input</th>\n<th>Output</th>\n<th>Explanation</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>0.25</code></td>\n<td> </td>\n<td>Value of $t_f$.</td>\n</tr>\n<tr>\n<td><code>0.75</code></td>\n<td> </td>\n<td>Value of $t_r$.</td>\n</tr>\n<tr>\n<td><code>0</code></td>\n<td><code>0</code></td>\n<td>Initial input.</td>\n</tr>\n<tr>\n<td><code>2.0</code></td>\n<td><code>2</code></td>\n<td>Input greater than $0$, below threshold of $2.25$.</td>\n</tr>\n<tr>\n<td><code>5.7</code></td>\n<td><code>5</code></td>\n<td>Input greater than $2.0$, in threshold range.</td>\n</tr>\n<tr>\n<td><code>5.8</code></td>\n<td><code>6</code></td>\n<td>Input greater than $2.0$, exceeds upper threshold of $5.75$.</td>\n</tr>\n<tr>\n<td><code>5.7</code></td>\n<td><code>6</code></td>\n<td>Input less than $5.8$, in threshold range.</td>\n</tr>\n<tr>\n<td><code>5.2</code></td>\n<td><code>5</code></td>\n<td>Input less than $5.8$, below threshold of $5.25$.</td>\n</tr>\n<tr>\n<td><code>5.7</code></td>\n<td><code>5</code></td>\n<td>Input greater than $5.2$, in threshold range.</td>\n</tr>\n<tr>\n<td><code>0.8</code></td>\n<td><code>1</code></td>\n<td>Input greater than $0$ and less than $1$.</td>\n</tr>\n<tr>\n<td><code>0.2</code></td>\n<td><code>1</code></td>\n<td>Input greater than $0$ and less than $1$.</td>\n</tr>\n</tbody>\n</table>",
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2020, ICPC, Regionals, North America, Southern California Regional, 2020 Southern California Regional",
   "level": 9,
-  "tags": [
-    "case_work",
-    "implementation"
-  ],
+  "tags": ["case_work", "implementation"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.549999952316284

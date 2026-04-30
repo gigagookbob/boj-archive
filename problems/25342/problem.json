@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>정답이 32비트 정수 범위를 넘을 수 있다.</li>\n</ul>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제6회 천하제일 코딩대회 본선, prarie, eric00513, chansol, jhnah917, jhwest2, junseo, kyo20111",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 325,
   "submission_count": null,
   "average_tries": 3.4245998859405518

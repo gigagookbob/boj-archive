@@ -19,14 +19,7 @@
   "hint": null,
   "source": "University, 건국대학교, 2019 건국대학교 동아리 알프스 프로그래밍 경진대회 (KAPC), aru0504, djs100201, mjhmjh1104, p_ce1052, vmffotltka",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "greedy", "graph_traversal", "trees", "dp_tree"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 4.274099826812744

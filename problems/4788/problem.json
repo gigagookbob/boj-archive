@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2012",
   "level": 14,
-  "tags": [
-    "math",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["math", "permutation_cycle_decomposition"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.9583001136779785

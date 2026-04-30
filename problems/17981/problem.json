@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2019",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "dp", "prefix_sum"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.18179988861084

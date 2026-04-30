@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제3회 생각하는 프로그래밍 대회, willook",
   "level": 14,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 174,
   "submission_count": null,
   "average_tries": 2.0114998817443848

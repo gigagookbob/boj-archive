@@ -15,12 +15,7 @@
   "hint": "<p>We start with the array $\\mathtt{\\:4\\:\\; 2\\:\\; 1\\:\\; 3\\:}$. After FJ yells at the cow with ID 1, the array will be $\\mathtt{\\:1\\:\\; 4\\:\\; 2\\:\\; 3\\:}$. When FJ yells at the cow with ID 4, the array will be $\\mathtt{\\:1\\:\\; 2\\:\\; 3\\:\\; 4\\:}$. At which point, the array is sorted.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Platinum, doju, jh05013",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "lis"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.8980000019073486

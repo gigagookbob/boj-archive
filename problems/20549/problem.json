@@ -19,13 +19,7 @@
   "hint": "<p><strong>나이트</strong>, <strong>비숍</strong>, <strong>룩</strong>이 한번의 이동으로 도달할 수 있는 칸은 각각 다음과 같다.</p>\n<p><img alt=\"\" src=\"1.png\" style=\"width: 301px; height: 300px;\"/></p>\n<p><br/>\n<img alt=\"\" src=\"2.png\" style=\"height: 300px; width: 300px;\"/></p>\n<p><br/>\n<img alt=\"\" src=\"3.png\" style=\"width: 300px; height: 300px;\"/></p>\n<p>그림 출처 : 위키백과(<a href=\"https://ko.wikipedia.org/wiki/%EB%A3%A9_(%EC%B2%B4%EC%8A%A4)\">https://ko.wikipedia.org/wiki/%EB%A3%A9_(%EC%B2%B4%EC%8A%A4)</a></p>\n<p><br/>\n위 예시는 <em>N</em>이 8일때의 예시이며, N의 크기가 증가하거나 감소함에따라 <strong>룩</strong>이나 <strong>비숍</strong>이 도달 할 수 있는 칸도 증가하거나 감소한다.</p>",
   "source": "University, 인하대학교, 2020 인하대학교 프로그래밍 경진대회 (IUPC), dongwoo338, august14, bsgreentea, dlstj0923, polohee81, rhs0266, tony9402, tyoungs",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bitmask",
-    "dijkstra",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "shortest_path", "bitmask", "dijkstra", "grid_graph"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.5541999340057373

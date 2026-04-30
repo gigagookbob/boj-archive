@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>Bessie moves left for 3 units of time, then right for 5 units of time, then left for 1 unit of time, and finally right for 2 units of time; she then stands still.  Elsie moves right for 4 units of time, then left for 4 units of time, then right for 4 units of time, then left for 2 units of time; she then stands still.</p><h4>Output Details</h4><p>Bessie and Elsie meet after being temporarily apart at time 7, time 9, and time 13.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO December 2012 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 2.5283000469207764

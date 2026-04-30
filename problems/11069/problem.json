@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2015, ntopia",
   "level": 20,
-  "tags": [
-    "crt",
-    "extended_euclidean",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["crt", "extended_euclidean", "math", "number_theory"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 8.612899780273438

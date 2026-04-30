@@ -19,13 +19,7 @@
   "hint": "<p>Итоговые деревья из примеров:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 223px; height: 200px;\"/><img alt=\"\" src=\"2.png\" style=\"width: 215px; height: 250px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 10, 2018, Advanced",
   "level": 19,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "math",
-    "probability",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "math", "probability", "trees"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

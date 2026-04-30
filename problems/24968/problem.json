@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 21,
-  "tags": [
-    "euler_tour_technique",
-    "lca",
-    "prefix_sum",
-    "trees"
-  ],
+  "tags": ["euler_tour_technique", "lca", "prefix_sum", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.1666998863220215

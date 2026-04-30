@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example: 21<sup>2</sup> + 125<sup>3</sup> = 441 + 1953125 = 1953566.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #3",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1125,
   "submission_count": null,
   "average_tries": 1.169800043106079

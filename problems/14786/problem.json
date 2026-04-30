@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, registered, sait2000",
   "level": 13,
-  "tags": [
-    "math",
-    "binary_search",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "binary_search", "numerical_analysis"],
   "accepted_user_count": 1327,
   "submission_count": null,
   "average_tries": 2.6247000694274902

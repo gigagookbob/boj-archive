@@ -47,11 +47,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2004 Japan Domestic Contest",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "backtracking"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 1.8461999893188477

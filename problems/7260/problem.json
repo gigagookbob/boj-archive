@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2017/2018, National Round (2), 10-12 Classes",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "greedy",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "graphs", "greedy", "set", "hash_set"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.4544999599456787

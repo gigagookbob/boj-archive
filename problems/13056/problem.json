@@ -27,9 +27,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2016, jjang36524",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.3773999214172363

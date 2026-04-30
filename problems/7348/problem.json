@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Taejon 2001, medic_programmer",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "greedy", "prefix_sum"],
   "accepted_user_count": 248,
   "submission_count": null,
   "average_tries": 3.44350004196167

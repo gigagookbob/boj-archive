@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2022 Goricon, qotmd01, dngnogu, jthis, leo020630, mokalover, powergee, skeep194",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "bitmask"
-  ],
+  "tags": ["data_structures", "string", "set", "bitmask"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 1.8636000156402588

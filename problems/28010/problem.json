@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Osijek Competitive Programming Camp, Winter 2023, Day 9: Magical Story of LaLa, aeren",
   "level": 22,
-  "tags": [
-    "2_sat",
-    "bitset",
-    "graphs",
-    "scc"
-  ],
+  "tags": ["2_sat", "bitset", "graphs", "scc"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.5

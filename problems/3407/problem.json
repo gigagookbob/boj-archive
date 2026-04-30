@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2012, baekjoon, eric00513",
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs",
-    "string",
-    "bruteforcing",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "string", "bruteforcing", "graph_traversal"],
   "accepted_user_count": 310,
   "submission_count": null,
   "average_tries": 3.64520001411438

@@ -23,10 +23,7 @@
   "hint": "<p>함수가 순수 함수인지를 튜링 완전한 언어에 완벽(sound and complete)하게 구현하는 문제는 계산 불가 문제입니다.</p>",
   "source": "Contest, BOJ User Contest, 키파컵, 제2회 키파컵, kipa00",
   "level": 23,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 5.199999809265137

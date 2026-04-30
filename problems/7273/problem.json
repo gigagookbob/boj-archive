@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2017/2018, National Round (1), 10-12 Classes",
   "level": 16,
-  "tags": [
-    "math",
-    "data_structures",
-    "geometry",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["math", "data_structures", "geometry", "set", "hash_set"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 13.75

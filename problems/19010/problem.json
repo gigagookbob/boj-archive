@@ -23,11 +23,7 @@
   "hint": "<p>The third example corresponds to the following image:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 470px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 7: Izhevsk STU + Ufa SATU Contest, Contest, Open Cup, 2018/2019 Season, Stage 2: Grand Prix of Udmurtia",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.083299994468689

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2007, 고등부",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal"],
   "accepted_user_count": 470,
   "submission_count": null,
   "average_tries": 2.683000087738037

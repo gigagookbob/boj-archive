@@ -15,11 +15,7 @@
   "hint": "<p>임의의 정수 p를 0이 아닌 임의의 정수 q로 나눈 나머지는 0 &le; p&nbsp;- a&times;q&nbsp;&lt; q를 만족하는 유일한 정수 a에 따라서 정해진다. 이때 나머지는 p&nbsp;- a&times;q이다.</p>\r\n\r\n<p>예를 들어, p&nbsp;= 7, q&nbsp;= 3인 경우 나머지는 1, p&nbsp;= -7, q&nbsp;= 3인 경우 나머지는 2이다.</p>\r\n",
   "source": null,
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 375,
   "submission_count": null,
   "average_tries": 1.9707000255584717

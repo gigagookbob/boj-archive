@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2014/2015 Spring Training Camp",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "dp",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "lazyprop", "segtree"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.8181999921798706

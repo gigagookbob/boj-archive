@@ -31,10 +31,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2005",
   "level": 15,
-  "tags": [
-    "implementation",
-    "dp"
-  ],
+  "tags": ["implementation", "dp"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

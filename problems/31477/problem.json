@@ -15,14 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>다음 그림에서 1과 2를 연결하는 덩굴, 3과 6을 연결하는 덩굴, 3과 7을 연결하는 덩굴을 자르면 총 3+1+2로 6의 힘이 최솟값이 된다.</p>",
   "source": "Contest, BOJ User Contest, 양갈래컵, 제 1회 양갈래컵, sasak2, dayo05, ibm2006, mingyu331, naeby, pretty_pi, sksms1375",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 170,
   "submission_count": null,
   "average_tries": 1.8411999940872192

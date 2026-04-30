@@ -19,10 +19,7 @@
   "hint": "<p>예제1에서는 3번 책을 맨 앞으로 옮길때 드는 힘 6이 최소이다.</p>\n<p>예제2에서는 1, 3, 5, 8번 책을 맞는 자리로 옮기는 힘의 합 6 + 5 + 17 + 41 = 69가 최소가 된다.</p>\n<p> </p>",
   "source": null,
   "level": 14,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 1.7032999992370605

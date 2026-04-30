@@ -15,11 +15,7 @@
   "hint": "<p>For the example above, in order to maximize income, 3 tickets from the second reservation should be cancelled.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2007",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["math", "implementation", "greedy"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.200000047683716

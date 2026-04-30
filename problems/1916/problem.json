@@ -15,11 +15,7 @@
   "hint": null,
   "source": "HowlingOfSouL, ibjsw, hsnks100, 2chanhaeng, djm03178, qf9ar8nv, sait2000, jh05013, luke0201, toysmars, djm03178",
   "level": 11,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 30527,
   "submission_count": null,
   "average_tries": 2.920599937438965

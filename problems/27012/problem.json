@@ -15,9 +15,7 @@
   "hint": "<p>The shipment was 14 kilograms of feed, and Farmer John has 4 kilograms left. He had three cows that ate feed for some amount of time in the last 10 days.</p>\n<p>If Farmer John started with 14 kg of feed on day 6, then on days 6 and 7, two kilograms would be eaten each day. On day 8, three kilograms would be eaten. On day 9, two kilograms would be eaten. On day 10, one kilogram would be eaten. Thus, the total eaten would be 2 + 2 + 3 + 2 + 1 = 10, leaving him with 4 kilograms.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO February 2005 Contest, Silver",
   "level": 8,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.333299994468689

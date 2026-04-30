@@ -19,12 +19,7 @@
   "hint": "<p>This illustration shows a solution for the first example. Walls are filled with black color, doors are filled with various shades of grey, the opening is white. When first doors on each layer are shifted to the left and the rest of the doors to the right, we get the largest opening of 4.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 545px; height: 88px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2025",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "priority_queue"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1764999628067017

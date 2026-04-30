@@ -35,12 +35,7 @@
   "hint": "<p>On the first sample input, the queen can move to exit cells, but either way the queen will be caught at the next army’s turn. So the optimal strategy for the queen is staying at the same cell. Then the army can move to exit cells as well, but again either way the army will miss the queen from the other exit. So the optimal strategy for the army is also staying at the same cell. Thus the queen cannot escape but won’t be caught.</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2009 Day 3",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "game_theory"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "game_theory"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 3

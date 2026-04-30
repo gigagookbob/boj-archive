@@ -15,10 +15,7 @@
   "hint": "<p>카드 $6$장이 있을 때 쿼리 <tt><span style=\"color:#e74c3c;\">1 1 6 1</span></tt>을 처리하면</p>\n<p style=\"text-align: center;\">1 2 3 4 5 6 ⇒ 1 4 2 5 3 6</p>\n<p>이 되고, 카드 $7$장이 있을 때 <tt><span style=\"color:#e74c3c;\">1 1 7 1</span></tt>을 처리하면</p>\n<p style=\"text-align: center;\">1 2 3 4 5 6 7 ⇒ 1 5 2 6 3 7 4</p>\n<p>가 된다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Champion, University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Open, semteo04, gumgood, jh05013, lky7674, shiftpsh",
   "level": 18,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.4242000579833984

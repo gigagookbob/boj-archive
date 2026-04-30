@@ -19,10 +19,7 @@
   "hint": "<p>В первом тестовом примере представлено одно из развитий событий, где Рик выигрывает.</p>\n<p>Во втором тестовом примере Рик не может выиграет при правильной игре первого игрока, поэтому итоговый проигрыш будет также засчитан как правильный ответ. Обратите внимание, что Рик не может назвать число $5$, так как в таком случае, оно будет названо два раза подряд.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Advanced",
   "level": 12,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.375

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2026",
   "level": 10,
-  "tags": [
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["sorting", "prefix_sum"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.1110999584197998

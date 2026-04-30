@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2018 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Pacific Northwest Regional, 2018 Pacific Northwest Region Programming Contest, Division 2",
   "level": 12,
-  "tags": [
-    "implementation",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "two_pointer"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.1175999641418457

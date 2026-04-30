@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2021-2022",
   "level": 21,
-  "tags": [
-    "bfs",
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "segtree"
-  ],
+  "tags": ["bfs", "data_structures", "graphs", "graph_traversal", "segtree"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.8039000034332275

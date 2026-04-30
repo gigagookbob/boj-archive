@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>For the first question, the toy with label 1 is already initially in the box with label 1 so the answer is immediately <code>DA</code>.</p>\n<p>For the second question, notice that however many times Martin calls his friend over, the boxes with labels 1 and 2 never change their content, so the answer is <code>NE</code>.</p>\n<p>For the third question, notice that after each meetup, the contents of boxes 3 and 4 get exchanged, so after only one meetup the toy with label 3 will find itself in box with label 4 and the answer is <code>DA</code>.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #2",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8260999917984009

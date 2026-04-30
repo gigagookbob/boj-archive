@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2016: Marine Animal",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["bruteforcing", "geometry", "point_in_convex_polygon"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

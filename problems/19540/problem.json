@@ -15,10 +15,7 @@
   "hint": "<p>DUDUDUNGA-트리의 정의는 D번:ㄷㄷㄷㅈ 문제를 참고하자. 입력으로 주어지는 $N$에 대해 언제나 정점의 개수가 $N$개인 DUDUDUNGA-트리가 존재한다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020 예선, cozyyg, kdh9949, tncks0121, evenharder, pichulia, sait2000, shiftpsh, tncks0121",
   "level": 21,
-  "tags": [
-    "trees",
-    "constructive"
-  ],
+  "tags": ["trees", "constructive"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.137500047683716

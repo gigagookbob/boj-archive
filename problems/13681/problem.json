@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2008",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "game_theory"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "game_theory"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.051300048828125

@@ -15,9 +15,7 @@
   "hint": "<p>この入出力例におけるショッピングモール建設地を図示すると，以下の通りである．×のブ ロックは，すでに人が住んでいることを意味する．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 237px; height: 203px;\"/></p>",
   "source": "Camp, JOI Spring Training Camp, JOI 2006/2007 Spring Training Camp",
   "level": 11,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.09089994430542

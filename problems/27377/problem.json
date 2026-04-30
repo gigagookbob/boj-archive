@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2022 고려대학교 프로그래밍 경시대회 (KCPC mini), Div. 2, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2022 고려대학교 프로그래밍 경시대회 (KCPC mini), Open Contest, edwardblue, cgiosy, gs18115",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 293,
   "submission_count": null,
   "average_tries": 3.7781999111175537

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 5: JAG Summer+ Opening Contest, Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2019 Day 1",
   "level": 20,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

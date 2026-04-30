@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2019 KAIST 9th ICPC Mock Competition, koosaga, lomotos10",
   "level": 18,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 1.930999994277954

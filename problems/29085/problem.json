@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, March 12, 2016",
   "level": 11,
-  "tags": [
-    "greedy",
-    "math"
-  ],
+  "tags": ["greedy", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.125

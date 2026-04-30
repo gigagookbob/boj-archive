@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5, ghkxntpdl97",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 5.163300037384033

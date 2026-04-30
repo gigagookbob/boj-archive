@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2014 in Tokyo",
   "level": 17,
-  "tags": [
-    "calculus",
-    "geometry",
-    "math"
-  ],
+  "tags": ["calculus", "geometry", "math"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.6756999492645264

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2013, baekjoon, hihihi",
   "level": 13,
-  "tags": [
-    "math",
-    "data_structures",
-    "greedy",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["math", "data_structures", "greedy", "set", "hash_set"],
   "accepted_user_count": 218,
   "submission_count": null,
   "average_tries": 2.958699941635132

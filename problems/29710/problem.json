@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2023 Japan Domestic Contest",
   "level": 18,
-  "tags": [
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "convex_hull"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.4000000953674316

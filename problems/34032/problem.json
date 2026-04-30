@@ -19,10 +19,7 @@
   "hint": "<p>실제 게임에서의 <strong><code>/gg </code></strong>명령어와 작동 방식이 다름에 유의하라.</p>",
   "source": "University, 국민대학교, 2025 KPSC Summer Algorithm Challenge, haru_101, gggkik, kangsm02, kevinlys00, lky7674, saywoo, sjhi00, tapris, usb9245, utilforever, young_out",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 692,
   "submission_count": null,
   "average_tries": 1.7282999753952026

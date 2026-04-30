@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2019 Mid-Central Regional Programming Contest",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["binary_search", "geometry", "sweeping"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.6315999031066895

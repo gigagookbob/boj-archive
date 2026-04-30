@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>$n!$은 $1$ 이상 $n$ 이하의 모든 정수의 곱을 의미하며 \"$n$ 팩토리얼\"이라고 읽는다. 즉, $n!=n\\times(n-1)\\times(n-2)\\times\\cdots\\times2\\times1$이다.</li>\n<li>이 문제의 일부 테스트 케이스는 답의 범위가 $2^{31}$을 넘어갈 수 있으므로 long long 자료형을 쓰도록 하자.</li>\n</ul>",
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2024 IamCoder Qualification Test, jaemin2573, denniskim, ehlee0815, flappybird, gs20036, gs22059, gs22123, ibm2006, iccodly, jk410, junwoojune, lighton, mingyu331, mjhmjh1104, sonamoo",
   "level": 6,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory"],
   "accepted_user_count": 1034,
   "submission_count": null,
   "average_tries": 2.7476000785827637

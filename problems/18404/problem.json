@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ndb796",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 1184,
   "submission_count": null,
   "average_tries": 2.0211000442504883

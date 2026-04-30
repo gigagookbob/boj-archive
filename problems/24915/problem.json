@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2022 IamCoder Qualification Test, lisifu, arnold518, flappybird, mjhmjh1104, songc",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 2.485100030899048

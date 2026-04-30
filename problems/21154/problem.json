@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2020 East Central Regional Contest",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "linear_algebra"
-  ],
+  "tags": ["math", "implementation", "string", "linear_algebra"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.5917999744415283

@@ -15,10 +15,7 @@
   "hint": "<p>Note that the last sample case would not appear in the Small dataset.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Qualification Round",
   "level": 4,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 304,
   "submission_count": null,
   "average_tries": 1.2730000019073486

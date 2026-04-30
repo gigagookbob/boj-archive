@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2009 Greater New York Programming Contest, baekjoon, hahaha, superwisdom, jh05013",
   "level": 16,
-  "tags": [
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "convex_hull"],
   "accepted_user_count": 815,
   "submission_count": null,
   "average_tries": 1.738700032234192

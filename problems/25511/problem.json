@@ -15,11 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, dhyang24, eric00513, jbkmath48128, leo020630, palilo",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees"],
   "accepted_user_count": 381,
   "submission_count": null,
   "average_tries": 1.8792999982833862

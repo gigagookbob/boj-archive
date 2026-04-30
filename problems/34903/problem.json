@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, we can do the following operations: <code>TITIMMIT</code> $\\to$ <code>TIMITMIT</code> and <code>TIMITMIT</code> $\\to$ <code>MITITMIT</code>. We can prove that it is impossible to construct two copies of <code>MITIT</code> inside this string.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Advanced Individual Round",
   "level": 14,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1

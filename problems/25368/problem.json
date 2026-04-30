@@ -15,9 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, leo020630, WeissBlume, wider93",
   "level": 13,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 4.3846001625061035

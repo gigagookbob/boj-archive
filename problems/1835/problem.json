@@ -15,12 +15,7 @@
   "hint": "<ol>\r\n\t<li>2 1 4 3에서 2를 가장 뒤로 옮긴다. (1 4 3 2)</li>\r\n\t<li>1을 책상 위에 옮겨놓는다. (4 3 2)</li>\r\n\t<li>4 3 2 에서 4, 3을 뒤로 옮긴다. (2 4 3)</li>\r\n\t<li>2를 책상 위로 옮겨놓는다. (4 3)</li>\r\n\t<li>4 3 에서 가장 앞에 있는 것을 뒤로 3번 옮긴&nbsp;&nbsp;&nbsp; 다. (3 4)</li>\r\n\t<li>3을 책상 위로 옮겨놓는다. (4)</li>\r\n\t<li>4를 책상 위로 옮겨놓는다. (완료)</li>\r\n</ol>\r\n",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2006, author11",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 1326,
   "submission_count": null,
   "average_tries": 1.5399999618530273

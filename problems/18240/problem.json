@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2019, hellogaon",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "constructive"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "constructive"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 2.3496999740600586

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 와쿠(AGCU)컵, 제1회 와쿠(AGCU)컵, martinok1103, bnb2011, cgiosy, eaststar, jyheo98, lms0806, parkky, pjshwa, qawbecrdtey, tony9402, yooyou7",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 674,
   "submission_count": null,
   "average_tries": 2.5104000568389893

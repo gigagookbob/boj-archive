@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon, doju, eric00513",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "geometry", "case_work"],
   "accepted_user_count": 2521,
   "submission_count": null,
   "average_tries": 2.815500020980835

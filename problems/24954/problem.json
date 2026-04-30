@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 쇼미더코드: 원티드 주관 코딩테스트 대회, 2022년 1회차, ryute",
   "level": 10,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 588,
   "submission_count": null,
   "average_tries": 1.7907999753952026

@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 1217,
   "submission_count": null,
   "average_tries": 3.1305999755859375

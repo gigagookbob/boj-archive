@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Baltic Olympiad in Informatics, BOI 2019",
   "level": 22,
-  "tags": [
-    "dp",
-    "string",
-    "kmp"
-  ],
+  "tags": ["dp", "string", "kmp"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2143000364303589

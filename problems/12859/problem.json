@@ -27,14 +27,7 @@
   "hint": null,
   "source": "djm03178",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "data_structures",
-    "number_theory",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["math", "dp", "data_structures", "number_theory", "set", "hash_set"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.7759000062942505

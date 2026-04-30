@@ -15,11 +15,7 @@
   "hint": "<p>The best solution in the first case is to start running immediately and run for one second.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 2",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.350000023841858

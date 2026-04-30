@@ -15,9 +15,7 @@
   "hint": "<p>In the first example, 864852302 after inverting [1, 8] is 032584682, one of the longest non-decreasing subsequences of which is 03588.</p>\n<p>In the second example, 203258468 after inverting [1, 2] is 023258468, one of the longest non-decreasing subsequences of which is 023588.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 2: Jingzhe Tang Contest",
   "level": 20,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.25

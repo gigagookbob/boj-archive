@@ -15,12 +15,7 @@
   "hint": null,
   "source": "author6",
   "level": 15,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "ad_hoc", "simulation"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4.857100009918213

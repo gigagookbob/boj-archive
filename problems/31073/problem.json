@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2023, sos89756, mjhmjh1104, naeby, nick832, physics07, utilforever, whqkrkt04",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["data_structures", "prefix_sum", "game_theory"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 3.337100028991699

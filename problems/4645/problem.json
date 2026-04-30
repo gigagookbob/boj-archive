@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2002 Mid-Central Regional Programming Contest, baekjoon, jinhan814, jungin0507",
   "level": 18,
-  "tags": [
-    "divide_and_conquer",
-    "dp",
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "dp", "implementation", "recursion"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 5.900000095367432

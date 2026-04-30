@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제2회 가톨릭대학교 프로그래밍 경진대회 (CCPC), fullmoon5110, hschoi1104, kimcoding, kws04004, tony9402",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 281,
   "submission_count": null,
   "average_tries": 4.113900184631348

@@ -15,12 +15,7 @@
   "hint": "<p>The average Computer Science IQ increases only if the leaving student is #1 or #2. Student #1 is too dumb to raise the average IQ for Economics, thus only student #2 remains and the answer is 1.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2007 연습 세션",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 1.5147000551223755

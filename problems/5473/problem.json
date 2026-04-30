@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2007, Day 1",
   "level": 22,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "dfs",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "dfs", "planar_graph"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.708299994468689

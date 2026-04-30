@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2015",
   "level": 19,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["dp", "math", "number_theory"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.8621000051498413

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2009 ACM-ICPC Thailand National Programming Contest, baekjoon, luke0201",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 1042,
   "submission_count": null,
   "average_tries": 1.8061000108718872

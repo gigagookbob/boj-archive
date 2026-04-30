@@ -15,11 +15,7 @@
   "hint": "<p>For the $1$-st sample, you don't need any operations.</p>\n<p>For the $2$-nd sample, one possible sequence is: $\\frac{1}{1} \\to -\\frac{1}{1} \\to 0$.</p>\n<p>For the $3$-rd sample, one possible sequence is: $-\\frac{1}{2} \\to \\frac{1}{2} \\to -\\frac{2}{1} \\to -\\frac{1}{1} \\to 0$.</p>\n<p>For the $4$-th sample, one possible sequence is: $-\\frac{2}{4} \\to \\frac{2}{4} \\to -\\frac{4}{2} \\to -\\frac{2}{2} \\to 0$.</p>\n<p>For the $5$-th sample, one possible sequence is: $\\frac{8}{5} \\to -\\frac{5}{8} \\to \\frac{3}{8} \\to -\\frac{8}{3} \\to -\\frac{5}{3} \\to -\\frac{2}{3} \\to \\frac{1}{3} \\to -\\frac{3}{1} \\to -\\frac{2}{1} \\to -\\frac{1}{1} \\to 0$.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 18: Grand Prix of Bytedance",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.400000095367432

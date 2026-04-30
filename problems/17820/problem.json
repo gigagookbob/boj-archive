@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #1",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "linked_list",
-    "invariant"
-  ],
+  "tags": ["data_structures", "greedy", "set", "linked_list", "invariant"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.769200086593628

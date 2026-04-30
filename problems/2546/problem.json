@@ -15,11 +15,7 @@
   "hint": "<p>\n\tC언어 수강생의 IQ를 올릴 수 있는 학생은 1번 학생과, 2번 학생이다. 근데, 1번 학생은 너무 멍청해서 경제학 원론을 수강해도 평균 IQ를 올리지 못한다. 하지만, 2번 학생은 할 수 있다.</p>",
   "source": "exponential_e",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 470,
   "submission_count": null,
   "average_tries": 3.055299997329712

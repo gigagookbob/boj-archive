@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 8,
-  "tags": [
-    "math",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["math", "constructive", "case_work"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5713999271392822

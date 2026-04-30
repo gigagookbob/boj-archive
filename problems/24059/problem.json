@@ -15,12 +15,7 @@
   "hint": "<p>As a note, the exact value of $9^{9^9}$ has a whopping $369 \\, 693 \\, 700$ digits.</p>",
   "source": "eric00513, ai4youej, chansol, kdh6429, parkky, pjshwa, tlsdydaud1, tony9402, WeissBlume",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring",
-    "flt"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring", "flt"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 4.097099781036377

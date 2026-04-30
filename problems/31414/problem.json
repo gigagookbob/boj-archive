@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제3회 보라매컵 본선, kybs0627, 99asdfg, asdarwin03, ingyu1008, ksoosung77, utilforever, whqkrkt04",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "bipartite_graph"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 3.4038000106811523

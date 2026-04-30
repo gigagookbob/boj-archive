@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2009 Southeast USA Regional Programming Contest",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "precomputation"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "precomputation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4.875

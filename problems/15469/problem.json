@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2017",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "stack", "queue"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.4286000728607178

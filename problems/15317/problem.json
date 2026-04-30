@@ -19,12 +19,7 @@
   "hint": "<p>2번 예제에서 각 동아리방을 고치는데 비용이 5, 8, 9, 1, 7이고 각 동아리 들은 2, 10, 5, 3의 금액을 가지고 있다. </p>\n<p>이때 2번 동아리에 3번방, 4번 동아리에 4번방 배정하면 종빈이가 돈을 지원해 줄 필요가 없고3번동아리에 1번방을 배정하면 종빈이가 2원을 지원해주면서 종빈이의 도와줄 수 있는 금액 한도 내에서 3개의 동아리가 동아리방을 배정받을 수 있게 된다.</p>\n<p>어떻게 배정해도 4개의 동아리가 모두 방을 배정받을 순 없다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2017, Acka, didgogns, tongnamuu",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 2.690500020980835

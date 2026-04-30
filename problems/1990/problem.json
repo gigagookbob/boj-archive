@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 1868,
   "submission_count": null,
   "average_tries": 4.397200107574463

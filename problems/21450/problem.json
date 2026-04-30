@@ -19,13 +19,7 @@
   "hint": "<p>В первом примере оптимально расположить кресла, например, следующим образом:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 423px; height: 110px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2008",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "greedy", "bruteforcing", "arithmetic", "case_work"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2

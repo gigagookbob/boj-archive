@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016, functionx, jjwdi0",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 806,
   "submission_count": null,
   "average_tries": 2.836199998855591

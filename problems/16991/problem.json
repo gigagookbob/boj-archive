@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "tsp"],
   "accepted_user_count": 1131,
   "submission_count": null,
   "average_tries": 1.6241999864578247

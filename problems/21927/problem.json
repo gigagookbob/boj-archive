@@ -19,11 +19,7 @@
   "hint": "<p>Note that there are other acceptable outputs for the second sample input, such as the one with the positions of 6 and 7 exchanged.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2020 Asia Yokohama Regional",
   "level": 13,
-  "tags": [
-    "dp",
-    "greedy",
-    "traceback"
-  ],
+  "tags": ["dp", "greedy", "traceback"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.6376999616622925

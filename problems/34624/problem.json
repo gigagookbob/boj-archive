@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제5회 보라매컵, onjo0127, dlalswp25, sebinkim",
   "level": 21,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3

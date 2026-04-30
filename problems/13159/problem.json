@@ -15,10 +15,7 @@
   "hint": "<p>[1, 2, 3, 4, 5]→[1, 4, 3, 2, 5]→[1, 4, 5, 3, 2]→[5, 1, 4, 3, 2]</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2016, myungwoo",
   "level": 24,
-  "tags": [
-    "trees",
-    "splay_tree"
-  ],
+  "tags": ["trees", "splay_tree"],
   "accepted_user_count": 310,
   "submission_count": null,
   "average_tries": 5.345200061798096

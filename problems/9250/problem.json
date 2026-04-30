@@ -15,13 +15,7 @@
   "hint": null,
   "source": "myungwoo, bjwj5505, Acka, jh05013, jhwest2, rootsquare",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "trie",
-    "aho_corasick"
-  ],
+  "tags": ["data_structures", "string", "trees", "trie", "aho_corasick"],
   "accepted_user_count": 1410,
   "submission_count": null,
   "average_tries": 2.685800075531006

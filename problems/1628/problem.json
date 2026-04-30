@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2007",
   "level": 25,
-  "tags": [
-    "dp",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "greedy", "prefix_sum"],
   "accepted_user_count": 131,
   "submission_count": null,
   "average_tries": 2.3434998989105225

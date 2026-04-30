@@ -15,10 +15,7 @@
   "hint": "<p>In Game #1, “4 2” and the second “1 1” are invalid. In Game #2, “1 4” is invalid.</p>",
   "source": "University, University of Central Florida, 2016 Local Programming Contest",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.2978999614715576

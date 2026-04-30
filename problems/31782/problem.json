@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, 2024 POSTECH Programming Contest, Contest, University, POSTECH, 2024 POSTECH Programming Contest, Open Contest, slah007, hyperbolic, jk410, kwoncycle, leo020630, menborong, pasa3232, petamingks, pjshwa, tony9402",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "bfs", "grid_graph"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.115799903869629

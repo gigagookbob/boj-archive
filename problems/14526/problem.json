@@ -15,10 +15,7 @@
   "hint": "<p>In this example, the interval of color 1 must be painted in an earlier round than the intervals of colors 4 and 5, so at least two rounds are needed.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 US Open Contest, Gold, chogahui05",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 2.971400022506714

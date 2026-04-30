@@ -15,11 +15,7 @@
   "hint": "<p>The first sample case is explained in problem statement.</p>\n<p>In the second case, all digits are available, so Alice can just press \"1\", \"2\", \"8\" and then \"equals\" to get the result. Please note that she still needs to press \"equals\" in the last step, even though there are no calculations.</p>\n<p>For the last case, it's impossible since Alice cannot input any even numbers.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2015 University Graduates Test, Round C APAC Test, Contest, Google, Kick Start, Google Kick Start 2014, Round C",
   "level": 8,
-  "tags": [
-    "implementation",
-    "dp",
-    "backtracking"
-  ],
+  "tags": ["implementation", "dp", "backtracking"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.1500000953674316

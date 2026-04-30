@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 February Contest, Bronze",
   "level": 8,
-  "tags": [
-    "implementation",
-    "set"
-  ],
+  "tags": ["implementation", "set"],
   "accepted_user_count": 254,
   "submission_count": null,
   "average_tries": 3.0590999126434326

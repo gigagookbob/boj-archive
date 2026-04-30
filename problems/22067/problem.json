@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2015, RCC 2015 Second Qualification Round",
   "level": 10,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.09089994430542

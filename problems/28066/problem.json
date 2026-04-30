@@ -19,13 +19,7 @@
   "hint": "<p>동물을 사랑합시다.</p>",
   "source": "University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, 새내기 Round, University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, 청정수 Round, University, 서강대학교, 청정수컵, 2023 서강대학교 청정수컵, Open Contest, maker29, djs100201, dong_gas, eaststar, hulahula3247, jthis, lem0nad3, mjhmjh1104, pjshwa, yunny_world",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque", "queue"],
   "accepted_user_count": 948,
   "submission_count": null,
   "average_tries": 1.554900050163269

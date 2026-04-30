@@ -23,12 +23,7 @@
   "hint": "<p>For Sample 1,</p>\n<p>${\\rm max}(1, 2, 3, 4, 5) = 5$<br/>\n$1, 2, 3, 4, 5 \\to 11, 12, 3, 4, 5$<br/>\n${\\rm max}(11, 12, 3, 4, 5) = 12$<br/>\n${\\rm max}(3) = 3$<br/>\n$11, 12, 3, 4, 5 \\to 2, 3, 3, 4, 5$<br/>\n${\\rm max}(2) = 2$<br/>\n${\\rm max}(3) = 3$</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "beats"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "beats"],
   "accepted_user_count": 199,
   "submission_count": null,
   "average_tries": 2.0905001163482666

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 21 September, 2002",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "geometry"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 1.541700005531311

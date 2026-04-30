@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2021, leedongbin, leedongbin",
   "level": 13,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 166,
   "submission_count": null,
   "average_tries": 3.3011999130249023

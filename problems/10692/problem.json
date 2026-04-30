@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, Tunisian Collegiate Programming Contest, TCPC 2013",
   "level": 5,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.7000000476837158

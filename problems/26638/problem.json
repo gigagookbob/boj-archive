@@ -15,12 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Dopisując, odpowiednio, cyfry 7 i 3 do drugiej i trzeciej liczby otrzymamy rosnący ciąg (8, 57, 133). Możliwe są inne rozwiązania, ale nie da się osiągnąć celu przez dopisanie tylko jednej cyfry.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2018",
   "level": 17,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string",
-    "case_work"
-  ],
+  "tags": ["implementation", "greedy", "string", "case_work"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 8

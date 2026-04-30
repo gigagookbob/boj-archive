@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, the coloring <code>GBBGR</code> works as follows:</p>\n<ul>\n<li>Marble $1$ is colored green and has the number $2$ written on it; marble $2$ is colored blue, and since green is not blue, the constraint is satisfied.</li>\n<li>Marble $2$ is colored blue and has the number $1$ written on it; marble $1$ is colored green, and since blue is not green, the constraint is satisfied.</li>\n<li>Marble $3$ is colored blue and has the number $5$ written on it; marble $5$ is colored red, and since blue is not red, the constraint is satisfied.</li>\n<li>Marble $4$ is colored green and has the number $3$ written on it; marble $3$ is colored blue, and since green is not blue, the constraint is satisfied.</li>\n<li>Marble $5$ is colored red and has the number $4$ written on it; marble $4$ is colored green, and since red is not green, the constraint is satisfied.</li>\n</ul>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Beginner Round",
   "level": 10,
-  "tags": [
-    "constructive",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["constructive", "permutation_cycle_decomposition"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.3077000379562378

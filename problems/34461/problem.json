@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, we can take the path $1 \\xrightarrow{3\\,\\text{seconds}} 3 \\xrightarrow{1\\,\\text{second}} 4 \\xrightarrow{1\\,\\text{second}} 5 \\xrightarrow{3\\,\\text{seconds}} 2 \\xrightarrow{2\\,\\text{seconds}} 1$ which takes $3+1+1+3+2=10$ seconds.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 300px;\"/></p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Beginner Round",
   "level": 9,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.1332999467849731

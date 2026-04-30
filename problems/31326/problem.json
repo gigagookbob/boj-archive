@@ -15,11 +15,7 @@
   "hint": "<p>The following picture shows one of the possible tilings in the given example.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 198px; height: 136px;\"/></p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 5: Grand Prix of Peterhof",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "case_work", "parity"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

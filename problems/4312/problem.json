@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 12 June, 2004, baekjoon",
   "level": 8,
-  "tags": [
-    "math",
-    "bitmask",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "bitmask", "arbitrary_precision"],
   "accepted_user_count": 304,
   "submission_count": null,
   "average_tries": 2.0690999031066895

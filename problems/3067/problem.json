@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 2852,
   "submission_count": null,
   "average_tries": 1.2418999671936035

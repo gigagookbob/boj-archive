@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2016 Southeast USA Regional Programming Contest, Division 2",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["bruteforcing", "case_work"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.9500000476837158

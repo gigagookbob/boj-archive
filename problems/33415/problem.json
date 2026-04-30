@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ainta",
   "level": 25,
-  "tags": [
-    "math",
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["math", "data_structures", "graphs", "disjoint_set", "mst"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "author5, Apple_Cplus",
   "level": 15,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 3

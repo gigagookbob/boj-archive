@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2011 Greater New York Programming Contest, arine, bupjae",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.8772000074386597

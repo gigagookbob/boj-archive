@@ -15,12 +15,7 @@
   "hint": "<p>Note that the second sample is our example in the pictures above.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, World Finals",
   "level": 23,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_graph",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "bipartite_graph", "mfmc"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.8889000415802002

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO US Open 2016 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "sorting"],
   "accepted_user_count": 679,
   "submission_count": null,
   "average_tries": 2.134000062942505

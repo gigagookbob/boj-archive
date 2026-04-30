@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 8 February, 2009",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 3.203700065612793

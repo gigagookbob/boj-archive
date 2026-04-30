@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Lemon Cup, Lemon Cup, kuhyaku, byunjaewoo, denniskim, gs22059, jthis, kdy40929, minchan_bae, pk661, realpsdoingdamyoo, ryanson, utilforever, woohyun_jng",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bitmask"
-  ],
+  "tags": ["graphs", "graph_traversal", "bitmask"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 2.0206000804901123

@@ -19,9 +19,7 @@
   "hint": "<p>In the first sample array contains integers $[5, 4, 4]$, and the answer is $(5 \\oplus 4) + (5 \\oplus 4) + (4 \\oplus 4) = 1 + 1 + 0 = 2$.</p>\n<p>In the second sample array contains integers  $[61, 38]$, and the answer is $(61 \\oplus 38)^3 = 27^3 = 19683$.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, First elimination round, 2018-2019",
   "level": 22,
-  "tags": [
-    "case_work"
-  ],
+  "tags": ["case_work"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.5

@@ -19,11 +19,7 @@
   "hint": "<p>10 = 1 + 2 + 3 + 4.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #7, isku",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 1.7628999948501587

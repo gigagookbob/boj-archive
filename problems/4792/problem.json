@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2012, baekjoon, orihehe",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "mst"],
   "accepted_user_count": 1347,
   "submission_count": null,
   "average_tries": 2.3868000507354736

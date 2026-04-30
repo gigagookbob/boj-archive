@@ -15,12 +15,7 @@
   "hint": "<p>Note</p>\n<p><em>Cookie Clicker</em> was created by Orteil. Orteil does not endorse and has no involvement with Google Code Jam.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Qualification Round",
   "level": 8,
-  "tags": [
-    "arithmetic",
-    "implementation",
-    "math",
-    "simulation"
-  ],
+  "tags": ["arithmetic", "implementation", "math", "simulation"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.1448999643325806

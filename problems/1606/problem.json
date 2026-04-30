@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ntopia",
   "level": 8,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 294,
   "submission_count": null,
   "average_tries": 2.129300117492676

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 9: Grand Prix of Japan, Contest, Open Cup, 2016/2017 Season, Stage 1: Grand Prix of Japan",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "bipartite_graph"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

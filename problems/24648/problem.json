@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 353px; height: 142px;\"/></p>\n<p>In the example test, the required route consists of $3$ roads, and the difference between the maximum and the minimum colorfulnesses of its roads is $8-2=6$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Regional Contest",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.81820011138916

@@ -15,11 +15,7 @@
   "hint": "<p>N이 4인 경우, 봄학기 때 4명의 학생 (민수, 동화, 갑도, 석주)이 각각 기숙사 A,B,C,D에 배정이 되었다면,</p>\n<p>(민수-B, 동화-A, 갑도-D, 석주-C), (민수-B, 동화-C, 갑도-D, 석주-A), (민수-B, 동화-D, 갑도-A, 석주-C), (민수-C, 동화-A, 갑도-D, 석주-B), (민수-C, 동화-D, 갑도-A, 석주-B), (민수-C, 동화-D, 갑도-B, 석주-A), (민수-D, 동화-A, 갑도-B, 석주-C), (민수-D, 동화-C, 갑도-A, 석주-B), (민수-D, 동화-C, 갑도-B, 석주-A)</p>\n<p>다음과 같은 9가지 경우가 존재한다. </p>",
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2015 KAIST 5th ACM-ICPC Mock Competition",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 642,
   "submission_count": null,
   "average_tries": 1.8519999980926514

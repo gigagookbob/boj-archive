@@ -23,12 +23,7 @@
   "hint": "<p>Two integers are said to be coprime if the only positive integer that divides both of them is $1$.</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2023 KAIST RUN Spring Contest, azberjibiou, cs71107, kdh9949, mhy908, sean9892, sjimed, songc",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "constructive", "euclidean"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 1.7894999980926514

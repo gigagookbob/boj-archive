@@ -15,12 +15,7 @@
   "hint": "<h4>Output Details</h4>\n<p>Here are the different ways FJ could have produced ABABA:</p>\n<ol>\n<li>Start with ABA -&gt; AB+ABA</li>\n<li>Start with ABA -&gt; ABA+BA</li>\n<li>Start with AB -&gt; AB+A -&gt; AB+ABA</li>\n<li>Start with AB -&gt; AB+A -&gt; ABA+BA</li>\n<li>Start with BA -&gt; A+BA -&gt; AB+ABA</li>\n<li>Start with BA -&gt; A+BA -&gt; ABA+BA</li>\n</ol>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO February 2014 Contest, Bronze",
   "level": 13,
-  "tags": [
-    "dp",
-    "string",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["dp", "string", "divide_and_conquer", "recursion"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.9865000247955322

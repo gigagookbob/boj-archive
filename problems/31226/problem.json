@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 4: Grand Prix of Korea",
   "level": 26,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "prime_factorization",
-    "mitm"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "prime_factorization", "mitm"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 19.66670036315918

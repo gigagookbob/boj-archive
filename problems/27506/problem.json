@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Winter Algorithm Camp Contest, 중급, tkfkddl59323, man_of_learning, pinebananais, starbow, ystaeyoon113",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "math",
-    "segtree"
-  ],
+  "tags": ["data_structures", "math", "segtree"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.976699948310852

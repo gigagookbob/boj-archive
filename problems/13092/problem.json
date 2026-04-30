@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2015",
   "level": 22,
-  "tags": [
-    "dp",
-    "knuth"
-  ],
+  "tags": ["dp", "knuth"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7726999521255493

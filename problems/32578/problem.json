@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2024",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "backtracking",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "backtracking", "primality_test"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.2799999713897705

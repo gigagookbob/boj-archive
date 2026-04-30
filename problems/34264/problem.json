@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2025, Day 2, ainta",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "trees",
-    "sparse_table",
-    "cartesian_tree"
-  ],
+  "tags": ["data_structures", "trees", "sparse_table", "cartesian_tree"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

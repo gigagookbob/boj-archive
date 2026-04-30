@@ -15,10 +15,7 @@
   "hint": "<p>$A$와 $B$를 $2$진법으로 표현하자. $A$와 $B$의 bitwise XOR인 $A \\oplus B$의 $i$번째 자리는 $A$와 $B$의 $i$번째 자리가 같으면 $0$, 다르면 $1$이다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 08., cologne, lky7674, utilforever",
   "level": 19,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.9420000314712524

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 7, 2020, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 7, 2020, Advanced",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.4544999599456787

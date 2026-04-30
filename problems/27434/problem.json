@@ -19,11 +19,7 @@
   "hint": "<p>PyPy도 Python이다. Python 3 유저는 PyPy3으로 제출하면 된다.</p>",
   "source": null,
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 5174,
   "submission_count": null,
   "average_tries": 2.1870999336242676

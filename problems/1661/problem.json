@@ -27,10 +27,7 @@
   "hint": "<p>예제 1의 경우에 2%할인 받는 신발과, 3%할인 받는 제품을 고르면 일단 그 신발의 가격 2가 든다. 그리고, 영식이가 사고싶어하는 100짜리를 100*0.98*0.97 = 95.06 에 살 수 있기 때문에 97.06이면 된다.</p>\n<p>예제 2의 경우는 할인을 받으려고 하면 가격이 더 올라간다.</p>",
   "source": "baekjoon, WeissBlume",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "sorting"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 4.246600151062012

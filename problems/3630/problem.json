@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2005",
   "level": 0,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["bruteforcing", "geometry", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

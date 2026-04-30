@@ -31,12 +31,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제2회 유틸컵, kidw0124, chogahui05, dkim110807, dongwook7, eoaud0108, gs22123, jinhan814, utilforever, yijw0930",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "constructive",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "constructive", "hash_set"],
   "accepted_user_count": 318,
   "submission_count": null,
   "average_tries": 1.5849000215530396

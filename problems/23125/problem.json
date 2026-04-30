@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 3: IQ test by kefaa2, antontrygubO_o, and gepardo, Contest, Open Cup, 2021/2022 Season, Stage 2: Grand Prix of IMO",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.3636000156402588

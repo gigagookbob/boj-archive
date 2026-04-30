@@ -15,12 +15,7 @@
   "hint": "<p>왼쪽에서 두 번째 돌을 가져가면서 점수를 얻는 방법과 세 번째 돌을 가져가면서 점수를 얻는 방법이 각각 8가지씩 있다. 따라서 총 점수는 $8 \\times 4 + 8 \\times 5 = 72$ 점이다.</p>\r\n",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021, Contest, Open Cup, 2021/2022 Season, Stage 17: Grand Prix of Seoul, ainta, cki86201, functionx, jh05013, koosaga",
   "level": 23,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "combinatorics",
-    "fft"
-  ],
+  "tags": ["math", "prefix_sum", "combinatorics", "fft"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.666700005531311

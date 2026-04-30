@@ -15,9 +15,7 @@
   "hint": "<p>One of the optimal merging strategies is the following. First increase all salaries in the second company by $2$, and merge the first and the second companies. Now the conglomerate consists of two companies with salaries $[4, 3, 4, 3]$ and $[1, 1, 1]$. To merge them, increase the salaries in the second of those by $3$. The total increase is $2 + 2 + 3 + 3 + 3 = 13$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2018",
   "level": 6,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.600000023841858

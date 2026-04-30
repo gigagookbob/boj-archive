@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2018",
   "level": 17,
-  "tags": [
-    "graphs",
-    "greedy",
-    "sorting",
-    "trees",
-    "degree_sequence"
-  ],
+  "tags": ["graphs", "greedy", "sorting", "trees", "degree_sequence"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.6851999759674072

@@ -23,13 +23,7 @@
   "hint": "<p>In second example, lecture set $\\{1, 3\\}$ is venue-sensitive. Because participant can't attend this lectures in venue $a$, but can attend in venue $b$.</p>\n<p>In first and third example, venue-sensitive set does not exist.</p>",
   "source": "Contest, Codeforces, Hello 2020, jwvg0425",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "sweeping",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "sweeping", "tree_set"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.3243000507354736

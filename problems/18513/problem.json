@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ndb796, jh05013, yoon1fe",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "set",
-    "bfs"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "set", "bfs"],
   "accepted_user_count": 1124,
   "submission_count": null,
   "average_tries": 3.9990999698638916

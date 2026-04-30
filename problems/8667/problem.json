@@ -15,12 +15,7 @@
   "hint": "<p>Kozik może uderzyć dwa ostatnie gwoździe o wysokości 4. i 5., tak aby pięć gwoździ było na wysokości 3.</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Beginner Group)",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "sorting", "set", "two_pointer"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.25

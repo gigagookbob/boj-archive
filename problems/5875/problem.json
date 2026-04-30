@@ -15,9 +15,7 @@
   "hint": "<p>키파가 입력한 다음 문자열을 자세히 보자:</p>\r\n\r\n<pre>\r\n12345678\r\n()(())))</pre>\r\n\r\n<p>2번째 문자 )를 (로 고침으로써 올바른 문자열을 만들 수 있다:</p>\r\n\r\n<pre>\r\n12345678\r\n(((())))</pre>\r\n\r\n<p>비슷하게, 5번째 문자, 6번째 문자, 혹은 7번째 문자를 고침으로써 올바른 문자열을 만들 수 있다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO November 2012 Contest, Bronze, kipa00, YunGoon, ygonepiece",
   "level": 14,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 429,
   "submission_count": null,
   "average_tries": 2.7832000255584717

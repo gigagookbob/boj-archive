@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2016, Day 2",
   "level": 5,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive", "simulation"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.3587000370025635

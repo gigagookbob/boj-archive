@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round B",
   "level": 17,
-  "tags": [
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["constructive", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -23,9 +23,7 @@
   "hint": "<p>비트 XOR (Bitwise XOR) 연산자에 대한 자세한 정보는 <a href=\"https://en.wikipedia.org/wiki/Bitwise_operation#XOR\">위키백과</a>에서 확인할 수 있다.</p>",
   "source": "University, 한국항공대학교, 제3회 한국항공대학교 프로그래밍 경진대회(KAUPC), hello70825, kpqi5858, 20wjsdudtj, chansol, gojib2002, shjohw12, soo7652, utilforever",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 243,
   "submission_count": null,
   "average_tries": 2.288100004196167

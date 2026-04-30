@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2009, baekjoon",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "geometry"
-  ],
+  "tags": ["binary_search", "data_structures", "geometry"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 9.616999626159668

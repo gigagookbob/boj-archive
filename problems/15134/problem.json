@@ -15,12 +15,7 @@
   "hint": "<p>Consider the second example. Initially, there is a single pile containing 2<sup>0</sup> + 2<sup>1</sup> + 2<sup>2</sup> + 2<sup>3</sup> = 15 marbles. After the first turn, there are two piles containing 10 and 5 marbles. After the second division, there are three piles containing 5 marbles each, and two of these piles are discarded, so only one pile with 5 marbles is left. After the third turn, there are two piles containing 1 and 4 marbles. After the fourth turn, there are two piles containing 1 and 2 marbles (the other pile with 2 marbles is discarded). Finally, after the fifth turn, there is just one pile with 1 marble (the other two piles with 1 marble are discarded).</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2017",
   "level": 26,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "math"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "math"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5713999271392822

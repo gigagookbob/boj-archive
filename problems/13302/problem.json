@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2016, 고등부, Olympiad, 한국정보올림피아드, KOI 2016, 초등부",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 2230,
   "submission_count": null,
   "average_tries": 2.267699956893921

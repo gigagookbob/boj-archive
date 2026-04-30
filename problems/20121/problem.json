@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2020 Goricon, exqt",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "number_theory", "constructive"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.8545000553131104

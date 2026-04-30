@@ -15,13 +15,7 @@
   "hint": "<p>In Sample Case #1 (as seen below), an optimal route (marked with a red line in the picture above) goes through the following sights: $2,3,1,3,4,5,4,6$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>In Sample Case #2 (as seen above), the only change compared with the setup in Sample Case #1 is that the transportation between sights $1$ and $3$ got more expensive: from $10$ to $35$. The route $2,3,1,3,4,5,4,6$ costs $150$ in this scenario and it is not optimal. The optimal route is $2,3,4,6,4,5,4,3,1$ instead (also marked in red in the picture).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p>Notice in Sample Case #3 that the answer may be larger than $2^{32}$.</p>",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2022, Code Jam to I/O for Women 2022",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["bruteforcing", "dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.666700005531311

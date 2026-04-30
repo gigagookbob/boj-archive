@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, hibye1217, bupjae",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing",
-    "utf8"
-  ],
+  "tags": ["implementation", "string", "parsing", "utf8"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 1.823099970817566

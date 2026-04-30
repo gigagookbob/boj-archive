@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2020",
   "level": 19,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "flow", "mfmc"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.1033999919891357

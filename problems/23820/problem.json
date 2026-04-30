@@ -15,11 +15,7 @@
   "hint": "<p>만들어지는 집합은 ({0,1,2,4})가 되고, 이 집합에 포함되지 않는 가장 작은 음이 아닌 정수는 3이다.</p>",
   "source": "University, POSTECH, 2021 POSTECH Programming Contest, hyperbolic, cozyyg, gravekper, hitonanode, hojoon0205, shiftpsh",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "harmonic_number"],
   "accepted_user_count": 278,
   "submission_count": null,
   "average_tries": 4.575500011444092

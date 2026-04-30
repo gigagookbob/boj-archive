@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 예제:&nbsp;<span style=\"line-height:1.6em\">가림판을 썩음도 9와 5위에 놓는다.</span></p>\r\n\r\n<p>두 번째 예제:&nbsp;<span style=\"line-height:1.6em\">가림판을 [4, 5]와 [5, 4]에 놓는다.</span></p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #3, isac322",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 6.969699859619141

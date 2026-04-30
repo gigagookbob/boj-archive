@@ -15,9 +15,7 @@
   "hint": "<p>In sample case #1, the first reader will read the pages numbered 2, 4, 6, and 10. Note that the page numbered 8 will not be read since it is torn out. The second reader will read the pages numbered 3, 6, and 9. Therefore, the total number of pages that will be read by all readers is 4 + 3 = 7.</p>\n<p>In sample case #2, all pages are torn out so all readers will read 0 pages.</p>\n<p>In sample case #3, the first reader will read all the pages other than the six given pages.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2019, Round G",
   "level": 8,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.0833001136779785

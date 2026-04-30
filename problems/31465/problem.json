@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제3회 초콜릿컵, bubbler, ingyu1008, jamesoh1201, naeby, quickn, solvedac, sorohue, tlsdydaud1, utilforever, vkdldjvkdnj",
   "level": 21,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["implementation", "data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 4.480000019073486

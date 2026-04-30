@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2016/2017 Spring Training Camp",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "dp",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "greedy", "segtree"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.0399999618530273

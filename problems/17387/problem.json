@@ -47,11 +47,7 @@
   "hint": null,
   "source": "baekjoon, YunGoon, kkg0510, yhkee0404, wapas, tlsdydaud1, seonh4996, robo_tronic, lycoris1600, lighter, kongum, aza1200, jms020820, jmkk27, jhk2721, hunojung, dhtlq777, dbtmddn41, dankimh, cirno4143",
   "level": 14,
-  "tags": [
-    "geometry",
-    "case_work",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "case_work", "line_intersection"],
   "accepted_user_count": 6285,
   "submission_count": null,
   "average_tries": 3.72379994392395

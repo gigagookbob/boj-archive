@@ -19,11 +19,7 @@
   "hint": null,
   "source": null,
   "level": 19,
-  "tags": [
-    "math",
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["math", "geometry", "convex_hull"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 11.375

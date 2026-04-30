@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, World Finals",
   "level": 24,
-  "tags": [
-    "combinatorics",
-    "data_structures",
-    "dp",
-    "math",
-    "segtree"
-  ],
+  "tags": ["combinatorics", "data_structures", "dp", "math", "segtree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.230799913406372

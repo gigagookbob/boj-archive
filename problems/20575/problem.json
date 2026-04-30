@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample, the first needle intersects a vertical line ($x = 1$), but the second doesn't. So the fraction of needles that intersect vertical lines is $1/2$ and the corresponding approximation of $\\pi$ is $4$.</p>\n<p>In the second sample, both the needles intersect vertical lines ($x = 1$ and $x = 0$), so the fraction of needles that intersect vertical lines is $1$ and the corresponding approximation of $\\pi$ is $2$.</p>",
   "source": ", University, UT Invitational Programming Contest, UT Invitational Programming Contest 2019",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.0510001182556152

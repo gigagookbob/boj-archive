@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2018 Goricon, exqt",
   "level": 13,
-  "tags": [
-    "constructive",
-    "divide_and_conquer"
-  ],
+  "tags": ["constructive", "divide_and_conquer"],
   "accepted_user_count": 428,
   "submission_count": null,
   "average_tries": 2.1939001083374023

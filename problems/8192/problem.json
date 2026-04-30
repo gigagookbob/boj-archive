@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:222px; width:562px\"/></p>\n<p>The figure depicts three possible partitions into triangles. The favourite spots of the sheep are marked with dots.</p>\n<p>A convex polygon is a simple polygon (i.e., one with no self-intersections), in which every internal angle is smaller than 180°.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 2",
   "level": 20,
-  "tags": [
-    "dp",
-    "geometry"
-  ],
+  "tags": ["dp", "geometry"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.049999952316284

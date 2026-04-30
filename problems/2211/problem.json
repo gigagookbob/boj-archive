@@ -15,12 +15,7 @@
   "hint": null,
   "source": "his130, mwy3055",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 3263,
   "submission_count": null,
   "average_tries": 1.951300024986267

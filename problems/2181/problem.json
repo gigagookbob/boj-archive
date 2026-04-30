@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2008 Preliminaries",
   "level": 14,
-  "tags": [
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["geometry", "case_work"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.2857000827789307

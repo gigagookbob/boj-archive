@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Happy Birthday Lumi!, Happy Birthday Lumi! 2025, djeleanor2, ai4youej, ohwphil, qvixnh22, toycartoon, vkdldjvkdnj, wizardrabbit, yijw0930",
   "level": 11,
-  "tags": [
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "difference_array"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 3.0494000911712646

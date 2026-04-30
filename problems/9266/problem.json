@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2013, 79brue, apjw6112, eric00513, supercom",
   "level": 21,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "game_theory"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs", "game_theory"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.5713999271392822

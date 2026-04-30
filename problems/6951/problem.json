@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2000, CCO 2000",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.0888999700546265

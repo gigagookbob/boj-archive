@@ -15,12 +15,7 @@
   "hint": "<p>この出力例の場合は，7 マスの草が覆われていたマスの草を刈り取り更地にしているため，7 ドルのお金 がかかっている．この出力例を提出した場合，もしあなたより小さな金額で作ることのできる国の状態の 出力を提出した人がいなければ 20 点を得るが，Em が 6 ドルであれば 12.9 点を得ることとなる．</p>\n<p>上記の入力例に対する基本アルゴリズムの出力は次のようになり，10 マスの草が覆われていたマスの草 を刈り取り更地にしているため，10 ドルのお金がかかる．</p>\n<pre>\nw@ww@w@\nw.ww.w.\n....@..\n@w.w.ww\nww@.@w.</pre>",
   "source": ", Camp, JOI Spring Training Camp, JOI 2009/2010 Spring Training Camp",
   "level": 23,
-  "tags": [
-    "greedy",
-    "constructive",
-    "randomization",
-    "heuristics"
-  ],
+  "tags": ["greedy", "constructive", "randomization", "heuristics"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

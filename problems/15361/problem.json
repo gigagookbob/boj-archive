@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first test case: The land where the elections are being held consists of 3 counties, and there are 4 candidates for the president of the association. If neither of the candidates revoke their candidacy, candidate 3 will win the elections with two votes. Candidate 1 will only win if all the other candidates revoke their candidacy.</p>\n<p>Clarification of the second test case: There is only one candidate, Zdravko’s friend, so they will surely win.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #4",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.200000047683716

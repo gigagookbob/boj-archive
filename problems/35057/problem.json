@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2025 송년대회, lighton, kuhyaku, moonrabbit2, utilforever",
   "level": 26,
-  "tags": [
-    "dp",
-    "greedy",
-    "divide_and_conquer",
-    "two_pointer",
-    "slope_trick"
-  ],
+  "tags": ["dp", "greedy", "divide_and_conquer", "two_pointer", "slope_trick"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.125

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 23,
-  "tags": [
-    "geometry",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["geometry", "math", "number_theory"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.3333001136779785

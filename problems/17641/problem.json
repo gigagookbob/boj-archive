@@ -35,12 +35,7 @@
   "hint": "<p>In the first sample, the only possibility is for the word “<code>radar</code>” to be on each edge of the cube.</p>\n<p>In the second sample, there are two cubes, which are just rotations of each other – the word “<code>robot</code>” is on every edge, and the difference between the two cubes is whether the lower left front corner contains ‘<code>r</code>’ or ‘<code>t</code>’.</p>\n<p>The third sample is similar to the second one. The fact that we can read the word on each edge in both directions does not affect the answer.</p>\n<p>In the fourth sample, there is one cube with the word “<code>bob</code>” on each edge. There are also 212 = 4096 cubes with the word “<code>baobab</code>” on each edge. (For each of the 12 edges, we have two possible directions in which the word “<code>baobab</code>” can appear.)</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2019, Day 1",
   "level": 19,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics",
-    "bipartite_graph"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics", "bipartite_graph"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2

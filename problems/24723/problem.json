@@ -19,10 +19,7 @@
   "hint": "<p>살면서 <span style=\"color:#2ecc71;\"><strong>녹색거탑</strong></span>을 만난다면, 탑을 정복하고 <strong>DEVIEW</strong>에 참여해 <strong>코<span style=\"color:#e74c3c;\">딩괴물</span></strong>이 되어보자.</p>",
   "source": "University, 연세대학교, 2022 연세대학교 신학기맞이 프로그래밍 경진대회, QuqqU, chogahui05, clifter0122, gumgood, Juno, klm03025, lky7674, pom0319, standingbell, tony9402, ystaeyoon113",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 14955,
   "submission_count": null,
   "average_tries": 1.4931000471115112

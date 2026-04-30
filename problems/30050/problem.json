@@ -15,12 +15,7 @@
   "hint": "<p>$\\lfloor x \\rfloor$는 $x$와 같거나 그보다 작은 정수 중 가장 큰 정수이다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2023, khj20006, bsyun0571, hellogaon, hyoseok, leo020630, mksmk606, rasauq1122, swoon",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "trees",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "trees", "set", "hash_set"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 1.5943000316619873

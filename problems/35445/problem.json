@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2026",
   "level": 18,
-  "tags": [
-    "math",
-    "geometry",
-    "parametric_search"
-  ],
+  "tags": ["math", "geometry", "parametric_search"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2017 Sogang Programming Contest, Master, scka, chltjrwns1gh, jh05013",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["math", "implementation", "ad_hoc"],
   "accepted_user_count": 4996,
   "submission_count": null,
   "average_tries": 1.2028000354766846

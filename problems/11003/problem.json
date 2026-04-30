@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, doju",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "deque",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "priority_queue", "deque", "deque_trick"],
   "accepted_user_count": 12334,
   "submission_count": null,
   "average_tries": 3.0522000789642334

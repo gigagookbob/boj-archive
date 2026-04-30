@@ -15,11 +15,7 @@
   "hint": "<p>There are 3 islands and the treasure map requires Farmer John to visit a sequence of 4 islands in order: island 1, island 2, island 1 again, and finally island 3. The danger ratings of the paths are given: the paths (1, 2); (2, 3); (3, 1) and the reverse paths have danger ratings of 5, 2, and 1, respectively.</p>\n<p>He can get the treasure with a total danger of 7 by traveling in the sequence of islands 1, 3, 2, 3, 1, and 3. The cow map's requirement (1, 2, 1, and 3) is satisfied by this route. We avoid the path between islands 1 and 2 because it has a large danger rating.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO US Open 2008 Contest, Silver",
   "level": 11,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 1.2718000411987305

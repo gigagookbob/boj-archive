@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2005 Rocky Mountain Regional Contest",
   "level": 11,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.75

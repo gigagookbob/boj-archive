@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2019",
   "level": 21,
-  "tags": [
-    "crt",
-    "math",
-    "number_theory",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["crt", "math", "number_theory", "permutation_cycle_decomposition"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 4.743599891662598

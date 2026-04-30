@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2018",
   "level": 20,
-  "tags": [
-    "bipartite_matching",
-    "hall"
-  ],
+  "tags": ["bipartite_matching", "hall"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.5

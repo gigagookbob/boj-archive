@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #7",
   "level": 15,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.567199945449829

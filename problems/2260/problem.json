@@ -19,12 +19,7 @@
   "hint": null,
   "source": "starwarscks",
   "level": 16,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 9.846199989318848

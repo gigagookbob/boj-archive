@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2020 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2020 아주대학교 프로그래밍 경시대회 APC, Div.2, qilip, edenooo, jwvg0425, kyo20111, xtalxlr",
   "level": 15,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 3.0308001041412354

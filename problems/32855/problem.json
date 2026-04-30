@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2024 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, South Central USA Regional, 2024 South Central USA Regional Contest, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2024 Mid-Atlantic USA Regional Contest, Division 2",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "parsing"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.649999976158142

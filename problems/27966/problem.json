@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 와쿠(AGCU)컵, 제1회 와쿠(AGCU)컵, shjohw12, bnb2011, cgiosy, eaststar, jyheo98, lms0806, parkky, pjshwa, qawbecrdtey, tony9402, yooyou7",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "trees",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "trees", "constructive"],
   "accepted_user_count": 580,
   "submission_count": null,
   "average_tries": 1.84660005569458

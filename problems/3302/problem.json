@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2012, Day 1",
   "level": 14,
-  "tags": [
-    "greedy",
-    "sorting",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "sorting", "parametric_search"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 4.052599906921387

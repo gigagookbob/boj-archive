@@ -31,11 +31,7 @@
   "hint": "<p>Note: The last Sample Input has parentheses nested 20 levels.</p>",
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Qualifying Round)",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "string",
-    "stack"
-  ],
+  "tags": ["data_structures", "string", "stack"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.6970000267028809

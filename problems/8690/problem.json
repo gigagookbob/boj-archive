@@ -15,9 +15,7 @@
   "hint": "<ul>\n<li>po jednym dniu - masy grzybów to odpowiednio: (2, 10, 9),</li>\n<li>po dwóch dniach - pierwszy grzyb jest niejadalny, masy grzybów: (0, 15, 11),</li>\n<li>po trzech dniach- można jeść tylko trzeci grzyb, masy grzybów: (0, 0, 13),</li>\n<li>po czterech dniach - żaden grzyb nie nadaje się do jedzenia: (0, 0, 0).</li>\n</ul>\n<p>Jadalne grzyby najwięcej ważą 26 (po dwóch dniach).</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Intermediate Group)",
   "level": 14,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.555600166320801

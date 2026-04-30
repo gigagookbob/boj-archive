@@ -23,10 +23,7 @@
   "hint": "<p>For the first Sample Input, we can remove the two letters at positions 10 and 11.</p>\n<p>For the second Sample Input, we can remove the letters at positions 3, 4, 6, 10 and 11.</p>\n<p>For the third Sample Input, we can create ”…aa…” or ”…yy…”, each of length 2.</p>",
   "source": "University, University of Central Florida, 2024 Local Programming Contest (Final Round)",
   "level": 8,
-  "tags": [
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["string", "two_pointer"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.7856999635696411

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2010",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "dp"
-  ],
+  "tags": ["bitmask", "dp"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3

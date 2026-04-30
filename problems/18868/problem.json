@@ -23,9 +23,7 @@
   "hint": null,
   "source": "baekjoon, akaishuichi",
   "level": 5,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 923,
   "submission_count": null,
   "average_tries": 1.6782000064849854

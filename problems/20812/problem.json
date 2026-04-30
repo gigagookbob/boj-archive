@@ -19,9 +19,7 @@
   "hint": "<p>I exempel 1 väljer Egon att brygga två kannor med första tepåsen och två kannor med tredje tepåsen. Det ger $20+17$ koppar te, vilket räcker till de 36 deltagarna.</p>\n<p>I exempel 2 är det optimala att brygga sex kannor med första tepåsen, tre kannor med tredje tepåsen och två med den fjärde tepåsen. Det ger $54+30+16$ koppar te, vilket räcker till de 100  deltagarna.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2020, Qualification",
   "level": 6,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.4865000247955322

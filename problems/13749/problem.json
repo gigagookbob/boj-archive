@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Southeast USA Regional, 2016 Southeast USA Regional Programming Contest, Division 1",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.875

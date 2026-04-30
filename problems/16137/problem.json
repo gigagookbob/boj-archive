@@ -15,12 +15,7 @@
   "hint": null,
   "source": "sangdo913, jh05013, vega, akaishuichi, jh05013",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 655,
   "submission_count": null,
   "average_tries": 5.026000022888184

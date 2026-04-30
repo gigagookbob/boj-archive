@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2022, CCC 2022 Senior Division",
   "level": 18,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "prefix_sum", "combinatorics"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.0999999046325684

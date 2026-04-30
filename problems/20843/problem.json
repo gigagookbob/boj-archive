@@ -23,11 +23,7 @@
   "hint": "<p>Här följer tre grafer som representerar de tre exempelfallen. Varje person representeras av en nod. På varje kant är mängden kuvert som skickas utskrivet i enheten kps, kuvert per sekund.</p>\n<p>Notera att i testfallsgrupp $1$ skulle enbart exempelfall $1$ kunna förekomma, i testfallsgrupp $2$ enbart exempelfall $2$, och i testfallsgrupp $3$ enbart exempelfall $3$. I testfallsgrupp $4$ och $5$ skulle alla tre exempelfall kunna förekomma.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 632px; height: 268px;\"/></p>\n<p style=\"text-align: center;\">Figure 1: Sample $1$</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 625px; height: 353px;\"/></p>\n<p style=\"text-align: center;\">Figure 2: Sample $2$</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 743px; height: 296px;\"/></p>\n<p style=\"text-align: center;\">Figure 3: Sample $3$</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Online Qualification",
   "level": 14,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1

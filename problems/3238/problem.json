@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2003, National Competition #1 - Seniors",
   "level": 13,
-  "tags": [
-    "greedy",
-    "trees"
-  ],
+  "tags": ["greedy", "trees"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.200000047683716

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2014, RCC 2014 Third Qualification Round",
   "level": 4,
-  "tags": [
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["geometry", "pythagoras"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 1.436400055885315

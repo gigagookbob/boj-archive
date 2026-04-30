@@ -27,11 +27,7 @@
   "hint": "<p>$N=2$ 일 때는 다음과 같다.</p>\n<p><strong>ⅰ) 전구가 $1$번 스위치와 연결되어 있는 경우 </strong></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 150px; width: 151px;\"/><img alt=\"\" src=\"3.png\" style=\"height: 150px; width: 149px;\"/></p>\n<ol>\n<li>$3$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡이지 않는다.</li>\n<li>$2$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡이지 않는다.</li>\n</ol>\n<p>$2$번, $3$번, $4$번 스위치를 눌렀으나 전구가 깜빡이지 않았으므로 $1$번 스위치가 전구와 연결되어 있다는 사실을 알 수 있다. </p>\n<p><strong>ⅱ) 전구가 $2$번 스위치와 연결되어 있는 경우</strong></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 150px; width: 151px;\"/><img alt=\"\" src=\"3.png\" style=\"height: 150px; width: 149px;\"/></p>\n<ol>\n<li>$3$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡이지 않는다.</li>\n<li>$2$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡인다.</li>\n</ol>\n<p>$2$번 스위치가 전구와 연결되어 있다는 사실을 알 수 있다. </p>\n<p><strong>ⅲ) 전구가 $3$번 스위치와 연결되어 있는 경우</strong></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 150px; width: 151px;\"/><img alt=\"\" src=\"3.png\" style=\"height: 150px; width: 149px;\"/></p>\n<ol>\n<li>$3$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡인다.</li>\n<li>$2$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡이지 않는다.</li>\n</ol>\n<p>$3$번 스위치가 전구와 연결되어 있다는 사실을 알 수 있다.</p>\n<p><strong>ⅳ) 전구가 $4$번 스위치와 연결되어 있는 경우</strong></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 150px; width: 151px;\"/><img alt=\"\" src=\"3.png\" style=\"height: 150px; width: 149px;\"/></p>\n<ol>\n<li>$3$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡인다.</li>\n<li>$2$번 스위치와 $4$번 스위치를 누른다. 전구가 깜빡인다.</li>\n</ol>\n<p>$4$번 스위치가 전구와 연결되어 있다는 사실을 알 수 있다.</p>\n<p>전구가 $1$번, $2$번, $3$번, $4$번 중 어떤 스위치와 연결되어 있든 최대 2개의 나뭇잎으로 전구의 위치를 찾을 수 있으니 필요한 나뭇잎의 최소 개수는 2개이다.</p>",
   "source": "University, 홍익대학교, 2022 홍익대학교 HI-ARC 프로그래밍 경진대회, xkdlaldfjtnl, cs71107, dicohy27, Green55, jh05013, jwvg0425",
   "level": 6,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "arithmetic"],
   "accepted_user_count": 544,
   "submission_count": null,
   "average_tries": 1.481600046157837

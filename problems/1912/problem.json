@@ -23,10 +23,7 @@
   "hint": null,
   "source": "jh05013, tncks0121, djm03178, dohyeokkim, doju, jh05013, kimdr123, seedkin, yujeong0420, isac322, Qwaz",
   "level": 9,
-  "tags": [
-    "dp",
-    "maximum_subarray"
-  ],
+  "tags": ["dp", "maximum_subarray"],
   "accepted_user_count": 49483,
   "submission_count": null,
   "average_tries": 2.589099884033203

@@ -31,11 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2024 ICPC Asia Yokohama Regional Contest",
   "level": 20,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "geometry_3d", "ternary_search"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3912999629974365

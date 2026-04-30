@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 전남대학교, 2025 상반기 전남대학교 PIMM 알고리즘 파티, jh01533, lycoris1600, realpsdoingdamyoo, sjhi00, tony9402, utilforever",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 4

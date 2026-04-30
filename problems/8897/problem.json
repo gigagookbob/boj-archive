@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2012, myungwoo",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "dp",
-    "dp_tree",
-    "stack",
-    "trees"
-  ],
+  "tags": ["data_structures", "dp", "dp_tree", "stack", "trees"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 4.111100196838379

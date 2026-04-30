@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2023 부산대학교 CodeRace, Advanced, mbae059, jthis, leeh18, shjohw12",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "mst"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "mst"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.663599967956543

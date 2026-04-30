@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2026 신촌지역 대학교 프로그래밍 동아리 연합 겨울 대회 (SUAPC 2026 Winter), ibasic, jinhan814, sorohue",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "cht",
-    "mitm",
-    "li_chao_tree"
-  ],
+  "tags": ["data_structures", "segtree", "cht", "mitm", "li_chao_tree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.0999999046325684

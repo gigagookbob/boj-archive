@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2017 ERICA Programming Contest, League B (초보), lja9702, jh05013",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "sorting", "set", "hash_set"],
   "accepted_user_count": 476,
   "submission_count": null,
   "average_tries": 3.100800037384033

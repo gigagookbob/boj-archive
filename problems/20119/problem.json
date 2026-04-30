@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2020 Goricon, exqt",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "graph_traversal", "dag", "topological_sorting"],
   "accepted_user_count": 365,
   "submission_count": null,
   "average_tries": 3.312299966812134

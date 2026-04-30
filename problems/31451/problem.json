@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2023-2024 연습 세션",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "set"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4

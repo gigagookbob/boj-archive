@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2024",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "segtree"
-  ],
+  "tags": ["data_structures", "graphs", "segtree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

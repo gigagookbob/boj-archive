@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO January 2006 Contest, Silver",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack",
-    "arbitrary_precision"
-  ],
+  "tags": ["dp", "knapsack", "arbitrary_precision"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.9184000492095947

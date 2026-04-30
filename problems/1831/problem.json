@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2005, Final Exam #2, author5",
   "level": 18,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "stack"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

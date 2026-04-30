@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2010",
   "level": 12,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.724600076675415

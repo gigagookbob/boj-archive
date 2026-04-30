@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2005, thebarbershop, jaehoo1",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 10157,
   "submission_count": null,
   "average_tries": 1.7924000024795532

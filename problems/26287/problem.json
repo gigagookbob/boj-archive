@@ -23,13 +23,7 @@
   "hint": "<p>In the first example, there is a single question and Genie will answer it correctly, thus winning the game (along with participants $2$ and $4$).</p>\n<p>In the second example, one participant will leave after the first asked question, and another participant will leave after the second asked question. Each participant will win with probability $\\frac{1}{3}$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2022",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "dp_sum_over_subsets",
-    "math",
-    "probability"
-  ],
+  "tags": ["combinatorics", "dp", "dp_sum_over_subsets", "math", "probability"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3

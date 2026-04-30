@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 블롭컵, 제1회 블롭컵, gunwookim, amsminn, chansol, jjang36524, lighton, mjhmjh1104, tlsdydaud1",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 790,
   "submission_count": null,
   "average_tries": 2.6315999031066895

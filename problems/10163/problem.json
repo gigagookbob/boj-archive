@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2014, 초등부, baekjoon",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 4434,
   "submission_count": null,
   "average_tries": 2.340100049972534

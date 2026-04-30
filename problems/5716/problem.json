@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2009",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "sorting"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.4643000364303589

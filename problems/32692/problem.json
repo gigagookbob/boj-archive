@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, DGIST, 2024 DGIST 알고리즘 경진대회, bnb2011, jinhan814, jyheo98, leo020630, sjhi00, tlsdydaud1",
   "level": 19,
-  "tags": [
-    "math",
-    "graphs",
-    "number_theory",
-    "functional_graph"
-  ],
+  "tags": ["math", "graphs", "number_theory", "functional_graph"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 5.608699798583984

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제1회 천하제일 코딩대회 본선",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "tree_diameter"],
   "accepted_user_count": 224,
   "submission_count": null,
   "average_tries": 3.732100009918213

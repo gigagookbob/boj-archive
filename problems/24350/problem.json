@@ -15,11 +15,7 @@
   "hint": "<p>Две нули съдържа числото $\\frac{50!}{40!(50-40)!} = 10272278170$.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2016, Group C",
   "level": 5,
-  "tags": [
-    "math",
-    "combinatorics",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "combinatorics", "arbitrary_precision"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.4443999528884888

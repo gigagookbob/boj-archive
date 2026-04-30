@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "binary_search",
-    "set",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "sorting", "binary_search", "set", "two_pointer"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 2.5

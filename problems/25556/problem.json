@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, 2022 POSTECH Programming Contest, leo020630, qjatn0120baek, bnb2011, hyperbolic, knon0501, lky7674, slah007, tlsdydaud1",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "stack"],
   "accepted_user_count": 1155,
   "submission_count": null,
   "average_tries": 2.2934999465942383

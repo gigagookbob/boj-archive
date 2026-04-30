@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2025 SKKU 프로그래밍 대회, itinbangk, Coxie, jthis, shjohw12, sjhi00, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "math",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["math", "string", "bruteforcing"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 3

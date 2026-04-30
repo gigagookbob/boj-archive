@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2015/2016 Spring Training Camp",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "priority_queue", "sqrt_decomposition"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.509399890899658

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2025, luca200799k, phoenixrafael, kdy40929, kuhyaku, octane, realpsdoingdamyoo, utilforever",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "priority_queue",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "priority_queue", "tree_set"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 3.2857000827789307

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2022 홍익대학교 HI-ARC 프로그래밍 경진대회, swoon, cs71107, Green55, jh05013, jwvg0425",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1158,
   "submission_count": null,
   "average_tries": 1.2857999801635742

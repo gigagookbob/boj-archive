@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Winter Contest, flakepowders, eric00513, heeda0528, hjroh0315, jk410, kiwiyou, ssamt, tony9402, whqkrkt04, wizardrabbit",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "randomization",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "randomization", "prime_factorization"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 6.09089994430542

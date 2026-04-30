@@ -15,12 +15,7 @@
   "hint": "<p>요세푸스 문제는&nbsp;<a href=\"http://www.acmicpc.net/problem/1158\">1158번</a>을&nbsp;참고하면 된다.</p>\r\n",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2006, baekjoon",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 2.6466000080108643

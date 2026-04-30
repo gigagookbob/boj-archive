@@ -15,9 +15,7 @@
   "hint": "<p>In this example, if cow 1 eats first, then there will be nothing left for cow 2 to eat. However, if cow 2 eats first, then cow 1 will be satisfied by eating the second pie only.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2019 December Contest, Platinum",
   "level": 22,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.5

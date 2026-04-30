@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2018-19, Final Round",
   "level": 22,
-  "tags": [
-    "trees",
-    "hashing",
-    "tree_isomorphism"
-  ],
+  "tags": ["trees", "hashing", "tree_isomorphism"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.75

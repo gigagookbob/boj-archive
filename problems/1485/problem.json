@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, alexj99, ansgml9884, jame0313, kkw564, scvhero",
   "level": 8,
-  "tags": [
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["sorting", "geometry"],
   "accepted_user_count": 2799,
   "submission_count": null,
   "average_tries": 2.8385000228881836

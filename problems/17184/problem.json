@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Baltic Olympiad in Informatics, BOI 2019",
   "level": 18,
-  "tags": [
-    "bitset"
-  ],
+  "tags": ["bitset"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.8200000524520874

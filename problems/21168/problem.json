@@ -19,13 +19,7 @@
   "hint": "<p>There are $5$ islands in Crete, connected to each other via $4$ routes, as shown in the figure: the first connecting island $1$ and $2$ and allowing Agamemnon to acquire $3$ units of resources and so on. In this archipelago, the best plan for Agamemnon is to start at island $4$, visit island $1$ (acquiring $5$ units of resources along the $4\\to1$ route), and then end his path at island $5$ (acquiring another $9$ units of resources along the $1\\to5$ route), having earned a total of $14$ units of resources.</p>",
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2020",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "tree_diameter"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.350000023841858

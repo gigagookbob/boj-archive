@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2016, RCC 2016 Elimination Round",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "merge_sort_tree",
-    "segtree",
-    "sorting"
-  ],
+  "tags": ["data_structures", "merge_sort_tree", "segtree", "sorting"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.25

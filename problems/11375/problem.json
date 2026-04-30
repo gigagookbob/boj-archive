@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, rubix, woojw911, doju",
   "level": 17,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 4785,
   "submission_count": null,
   "average_tries": 2.3454999923706055

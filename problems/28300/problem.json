@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023 예선, golazcc83, asdarwin03, dohoon, evenharder, functionx, hyperbolic, jh05013, kclee2172, queued_q, qwerasdfzxcl, silverwolf, tlsdydaud1, wapas",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 141,
   "submission_count": null,
   "average_tries": 1.680899977684021

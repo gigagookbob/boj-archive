@@ -15,10 +15,7 @@
   "hint": null,
   "source": "jh05013",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "sparse_table"],
   "accepted_user_count": 2713,
   "submission_count": null,
   "average_tries": 1.8865000009536743

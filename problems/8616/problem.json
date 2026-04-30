@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2009, Stage 3",
   "level": 13,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

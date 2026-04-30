@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #3",
   "level": 6,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "constructive",
-    "randomization"
-  ],
+  "tags": ["string", "ad_hoc", "constructive", "randomization"],
   "accepted_user_count": 188,
   "submission_count": null,
   "average_tries": 2.0957000255584717

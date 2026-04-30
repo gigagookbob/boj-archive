@@ -15,12 +15,7 @@
   "hint": "<p>이 문제를 풀어서 서울과학고등학교를 쪼개 버리자.</p>",
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2022 IamCoder Qualification Test, mjhmjh1104, arnold518, flappybird, songc",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "trees",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "trees", "set", "tree_set"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.0234999656677246

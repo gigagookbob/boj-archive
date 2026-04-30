@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2018 Day 3",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "offline_queries",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "offline_queries", "trie"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

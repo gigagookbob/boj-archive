@@ -15,10 +15,7 @@
   "hint": "<p>Case #1에서는 철수는 선택할 수 있는 2-오미노가 하나 밖에 없다--1*2짜리 직사각형. 2*2판은 1*2 직사각형 두개로 무조건 채울수 있으므로 동수 승!</p>\r\n\r\n<p>Case #2에서도 철수는&nbsp;선택할 수 있는 2-오미노가 하나 밖에 없다--1*2짜리 직사각형. 하지만 동수가 그 2-오미노를&nbsp;어느것에 놓더라도 1*1이 하나 남으므로 철수 승!</p>\r\n\r\n<p>Case #3에서 철수가 이길수 있는 방법은 2*2짜리 4-오미노를 선택하는 것이다. 1*4판에다가 2*2정사각형은 절대 넣을 수 없으므로 철수 승!</p>\r\n\r\n<p>Case #4에서는 1*3짜리 3-오미노 또는 L모양으로 생긴 3-오미노를&nbsp;선택해야 한다. 두 경우 모두 동수가 2*3판에 하나를 놓고 똑같은 모양 하나를 더 넣으면 되므로 동수 승!</p>\r\n",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Qualification Round, seanrocket17, cheetose",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "case_work"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.1064000129699707

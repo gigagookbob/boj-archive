@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2003, Day 2",
   "level": 19,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "constructive",
-    "dp",
-    "greedy"
-  ],
+  "tags": ["backtracking", "bitmask", "constructive", "dp", "greedy"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 7.5

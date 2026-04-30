@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1996",
   "level": 8,
-  "tags": [
-    "case_work",
-    "geometry"
-  ],
+  "tags": ["case_work", "geometry"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.850000023841858

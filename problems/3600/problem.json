@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2007",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "set",
-    "hashing",
-    "bitset"
-  ],
+  "tags": ["data_structures", "set", "hashing", "bitset"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.5

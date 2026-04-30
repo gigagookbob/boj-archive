@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, by removing all even-indexed characters of $s$, we obtain $s = thomas$, so we have $s = t$.</p>\n<p>In the second test case, the length of $s$ is less than the length of $t$, and if we perform any operations, the length of $s$ will only decrease. Therefore, $s$ can never equal $t$.</p>\n<p>In the third test case, we have $s = t$ even before performing any operations.</p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 9,
-  "tags": [
-    "string",
-    "recursion"
-  ],
+  "tags": ["string", "recursion"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.3333001136779785

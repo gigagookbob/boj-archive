@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, surung9898",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "lis"],
   "accepted_user_count": 415,
   "submission_count": null,
   "average_tries": 3.260200023651123

@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, the given string already has a goodness score of 1. Therefore the minimum number of operations required is 0.</p>\n<p>In Sample Case #2, one option is to change the character at index 1 to B in order to have a goodness score of 2. Therefore, the minimum number of operations required is 1.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round A",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 177,
   "submission_count": null,
   "average_tries": 1.655400037765503

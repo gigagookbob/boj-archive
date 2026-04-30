@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2020/2021 예선 2",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "set"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.3659000396728516

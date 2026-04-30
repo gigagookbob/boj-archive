@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2016 Spring RUN@KAIST Programming Contest, jihoon",
   "level": 13,
-  "tags": [
-    "bfs",
-    "data_structures",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "data_structures", "graphs", "graph_traversal"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 2.4742000102996826

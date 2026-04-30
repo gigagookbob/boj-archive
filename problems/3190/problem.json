@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2005, National Competition #1 - Juniors, sehun, dlwocks31, hax3, doju, joonas, zhsks311",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque", "queue"],
   "accepted_user_count": 28585,
   "submission_count": null,
   "average_tries": 2.3399999141693115

@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2016",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.2812999486923218

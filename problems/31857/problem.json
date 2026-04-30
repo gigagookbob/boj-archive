@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2024 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2024 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, wjdclgns12, 39dll, aym506, chlwnsgud7, dabbler1, dongggle, gumgood, jinhan814, jinik9903, lky7674, ths101, yooshnn",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "linked_list"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 4.1774001121521

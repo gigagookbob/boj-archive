@@ -23,12 +23,7 @@
   "hint": "<p>Sample Input 1 is depicted in the following figure. The dotted lines represent where the shutters are equipped.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 172px; height: 171px;\"/></p>\n<p style=\"text-align: center;\">Figure C.1. Sample Input 1</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Summer 2023, Day 1: Starting Contest",
   "level": 23,
-  "tags": [
-    "flow",
-    "graphs",
-    "implementation",
-    "planar_graph"
-  ],
+  "tags": ["flow", "graphs", "implementation", "planar_graph"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 5

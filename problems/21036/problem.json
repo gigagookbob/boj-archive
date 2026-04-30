@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2017",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "tree_set", "set"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 4.315800189971924

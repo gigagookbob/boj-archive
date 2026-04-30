@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 14: Grand Prix of Tokyo",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.850000023841858

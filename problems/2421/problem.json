@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2011 연습 세션, baekjoon",
   "level": 11,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "dp", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 340,
   "submission_count": null,
   "average_tries": 2.014699935913086

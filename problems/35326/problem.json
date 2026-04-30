@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2025-2026 Season, USACO 2026 First Contest, Bronze",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "greedy", "arithmetic", "case_work"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.3438000679016113

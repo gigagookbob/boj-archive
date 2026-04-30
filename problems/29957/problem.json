@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2018-19, Second Selection Competition",
   "level": 11,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.3870999813079834

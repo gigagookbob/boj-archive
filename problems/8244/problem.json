@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 2",
   "level": 16,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "offline_queries"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "offline_queries"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 4.708899974822998

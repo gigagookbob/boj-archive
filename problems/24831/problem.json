@@ -15,10 +15,7 @@
   "hint": "<p>The first case is explained in the description.</p>\n<p>In the second case, each rabbit will be at position $3$ and $7$ respectively at the $1$-st second. But in the $2$-nd second they will be at $6$ and $4$ respectively, and we can see that they will never be at the same position since the distance between the two rabbits will only increase afterward.</p>",
   "source": "Contest, Codeforces, Codeforces Round 620 (Div. 2), djm03178",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 202,
   "submission_count": null,
   "average_tries": 1.2178000211715698

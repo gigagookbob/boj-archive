@@ -23,10 +23,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera:</p>\n<p>U prvom upitu karte će se ovako mijenjati tijekom koraka: $$(4, 8, 2, 0) → (4, 2) → (2)$$</p>\n<p>U trećem upitu karte će se ovako mijenjati tijekom koraka: $$(8, 2) → (6)$$</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Final Exam #1",
   "level": 18,
-  "tags": [
-    "dp",
-    "mitm"
-  ],
+  "tags": ["dp", "mitm"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

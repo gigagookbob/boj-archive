@@ -23,13 +23,7 @@
   "hint": "<p>Pojašnjenje drugog probnog primjera:</p>\n<p>Primjer valjane dodjele bonusa je sljedeći: zaposlenici dobiju redom $1$, $1$, $0$, $2$ i $3$ bonusa.</p>\n<p>Dodjela $1$, $1$, $1$, $2$, $3$ nije valjana jer ukupni broj dodijeljenih bonusa premašuje dozvoljeni proračun.</p>\n<p>Dodjela $0$, $1$, $1$, $2$, $3$ također nije valjana jer je zaposlenik $2$ dobio bonus, a njegov izravni šef nije.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2025, Final Exam #1",
   "level": 21,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "knapsack",
-    "euler_tour_technique"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "knapsack", "euler_tour_technique"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

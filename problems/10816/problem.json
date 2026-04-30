@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon, cko301, mwy3055, wkd48632, bumsoo0515, emppu, jh05013",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "binary_search",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "binary_search", "set", "hash_set"],
   "accepted_user_count": 60823,
   "submission_count": null,
   "average_tries": 2.5160999298095703

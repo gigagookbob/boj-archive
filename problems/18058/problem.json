@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2019",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["bruteforcing", "sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.3437999486923218

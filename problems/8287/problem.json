@@ -15,11 +15,7 @@
   "hint": "<p>The cyclic fragment AABAAB occurs in the given word 4 times: once as AABAAB, twice as ABAABA and once as BAABAA. The cyclic fragment AAB occurs in this word 10 times.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2011",
   "level": 19,
-  "tags": [
-    "graphs",
-    "hashing",
-    "string"
-  ],
+  "tags": ["graphs", "hashing", "string"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 5.1875

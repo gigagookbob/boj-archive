@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2025 Goricon, hamuim, gs22059, hyperbolic, jthis, kdy40929, kidw0124, woohyun_jng",
   "level": 18,
-  "tags": [
-    "graphs",
-    "greedy",
-    "ad_hoc",
-    "functional_graph"
-  ],
+  "tags": ["graphs", "greedy", "ad_hoc", "functional_graph"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.09089994430542

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2010",
   "level": 21,
-  "tags": [
-    "implementation",
-    "parsing",
-    "recursion",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "recursion", "string"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 5

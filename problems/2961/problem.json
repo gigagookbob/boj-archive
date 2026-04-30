@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #2, baekjoon, simdsme1, kipa00",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "bitmask", "backtracking"],
   "accepted_user_count": 9688,
   "submission_count": null,
   "average_tries": 1.76419997215271

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2004, 고등부, pkcchoi3, deuslovelt, jyheo98, logwns, yclock, ynifamily3, upple1",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["dp", "greedy", "binary_search", "parametric_search"],
   "accepted_user_count": 1812,
   "submission_count": null,
   "average_tries": 3.739000082015991

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "author6, lll4592, slah007",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 926,
   "submission_count": null,
   "average_tries": 1.4773000478744507

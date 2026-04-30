@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, DGIST, 2024 DGIST 알고리즘 경진대회, 99asdfg, bnb2011, jinhan814, jyheo98, leo020630, sjhi00, tlsdydaud1, yyyy7089",
   "level": 13,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.7083001136779785

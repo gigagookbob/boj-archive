@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 15,
-  "tags": [
-    "dp",
-    "trees",
-    "recursion"
-  ],
+  "tags": ["dp", "trees", "recursion"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 2.5104000568389893

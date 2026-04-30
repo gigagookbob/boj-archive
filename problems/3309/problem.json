@@ -15,12 +15,7 @@
   "hint": "<p>Your friend can accept both offers, renting out rooms number 2 and 3.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2011, Day 2",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "tree_set"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.9642999172210693

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, November 12, 2010, Advanced",
   "level": 15,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "euler_phi"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.105299949645996

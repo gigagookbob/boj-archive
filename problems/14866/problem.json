@@ -23,12 +23,7 @@
   "hint": "<p>예제 1의 경우에 2번 방을 제거하는 것으로 가능하고, 3번 방을 제거하는 것으로도 가능하다.</p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2017, 중등부, usj0119",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "articulation"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "articulation"],
   "accepted_user_count": 348,
   "submission_count": null,
   "average_tries": 2.629300117492676

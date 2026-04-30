@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2021 KAIST RUN Spring Contest, juney, koosaga, aeren, cs71107, jh05013, taeyeon_ss",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "two_pointer"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 4.671899795532227

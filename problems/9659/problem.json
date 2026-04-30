@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, cachij",
   "level": 8,
-  "tags": [
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["game_theory", "parity"],
   "accepted_user_count": 4303,
   "submission_count": null,
   "average_tries": 1.5235999822616577

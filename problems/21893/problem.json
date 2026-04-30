@@ -19,10 +19,7 @@
   "hint": "<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td>First example</td>\n<td>Second example</td>\n</tr>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 500px; height: 500px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 500px; height: 500px;\"/></td>\n</tr>\n</tbody>\n</table>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Elimination round 2, 2017-2018",
   "level": 14,
-  "tags": [
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["geometry", "sweeping"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

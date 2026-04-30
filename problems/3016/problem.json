@@ -15,11 +15,7 @@
   "hint": "<p>Note that you are not required to print an optimal solution.</p>\n<p>For each test case your solution will be awarded</p>\n<p>round(min(1, (author_score / your_score))<sup>2</sup> * test_score)</p>\n<p>points, where author_score is the result, found by the author’s solution, your_score is the result of your solution, and test_score is the maximal score for the given test case. </p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2011, Group A (Seniors)",
   "level": 0,
-  "tags": [
-    "geometry",
-    "randomization",
-    "heuristics"
-  ],
+  "tags": ["geometry", "randomization", "heuristics"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 5.054100036621094

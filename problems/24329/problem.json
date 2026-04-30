@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2020, Group C",
   "level": 10,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.0555999279022217

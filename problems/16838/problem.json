@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2014 Day 2, Camp, Petrozavodsk Programming Camp, Winter 2015, Day 2: Makoto Soejima Contest 1, Japanese Grand Prix, Contest, Open Cup, 2014/2015 Season, Stage 6: Grand Prix of Japan",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.4667000770568848

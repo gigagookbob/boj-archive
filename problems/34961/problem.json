@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2025, mingyu331, kdy40929, kuhyaku, ncy09, octane, realpsdoingdamyoo, utilforever, yijw0930",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "sqrt_decomposition"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 5.428599834442139

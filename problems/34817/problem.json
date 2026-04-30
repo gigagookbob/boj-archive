@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 서울대학교, 2025 SCSC 알고리즘 대난투, terrasphere, leo020630, mujigae, ohwphil, sjh1224, sjhi00, sorohue, swoon, tony9402, toycartoon, yijw0930",
   "level": 12,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 2.0088000297546387

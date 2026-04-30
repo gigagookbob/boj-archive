@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 소는 2초에 도착하고 3초에 농장을 입장한다. 그 다음에는 세 번째 소가 5초에 도착하여 12초에 농장을 입장한다. 마지막으로 두 번째 소가 8초에 오는데, 세 번째 소가 검문을 받고 있으므로 12초까지 기다린 뒤 15초에 농장을 입장한다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 February Contest, Bronze, jh05013, doju",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 4155,
   "submission_count": null,
   "average_tries": 1.4693000316619873

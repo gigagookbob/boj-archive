@@ -23,10 +23,7 @@
   "hint": "<p>문자열 S의 접두사는 S의 부분 문자열 중에서 시작이 첫 번째 문자인 것이고, 접미사는 끝이 마지막 문자인 것이다.</p>\n<p>S = \"hello\"인 경우 접두사는 다음과 같이 5가지가 있다.</p>\n<ul>\n<li>h</li>\n<li>he</li>\n<li>hel</li>\n<li>hell</li>\n<li>hello</li>\n</ul>\n<p>접미사는 다음과 같다.</p>\n<ul>\n<li>o</li>\n<li>lo</li>\n<li>llo</li>\n<li>ello</li>\n<li>hello</li>\n</ul>",
   "source": "baekjoon",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 237,
   "submission_count": null,
   "average_tries": 3.303800106048584

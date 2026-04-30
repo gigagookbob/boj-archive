@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2016",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "trees",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "trees", "set", "hash_set"],
   "accepted_user_count": 416,
   "submission_count": null,
   "average_tries": 1.7763999700546265

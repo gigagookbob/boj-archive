@@ -23,10 +23,7 @@
   "hint": "<p>In the first example test, there are $4$ ways to finish the painting, as illustrated below:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 506px; height: 100px;\"/></p>\n<p>In the second example test, there is a single way to finish the painting:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 145px; height: 145px;\"/></p>\n<p>In the third example test, regardless of how Eva draws the triangle in the center cell, it will share two sides with black squares.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 18,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.4615000486373901

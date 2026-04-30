@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2016 Spring RUN@KAIST Programming Contest, ho94949",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 151,
   "submission_count": null,
   "average_tries": 2.60260009765625

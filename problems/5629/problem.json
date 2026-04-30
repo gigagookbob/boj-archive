@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2012 ACM-ICPC Asia Hatyai Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "sorting",
-    "geometry",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "geometry", "two_pointer"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 8.5

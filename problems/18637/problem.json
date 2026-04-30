@@ -15,10 +15,7 @@
   "hint": "<p>The sample output is incorrect. In fact, it is a program which, starting from the state where the two rightmost bits are x and y and the other bits are zeroes, comes to the state where all the bits are zeroes and the third bit (1-indexing) is the Sheffer stroke of x and y (which is ¬(x ∧ y)).</p>\n<p>Below is an example of how it works for x = y = 1:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 728px; height: 724px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 6: MIPT Contest",
   "level": 27,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2001",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "recursion",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "greedy", "recursion", "arbitrary_precision"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

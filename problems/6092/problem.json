@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2002",
   "level": 9,
-  "tags": [
-    "dp",
-    "precomputation"
-  ],
+  "tags": ["dp", "precomputation"],
   "accepted_user_count": 161,
   "submission_count": null,
   "average_tries": 2.099400043487549

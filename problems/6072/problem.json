@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO December 2008 Contest, Gold",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "functional_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "functional_graph"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.5925999879837036

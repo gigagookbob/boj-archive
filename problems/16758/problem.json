@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #3",
   "level": 17,
-  "tags": [
-    "sorting",
-    "sweeping",
-    "offline_queries"
-  ],
+  "tags": ["sorting", "sweeping", "offline_queries"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.0999999046325684

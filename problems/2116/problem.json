@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 75px; height: 236px;\"/></p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2003, 초등부, ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2005",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 4032,
   "submission_count": null,
   "average_tries": 1.7731000185012817

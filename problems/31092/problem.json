@@ -23,11 +23,7 @@
   "hint": "<p>문자열 $T$의 부분 문자열이란, 문자열 $T$에서 연속된 일부분에 해당하는 문자열을 의미한다. 예를 들어 문자열 $T$가 <code>\"goodbyeboj\"</code>이라면 <code>\"goo\"</code>, <code>\"db\"</code>, <code>\"j\"</code>는 $T$의 부분 문자열이고, <code>\"a\"</code>, <code>\"god\"</code>, <code>\"job\"</code>는 $T$의 부분 문자열이 아니다.</p>",
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2023!, wapas, ahgus89, cgiosy, cs71107, jhnah917, jhwest2, junseo, kyo20111",
   "level": 15,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 2.6308999061584473

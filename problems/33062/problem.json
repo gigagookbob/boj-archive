@@ -15,9 +15,7 @@
   "hint": "<p>Consider the second test case in the sample. $48$ should be counted because $48$\nchain rounded to the nearest $10^2$ is $100$ ($48\\to 50\\to 100$), but $48$\nrounded to the nearest $10^2$ is\n$0$.\n\n</p><p>In the third test case, two integers counted are $48$ and $480$. $48$ chain \nrounds to $100$ instead of to $0$ and $480$ chain rounds to $1000$ instead of\n$0$.  However, $67$ is not counted since it chain rounds to $100$ which is $67$\nrounded to the nearest $10^2$.\n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2024 December Contest, Bronze",
   "level": 9,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 2.477400064468384

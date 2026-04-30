@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 3: Ural Contest, Contest, Open Cup, 2017/2018 Season, Stage 2: Grand Prix of Ural",
   "level": 21,
-  "tags": [
-    "graphs",
-    "sqrt_decomposition"
-  ],
+  "tags": ["graphs", "sqrt_decomposition"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3

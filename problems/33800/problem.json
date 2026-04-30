@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, Thomas buys just the $A1$ pack from Liza for a total of $1^2 = 1$ cups.</p>\n<p>In the second test case, Thomas can buy the $A1$ and $A3$ packs from Liza for a total of $1^2 + 3^2 = 10$ cups.</p>\n<p>In the third test case, Thomas can buy the $A2$ and $B2$ packs from Liza for a total of $2^2 + 2*2^2 = 12$ cups.</p>\n<p>In the fourth test case, Thomas can buy the $A3$, $B2$, $B1$, and $A1$ packs from Liza for a total of $3^2 + 2*2^2 + 2*1^2 + 1^2 = 20$ cups.</p>",
   "source": "University, Rutgers University, Rutgers University Programming Contest Spring 2025",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "bitmask"
-  ],
+  "tags": ["math", "number_theory", "bitmask"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.4230999946594238

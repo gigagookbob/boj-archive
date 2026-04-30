@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 15 June, 2008, chan4928",
   "level": 15,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 561,
   "submission_count": null,
   "average_tries": 4.151500225067139

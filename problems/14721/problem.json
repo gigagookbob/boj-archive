@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 충남대학교, 생각하는 프로그래밍 대회, amok, doju",
   "level": 6,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 401,
   "submission_count": null,
   "average_tries": 2.3914999961853027

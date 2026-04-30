@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2016",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "greedy", "ad_hoc"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.6666998863220215

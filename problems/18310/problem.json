@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ndb796, pichulia",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 6943,
   "submission_count": null,
   "average_tries": 2.7088000774383545

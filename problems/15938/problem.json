@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2018, sukh1222",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs"
-  ],
+  "tags": ["dp", "graphs"],
   "accepted_user_count": 279,
   "submission_count": null,
   "average_tries": 5.046599864959717

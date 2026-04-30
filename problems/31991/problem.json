@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 Fall Creative Problem Solving, flakepowders, iktk, nflight11, utilforever",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 7

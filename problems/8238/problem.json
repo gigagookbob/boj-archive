@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 1",
   "level": 23,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.200000047683716

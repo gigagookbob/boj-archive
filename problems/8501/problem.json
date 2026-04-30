@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2009",
   "level": 23,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "bulldozer"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "bulldozer"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.700000047683716

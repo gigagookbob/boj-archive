@@ -27,10 +27,7 @@
   "hint": "<p>In the first sample, Alice can choose substring <code>10</code> of <code>010</code> and reverse it, obtaining string <code>001</code>. Bob can’t make any move with this string, and loses.</p>\n<p>In the second sample, Alice can’t make a single move and loses.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2020, Contest, Open Cup, 2020/2021 Season, Stage 17: Grand Prix of Southern Europe",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 157,
   "submission_count": null,
   "average_tries": 1.7516000270843506

@@ -23,13 +23,7 @@
   "hint": "<p><strong>Pojašnjenje trećeg test primjera:</strong></p>\n<table class=\"table table-bordered\">\n<thead>\n<tr>\n<th style=\"width:25%;\">iz stanja</th>\n<th style=\"width:25%;\">u prvom koraku pomičemo polje 6 na prazno polje X</th>\n<th style=\"width:25%;\">u drugom koraku pomičemo polje 5 na prazno polje X</th>\n<th style=\"width:25%;\">u trećem koraku pomičemo polje 8 na prazno polje X</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"5.png\" style=\"width: 98px; height: 98px;\"/></td>\n<td><img alt=\"\" src=\"6.png\" style=\"width: 98px; height: 98px;\"/></td>\n<td><img alt=\"\" src=\"7.png\" style=\"width: 98px; height: 98px;\"/></td>\n<td><img alt=\"\" src=\"8.png\" style=\"width: 98px; height: 98px;\"/></td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2014, Junior Croatian Olympiad in Informatics 2014",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "set",
-    "bfs",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "set", "bfs", "traceback"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.5788999795913696

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand First Round Online, Thailand First Round Online 2014",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "hashing",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "hashing", "string", "trees", "trie"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 4.888899803161621

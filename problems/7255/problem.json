@@ -19,13 +19,7 @@
   "hint": "<ul>\n<li>1 ≤ N ≤ 100 000</li>\n<li>0 ≤ M ≤ 100 000</li>\n<li>1 ≤ S<sub>i</sub> ≤ 100</li>\n<li>1 ≤ v<sub>i</sub>, u<sub>i</sub> ≤ N</li>\n<li>Visos poros (v<sub>i</sub>, u<sub>i</sub>) skirtingos ir v<sub>i</sub> ≠ u<sub>i</sub>.</li>\n</ul>",
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2021/2022, National Round (2), 7-9 Classes, Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2021/2022, National Round (2), 10-12 Classes",
   "level": 12,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "greedy",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["graphs", "data_structures", "greedy", "disjoint_set", "mst"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.2188000679016113

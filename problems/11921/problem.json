@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, doju",
   "level": 0,
-  "tags": [
-    "implementation",
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["implementation", "arithmetic", "math"],
   "accepted_user_count": 721,
   "submission_count": null,
   "average_tries": 7.4243998527526855

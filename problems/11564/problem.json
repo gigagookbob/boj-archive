@@ -19,11 +19,7 @@
   "hint": "<p>수를 저장할 때, int 타입의 변수는 32bit에 데이터를 담으므로 큰 범위의 수를 저장할 수 없다. 따라서 64bit에 데이터를 담는 long long(format string : %lld) 타입의 변수 사용을 권한다. </p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2015 Sogang Programming Contest, Master, HyehwA",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "case_work"
-  ],
+  "tags": ["math", "number_theory", "case_work"],
   "accepted_user_count": 465,
   "submission_count": null,
   "average_tries": 3.720400094985962

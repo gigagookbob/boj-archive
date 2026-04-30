@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2009, baekjoon, namnamseo",
   "level": 20,
-  "tags": [
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["greedy", "binary_search"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.6110999584198

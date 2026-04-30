@@ -15,10 +15,7 @@
   "hint": null,
   "source": "79brue, keunbum, Nyan101, tncks0121, WeissBlume, eric00513, klm03025, yuja, 79brue, djm03178, jh05013",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 17643,
   "submission_count": null,
   "average_tries": 3.7086000442504883

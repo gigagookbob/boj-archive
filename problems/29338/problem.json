@@ -15,13 +15,7 @@
   "hint": "<p>После выполнения операций <code>add</code> и <code>take</code> на столе будет лежать пять мечей в следующем порядке: 1 2 4 3 5. После чего придет мама Оби-Вана Кеноби, возьмет мечи с номерами 1 и 2, и положит их права от оставшихся трех мечей на столе.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, November 17, 2012, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, November 17, 2012, Advanced",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "stack",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "stack", "deque"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.9443999528884888

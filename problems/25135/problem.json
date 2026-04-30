@@ -23,11 +23,7 @@
   "hint": "<p><strong>Pojašnjenje prvog probnog primjera:</strong> U prvom primjeru nemoguće je postići ogradu ukupne duljine $1$, ako režemo $3$. stabljiku na visini $0$ onda moramo i $4$. stabljiku na visini $0$. Analogno ako režemo $4$. stabljiku, moramo rezati $3$. stabljiku. Za sve brojeve od $2$ do $7$ postoji točno jedan način za postići tu ogradu, od $2$ do $6$ rezanjem $4$. stupca te $7$ ne čineći ništa. Ogradu ukupne duljine $0$ moguće je postići rezanjem svega na visini $0$.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2021",
   "level": 21,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 5

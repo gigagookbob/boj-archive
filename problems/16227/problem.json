@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제2회 웰노운컵 Day 2, jung2381187",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 2.2802999019622803

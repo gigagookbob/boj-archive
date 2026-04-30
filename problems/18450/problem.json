@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 1: 300iq Contest, 300iq",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "hall",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "hall", "lazyprop", "segtree"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.2083001136779785

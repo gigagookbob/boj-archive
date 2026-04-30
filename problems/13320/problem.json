@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 꼬마컵, 꼬마컵, zlzmsrhak",
   "level": 16,
-  "tags": [
-    "graphs",
-    "constructive",
-    "flow"
-  ],
+  "tags": ["graphs", "constructive", "flow"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.355600118637085

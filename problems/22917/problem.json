@@ -15,13 +15,7 @@
   "hint": "<p>In Sample Case #1, there is a single icing patch. The optimal cut is to the left of the patch. You will eat no icing and receive 0 enjoyment. Your twin will eat all of the icing patch and receive 5 enjoyment from it. The absolute value of the difference between your and your twin's enjoyments is |0−5|=5.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"3.png\"/></p>\n<p>In Sample Case #2, there are two icing patches. The optimal cut is at X = 15099999.99. Notice that the numerator and denominator of the answer can get very large.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\"/> <img alt=\"\" src=\"5.png\"/></p>\n<p>In Sample Case #3, there are two icing patches. The optimal cut is at X = 4. You will eat 75% of the first icing patch and receive −3 enjoyment from it. Your twin will eat 25% of the first icing patch and all of the second icing patch getting 5 ⋅ 0.25 + 5 = 6.25 enjoyment. The absolute value of the difference between your and your twin's enjoyments is |−3 − 6.25| = 9.25 = 37/4.</p>\n<p>Notice that cutting at X = 1 would give you 0 enjoyment and your twin 10 enjoyment. While both of those values are greater than the corresponding enjoyment when cutting at X = 4, the difference between them is 10 &gt; 9.25, which means cutting at X = 4 is preferable anyway.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"6.png\"/> <img alt=\"\" src=\"7.png\"/></p>\n<p>In Sample Case #4, there are three icing patches. The optimal cut is at X ≈ 521241077.6027.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, World Finals",
   "level": 20,
-  "tags": [
-    "arbitrary_precision",
-    "calculus",
-    "fft",
-    "math",
-    "sweeping"
-  ],
+  "tags": ["arbitrary_precision", "calculus", "fft", "math", "sweeping"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

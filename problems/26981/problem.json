@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO February 2006 Contest, Gold, Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO February 2006 Contest, Silver",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.1373000144958496

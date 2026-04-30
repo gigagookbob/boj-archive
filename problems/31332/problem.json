@@ -15,11 +15,7 @@
   "hint": "<p>The example contains three test cases.</p>\n<p>In the first test case, the length of the shortest path is six steps: the only shortest path is \"<code>DRRRDD</code>\". Other than that, there are three simple paths which are not the shortest: these are the paths \"<code>DDRURRDD</code>\" and \"<code>DRRURDDD</code>\" of length $8$, and the path \"<code>DDRURURDDD</code>\" of length $10$. Any of them can be printed.</p>\n<p>In the second test case, there are eight possible simple paths, but they all have the same length, and thus all are the shortest paths.</p>\n<p>In the third test case, there is no path from the upper left corner of the field to the lower right one consisting of empty cells.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 5: Grand Prix of Peterhof",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "backtracking",
-    "bruteforcing"
-  ],
+  "tags": ["ad_hoc", "backtracking", "bruteforcing"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

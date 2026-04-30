@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제1회 초콜릿컵, bubbler, sait2000, sangyoon9, tlsdydaud1, wider93",
   "level": 15,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.5573999881744385

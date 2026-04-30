@@ -15,11 +15,7 @@
   "hint": "<p>Explanation for Hexapus</p>\n<p>In decimal numbers, each place represents 10x the value of the place to its right, so 1,000s, 100s, 10s and 1s. 397 is 3 x 100 + 9 x 10 + 7. The hexapus (whatever one of those is!) uses 16 digits, 0 to 9 and A to F. With 16 digits, the places are 16x the value of the place to its right, so 3,364s, 256s, 16s and 1s.</p>\n<p>18D for a hexapus is 1 x 256 + 8 x 16 + D (which is 13 in decimal) which is 256 + 128 + 13 which is 397 in decimal numbers. In the problem, you have to work backwards and convert 397 decimal to 18D.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2015",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory"
-  ],
+  "tags": ["math", "implementation", "number_theory"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 1.437000036239624

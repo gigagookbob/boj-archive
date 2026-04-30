@@ -15,11 +15,7 @@
   "hint": "<p>Приведем все 25 возможных позиций для примера из условия:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 662px; height: 203px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2006",
   "level": 20,
-  "tags": [
-    "arbitrary_precision",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, youngminz",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 44861,
   "submission_count": null,
   "average_tries": 1.802899956703186

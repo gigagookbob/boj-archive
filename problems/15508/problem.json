@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Startlink Online Contest, Startlink Online Contest #1, haden, doju, isku, njw1204",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "disjoint_set"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 2.0741000175476074

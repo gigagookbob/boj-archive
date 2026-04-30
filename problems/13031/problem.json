@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 13,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.6110999584197998

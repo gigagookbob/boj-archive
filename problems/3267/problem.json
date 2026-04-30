@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, National Competition #2 - Seniors",
   "level": 17,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "graphs", "trees"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.5476000308990479

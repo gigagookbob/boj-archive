@@ -15,10 +15,7 @@
   "hint": "<p>Sample Input, here in text form, not binary, for obvious reasons.</p>\n<p>바이너리 형식의 예제 입력은 <a href=\"https://www.acmicpc.net/data/9265.in\">https://www.acmicpc.net/data/9265.in</a> 에서 받을 수 있다.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2013",
   "level": 10,
-  "tags": [
-    "implementation",
-    "binary_search"
-  ],
+  "tags": ["implementation", "binary_search"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 8.366700172424316

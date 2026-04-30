@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2014",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree"
-  ],
+  "tags": ["data_structures", "sorting", "segtree"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.2143000364303589

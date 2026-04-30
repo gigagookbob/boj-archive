@@ -23,13 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Kupovina se mogla odvijati ovako: Mirko će u prvom danu kupiti slike starosti $4$ i $5$, a Slavko će kupiti sliku starosti $1$.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Junior Final Exam #2",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "trees",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "trees", "tree_set", "set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.399999976158142

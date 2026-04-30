@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2024 Local Programming Contest (Final Round)",
   "level": 13,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.0666999816894531

@@ -15,12 +15,7 @@
   "hint": "<p><strong>Warning:</strong> The numerator and denominators for all of the final probabilities can be expressed as 32-bit integers. However, depending on your approach, you may need 64-bit integers (type <strong><code>long</code></strong> in Java or <strong><code>long long</code></strong> in C++) for some intermediate calculations, and even then you must be careful.</p>",
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2013 Mid-Central Regional Programming Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "probability",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "probability", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.1538000106811523

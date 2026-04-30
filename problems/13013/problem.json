@@ -31,10 +31,7 @@
   "hint": "<ul>\n<li>예제 1: aaba</li>\n<li>예제 2: aaaa</li>\n<li>예제 3: aaab</li>\n</ul>",
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["string", "suffix_array"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 1.521399974822998

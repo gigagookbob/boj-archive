@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, UNIST-DGIST-POSTECH, 2025 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2025 UDPC), Senior Division, leo020630, jinhan814, jthis, playsworld16, queued_q, slah007, tony9402",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "prefix_sum",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "prefix_sum", "lazyprop"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.90910005569458

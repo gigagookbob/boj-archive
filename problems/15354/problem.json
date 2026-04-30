@@ -23,9 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​second​ ​test​ ​case: First in line is the group consisting of two people in red shirts. Second in line is an individual in the blue shirt, third in line is an individual in the red shirt, and fourth in line is a group in green shirts. This makes Aron fifth in line.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #3",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 497,
   "submission_count": null,
   "average_tries": 1.2031999826431274

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2024, Day 7: Farewell Contest",
   "level": 26,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "fft",
-    "generating_function"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "fft", "generating_function"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

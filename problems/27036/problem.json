@@ -15,13 +15,7 @@
   "hint": "<p>At 1:00am the gate is raised 5 inches, then it is lowered 10 inches at 1:30am, and finally it is raised 1 inch at 1:30pm.</p>\n<p>Since we know the gate is closed at some point in time, this must have been the interval from 1:30am to 1:30pm, which lasted for 12 hours (720 minutes).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO February 2004 Contest, Blue",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "simulation",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "sorting", "simulation", "parsing"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 5.105299949645996

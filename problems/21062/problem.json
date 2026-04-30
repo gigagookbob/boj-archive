@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 2: UPC Contest",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "mst"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.3437999486923218

@@ -10,11 +10,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2021 Fall PPS Final Mock Exam, parkky, chansol, jh05013, tony9402",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.2683000564575195

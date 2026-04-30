@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 22,
-  "tags": [
-    "math",
-    "divide_and_conquer",
-    "exponentiation_by_squaring",
-    "fft"
-  ],
+  "tags": ["math", "divide_and_conquer", "exponentiation_by_squaring", "fft"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.5303000211715698

@@ -15,12 +15,7 @@
   "hint": "<p>Here, Bessie must have cards 2, 5, and 6, and 7 in her hand, and she can use these to win at most 3 points. For example, she can defeat the 1 card and then switch the rules to \"low card wins\", after which she can win two more rounds.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO December 2015 Contest, Platinum",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "set"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 1.8246999979019165

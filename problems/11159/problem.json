@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2013",
   "level": 12,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.9355000257492065

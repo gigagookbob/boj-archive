@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Lemon Cup, Lemon Cup, kuhyaku, byunjaewoo, jthis, pk661, realpsdoingdamyoo, ryanson, utilforever, woohyun_jng",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "offline_queries"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.7894999980926514

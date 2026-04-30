@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2013 ACM-ICPC Thailand National Programming Contest, baekjoon",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 561,
   "submission_count": null,
   "average_tries": 1.5364999771118164

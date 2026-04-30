@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "stack",
-    "recursion"
-  ],
+  "tags": ["data_structures", "stack", "recursion"],
   "accepted_user_count": 3019,
   "submission_count": null,
   "average_tries": 2.6777000427246094

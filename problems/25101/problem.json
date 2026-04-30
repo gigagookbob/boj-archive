@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2021 연습 세션",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "priority_queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "priority_queue"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.649399995803833

@@ -15,10 +15,7 @@
   "hint": "<p>In the query '0', all wires are broken, and only the value $10$ at address $0$ is readable.</p>\n<p>In the query '15', the first $4$ wires are working and all values are readable.</p>\n<p>In the last query, only the values $10$ and $1$ are readable.</p>",
   "source": "Olympiad, Estonian Informatics Olympiad, 2018-19, Open Competition",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "dp"
-  ],
+  "tags": ["bitmask", "dp"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

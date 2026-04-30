@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2017",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "tree_set",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "tree_set", "sqrt_decomposition"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 5.375

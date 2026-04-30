@@ -15,10 +15,7 @@
   "hint": "<p>두 번째 예제의 경우 A, B, C, AB, BC, ABC 총 여섯 개의 문자열이 존재한다.</p>\r\n\r\n<p>세 번째 예제의 경우 A, B, AB 총 세 개의 문자열이 존재한다.</p>\r\n",
   "source": null,
   "level": 19,
-  "tags": [
-    "bitmask",
-    "bitset"
-  ],
+  "tags": ["bitmask", "bitset"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 4.13640022277832

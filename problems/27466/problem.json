@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Winter Contest, eric00513, eaststar, flakepowders, heeda0528, hjroh0315, jk410, kiwiyou, martinok1103, ssamt, tony9402, vector, whqkrkt04, wizardrabbit",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 504,
   "submission_count": null,
   "average_tries": 2.9900999069213867

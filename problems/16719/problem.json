@@ -23,11 +23,7 @@
   "hint": "<p>ZOAC는 한양대학교 ERICA 알고리즘 학회 ‘영과일’에서 주최하는 알고리즘 대회 Zero One Algorithm Contest 의 약자이다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2018, hellogaon",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "recursion"
-  ],
+  "tags": ["implementation", "string", "recursion"],
   "accepted_user_count": 1765,
   "submission_count": null,
   "average_tries": 1.8345999717712402

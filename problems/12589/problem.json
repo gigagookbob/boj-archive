@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Qualification Round",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation",
-    "bitmask"
-  ],
+  "tags": ["math", "implementation", "simulation", "bitmask"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.5

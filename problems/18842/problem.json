@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2019/2020 Spring Training Camp",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["ad_hoc", "binary_search", "graphs", "graph_traversal"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.3513998985290527

@@ -15,9 +15,7 @@
   "hint": "<p>Here is where the permutation occurs in the matrix from the example:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 50px; height: 62px;\"/>     <img alt=\"\" src=\"2.png\" style=\"width: 50px; height: 60px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 8: Petrozavodsk SU Contest",
   "level": 14,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.6169999837875366

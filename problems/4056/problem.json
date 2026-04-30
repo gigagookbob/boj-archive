@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2008 East Central Regional Contest, ojh3316, topgun0209",
   "level": 12,
-  "tags": [
-    "implementation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "backtracking"],
   "accepted_user_count": 285,
   "submission_count": null,
   "average_tries": 4.396500110626221

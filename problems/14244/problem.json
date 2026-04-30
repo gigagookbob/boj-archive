@@ -27,10 +27,7 @@
   "hint": null,
   "source": null,
   "level": 7,
-  "tags": [
-    "trees",
-    "constructive"
-  ],
+  "tags": ["trees", "constructive"],
   "accepted_user_count": 1325,
   "submission_count": null,
   "average_tries": 1.4905999898910522

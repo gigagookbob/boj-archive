@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #3, Division 1, cologne, kipa00, solvedac, cologne, gs18115, moonrabbit2, seonah",
   "level": 22,
-  "tags": [
-    "math",
-    "combinatorics",
-    "fft"
-  ],
+  "tags": ["math", "combinatorics", "fft"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.9393999576568604

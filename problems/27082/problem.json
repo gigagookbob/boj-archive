@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO February 2002 Contest, Green or Orange",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3

@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2012",
   "level": 14,
-  "tags": [
-    "backtracking",
-    "data_structures",
-    "parsing",
-    "stack",
-    "string"
-  ],
+  "tags": ["backtracking", "data_structures", "parsing", "stack", "string"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

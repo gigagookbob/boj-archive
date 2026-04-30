@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, October 23, 2021",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["binary_search", "dp", "dp_tree", "trees"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

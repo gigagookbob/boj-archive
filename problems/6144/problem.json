@@ -15,10 +15,7 @@
   "hint": "<p>Without the second possible charm, the 4+12+7=23 is the highest value for weight 1+2+3 &lt;= 6</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO December 2007 Contest, Silver",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 441,
   "submission_count": null,
   "average_tries": 1.988700032234192

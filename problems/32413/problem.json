@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 2024 충남대학교 SW-IT Contest, kaorin, kckyoung2, kiwiyou, pani, sait2000, utilforever, yyyy7089",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "pst",
-    "cdq"
-  ],
+  "tags": ["data_structures", "segtree", "pst", "cdq"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.09089994430542

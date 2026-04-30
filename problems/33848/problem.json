@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2025 부산대학교 프로그래밍 대회 (PNUPC), Division 1",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 1.8020000457763672

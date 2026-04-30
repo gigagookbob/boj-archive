@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Junior Division, jh05013",
   "level": 1,
-  "tags": [
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["implementation", "geometry"],
   "accepted_user_count": 186328,
   "submission_count": null,
   "average_tries": 1.6398999691009521

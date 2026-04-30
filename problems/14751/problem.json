@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2017",
   "level": 21,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "convex_hull",
-    "cht"
-  ],
+  "tags": ["geometry", "binary_search", "convex_hull", "cht"],
   "accepted_user_count": 232,
   "submission_count": null,
   "average_tries": 4.978400230407715

@@ -27,9 +27,7 @@
   "hint": "<p>For the first sample test case, choose $l = 1$ and $r = 2$ and we'll result in the sequence $\\{4, 4, 4, 4, 4\\}$. The mode number is obviously $4$ which appears $5$ times.</p>\n<p>For the second sample test case, choose $l = 4$ and $r = 6$ and we'll result in the sequence $\\{3, 2, 3, 3, 3, 3, 3\\}$. The mode number is $3$ which appears $6$ times.</p>\n<p>For the fourth sample test case, choose not to perform the operation. The mode number is $1$ and $-2$ which both appear $3$ times.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 9: Grand Prix of Nanjing",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 3.88100004196167

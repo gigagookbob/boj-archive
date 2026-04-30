@@ -15,10 +15,7 @@
   "hint": "<p>Swap the wire numbered 3 at the top to the left and then to the left again.  Do the same to the wire numbered 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO November 2003 Contest, Orange",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "greedy"
-  ],
+  "tags": ["ad_hoc", "greedy"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.440000057220459

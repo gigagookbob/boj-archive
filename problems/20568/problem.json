@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample, the optimal arrangement is $[1, 1, 1, 2, 2, 2]$. Then the students at indices $2, 3, 5$ and $6$ ($1$-indexed) are crying. No other arrangement has fewer crying children.</p>\n<p>In the second sample, all of the kids have the same number of rocks, so any arrangement of them results in two crying children.</p>",
   "source": ", University, UT Invitational Programming Contest, UT Invitational Programming Contest 2019",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 1.1157000064849854

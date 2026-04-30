@@ -19,12 +19,7 @@
   "hint": "<p>예제 입출력 1에서, 원래의 고기는 -10℃로 얼어 있다. 걸리는 시간은 아래와 같다.</p>\r\n\r\n<ul>\r\n\t<li>-10℃에서 0℃까지 데우는 데 5&times;10=50 초</li>\r\n\t<li>0℃인 고기를 해동하는 데 10 초</li>\r\n\t<li>0℃에서 20℃까지 데우는 데 3&times;20=60 초</li>\r\n</ul>\r\n\r\n<p>따라서, 걸리는 시간은 총 120초이다.</p>\r\n\r\n<p>예제 입출력 2에서 원래의 고기는 얼어 있지 않다. 따라서 고기를 35℃에서 92℃까지 데우는 데 걸리는 시간은 627초이다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2016/2017 예선, paulsohn",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 5545,
   "submission_count": null,
   "average_tries": 1.304800033569336

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2016 Spring RUN@KAIST Programming Contest, jihoon",
   "level": 17,
-  "tags": [
-    "ternary_search"
-  ],
+  "tags": ["ternary_search"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 2.9286000728607178

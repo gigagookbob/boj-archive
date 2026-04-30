@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2019",
   "level": 18,
-  "tags": [
-    "dijkstra",
-    "geometry",
-    "graphs",
-    "pythagoras",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "geometry", "graphs", "pythagoras", "shortest_path"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4

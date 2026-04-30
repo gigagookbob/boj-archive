@@ -15,12 +15,7 @@
   "hint": "<p>The objects can be packed into three bins of size 10 as follows: [5,3], [6], [7]. It is impossible to pack them into two bins because their total size is 21.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 9: Carnegie Mellon U Contest",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "greedy"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "greedy"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.119999885559082

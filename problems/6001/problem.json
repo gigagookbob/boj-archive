@@ -15,10 +15,7 @@
   "hint": "<p>The functions generate weights of 5, 6, 9, 14, 21, and 30 along with utilities of 0, 1, 8, 27, 64, and 125.</p>\n<p>The two cows with the highest utility are cow 5 and 6, and their combined weight is 21+30=51.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO November 2009 Contest, Silver",
   "level": 7,
-  "tags": [
-    "math",
-    "sorting"
-  ],
+  "tags": ["math", "sorting"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.085099935531616

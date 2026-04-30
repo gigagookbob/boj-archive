@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2017/2018 Spring Training Camp",
   "level": 18,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.2181999683380127

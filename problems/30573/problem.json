@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2023",
   "level": 16,
-  "tags": [
-    "dp",
-    "bitmask",
-    "two_pointer",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "two_pointer", "dp_bitfield"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.6110999584197998

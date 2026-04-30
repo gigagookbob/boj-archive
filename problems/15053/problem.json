@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2017",
   "level": 17,
-  "tags": [
-    "greedy",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "string", "ad_hoc"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2018 예선 연습 세션, ntopia",
   "level": 21,
-  "tags": [
-    "string",
-    "set",
-    "hashing",
-    "manacher"
-  ],
+  "tags": ["string", "set", "hashing", "manacher"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 4.48330020904541

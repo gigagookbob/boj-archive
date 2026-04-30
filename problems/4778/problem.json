@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2002 Mid-Atlantic Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "bfs",
-    "flood_fill",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "flood_fill", "graphs", "graph_traversal"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

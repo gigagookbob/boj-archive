@@ -19,10 +19,7 @@
   "hint": "<p>Note that, in the second Sample, 29 should be treated as 00029 so that it will have the same number of digits as the second number (so that they can be DEXOR’ed digit-by-digit).</p>",
   "source": "University, University of Central Florida, 2022 Local Programming Contest (Qualifying Round)",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 246,
   "submission_count": null,
   "average_tries": 1.524399995803833

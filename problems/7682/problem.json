@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2006, kks227, kim93939, junah, zmtn94",
   "level": 11,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 3138,
   "submission_count": null,
   "average_tries": 3.3024001121520996

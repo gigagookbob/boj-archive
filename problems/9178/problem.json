@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2004 Pacific Northwest Region Programming Contest, index",
   "level": 11,
-  "tags": [
-    "backtracking",
-    "graphs",
-    "graph_traversal",
-    "sorting"
-  ],
+  "tags": ["backtracking", "graphs", "graph_traversal", "sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.157900094985962

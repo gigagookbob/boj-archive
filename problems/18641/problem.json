@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 7: Petr Mitrichev Contest 15",
   "level": 20,
-  "tags": [
-    "backtracking",
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["backtracking", "bruteforcing", "implementation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.3333001136779785

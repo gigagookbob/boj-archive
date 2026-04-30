@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 7,
-  "tags": [
-    "data_structures",
-    "queue"
-  ],
+  "tags": ["data_structures", "queue"],
   "accepted_user_count": 72326,
   "submission_count": null,
   "average_tries": 1.9459999799728394

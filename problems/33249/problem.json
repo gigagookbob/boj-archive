@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2019",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "geometry_3d"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 1.3352999687194824

@@ -23,13 +23,7 @@
   "hint": "<p>In Example 1, the hero from vertex 1 takes two items from the box at vertex 1 and one item from the box at vertex 3, the hero from vertex 2 takes an item from the box at vertex 2, and the hero from vertex 3 takes two items from the box at vertex 3. So, all three quests are completed.</p>\n<p>The first query changes the number of items in the box at vertex 1 from two to one. In this case, there are not enough items to complete all three quests.</p>\n<p>The second query changes the number of items to complete the quest for the hero at vertex 3 from two to one. In this case, the hero at vertex 1 takes one item from the box at vertex 1 and two items from the box at vertex 3, the hero at vertex 2 take one item from the box at vertex 2, the hero at vertex 3 takes one item from the box at vertex 3, and all three quests are again completed.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 1: Kyoto U Contest 2, Contest, Open Cup, 2021/2022 Season, Stage 10: Grand Prix of Kyoto",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "hld"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.8378000259399414

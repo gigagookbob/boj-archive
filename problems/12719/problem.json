@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Round 1B",
   "level": 10,
-  "tags": [
-    "implementation",
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["implementation", "math", "number_theory", "primality_test"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.3142999410629272

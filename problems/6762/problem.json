@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2013, CCO 2013",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "ad_hoc", "combinatorics"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.5

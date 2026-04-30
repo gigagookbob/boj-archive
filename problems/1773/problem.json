@@ -15,11 +15,7 @@
   "hint": "<pre>\r\n                                    2                        \r\n            1     2     1           1           1     2     1\r\n0  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20\r\n            1     2     3           4           5     6     7</pre>\r\n\r\n<p>위의 그림에서 1,2가 쓰여있는 4, 6, 8, 12, 16, 18, 20초에 폭죽이 밤 하늘에 터진다. 단 12초에는 두 폭죽이 동시에 하늘에 터지지만 한번으로 세는 것에 주의하자.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO March 2007 Contest, Bronze, author6, sunhong, djm03178",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 3582,
   "submission_count": null,
   "average_tries": 2.1974000930786133

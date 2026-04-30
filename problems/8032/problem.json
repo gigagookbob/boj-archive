@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2000/2001, Stage 2, koosaga",
   "level": 18,
-  "tags": [
-    "graphs",
-    "traceback",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "traceback", "scc", "2_sat"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.75

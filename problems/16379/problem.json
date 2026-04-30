@@ -15,13 +15,7 @@
   "hint": "<p>First test case is shown in the problem statement above. There is one bad edge (6, 3) after relabeling, because both 6 and 3 are divisible by 3.</p>\n<p>In the second test case there will be edges (5, 1), (5, 2), (5, 3), (5, 4) and (5, 6). None of them are bad.</p>\n<p>There are 10 edges in the input file and 1 bad edge in the answer. Thus, M = 10, X = 1, R = 0.1. According to the scoring table, this answer would get 5 points.</p>\n<p>Tests have the following structure:</p>\n<ul>\n<li>Input file 1 contains three trees on 7 vertices, depicted below from the left to the right:</li>\n</ul>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 529px; height: 167px;\"/></p>\n<ul>\n<li>Input files 2 and 3 contain 100 random trees on 10 and 30 vertices respectively.</li>\n<li>Input files 4 to 8 contain various randomly generated trees with some special structure (e.g. trees with many leaves, binary trees etc). Distribution of different kinds of trees is roughly the same for<br/>\n\tall inputs.</li>\n<li>Input files 9 and 10 contain randomly generated trees of 50 000 and 100 000 vertices respectively.</li>\n</ul>\n<p>Initially, label of vertices of all trees in all input files are random.</p>\n<p><a href=\"https://onlinejudgeimages.s3-ap-northeast-1.amazonaws.com/data/16373-16382.tar.gz\">압축 파일</a>의 <code>data-7.in</code>으로 채점한다.</p>",
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2018",
   "level": 15,
-  "tags": [
-    "math",
-    "graphs",
-    "trees",
-    "number_theory",
-    "heuristics"
-  ],
+  "tags": ["math", "graphs", "trees", "number_theory", "heuristics"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.3696000576019287

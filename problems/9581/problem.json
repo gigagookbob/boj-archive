@@ -23,14 +23,7 @@
   "hint": "<p>The first sample input corresponds to the picture from the problem statement. This graphs has 4 = 2<sup>2</sup> automorphisms.</p>\n<p>The second sample input is a simple graph with two vertices and one edge between them that has 2 = 2<sup>1</sup> automorphisms.</p>\n<p>The third sample input is a “star” graph with a center vertex and 14 rays that has 14! = 87 178 291 200 = 2<sup>11</sup> × 3<sup>5</sup> × 5<sup>2</sup> × 7<sup>2</sup> × 11<sup>1</sup> × 13<sup>1</sup> automorphisms.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2013",
   "level": 26,
-  "tags": [
-    "cactus",
-    "graphs",
-    "hashing",
-    "scc",
-    "trees",
-    "tree_isomorphism"
-  ],
+  "tags": ["cactus", "graphs", "hashing", "scc", "trees", "tree_isomorphism"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.6666998863220215

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2013, baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "probability",
-    "calculus"
-  ],
+  "tags": ["math", "probability", "calculus"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.4118000268936157

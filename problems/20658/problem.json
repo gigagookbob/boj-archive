@@ -23,12 +23,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 22,
-  "tags": [
-    "arbitrary_precision",
-    "divide_and_conquer",
-    "fft",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "divide_and_conquer", "fft", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 6.25

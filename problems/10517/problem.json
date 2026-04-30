@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Pakistan, Asia Lahore Regional Online Contest 2014",
   "level": 13,
-  "tags": [
-    "geometry",
-    "min_enclosing_circle"
-  ],
+  "tags": ["geometry", "min_enclosing_circle"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 1.6601999998092651

@@ -15,12 +15,7 @@
   "hint": "<p>In sample test case 1, the festival lasts $D=10$ days, there are $N=4$ attractions, and you can ride up to $K=2$ attractions.</p>\n<p>If you choose to attend the festival on the 6th day, you could ride the first and second attractions for a total happiness of $800+1500=2300$. Note that you cannot also ride the third attraction, since you may only ride up to $K=2$ attractions. This is the maximum total happiness you could achieve, so the answer is $2300$.</p>\n<p>In sample test case 2, the festival lasts $D=5$ days, there are $N=3$ attractions, and you can ride up to $K=3$ attractions.</p>\n<p>If you choose to attend the festival on the 3rd day, you could ride the first and third attractions for a total happiness of $400+300=700$. This is the maximum total happiness you could achieve, so the answer is $700$.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round F",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "sweeping"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3.216200113296509

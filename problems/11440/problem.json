@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, naong606",
   "level": 16,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 1284,
   "submission_count": null,
   "average_tries": 1.648800015449524

@@ -23,9 +23,7 @@
   "hint": "<p>Pojašnjenje probnih primjera: U drugom primjeru, jedan od mogućih rasporeda koji postiže najmanju netrpeljivost je 2 1 4 3.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Croatian Olympiad in Informatics 2023",
   "level": 23,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.2857000827789307

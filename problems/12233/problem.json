@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Round 3",
   "level": 26,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "game_theory",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "game_theory", "trees"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

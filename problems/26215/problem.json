@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 겨울 숲의 초대, 겨울 숲의 초대, frozenca, flappybird, hibye1217, kiwiyou, sait2000, wider93",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "sorting", "simulation"],
   "accepted_user_count": 1552,
   "submission_count": null,
   "average_tries": 2.3691999912261963

@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 995,
   "submission_count": null,
   "average_tries": 2.025099992752075

@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>First, we give the ball 2 a positive charge. The electrons on wires between balls 1 and 2, and balls 2 and 3 are now closer to the ball 2. The wire connecting balls 1 and 3 remains neutral.</p>\n<p>Now we give ball 3 a negative change. The arrangement of electrons between wires 2 and 3 remains unchanged, while the electrons on the wire between 1 and 3 are closer to the ball 1.</p>\n<p>Finally we give ball 1 a positive charge. The wire between 1 and 3 remains unchanged, but on the wire between balls 1 i 2 electrons are now closer to the ball 1 and the desired arrangement is achieved.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #6",
   "level": 16,
-  "tags": [
-    "constructive",
-    "dag",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["constructive", "dag", "graphs", "topological_sorting"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

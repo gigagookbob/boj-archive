@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 8: Grand Prix of Dolgoprudny",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitset"
-  ],
+  "tags": ["dp", "bitset"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 6.571400165557861

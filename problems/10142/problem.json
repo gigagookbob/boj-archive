@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2014",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "divide_and_conquer",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "divide_and_conquer", "dp", "segtree"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.75

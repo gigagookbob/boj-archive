@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand First Round Online, Thailand First Round Online 2014",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring", "euclidean"],
   "accepted_user_count": 464,
   "submission_count": null,
   "average_tries": 1.555999994277954

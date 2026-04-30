@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 4: Yandex Cup 2020",
   "level": 16,
-  "tags": [
-    "greedy",
-    "sorting",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "geometry", "constructive"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 4.307700157165527

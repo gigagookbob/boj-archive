@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 1 October, 2016, jh05013, smmaker118",
   "level": 7,
-  "tags": [
-    "math",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arbitrary_precision"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.2291998863220215

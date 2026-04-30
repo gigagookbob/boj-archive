@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, mwy3055, dotorya, portableangel",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "game_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "game_theory", "primality_test"],
   "accepted_user_count": 317,
   "submission_count": null,
   "average_tries": 2.716099977493286

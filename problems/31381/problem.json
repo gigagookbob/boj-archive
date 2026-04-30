@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 13: Grand Prix of Three Capitals",
   "level": 24,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "bellman_ford"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 10

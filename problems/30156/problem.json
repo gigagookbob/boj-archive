@@ -15,11 +15,7 @@
   "hint": "<p>In the first example, you can change amber to brass or brass to amber. In both the cases, both the balloons will have same colors. So, you will need to paint 1 balloon. So the answer is 1.</p>\n<p>In the second example, As the color of all the balloons is already the same, you don't need to paint any of them. So, the answer is 0.</p>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2015 ACM-ICPC Asia Chennai Regional Contest",
   "level": 2,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 800,
   "submission_count": null,
   "average_tries": 1.2200000286102295

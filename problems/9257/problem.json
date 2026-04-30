@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2013: PRISM",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "graphs", "bitmask", "dp_bitfield"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Pakistan, Asia Lahore Regional 2014, doju",
   "level": 12,
-  "tags": [
-    "graphs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "eulerian_path"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.75

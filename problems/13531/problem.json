@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2016",
   "level": 13,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics", "probability"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.2894999980926514

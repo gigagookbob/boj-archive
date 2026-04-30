@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 12th Latvian olympiad in informatics, Stage II (District/City)",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "euclidean", "inclusion_and_exclusion"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.4333000183105469

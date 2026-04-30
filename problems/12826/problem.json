@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Visegrad Programming Contests Preparation Camp, VPCPC 2014",
   "level": 19,
-  "tags": [
-    "euclidean",
-    "game_theory",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["euclidean", "game_theory", "math", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.875

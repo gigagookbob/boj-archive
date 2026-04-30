@@ -15,14 +15,7 @@
   "hint": "<p>예제 출력은 $\\frac{19}{8}$를 의미한다.</p>",
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2017 송년대회, kdh9949",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "dp_tree",
-    "probability",
-    "rerooting"
-  ],
+  "tags": ["math", "dp", "trees", "dp_tree", "probability", "rerooting"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.879300117492676

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, University of Maryland High School Programming Contest, HSPC 2012 연습 세션, baekjoon, bluepuha, corea, sky1357",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 5393,
   "submission_count": null,
   "average_tries": 1.5283000469207764

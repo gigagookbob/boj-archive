@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 18: Grand Prix of Bytedance",
   "level": 27,
-  "tags": [
-    "dp",
-    "greedy",
-    "heuristics"
-  ],
+  "tags": ["dp", "greedy", "heuristics"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 4.19350004196167

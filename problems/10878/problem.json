@@ -15,12 +15,7 @@
   "hint": "<p>In the sample, we can generate each element in the set Z by letting X = {1, 0, 0, 1, 1}, Y = {0, 0, 1, 1, 1} and X = {1, 0, 0, 1, 1}, Y = {1, 0, 0, 1, 1}, respectively. Therefore, Z can be constructed by the set B = {{1, 0, 0, 1, 1} and {0, 0, 1, 1, 1}}.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2015",
   "level": 15,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "bruteforcing",
-    "recursion"
-  ],
+  "tags": ["backtracking", "bitmask", "bruteforcing", "recursion"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 3.1185998916625977

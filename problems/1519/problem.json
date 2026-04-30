@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, kimsy96",
   "level": 14,
-  "tags": [
-    "dp",
-    "string",
-    "game_theory"
-  ],
+  "tags": ["dp", "string", "game_theory"],
   "accepted_user_count": 275,
   "submission_count": null,
   "average_tries": 2.0764000415802

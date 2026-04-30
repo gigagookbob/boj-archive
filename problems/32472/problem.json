@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2024 KAIST 14th ICPC Mock Competition, dohoon, arnold518, azberjibiou, jhwest2, koosaga, seonah, urd05, whqkrkt04",
   "level": 21,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 2.4688000679016113

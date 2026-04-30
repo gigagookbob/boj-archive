@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, the 4 trees in the generated input set are (0, 1), (7, 3), (17, 5), (17, 7).</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Round 1B",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics"
-  ],
+  "tags": ["math", "number_theory", "combinatorics"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.979599952697754

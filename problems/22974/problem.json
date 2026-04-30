@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제3회 소프트콘, jwvg0425, cheetose, cs71107, kyo20111",
   "level": 18,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.731300115585327

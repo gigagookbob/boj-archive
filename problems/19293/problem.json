@@ -19,10 +19,7 @@
   "hint": "<p>The first input describes the example discussed in the problem description. Intuitively, route 1 is very likely to be fine, as all three bridges are expected to be intact, whereas route 2 is most likely destroyed. The optimal sequence is to inspect the three bridges of route 1 (in any order, until either route 1 is declared to be safe or damaged), and then the two bridges of route 2.</p>\n<p>For the second input, it is optimal to inspect route 2, then route 1, and then route 3 (if needed).</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 5: Grand Prix of Korea, Contest, Open Cup, 2017/2018 Season, Stage 10: Grand Prix of Korea",
   "level": 17,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.25

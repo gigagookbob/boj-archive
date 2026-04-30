@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, KBTU Open, KBTU Open 2008, baekjoon",
   "level": 19,
-  "tags": [
-    "graphs",
-    "geometry",
-    "parametric_search",
-    "mst"
-  ],
+  "tags": ["graphs", "geometry", "parametric_search", "mst"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.736799955368042

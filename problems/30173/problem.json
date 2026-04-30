@@ -15,12 +15,7 @@
   "hint": "<p>In the first sample, $s = (1, 2, 3, 4, 5, 9, 6, 7, 13, 8, 10, 18, \\ldots)$. $10$ is the $11$-th number here, so the answer is $11$.</p>\n<p>In the second sample, $s = (1, 2, 3, 4, 5, 15, 6, 7, 8, 9, 10, 40, \\ldots)$.</p>",
   "source": "Contest, Codeforces, Codeforces Round 599 (Div. 1), spongbob9876",
   "level": 25,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "greedy", "number_theory", "constructive"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

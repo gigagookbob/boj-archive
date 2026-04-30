@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2024 KAIST 14th ICPC Mock Competition, azberjibiou, benedict0724, blackking26, jhwest2, koosaga, silverwolf, urd05",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "two_pointer",
-    "traceback"
-  ],
+  "tags": ["dp", "data_structures", "two_pointer", "traceback"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 5

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's High 2014 연습 세션, kcm1700",
   "level": 19,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "cht"
-  ],
+  "tags": ["geometry", "convex_hull", "cht"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 3.6738998889923096

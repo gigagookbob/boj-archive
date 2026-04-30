@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1999, 중등부, dkdsla12, YunGoon, jh05013",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 27822,
   "submission_count": null,
   "average_tries": 1.9163000583648682

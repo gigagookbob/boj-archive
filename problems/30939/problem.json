@@ -23,9 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>Only one snowflake is drawn.</p>\n<p>In the directions up-left, up and up-right from the center of the snowflake there are sequences of length $1$.</p>\n<p>In the directions right and down-right from the center of the snowflake there are sequences of length $2$.</p>\n<p>In the directions left, down-left and down from the center of the snowflake there are sequences of length $3$.</p>\n<p>Therefore, the size of the snowflake is $1$.</p>\n<p>Clarification of the second example:</p>\n<p>Two connected snowflakes are drawn, the left one of size $2$ and the right one of size $1$.</p>\n<p> </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #2",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.0851000547409058

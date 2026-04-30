@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 예시에서, $a = (1, 2, 3, 4)$ 이므로, $1^{2} \\cdot a_{1} = 1$, $2^{2} \\cdot a_{1} + 1^2 \\cdot a_{2} = 6$, $3^{2} \\cdot a_{1} + 2^{2} \\cdot a_{2} + 1^{2} \\cdot a_{3} = 20$, 그리고 $4^{2} \\cdot a_{1} + 3^{2} \\cdot a_{2} + 2^{2} \\cdot a_{3} + 1^{2} \\cdot a_{4} = 50$ 이다.</p>",
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2020 숭고한 연합 Algorithm Camp, Advanced, Camp, 숭고한 연합 Algorithm Camp, 2020 숭고한 연합 Algorithm Camp, Intermediate, spongbob9876",
   "level": 11,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 170,
   "submission_count": null,
   "average_tries": 1.7117999792099

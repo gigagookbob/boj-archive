@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제1회 유틸컵 - Chapter 1, IHHI, utilforever, bnb2011, chogahui05, heeda0528, index, kidw0124, starbow, tony9402, wapas",
   "level": 15,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 5.4268999099731445

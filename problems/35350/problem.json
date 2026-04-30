@@ -31,11 +31,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics for Girls, JOIG 2024/2025",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "bruteforcing", "ad_hoc"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

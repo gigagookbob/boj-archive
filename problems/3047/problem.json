@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #2, baekjoon, wnsrnek3",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 6508,
   "submission_count": null,
   "average_tries": 1.5027999877929688

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, November 27, 2021, Basic",
   "level": 13,
-  "tags": [
-    "constructive",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["constructive", "math", "number_theory"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

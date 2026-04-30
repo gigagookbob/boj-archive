@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2003, Regional Competition - Seniors, author5, djm03178, psi0613, doju, rhdqor213",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 2909,
   "submission_count": null,
   "average_tries": 3.541800022125244

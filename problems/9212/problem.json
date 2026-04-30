@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2013, baekjoon, jh05013",
   "level": 21,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "implementation", "geometry", "geometry_3d"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 3.648099899291992

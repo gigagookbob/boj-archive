@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:234px; width:434px\" /></p>\r\n",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2011, baekjoon, mitslll",
   "level": 18,
-  "tags": [
-    "geometry",
-    "set",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "set", "line_intersection"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.5

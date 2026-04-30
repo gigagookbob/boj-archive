@@ -15,11 +15,7 @@
   "hint": null,
   "source": "kipa00",
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["math", "ad_hoc", "geometry"],
   "accepted_user_count": 410,
   "submission_count": null,
   "average_tries": 2.9828999042510986

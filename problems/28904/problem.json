@@ -15,12 +15,7 @@
   "hint": "<p>Пояснение к первому тесту.</p>\n<p>После операции <code>xor</code> $1$, последовательность будет выглядеть следующим образом:</p>\n<p>$0$, $3$, $2$, $5$, $4$</p>\n<p>После операции <code>and</code> $2$, последовательность будет выглядеть следующим образом:</p>\n<p>$0$, $2$, $2$, $0$, $0$</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, February 25, 2018",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "data_structures",
-    "trees",
-    "trie"
-  ],
+  "tags": ["bitmask", "data_structures", "trees", "trie"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3.5

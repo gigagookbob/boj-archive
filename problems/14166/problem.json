@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2016 December Contest, Platinum, jh05013",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "binary_search",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "binary_search", "priority_queue"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 3.105299949645996

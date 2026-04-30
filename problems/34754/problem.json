@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2025, rhdqor213, bumsoo0515, firework72, gi1dong2, hyoseok, jaemkim01, kjmin622, putdata, rabbit007, rasauq1122, sjhi00, tony9402, utilforever",
   "level": 13,
-  "tags": [
-    "dp",
-    "difference_array"
-  ],
+  "tags": ["dp", "difference_array"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.9258999824523926

@@ -23,11 +23,7 @@
   "hint": "<p>이 문제의 제목은 <a href=\"/kidw0124\">kidw0124</a>와 <a href=\"/user/foxpython\">foxpython</a>의 $N$시간의 고민과 회의 끝에 결정되었다. 문제의 $N$과는 무관하다.</p>\r\n",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), Div. 2, foxpython, kidw0124, foxpython, cywohoy, dong0625, ezh8n, mathjuny, sksms1375, sshs29hanul, tlsdydaud1, utilforever, wnguscjf01",
   "level": 19,
-  "tags": [
-    "math",
-    "combinatorics",
-    "case_work"
-  ],
+  "tags": ["math", "combinatorics", "case_work"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.142899990081787

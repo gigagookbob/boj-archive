@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2002.11",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "dp",
-    "string"
-  ],
+  "tags": ["bruteforcing", "dp", "string"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

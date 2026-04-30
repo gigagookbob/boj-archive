@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1998, University, Stanford Local ACM Programming Contest, SLPC 2001, YunGoon",
   "level": 16,
-  "tags": [
-    "greedy",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "binary_search", "parametric_search"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 2.897599935531616

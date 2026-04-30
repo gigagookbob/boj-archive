@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2015",
   "level": 13,
-  "tags": [
-    "math",
-    "geometry",
-    "arbitrary_precision",
-    "polygon_area"
-  ],
+  "tags": ["math", "geometry", "arbitrary_precision", "polygon_area"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.1538000106811523

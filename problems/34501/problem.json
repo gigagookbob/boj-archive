@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, yellow never appears, so a sequence of $3$ yellows is not possible.</p>\n<p>In the second test case, red never appears, so a sequence of $3$ reds is not possible.</p>\n<p>In the third test case, every red tile is at least $3$ positions away from the yellow tile. So, any walk transitioning from a yellow to a red tile is impossible.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Spring 2025 Invitational, Qualification Round 2",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

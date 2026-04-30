@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2016",
   "level": 15,
-  "tags": [
-    "math",
-    "set",
-    "combinatorics",
-    "backtracking"
-  ],
+  "tags": ["math", "set", "combinatorics", "backtracking"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.1818000078201294

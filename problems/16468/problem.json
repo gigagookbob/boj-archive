@@ -19,11 +19,7 @@
   "hint": "<p>이진트리란 각각의 노드가 최대 두개의 자식 노드를 가지는 트리 자료구조로, 자식 노드는 왼쪽 자식 노드와 오른쪽 자식 노드가 있다. 제일 위에 노드가 1개, 그 다음 2개… 와 같은 식으로 위에서 d번째 줄엔 2<sup>d−1</sup>개의 노드가 있을 수 있다. </p>",
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Beginner Division, algyurithm",
   "level": 16,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 2.4976999759674072

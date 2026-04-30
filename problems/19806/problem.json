@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2019",
   "level": 16,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["geometry", "line_intersection", "point_in_convex_polygon"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5999999046325684

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2004 Pacific Northwest Region Programming Contest, portableangel",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "precomputation"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "precomputation"],
   "accepted_user_count": 151,
   "submission_count": null,
   "average_tries": 2.0727999210357666

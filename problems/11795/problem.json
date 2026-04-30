@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2015 ACM-ICPC Asia Phuket Regional Programming Contest",
   "level": 3,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 555,
   "submission_count": null,
   "average_tries": 1.1495000123977661

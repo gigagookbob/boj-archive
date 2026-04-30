@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 대구과학고등학교, 2017 대곽 Codejam 정보경시대회, tlwpdus",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 236,
   "submission_count": null,
   "average_tries": 2.258500099182129

@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>In order to distinguish the costs of travelling in particular directions, each motorway is represented by a pair of edges on the figure above. A pair of numbers next to every edge represents the toll for the first day and the change of the toll which happens on every day.</p>\n<p>The route 1 → 2 → 3 → 4 → 1 taken on the second day costs 23.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2006",
   "level": 17,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

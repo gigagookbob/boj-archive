@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2026 KPSC Spring Algorithm Challenge, kangsm02, chan120714, dinojaemin, kevinlys00, playsworld16, saywoo, sjhi00, skuru, tapris, usb9245, young_out",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "greedy",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "greedy", "disjoint_set", "mst"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.4255000352859497

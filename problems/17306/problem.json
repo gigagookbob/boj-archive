@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2019, koosaga",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "set",
-    "lca",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "set", "lca", "trie"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 3.8620998859405518

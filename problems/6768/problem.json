@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2012, CCC 2012 Senior Division",
   "level": 3,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 1125,
   "submission_count": null,
   "average_tries": 1.2062000036239624

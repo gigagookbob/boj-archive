@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, pichulia",
   "level": 16,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 3164,
   "submission_count": null,
   "average_tries": 3.9440999031066895

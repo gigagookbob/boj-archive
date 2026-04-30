@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 239px; height: 243px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, October 15, 2011, Basic",
   "level": 5,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "parity"
-  ],
+  "tags": ["implementation", "ad_hoc", "parity"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.6175999641418457

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2016",
   "level": 7,
-  "tags": [
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["geometry", "constructive"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.5957000255584717

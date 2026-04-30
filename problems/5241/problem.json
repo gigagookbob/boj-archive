@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 187px; height: 232px;\"/></p>",
   "source": "School, University of Maryland High School Programming Contest, HSPC 2010",
   "level": 14,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

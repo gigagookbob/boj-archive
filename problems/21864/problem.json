@@ -31,12 +31,7 @@
   "hint": null,
   "source": "sait2000, kipa00, pichulia",
   "level": 24,
-  "tags": [
-    "math",
-    "number_theory",
-    "precomputation",
-    "discrete_log"
-  ],
+  "tags": ["math", "number_theory", "precomputation", "discrete_log"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.2972999811172485

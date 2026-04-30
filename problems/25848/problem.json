@@ -19,9 +19,7 @@
   "hint": "<p>Explanation of the first Sample Input/Output:</p>\n<p>One way to make the list non-decreasing is:</p>\n<ul>\n<li>Change all 7’s to 1</li>\n<li>Change all 8’s to 3</li>\n<li>Change all 5’s to 3</li>\n</ul>\n<p>for a total of 3 changes.</p>",
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Round 1B)",
   "level": 19,
-  "tags": [
-    "lis"
-  ],
+  "tags": ["lis"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.9285999536514282

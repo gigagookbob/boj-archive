@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2014 Japan Domestic Contest",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "greedy"
-  ],
+  "tags": ["bruteforcing", "greedy"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

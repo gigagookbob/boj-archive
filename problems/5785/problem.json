@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2002",
   "level": 19,
-  "tags": [
-    "dp",
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["dp", "geometry", "convex_hull"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4.764699935913086

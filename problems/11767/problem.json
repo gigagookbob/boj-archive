@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2015 East Central Regional Contest",
   "level": 14,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["exponentiation_by_squaring", "math"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.6730999946594238

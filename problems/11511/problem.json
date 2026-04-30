@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example: After the first client changes his request from (1, 1) to (1, 1) - nothing really changes, the number of ways to sell paintings is 1. The one and only way to sell paintings is to sell the first client one colored painting, and the second client should be sold one colored painting as well. Every client is required to get at least one colored painting because C=2, which means that there should be at least 2 clients with colored paintings.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #1",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 4.032299995422363

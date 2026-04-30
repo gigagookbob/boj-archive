@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2023 SCON, jhnah917, chansol, cologne, edenooo, junseo, kyo20111, ryute",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 358,
   "submission_count": null,
   "average_tries": 2.7235000133514404

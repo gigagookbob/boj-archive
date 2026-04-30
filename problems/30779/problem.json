@@ -19,9 +19,7 @@
   "hint": "<p>Плащ из первого примера изображён на рисунке из условия.</p>\n<p>Во втором примере в каждый из двух цветов покрашено одинаковое число узлов плаща.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 99px; height: 122px;\"/></p>\n<p style=\"text-align: center;\">Плащ размером 2 × 3, покрашенный в два цвета.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Qualification 2014-15",
   "level": 8,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

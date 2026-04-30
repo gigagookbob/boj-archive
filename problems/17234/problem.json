@@ -19,12 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 매 턴마다 4점씩 점수를 올리면 세 턴 만에 10점을 넘기는 것이 가능하다.</p>\n<p>두 번째 예제의 경우 일곱 번의 턴 동안 3점씩 올리고, 두 번의 턴 동안 2점씩 올리고, 마지막 턴에서 점수를 두 배로 올리면 10번의 턴 만에 50점에 도달할 수 있다.</p>\n<p>단 예제에서 제시된 방법이 최소 횟수를 얻을 수 있는 유일한 방법은 아니다.</p>",
   "source": "University, POSTECH, 2019 PPC, ufolion",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 5.7708001136779785

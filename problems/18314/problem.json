@@ -15,12 +15,7 @@
   "hint": "<p>For the first query, the non-decreasing subsequences are $(), (2),$ and $(3).$ $(2,3)$ is not a non-decreasing subsequence because $A_2\\not \\le A_3.$</p>\n<p>For the second query, the non-decreasing subsequences are $()$, $(4)$, $(5)$, and $(4,5)$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 January Contest, Platinum",
   "level": 22,
-  "tags": [
-    "divide_and_conquer",
-    "linear_algebra",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["divide_and_conquer", "linear_algebra", "math", "prefix_sum"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 3.5806000232696533

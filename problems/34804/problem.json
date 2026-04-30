@@ -19,12 +19,7 @@
   "hint": "<p>입력의 양이 많으므로, 빠른 입출력을 사용하는 것을 권장합니다. 대표적인 언어에 따른 빠른 입출력은 다음과 같습니다.</p>\r\n\r\n<ul>\r\n<li>C++: <code>cin</code>을 사용하여 입력받는 경우, <code>ios::sync_with_stdio(false); cin.tie(NULL);</code> 를 적용해야 합니다.</li>\r\n<li>Java: <code>BufferedReader</code>와 <code>BufferedWriter</code>를 사용해야 합니다.</li>\r\n<li>Python3, Pypy3: <code>input()</code> 대신 <code>sys.stdin.readline().rstrip()</code>을 사용해야 합니다.</li>\r\n</ul>\r\n",
   "source": "University, DGIST, 2025 DGIST 알고리즘 경진대회, 99asdfg, ksoosung77, leo020630, tlsdydaud1, tony9402",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "set",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["data_structures", "set", "constructive", "bitmask"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.6296000480651855

@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2017",
   "level": 10,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.600000023841858

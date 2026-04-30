@@ -23,14 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2023 2차대회, 고등부, koosaga",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "dp_tree", "rerooting"],
   "accepted_user_count": 193,
   "submission_count": null,
   "average_tries": 2.5439999103546143

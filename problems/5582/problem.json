@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2007/2008, baekjoon, scka, eric00513",
   "level": 11,
-  "tags": [
-    "dp",
-    "string",
-    "lcs"
-  ],
+  "tags": ["dp", "string", "lcs"],
   "accepted_user_count": 8000,
   "submission_count": null,
   "average_tries": 2.2899999618530273

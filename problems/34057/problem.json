@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025 예선, golazcc83, 79brue, evenharder, hyperbolic, kdh9949, kipa00, leo020630, man_of_learning, seonah",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "prefix_sum", "sweeping"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 2.7778000831604004

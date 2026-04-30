@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 단국대학교부속소프트웨어고등학교, 단대소프트고 2022 여름대회, lkh3happy, gggkik, MenOfPassion, nicehong7",
   "level": 11,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 373,
   "submission_count": null,
   "average_tries": 2.104599952697754

@@ -15,10 +15,7 @@
   "hint": "<p>In the first case, the sequence is already in the desired form (with <strong>m</strong>=<strong>N</strong>=3) so no swaps are required.</p>\n<p>In the second case, swapping 3 and 7 produces an <em>up and down</em> sequence (with <strong>m</strong>=3).</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Round 2",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "greedy"
-  ],
+  "tags": ["bruteforcing", "greedy"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.6908999681472778

@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2022, Group B (Juniors)",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

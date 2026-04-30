@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2008 in Aizu",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["bruteforcing", "dp", "math", "probability"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.2856999635696411

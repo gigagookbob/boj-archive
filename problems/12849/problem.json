@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, SCCC 2016 Summer Contest, sys7961",
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs"
-  ],
+  "tags": ["dp", "graphs"],
   "accepted_user_count": 1773,
   "submission_count": null,
   "average_tries": 1.492400050163269

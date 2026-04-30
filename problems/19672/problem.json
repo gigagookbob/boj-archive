@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2019",
   "level": 22,
-  "tags": [
-    "dp",
-    "binary_search",
-    "alien"
-  ],
+  "tags": ["dp", "binary_search", "alien"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.724600076675415

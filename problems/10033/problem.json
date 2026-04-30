@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 5 cows.  One of them is a white cow at position 8, and so on.</p><h4>Output Details</h4><p>FJ takes a photo of the cows from positions 3 to positions 10.  There are 4 cows in this range -- 3 white and 1 spotted -- so he needs to paint one of the white cows to make it spotted.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO US Open 2014 Contest, Silver",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.5

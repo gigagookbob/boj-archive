@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2011",
   "level": 21,
-  "tags": [
-    "geometry",
-    "graphs"
-  ],
+  "tags": ["geometry", "graphs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.3333001136779785

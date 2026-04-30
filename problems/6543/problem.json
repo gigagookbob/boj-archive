@@ -19,11 +19,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:190px; width:159px\" /></p>\r\n",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2003, kdr06006",
   "level": 17,
-  "tags": [
-    "graphs",
-    "dag",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "scc"],
   "accepted_user_count": 706,
   "submission_count": null,
   "average_tries": 1.8172999620437622

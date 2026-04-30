@@ -39,13 +39,7 @@
   "hint": null,
   "source": "baekjoon, gkgg123, heon0128, seico75",
   "level": 12,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 4533,
   "submission_count": null,
   "average_tries": 2.3647000789642334

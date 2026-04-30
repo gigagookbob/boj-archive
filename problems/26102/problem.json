@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2022",
   "level": 21,
-  "tags": [
-    "implementation",
-    "dp",
-    "game_theory",
-    "parity",
-    "sprague_grundy"
-  ],
+  "tags": ["implementation", "dp", "game_theory", "parity", "sprague_grundy"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 3.227299928665161

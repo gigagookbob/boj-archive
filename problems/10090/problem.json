@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2013, Olympiad, International Autumn Tournament in Informatics, 2013, Group B (Juniors)",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "divide_and_conquer"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "divide_and_conquer"],
   "accepted_user_count": 2023,
   "submission_count": null,
   "average_tries": 2.1185998916625977

@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2023, CCO 2023",
   "level": 26,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "dp",
-    "dp_tree",
-    "implementation",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "case_work", "dp", "dp_tree", "implementation", "trees"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

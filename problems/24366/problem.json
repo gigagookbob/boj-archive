@@ -27,10 +27,7 @@
   "hint": "<p>Обяснение на пример 4: Едно възможно кацане на гълъбите</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 506px; height: 121px;\"/></p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2015, Group E",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 1.7920000553131104

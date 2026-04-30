@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2009, 중등부, Olympiad, 한국정보올림피아드, KOI 2009, 고등부, dotorya",
   "level": 19,
-  "tags": [
-    "prefix_sum",
-    "parametric_search"
-  ],
+  "tags": ["prefix_sum", "parametric_search"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 2.8666999340057373

@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the third example:</p>\n<p>The third example is illustrated in the text.</p>\n<p>For the first question, Teo and Gabriel can use just the blue doors to reach the rest of the team; for the second question, they can use blue and green doors; for the third again only blue is enough; and for the fourth, they can use blue, green, and red doors.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #1",
   "level": 14,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.2726999521255493

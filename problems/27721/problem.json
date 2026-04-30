@@ -15,13 +15,7 @@
   "hint": "<p>The second test case is the one shown in the pictures above.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2009",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "dp",
-    "dp_tree",
-    "stack",
-    "trees"
-  ],
+  "tags": ["data_structures", "dp", "dp_tree", "stack", "trees"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

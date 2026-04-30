@@ -15,11 +15,7 @@
   "hint": "<p><b>Wyjaśnienie do przykładu:</b> Aby osiągnąć sumaryczną masę 4, Bajtek powinien włożyć do pudełka klocki o masach 1 oraz 3.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2009, Stage 3",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack",
-    "mitm"
-  ],
+  "tags": ["dp", "knapsack", "mitm"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.076900005340576

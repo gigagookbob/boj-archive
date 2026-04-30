@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 25 January, 2003",
   "level": 7,
-  "tags": [
-    "implementation",
-    "graphs",
-    "simulation",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "graphs", "simulation", "grid_graph"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.829300045967102

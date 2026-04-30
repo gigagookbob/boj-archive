@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2011",
   "level": 22,
-  "tags": [
-    "dp",
-    "cht"
-  ],
+  "tags": ["dp", "cht"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.914900064468384

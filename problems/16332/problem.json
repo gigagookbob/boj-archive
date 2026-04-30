@@ -15,10 +15,7 @@
   "hint": "<p>In the sample, after each query the matrix will be as follows:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 653px; height: 98px;\"/></p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2018",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.813599944114685

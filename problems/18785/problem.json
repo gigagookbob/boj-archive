@@ -15,14 +15,7 @@
   "hint": "<p>In this example, Bessie can set all the clocks to point to 12 if and only if she starts in room 2 (for example, by moving to room 1, 2, 3, 2, and finally 4).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 February Contest, Silver",
   "level": 16,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "invariant"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "trees", "dfs", "invariant"],
   "accepted_user_count": 178,
   "submission_count": null,
   "average_tries": 1.9045000076293945

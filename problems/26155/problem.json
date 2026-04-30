@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제9회 한양대학교 프로그래밍 경시대회, Advanced Division, andrewmjk1, jthis, junseo, jyheo98, leejseo, nick832, tlsdydaud1",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "sorting", "disjoint_set", "offline_queries"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.7448999881744385

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2020",
   "level": 5,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "probability"
-  ],
+  "tags": ["math", "bruteforcing", "probability"],
   "accepted_user_count": 511,
   "submission_count": null,
   "average_tries": 1.2289999723434448

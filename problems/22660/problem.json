@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2008",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "string"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4

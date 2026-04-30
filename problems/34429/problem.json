@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2020",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic", "parsing"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.2785000801086426

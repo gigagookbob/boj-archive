@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, ho94949",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "divide_and_conquer"
-  ],
+  "tags": ["math", "greedy", "divide_and_conquer"],
   "accepted_user_count": 1780,
   "submission_count": null,
   "average_tries": 3.3938000202178955

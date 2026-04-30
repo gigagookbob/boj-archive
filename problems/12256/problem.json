@@ -15,11 +15,7 @@
   "hint": "<p>In the first case, <strong>G</strong> is already a full binary tree (if we consider node 1 as the root), so we don't need to do anything.</p>\n<p>In the second case, we may delete nodes 3 and 7; then 2 can be the root of a full binary tree.</p>\n<p>In the third case, we may delete node 1; then 3 will become the root of a full binary tree (we could also have deleted node 4; then we could have made 2 the root).</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Round 1A",
   "level": 13,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.1851999759674072

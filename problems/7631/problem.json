@@ -15,14 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2011",
   "level": 20,
-  "tags": [
-    "dag",
-    "dp",
-    "graphs",
-    "math",
-    "probability",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "dp", "graphs", "math", "probability", "topological_sorting"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.4544999599456787

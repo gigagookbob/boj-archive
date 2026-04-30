@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, National Competition #2 - Juniors, baekjoon",
   "level": 13,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "combinatorics"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.7544000148773193

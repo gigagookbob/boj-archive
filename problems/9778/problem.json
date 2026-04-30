@@ -15,10 +15,7 @@
   "hint": "<p>Visualization of the first Sample Input &amp; Sample Output</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 249px; height: 107px;\"/></p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Southern Programming Contest, Thailand Southern Programming Contest 2013",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

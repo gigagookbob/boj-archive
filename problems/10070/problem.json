@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2014, Day 1",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 459,
   "submission_count": null,
   "average_tries": 2.522900104522705

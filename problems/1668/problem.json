@@ -27,9 +27,7 @@
   "hint": null,
   "source": "baekjoon, adh0463, hyunynim, juchan1220",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 4460,
   "submission_count": null,
   "average_tries": 1.7996000051498413

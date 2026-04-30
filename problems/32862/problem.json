@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제11회 한양대학교 프로그래밍 경시대회(HCPC), Beginner Division, University, 한양대학교, 제11회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, thak00, gunwookim, jk410, juneharold, mjhmjh1104, ramzxc, tlsdydaud1",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.6486001014709473

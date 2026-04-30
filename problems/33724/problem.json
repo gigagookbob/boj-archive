@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Japanese Olympiad in Informatics, JOI 2024/2025",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["data_structures", "binary_search", "set"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.363600015640259

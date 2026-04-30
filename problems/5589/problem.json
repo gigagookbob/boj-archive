@@ -19,11 +19,7 @@
   "hint": "<p>R の上限 10 は C の上限 10000 に比べて小さいことに注意せよ．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2007/2008 예선, baekjoon",
   "level": 10,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bruteforcing", "bitmask"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.2030999660491943

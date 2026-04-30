@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2024",
   "level": 19,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "sqrt_decomposition"
-  ],
+  "tags": ["dp", "prefix_sum", "sqrt_decomposition"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.9687999486923218

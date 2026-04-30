@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 6: MIPT Contest",
   "level": 20,
-  "tags": [
-    "graphs",
-    "constructive",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "constructive", "scc", "2_sat"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.7999999523162842

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Happy Birthday Lumi!, Happy Birthday Lumi! 2025, djeleanor2, ai4youej, ohwphil, qvixnh22, toycartoon, vkdldjvkdnj, wizardrabbit",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 454,
   "submission_count": null,
   "average_tries": 1.6607999801635742

@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:237px; width:490px\"/></p>\n<p>1. In Poland, there is an accumulation of public and national holidays in the beginning of May. Those are: 1<sup>st</sup> May - May Day, the International Workers' Day, 2<sup>nd</sup> May - the Day of the Polish Flag, 3<sup>rd</sup> May - the Anniversary of Establishment of the First Constitution of Poland (dating back to the year 1795); Though the middle, quite recent, feast is not actually a holiday, it is, however, customary to make it a day out of work too. Now imagine that 1<sup>st</sup> May is on Monday or 3<sup>rd</sup> May on Friday and you will get the feeling what the Long May Weekend is!</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2006/2007, Stage 1, gumgood",
   "level": 22,
-  "tags": [
-    "geometry",
-    "kmp",
-    "manacher",
-    "string"
-  ],
+  "tags": ["geometry", "kmp", "manacher", "string"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.7857000827789307

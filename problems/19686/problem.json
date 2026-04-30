@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), Qualification, NOI 2019 Preliminary",
   "level": 9,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.302299976348877

@@ -19,9 +19,7 @@
   "hint": "<p>P+1&lt;Q 라면 P&lt;K&lt;Q 인 정수 K가 존재하여</p>\n<p>\\[\\frac{\\sum_{i=P}^{K}{A[i]}}{K-P+1} \\le \\frac{\\sum_{i=P}^{Q}{A[i]}}{Q-P+1} \\le \\frac{\\sum_{i=K+1}^{Q}{A[i]}}{Q-K}\\]</p>\n<p>혹은</p>\n<p>\\[\\frac{\\sum_{i=K+1}^{Q}{A[i]}}{Q-K} \\le \\frac{\\sum_{i=P}^{Q}{A[i]}}{Q-P+1} \\le \\frac{\\sum_{i=P}^{K}{A[i]}}{K-P+1}\\]</p>\n<p>이다.</p>",
   "source": "University, 홍익대학교, 2017 홍익대학교 컴퓨터공학과 코딩대회, lhw941, joonas, jh05013, Juno, zych1751",
   "level": 12,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 2.7356998920440674

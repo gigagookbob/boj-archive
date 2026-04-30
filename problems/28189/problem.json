@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 5: LOUD Enough Contest 2",
   "level": 30,
-  "tags": [
-    "math",
-    "dp",
-    "string",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "string", "exponentiation_by_squaring"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2

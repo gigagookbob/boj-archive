@@ -19,9 +19,7 @@
   "hint": "<p>Последовательность чисел $A$ является лексикографически меньше последовательности $B$, если $A \\ne B$ и существует такое $0 \\le k \\le |A|$, что $A_0 = B_0, A_1 = B_1, \\ldots, A_k = B_k$ и $A_{k+1} &lt; B_{k+1}$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, March 12, 2016",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.7691999673843384

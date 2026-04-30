@@ -15,12 +15,7 @@
   "hint": "<p>Assume that we want to limit the values of the eight variables in the expression above according to 2 ≤ v<sub>1</sub> ≤ 4, 1 ≤ v<sub>2</sub> ≤ 4, v<sub>3</sub> = 0, 1 ≤ v<sub>4</sub> ≤ 7, 1 ≤ v<sub>5</sub> ≤ 4, 1 ≤ v<sub>6</sub> ≤ 2, 3 ≤ v<sub>7</sub> ≤ 4, and 2 ≤ v<sub>8</sub> ≤ 3.</p>\n<p>If writing in binary notation, one of the best assignments gives the expression (100 | 011 | 000) &amp; (111) &amp; (100 | 010) &amp; (100 | 011), from which we note that all subexpressions may become equal to 7 except the third.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2006",
   "level": 20,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["implementation", "data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

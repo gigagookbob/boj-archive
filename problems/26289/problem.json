@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2022",
   "level": 21,
-  "tags": [
-    "math",
-    "trees",
-    "arbitrary_precision",
-    "precomputation"
-  ],
+  "tags": ["math", "trees", "arbitrary_precision", "precomputation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 4.6666998863220215

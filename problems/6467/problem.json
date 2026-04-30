@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 1996 South Central USA Regional Programming Contest",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "implementation", "number_theory", "primality_test"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.6328999996185303

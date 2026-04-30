@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2012, Group A (Seniors), thebarbershop, sgc109, koosaga",
   "level": 0,
-  "tags": [
-    "binary_search",
-    "cht",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["binary_search", "cht", "geometry", "sweeping"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 5.857100009918213

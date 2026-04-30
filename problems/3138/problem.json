@@ -19,11 +19,7 @@
   "hint": "<p>Clarification for first sample: although we have three pillars available, we can place two so that no car can park.</p>\n<p>Clarification for second sample: if we choose this final layout, there are four different locations for a car to park. There is no better arrangement.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, National Competition #1 - Juniors",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["implementation", "data_structures", "priority_queue"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.0344998836517334

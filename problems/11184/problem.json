@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2011",
   "level": 12,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.521699905395508

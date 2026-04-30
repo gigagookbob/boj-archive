@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2014-15, Open Competition",
   "level": 12,
-  "tags": [
-    "geometry",
-    "sweeping",
-    "coordinate_compression"
-  ],
+  "tags": ["geometry", "sweeping", "coordinate_compression"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5625

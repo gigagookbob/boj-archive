@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2005, sait2000",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bitmask"
-  ],
+  "tags": ["implementation", "bitmask"],
   "accepted_user_count": 766,
   "submission_count": null,
   "average_tries": 2.9869000911712646

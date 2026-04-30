@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 01., heeda0528, chogahui05, cologne, jthis, lky7674, utilforever",
   "level": 12,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 2.15910005569458

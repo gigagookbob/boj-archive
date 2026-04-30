@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 대구과학고등학교, DSPC 2024, htg1616, h0ngjun7, iansong, kwoncycle, lky7674, tony9402, utilforever, vkdldjvkdnj",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum",
-    "precomputation"
-  ],
+  "tags": ["bruteforcing", "prefix_sum", "precomputation"],
   "accepted_user_count": 156,
   "submission_count": null,
   "average_tries": 2.5576999187469482

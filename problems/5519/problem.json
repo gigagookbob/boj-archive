@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 1994, Day 1, waylight3",
   "level": 20,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.076900005340576

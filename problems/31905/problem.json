@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2023",
   "level": 15,
-  "tags": [
-    "math",
-    "calculus"
-  ],
+  "tags": ["math", "calculus"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.072700023651123

@@ -15,10 +15,7 @@
   "hint": "<p>In Case #1, we first push the backwards button 11 times after 67 completes to cue up 57. Then we press the forward button 8 times to get 66 cued up after 57 finishes. After 66 finishes, we press no buttons and let 67 play, followed by pressing the backward button 20 times to arrive at track 48. Finally, we can either press the backward button 34 times to get to 15 or the forward button 34 times to get to 15. Thus, the minimal number of button presses is 11 + 8 + 0 + 20 + 34 = 73.</p>\n<p>In Case #2, we must either press the forward or backward button 500,000,000 times between each pair of consecutive songs on the list.</p>\n<p>In Case #3, we must press the backward button once in between track 1 playing the first time and the second time.</p>",
   "source": "University, University of Central Florida, 2017 Local Programming Contest",
   "level": 6,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.392899990081787

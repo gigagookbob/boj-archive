@@ -23,10 +23,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: Iz prve linije teksta mogu se izdvojiti brojevi $3$ i $4$. Iz druge linije teksta može se izvdojiti broj $1$ (vodeća nula se izostavlja).</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Croatian Olympiad in Informatics for Girls 2023",
   "level": 6,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.4615000486373901

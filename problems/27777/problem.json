@@ -15,13 +15,7 @@
   "hint": "<p>In Sample Case #1, there is only one person, and they are moving north from (5, 5). This means that all street corners with y ≥ 6 are possible locations for the crepe cart. Of those possibilities, we choose the one with lowest x ≥ 0 and then lowest y ≥ 6.</p>\n<p>In Sample Case #2, there are four people, all moving toward location (2, 5). There is no other location that has as many people moving toward it.</p>\n<p>In Sample Case #3, six of the eight people are moving toward location (0, 4). There is no other location that has as many people moving toward it.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2019, Round 1B",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "prefix_sum",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["binary_search", "greedy", "prefix_sum", "sorting", "sweeping"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

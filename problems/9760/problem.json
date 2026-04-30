@@ -15,12 +15,7 @@
   "hint": "<p>Please note that the system is case-insensitive.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-B Programming Contest, Thailand Central Group-B Programming Contest 2013",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "merge_sort_tree"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "merge_sort_tree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 9.66670036315918

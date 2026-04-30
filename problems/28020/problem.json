@@ -19,10 +19,7 @@
   "hint": "<p>예제 2에서 만들어야하는 쿠키들의 레시피 7개는 다음과 같이 구성된다.</p>\n<pre>\n1 2 3\n1 2 0\n1 2 4\n1 3 0\n1 3 4\n2 3 0\n2 3 4\n</pre>",
   "source": "University, 부산대학교, 2023 부산대학교 CodeRace, Advanced, kmiiiaa, jthis, leeh18, shjohw12",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.9146000146865845

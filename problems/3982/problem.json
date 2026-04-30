@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2010",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 186,
   "submission_count": null,
   "average_tries": 1.3870999813079834

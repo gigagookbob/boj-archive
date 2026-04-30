@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2010, 고등부, sait2000",
   "level": 13,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "binary_search", "two_pointer"],
   "accepted_user_count": 11072,
   "submission_count": null,
   "average_tries": 3.557800054550171

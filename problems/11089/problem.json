@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2015, corea",
   "level": 13,
-  "tags": [
-    "dp",
-    "knapsack",
-    "mitm"
-  ],
+  "tags": ["dp", "knapsack", "mitm"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.9206000566482544

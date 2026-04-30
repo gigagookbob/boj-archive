@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 28 September, 2002, busyhuman, choiking10, eric00513, yjwr0528, djm03178",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 85089,
   "submission_count": null,
   "average_tries": 2.4465999603271484

@@ -23,11 +23,7 @@
   "hint": "<p>In the first test case, after rotating the contiguous subarray that starts with 3 and ends with 1, the cards will be ordered 1 2 3 4, and now all the cards are fixed points. In this example, the given output is the only correct output.</p>\n<p>In the second test case, rotating any subarray consisting of only one card results with the same card order, the one that produces the maximal number of fixed points.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #2",
   "level": 18,
-  "tags": [
-    "sorting",
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["sorting", "ad_hoc", "prefix_sum"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.3171000480651855

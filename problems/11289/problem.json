@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Irish Collegiate Programming Contest, IrICPC 2015",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "string",
-    "stack"
-  ],
+  "tags": ["data_structures", "string", "stack"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.5866999626159668

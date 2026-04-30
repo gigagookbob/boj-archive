@@ -19,11 +19,7 @@
   "hint": "<p>The Prüfer code of the tree in the first example is $(\\underline{7}, \\mathbf{1}, 6, \\mathbf{3}, \\mathbf{3}, \\underline{8}, \\mathbf{4})$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2019",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.7143000364303589

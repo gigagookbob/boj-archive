@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 25 September, 1999",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "floyd_warshall"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.8055999279022217

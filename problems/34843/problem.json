@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제12회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, gggkik, 79brue, azberjibiou, hibye1217, jsj0412, jthis, mhy908, sadtreap, tlsdydaud1",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 8.25

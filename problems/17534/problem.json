@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2019",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.25

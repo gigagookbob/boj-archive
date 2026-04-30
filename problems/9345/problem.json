@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2013 ACM-ICPC Thailand National Programming Contest, kesakiyo, jh05013, pjh6792, YunGoon, flflds0811",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 1995,
   "submission_count": null,
   "average_tries": 2.385999917984009

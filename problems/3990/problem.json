@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2012/2013, Contest #4, baekjoon, ppp3195, august14",
   "level": 19,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["math", "data_structures", "segtree"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.594899892807007

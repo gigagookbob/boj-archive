@@ -27,9 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 7,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 3552,
   "submission_count": null,
   "average_tries": 1.4092999696731567

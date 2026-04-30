@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 88px; height: 93px;\"/></p>",
   "source": "Olympiad, Estonian Informatics Olympiad, 2014-15, Preliminary Round, Basic, Olympiad, Estonian Informatics Olympiad, 2014-15, Preliminary Round, Gymnasium",
   "level": 11,
-  "tags": [
-    "geometry",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "polygon_area"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.5769000053405762

@@ -15,14 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2021, deuslovelt, jh05013, rhs0266, spectaclehong",
   "level": 17,
-  "tags": [
-    "dp",
-    "data_structures",
-    "trees",
-    "set",
-    "hash_set",
-    "trie"
-  ],
+  "tags": ["dp", "data_structures", "trees", "set", "hash_set", "trie"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 2.764699935913086

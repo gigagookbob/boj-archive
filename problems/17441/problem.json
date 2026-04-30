@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2019 서울대학교 프로그래밍 경시대회, Division 1, cozyyg",
   "level": 24,
-  "tags": [
-    "math",
-    "geometry",
-    "calculus",
-    "green"
-  ],
+  "tags": ["math", "geometry", "calculus", "green"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.3241000175476074

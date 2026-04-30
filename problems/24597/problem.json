@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2021 ICPC Pacific Northwest Region, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2021 ICPC Pacific Northwest Region, Division 2",
   "level": 12,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "set"
-  ],
+  "tags": ["string", "ad_hoc", "set"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.7532000541687012

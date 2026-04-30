@@ -15,12 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Próba zrealizowania wszystkich czterech dostaw spowoduje kolizję pierwszego i drugiego samochodu na skrzyżowaniu (5, 3) w chwili 5. Po odwołaniu pierwszej dostawy, nadal będziemy mieli kolizję drugiego i czwartego samochodu na skrzyżowaniu (7, 3) w chwili 7. Z kolei po odwołaniu drugiej dostawy żadne z pozostałych samochodów się nie zderzą.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "hash_set"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1

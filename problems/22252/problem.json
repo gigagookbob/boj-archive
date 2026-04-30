@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 류호석배 알고리즘 코딩 테스트, 제3회 류호석배 알고리즘 코딩 테스트, rhs0266, BaaaaaaaaaaarkingDog, dlstj0923, tony9402",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "priority_queue",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "priority_queue", "tree_set"],
   "accepted_user_count": 926,
   "submission_count": null,
   "average_tries": 2.371500015258789

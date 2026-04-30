@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2008, baekjoon, BaaaaaaaaaaarkingDog",
   "level": 8,
-  "tags": [
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "two_pointer"],
   "accepted_user_count": 24700,
   "submission_count": null,
   "average_tries": 2.834700107574463

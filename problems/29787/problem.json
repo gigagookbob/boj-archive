@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, the first train line is essential because it is the only one serving station $2$. Since shutting any other line down would not make travel between at least one pair of stations impossible, they are not essential.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>In Sample Case #2, no line is essential.</p>\n<p align=\"center\"><img alt=\"\" src=\"2.png\"/></p>\n<p>Sample Case #3 is similar to Sample Case #2, but missing the last train line. That makes all remaining train lines essential.</p>\n<p>In Sample Case #4, the last train line is essential as there is no way to go from station $1$ to station $4$ without it. As in Sample Case #1, since this train line already connects every station, no other line is essential.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\"/></p>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round B",
   "level": 19,
-  "tags": [
-    "articulation",
-    "graphs"
-  ],
+  "tags": ["articulation", "graphs"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

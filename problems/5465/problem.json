@@ -19,12 +19,7 @@
   "hint": "<p>곰돌이가 1 분 동안 꿀을 먹은 후, 오른쪽 방향으로 일직선 최단 경로를 통해 다음 2분에 걸쳐 안전하게 집에 도착할 수 있다. 따라서 곰돌이가 꿀을 먹을 수 있는 최장 시간은 1분이 되어 출력 값은 1이다.</p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2009, Day 2, koosaga, planetarynebula",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "binary_search",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "binary_search", "bfs"],
   "accepted_user_count": 230,
   "submission_count": null,
   "average_tries": 5.117400169372559

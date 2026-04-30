@@ -15,9 +15,7 @@
   "hint": "<p>Michał wsunie szufladę pierwszą i trzecią. Wysunięcia szuflad mogą być następujące: (1, 4, 5, 6, 8).</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Beginner Group)",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.04259991645813

@@ -23,10 +23,7 @@
   "hint": "<p>삼각형에서의 무게중심은 세 중선의 교점이며, 수심은 세 수선의 교점이다.</p>\n<p>$x_i\\lvert x_i\\rvert$의 절댓값은 $x_i^2$과 같으며, 부호는 $x_i$의 부호와 같다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제2회 고려대학교 MatKor Cup: 2023 Winter, kidw0124, amel, coo001, eoaud0108, leeyou6757",
   "level": 19,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.5713999271392822

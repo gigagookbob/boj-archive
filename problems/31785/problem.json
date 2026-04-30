@@ -15,12 +15,7 @@
   "hint": "<p>어떤 실수 $x$에 대해, $\\lfloor{x}\\rfloor$는 $n \\le x$을 만족하는 가장 큰 정수 $n$의 값으로 정의된다. 마찬가지로, $\\lceil{x}\\rceil$은 $n \\ge x$을 만족하는 가장 작은 정수 $n$의 값으로 정의된다.</p>",
   "source": "University, POSTECH, 2024 POSTECH Programming Contest, Contest, University, POSTECH, 2024 POSTECH Programming Contest, Open Contest, leo020630, hyperbolic, jk410, kwoncycle, menborong, pasa3232, petamingks, pjshwa, slah007, tony9402",
   "level": 10,
-  "tags": [
-    "implementation",
-    "prefix_sum",
-    "simulation",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "prefix_sum", "simulation", "two_pointer"],
   "accepted_user_count": 233,
   "submission_count": null,
   "average_tries": 2.347599983215332

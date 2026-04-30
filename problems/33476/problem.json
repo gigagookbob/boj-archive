@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제6회 고려대학교 MatKor Cup: 2025 Winter, alex04, kidw0124, eoaud0108, midoria, sshs29hanul, utilforever",
   "level": 29,
-  "tags": [
-    "math",
-    "graphs",
-    "calculus",
-    "ternary_search",
-    "general_matching"
-  ],
+  "tags": ["math", "graphs", "calculus", "ternary_search", "general_matching"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

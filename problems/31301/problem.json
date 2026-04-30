@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2023, xiaowuc1",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.2156999111175537

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2014",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "string"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 4.468800067901611

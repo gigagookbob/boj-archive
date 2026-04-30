@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2003 in Aizu",
   "level": 9,
-  "tags": [
-    "implementation",
-    "simulation",
-    "string"
-  ],
+  "tags": ["implementation", "simulation", "string"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.2121000289916992

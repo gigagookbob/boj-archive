@@ -15,9 +15,7 @@
   "hint": "<p>Location (3, 1) satisfies all three characteristics</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2005",
   "level": 16,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 8.16670036315918

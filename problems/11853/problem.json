@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2013",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "sweeping",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "priority_queue", "sweeping", "tree_set", "set"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.7568000555038452

@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case, the station positions are [3, 1, 6], and you start at 1 and must end at 6. You will have to make 2 moves, going from 1 -&gt; 3 using the coin (3, 2), and going from 3 -&gt; 6 using the coin (3, 3). You can not go directly from 1 -&gt; 6 using (3, 2) and (3, 3) because the sum of the costs of the coins exceeds the limit 4.</p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2013 Arab Collegiate Programming Contest",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.4000000953674316

@@ -19,12 +19,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "graphs",
-    "geometry",
-    "mst",
-    "line_intersection"
-  ],
+  "tags": ["graphs", "geometry", "mst", "line_intersection"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 2.7344000339508057

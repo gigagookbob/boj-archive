@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2019, Contest, Open Cup, 2019/2020 Season, Stage 8: Grand Prix of Poland",
   "level": 19,
-  "tags": [
-    "backtracking",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["backtracking", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 3.9047999382019043

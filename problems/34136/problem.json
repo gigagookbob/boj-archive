@@ -19,12 +19,7 @@
   "hint": "<p>이 문제에서는 출력을 마칠 때마다 출력 버퍼를 비워야 한다. 출력 버퍼를 비우지 않으면 예상치 못한 채점 결과를 받을 수 있다.</p>\r\n\r\n<p>출력 버퍼를 비우는 방법은 다음과 같다.</p>\r\n\r\n<ul>\r\n\t<li>C: <code>fflush(stdout)</code></li>\r\n\t<li>C++: <code>std::cout &lt;&lt; std::flush</code></li>\r\n\t<li>Java: <code>System.out.flush()</code></li>\r\n\t<li>Python: <code>sys.stdout.flush()</code></li>\r\n</ul>\r\n\r\n<p>이외의 언어에 대해서는 언어별 명세를 참고해야 한다.</p>\r\n",
   "source": "Contest, BOJ User Contest, BCF, BCF 2025, 79brue, aeren, mjhmjh1104, qwerasdfzxcl",
   "level": 26,
-  "tags": [
-    "dp",
-    "string",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["dp", "string", "ad_hoc", "constructive"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 10.4443998336792

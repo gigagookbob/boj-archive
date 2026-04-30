@@ -19,10 +19,7 @@
   "hint": "<p>Opis prvog probnog primjera: Jedino možemo pogurnuti drugu pikulu. Time vrijednost prve pikule postaje -1 što je i konačna najveća moguća vrijednost.</p>\n<p>Opis drugog probnog primjera: Postoje dva moguća redoslijeda guranja. U redoslijedu {2, 3} prvo pogurnemo pikulu s pozicije dva nakon čega raspored postaje 2 _ 1 te na kraju pogurnemo pikulu s pozicije tri čime ostaje pikula vrijednosti 1. Drugi bolji raspored je {3, 2}. Nakon prvog pogurivanja ostaje raspored 3 0 _ te nakon posljednjeg pogurivanja ostaje pikula vrijednosti 3 što je optimalno.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2020, Junior Croatian Olympiad in Informatics 2020",
   "level": 13,
-  "tags": [
-    "constructive",
-    "greedy"
-  ],
+  "tags": ["constructive", "greedy"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2

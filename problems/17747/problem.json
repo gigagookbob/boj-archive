@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2012/2013 Spring Training Camp",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.975000023841858

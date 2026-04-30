@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2008",
   "level": 15,
-  "tags": [
-    "dp",
-    "geometry",
-    "bitmask",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["dp", "geometry", "bitmask", "dp_bitfield", "tsp"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

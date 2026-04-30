@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере реклама на обоих каналах всегда начинается одновременно, поэтому, хотя Алёна и переключит канал в момент времени $4$, она будет смотреть рекламу в течение трёх моментов времени. Затем она снова переключит канал в момент времени $8$, но уже не дождётся конца рекламы и уйдёт спать.</p>\n<p>Во втором примере Алёна будет переключать каналы таким образом, что ей никогда не придётся смотреть рекламу.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Short Qualification 2017-18",
   "level": 12,
-  "tags": [
-    "implementation",
-    "binary_search",
-    "simulation",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "binary_search", "simulation", "two_pointer"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.6666998863220215

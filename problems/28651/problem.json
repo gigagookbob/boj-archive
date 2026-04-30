@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 7, 2020, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 7, 2020, Advanced",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "bruteforcing"
-  ],
+  "tags": ["bitmask", "bruteforcing"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

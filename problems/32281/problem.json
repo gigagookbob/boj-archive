@@ -15,9 +15,7 @@
   "hint": "<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"2.png\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n<p>답이 C++의 <span style=\"color:#e74c3c;\"><code>int</code></span> 범위를 넘어갈 수 있으므로 <span style=\"color:#e74c3c;\"><code>long long</code></span> 자료형을 사용하는 것을 추천한다.</p>",
   "source": "School, 선린인터넷고등학교, 선린 프로그래밍 챌린지, 제2회 선린 프로그래밍 챌린지, jjang36524, dohoon, gggkik, kaorin, myyh1234, tyoungs, utilforever",
   "level": 6,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 232,
   "submission_count": null,
   "average_tries": 1.7240999937057495

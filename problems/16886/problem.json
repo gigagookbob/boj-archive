@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "math",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["math", "game_theory", "sprague_grundy"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 1.9615000486373901

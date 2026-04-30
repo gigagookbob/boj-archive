@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2018, 초등부, eric00513, jh05013, k5nen, apjw6112",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "sorting"],
   "accepted_user_count": 3499,
   "submission_count": null,
   "average_tries": 1.923699975013733

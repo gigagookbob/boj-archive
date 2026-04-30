@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2022",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "trie"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

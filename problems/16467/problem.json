@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"2.png\"/></p>\n<p>위의 그림은 K = 2일때의 상태를 나타낸다. K = 2이므로 병아리가 알을 낳은 후 2일이 지나면 병아리로 부화한다. 위의 그림에서 원은 알을 나타낸다.</p>",
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Beginner Division, University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Advanced Division, alohajm",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 2.753499984741211

@@ -15,10 +15,7 @@
   "hint": "<p>The Caesar cipher means substituting each letter with the one $d$ places down the alphabet, treating alphabet as cyclic if necessary. E.g. for $d = 3$ the letter <code>a</code> is substituted by <code>d</code>, <code>b</code> by <code>e</code>,...., <code>w</code> changes into <code>z</code>, <code>x</code> to <code>a</code>, <code>y</code> to <code>b</code> and <code>z</code> to <code>c</code>.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 8: Grand Prix of Poland, ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2021",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.3950999975204468

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, 2016 ACM-ICPC Asia-Manila Regional Programming Contest",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "precomputation"
-  ],
+  "tags": ["bruteforcing", "math", "precomputation"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.5455000400543213

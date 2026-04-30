@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 1: Songyang Chen Contest 2",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.636399984359741

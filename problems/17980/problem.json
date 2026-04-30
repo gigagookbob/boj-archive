@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2019",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "sweeping",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "sorting", "sweeping", "priority_queue"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.4118000268936157

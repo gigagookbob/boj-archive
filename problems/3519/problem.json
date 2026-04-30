@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2010, pichulia",
   "level": 20,
-  "tags": [
-    "dp",
-    "exponentiation_by_squaring",
-    "implementation",
-    "math"
-  ],
+  "tags": ["dp", "exponentiation_by_squaring", "implementation", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

@@ -15,11 +15,7 @@
   "hint": "<p>임의의 실수 $x,y$에 대하여 $\\max (x,y) = \\begin{cases} x &amp; (x \\ge y) \\\\ y &amp; (x&lt;y) \\end{cases}$로 정의한다.</p>\n<p>$3^{15} = 14  348  907$이다.</p>",
   "source": "University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 2, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Open Contest, sjhi00, blackking26, kaorin, ksi4495, lky7674, lycoris1600, mujigae, qvixnh22, sjh1224, sungjae0506",
   "level": 21,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["dp", "bitmask", "dp_sum_over_subsets"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.421099901199341

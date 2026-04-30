@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", University, UT Invitational Programming Contest, UT Invitational Programming Contest 2019",
   "level": 8,
-  "tags": [
-    "math",
-    "bitmask",
-    "probability"
-  ],
+  "tags": ["math", "bitmask", "probability"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 3.3461999893188477

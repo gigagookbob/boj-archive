@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2010",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "queue",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "queue", "segtree", "sweeping"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.199999809265137

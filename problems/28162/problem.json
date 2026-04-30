@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 2: GP of ainta, ainta, tlwpdus",
   "level": 26,
-  "tags": [
-    "greedy",
-    "hall"
-  ],
+  "tags": ["greedy", "hall"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.6470999717712402

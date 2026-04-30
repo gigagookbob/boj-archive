@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2007",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "stack",
-    "queue"
-  ],
+  "tags": ["data_structures", "stack", "queue"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.9285999536514282

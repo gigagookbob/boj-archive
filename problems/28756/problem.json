@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, January 26, 2020",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "geometry", "arithmetic"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.1081000566482544

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 10: Grand Prix of China",
   "level": 21,
-  "tags": [
-    "centroid",
-    "divide_and_conquer",
-    "trees"
-  ],
+  "tags": ["centroid", "divide_and_conquer", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.5

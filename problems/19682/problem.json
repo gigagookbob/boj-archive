@@ -10,13 +10,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2020, Day 2",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sqrt_decomposition",
-    "bitset",
-    "pst"
-  ],
+  "tags": ["data_structures", "segtree", "sqrt_decomposition", "bitset", "pst"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.8333001136779785

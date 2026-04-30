@@ -23,10 +23,7 @@
   "hint": "<p>$\\left\\lfloor x \\right\\rfloor$는 $x$를 초과하지 않는 가장 큰 정수를 말한다. 예를 들어 $\\left\\lfloor 2.5 \\right\\rfloor=2$이고, $\\left\\lfloor 3 \\right\\rfloor=3$이다.</p>",
   "source": "University, 아주대학교, 2024 아주대학교 프로그래밍 경시대회 APC, Div.2, University, 아주대학교, 2024 아주대학교 프로그래밍 경시대회 APC, Open Contest, University, 성균관대학교, 2024 성균관대학교 프로그래밍 경진대회 with APC, acepark, akim9905, Coxie, dbrua1222, deuslovelt, heeda0528, hojoon0205, jk410, lky7674, max804, nick832, palilo, pani, petamingks, shjohw12",
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 2.2335000038146973

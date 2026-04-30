@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2018 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, Southern California Regional, 2018 Southern California Regional",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.4285999536514282

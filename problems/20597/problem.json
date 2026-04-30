@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample, there are $3$ such involutions.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 2: SPb SU LOUD ENOUGH Contest, Contest, Open Cup, 2020/2021 Season, Stage 2: SPb SU LOUD ENOUGH Contest",
   "level": 17,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["dp", "math", "number_theory"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.6470999717712402

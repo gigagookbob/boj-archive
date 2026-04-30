@@ -15,12 +15,7 @@
   "hint": "<p>These bales can be stacked for a total height of 5:</p>\n<pre>\n10 12\n9 11\n8 10\n6 9\n5 3</pre>\n<p>another stacking exists, too</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO January 2007 Contest, Bronze",
   "level": 8,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "sorting",
-    "lis"
-  ],
+  "tags": ["dp", "bruteforcing", "sorting", "lis"],
   "accepted_user_count": 237,
   "submission_count": null,
   "average_tries": 1.7975000143051147

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2006",
   "level": 23,
-  "tags": [
-    "dp",
-    "trees",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "trees", "bitmask", "dp_bitfield"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.625

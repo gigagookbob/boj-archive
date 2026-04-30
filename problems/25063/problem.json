@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2021-2022",
   "level": 24,
-  "tags": [
-    "bitset",
-    "centroid",
-    "knapsack",
-    "trees"
-  ],
+  "tags": ["bitset", "centroid", "knapsack", "trees"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.0713999271392822

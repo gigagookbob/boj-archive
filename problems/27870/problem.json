@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, AI Network Scholarium, AI Network Scholarium I, august14, alex9801, doju, gs15120, leehosu01",
   "level": 21,
-  "tags": [
-    "math",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.68179988861084

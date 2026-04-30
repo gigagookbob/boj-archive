@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2009",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "tree_set"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

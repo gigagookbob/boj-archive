@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 1999-2000 Season, USACO Spring 2000 Contest, Orange",
   "level": 9,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "backtracking"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "backtracking"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.7142999172210693

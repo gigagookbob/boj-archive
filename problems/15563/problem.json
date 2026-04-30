@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, moonrabbit2, rdd6584, jh05013",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "tree_set"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 2.2195000648498535

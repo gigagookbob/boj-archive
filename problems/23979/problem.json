@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2021, mksmk606, hellogaon, hibye1217, jh05013, palilo",
   "level": 19,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "trees",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["implementation", "data_structures", "trees", "lca", "sparse_table"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.125

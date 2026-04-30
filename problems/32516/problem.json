@@ -23,10 +23,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 2회 DGUPC, kes0716, gs22059, kwoncycle, tlsdydaud1",
   "level": 7,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 262,
   "submission_count": null,
   "average_tries": 1.3206000328063965

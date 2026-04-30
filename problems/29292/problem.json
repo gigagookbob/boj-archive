@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере выгодно разбить массив, например, на части $\\{1, 2\\}$ и $\\{3\\}$</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, March 30, 2014",
   "level": 5,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.4285999536514282

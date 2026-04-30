@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2023",
   "level": 25,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "constructive",
-    "case_work",
-    "bitset"
-  ],
+  "tags": ["dp", "ad_hoc", "constructive", "case_work", "bitset"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.9444000720977783

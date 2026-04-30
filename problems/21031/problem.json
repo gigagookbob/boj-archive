@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2019",
   "level": 21,
-  "tags": [
-    "flow",
-    "implementation",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "implementation", "mcmf", "graphs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

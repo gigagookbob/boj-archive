@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2023, CCC 2023 Senior Division",
   "level": 11,
-  "tags": [
-    "math",
-    "dp",
-    "arithmetic"
-  ],
+  "tags": ["math", "dp", "arithmetic"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.4782999753952026

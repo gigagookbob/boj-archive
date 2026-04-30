@@ -15,10 +15,7 @@
   "hint": "<p>In this example, FJ fills the pail of size 17 three times and the pail of size 25 once, accumulating a total of 76 units of milk.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO February 2016 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 892,
   "submission_count": null,
   "average_tries": 1.7073999643325806

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2014, RCC 2014 Elimination Round",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "harmonic_number"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

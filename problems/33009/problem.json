@@ -31,12 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2024 ICPC Asia Yokohama Regional Contest",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "dp_sum_over_subsets"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.1738998889923096

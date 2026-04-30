@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 11th Latvian olympiad in informatics, Stage III (Country)",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "lte"
-  ],
+  "tags": ["math", "number_theory", "lte"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.9056999683380127

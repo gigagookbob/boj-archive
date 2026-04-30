@@ -15,12 +15,7 @@
   "hint": "<p>The following picture shows the second variation.</p>\n<p>A possible solution is to clean the path between leaves 1 − 6, A − 7 and B − 3.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 538px; height: 245px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2020, Day 2",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "hld",
-    "segtree",
-    "trees"
-  ],
+  "tags": ["data_structures", "hld", "segtree", "trees"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.1786000728607178

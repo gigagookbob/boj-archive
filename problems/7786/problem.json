@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, KBTU Open, KBTU Open 2008, baekjoon, sky1357",
   "level": 15,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.2555999755859375

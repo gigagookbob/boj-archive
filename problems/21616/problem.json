@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2021, CCC 2021 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2021, CCC 2021 Senior Division",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "math"
-  ],
+  "tags": ["ad_hoc", "math"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.6216000318527222

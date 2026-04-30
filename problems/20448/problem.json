@@ -19,11 +19,7 @@
   "hint": "<p>В первом примере для достижения максимальной суммы следует назначить цены на &lt;&lt;иннофон&gt;&gt; и &lt;&lt;иннофон плюс&gt;&gt; равными 40 и 70 соответственно. Тогда первый и пятый покупатель купят &lt;&lt;иннофон плюс&gt;&gt;, второй и третий покупатель купят  &lt;&lt;иннофон&gt;&gt;, четвертый покупатель не купит ничего. Суммарная стоимость проданных смартфонов будет $70+40+40+0+70=220$.</p>\n<p>Во втором примере нужно сделать цену &lt;&lt;иннофона плюс&gt;&gt; равной 50. Цена на &lt;&lt;иннофон&gt;&gt; при этом не важна. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2018",
   "level": 23,
-  "tags": [
-    "cht",
-    "data_structures",
-    "sqrt_decomposition"
-  ],
+  "tags": ["cht", "data_structures", "sqrt_decomposition"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 9.142900466918945

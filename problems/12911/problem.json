@@ -31,12 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["math", "dp", "number_theory", "prefix_sum"],
   "accepted_user_count": 342,
   "submission_count": null,
   "average_tries": 2.046799898147583

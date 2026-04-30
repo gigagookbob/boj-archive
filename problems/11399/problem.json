@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, hakgb11",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 81700,
   "submission_count": null,
   "average_tries": 1.4265999794006348

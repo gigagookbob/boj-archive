@@ -15,10 +15,7 @@
   "hint": "<p>f(x) = 3x<sup>3 </sup>+ 2x<sup>2 </sup>+ x를 미분하면, f’(x) = 9x<sup>2 </sup>+ 4x + 1이 된다.</p>\n<p>그래서 f’(1) = 9*1*1 + 4*1 + 1 = 14가 된다.</p>",
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2017 중앙대학교 프로그래밍 경진대회 (CPC), dlstj0923, rory143",
   "level": 6,
-  "tags": [
-    "math",
-    "calculus"
-  ],
+  "tags": ["math", "calculus"],
   "accepted_user_count": 1916,
   "submission_count": null,
   "average_tries": 1.1930999755859375

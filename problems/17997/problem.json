@@ -27,14 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2019 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2019 Southeast USA Regional Programming Contest, Division 2",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "trees",
-    "segtree",
-    "lis",
-    "hld"
-  ],
+  "tags": ["dp", "data_structures", "trees", "segtree", "lis", "hld"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.177799940109253

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2018 KAIST 8th ACM-ICPC Mock Competition, alex9801",
   "level": 5,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 438,
   "submission_count": null,
   "average_tries": 1.5160000324249268

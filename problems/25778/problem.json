@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2022 Local Programming Contest (Final Round)",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 1.7379000186920166

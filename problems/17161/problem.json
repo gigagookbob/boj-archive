@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, MIT, The MIT Programming Contest, 2008-09, MIT Programming Contest Team Contest 1 2008",
   "level": 25,
-  "tags": [
-    "dp",
-    "string",
-    "divide_and_conquer",
-    "hirschberg"
-  ],
+  "tags": ["dp", "string", "divide_and_conquer", "hirschberg"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 4.265100002288818

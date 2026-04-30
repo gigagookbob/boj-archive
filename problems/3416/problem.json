@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2011",
   "level": 20,
-  "tags": [
-    "crt",
-    "implementation",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["crt", "implementation", "math", "number_theory"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 16.899999618530273

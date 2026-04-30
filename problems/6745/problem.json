@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2005",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "dp"
-  ],
+  "tags": ["binary_search", "dp"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

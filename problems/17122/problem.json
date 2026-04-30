@@ -15,10 +15,7 @@
   "hint": "<ul>\r\n\t<li>&ldquo;A1&rdquo; 과 &ldquo;17&rdquo;은 둘 다 검은 색 칸이다.</li>\r\n\t<li>&ldquo;A1&rdquo; 과 &ldquo;1&rdquo;은 같은 칸이며 당연히 같은 색이다.</li>\r\n\t<li>&ldquo;B3&rdquo; 은 흰 칸을 나타내고 &nbsp;&ldquo;21&rdquo; 은 검은 칸을 나타낸다.</li>\r\n\t<li>&ldquo;G5&rdquo; 은 검은 칸을 나타내고 &ldquo;40&rdquo; 은 흰색 칸을 나타낸다.</li>\r\n</ul>\r\n",
   "source": null,
   "level": 4,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 460,
   "submission_count": null,
   "average_tries": 2.24780011177063

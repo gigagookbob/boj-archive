@@ -15,9 +15,7 @@
   "hint": "<p>In Sample Case #1, the integers inside the bracket in the following represent the longest contiguous arithmetic subarray: 10 7 [4 6 8 10] 11</p>\n<p>In Sample Case #2, the whole array is an arithmetic array, thus the longest contiguous arithmetic subarray is the whole array.</p>\n<p>In Sample Case #3, the longest contiguous arithmetic subarray is either [5, 5, 5] (a subarray from the fourth integer to the sixth integer) or [4, 5, 6] (a subarray from the seventh integer to the ninth integer).</p>\n<p>In Sample Case #4, the longest contiguous arithmetic subarray is the last six integers.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round E",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.666700005531311

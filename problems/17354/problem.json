@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회, jh05013",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "crt"
-  ],
+  "tags": ["math", "number_theory", "crt"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 2.218400001525879

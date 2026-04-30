@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제1회 흐즈로컵, hjroh0315, eaststar, eric00513, flappybird, hibye1217, index, jjang36524, tony9402, utilforever, whqkrkt04",
   "level": 11,
-  "tags": [
-    "implementation",
-    "constructive"
-  ],
+  "tags": ["implementation", "constructive"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 2.297600030899048

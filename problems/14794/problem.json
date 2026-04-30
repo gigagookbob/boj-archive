@@ -15,13 +15,7 @@
   "hint": "<p>In Case #1, the first person occupies the leftmost of the middle two stalls, leaving the following configuration (<code>O</code> stands for an occupied stall and <code>.</code> for an empty one): <code>O.O..O</code>. Then, the second and last person occupies the stall immediately to the right, leaving 1 empty stall on one side and none on the other.</p>\n<p>In Case #2, the first person occupies the middle stall, getting to <code>O..O..O</code>. Then, the second and last person occupies the leftmost stall.</p>\n<p>In Case #3, the first person occupies the leftmost of the two middle stalls, leaving <code>O..O...O</code>. The second person then occupies the middle of the three consecutive empty stalls.</p>\n<p>In Case #4, every stall is occupied at the end, no matter what the stall choices are.</p>\n<p>In Case #5, the first and only person chooses the leftmost middle stall.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Qualification Round",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "data_structures",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["math", "dp", "data_structures", "set", "tree_set"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.841599941253662

@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2021, Day 2",
   "level": 26,
-  "tags": [
-    "implementation",
-    "sorting",
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["implementation", "sorting", "ad_hoc", "bitmask"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.4000000953674316

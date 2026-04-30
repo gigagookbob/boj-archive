@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "eulerian_path"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.230799913406372

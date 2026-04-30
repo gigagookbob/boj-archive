@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 2, null_nullptr, heeda0528, mbae059, qvixnh22, skeep194, swoon, tony9402, utilforever, vkdldjvkdnj",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 465,
   "submission_count": null,
   "average_tries": 1.67739999294281

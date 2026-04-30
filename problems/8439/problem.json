@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2003",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "pick",
-    "polygon_area"
-  ],
+  "tags": ["ad_hoc", "geometry", "pick", "polygon_area"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

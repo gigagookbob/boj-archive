@@ -15,10 +15,7 @@
   "hint": "<p>Example is shown on the picture in the statement.</p>",
   "source": "Contest, Codeforces, Codeforces Round 578 (Div. 2), jwvg0425",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.2609000205993652

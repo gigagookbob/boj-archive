@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 27 September, 2003",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "bellman_ford"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.4614999294281006

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2021, hjhj97, jh05013, rhs0266, spectaclehong",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sweeping"],
   "accepted_user_count": 322,
   "submission_count": null,
   "average_tries": 2.841599941253662

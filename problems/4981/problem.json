@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2006 Japan Domestic Contest",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["data_structures", "string", "bruteforcing", "set"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.128999948501587

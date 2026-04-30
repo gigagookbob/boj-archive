@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: The example corresponds to the image from the task. Another possible solution is 2 1 4 3.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #2",
   "level": 16,
-  "tags": [
-    "graphs",
-    "geometry",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "geometry", "dag", "topological_sorting"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 4.605299949645996

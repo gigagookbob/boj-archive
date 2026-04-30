@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO December 2010 Contest, Gold",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "string",
-    "segtree",
-    "suffix_array"
-  ],
+  "tags": ["dp", "data_structures", "string", "segtree", "suffix_array"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.0952000617980957

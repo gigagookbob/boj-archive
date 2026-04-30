@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024, exqt, cki86201, evenharder, functionx, kipa00, qwerasdfzxcl, sorohue, whqkrkt04",
   "level": 18,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "set",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "ad_hoc", "set", "prefix_sum"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.2706000804901123

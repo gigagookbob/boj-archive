@@ -23,12 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 300px;\"/></p>\n<p style=\"text-align: center;\">Figure A.1: Visualization of Sample Input 2. The covered area is roughly equal to 42.</p>",
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2022",
   "level": 13,
-  "tags": [
-    "math",
-    "geometry",
-    "randomization",
-    "calculus"
-  ],
+  "tags": ["math", "geometry", "randomization", "calculus"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5262999534606934

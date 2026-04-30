@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2009, 고등부",
   "level": 16,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "prefix_sum", "knapsack", "traceback"],
   "accepted_user_count": 252,
   "submission_count": null,
   "average_tries": 2.86899995803833

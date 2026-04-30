@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회, game2k",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation",
-    "parity"
-  ],
+  "tags": ["implementation", "string", "simulation", "parity"],
   "accepted_user_count": 1247,
   "submission_count": null,
   "average_tries": 1.3320000171661377

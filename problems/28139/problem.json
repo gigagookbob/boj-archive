@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 05., rustiebeats, amsminn, bnb2011, chogahui05, djs100201, dong_gas, gs11008, heeda0528, jthis, pjshwa, snrnsidy, swoon, utilforever",
   "level": 12,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "combinatorics", "probability", "linearity_of_expectation"],
   "accepted_user_count": 312,
   "submission_count": null,
   "average_tries": 1.6186000108718872

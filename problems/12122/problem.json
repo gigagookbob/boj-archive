@@ -15,11 +15,7 @@
   "hint": "<p>In Case #1, there is no substring that has exactly a 1-proportion of exactly 666667/1000000. The closest we can get is 2/3. The input string has 5 substrings that achieve it -- 3 substrings of length 3 that start at indices 5, 7, and 8 (101, 101, and 011); as well as two substrings of length 6 that start at indices 5 and 6 (101011 and 010111). The smallest of these indices is 5.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, World Finals",
   "level": 21,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.5861999988555908

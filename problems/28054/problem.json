@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2023 KAIST RUN Spring Contest, songc, cs71107, kdh9949, mhy908, sean9892, sjimed",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.4795000553131104

@@ -19,9 +19,7 @@
   "hint": "<p>아래는 1번 예제가 좋은 대회가 될 수 있는 다양한 결과 중 하나이다.</p>\n<pre>\n1 1 0 1 1\n1 0 1 0 1\n1 0 1 0 0\n1 0 0 0 0</pre>",
   "source": "University, 경인지역 대학 연합, shake! 2017, Acka, skdi3658",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 2.7279000282287598

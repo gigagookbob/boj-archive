@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>FJ wants to send 15 units of milk through his pipe network.  Pipe #1 connects junction point 1 (the barn) to junction point 2, and has a latency of 10 and a capacity of 3.  Pipes #2 and #3 are similarly defined.</p><h4>Output Details</h4><p>The path 1-&gt;3 takes 14 + 15/1 = 29 units of time.  The path 1-&gt;2-&gt;3 takes 20 + 15/2 = 27.5 units of time, and is therefore optimal.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO December 2012 Contest, Silver",
   "level": 14,
-  "tags": [
-    "graphs",
-    "set",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "set", "shortest_path", "dijkstra"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.2187999486923218

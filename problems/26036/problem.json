@@ -19,12 +19,7 @@
   "hint": null,
   "source": "wider93, captain, cozyyg, mingyu331, sait2000, topology",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "number_theory", "constructive", "arbitrary_precision"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.9184000492095947

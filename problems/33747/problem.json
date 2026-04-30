@@ -15,11 +15,7 @@
   "hint": "<p>The sample input is explained as follows.</p>\n<p>After the first query of type $1$, $a$ changes to $[\\left\\{ 0,1 \\right\\},\\left\\{ 0,2 \\right\\},\\left\\{ 0,3 \\right\\},\\left\\{ 0,4 \\right\\},\\left\\{ 0,5 \\right\\}]$.</p>\n<p>Then, the $\\text{mex}$ of $\\left\\{ 0,1 \\right\\}$ and $\\left\\{ 0,5 \\right\\}$ are $2$ and $1$ correspondingly.</p>\n<p>After three more queries of type $1$, $a$ changes to $[\\left\\{ 0,1 \\right\\},\\left\\{ 0,1,2 \\right\\},\\left\\{ 0,1,2,3 \\right\\},\\left\\{ 0,1,4 \\right\\},\\left\\{ 0,2,5 \\right\\}]$.</p>\n<p>Then, the $\\text{mex}$ of $\\left\\{ 0,1,2 \\right\\}$, $\\left\\{ 0,1,2,3 \\right\\}$, $\\left\\{ 0,1,4 \\right\\}$ are $3$, $4$, $2$ correspondingly.</p>",
   "source": "Camp, Osijek Competitive Programming Camp, Summer 2024, Day 5: OCPC Potluck Contest 2, hjroh0315",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "segtree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

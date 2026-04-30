@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, leejseonal ddforces (ryuted for div.1), leejseonal ddforces (ryuted for div.1), rdd6584",
   "level": 24,
-  "tags": [
-    "graphs",
-    "greedy",
-    "string",
-    "z"
-  ],
+  "tags": ["graphs", "greedy", "string", "z"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4

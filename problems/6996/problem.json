@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, University of Maryland High School Programming Contest, HSPC 2013, baekjoon, jason9319",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 4561,
   "submission_count": null,
   "average_tries": 1.919800043106079

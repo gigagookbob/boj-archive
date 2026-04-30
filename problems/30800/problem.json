@@ -23,12 +23,7 @@
   "hint": "<ul>\n<li>Python 3 사용자는 <strong>PyPy3으로 제출할 것을 권합니다.</strong></li>\n</ul>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 6회 코딩 테스트, chogahui05, ksoosung77, utilforever, vkdldjvkdnj",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "prefix_sum",
-    "priority_queue",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "prefix_sum", "priority_queue", "sliding_window"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.0455000400543213

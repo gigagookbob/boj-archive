@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2005 Arab Collegiate Programming Contest",
   "level": 10,
-  "tags": [
-    "backtracking",
-    "dp"
-  ],
+  "tags": ["backtracking", "dp"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.4062999486923218

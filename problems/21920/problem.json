@@ -15,11 +15,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 7,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 950,
   "submission_count": null,
   "average_tries": 2.486299991607666

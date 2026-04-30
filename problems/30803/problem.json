@@ -19,10 +19,7 @@
   "hint": "<p>입출력 양이 많으므로 빠른 입출력 방법을 사용하는 것을 권장합니다.</p>\r\n",
   "source": "Contest, solved.ac, solved.ac Grand Arena #3, Division 2, kipa00, solvedac, cologne, cozyyg, gs18115, seonah, shiftpsh",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 518,
   "submission_count": null,
   "average_tries": 2.0578999519348145

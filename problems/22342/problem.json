@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2021 2차대회, 중등부, Olympiad, 한국정보올림피아드, KOI 2021 2차대회, 초등부",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1211,
   "submission_count": null,
   "average_tries": 2.7423999309539795

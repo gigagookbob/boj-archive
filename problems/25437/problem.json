@@ -10,10 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2022, Practice",
   "level": 22,
-  "tags": [
-    "graphs",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "ad_hoc"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 10.521699905395508

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2015 Preliminaries",
   "level": 22,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "implementation"
-  ],
+  "tags": ["geometry", "geometry_3d", "implementation"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 6

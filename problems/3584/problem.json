@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Taejon 2002, medic_programmer, codemaster123, jh05013, khj94811, hyakintoss",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "lca"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "lca"],
   "accepted_user_count": 6512,
   "submission_count": null,
   "average_tries": 1.8818000555038452

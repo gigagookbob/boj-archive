@@ -27,11 +27,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2023 중앙대학교 CHAC (ChAOS Hello2023 Algorithm Contest), wapas, heeda0528, njw1204, pjshwa, smmaker118, tlsdydaud1, tony9402",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "implementation",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "implementation", "parametric_search"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 2.984800100326538

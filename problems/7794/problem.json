@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2008",
   "level": 15,
-  "tags": [
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "line_intersection"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

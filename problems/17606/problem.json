@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2019",
   "level": 20,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "number_theory", "constructive"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.8837000131607056

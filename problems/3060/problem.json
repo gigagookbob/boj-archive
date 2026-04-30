@@ -15,11 +15,7 @@
   "hint": null,
   "source": "tncks0121",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 1684,
   "submission_count": null,
   "average_tries": 2.8752999305725098

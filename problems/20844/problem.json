@@ -27,10 +27,7 @@
   "hint": "<p>I det första exempelfallet kan Anthony betala $2$ kronor för att vän $1$ ska byta från den första till den tredje rätten. Efter det beställs $3$ unika rätter: rätt $1$, rätt $2$ och rätt $3$.</p>\n<p>I det andra exempelfallet finns det två rätter som båda kostar $10$ kronor, och båda vännerna har valt den första rätten. Då det inte finns någon dyrare rätt än den första kan inte Anthony göra något för att ändra vännernas val, och kan aldrig uppnå $2$ unika rätter. Svaret blir då $-1$.</p>\n<p>I det tredje exempelfallet vill vännerna redan ha två olika rätter, så Anthony behöver inte betala någonting.</p>\n<p>I det sista exempelfallet vill Anthony se till att alla $8$ vänner beställer olika rätter. Det billigaste alternativet här är att betala för att vän $3$, $4$, $7$ och $8$ ska uppgradera till en av $1\\,000\\,000\\,000$-kronorsrätterna. Totalt kostar det $3\\,999\\,999\\,990$ kronor.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Online Qualification",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, May 22, 2010, Advanced",
   "level": 14,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "backtracking"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "backtracking"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

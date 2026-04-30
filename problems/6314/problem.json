@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1997, bupjae",
   "level": 10,
-  "tags": [
-    "geometry",
-    "implementation",
-    "parsing",
-    "simulation",
-    "string"
-  ],
+  "tags": ["geometry", "implementation", "parsing", "simulation", "string"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.5

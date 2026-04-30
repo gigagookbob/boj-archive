@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2014, 고등부",
   "level": 21,
-  "tags": [
-    "dp",
-    "cht"
-  ],
+  "tags": ["dp", "cht"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 2.421099901199341

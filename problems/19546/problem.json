@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 305px; width: 360px;\" /><br />\r\n&nbsp;</p>\r\n",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020, Camp, Petrozavodsk Programming Camp, Summer 2020, Day 6: Korean Contest, Diuven, evenharder, pichulia, shiftpsh, tncks0121",
   "level": 24,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 3.5332999229431152

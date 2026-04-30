@@ -19,11 +19,7 @@
   "hint": "<p>팰린드롬이란 앞에서 읽었을 때와 뒤에서 읽었을 때가 같은 문자열이다.</p>\n<p>부분문자열이란 문자열의 연속된 일부를 의미한다. 예를 들어 <span style=\"color:#e74c3c;\"><code>abcde</code></span>는 <span style=\"color:#e74c3c;\"><code>abcdefe</code></span>, <span style=\"color:#e74c3c;\"><code>eeabcde</code></span>의 부분문자열이지만 <span style=\"color:#e74c3c;\"><code>abbccdde</code></span>의 부분문자열은 아니다.</p>\n<p>문자열 $S$의 부분 문자열 $S_{l} S_{l+1} \\cdots S_{r-1} S_{r}$이 부분팰린드롬 $T$일 때 $S_{i} (l \\leq i \\leq r)$는 부분팰린드롬 $T$에 포함된다고 한다.</p>",
   "source": "University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 1, mbae059, heeda0528, qvixnh22, swoon, tony9402, utilforever, vkdldjvkdnj",
   "level": 18,
-  "tags": [
-    "string",
-    "prefix_sum",
-    "manacher"
-  ],
+  "tags": ["string", "prefix_sum", "manacher"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.8768999576568604

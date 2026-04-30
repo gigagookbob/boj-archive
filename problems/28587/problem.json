@@ -23,13 +23,7 @@
   "hint": "<p>Opis trećeg probnog primjera:</p>\n<p>Na početku su sve vrijednosti čvorova nula.</p>\n<ol>\n<li>Slavko pita koja je vrijednost čvora $5$. Nula.</li>\n<li>Opet pita isto pitanje. Naravno, nula.</li>\n<li>Sad pita za čvor $3$. Ponovno nula.</li>\n<li>Budući da je ovo prvo Mirkovo mijenjanje, postavlja vrijednosti čvorova na putu od $2$ do $3$, tj. vrijednosti čvorova $2$, $1$ i $3$ na jedan.</li>\n<li>Slavko pita za vrijednost čvora $2$. Jedan.</li>\n<li>Budući da mu je ovo drugo mijenjanje, Mirko sad postavlja vrijednosti čvorova na putu od čvora $3$ do čvora $4$ na dva.</li>\n<li>Slavko pita koja je vrijednost čvora $3$. Upravo je postavljena na dva.</li>\n<li>Sad pita koja je vrijednost čvora $1$. Jedan.</li>\n</ol>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 251px; height: 158px;\"/></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Junior Final Exam #1",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "hld",
-    "lazyprop",
-    "segtree",
-    "trees"
-  ],
+  "tags": ["data_structures", "hld", "lazyprop", "segtree", "trees"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2

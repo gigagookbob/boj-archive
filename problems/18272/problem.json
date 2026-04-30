@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the second example:</p>\n<p>The state of the word on the wall after each thrown snowball is:</p>\n<pre>\nabbab*ab\nab*ab*ab\nab*a**ab\n*b*a**ab\n*b****ab\n******ab\n*******b\n********</pre>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #3",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "parametric_search", "prefix_sum"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.5925999879837036

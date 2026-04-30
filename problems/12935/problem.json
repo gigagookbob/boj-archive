@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "trees",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "trees", "constructive"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.1084001064300537

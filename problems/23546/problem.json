@@ -15,12 +15,7 @@
   "hint": "<p>In the first sample, if Acesrc chooses $6$, Roundgod will choose $4$ and the result will be $2$.</p>\n<p>If Acesrc chooses $3$, Roundgod will choose $1$ and the result will also be $2$.</p>\n<p>Therefore the answer is $2$.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 17: Grand Prix of Nanjing (by Legilimens+Coffee Chicken)",
   "level": 21,
-  "tags": [
-    "math",
-    "bitmask",
-    "game_theory",
-    "linear_algebra"
-  ],
+  "tags": ["math", "bitmask", "game_theory", "linear_algebra"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

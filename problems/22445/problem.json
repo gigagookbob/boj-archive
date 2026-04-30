@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2013 Day 3",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "flt"
-  ],
+  "tags": ["math", "number_theory", "flt"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.4211000204086304

@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2016 East Central Regional Contest",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "string"
-  ],
+  "tags": ["bruteforcing", "string"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.25

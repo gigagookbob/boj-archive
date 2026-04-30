@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2016, ntopia",
   "level": 17,
-  "tags": [
-    "geometry",
-    "constructive",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "constructive", "convex_hull"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 4.5

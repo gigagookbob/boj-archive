@@ -19,11 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, chansol, eric00513, jhnah917, jthis, kdh6429, parkky, tony9402",
   "level": 11,
-  "tags": [
-    "implementation",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "sorting", "ad_hoc"],
   "accepted_user_count": 175,
   "submission_count": null,
   "average_tries": 5.062900066375732

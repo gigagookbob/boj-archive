@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Winter Algorithm Camp Contest, 중급, Green55, gratus907, iknoom1107, jwvg0425, tony9402",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "trees",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "trees", "sparse_table"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 2.7011001110076904

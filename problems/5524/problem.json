@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2012/2013 연습 세션, Olympiad, Japanese Olympiad in Informatics, JOI 2013/2014 연습 세션, baekjoon, onjo0127",
   "level": 2,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 8796,
   "submission_count": null,
   "average_tries": 1.263800024986267

@@ -15,10 +15,7 @@
   "hint": "<p>In Case #1, you only need to execute the maneuver once, flipping the first (and only) pancake.</p>\n<p>In Case #2, you only need to execute the maneuver once, flipping only the first pancake.</p>\n<p>In Case #3, you must execute the maneuver twice. One optimal solution is to flip only the first pancake, changing the stack to <code>--</code>, and then flip both pancakes, changing the stack to <code>++</code>. Notice that you cannot just flip the bottom pancake individually to get a one-move solution; every time you execute the maneuver, you must select a stack starting from the top.</p>\n<p>In Case #4, all of the pancakes are already happy side up, so there is no need to do anything.</p>\n<p>In Case #5, one valid solution is to first flip the entire stack of pancakes to get <code>+-++</code>, then flip the top pancake to get <code>--++</code>, then finally flip the top two pancakes to get <code>++++</code>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Qualification Round, rdd6584",
   "level": 7,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 1.198199987411499

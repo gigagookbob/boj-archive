@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2011 Mid-Central Regional Programming Contest, baekjoon",
   "level": 13,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 609,
   "submission_count": null,
   "average_tries": 3.4121999740600586

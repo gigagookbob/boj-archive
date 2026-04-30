@@ -27,13 +27,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2023, mingyu331, nick832, qwerasdfzxcl, utilforever",
   "level": 24,
-  "tags": [
-    "bcc",
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bcc", "constructive", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 10.600000381469727

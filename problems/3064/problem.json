@@ -15,10 +15,7 @@
   "hint": null,
   "source": "kookmin20103324",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 129,
   "submission_count": null,
   "average_tries": 2.2636001110076904

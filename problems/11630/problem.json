@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2015, doju",
   "level": 14,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bruteforcing", "bitmask", "dp_bitfield"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2

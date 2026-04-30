@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2015 Arab Collegiate Programming Contest",
   "level": 13,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.25

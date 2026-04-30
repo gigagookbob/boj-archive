@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2025",
   "level": 21,
-  "tags": [
-    "prefix_sum",
-    "hashing"
-  ],
+  "tags": ["prefix_sum", "hashing"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2007/2008 Spring Training Camp",
   "level": 21,
-  "tags": [
-    "dp",
-    "sorting",
-    "geometry",
-    "convex_hull",
-    "angle_sorting"
-  ],
+  "tags": ["dp", "sorting", "geometry", "convex_hull", "angle_sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.799999952316284

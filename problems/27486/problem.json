@@ -19,14 +19,7 @@
   "hint": "<p>The first example can be shown like the following image:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 455px; width: 542px;\"/></p>\n<p>Three integers are marked on $i$-th vertex: $i$, $k_i$, and $m_i$ respectively. The outgoing edges are labeled with an integer representing the edge number of $i$-th vertex.</p>\n<p>The travel for each query works as follows. It is described as a sequence of phrases, each in the format “vertex ($c$ after $k_i$ added)”.</p>\n<ul>\n<li>$1(0)\\to 2(0)\\to 2(0)\\to\\ldots$</li>\n<li>$2(0)\\to 2(0)\\to\\ldots$</li>\n<li>$3(-1)\\to 1(-1)\\to 3(-1)\\to\\ldots$</li>\n<li>$4(-2)\\to 2(-2)\\to 2(-2)\\to\\ldots$</li>\n<li>$1(1)\\to 3(1)\\to 4(1)\\to 1(1)\\to\\ldots$</li>\n<li>$1(5)\\to 3(5)\\to 1(5)\\to\\ldots$</li>\n</ul>\n<p>The second example is same as the first example, except that the vertices have non-zero values. Therefore the answers to the queries also differ from the first example.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 455px; width: 542px;\"/></p>\n<p>The queries for the second example works as follows:</p>\n<ul>\n<li>$1(4)\\to 2(-1)\\to 2(-6)\\to\\ldots$</li>\n<li>$2(-5)\\to 2(-10)\\to\\ldots$</li>\n<li>$3(-4)\\to 1(0)\\to 2(-5)\\to 2(-10)\\to\\ldots$</li>\n<li>$4(-3)\\to 1(1)\\to 3(-2)\\to 4(-3)\\to\\ldots$</li>\n<li>$1(5)\\to 3(2)\\to 1(6)\\to 2(1)\\to 2(-4)\\to\\ldots$</li>\n<li>$1(9)\\to 3(6)\\to 2(1)\\to 2(-4)\\to\\ldots$</li>\n</ul>",
   "source": "Contest, Codeforces, Codeforces Round 578 (Div. 2), djm03178",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "number_theory",
-    "dag",
-    "functional_graph"
-  ],
+  "tags": ["math", "dp", "graphs", "number_theory", "dag", "functional_graph"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.6875

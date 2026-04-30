@@ -15,9 +15,7 @@
   "hint": "<p>Although there is a cheaper two-route solution (use route 2 to travel from city 1 to city 3, then route 1 to travel from city 3 to city 2), Bessie is only allowed to use a single route, so she must use route 3 at a cost of 8.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO January 2015 Contest, Bronze",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 565,
   "submission_count": null,
   "average_tries": 2.1521999835968018

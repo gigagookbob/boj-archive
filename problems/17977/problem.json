@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2019",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["math", "dp", "ad_hoc"],
   "accepted_user_count": 310,
   "submission_count": null,
   "average_tries": 1.8870999813079834

@@ -15,12 +15,7 @@
   "hint": "<p>If a house Y lies on the border of the third of plane visible from another house X, the participant who went to house X will not take a picture of Y, as this picture would only be partial. If a house Z lies on the segment [X,Y] when Y is visible from X, then the participant who went to house X will take one picture focusing only on the house Y, and another picture focusing only on the house Z.</p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019 연습 세션",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "coordinate_compression"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.4666999578475952

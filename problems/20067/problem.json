@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2017, Day 1",
   "level": 12,
-  "tags": [
-    "constructive",
-    "graphs"
-  ],
+  "tags": ["constructive", "graphs"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.871000051498413

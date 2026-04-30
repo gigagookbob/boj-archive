@@ -15,12 +15,7 @@
   "hint": "<p>실제로 조화평균은 N/(1/A[1] + 1/A[2] + … + 1/A[N]) 이지만, 이 문제에서는 문제에 나와있는 값을 조화평균이라고 하자.</p>",
   "source": "jh05013",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "implementation", "number_theory", "euclidean"],
   "accepted_user_count": 675,
   "submission_count": null,
   "average_tries": 2.796999931335449

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "baekjoon, apjw6112",
   "level": 11,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 10135,
   "submission_count": null,
   "average_tries": 2.08870005607605

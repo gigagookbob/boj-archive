@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "dp",
-    "trees"
-  ],
+  "tags": ["dp", "trees"],
   "accepted_user_count": 686,
   "submission_count": null,
   "average_tries": 2.1034998893737793

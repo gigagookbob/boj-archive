@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2023 HPEC (Hanyang Programming Evaluation Contest), Beginner, opusdeisong, bsheep0304, hansoyo, hibye1217, jjaewon9, jrdora, myyh1234",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 264,
   "submission_count": null,
   "average_tries": 3.227299928665161

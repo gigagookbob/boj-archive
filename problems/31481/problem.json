@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 양갈래컵, 제 1회 양갈래컵, mymasterpark2, ibm2006, mingyu331, pretty_pi, sksms1375",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 7.1875

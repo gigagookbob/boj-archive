@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2021/2022 Spring Training Camp",
   "level": 26,
-  "tags": [
-    "greedy",
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["greedy", "geometry", "convex_hull"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.3783999681472778

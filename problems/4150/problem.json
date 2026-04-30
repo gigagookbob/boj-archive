@@ -15,10 +15,7 @@
   "hint": "<p>해당 테스트 데이터의 모든 정답은 1000자를 넘지 않는다. ( f(20) = 6765 이므로 4자다.&nbsp;)</p>\r\n",
   "source": "Contest, Waterloo's local Programming Contests, 19 June, 2011, jjwdi0, mystika",
   "level": 5,
-  "tags": [
-    "math",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arbitrary_precision"],
   "accepted_user_count": 2784,
   "submission_count": null,
   "average_tries": 1.7865999937057495

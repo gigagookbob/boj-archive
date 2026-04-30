@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2021",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "lis"
-  ],
+  "tags": ["data_structures", "greedy", "lis"],
   "accepted_user_count": 247,
   "submission_count": null,
   "average_tries": 1.9838000535964966

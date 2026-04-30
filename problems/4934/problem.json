@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2005 Arab Collegiate Programming Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.1683000326156616

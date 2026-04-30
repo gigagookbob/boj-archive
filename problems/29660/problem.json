@@ -19,12 +19,7 @@
   "hint": "<p>Иллюстрация ко второму примеру.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 335px; height: 261px;\"/></p>\n<p>Пунктирной линией обозначен невостребованный путь.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, April 10, 2010",
   "level": 17,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "lca",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "lca", "trees"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "bruteforcing",
-    "case_work",
-    "math",
-    "precomputation"
-  ],
+  "tags": ["ad_hoc", "bruteforcing", "case_work", "math", "precomputation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.25

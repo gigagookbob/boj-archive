@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, March 18, 2013",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "linked_list",
-    "priority_queue",
-    "sorting"
-  ],
+  "tags": ["data_structures", "linked_list", "priority_queue", "sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

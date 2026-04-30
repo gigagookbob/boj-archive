@@ -19,10 +19,7 @@
   "hint": "<p><b>\"Was it a cat I saw?\"</b>는 실제 \"이상한 나라의 앨리스\" 소설에서 등장하는 회문(palindrome)이다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2019, bsyun0571",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 905,
   "submission_count": null,
   "average_tries": 1.5812000036239624

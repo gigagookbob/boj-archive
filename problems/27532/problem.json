@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li>첫 번째 시계: 1, 3번째 기록</li>\n<li>두 번째 시계: 2, 5번째 기록</li>\n<li>세 번째 시계: 4번째 기록</li>\n</ul>\n<p>인 경우 $N=3$으로 최적이다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter), amel, dohoon, heeda0528, jthis, leo020630, mjhmjh1104, pjshwa, tlsdydaud1, utilforever",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["bruteforcing", "set"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 2.7151999473571777

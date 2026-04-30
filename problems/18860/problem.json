@@ -19,13 +19,7 @@
   "hint": "<p>석유가 정수 단위로만 저장될 수 있음에 유의하라. 예를 들어, 4만큼 넘친 석유가 1, 1, 2로 나누어져 3개의 탱크로 흘러들 수는 있지만 0.5, 1.0, 2.5로 나누어지는 것은 불가능하다.</p>\n<p>시각 0에 어떤 하나의 펌프가 작동되기 시작하므로, 석유가 차오르기 시작하는 시각은 1이다.</p>\n<p><strong>처음으로 작동되는 펌프가 무엇인지에 따라 모든 탱크가 가득 차는 시각이 달라질 수 있음에 유의하라.</strong></p>",
   "source": "Contest, BOJ User Contest, 논산 코드 페스티벌, 제1회 논산 코드 페스티벌, wookje",
   "level": 19,
-  "tags": [
-    "implementation",
-    "dp",
-    "greedy",
-    "trees",
-    "simulation"
-  ],
+  "tags": ["implementation", "dp", "greedy", "trees", "simulation"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.2083001136779785

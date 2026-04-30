@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, University of Maryland High School Programming Contest, HSPC 2012",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "set"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.0714000463485718

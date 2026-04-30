@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, one of many optimal solutions is obtained by the second player moving two steps to the left and three steps down to the point (2, 1).</p>\n<p>In the second test case, a perfect line can be formed with a total of four steps if the first player moves to the point (0, 2) and the third player moves to the point (2, 2).</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round H",
   "level": 16,
-  "tags": [
-    "math",
-    "ternary_search"
-  ],
+  "tags": ["math", "ternary_search"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2020, Camp, Petrozavodsk Programming Camp, Winter 2021, Day 3: Nordic+ Contest 2020",
   "level": 22,
-  "tags": [
-    "math",
-    "string",
-    "fft"
-  ],
+  "tags": ["math", "string", "fft"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2

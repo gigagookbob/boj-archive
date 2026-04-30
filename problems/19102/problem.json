@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 7: DPRK Contest 2",
   "level": 21,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring",
-    "berlekamp_massey"
-  ],
+  "tags": ["math", "exponentiation_by_squaring", "berlekamp_massey"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.3667000532150269

@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>There are 10 fences and 4 cows. The fences form a square containing two triangles.</p>\n<h4>Output Details</h4>\n<p>Cows #2 and #4 belong to the same community. Cows #1 and #3 are each members of a community of size 1.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO December 2012 Contest, Silver, jh05013",
   "level": 19,
-  "tags": [
-    "geometry",
-    "set",
-    "point_in_non_convex_polygon"
-  ],
+  "tags": ["geometry", "set", "point_in_non_convex_polygon"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 4.599999904632568

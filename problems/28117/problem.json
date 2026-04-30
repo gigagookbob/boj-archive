@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2023 SCON, edenooo, chansol, cologne, jhnah917, junseo, kyo20111, ryute",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "string"
-  ],
+  "tags": ["math", "dp", "string"],
   "accepted_user_count": 267,
   "submission_count": null,
   "average_tries": 1.9924999475479126

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "moonrabbit2",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2096,
   "submission_count": null,
   "average_tries": 1.3693000078201294

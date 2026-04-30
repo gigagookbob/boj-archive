@@ -23,10 +23,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: Slika odgovara stanju vrtuljka nakon svih vrtnji.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 411px; height: 305px;\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2022",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.354200005531311

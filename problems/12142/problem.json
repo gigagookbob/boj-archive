@@ -15,10 +15,7 @@
   "hint": "<p>Note that Case #6 is not within the limits for the Small dataset.<br/>\n<br/>\nIn Case #1, the one available source happens to be the exact temperature we need. The optimal strategy is to immediately turn it on and let it run until we have 10 L. Since 0.2 L will come out every second, this takes 50 seconds.<br/>\n<br/>\nIn Case #2, one optimal strategy is to turn on the first source and let it run for 207221.843687375 seconds, and then, about 0.092778156 seconds before the end, also turn on the second source.<br/>\n<br/>\nIn Case #3, both available water sources are cooler than the target temperature, so there is no way to reach it.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 2",
   "level": 18,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2

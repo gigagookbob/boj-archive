@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1997, 고등부, draner11, silvercube, dlwocks31",
   "level": 11,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 2942,
   "submission_count": null,
   "average_tries": 1.7548999786376953

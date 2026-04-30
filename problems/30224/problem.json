@@ -35,10 +35,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2023 Local Programming Contest (Final Round)",
   "level": 1,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 2855,
   "submission_count": null,
   "average_tries": 1.3327000141143799

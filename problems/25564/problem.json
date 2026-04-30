@@ -15,11 +15,7 @@
   "hint": "<p>개수에만 초점을 맞추면 문제를 풀 수 없습니다. 핵심을 봐야 돼요.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2022 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2022 Summer), shjohw12, gumgood, leo020630, mjhmjh1104, tlsdydaud1",
   "level": 21,
-  "tags": [
-    "string",
-    "suffix_array",
-    "manacher"
-  ],
+  "tags": ["string", "suffix_array", "manacher"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 3.4902000427246094

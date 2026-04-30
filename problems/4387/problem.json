@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 23 September, 2000",
   "level": 13,
-  "tags": [
-    "backtracking",
-    "parsing",
-    "recursion",
-    "string"
-  ],
+  "tags": ["backtracking", "parsing", "recursion", "string"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.90910005569458

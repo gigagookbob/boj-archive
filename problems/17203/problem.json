@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2019 NPC (Newbie Programming Contest), shieldnet",
   "level": 7,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 994,
   "submission_count": null,
   "average_tries": 1.201200008392334

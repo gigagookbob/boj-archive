@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2009 Day 2",
   "level": 22,
-  "tags": [
-    "geometry",
-    "polygon_area",
-    "half_plane_intersection",
-    "voronoi"
-  ],
+  "tags": ["geometry", "polygon_area", "half_plane_intersection", "voronoi"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5262999534606934

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2013",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 212,
   "submission_count": null,
   "average_tries": 2.9574999809265137

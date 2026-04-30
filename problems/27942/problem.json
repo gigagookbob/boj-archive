@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가지컵, 2023 가지컵, yup0927, functionx, jihwan_0319, kiwiyou, mingyu331, wapas, WeissBlume, wider93",
   "level": 11,
-  "tags": [
-    "implementation",
-    "prefix_sum",
-    "simulation"
-  ],
+  "tags": ["implementation", "prefix_sum", "simulation"],
   "accepted_user_count": 226,
   "submission_count": null,
   "average_tries": 1.8583999872207642

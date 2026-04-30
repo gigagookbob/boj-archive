@@ -15,9 +15,7 @@
   "hint": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"width: 100px;\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\">A1</td>\n<td style=\"text-align: center;\">B1</td>\n<td style=\"text-align: center;\">C1</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">A2</td>\n<td style=\"text-align: center;\">B2</td>\n<td style=\"text-align: center;\">C2</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">A3</td>\n<td style=\"text-align: center;\">B3</td>\n<td style=\"text-align: center;\">C3</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">A4</td>\n<td style=\"text-align: center;\">B4</td>\n<td style=\"text-align: center;\">C4</td>\n</tr>\n</tbody>\n</table>",
   "source": "Contest, BOJ User Contest, 구데기컵, EtvycAuRLZpb6hhe86x0, cozyyg",
   "level": 0,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.1666998863220215

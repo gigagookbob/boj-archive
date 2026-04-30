@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2024",
   "level": 17,
-  "tags": [
-    "implementation",
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["implementation", "dp", "game_theory"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.5917999744415283

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, UNIST-DGIST-POSTECH, 2023 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2023 UDPC), g3gogogo, 99asdfg, cs71107, ekwoo, hyperbolic, kdh9949, knon0501, leo020630, qjatn0120, queued_q, slah007, tony9402, utilforever",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 674,
   "submission_count": null,
   "average_tries": 3.789299964904785

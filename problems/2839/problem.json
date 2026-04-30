@@ -31,11 +31,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #7, baekjoon, hyunynim, jh05013",
   "level": 7,
-  "tags": [
-    "dp",
-    "greedy",
-    "math"
-  ],
+  "tags": ["dp", "greedy", "math"],
   "accepted_user_count": 116655,
   "submission_count": null,
   "average_tries": 2.5660998821258545

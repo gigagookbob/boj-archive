@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2020 중앙대학교 프로그래밍 경진대회 (CPC), njw1204, gratus907, rhs0266, snrnsidy",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "parity"
-  ],
+  "tags": ["binary_search", "prefix_sum", "parity"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.066699981689453

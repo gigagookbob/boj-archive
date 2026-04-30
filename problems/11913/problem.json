@@ -15,12 +15,7 @@
   "hint": "<p>첫 번째, 두 번째, 세 번째 입력 모두에서 석환이에게만 맡기는 것이 최선입니다.</p>\n<p>네 번째 입력에서는 상수와 석환이 모두에게 맡겨야 합니다. 변화를 살펴보자면 아래와 같습니다. 오른쪽으로 향하는 화살표는 상수의 가공을, 아래로 향하는 화살표는 석환이의 가공을 의미합니다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:101px; width:465px\"/></p>",
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA9",
   "level": 19,
-  "tags": [
-    "dp",
-    "euclidean",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["dp", "euclidean", "math", "number_theory"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.8213999271392822

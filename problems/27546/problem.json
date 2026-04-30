@@ -31,13 +31,7 @@
   "hint": null,
   "source": "Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics for Girls, JOIG 2022/2023",
   "level": 21,
-  "tags": [
-    "dp",
-    "geometry",
-    "bitmask",
-    "dp_bitfield",
-    "convex_hull"
-  ],
+  "tags": ["dp", "geometry", "bitmask", "dp_bitfield", "convex_hull"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.6399999856948853

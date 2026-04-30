@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2021 Goricon, skeep194, djs100201, jh05013, wbcho0504, WeissBlume",
   "level": 0,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "greedy", "prefix_sum"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.8056000471115112

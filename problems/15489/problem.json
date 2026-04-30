@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, koi4u, koi4u 2008년 5월 모의고사, kcm1700",
   "level": 7,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 2294,
   "submission_count": null,
   "average_tries": 1.6051000356674194

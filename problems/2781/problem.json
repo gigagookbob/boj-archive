@@ -15,12 +15,7 @@
   "hint": null,
   "source": "myungwoo",
   "level": 15,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "implementation",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "implementation", "shortest_path"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 8.105299949645996

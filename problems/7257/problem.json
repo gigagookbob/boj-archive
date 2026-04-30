@@ -15,11 +15,7 @@
   "hint": "<p>Atkreipkite dėmesį, kad skaičiavimams gali prireikti 64 bitų sveikųjų skaičių tipo long long (C/C++).</p>",
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2021/2022, National Round (2), 7-9 Classes",
   "level": 11,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["sorting", "binary_search", "prefix_sum"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.1333000659942627

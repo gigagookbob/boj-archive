@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2024 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2024 아주대학교 프로그래밍 경시대회 APC, Div.2, University, 아주대학교, 2024 아주대학교 프로그래밍 경시대회 APC, Open Contest, dbrua1222, acepark, akim9905, Coxie, deuslovelt, heeda0528, hojoon0205, jk410, lky7674, max804, nick832, palilo, pani, petamingks, shjohw12",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 445,
   "submission_count": null,
   "average_tries": 1.5257999897003174

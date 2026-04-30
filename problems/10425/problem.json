@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2014 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2014 Sogang Programming Contest, Champion",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "set",
-    "arbitrary_precision"
-  ],
+  "tags": ["binary_search", "set", "arbitrary_precision"],
   "accepted_user_count": 427,
   "submission_count": null,
   "average_tries": 2.5855000019073486

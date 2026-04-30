@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2014, TAMREF",
   "level": 20,
-  "tags": [
-    "geometry",
-    "two_pointer",
-    "convex_hull",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "two_pointer", "convex_hull", "ternary_search"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 2.8424999713897705

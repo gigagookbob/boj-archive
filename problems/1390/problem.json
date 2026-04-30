@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "implementation",
-    "dp",
-    "case_work",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["implementation", "dp", "case_work", "bitmask", "dp_bitfield"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.009200096130371

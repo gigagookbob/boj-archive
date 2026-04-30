@@ -31,12 +31,7 @@
   "hint": "<p>한 점을 지웠을 때, 나머지 점들이 일직선상에 있다면 2개의 꼭짓점으로 볼록 껍질이 구성되므로 세지 않는다.</p>",
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Winter Algorithm Camp Contest, 중급, dreami63, dart, lickelon, man_of_learning, pinebananais",
   "level": 21,
-  "tags": [
-    "sorting",
-    "geometry",
-    "binary_search",
-    "convex_hull"
-  ],
+  "tags": ["sorting", "geometry", "binary_search", "convex_hull"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.3610999584198

@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2023",
   "level": 17,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.6458001136779785

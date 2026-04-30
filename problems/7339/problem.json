@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 1999",
   "level": 13,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "greedy",
-    "sorting",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "greedy", "sorting", "trees"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

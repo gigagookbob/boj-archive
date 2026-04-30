@@ -15,9 +15,7 @@
   "hint": "<p>Two aircrafts fly over Linetopia. The first starts at city 1 and heads east. It drops 5 soldiers on city 1, 7 soldiers on city 2, and 9 soldiers on city 3. The second starts at city 3 and flies west. It drops 10 soldiers on city 3 and 20 soldiers on city 2.</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2016",
   "level": 12,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.7647000551223755

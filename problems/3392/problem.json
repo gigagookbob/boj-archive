@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"width: 188px; height: 250px;\" /></p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2001, Contest, Algorithmic Engagements, PA 2001, baekjoon, WeissBlume",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping"],
   "accepted_user_count": 1430,
   "submission_count": null,
   "average_tries": 2.4328999519348145

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2018, dotorya",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "bfs",
-    "bitmask",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["ad_hoc", "bfs", "bitmask", "graphs", "graph_traversal"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 3.6963999271392822

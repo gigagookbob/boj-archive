@@ -15,12 +15,7 @@
   "hint": "<p>두 테스트 케이스 모두</p>\n<table class=\"table table-bordered table-center-20 th-center td-center\">\n<thead>\n<tr>\n<th>문자</th>\n<th>인코딩</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td><code>3</code></td>\n<td><code>0</code></td>\n</tr>\n<tr>\n<td><code>2</code></td>\n<td><code>10</code></td>\n</tr>\n<tr>\n<td><code>1</code></td>\n<td><code>110</code></td>\n</tr>\n<tr>\n<td><code>0</code></td>\n<td><code>111</code></td>\n</tr>\n</tbody>\n</table>\n<p>로 할당하면 최소의 길이를 얻을 수 있다. 첫 번째 케이스의 경우 $3 + 4 + 3 = 10$ 길이로 문자열을 표현할 수 있으며, 두 번째 케이스의 경우 $3 + 4 + 2 = 9$ 길이로 문자열을 표현할 수 있다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2012",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "trees",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "trees", "priority_queue"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 3.7909998893737793

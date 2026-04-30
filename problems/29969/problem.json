@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2017-18, Open Competition",
   "level": 21,
-  "tags": [
-    "graphs",
-    "geometry",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "geometry", "flow", "mfmc"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

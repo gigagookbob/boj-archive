@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, National Competition #1 - Juniors, author6, ho94949",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 3371,
   "submission_count": null,
   "average_tries": 2.246500015258789

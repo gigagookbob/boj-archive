@@ -39,12 +39,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2022",
   "level": 19,
-  "tags": [
-    "dp",
-    "exponentiation_by_squaring",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["dp", "exponentiation_by_squaring", "math", "number_theory"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.9333000183105469

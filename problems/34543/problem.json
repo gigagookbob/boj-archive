@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2025 HICON 홍익대학교 프로그래밍 경진대회, pauljjang410, gs18115, jthis, sjhi00, ystaeyoon113",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 790,
   "submission_count": null,
   "average_tries": 1.5480999946594238

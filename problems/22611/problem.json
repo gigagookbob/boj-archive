@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2009",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["binary_search", "data_structures", "tree_set", "set"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.75

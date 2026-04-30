@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2003 East Central Regional Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 259,
   "submission_count": null,
   "average_tries": 2.4632999897003174

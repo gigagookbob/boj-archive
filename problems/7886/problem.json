@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2008",
   "level": 19,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring",
-    "linear_algebra"
-  ],
+  "tags": ["math", "exponentiation_by_squaring", "linear_algebra"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

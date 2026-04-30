@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2018 홍익대학교 컴퓨터공학과 코딩대회",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 15707,
   "submission_count": null,
   "average_tries": 1.1660000085830688

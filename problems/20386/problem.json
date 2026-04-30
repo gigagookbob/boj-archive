@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1993 Mid-Central Regional Programming Contest",
   "level": 5,
-  "tags": [
-    "implementation",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["implementation", "geometry", "geometry_3d"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.6764999628067017

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2005",
   "level": 15,
-  "tags": [
-    "graphs",
-    "topological_sorting",
-    "dag"
-  ],
+  "tags": ["graphs", "topological_sorting", "dag"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

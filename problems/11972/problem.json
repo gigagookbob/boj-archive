@@ -15,10 +15,7 @@
   "hint": "<p>There are 3 people and 4 milk types. Person 1 gets sick at time 3 and person 2 gets sick at time 8. Person 3 does not get sick at the party, although we may still need to consider the possibility that he could become sick later, after the party ends. Let's consider the milk types one by one to see which ones could be contaminated; we know a milk type is potentially bad if everyone who became sick drank that milk type before becoming sick.</p>\n<p>Milk 1: Both of the sick people (1 and 2) drank this milk before getting sick, so this could be the bad milk. If so, person 3 also drank it, so it would cause a total of 3 people to get sick (person 3 would become sick after the party).</p>\n<p>Milk 2: Both of the sick people drank this milk before getting sick, so this could also be the bad milk. Nobody else drank this milk, so at worst 2 total people could be sick if this is the bad milk.</p>\n<p>Milk 3: This cannot be the bad milk because person 1 did not drink it before getting sick -- person 1 drank it at time 4, and got sick at time 3. For milk 3 to be implicated in person 1 getting sick, person 1 would have needed to drink this milk by time 2 at the latest.</p>\n<p>Milk 4: This cannot be the bad milk because person 2 did not drink it, and yet person 2 became sick.</p>\n<p>The answer is therefore that Farmer John must obtain 3 doses of medicine, since if milk 1 is bad, then a total of 3 people will need to be cured.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO December 2015 Contest, Bronze, jf297",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 331,
   "submission_count": null,
   "average_tries": 3.2627999782562256

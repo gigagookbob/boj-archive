@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["graphs", "bruteforcing", "bitmask"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.105299949645996

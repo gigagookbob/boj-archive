@@ -15,9 +15,7 @@
   "hint": "<p>Рисунок ниже показывает, какие кегли будут сбиты (такие кегли обозначены «х»).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 300px; height: 327px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2012",
   "level": 16,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

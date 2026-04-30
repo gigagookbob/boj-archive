@@ -15,12 +15,7 @@
   "hint": null,
   "source": "author5, kyo20111",
   "level": 17,
-  "tags": [
-    "math",
-    "implementation",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["math", "implementation", "constructive", "bitmask"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 4.4222002029418945

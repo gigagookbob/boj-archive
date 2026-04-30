@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2016",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "math",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "geometry", "math", "two_pointer"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2

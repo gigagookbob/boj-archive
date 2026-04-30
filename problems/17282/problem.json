@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Lawali",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "multi_segtree",
-    "segtree"
-  ],
+  "tags": ["data_structures", "multi_segtree", "segtree"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 9.285699844360352

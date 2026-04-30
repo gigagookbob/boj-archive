@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2015",
   "level": 28,
-  "tags": [
-    "bitset",
-    "crt",
-    "dp",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bitset", "crt", "dp", "math", "number_theory"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

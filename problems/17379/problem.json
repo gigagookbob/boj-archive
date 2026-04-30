@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2019, doju",
   "level": 26,
-  "tags": [
-    "case_work",
-    "constructive",
-    "implementation",
-    "math"
-  ],
+  "tags": ["case_work", "constructive", "implementation", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 16.3528995513916

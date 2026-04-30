@@ -19,10 +19,7 @@
   "hint": null,
   "source": "doju, jh05013, rdd6584",
   "level": 14,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["exponentiation_by_squaring", "math"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.5750000476837158

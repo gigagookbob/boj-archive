@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 논산 코드 페스티벌, 제1회 논산 코드 페스티벌, xtalxlr",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "math",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["combinatorics", "math", "permutation_cycle_decomposition"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5713999271392822

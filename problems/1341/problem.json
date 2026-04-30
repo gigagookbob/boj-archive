@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon, ho94949, HyehwA",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 242,
   "submission_count": null,
   "average_tries": 3.636399984359741

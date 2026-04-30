@@ -15,13 +15,7 @@
   "hint": "<p>この出力例は，11 個の UFO を着陸させることができる計画書である．</p>",
   "source": ", Camp, JOI Spring Training Camp, JOI 2010/2011 Spring Training Camp",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "bitmask",
-    "constructive",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["ad_hoc", "bitmask", "constructive", "dp", "dp_bitfield"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.2105000019073486

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, JOI Spring Training Camp, JOI 2023/2024 Spring Training Camp",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "sparse_table",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "sparse_table", "sqrt_decomposition"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 11.25

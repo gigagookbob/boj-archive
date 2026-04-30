@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2025, Division 1",
   "level": 20,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "two_pointer"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "two_pointer"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

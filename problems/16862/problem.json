@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2018 East Central Regional Contest 연습 세션",
   "level": 9,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.8276000022888184

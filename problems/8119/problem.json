@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1994/1995, Stage 2",
   "level": 12,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "recursion"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "recursion"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.0556000471115112

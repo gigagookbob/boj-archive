@@ -31,12 +31,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2021/2022 Spring Training Camp",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "prefix_sum",
-    "priority_queue"
-  ],
+  "tags": ["dp", "data_structures", "prefix_sum", "priority_queue"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.965499997138977

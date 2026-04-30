@@ -15,11 +15,7 @@
   "hint": "<p>The sorcerers can sit around the table in one of the six orders: 53124, 53142, 52143, 53412, 52314, 53214.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2014/2015, Stage 1",
   "level": 23,
-  "tags": [
-    "dp",
-    "case_work",
-    "backtracking"
-  ],
+  "tags": ["dp", "case_work", "backtracking"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

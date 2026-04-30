@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2015",
   "level": 16,
-  "tags": [
-    "arbitrary_precision",
-    "ternary_search"
-  ],
+  "tags": ["arbitrary_precision", "ternary_search"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4

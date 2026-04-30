@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, ROOKIE League, gugusny5758",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 1352,
   "submission_count": null,
   "average_tries": 1.9053000211715698

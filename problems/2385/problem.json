@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2004, bachjs, ntopia",
   "level": 18,
-  "tags": [
-    "greedy",
-    "string",
-    "sorting"
-  ],
+  "tags": ["greedy", "string", "sorting"],
   "accepted_user_count": 247,
   "submission_count": null,
   "average_tries": 4.8703999519348145

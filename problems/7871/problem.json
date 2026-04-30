@@ -15,11 +15,7 @@
   "hint": "<p>Java Version of The Program</p>\n<pre>\nimport java.util.Scanner;\n\npublic class Compute {\n\n    static long checksum (byte[] str, int len) {\n        int r = 0;\n        for (int k=0; k&lt;8*len; k++) {                  // iterate over bits of str\n            if ((r &amp; (1&lt;&lt;31)) != 0) r = (r &lt;&lt; 1) ^ 0x04c11db7;\n            else r = (r &lt;&lt; 1);                         // do some magic\n            if ((str[k/8] &amp; 1&lt;&lt;(7-k%8)) != 0)          // if the k-th bit of str is set,\n                r ^= 1;                                // then flip the last bit of r\n        }\n        long rr = (r&lt;0 ? r+0x100000000L : r);          // Java does not have unsigned int\n        return rr;\n    }\n\n    public static void main(String[] args) {\n        Scanner in = new Scanner(System.in);\n        for (int TESTS = in.nextInt(); TESTS&gt;0; TESTS--) {\n            int n = in.nextInt();                      // read the input\n            byte[] str = in.next().getBytes();         // compute checksum for\n            System.out.println (checksum(str,n));      // original string\n            for (int changes = in.nextInt(); changes&gt;0; changes--) {\n                int p = in.nextInt();                  // apply the change\n                byte c = in.next().getBytes()[0];\n                str[p-1] = c;\n                System.out.println (checksum(str,n));  // compute checksum for\n            } // modified string\n        }\n    }\n}</pre>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2009",
   "level": 16,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

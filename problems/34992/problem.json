@@ -15,11 +15,7 @@
   "hint": "<p>$0$은 $\\mathbf{2}$의 배수이다.</p>",
   "source": "Contest, BOJ User Contest, 카툰컵, Cartoon Cup: ONE, hibye1217, iktk, kaorin, ohwphil, qvixnh22, utilforever",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "trees",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "trees", "constructive"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.4211000204086304

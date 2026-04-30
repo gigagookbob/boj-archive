@@ -15,10 +15,7 @@
   "hint": "<p>$N = 10$, $M = 4$인 경우, 아래처럼 계산해볼 수 있다.</p>\n<pre>\nsum = 0;\nfor (a = 1; a ≤ 10; a++)\n    for (b = 1; b ≤ 10; b++)\n        for (c = 1; c ≤ 10; c++)\n            for (d = 1; d ≤ 10; d++)\n                sum = sum + gcd(gcd(gcd(a, b), c), d);</pre>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2012, altertain",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.354200005531311

@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 piles, of heights 2, 10, 7, and 1.</p><h4>Output Details</h4><p>By moving 7 hay bales (3 from pile 2 to pile 1, 2 from pile 2 to pile 4, 2 from pile 3 to pile 4), we can make all piles have height 5.</p><p></p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO December 2011 Contest, Bronze",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 580,
   "submission_count": null,
   "average_tries": 1.1466000080108643

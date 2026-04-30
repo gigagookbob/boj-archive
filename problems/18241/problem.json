@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2019, bsyun0571",
   "level": 18,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "stack",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "string", "stack", "deque"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 8.211299896240234

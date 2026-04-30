@@ -15,12 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 4328,
   "submission_count": null,
   "average_tries": 2.0873000621795654

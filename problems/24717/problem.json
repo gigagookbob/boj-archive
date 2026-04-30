@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 6: ICPC Camp Day 1: PKU Contest",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "constructive", "game_theory"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.75

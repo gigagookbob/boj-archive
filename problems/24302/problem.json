@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2019, Group E",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "case_work"],
   "accepted_user_count": 219,
   "submission_count": null,
   "average_tries": 2.8994998931884766

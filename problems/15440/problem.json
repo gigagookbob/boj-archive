@@ -19,12 +19,7 @@
   "hint": "<p>For the first example, another possible answer is “uber”.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 4 March, 2017",
   "level": 16,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "constructive",
-    "lcs"
-  ],
+  "tags": ["string", "ad_hoc", "constructive", "lcs"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.7894999980926514

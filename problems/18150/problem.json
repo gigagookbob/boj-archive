@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, 2019 ICPC Asia Taipei-Hsinchu Regional",
   "level": 20,
-  "tags": [
-    "geometry",
-    "two_pointer",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "two_pointer", "convex_hull"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.3870999813079834

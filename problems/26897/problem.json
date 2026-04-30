@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, KATT",
   "level": 14,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

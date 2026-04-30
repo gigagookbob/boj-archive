@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2012, baekjoon, corea",
   "level": 17,
-  "tags": [
-    "math",
-    "implementation",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "implementation", "combinatorics", "probability"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 5.875

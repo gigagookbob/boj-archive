@@ -15,11 +15,7 @@
   "hint": "<p>The output of 5th case is not shown for obvious reasons. ‘?’ denotes a single digit</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2016 ACM-ICPC Asia-Bangkok Regional Contest, sait2000",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "mobius_inversion"
-  ],
+  "tags": ["math", "number_theory", "mobius_inversion"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.8028000593185425

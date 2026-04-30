@@ -19,11 +19,7 @@
   "hint": "<p>$a$의 제곱은 $a$를 두 번 곱한 수로, $a^2$으로 표현합니다. $a^2 = a \\times a$입니다. 또한, $a$의 세제곱은 $a$를 세 번 곱한 수로, $a^3$으로 표현합니다. $a^3 = a \\times a \\times a$ 입니다.</p>\r\n",
   "source": "Contest, solved.ac, solved.ac Grand Arena #2, cologne, solvedac, ai4youej, bnb2011, chansol, cologne, cozyyg, gs18115, havana723, jh05013, moonrabbit2, pichulia, shiftpsh",
   "level": 1,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 5448,
   "submission_count": null,
   "average_tries": 1.3680000305175781

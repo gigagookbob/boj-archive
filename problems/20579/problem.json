@@ -19,10 +19,7 @@
   "hint": "<p>In first sample we need to put four animals in a cell $(1, 1)$ (contributing $\\frac{4 \\cdot 3}{2} = 6$ to the sociality) and put three remaining animals in a cell $(1, 2)$ (contributing $\\frac{3 \\cdot 2}{2} = 3$ to the sociality).</p>\n<p>Second sample test is depicted below. All animals can be put in a cell $(4, 1)$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 191px; height: 100px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 1: Warsaw U Contest",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["ad_hoc", "prefix_sum"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.09089994430542

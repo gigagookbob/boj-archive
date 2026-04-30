@@ -19,10 +19,7 @@
   "hint": null,
   "source": "masioka, whtjddjs0723, arine, ljk0411jg",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 12938,
   "submission_count": null,
   "average_tries": 2.0262999534606934

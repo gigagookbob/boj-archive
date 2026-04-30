@@ -15,9 +15,7 @@
   "hint": "<p>1 日目に，あなたは宿場町 1 から宿場町 3 まで移動する．2 日目に，あなたは宿場 町 3 から宿場町 2 まで移動する．そして，3 日目に宿場町 2 から宿場町 5 まで移動 し，4 日目に宿場町 5 から宿場町 7 まで移動し，5 日目に宿場町 7 から宿場町 4 ま で移動する．5 日間の旅におけるあなたの移動距離の合計は 18 である．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 543px; height: 262px;\"/></p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2009/2010",
   "level": 8,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.6779999732971191

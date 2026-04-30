@@ -15,11 +15,7 @@
   "hint": "<p>문제 설명에 등장한 예시와 같다. 긴 막대를 오른쪽 끝 줄에 배치하여 수직으로 하강시키면 두 줄을 제거할 수 있다.</p>",
   "source": "University, 아주대학교, 2017 아주대학교 프로그래밍 경시대회 (APC), Division 1, University, 아주대학교, 2017 아주대학교 프로그래밍 경시대회 (APC), Division 2, mitslll, doju, lsc4719",
   "level": 14,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5788999795913696

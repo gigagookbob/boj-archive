@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Shanghai, Shanghai Regional Contest 2004",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "flow",
-    "parametric_search",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "parametric_search", "graphs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.7142999172210693

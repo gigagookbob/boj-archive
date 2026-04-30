@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2001/2002, Stage 2",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "stack"
-  ],
+  "tags": ["data_structures", "disjoint_set", "stack"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.3157999515533447

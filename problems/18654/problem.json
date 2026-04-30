@@ -15,9 +15,7 @@
   "hint": "<p>When \\(k = 2, \\{f(n)\\}_{n=0}^{\\infty} = \\{0, 0, 1, 2, 2, 4, 3, 6, 4, 8, \\dots\\}\\), and \\(\\{f^2(n)\\}_{n=0}^{\\infty} = \\{0, 0, 0, 1, 1, 2, 2, 3, 2, 4, \\dots\\}\\).</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 8: Jingzhe Tang Contest 2, XIX Open Cup Onsite",
   "level": 19,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.1666998863220215

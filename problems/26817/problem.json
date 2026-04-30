@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Camp, JPOI Summer Training Camp, JPOI Summer Training Camp 2020",
   "level": 19,
-  "tags": [
-    "dp",
-    "binary_search",
-    "dp_digit"
-  ],
+  "tags": ["dp", "binary_search", "dp_digit"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

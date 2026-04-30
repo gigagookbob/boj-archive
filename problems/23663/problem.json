@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 10: Grand Prix of Xi'An",
   "level": 3,
-  "tags": [
-    "implementation",
-    "greedy",
-    "game_theory"
-  ],
+  "tags": ["implementation", "greedy", "game_theory"],
   "accepted_user_count": 272,
   "submission_count": null,
   "average_tries": 1.7537000179290771

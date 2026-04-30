@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2024 Fall Automata 래환컵, juneekim7, eric00513, jish0218, ksha123, nymets08, raehwan0418, sooahn07",
   "level": 10,
-  "tags": [
-    "math",
-    "data_structures",
-    "set",
-    "combinatorics",
-    "bitmask"
-  ],
+  "tags": ["math", "data_structures", "set", "combinatorics", "bitmask"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.2188000679016113

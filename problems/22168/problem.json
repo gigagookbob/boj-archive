@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2011, RCC 2011 Final Round",
   "level": 16,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

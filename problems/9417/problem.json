@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2010 ACM-ICPC Thailand National Programming Contest, baekjoon, eric00513, kyo20111",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "euclidean"],
   "accepted_user_count": 1620,
   "submission_count": null,
   "average_tries": 1.4079999923706055

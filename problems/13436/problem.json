@@ -27,13 +27,7 @@
   "hint": "<p>예제 1의 경우, 가능한 방법은 1개이다. (1 -&gt; 3 -&gt; 5 -&gt; 2 -&gt; 4)</p>\n<p>예제 2의 경우에 가능한 T는 (6, 3, 5, 1) 이다.</p>\n<p>예제 3의 경우에는 (3, 5, 1, 6, 2)와 (3, 6, 1, 5, 2)가 가능하다.</p>",
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "dp",
-    "geometry",
-    "bitmask",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["dp", "geometry", "bitmask", "dp_bitfield", "tsp"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.5625

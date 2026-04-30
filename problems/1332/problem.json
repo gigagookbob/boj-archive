@@ -31,9 +31,7 @@
   "hint": null,
   "source": "baekjoon, 201812106",
   "level": 13,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 4.630099773406982

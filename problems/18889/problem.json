@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Codeforces, Hello 2020, koosaga",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "greedy",
-    "lca",
-    "trees"
-  ],
+  "tags": ["data_structures", "disjoint_set", "greedy", "lca", "trees"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.9375

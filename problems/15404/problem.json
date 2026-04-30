@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2017, leecs0503",
   "level": 21,
-  "tags": [
-    "lca",
-    "prefix_sum",
-    "trees"
-  ],
+  "tags": ["lca", "prefix_sum", "trees"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.902400016784668

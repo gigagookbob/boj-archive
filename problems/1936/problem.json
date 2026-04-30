@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 24,
-  "tags": [
-    "math",
-    "number_theory",
-    "divide_and_conquer",
-    "fft",
-    "lucas"
-  ],
+  "tags": ["math", "number_theory", "divide_and_conquer", "fft", "lucas"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.6500000953674316

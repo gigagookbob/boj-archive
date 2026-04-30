@@ -15,11 +15,7 @@
   "hint": "<p>Mildred must have hummed the cowphabet at least three times. It is possible for Mildred to have only hummed the cowphabet three times if the cowphabet starts with \"mildre\" and Farmer Nhoj heard the letters in uppercase as denoted below.</p>\n<pre>\nMILDREabcfghjknopqstuvwxyz\nmilDREabcfghjknopqstuvwxyz\nmildrEabcfghjknopqstuvwxyz\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 January Contest, Gold",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.7533999681472778

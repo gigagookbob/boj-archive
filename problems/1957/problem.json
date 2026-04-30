@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["math", "ad_hoc", "bitmask"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.865399956703186

@@ -19,12 +19,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "constructive"],
   "accepted_user_count": 699,
   "submission_count": null,
   "average_tries": 1.7926000356674194

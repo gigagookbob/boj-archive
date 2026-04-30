@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Summer Contest, mickeyjung, cologne, dohoon, eric00513, flakepowders, jjkmk1013, jk410, kiwiyou, leo020630, parkky, utilforever, yongwhan",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["data_structures", "segtree", "game_theory", "parity"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 5.649099826812744

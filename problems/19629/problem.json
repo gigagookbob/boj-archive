@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCO 2019",
   "level": 19,
-  "tags": [
-    "graphs",
-    "string",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "string", "shortest_path", "dijkstra"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.8181999921798706

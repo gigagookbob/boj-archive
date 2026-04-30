@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, sgchoi5, youngminz, zerozero, dkim, nova9128",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 37288,
   "submission_count": null,
   "average_tries": 1.7244000434875488

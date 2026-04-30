@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2020",
   "level": 18,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination",
-    "xor_basis"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination", "xor_basis"],
   "accepted_user_count": 144,
   "submission_count": null,
   "average_tries": 1.708299994468689

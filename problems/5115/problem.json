@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2012: Mars Rover",
   "level": 5,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.342900037765503

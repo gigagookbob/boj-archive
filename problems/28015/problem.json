@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2023 부산대학교 CodeRace, Beginner, ido_013, jthis, leeh18, shjohw12",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 373,
   "submission_count": null,
   "average_tries": 2.793600082397461

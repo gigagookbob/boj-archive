@@ -47,12 +47,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "case_work"],
   "accepted_user_count": 3381,
   "submission_count": null,
   "average_tries": 4.40369987487793

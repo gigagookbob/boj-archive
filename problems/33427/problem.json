@@ -27,10 +27,7 @@
   "hint": "<p>In the first case of the first example, <code>TS1</code> solves two problems, so they can get a gold medal. <code>TSxingxing10</code> can get a gold medal if their first submission changes its status to \"accepted\".</p>\n<p>In the second case of the first example, <code>AllWayTheNorth</code>, <code>XuejunXinyoudui1</code>, <code>LetItRot</code> and <code>ImYourFan</code> have the same score, two problems solved with $514$ total time consumed. They can get gold medals simultaneously if no submission changes its status.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 3: ZJU Contest",
   "level": 18,
-  "tags": [
-    "implementation",
-    "data_structures"
-  ],
+  "tags": ["implementation", "data_structures"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

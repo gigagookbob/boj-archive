@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2015",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "knapsack",
-    "bipartite_graph"
-  ],
+  "tags": ["dp", "graphs", "knapsack", "bipartite_graph"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.4166998863220215

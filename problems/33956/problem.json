@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2025 POSTECH Programming Contest, Contest, University, POSTECH, 2025 POSTECH Programming Contest, Open Contest, leo020630, hyperbolic, jthis, menborong, minsung05",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.384600043296814

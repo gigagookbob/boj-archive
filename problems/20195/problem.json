@@ -23,10 +23,7 @@
   "hint": "<p>In the first example, if the ducks start their voyage in any direction but east, they will end up in calm sea and won’t reach the other island.</p>\n<p>In the second example, the ducks will reach the other island if they start by going north or south. They choose the south way, since it’s shorter.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #1",
   "level": 10,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.200000047683716

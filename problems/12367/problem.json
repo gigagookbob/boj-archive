@@ -15,12 +15,7 @@
   "hint": "<p>Note that the second and third samples do not satisfy the constraints for the small input.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2012, Round 3",
   "level": 13,
-  "tags": [
-    "greedy",
-    "math",
-    "probability",
-    "sorting"
-  ],
+  "tags": ["greedy", "math", "probability", "sorting"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.6129000186920166

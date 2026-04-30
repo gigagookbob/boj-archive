@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2017",
   "level": 16,
-  "tags": [
-    "bfs",
-    "bruteforcing",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "bruteforcing", "graphs", "graph_traversal"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.125

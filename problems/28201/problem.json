@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 6: Um_nik mod 998 244 353 Contest",
   "level": 23,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "ad_hoc",
-    "knapsack",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "ad_hoc", "knapsack", "deque"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

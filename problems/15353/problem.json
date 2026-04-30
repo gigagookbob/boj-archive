@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, gcon16",
   "level": 8,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "string", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 3162,
   "submission_count": null,
   "average_tries": 1.8639999628067017

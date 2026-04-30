@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, wurikiji",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 14552,
   "submission_count": null,
   "average_tries": 2.138700008392334

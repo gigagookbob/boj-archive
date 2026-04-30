@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2008, baekjoon",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 4084,
   "submission_count": null,
   "average_tries": 1.9962999820709229

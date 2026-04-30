@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Advanced Division, my3, chansol, geonkang99, jhnah917, pch6828, tony9402, ymjoo12",
   "level": 18,
-  "tags": [
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "convex_hull"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 4.122000217437744

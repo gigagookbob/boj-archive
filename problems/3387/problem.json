@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2011, Group B (Juniors), shiftpsh",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.6278998851776123

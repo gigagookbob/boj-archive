@@ -15,11 +15,7 @@
   "hint": "<p>예제의 각 질문에 대해 새로운 문자열 $X$의 내용, 새롭게 만들 수 있는 그룹 문자열, 그리고 $f(X)$의 값은 다음과 같습니다.</p>\n<table class=\"table table-bordered\">\n<tbody>\n<tr>\n<th><strong>질문</strong></th>\n<th><strong>문자열 $X$</strong></th>\n<th><strong>새롭게 만들 수 있는 그룹 문자열</strong></th>\n<th>$f(X)$</th>\n</tr>\n<tr>\n<td><code>1</code> $1$</td>\n<td>\"<code>1</code>\"</td>\n<td>\"<code>1</code>\"</td>\n<td>$1$</td>\n</tr>\n<tr>\n<td><code>0</code> $1$</td>\n<td>\"<code>10</code>\"</td>\n<td>\"<code>0</code>\", \"<code>10</code>\"</td>\n<td>$3$</td>\n</tr>\n<tr>\n<td><code>1</code> $2$</td>\n<td>\"<code>1011</code>\"</td>\n<td>\"<code>01</code>\", \"<code>011</code>\", \"<code>11</code>\"</td>\n<td>$6$</td>\n</tr>\n<tr>\n<td><code>0</code> $1$</td>\n<td>\"<code>10110</code>\"</td>\n<td>\"<code>110</code>\"</td>\n<td>$7$</td>\n</tr>\n<tr>\n<td><code>1</code> $2$</td>\n<td>\"<code>1011011</code>\"</td>\n<td>없음</td>\n<td>$7$</td>\n</tr>\n<tr>\n<td><code>1</code> $2$</td>\n<td>\"<code>101101111</code>\"</td>\n<td>\"<code>0111</code>\", \"<code>01111</code>\", \"<code>111</code>\", \"<code>1111</code>\"</td>\n<td>$11$</td>\n</tr>\n</tbody>\n</table>",
   "source": "Contest, 한국정보기술진흥원, 제5회 청소년 IT경시대회, 중등부, hjroh0315",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "tree_set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.899999976158142

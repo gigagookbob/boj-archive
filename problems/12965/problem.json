@@ -27,13 +27,7 @@
   "hint": "<p>예제 1의 경우에 모든 점을 파란색으로 칠하고, 모든 파란 선분을 그어버리면 2+3+7+4+6+5 = 27점을 얻게 된다.</p>",
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "flow",
-    "geometry",
-    "line_intersection",
-    "mfmc",
-    "graphs"
-  ],
+  "tags": ["flow", "geometry", "line_intersection", "mfmc", "graphs"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.25

@@ -15,11 +15,7 @@
   "hint": "<p>In the sample given, the optimal factory kit has one of each base part; such a kit costs 1 to convert into the components for a Class A ship and 2 to convert into the components for a Class B ship.</p>",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2013 Pacific Northwest Region Programming Contest",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.5293999910354614

@@ -35,13 +35,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2018 Preliminaries",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "parsing"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set", "parsing"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 1.6265000104904175

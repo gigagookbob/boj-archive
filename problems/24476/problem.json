@@ -31,10 +31,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2021/2022",
   "level": 22,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 4.098400115966797

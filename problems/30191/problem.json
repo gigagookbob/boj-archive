@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2023 서울대학교 프로그래밍 경시대회, Division 2, jhwest2, 16silver, azberjibiou, chansol, cs71107, grace0068, kdh9949, mhy908, sharaelong, starwh03, whqkrkt04",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "constructive",
-    "stack"
-  ],
+  "tags": ["data_structures", "ad_hoc", "constructive", "stack"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 2.700000047683716

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2008 Arab Collegiate Programming Contest, baekjoon, sangdo913",
   "level": 15,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 431,
   "submission_count": null,
   "average_tries": 4.097400188446045

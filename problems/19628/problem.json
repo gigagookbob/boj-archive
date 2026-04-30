@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCO 2019",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "smaller_to_larger",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "smaller_to_larger", "tree_set", "set"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2000000476837158

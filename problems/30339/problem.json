@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2015/2016, National Round (1), 7-9 Classes, Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2015/2016, National Round (1), 10-12 Classes",
   "level": 0,
-  "tags": [
-    "dp",
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["dp", "data_structures", "deque"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

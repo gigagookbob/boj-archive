@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 19: The Grand Prix of Serbia",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "dp",
-    "implementation",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "dp", "implementation", "sparse_table"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.90910005569458

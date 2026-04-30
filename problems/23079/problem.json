@@ -15,12 +15,7 @@
   "hint": "<p>In the first case, there are $4$ different ways. They are:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>In the second case, there are $8$ different ways. They are:</p>\n<p style=\"text-align: center;\"><img alt=\"\" class=\"img-responsive\" src=\"2.png\"/></p>\n<p>In the third case, there are $4$ different ways. They are:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\"/></p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round F",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bruteforcing", "dp", "graphs", "graph_traversal"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.142899990081787

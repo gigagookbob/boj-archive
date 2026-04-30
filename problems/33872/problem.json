@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 숙명여자대학교, 제5회 숙명여자대학교 프로그래밍 경진대회 (SMUPC), songfox00, 2093ab, jthis, sk091204091204, swoon, tony9402, ystaeyoon113",
   "level": 10,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 3.1638998985290527

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.0525999069213867

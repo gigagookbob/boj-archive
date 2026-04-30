@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2021",
   "level": 11,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2

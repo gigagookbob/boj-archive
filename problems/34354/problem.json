@@ -35,9 +35,7 @@
   "hint": null,
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2025, Day 1",
   "level": 13,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

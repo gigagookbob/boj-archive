@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 1: 300iq Contest, 300iq",
   "level": 24,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.482800006866455

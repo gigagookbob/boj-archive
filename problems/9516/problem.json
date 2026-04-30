@@ -15,11 +15,7 @@
   "hint": "<p>비어있는 칸에 들어갈 수 있는 수는 1,3,5,7,9 이다.</p>",
   "source": "myungwoo",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.5

@@ -15,11 +15,7 @@
   "hint": "<p>In the first test, 6 is divided by 3, and the remainder is indeed 0. Since 6 is the smallest number in the interval $[6,8]$, this is the correct answer. Instead, the following answer can be printed too: $x = 6$ and $y = 2$ (minimizing $y$ is not required), while the answer $x = 8$ and $y = 4$ cannot be printed, because its $x$ is not minimal.</p>\n<p>In the second test, there are no answers, since it is impossible to get a remainder of 10 for $x$ in the interval [3,5] regardless of the $y$ it is divided by.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 5: Grand Prix of Siberia",
   "level": 13,
-  "tags": [
-    "math",
-    "constructive",
-    "arithmetic"
-  ],
+  "tags": ["math", "constructive", "arithmetic"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

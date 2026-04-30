@@ -15,11 +15,7 @@
   "hint": "<p>입력으로 주어지는 수와 출력해야 하는 정답이 매우 크기 때문에 64비트 자료형(C/C++은 long long, Java는 long, %lld로 출력)을 사용해야 한다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제5회 천하제일 코딩대회 예선, wookje, jhnah917, junie",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "bitmask"
-  ],
+  "tags": ["math", "number_theory", "bitmask"],
   "accepted_user_count": 392,
   "submission_count": null,
   "average_tries": 1.2167999744415283

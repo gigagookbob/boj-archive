@@ -15,12 +15,7 @@
   "hint": "<p>There are two islands. The big one on the left side that extends all the way to the bottom through a diagonal and the small one on the upper-right corner.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO December 2008 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 293,
   "submission_count": null,
   "average_tries": 1.6347999572753906

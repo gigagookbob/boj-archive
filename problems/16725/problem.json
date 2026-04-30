@@ -15,12 +15,7 @@
   "hint": "<p>문제에 주어진 다항식을 푸는 방식 중 하나는 다음과 같다.</p>\n<p><img alt=\"\" src=\"1.png\"/></p>\n<ol>\n<li>1+ x + x<sup>2</sup>의 계수를 표현</li>\n<li>x(1+ x + x<sup>2</sup>)의 계수를 표현</li>\n<li>x<sup>2</sup>(1+ x + x<sup>2</sup>)의 계수를 표현</li>\n<li>1~3의 각 열을 더함 ≡ (1 + x + x<sup>2</sup>)<sup>2</sup>의 계수</li>\n<li value=\"7\">4~6의 각 열을 더함 ≡ (1 + x + x<sup>2</sup>)<sup>3</sup>의 계수</li>\n</ol>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2018, dreammusic23, chpark1111, degurii",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 153,
   "submission_count": null,
   "average_tries": 3.634000062942505

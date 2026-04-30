@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2022, Group D",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bruteforcing", "graphs", "graph_traversal"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.583299994468689

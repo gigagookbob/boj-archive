@@ -15,11 +15,7 @@
   "hint": "<p>In the above example, Farmer John should pass a ball to the cow at $x=1$ and pass a ball to the cow at $x=11$. The cow at $x=1$ will pass her ball to the cow at $x=3$, after which this ball will oscillate between the cow at $x=3$ and the cow at $x=4$. The cow at $x=11$ will pass her ball to the cow at $x=7$, who will pass the ball to the cow at $x=4$, after which this ball will also cycle between the cow at $x=3$ and the cow at $x=4$. In this way, all cows will be passed a ball at least once (possibly by Farmer John, possibly by another cow).</p>\n<p>It can be seen that there is no single cow to whom Farmer John could initially pass a ball so that every cow would eventually be passed a ball.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 February Contest, Bronze",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "sorting"
-  ],
+  "tags": ["graphs", "graph_traversal", "sorting"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 3.208199977874756

@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2011, heeyeon22, chae10315",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 2424,
   "submission_count": null,
   "average_tries": 1.2045999765396118

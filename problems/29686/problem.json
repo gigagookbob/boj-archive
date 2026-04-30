@@ -15,13 +15,7 @@
   "hint": "<p>Пример игры для теста из условия</p>\n<p>В начале игры на поле нет ни одного пингвина:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 274px; height: 49px;\"/></p>\n<p>Первый игрок выставляет первого пингвина:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 274px; height: 49px;\"/></p>\n<p>Второй игрок выставляет первого пингвина:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height: 51px; width: 274px;\"/></p>\n<p>Первый игрок выставляет своего второго пингвина:</p>\n<p> </p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 274px; height: 49px;\"/></p>\n<p>Второй игрок выставляет своего второго пингвина:</p>\n<p> </p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\" style=\"width: 274px; height: 50px;\"/></p>\n<p>Ход первого игрока:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"6.png\" style=\"width: 274px; height: 51px;\"/></p>\n<p>Ход второго игрока:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"7.png\" style=\"width: 274px; height: 49px;\"/></p>\n<p>Ход первого игрока:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"8.png\" style=\"width: 274px; height: 50px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, May 22, 2010, Advanced",
   "level": 17,
-  "tags": [
-    "implementation",
-    "dp",
-    "case_work",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["implementation", "dp", "case_work", "bitmask", "dp_bitfield"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

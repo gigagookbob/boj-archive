@@ -15,9 +15,7 @@
   "hint": "<p>2 rundy wystarczają do ustalenia liczby zamalowanych pól przy następującej strategii odkrywania pól. Hektor w pierwszej rundzie odkrywa pola 2 i 4. </p>\n<ul>\n<li>jeśli pola 2 i 4 okażą się zamalowane, wystarczy w drugiej rundzie odkryć pole nr 5 aby przekonać się czy Kornelia zamalowała 4 czy 5 pól</li>\n<li>jeśli pole 2 okaże się zamalowane, a 4 nie, wystarczy w drugiej rundzie odkryć pole nr 3 aby przekonać się czy Kornelia zamalowała 2 czy 3 pola</li>\n<li>jeśli ani pole 2 ani pole 3 nie będzie zamalowane, wystarczy w drugiej rundzie odkryć pole nr 1 aby przekonać się czy Kornelia zamalowała 1 pole, czy nie zamalowała żadnego.</li>\n</ul>\n<p>Jednocześnie 1 runda to za mało - niezależnie od tego jakie pola Hektor odkryje w pierwszej rundzie, może się okazać, że w dalszym ciągu nie wie ile pól zamalowała Kornelia. Wybrane przykłady:</p>\n<ul>\n<li>jeśli Hektor odkryje pola 2 i 4, pole 2 może okazać się zamalowane, a 4 nie - Hektor nie wie, czy Kornelia zamalowała 2 czy 3 pola</li>\n<li>jeśli Hektor odkryje pola 1 i 2, oba mogą okazać się zamalowane. W takim wypadku Hektor nie wie, czy Kornelia zamalowała 3, 4, czy 5 pól.</li>\n<li>...</li>\n</ul>",
   "source": "Contest, Spot, CoolSpot 2010",
   "level": 8,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.2691999673843384

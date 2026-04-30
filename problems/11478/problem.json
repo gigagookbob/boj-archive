@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set", "tree_set"],
   "accepted_user_count": 24011,
   "submission_count": null,
   "average_tries": 1.5504000186920166

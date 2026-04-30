@@ -15,11 +15,7 @@
   "hint": "<p>Ниже изображен рисунок для первого примера. Лестница, состоящая из максимально возможного количества клеток таблицы, отмечена серым цветом.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 125px; height: 187px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2025",
   "level": 16,
-  "tags": [
-    "dp",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["dp", "data_structures", "stack"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

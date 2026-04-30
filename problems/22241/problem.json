@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2015",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.25

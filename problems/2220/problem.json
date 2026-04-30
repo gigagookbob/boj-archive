@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2004",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy"
-  ],
+  "tags": ["data_structures", "greedy"],
   "accepted_user_count": 687,
   "submission_count": null,
   "average_tries": 1.784600019454956

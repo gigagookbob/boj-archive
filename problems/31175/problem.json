@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 9: Grand Prix of Nanjing",
   "level": 10,
-  "tags": [
-    "implementation",
-    "constructive"
-  ],
+  "tags": ["implementation", "constructive"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.5356999635696411

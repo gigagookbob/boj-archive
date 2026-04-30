@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Regional Contest",
   "level": 19,
-  "tags": [
-    "constructive",
-    "divide_and_conquer",
-    "implementation"
-  ],
+  "tags": ["constructive", "divide_and_conquer", "implementation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.157900094985962

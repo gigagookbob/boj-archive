@@ -19,14 +19,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "trees",
-    "mst",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "graphs", "trees", "mst", "lca", "sparse_table"],
   "accepted_user_count": 571,
   "submission_count": null,
   "average_tries": 2.565700054168701

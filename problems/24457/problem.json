@@ -27,11 +27,7 @@
   "hint": "<p>에너지 드링크의 효과 지속 시간은 이전의 효과 지속 시간에 더해지는 것이 아니라 에너지 드링크를 마신 직후부터 시작되는 것임에 유의하자. 즉, 두 에너지 드링크의 효과 지속 시간이 겹칠 수 있다.</p>",
   "source": "University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Beginner Division, University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Advanced Division, ymjoo12, chansol, ingyu1008, jhnah917, lake, thak00, tony9402",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["dp", "greedy", "sorting"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 2.989000082015991

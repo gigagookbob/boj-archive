@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2015",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 295,
   "submission_count": null,
   "average_tries": 1.379699945449829

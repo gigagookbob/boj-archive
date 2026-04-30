@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, $A$ has $4$ factors which are palindromes: $1$, $2$, $3$, and $6$.</p>\n<p>In the second test case, $A$ has $3$ factors which are palindromes: $1$, $2$, and $5$.</p>\n<p>In the third test case, $A$ has $7$ factors which are palindromes: $1$, $2$, $3$, $4$, $6$, $8$, and $9$.</p>\n<p>In the fourth test case, $A$ has $6$ factors which are palindromes: $1$, $2$, $11$, $22$, $121$, and $242$.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round B",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory"
-  ],
+  "tags": ["math", "implementation", "number_theory"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 1.7599999904632568

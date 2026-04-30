@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2017-18, Final Round",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "math"
-  ],
+  "tags": ["bruteforcing", "implementation", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.272700071334839

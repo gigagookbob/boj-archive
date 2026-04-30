@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2016",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic",
-    "physics"
-  ],
+  "tags": ["math", "arithmetic", "physics"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 1.1504000425338745

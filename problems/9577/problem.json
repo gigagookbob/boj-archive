@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Nada, jh05013",
   "level": 18,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 471,
   "submission_count": null,
   "average_tries": 2.8364999294281006

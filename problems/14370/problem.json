@@ -15,10 +15,7 @@
   "hint": "<p>ONE ONE ONE FOUR FOUR SIX SEVEN의 철자를 잘 배열하면 OFFERENNOXIOUSNEONOVERUSE가 나온다.</p>\r\n",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 1B, jh05013",
   "level": 12,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 441,
   "submission_count": null,
   "average_tries": 1.7143000364303589

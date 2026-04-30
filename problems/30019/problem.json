@@ -19,10 +19,7 @@
   "hint": "<p>입출력 방식이 느리면 여러 줄을 입력받거나 출력할 때 시간초과가 날 수 있다.</p>\n<p>C++을 사용하고 있고 <code>cin/cout</code>을 사용하고자 한다면, <code>cin.tie(NULL)</code>과 <code>sync_with_stdio(false)</code>를 둘 다 적용해 주고, <code>endl</code> 대신 개행 문자(<code>\\n</code>)를 쓰자. 단, 이렇게 하면 더 이상 <code>scanf/printf/puts/getchar/putchar</code> 등 C의 입출력 방식을 사용하면 안 된다.</p>\n<p>Java를 사용하고 있다면, <code>Scanner</code>와 <code>System.out.println</code> 대신 <code>BufferedReader</code>와 <code>BufferedWriter</code>를 사용할 수 있다. <code>BufferedWriter.flush</code>는 맨 마지막에 한 번만 하면 된다.</p>\n<p>Python을 사용하고 있다면, <code>input</code> 대신 <code>sys.stdin.readline</code>을 사용할 수 있다. 단, 이때는 맨 끝의 개행 문자까지 같이 입력받기 때문에 문자열을 저장하고 싶을 경우 <code>.rstrip()</code>을 추가로 해 주는 것이 좋다.</p>",
   "source": "University, 충남대학교, 2023 충남대학교 SW-IT Contest, Division 1, University, 충남대학교, 2023 충남대학교 SW-IT Contest, Division 2, kaorin, ai4youej, flappybird, martinok1103, solvedac, swoon, utilforever, w8385",
   "level": 4,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 701,
   "submission_count": null,
   "average_tries": 1.7760000228881836

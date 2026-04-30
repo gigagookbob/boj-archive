@@ -15,10 +15,7 @@
   "hint": "<p>The sample data corresponds to the figure above, and transforms to the following sequence of bits:</p>\n<p>1111 1011 0001 1101 1010 0011 0000 1101 0001 1011 0111 0010 0011 0000</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2011",
   "level": 20,
-  "tags": [
-    "math",
-    "case_work"
-  ],
+  "tags": ["math", "case_work"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, Round 1B",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "trees",
-    "parsing"
-  ],
+  "tags": ["implementation", "data_structures", "string", "trees", "parsing"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.4666999578475952

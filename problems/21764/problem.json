@@ -35,10 +35,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2021 KAIST RUN Spring Contest, leejseo, tncks0121, aeren, cs71107, jhnah917, jwvg0425, koosaga",
   "level": 8,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 1.6749999523162842

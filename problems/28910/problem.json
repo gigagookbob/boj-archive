@@ -15,9 +15,7 @@
   "hint": "<p>В первом тесте Марио может, например, получить следующую последовательность $b_i$: $2$, $1$, $2$, $1$, $2$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, March 25, 2018",
   "level": 9,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.799999952316284

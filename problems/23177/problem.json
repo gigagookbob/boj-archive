@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2021 KAIST 11th ICPC Mock Competition, Contest, Open Cup, 2021/2022 Season, Stage 4: Grand Prix of Korea, jh05013, 16silver, ainta, ansemddl97, jh05013, jwvg0425, koosaga, tncks0121, xiaowuc1",
   "level": 18,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 4.771399974822998

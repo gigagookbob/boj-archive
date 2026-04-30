@@ -19,13 +19,7 @@
   "hint": "<p>In the Sample 2, the singleton set of the set of the nodes of the original graph is already an even division.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2021 Asia Yokohama Regional",
   "level": 23,
-  "tags": [
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "prefix_sum"
-  ],
+  "tags": ["constructive", "dfs", "graphs", "graph_traversal", "prefix_sum"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3.2857000827789307

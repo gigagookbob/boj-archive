@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2019-20, Open Competition",
   "level": 8,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.559999942779541

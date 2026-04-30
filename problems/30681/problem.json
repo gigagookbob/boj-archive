@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 스타보우컵, 제1회 스타보우컵, starbow, kiwiyou, leo020630, lycoris1600, utilforever, yup0927",
   "level": 19,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "rotating_calipers"
-  ],
+  "tags": ["geometry", "convex_hull", "rotating_calipers"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 3.732599973678589

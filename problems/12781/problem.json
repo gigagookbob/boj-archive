@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2016 IUPC 인하대학교 프로그래밍 경진대회, dodo3371, tibyte",
   "level": 13,
-  "tags": [
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "line_intersection"],
   "accepted_user_count": 1390,
   "submission_count": null,
   "average_tries": 2.7423999309539795

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제9회 한양대학교 프로그래밍 경시대회, Advanced Division, hibye1217, andrewmjk1, jthis, leejseo, nick832, tlsdydaud1",
   "level": 18,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 181,
   "submission_count": null,
   "average_tries": 3.0441999435424805

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2014",
   "level": 23,
-  "tags": [
-    "hashing"
-  ],
+  "tags": ["hashing"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.5713999271392822

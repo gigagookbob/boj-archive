@@ -15,11 +15,7 @@
   "hint": "<p>Ако децата тежат съответно 25, 28, 33 и 18 килограма, в асансьора могат да се возят най-много 4 души, с максимално тегло 100 килограма, те трябва да повикат асансьора 2 пъти. Децата тежат общо 25+28+33+18=104&gt;100 и независимо от възможността в асансьора да пътуват 4 човека, те трябва да се разделят в два курса на асансьора.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2015, Group E",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "arithmetic", "case_work"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.830199956893921

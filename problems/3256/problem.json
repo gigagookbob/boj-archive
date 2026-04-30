@@ -23,10 +23,7 @@
   "hint": "<p>4행으로 향하는 승객 바로 뒤에 1행으로 출발하는 승객이 있다면,&nbsp;먼저 짐을 싣고, 앉을 수 있다!</p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, Regional Competition - Seniors, happytime888",
   "level": 10,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.1928000450134277

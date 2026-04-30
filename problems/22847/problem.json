@@ -15,11 +15,7 @@
   "hint": "<p>TMI : 안티 매직쉘은 치명적인 상태 이상을 무시하는 보호막을 생성하는 루미너스의 스킬이다.</p>",
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 2, blackking26, azberjibiou, jh05013, jhnah917, stonejjun03",
   "level": 28,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 8.33329963684082

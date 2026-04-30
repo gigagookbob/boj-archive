@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2019-20, Final Round",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "simulation"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.1538000106811523

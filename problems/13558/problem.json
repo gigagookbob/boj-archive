@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, cgiosy",
   "level": 14,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "prefix_sum", "combinatorics"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 4.201399803161621

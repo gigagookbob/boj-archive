@@ -15,10 +15,7 @@
   "hint": "<p>Here is the polygon described by the output of the first test case, with an area of $\\frac{18}{3} = 6$:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 187px; height: 158px;\"/></p>\n<p>Here is the polygon described by the output of the third test case, with an area of $\\frac{8}{1} = 8$:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 250px; height: 221px;\"/></p>\n<p>For the second and fourth test cases, we can show that no valid polygon exists.</p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 16,
-  "tags": [
-    "geometry",
-    "pick"
-  ],
+  "tags": ["geometry", "pick"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.916700005531311

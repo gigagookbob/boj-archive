@@ -15,9 +15,7 @@
   "hint": "<p>큐브를 회전함으로 인해 <span style=\"color:#e74c3c;\"><code>6</code></span>과 <span style=\"color:#e74c3c;\"><code>9</code></span>를 혼동하는 일은 없다고 가정하라.</p>",
   "source": "Contest, BOJ User Contest, 유틸컵, 제1회 유틸컵 - Chapter 2, yclock, index, tony9402, utilforever",
   "level": 22,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 24.875

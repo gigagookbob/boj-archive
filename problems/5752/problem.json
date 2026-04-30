@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2005",
   "level": 24,
-  "tags": [
-    "geometry",
-    "point_in_non_convex_polygon"
-  ],
+  "tags": ["geometry", "point_in_non_convex_polygon"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

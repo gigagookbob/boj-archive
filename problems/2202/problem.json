@@ -15,12 +15,7 @@
   "hint": "<p>제목은 25글자 이하이며 알파벳과 공백으로만 이루어져 있다.</p>\n<p>각 필드의 문자열은 알파벳과 숫자, <code>_</code>, <code>*</code>로만 이루어져 있다.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2005, doju",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "sorting", "parsing"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.5217000246047974

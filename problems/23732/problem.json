@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, UNIST, 3rd UNIST Algorithm Programming Contest Uni-CODE 2021, chunghan, cs71107, jh05013, koosaga, leejseo, queued_q",
   "level": 12,
-  "tags": [
-    "math",
-    "combinatorics",
-    "two_pointer"
-  ],
+  "tags": ["math", "combinatorics", "two_pointer"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.478700041770935

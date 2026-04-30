@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 숙명여자대학교, 제5회 숙명여자대학교 프로그래밍 경진대회 (SMUPC), 0yeonjae2, 2093ab, jthis, sk091204091204, songfox00, swoon, tlsdydaud1, tony9402, ystaeyoon113",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 468,
   "submission_count": null,
   "average_tries": 1.2158000469207764

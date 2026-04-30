@@ -15,10 +15,7 @@
   "hint": null,
   "source": "hellodj, kjiwhan0120, sait2000",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 28928,
   "submission_count": null,
   "average_tries": 3.9809000492095947

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 전남대학교, 2024 하반기 전남대학교 PIMM 알고리즘 파티, lys9546, dongwook7, jwpassion1, kiwiyou, ksoosung77, lycoris1600, measurezero, mujigae, tony9402, utilforever",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["math", "implementation", "string", "ad_hoc"],
   "accepted_user_count": 429,
   "submission_count": null,
   "average_tries": 1.8205000162124634

@@ -19,9 +19,7 @@
   "hint": "<p><code>PULSE</code>는 2015년에 설립된 부산대학교 정보컴퓨터공학부 소속 알고리즘 동아리다.</p>",
   "source": "University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 1, University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 2, null_nullptr, heeda0528, mbae059, qvixnh22, skeep194, swoon, tony9402, utilforever, vkdldjvkdnj",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 965,
   "submission_count": null,
   "average_tries": 1.636299967765808

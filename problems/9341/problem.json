@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2013 ACM-ICPC Thailand National Programming Contest, baekjoon",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring"],
   "accepted_user_count": 112,
   "submission_count": null,
   "average_tries": 2.0982000827789307

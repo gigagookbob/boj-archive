@@ -23,10 +23,7 @@
   "hint": null,
   "source": "halin, eric00513, flakepowders, hjroh0315",
   "level": 23,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 2.5961999893188477

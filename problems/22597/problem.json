@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2011 Day 4",
   "level": 23,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "dijkstra"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 14.5

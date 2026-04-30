@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 논산 코드 페스티벌, 제1회 논산 코드 페스티벌, leejseo",
   "level": 12,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 218,
   "submission_count": null,
   "average_tries": 4.091700077056885

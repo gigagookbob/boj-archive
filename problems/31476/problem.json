@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 양갈래컵, 제 1회 양갈래컵, iseol421, mymasterpark2, toycartoon, sksms1375",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "dfs"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 3.603800058364868

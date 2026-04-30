@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author6, citizen",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["binary_search", "lis"],
   "accepted_user_count": 1241,
   "submission_count": null,
   "average_tries": 1.4294999837875366

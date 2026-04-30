@@ -15,10 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Jeśli początkowo tylko jeden żołnierz jest gotowy do desantu, to z pewnością będzie on stanowił (jednoelementowy) spójny przedział szeregu. Nie istnieje za to sytuacja, w której do desantu gotowych jest dwóch żołnierzy i finalnie zajmą oni miejsca koło siebie</p>\n<p>Rozważmy sytuację, w której wszyscy oprócz drugiego żołnierza w szeregu są gotowi do desantu. Pierwszy rozkaz nie wpłynie na pozycje żołnierzy. Po drugim rozkazie, ponieważ pierwszy żołnierz w szeregu jest gotowy, a drugi żołnierz w szeregu nie, zamienią się oni miejscami. Trzeci rozkaz znowu nie będzie miał efektu. Ponieważ teraz pierwszy żołnierz w szeregu nie jest gotowy do desantu, a czwarty żołnierz w szeregu jest, to nie zamienią się oni w wyniku ostatniego rozkazu. Finalnie jedynie pierwszy żołnierz w szeregu nie będzie gotowy do desantu. Jest to jedyna początkowa konfiguracja dla $k = 3$ kończąca się zgodnie z zamysłem Bajtazara</p>\n<p>Dla kolejnych $k$ liczby możliwości są zatem równe ciągowi $[4, 0, 1, 1]$.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "backtracking"
-  ],
+  "tags": ["ad_hoc", "backtracking"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

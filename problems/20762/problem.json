@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, Sandvik Challenge 2020",
   "level": 7,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.6538000106811523

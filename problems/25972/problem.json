@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2022 Goricon, skeep194, dngnogu, jthis, leo020630, mokalover, powergee, qotmd01",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 395,
   "submission_count": null,
   "average_tries": 2.2834999561309814

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 한국정보기술진흥원, 제5회 청소년 IT경시대회, 중등부",
   "level": 12,
-  "tags": [
-    "math",
-    "trees",
-    "combinatorics"
-  ],
+  "tags": ["math", "trees", "combinatorics"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.662500023841858

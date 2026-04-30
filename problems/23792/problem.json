@@ -15,10 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, hojoon0205, jh05013, jhnah917",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 2.3870999813079834

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", School, Virginia Tech High School Programming Contest, 2017 Virginia Tech High School Programming Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "string",
-    "constructive"
-  ],
+  "tags": ["math", "string", "constructive"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 2.1185998916625977

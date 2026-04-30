@@ -23,11 +23,7 @@
   "hint": "<p>대부분의 언어에서 음이 아닌 두 정수 $x$와 $y$의 비트 OR $x\\,|\\,y$는 연산자 <code>|</code>를 사용하여 <code>(x|y)</code>와 같이 구할 수 있습니다.</p>",
   "source": "University, 서울과학기술대학교, STPC 2024 Autumn by Seoultech FLY, hjroh0315, jwpassion1, kiwiyou, penguin1234, ruykun",
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["implementation", "bruteforcing", "bitmask"],
   "accepted_user_count": 262,
   "submission_count": null,
   "average_tries": 1.2785999774932861

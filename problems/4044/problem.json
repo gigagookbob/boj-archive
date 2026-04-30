@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2009 East Central Regional Contest, baekjoon",
   "level": 14,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.1394999027252197

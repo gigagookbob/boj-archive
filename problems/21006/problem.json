@@ -15,11 +15,7 @@
   "hint": "<p>Initially, one line change is required to travel, for example, from stop 4 to stop 5 (or vice versa). Such travel is possible by taking line 2, then line 1. There are no pairs of stops requiring 2 or more changes.</p>\n<p>After line 1 gets removed, two line changes are required to travel from stop 1 to stop 3 (or vice versa).</p>\n<p>When lines 1 and 4 get removed, the only pairs of stops still reachable one from another are (1, 4) and (2, 3), and in both cases no line changes are required to travel between them.</p>\n<p>When lines 1, 4 and 3 get removed, the only pair of stops still reachable one from another is (1, 4). No line changes are required to travel between these stops.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 1: Jagiellonian U Contest, Grand Prix of Krakow, Contest, Open Cup, 2020/2021 Season, Stage 10: Grand Prix of Krakow",
   "level": 21,
-  "tags": [
-    "floyd_warshall",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["floyd_warshall", "graphs", "shortest_path"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

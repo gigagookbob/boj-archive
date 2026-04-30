@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2012, RCC 2012 Elimination Round",
   "level": 12,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "greedy",
-    "trees"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "greedy", "trees"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2

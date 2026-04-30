@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 11,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 1284,
   "submission_count": null,
   "average_tries": 1.7857999801635742

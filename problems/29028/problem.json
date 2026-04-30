@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, October 17, 2015, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, October 17, 2015, Advanced",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree", "tree_set", "set"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

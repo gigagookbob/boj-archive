@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Online)",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "game_theory"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "game_theory"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1

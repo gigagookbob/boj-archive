@@ -15,12 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, chansol, jhnah917, parkky, tlsdydaud1, tony9402",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "sorting",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "sorting", "dfs"],
   "accepted_user_count": 1009,
   "submission_count": null,
   "average_tries": 2.804800033569336

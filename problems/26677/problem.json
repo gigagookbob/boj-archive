@@ -15,13 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Poniżej zilustrowano test przykładowy zawierający n = 17 miast, w których zostaną wybudowane trzy fabryki (białe kółka) i cztery elektrownie (czarne kółka). Zaznaczono także poprawną sieć energetyczną o długości 12 kilobajtometrów (szare odcinki).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 349px; height: 46px;\"/></p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "dp",
-    "lis",
-    "prefix_sum",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "lis", "prefix_sum", "segtree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2000000476837158

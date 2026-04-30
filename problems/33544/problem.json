@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2025!, songc, cki86201, serin, silverwolf, stonejjun03",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "lazyprop"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "sweeping", "lazyprop"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.191499948501587

@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 206px; height: 166px;\"/></p>",
   "source": "School, University of Maryland High School Programming Contest, HSPC 2010 연습 세션",
   "level": 7,
-  "tags": [
-    "implementation",
-    "graphs"
-  ],
+  "tags": ["implementation", "graphs"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.9773000478744507

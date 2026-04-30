@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup, stonejjun03",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "game_theory",
-    "hackenbush"
-  ],
+  "tags": ["data_structures", "segtree", "game_theory", "hackenbush"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 8.048800468444824

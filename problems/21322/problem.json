@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2021 IGRUS Newbie Programming Contest, tyoungs, Lawali, rhs0266, tony9402, wjdclgns12",
   "level": 16,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 3.8136000633239746

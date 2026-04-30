@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #2 - Seniors, baekjoon",
   "level": 22,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 10.33329963684082

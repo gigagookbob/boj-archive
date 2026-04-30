@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, kkw564",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "grid_graph", "mfmc"],
   "accepted_user_count": 1278,
   "submission_count": null,
   "average_tries": 3.9256999492645264

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 겨울 숲의 초대, 겨울 숲의 초대, frozenca, flappybird, hibye1217, sait2000, wider93",
   "level": 11,
-  "tags": [
-    "math",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "probability", "linearity_of_expectation"],
   "accepted_user_count": 621,
   "submission_count": null,
   "average_tries": 1.1319999694824219

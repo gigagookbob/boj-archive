@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제2회 임스의 메이플컵, lms0806, hiyabye, menborong, nflight11, pichulia, tony9402",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 379,
   "submission_count": null,
   "average_tries": 1.6992000341415405

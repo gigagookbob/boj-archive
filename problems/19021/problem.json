@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 8: Yuhao Du Contest 5, Grand Prix of Zhejiang, Contest, Open Cup, 2018/2019 Season, Stage 1: Grand Prix of Zheijang",
   "level": 28,
-  "tags": [
-    "dp",
-    "hld",
-    "trees"
-  ],
+  "tags": ["dp", "hld", "trees"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3

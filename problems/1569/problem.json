@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, evenharder, yukariko",
   "level": 10,
-  "tags": [
-    "implementation",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["implementation", "geometry", "case_work"],
   "accepted_user_count": 229,
   "submission_count": null,
   "average_tries": 3.3536999225616455

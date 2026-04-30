@@ -23,12 +23,7 @@
   "hint": "<p>다음 세 가지를 유의하라.</p>\n<ul>\n<li>6호선의 <span style=\"color:#e74c3c;\"><code>Eungam</code></span>, <span style=\"color:#e74c3c;\"><code>Yeokchon</code></span>, <span style=\"color:#e74c3c;\"><code>Bulgwang</code></span>, <span style=\"color:#e74c3c;\"><code>Dokbawi</code></span>, <span style=\"color:#e74c3c;\"><code>Yeonsinnae</code></span>, <span style=\"color:#e74c3c;\"><code>Gusan</code></span>, <span style=\"color:#e74c3c;\"><code>Eungam</code></span>의 순환로는 <strong>이 문제에서 유일하게 방향성을 갖는다.</strong> 그 외의 경우, 양방향으로 이동이 가능하다.</li>\n<li>지도에 없는 1호선 병점역은 무시하고, <span style=\"color:#e74c3c;\"><code>Seryu</code></span>, <span style=\"color:#e74c3c;\"><code>Seodongtan</code></span>, <span style=\"color:#e74c3c;\"><code>Sema</code></span>의 세 역은 모두 양방향으로 직접 연결되어 있다고 가정하라.</li>\n<li>5호선의 <span style=\"color:#e74c3c;\"><code>Cheonho (Pungnaptoseong)</code></span>, <span style=\"color:#e74c3c;\"><code>Gil-dong</code></span>, <span style=\"color:#e74c3c;\"><code>Dunchon-dong</code></span>의 세 역은 모두 역 <span style=\"color:#e74c3c;\"><code>Gangdong</code></span>과 양방향으로 직접 연결되어 있다. 즉, 역 <span style=\"color:#e74c3c;\"><code>Gangdong</code></span>에 그려진 두 개의 화살표를 무시하라.</li>\n</ul>\n<p>실제 배차나 역사의 구조 등이 고려되지 않음에 유의하라.</p>",
   "source": "Contest, BOJ User Contest, 유틸컵, 제1회 유틸컵 - Chapter 2, yclock, chogahui05, index, snrnsidy, utilforever",
   "level": 19,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "precomputation",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "precomputation", "shortest_path"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3.0713999271392822

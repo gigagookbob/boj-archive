@@ -23,10 +23,7 @@
   "hint": "<p>$\\oplus$은 Bitwise XOR을 나타내는 기호이다. Bitwise XOR은 각 비트 자리에서 두 비트를 비교하여, 같으면 $0$으로, 다르면 $1$로 만든다.</p>\n<p>즉, $a$ $\\oplus$ $b$의 i번째 비트는 $a$와 $b$의 $i$번째 비트가 다를 때만 $1$이다.</p>\n<p>ex) $13$$(1101_2)$ $\\oplus$ $10$$(1010_2)$ = $7$$(0111_2)$</p>",
   "source": "University, 금오공과대학교, 2025 KUMOH ASK CONTEST, chika, dohoon, ehlee0815, gs22123, jthis, tony9402, ychangseok",
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.0455000400543213

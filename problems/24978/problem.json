@@ -15,10 +15,7 @@
   "hint": "<p>For the first query, both strings become \"aa\" when restricted only to 'a.'\n\n</p><p>For the second query, the first string becomes \"aac\" while the second string\nbecomes \"caa.\"\n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Silver",
   "level": 16,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 2.5625

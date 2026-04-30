@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1998",
   "level": 18,
-  "tags": [
-    "implementation",
-    "geometry",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "simulation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

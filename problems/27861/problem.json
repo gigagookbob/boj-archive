@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2022 Greater New York Programming Contest",
   "level": 22,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "geometry_3d"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.8214000463485718

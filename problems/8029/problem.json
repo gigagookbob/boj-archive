@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2000/2001, Stage 1",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.5113999843597412

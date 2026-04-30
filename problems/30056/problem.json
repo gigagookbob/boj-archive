@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2023, rasauq1122, hellogaon, hyoseok, khj20006",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.9047999382019043

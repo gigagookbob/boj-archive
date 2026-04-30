@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2017",
   "level": 22,
-  "tags": [
-    "dijkstra",
-    "dp",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "dp", "graphs", "shortest_path"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.299999952316284

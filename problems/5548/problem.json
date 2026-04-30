@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2011/2012 예선, baekjoon",
   "level": 20,
-  "tags": [
-    "implementation",
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["implementation", "dp", "dp_digit"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.549999952316284

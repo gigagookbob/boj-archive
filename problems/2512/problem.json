@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2012, 초등부, Olympiad, 한국정보올림피아드, KOI 2012, 중등부, Olympiad, 한국정보올림피아드, KOI 2012, 고등부",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 22482,
   "submission_count": null,
   "average_tries": 2.589400053024292

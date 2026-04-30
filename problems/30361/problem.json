@@ -19,11 +19,7 @@
   "hint": "<p>If we denote a real crystal as $1$ and an phantom as $0$, the following three alignments satisfy the condition at Sample Input 1.</p>\n<ul>\n<li>$0, 1, 0$</li>\n<li>$1, 0, 1$</li>\n<li>$1, 1, 1$</li>\n</ul>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2023 Day 2, Camp, Petrozavodsk Programming Camp, Summer 2024, Day 1: Welcome Contest",
   "level": 17,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "prefix_sum", "combinatorics"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.291700005531311

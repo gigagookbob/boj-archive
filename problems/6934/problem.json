@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2001, CCC 2001 Senior Division",
   "level": 19,
-  "tags": [
-    "geometry",
-    "min_enclosing_circle"
-  ],
+  "tags": ["geometry", "min_enclosing_circle"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 1.375

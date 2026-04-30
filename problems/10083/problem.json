@@ -19,11 +19,7 @@
   "hint": "<p>The players received the ball in the following order:</p>\n<p>37, 16, 21, 5, 16, 11, 5, 6, 1, 5, 4, 1, 3, 2, 1, 1, 0, 1, 1, 0, …</p>\n<p>The eight player to receive the ball is the player with the number 6.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2014, doju",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 5, 2012, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 5, 2012, Advanced",
   "level": 8,
-  "tags": [
-    "bitmask",
-    "bruteforcing",
-    "math",
-    "probability"
-  ],
+  "tags": ["bitmask", "bruteforcing", "math", "probability"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.8889000415802

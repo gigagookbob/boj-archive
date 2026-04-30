@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>If the flights are directed as shown in the output, it is possible to reach any city starting from any other city. Therefore, the largest set containing no pair of connected cities is a singleton. For example, it’s possible to reach city 1 from the first river by starting from city 5 from the first river:</p>\n<p style=\"text-align: center;\">5 (I) → 3 (II) → 2 (I) → 3 (I) → 1 (II) → 2 (II) → 1 (I).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #5",
   "level": 0,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 7: North American Contest 1",
   "level": 20,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search",
-    "calculus",
-    "physics"
-  ],
+  "tags": ["math", "binary_search", "parametric_search", "calculus", "physics"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.4286000728607178

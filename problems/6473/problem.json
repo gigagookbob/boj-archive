@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 1995 South Central USA Regional Programming Contest",
   "level": 0,
-  "tags": [
-    "math",
-    "implementation",
-    "string"
-  ],
+  "tags": ["math", "implementation", "string"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 5

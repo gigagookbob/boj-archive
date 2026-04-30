@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2007, baekjoon, cloudest, gotlou8317, jimi1017",
   "level": 15,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 9156,
   "submission_count": null,
   "average_tries": 3.322200059890747

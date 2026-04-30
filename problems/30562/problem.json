@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2023",
   "level": 21,
-  "tags": [
-    "bruteforcing",
-    "heuristics",
-    "mitm",
-    "randomization"
-  ],
+  "tags": ["bruteforcing", "heuristics", "mitm", "randomization"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 11.16670036315918

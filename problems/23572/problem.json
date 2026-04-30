@@ -23,14 +23,7 @@
   "hint": "<p>The first two samples correspond to Figure G.1 (a) and (b), respectively.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2021",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "greedy", "graph_traversal", "trees", "dp_tree"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 2.838900089263916

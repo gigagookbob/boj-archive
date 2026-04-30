@@ -15,11 +15,7 @@
   "hint": "<p>Если сделать разрез после первого элемента, произведение весов равно 1 · (2 + 3) = 5, а если после второго, то (1 + 2) · 3 = 9.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2020",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum",
-    "arbitrary_precision"
-  ],
+  "tags": ["bruteforcing", "prefix_sum", "arbitrary_precision"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.6756999492645264

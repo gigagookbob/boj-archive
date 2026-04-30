@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2005 Mid-Atlantic Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "bruteforcing",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["backtracking", "bitmask", "bruteforcing", "dp", "dp_bitfield"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

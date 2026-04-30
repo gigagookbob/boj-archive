@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 7: HSE Koresha Contest",
   "level": 0,
-  "tags": [
-    "math",
-    "data_structures",
-    "prefix_sum",
-    "stack"
-  ],
+  "tags": ["math", "data_structures", "prefix_sum", "stack"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 11

@@ -15,9 +15,7 @@
   "hint": "<p>Note</p>\n<p>Although your browser might not render an empty line after the last test case in the sample input, in a real input file there would be one.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Qualification Round",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 1.367799997329712

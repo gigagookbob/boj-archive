@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2010",
   "level": 19,
-  "tags": [
-    "string",
-    "manacher"
-  ],
+  "tags": ["string", "manacher"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 5.744699954986572

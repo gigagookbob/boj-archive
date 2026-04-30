@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, Swedish Coding Cup Finals 2019",
   "level": 0,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.2857000827789307

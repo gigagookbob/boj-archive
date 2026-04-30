@@ -19,12 +19,7 @@
   "hint": "<p>Пояснение к первому примеру:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 317px; height: 239px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, May 22, 2010, Basic",
   "level": 13,
-  "tags": [
-    "implementation",
-    "geometry",
-    "binary_search",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "binary_search", "simulation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3

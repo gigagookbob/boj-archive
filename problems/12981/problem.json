@@ -31,11 +31,7 @@
   "hint": "<p>첫 번째 예제는 RGB, RG, RR, BBB로 포장하면 된다.</p>\n<p>두 번째 예제는 RGB, GGG, GGG로 포장한다.</p>",
   "source": "baekjoon",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["math", "greedy", "case_work"],
   "accepted_user_count": 547,
   "submission_count": null,
   "average_tries": 2.663599967956543

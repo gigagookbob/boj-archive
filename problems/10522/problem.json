@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2014",
   "level": 13,
-  "tags": [
-    "ternary_search"
-  ],
+  "tags": ["ternary_search"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.2676000595092773

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2021-22, First Selection Competition",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

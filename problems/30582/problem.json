@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2023",
   "level": 15,
-  "tags": [
-    "dp",
-    "geometry",
-    "geometry_hyper"
-  ],
+  "tags": ["dp", "geometry", "geometry_hyper"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.7856999635696411

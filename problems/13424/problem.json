@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회, game2k",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "floyd_warshall"],
   "accepted_user_count": 1838,
   "submission_count": null,
   "average_tries": 1.8574999570846558

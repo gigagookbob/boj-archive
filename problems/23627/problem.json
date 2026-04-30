@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2021 Goricon, dogdriip, rhdqor213, djs100201, jh05013, wbcho0504, WeissBlume",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1040,
   "submission_count": null,
   "average_tries": 1.447100043296814

@@ -19,11 +19,7 @@
   "hint": "<p>В первом тесте порядок друзей изменяется следующим образом:</p>\n<p>$5, 4, 3, 2, 1 \\rightarrow 1, 2, 3, 4, 5 \\rightarrow 5, 1, 2, 3, 4 \\rightarrow 4, 5, 1, 2, 3 \\rightarrow 3, 4, 5, 1, 2$</p>\n<p>Во втором тесте порядок друзей изменяется следующим образом:</p>\n<p>$3, 4, 7, 6, 2, 5, 1 \\rightarrow 5, 6, 7, 3, 4, 2, 1 \\rightarrow 4, 3, 5, 6, 7, 2, 1 \\rightarrow 2, 6, 3, 4, 5, 7, 1$</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 5, 2019",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "math"
-  ],
+  "tags": ["ad_hoc", "constructive", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

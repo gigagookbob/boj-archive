@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 329px; height: 201px;\"/></p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2018, Group C",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.3555999994277954

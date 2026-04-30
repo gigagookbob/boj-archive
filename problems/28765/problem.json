@@ -19,11 +19,7 @@
   "hint": "<p>Пять вариантов нового расположения треков во втором примере приведены на рисунке. На координатной оси отрезками показаны старые треки, над координатной осью жирными отрезками показаны новые треки.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 320px; height: 244px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, March 14, 2020",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

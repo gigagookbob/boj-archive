@@ -23,12 +23,7 @@
   "hint": "<p>첫 번째 예제의 경우 가로 축과 세로 축에서 모두 홀수 점들과 짝수 점들이 나누어져 있기 때문에 답은 최소 $2 \\times 2 = 4$입니다. 선물을 $4$개만 준비해도 된다는 사실을 증명할 수 있습니다.</p>\n<p>두 번째 예제의 경우, 예를 들어 $(0, 0) \\rightarrow (1, 2) \\rightarrow (3, 1) \\rightarrow (1, 0)$과 같은 방식으로 한 칸씩 이동할 수 있기 때문에 어떤 위치에든 선물을 하나만 놓아도 기물이 선물을 가져갈 수 있습니다.</p>\n<p>세 번째 예제의 경우, 두 번째 예제와 마찬가지로 기물이 한 칸씩 이동할 수 있는 방법이 있습니다. 이 경우는 기물이 한 칸을 이동하는 데 최소 다섯 번의 이동을 필요로 합니다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2021 서울대학교 프로그래밍 경시대회, Division 2, kipa00, cozyyg, doju, kdh9949, yclock",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean",
-    "parity"
-  ],
+  "tags": ["math", "number_theory", "euclidean", "parity"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 3.351599931716919

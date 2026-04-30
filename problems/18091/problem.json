@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the fist example: Nothing will change after the standings our unfrozen. Therefore, our heroes will remain in the first place!</p>\n<p>Clarification of the second example: In the worst case our heroes will only lose from the team <code>StoJeZivot</code>, thereby finishing in second place.</p>\n<p>Clarification of the third example: In the worst case our heroes will lose from teams U najgorem će slučaju naš trojac <code>NisamSadaNistaDonio</code> and <code>JeLiMojKockaSeUmio</code>, thereby finishing in third place.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #2",
   "level": 8,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.142899990081787

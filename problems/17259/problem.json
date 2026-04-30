@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCON, lja9702, greimul",
   "level": 12,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 2.634500026702881

@@ -15,11 +15,7 @@
   "hint": "<p>The following picture illustrates the example. Adrian and Beatrice don't pay for the dashed roads, they pay $2l$ for the bold roads, and $l$ for the solid roads.</p>\n<p>So the total cost is $2 \\cdot 5 + 3 + 3 = 16$.</p>\n<p>The castles of Adrian and Beatrice are located in bold towns.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 400px; height: 161px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2021",
   "level": 25,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5

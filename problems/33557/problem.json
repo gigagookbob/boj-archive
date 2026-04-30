@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제2회 유틸컵, wapas, buttercrab, dkim110807, dong5995, dongwook7, jinhan814, kidw0124, pentagon03, tony9402, utilforever",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic"],
   "accepted_user_count": 647,
   "submission_count": null,
   "average_tries": 1.4297000169754028

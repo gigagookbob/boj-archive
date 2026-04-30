@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, shiftpsh, chansol, cologne, cozyyg, gs18115, havana723, pichulia, topology",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["implementation", "bruteforcing", "case_work"],
   "accepted_user_count": 524,
   "submission_count": null,
   "average_tries": 3.3568999767303467

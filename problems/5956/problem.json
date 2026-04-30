@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO January 2011 Contest, Bronze",
   "level": 5,
-  "tags": [
-    "math",
-    "recursion"
-  ],
+  "tags": ["math", "recursion"],
   "accepted_user_count": 293,
   "submission_count": null,
   "average_tries": 2.105799913406372

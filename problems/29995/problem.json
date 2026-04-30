@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação da SBC 2023",
   "level": 28,
-  "tags": [
-    "delaunay",
-    "geometry",
-    "voronoi"
-  ],
+  "tags": ["delaunay", "geometry", "voronoi"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

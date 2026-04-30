@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2010, Day 2",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.5455000400543213

@@ -19,11 +19,7 @@
   "hint": "<p>The Euclidean distance between two vectors $(u_1, u_2, \\ldots, u_N)$ and $(v_1, v_2, \\ldots, v_N)$ is the real number $$\\sqrt{(v_1 - u_1)^2 + (v_2 - u_2)^2 + \\ldots + (v_N - u_N)^2}\\text{.}$$</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 7: Karelia Cup Day 1, Grand Prix of Karelia, Contest, Open Cup, 2014/2015 Season, Stage 8: Grand Prix of Karelia",
   "level": 21,
-  "tags": [
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "mcmf", "graphs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.4000000953674316

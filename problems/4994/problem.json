@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Bangladesh, Dhaka Regional Contest 2002, baekjoon",
   "level": 13,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 271,
   "submission_count": null,
   "average_tries": 2.0295000076293945

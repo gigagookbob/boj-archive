@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, there are $4$ possible combinations that will work: <code>ITM</code>, <code>IMT</code>, <code>MTI</code>, <code>TMI</code>. <code>ITM</code> is one of them. It does not have equal adjacent cards, and there is no <code>MIT</code> or <code>TIM</code>.</p>\n<p>In the second test case, there is only one possible construction: <code>MMM</code>, but it is not valid, as there are adjacent <code>M</code>s.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Advanced Team Round, University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Beginner Round",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

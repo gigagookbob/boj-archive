@@ -35,11 +35,7 @@
   "hint": "<p>예제 1의 경우 4개의 주사위를 다시 던지는 것은 스트레이트나 풀 하우스의 확률을 증가시켜준다. 따라서 3개의 주사위를 다시 던지는 것이 최적이다. 5개의 주사위중 어느 3개를 골라도 확률이 같으므로 사전순으로 가장 앞서는 1 2 3을 출력한다.</p>",
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4.846199989318848

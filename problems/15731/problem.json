@@ -15,10 +15,7 @@
   "hint": "<p>예제 입력과 출력은 다음의 경우가 존재한다.</p>\n<pre>\n1)\nfor statement\n    execute statement\nfor statement\n    execute statement\n\n2)\nfor statement\n    execute statement\n    for statement\n        execute statement</pre>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 HEPC, MAVEN, dreammusic23, jh05013, sky1357",
   "level": 16,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.8631999492645264

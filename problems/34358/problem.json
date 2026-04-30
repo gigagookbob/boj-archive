@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2025, Day 2",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "ad_hoc",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["implementation", "graphs", "ad_hoc", "geometry", "constructive"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

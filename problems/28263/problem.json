@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제2회 초콜릿컵, bubbler, kiwiyou, mingyu331, sorohue, wider93",
   "level": 26,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "heuristics"
-  ],
+  "tags": ["math", "number_theory", "constructive", "heuristics"],
   "accepted_user_count": 144,
   "submission_count": null,
   "average_tries": 2.4028000831604004

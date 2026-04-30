@@ -15,10 +15,7 @@
   "hint": "<p>가능한 실행 방법 중 하나는 다음과 같습니다.</p>\n<ol>\n<li><em>K</em><sub>0</sub> = 15를 입력받고, <em>K</em>를 그 값으로 설정합니다. 따라서 <em>K</em> := <em>K</em><sub>0</sub> = 15가 됩니다.</li>\n<li>각 줄에서 연산을 하나씩 고르는데, 구체적으로 첫째 줄에서는 <code>+10</code>, 둘째 줄에서는 <code>-20</code>, 셋째 줄에서는 <code>*20</code>을 고릅니다.</li>\n<li>각 연산을 순서대로 시행하면, 첫째 줄 시행 이후 <em>K</em> := 15 + 10 = 25, 둘째 줄 시행 이후 <em>K</em> := 25 − 20 = 5, 셋째 줄 시행 이후 <em>K</em> := 5 × 20 = 100이 됩니다.</li>\n<li>100을 출력합니다.</li>\n</ol>\n<p>이렇게 실행하는 방법이 다른 방법에 비해 가장 큰 값을 출력함을 알 수 있습니다. 가장 큰 출력값인 100을 10<sup>9</sup> + 7로 나눈 나머지인 100을 출력합니다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2022 서울대학교 프로그래밍 경시대회, Division 2, kipa00, IHHI, jhwest2, sait2000, sjimed",
   "level": 15,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 5.574999809265137

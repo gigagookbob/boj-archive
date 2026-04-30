@@ -19,11 +19,7 @@
   "hint": "<p>例 1 の場合，1, 2, 3, 4 本目のつららは，それぞれ 2, 8, 4, 1 時間後に折れる．した がって，すべてのつららが折れるまでにかかる時間は 8 時間であるので，8 を出力 する．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2009/2010",
   "level": 13,
-  "tags": [
-    "dp",
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["dp", "data_structures", "priority_queue"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.4182000160217285

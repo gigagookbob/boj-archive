@@ -15,11 +15,7 @@
   "hint": "<p>Byteasar buys the product number 2 in the first warehouse, and all the other products in the second one. So he does not have to visit the third warehouse.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2014, Contest, Open Cup, 2014/2015 Season, Stage 3: Grand Prix of Central Europe",
   "level": 16,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

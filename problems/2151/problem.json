@@ -15,13 +15,7 @@
   "hint": null,
   "source": "cokcjswo, jinhot, doju, sait2000, victory277",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "dijkstra"],
   "accepted_user_count": 2473,
   "submission_count": null,
   "average_tries": 3.6865999698638916

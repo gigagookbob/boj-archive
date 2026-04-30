@@ -15,10 +15,7 @@
   "hint": "<p>Adjacency matrix: $\\begin{matrix}0  &amp; 7 &amp; 9  &amp; 15 \\\\ 7  &amp; 0 &amp; 3  &amp; 8  \\\\ 9  &amp; 3 &amp; 0  &amp; 11 \\\\ 15 &amp; 8 &amp; 11 &amp; 0 \\end{matrix}$</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe, ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2021",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.9387999773025513

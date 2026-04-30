@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2018 홍익대학교 컴퓨터공학과 코딩대회, jh05013, ckdduf138",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 5530,
   "submission_count": null,
   "average_tries": 2.6308999061584473

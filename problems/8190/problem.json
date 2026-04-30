@@ -15,13 +15,7 @@
   "hint": "<p>The shortest display could be, for example: szymonikatomekszymonika. It has 5 occurrences of the hamsters' names in total: szymon and monika occur twice each, tomek just once, and bernard does not occur in it at all.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 2",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "string",
-    "exponentiation_by_squaring",
-    "kmp"
-  ],
+  "tags": ["math", "dp", "string", "exponentiation_by_squaring", "kmp"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.18179988861084

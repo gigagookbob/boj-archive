@@ -23,13 +23,7 @@
   "hint": "<p>이 문제는 Python3를 이용하여 풀 수 있음을 보장할 수 없다. Python을 사용한다면, PyPy3가 Python3와 같은 문법을 가지면서 일반적으로 더 빠르게 동작하기에 PyPy3로 제출하는 것을 권장한다.</p>",
   "source": "University, DGIST, 2024 DGIST 알고리즘 경진대회, bnb2011, 99asdfg, jinhan814, jyheo98, leo020630, sjhi00, tlsdydaud1",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "string",
-    "bruteforcing",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "string", "bruteforcing", "combinatorics"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.7240999937057495

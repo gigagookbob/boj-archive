@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2011 Rocky Mountain Regional Contest",
   "level": 18,
-  "tags": [
-    "string",
-    "hashing",
-    "suffix_array"
-  ],
+  "tags": ["string", "hashing", "suffix_array"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3

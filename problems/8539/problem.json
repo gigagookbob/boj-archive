@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2002.05",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "sweeping",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "sorting", "sweeping", "priority_queue"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.1363999843597412

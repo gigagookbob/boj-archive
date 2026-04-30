@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 10, 2018, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 10, 2018, Advanced",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["binary_search", "graphs", "graph_traversal"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

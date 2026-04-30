@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, AI Network Scholarium, AI Network Scholarium I, tteuing2, alex9801, august14, doju, gs15120, leehosu01",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set",
-    "prefix_sum",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "binary_search", "set", "prefix_sum", "tree_set"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 3.1963000297546387

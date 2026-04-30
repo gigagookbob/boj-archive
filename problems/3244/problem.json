@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2003, National Competition #2 - Seniors",
   "level": 18,
-  "tags": [
-    "dp",
-    "binary_search",
-    "traceback"
-  ],
+  "tags": ["dp", "binary_search", "traceback"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.2142999172210693

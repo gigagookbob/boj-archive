@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 대전대신고등학교, 제1회 코더즈 코딩페어, lunarlity, dinojaemin, kckyoung2, kolorvxl, minchan_bae, nflight11, realpsdoingdamyoo, thak00, tony9402, toycartoon, utilforever, young_out",
   "level": 14,
-  "tags": [
-    "math",
-    "geometry",
-    "prefix_sum"
-  ],
+  "tags": ["math", "geometry", "prefix_sum"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.0637999773025513

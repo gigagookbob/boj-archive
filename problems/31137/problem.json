@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 6: Grand Prix of EDG",
   "level": 19,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing", "sorting", "simulation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.5

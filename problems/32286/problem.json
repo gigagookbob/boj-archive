@@ -15,10 +15,7 @@
   "hint": "<p>연산 과정 중 C/C++의 <span style=\"color:#e74c3c;\"><code>int</code></span> 범위를 넘어갈 수 있으므로 <span style=\"color:#e74c3c;\"><code>long long</code></span> 자료형을 사용하는 것을 추천한다.</p>",
   "source": "School, 선린인터넷고등학교, 선린 프로그래밍 챌린지, 제2회 선린 프로그래밍 챌린지, etet0615, dohoon, kaorin, myyh1234, tyoungs, utilforever",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.9739999771118164

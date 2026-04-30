@@ -15,10 +15,7 @@
   "hint": "<p>In the example, the maximum possible area is achieved by rotating the lines by an angle approximately equal to $104.036^\\circ$. The triangle with the largest area has sides equal to $\\sqrt{17}$, $\\sqrt{17}$, $\\sqrt{34}$, and vertices at points $(a, b)$, $(a - 1, b + 4)$, and $(a + 4, b + 1)$, where $a \\approx 3.8235$, $b \\approx 1.7059$.</p>\n<p>In the illustration below, the original lines are marked with dashed lines, and the lines after rotation are marked with solid lines:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 768px; height: 506px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 5: Belarusian SU Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2015",
   "level": 15,
-  "tags": [
-    "dag",
-    "dp",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "dp", "graphs", "topological_sorting"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,11 +15,7 @@
   "hint": "<p>Так как у каждой единицы включено только два сегмента, то всего в числе $111$ используется $6$ включенных сегментов.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, October 25, 2020, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, October 25, 2020, Advanced",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.375

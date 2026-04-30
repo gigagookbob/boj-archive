@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2020/2021",
   "level": 15,
-  "tags": [
-    "dp",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "greedy", "prefix_sum"],
   "accepted_user_count": 141,
   "submission_count": null,
   "average_tries": 1.645400047302246

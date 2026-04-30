@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2007, 초등부, pos13050, kus9087, msgee, yoongh97",
   "level": 10,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 5286,
   "submission_count": null,
   "average_tries": 1.9494999647140503

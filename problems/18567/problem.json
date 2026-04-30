@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 2: Jingzhe Tang Contest",
   "level": 24,
-  "tags": [
-    "burnside",
-    "case_work",
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["burnside", "case_work", "combinatorics", "dp", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

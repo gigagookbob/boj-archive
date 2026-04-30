@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2025",
   "level": 8,
-  "tags": [
-    "implementation",
-    "dp",
-    "simulation"
-  ],
+  "tags": ["implementation", "dp", "simulation"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.6060999631881714

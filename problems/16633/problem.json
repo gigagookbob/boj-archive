@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2018",
   "level": 13,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "game_theory"
-  ],
+  "tags": ["dp", "bruteforcing", "game_theory"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.083299994468689

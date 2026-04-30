@@ -15,13 +15,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "binary_search",
-    "bipartite_matching"
-  ],
+  "tags": ["math", "dp", "graphs", "binary_search", "bipartite_matching"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southern California Regional, 1989 Southern California Regional",
   "level": 9,
-  "tags": [
-    "arithmetic",
-    "implementation",
-    "math",
-    "parsing",
-    "string"
-  ],
+  "tags": ["arithmetic", "implementation", "math", "parsing", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.25

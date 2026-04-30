@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Open, gumgood, jhnah917, shiftpsh",
   "level": 23,
-  "tags": [
-    "geometry",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "half_plane_intersection"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 9.66670036315918

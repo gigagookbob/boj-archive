@@ -19,10 +19,7 @@
   "hint": "<p>근호는 아직도 이 똥게임을 클리어하지 못하고 있다...</p>",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2023 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2023 고려대학교 프로그래밍 경시대회 (KCPC), Div. 2, rootsquare, alex04, kdh9949, kidw0124, kyo20111, sprout_429, surface_03, utilforever, yijw0930",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 354,
   "submission_count": null,
   "average_tries": 3.271199941635132

@@ -19,11 +19,7 @@
   "hint": "<p>Example 1. The minimum distance is 1, between the stop '3' and '4'. and we only have 1 pair with distance '1'.</p>\n<p>Example 2. The minimum distance is 2, between the stop '2' and '4'. and we have 3 pairs with distance '2', like (0,2), (2,4), (4,6).</p>",
   "source": "University, 중앙대학교, CodeRace 2017, shieldnet",
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["implementation", "bruteforcing", "sorting"],
   "accepted_user_count": 300,
   "submission_count": null,
   "average_tries": 1.2166999578475952

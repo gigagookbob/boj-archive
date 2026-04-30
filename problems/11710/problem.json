@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2015",
   "level": 22,
-  "tags": [
-    "math",
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["math", "graphs", "flow", "mcmf"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 4.75

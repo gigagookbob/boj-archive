@@ -19,10 +19,7 @@
   "hint": null,
   "source": "tncks0121",
   "level": 11,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 19486,
   "submission_count": null,
   "average_tries": 2.2137999534606934

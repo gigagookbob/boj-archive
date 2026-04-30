@@ -35,13 +35,7 @@
   "hint": null,
   "source": "wapas, hjroh0315, kiwiyou, mingyu331, ufshg, utilforever, wider93",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "backtracking",
-    "heuristics",
-    "knuth_x",
-    "dancing_links"
-  ],
+  "tags": ["bitmask", "backtracking", "heuristics", "knuth_x", "dancing_links"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 7.86959981918335

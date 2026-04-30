@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, cake_monotone, cgiosy",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "trees", "trie"],
   "accepted_user_count": 1067,
   "submission_count": null,
   "average_tries": 1.7009999752044678

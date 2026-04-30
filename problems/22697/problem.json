@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2007 Day 2",
   "level": 12,
-  "tags": [
-    "dp",
-    "string",
-    "bruteforcing",
-    "lcs"
-  ],
+  "tags": ["dp", "string", "bruteforcing", "lcs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.2857000827789307

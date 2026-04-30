@@ -15,10 +15,7 @@
   "hint": "<p>단순 다각형은 변들이 꼭짓점에서만 만나는 다각형이다.</p>\n<p>단순 다각형인 $n$각형의 꼭짓점 $(x_1, y_1), (x_2, y_2), \\cdots (x_n, y_n)$이 반시계 방향으로 주어진다는 뜻은 $\\overline{(x_{i,j}, y_{i,j})(x_{{i},{j+1}}, y_{{i},{j+1}})} (1 \\leq j &lt; n)$이 변을 이루고 $\\overline{(x_{{i},{n}}, y_{{i},{n}})(x_{i,1}, y_{i,1})}$이 변을 이루며 $(x_1 \\times y_2 + x_2 \\times y_3 + \\cdots + x_n \\times y_1) - (y_1 \\times x_2 + y_2 \\times x_3 + \\cdots + y_n \\times x_1) &gt; 0$인 순서임을 의미한다.</p>",
   "source": "University, POSTECH, 2022 POSTECH Programming Contest, slah007, hyperbolic, knon0501, leo020630, lky7674, qjatn0120baek",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.700000047683716

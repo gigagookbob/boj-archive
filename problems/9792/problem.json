@@ -15,10 +15,7 @@
   "hint": "<p>To check if your understanding of \"chorus\" is correct, here are the chorus (without the quotes) of the four songs in the sample input according to our definition of chorus.</p>\n<p>Song 0, \"<code>thisisthechorus</code>\"</p>\n<p>Song 1, \"<code>chorusishere</code>\"</p>\n<p>Song 2, \"<code>chorus</code>\"</p>\n<p>Song 3, \"<code>againitwasdestinysgameforwhenlovefinallycameonirushedinlineonlytofindthatyouweregone</code>\"</p>\n<p>Song 0, 1, and 2 are dummy songs to help you understand this problem.</p>\n<p>Song 3 is a real song titled \"Beautiful Girl\", sung by Filipino \"Jose Mari Chan\". This is the song that inspired this problem.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Southern Programming Contest, Thailand Southern Programming Contest 2011",
   "level": 15,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.6875

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "jsa3824, rhdqor213, halang",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 951,
   "submission_count": null,
   "average_tries": 3.3649001121520996

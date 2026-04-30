@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2016/2017 Season, Stage 2: Grand Prix of Eurasia",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow",
-    "traceback"
-  ],
+  "tags": ["graphs", "flow", "traceback"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

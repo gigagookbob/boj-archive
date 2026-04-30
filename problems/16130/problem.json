@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2018_01, strowise, aru0504, ihatbuet, jh05013",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 234,
   "submission_count": null,
   "average_tries": 1.687999963760376

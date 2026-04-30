@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO US Open 2005 Contest, Gold",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy"
-  ],
+  "tags": ["dp", "graphs", "greedy"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

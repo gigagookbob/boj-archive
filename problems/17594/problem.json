@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample, by calling “Stop Counting!” before the −10 and “Start Counting!” before the final 10, we can achieve an average of 10.0 with the cards that are counted.</p>\n<p>In the second sample, all values are negative, so the best strategy is to call “Stop Counting!” before the first card is dealt and call “Start Counting!” after the last card is dealt. Since no cards were counted, the average of the counted cards is 0.0.</p>",
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2019",
   "level": 13,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["math", "ad_hoc", "prefix_sum"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.761199951171875

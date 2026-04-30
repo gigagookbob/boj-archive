@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2022 KAIST RUN Spring Contest, retro3014, cs71107, gs18115, ho94949, IHHI, kclee2172",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "parametric_search", "two_pointer"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.5814000368118286

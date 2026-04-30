@@ -23,10 +23,7 @@
   "hint": "<p>수열 $a_1, ..., a_n$과 수열 $b_1, ... b_n$에 대해 앞의 수열이 더 사전순으로 작다는 것은 다음과 같다.</p>\r\n\r\n<p>어떤 $i$가 존재해서 모든 $j&lt;i$에 대해 $a_j = b_j$이고 $a_i &lt; b_i$이다.</p>\r\n",
   "source": "kclee2172, ahgus89, junie, TAMREF",
   "level": 16,
-  "tags": [
-    "dp",
-    "bitmask"
-  ],
+  "tags": ["dp", "bitmask"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

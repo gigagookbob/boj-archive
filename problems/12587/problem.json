@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 1A",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "game_theory"
-  ],
+  "tags": ["bruteforcing", "game_theory"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2173999547958374

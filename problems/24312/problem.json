@@ -19,11 +19,7 @@
   "hint": "<p>Обяснение на пример 1: Дините се разпределят така, че в лявата ръка да има 4+7 килограма, а в дясната 2+8. Съответните суми са 11 и 10. Разликата между по-голямата и по-малката е 1.</p>\n<p>Обяснение на пример 2: Лявата ръка взема трите дини от по 2 килограма, а дясната взема динята, тежаща 8 килограма.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2018, Group E",
   "level": 3,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 263,
   "submission_count": null,
   "average_tries": 1.4297000169754028

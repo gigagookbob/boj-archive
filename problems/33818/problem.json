@@ -27,10 +27,7 @@
   "hint": "<p>Wyjaśnienie przykładów: W pierwszym przykładzie w jednym z optymalnych rozwiązań Bajtazar spędza kolejne segmenty dnia w następujący sposób:</p>\n<ol>\n<li>Rozwiązywanie zadań</li>\n<li>Zdalne spotkanie z domu</li>\n<li>Rozwiązywanie zadań</li>\n<li>Droga do pracy</li>\n<li>Droga do pracy</li>\n<li>Spotkanie w biurze</li>\n<li>Droga do domu</li>\n<li>Droga do domu (przegapia jedno spotkanie)</li>\n<li>Rozwiązywanie zadań</li>\n<li>Zdalne spotkanie z domu</li>\n</ol>\n<p>W tym planie Bajtazar opuszcza dokładnie jedno spotkanie i rozwiązuje zadania przez $3$ bajtogodziny.</p>\n<p>W drugim przykładzie jedyny plan, w którym Bajtazar nie traci pracy wygląda następująco:</p>\n<ol>\n<li>Droga do pracy</li>\n<li>Droga do pracy</li>\n<li>Spotkanie w biurze</li>\n<li>Praca w biurze</li>\n<li>Zdalne spotkanie z biura</li>\n<li>Droga do domu</li>\n<li>Droga do domu</li>\n</ol>\n<p>W trzecim przykładzie Bajtazar może spędzić cały dzień w domu, rozwiązując zadania i pomijając wszystkie zdalne spotkania.</p>\n<p>W czwartym przykładzie Bajtazar nie jest w stanie uczestniczyć w spotkaniach w biurze, ponieważ nie jest w stanie na nie zdążyć lub zdążyć wrócić z nich do domu.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2025",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

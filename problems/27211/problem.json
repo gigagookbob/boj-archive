@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, 쇼미더코드: 원티드 주관 코딩테스트 대회, 2022년 3회차, ryute",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "flood_fill"],
   "accepted_user_count": 910,
   "submission_count": null,
   "average_tries": 1.4603999853134155

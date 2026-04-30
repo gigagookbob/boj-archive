@@ -23,10 +23,7 @@
   "hint": "<p>첫 번째 경우에서 첫 번째 의견은 마지막 의견에 비해 약 $834$일 $6$시간$\\,\\approx 2.286$년 전 의견이므로, 가중평균은 \\[X\\approx\\frac{\\max\\left( 0.5^{2.286},0.9^1 \\right)\\times 24+\\max\\left( 0.5^0,0.9^0 \\right)\\times 18}{\\max\\left( 0.5^{2.286},0.9^1 \\right) +\\max\\left( 0.5^0,0.9^0 \\right)} =\\frac{0.9\\times 24+1\\times 18}{0.9+1}\\approx 20.842\\]<br/>이다. 따라서 난이도는 이를 반올림한 $21$로 결정된다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022 예선, shiftpsh, bnb2011, doju, ho94949, lky7674, man_of_learning, myungwoo, queued_q, quickn",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 307,
   "submission_count": null,
   "average_tries": 3.1106998920440674

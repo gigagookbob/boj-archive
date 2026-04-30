@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2016",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "bipartite_matching"
-  ],
+  "tags": ["binary_search", "parametric_search", "bipartite_matching"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 1.7008999586105347

@@ -19,10 +19,7 @@
   "hint": "<p>Consider three possible ways to get down for the first sample.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 212px; height: 400px;\"/><img alt=\"\" src=\"2.png\" style=\"width: 242px; height: 400px;\"/><img alt=\"\" src=\"3.png\" style=\"width: 242px; height: 400px;\"/></p>\n<p>The first way is to simply use 100 meters rope to get from the top to the bottom. The second way is to make a loop at the top, put double rope through the loop, get to the ledge and retrieve the rope. Repeating this to get from the ledge to the ground, we obtain another way to get down with 100 meters rope.</p>\n<p>If we combine two approaches, we can do much better and get down with only 75 meters of rope. Let us hang 25 meters from the top on a single rope, make a loop there and double-rope to the ledge. This way we forfeit 25 initial meters, but save 50 meters we used for double-roping. These 50 meters are just enough to single-rope to the ground.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 3: Moscow IPT Contest",
   "level": 14,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.631600022315979

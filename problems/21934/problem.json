@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2020 Asia Yokohama Regional",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "case_work"
-  ],
+  "tags": ["math", "dp", "combinatorics", "case_work"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.217400074005127

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2019, Contest, Open Cup, 2018/2019 Season, Stage 14: Grand Prix of America",
   "level": 19,
-  "tags": [
-    "math",
-    "geometry",
-    "combinatorics"
-  ],
+  "tags": ["math", "geometry", "combinatorics"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.2903000116348267

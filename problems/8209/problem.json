@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:154px; width:154px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 2, koosaga",
   "level": 18,
-  "tags": [
-    "eulerian_path",
-    "graphs"
-  ],
+  "tags": ["eulerian_path", "graphs"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 4.9166998863220215

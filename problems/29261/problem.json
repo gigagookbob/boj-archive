@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 OVA ~한여름의 수학여행 편~, index, hyperbolic, ruykun, sait2000, sorohue, sprout_429",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "dp", "number_theory", "primality_test"],
   "accepted_user_count": 161,
   "submission_count": null,
   "average_tries": 2.0373001098632812

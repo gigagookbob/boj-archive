@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Pakistan, Asia Lahore Regional Online Contest 2014",
   "level": 10,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.7647000551223755

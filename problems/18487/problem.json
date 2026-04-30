@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 5: Gennady Korotkevich Contest 4, Contest, Open Cup, 2018/2019 Season, Stage 11: Grand Prix of Gomel",
   "level": 20,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.25

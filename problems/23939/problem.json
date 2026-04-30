@@ -15,9 +15,7 @@
   "hint": "<p>In the first sample case, there are <b>N</b> = 5 consulates, <b>G</b> = 3 guests, who will drive for <b>M</b> = 2 minutes.</p>\n<ul>\n<li>For the 1st consulate, it is last visited by guests 1 and 2 (at the end of the 1st minute).</li>\n<li>For the 2nd consulate, it is last visited by guest 1 (at the end of the 2nd minute).</li>\n<li>The 3rd consulate, is never visited.</li>\n<li>For the 4th consulate, it is last visited by guest 3 (at the end of the 2nd minute).</li>\n<li>For the 5th consulate, it is last visited by guest 2 (at the end of the 2nd minute).</li>\n</ul>\n<p>Thus the answer should be 2, 2, 1 for the 1st, 2nd and 3rd guests respectively.</p>\n<p>In the second sample case, there are <b>N</b> = 2 consulates, <b>G</b> = 4 guests, who will drive for <b>M</b> = 0 minutes.</p>\n<ul>\n<li>For the 1st consulate, it is last visited by guests 1, 2, 3 and 4 (all the guests start at this consulate).</li>\n<li>The 2nd consulate, is never visited.</li>\n</ul>\n<p>Thus the answer should be 1, 1, 1, 1 for the 1st, 2nd, 3rd and 4th guests respectively.</p>\n<p>In the third sample case, there are <b>N</b> = 3 consulates, <b>G</b> = 2 guests, who will drive for <b>M</b> = 10 minutes.</p>\n<ul>\n<li>For the 1st consulate, it is last visited by guests 1, and 2 (at the end of the 10th minute).</li>\n<li>For the 2nd consulate, it is last visited by guest 2 (at the end of the 9th minute).</li>\n<li>For the 3rd consulate, it is last visited by guest 1 (at the end of the 9th minute).</li>\n</ul>\n<p>Thus the answer should be 2, 2 for the 1st and 2nd guests respectively.</p>\n<p>In the fourth sample case, there is only one guest. This guest visits all the consulates eventually, so is remembered by all of them. Thus the answer is 6.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2019, Round D",
   "level": 15,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

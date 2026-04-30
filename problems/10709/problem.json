@@ -19,10 +19,7 @@
   "hint": "<p>입출력 예제 1에서는, JOI시가 3 &times; 4 개의 작은 구역으로 나뉘어 있다. 지금 JOI시의 구름 상황은 아래와 같다. 그림의 위쪽이 북쪽이다.</p>\r\n\r\n<p><img alt=\"\" src=\"1.png\" style=\"height:288px; width:384px\" /></p>\r\n\r\n<p>1분 간격으로 구름은 다음과 같이 움직인다.</p>\r\n\r\n<p><img alt=\"\" src=\"2.png\" style=\"height:288px; width:384px\" /><img alt=\"\" src=\"3.png\" style=\"height:288px; width:384px\" /><img alt=\"\" src=\"4.png\" style=\"height:288px; width:384px\" /></p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2014/2015 예선, pinebananais, eric00513, djm03178",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 6088,
   "submission_count": null,
   "average_tries": 1.333799958229065

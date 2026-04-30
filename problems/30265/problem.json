@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2023: P-22",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["math", "bruteforcing", "geometry"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

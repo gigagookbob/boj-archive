@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, JOI Open Contest, JOI Open Contest 2015",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "hld"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "hld"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.3939000368118286

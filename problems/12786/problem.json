@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2016 IUPC 인하대학교 프로그래밍 경진대회, klight1994, jh05013",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 343,
   "submission_count": null,
   "average_tries": 4.253600120544434

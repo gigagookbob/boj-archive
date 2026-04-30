@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Eastern Division, ACM South Pacific Eastern Division 2015",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 2.8333001136779785

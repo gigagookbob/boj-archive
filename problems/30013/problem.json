@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 프로그래밍 챌린지, 제 1회 선린 프로그래밍 챌린지, 대회, School, 선린인터넷고등학교, 선린 프로그래밍 챌린지, 제 1회 선린 프로그래밍 챌린지, Open Contest, yong0315, 79brue, amsminn, gubshig, hibye1217, jeong1208, jjang36524, myyh1234, prarie",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 1.9261000156402588

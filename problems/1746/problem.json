@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO November 2007 Contest, Gold",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.0799999237060547

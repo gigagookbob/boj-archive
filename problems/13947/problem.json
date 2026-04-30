@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2016, Contest, Open Cup, 2016/2017 Season, Stage 8: Grand Prix of Europe",
   "level": 17,
-  "tags": [
-    "geometry",
-    "case_work",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "case_work", "convex_hull"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 2.315200090408325

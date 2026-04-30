@@ -15,12 +15,7 @@
   "hint": null,
   "source": "citizen",
   "level": 19,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "parametric_search",
-    "flow"
-  ],
+  "tags": ["graphs", "binary_search", "parametric_search", "flow"],
   "accepted_user_count": 480,
   "submission_count": null,
   "average_tries": 2.5374999046325684

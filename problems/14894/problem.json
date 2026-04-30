@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, zych1751",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "divide_and_conquer",
-    "pst"
-  ],
+  "tags": ["data_structures", "segtree", "divide_and_conquer", "pst"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.96589994430542

@@ -19,12 +19,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:108px; width:252px\" /></p>\r\n\r\n<p>예제의 경우 위와 같이 꽂으면 컴퓨터 5개를 사용할 수 있다.</p>\r\n",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2012, baekjoon",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "sorting", "simulation"],
   "accepted_user_count": 207,
   "submission_count": null,
   "average_tries": 2.9130001068115234

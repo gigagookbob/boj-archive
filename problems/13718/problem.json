@@ -19,12 +19,7 @@
   "hint": "<p>The possible words, in aphabetical order, are: “pololjeni”, “pololjeui”, “pololjezi”, “poooljeni”, “poooljeui”, “poooljezi”, “posoljeni”, “posoljeui”, “posoljezi”. </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #2",
   "level": 7,
-  "tags": [
-    "math",
-    "string",
-    "sorting",
-    "combinatorics"
-  ],
+  "tags": ["math", "string", "sorting", "combinatorics"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.049999952316284

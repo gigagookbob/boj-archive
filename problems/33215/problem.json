@@ -19,12 +19,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: Prvog dana po danu Ivan će Marnina navesti u iz početnog grada $1$ u grad $4$. Navečer će Ivan Vedranu odabrati stazu između $4$ i $2$. Drugog dana, Ivan Marina navodi iz grada $2$ u grad $3$, a zatim Vedrana iz grada $3$ u grad $2$. Svaki idući dan može učiniti isto pa je moguće rutirati u nedogled.</p>\n<p>Na prvoj slici je Marinova mapa, na drugoj Vedrana, a na trećoj je plan kojim ih vodi Ivan.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 444px; height: 126px;\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2024",
   "level": 15,
-  "tags": [
-    "dag",
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dag", "dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

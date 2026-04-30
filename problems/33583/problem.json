@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 한국디지털미디어고등학교, 제2회 디미고 프로그래밍 챌린지, goodpjw2008, 99asdfg, deom, dkim110807, ian0704, ldhhello, qvixnh22, seungchan0325, tlsdydaud1, utilforever",
   "level": 19,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["math", "data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.9737000465393066

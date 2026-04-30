@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 한성과학고등학교, 제1회 한성과고 알고리즘 챌린지, leejseo, chansol, junie, messi, TAMREF, wookje",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 178,
   "submission_count": null,
   "average_tries": 2.837100028991699

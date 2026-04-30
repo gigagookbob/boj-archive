@@ -15,11 +15,7 @@
   "hint": "<p>Using your forehead and some forethought should make an answer forthcoming. When in doubt use the fourth.</p>",
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2013",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.8861000537872314

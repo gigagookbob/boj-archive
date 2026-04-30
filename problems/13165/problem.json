@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2016, xhark",
   "level": 21,
-  "tags": [
-    "math",
-    "greedy",
-    "linear_algebra",
-    "randomization"
-  ],
+  "tags": ["math", "greedy", "linear_algebra", "randomization"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 9.451000213623047

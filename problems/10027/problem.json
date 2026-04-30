@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2014, Croatian Olympiad in Informatics 2014, imagine9, kks227",
   "level": 22,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "parsing",
-    "string",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "parsing", "string", "trees"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.421099901199341

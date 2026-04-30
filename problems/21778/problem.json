@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 1회 코딩 테스트, chogahui05, melon940925, rhs0266",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "binary_search", "priority_queue"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 3.1154000759124756

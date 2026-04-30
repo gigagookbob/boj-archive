@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2010",
   "level": 19,
-  "tags": [
-    "math",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["math", "permutation_cycle_decomposition"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

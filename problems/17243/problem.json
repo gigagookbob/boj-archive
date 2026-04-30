@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예제에서 Almost-0 Increasing Subsequence는 (1, 2, 3, 5), (1, 2, 3, 4)가 존재하며, 모두 길이가 4다.</p>\n<p>두번째 예제에서 Almost-1 Increasing Subsequence는 (1, 2, 3, 5, 4) 로, 길이가 5다.</p>",
   "source": "University, POSTECH, 2019 PPC, hyperbolic, orihehe",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.8824000358581543

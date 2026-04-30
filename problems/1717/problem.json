@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author5, Apple_Cplus, njw1204",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 27536,
   "submission_count": null,
   "average_tries": 3.3566999435424805

@@ -15,9 +15,7 @@
   "hint": "<p>실제 대회에는 언어 제한이 없었다.</p>",
   "source": "School, PLU High School Programming Contest, PLU 2018, Novice",
   "level": 0,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2438,
   "submission_count": null,
   "average_tries": 1.4876999855041504

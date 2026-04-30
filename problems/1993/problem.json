@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2006, kks227",
   "level": 21,
-  "tags": [
-    "dp",
-    "set",
-    "mitm"
-  ],
+  "tags": ["dp", "set", "mitm"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.38100004196167

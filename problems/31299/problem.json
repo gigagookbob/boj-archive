@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 1: Grand Prix of SPb",
   "level": 21,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 5.2221999168396

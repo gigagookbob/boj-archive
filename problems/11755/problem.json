@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:141px; width:152px\"/></p>\n<p style=\"text-align:center\">Figure I.1. The Lowest-Cost Route for Sample Input 1</p>\n<p>Figure I.1 shows the lowest-cost route for Sample Input 1. The arrows indicate the route and the circles painted gray are junctions requiring personnel assignment. The minimum number of required personnel is 17 in this case.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2015 in Tsukuba",
   "level": 23,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "backtracking"
-  ],
+  "tags": ["graphs", "graph_traversal", "backtracking"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.017199993133545

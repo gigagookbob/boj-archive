@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제3회 피갤컵, wapas, dong5995, playsworld16, urd05",
   "level": 12,
-  "tags": [
-    "greedy",
-    "constructive",
-    "prefix_sum",
-    "parity"
-  ],
+  "tags": ["greedy", "constructive", "prefix_sum", "parity"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 1.6893999576568604

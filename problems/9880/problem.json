@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>The Moolympics broadcast consists of 6 programs.  The first runs from time 0 to time 3, and so on.</p><h4>Output Details</h4><p>FJ can record at most 4 programs.  For example, he can record programs 1 and 3 back-to-back on the first tuner, and programs 2 and 4 on the second tuner.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO January 2014 Contest, Silver",
   "level": 12,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["dp", "greedy", "sorting"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 2.1196000576019287

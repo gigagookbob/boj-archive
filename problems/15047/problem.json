@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2017, doju",
   "level": 15,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1

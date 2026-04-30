@@ -15,11 +15,7 @@
   "hint": null,
   "source": "h0ngjun7",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "coordinate_compression"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 3.1521999835968018

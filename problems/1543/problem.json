@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, hist0613, chan120317, jaehoo1",
   "level": 6,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 13704,
   "submission_count": null,
   "average_tries": 2.1733999252319336

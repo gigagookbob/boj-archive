@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2019, Round C",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "stack",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "stack", "two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

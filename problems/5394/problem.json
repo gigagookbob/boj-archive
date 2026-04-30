@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2010, baekjoon",
   "level": 24,
-  "tags": [
-    "binary_search",
-    "case_work",
-    "geometry"
-  ],
+  "tags": ["binary_search", "case_work", "geometry"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 7.63640022277832

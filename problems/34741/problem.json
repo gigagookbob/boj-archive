@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Championship, The 2025 ICPC Latin America Championship",
   "level": 25,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "geometry_3d"
-  ],
+  "tags": ["geometry", "convex_hull", "geometry_3d"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4.285699844360352

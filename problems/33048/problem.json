@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 마작컵, 마작컵 2024 - 우인전 3/4 님만 오면 ㄱ, gs18115, cologne, moonrabbit2, shiftpsh",
   "level": 23,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

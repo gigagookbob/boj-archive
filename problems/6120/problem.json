@@ -15,10 +15,7 @@
   "hint": "<p>For the first game, Bessie simply takes the number 9 and wins. For the second game, Bessie must take 1 (since she cannot take 0), and then FJ can win by taking 9.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO US Open 2009 Contest, Silver",
   "level": 12,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.119999885559082

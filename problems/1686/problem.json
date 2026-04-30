@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 1999, WeissBlume, h0ngjun7",
   "level": 12,
-  "tags": [
-    "bfs",
-    "geometry",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "geometry", "graphs", "graph_traversal"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 2.625

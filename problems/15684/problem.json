@@ -39,11 +39,7 @@
   "hint": "<table class=\"table table table-bordered\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 50%; text-align: center;\"><img alt=\"\" src=\"5.png\" style=\"width: 390px; height: 300px;\"/></td>\n<td style=\"width: 50%; text-align: center;\"><img alt=\"\" src=\"6.png\" style=\"width: 390px; height: 300px;\"/></td>\n</tr>\n<tr>\n<td style=\"width: 50%; text-align: center;\">예제 3</td>\n<td style=\"width: 50%; text-align: center;\">예제 3 정답</td>\n</tr>\n<tr>\n<td style=\"width: 50%; text-align: center;\"><img alt=\"\" src=\"7.png\" style=\"width: 390px; height: 300px;\"/></td>\n<td style=\"width: 50%; text-align: center;\"><img alt=\"\" src=\"8.png\" style=\"width: 390px; height: 300px;\"/></td>\n</tr>\n<tr>\n<td style=\"width: 50%; text-align: center;\">예제 7</td>\n<td style=\"width: 50%; text-align: center;\">예제 7 정답</td>\n</tr>\n</tbody>\n</table>",
   "source": "baekjoon, hyakintoss, commetgo, line1029, seobing, ntopia",
   "level": 13,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 11854,
   "submission_count": null,
   "average_tries": 4.32390022277832

@@ -31,10 +31,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2019, spectaclehong, vega",
   "level": 9,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 552,
   "submission_count": null,
   "average_tries": 2.6884000301361084

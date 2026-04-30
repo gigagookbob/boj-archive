@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2쿨, dhyang24, djm03178, eaststar, hyperbolic, index, sait2000, sivcde0405, tony9402",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "data_structures", "greedy", "simulation"],
   "accepted_user_count": 244,
   "submission_count": null,
   "average_tries": 3.6189000606536865

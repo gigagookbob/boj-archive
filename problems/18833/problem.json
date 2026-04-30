@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 최종 구데기컵 2, jh05013",
   "level": 0,
-  "tags": [
-    "eulerian_path",
-    "graphs"
-  ],
+  "tags": ["eulerian_path", "graphs"],
   "accepted_user_count": 0,
   "submission_count": null,
   "average_tries": 0

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO US Open 2016 Contest, Gold",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "disjoint_set", "offline_queries"],
   "accepted_user_count": 338,
   "submission_count": null,
   "average_tries": 1.4940999746322632

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter), arduinocc04, celina324, cologne, dohoon, heeda0528, hjroh0315, leo020630, lky7674, maker29, mjhmjh1104, pjshwa, qawbecrdtey, whqkrkt04",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1752,
   "submission_count": null,
   "average_tries": 1.19350004196167

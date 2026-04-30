@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제에서, 3행 또는 4열을 부수면 2개의 9가 남고 준오는 총 2대를 맞는다.</p>\n<p>두 번째 예제에서, 2행을 부수면 19, 99, 29가 남고 준오는 총 4대를 맞는다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제1회 천하제일 코딩대회 예선, wookje, eric00513",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1420,
   "submission_count": null,
   "average_tries": 1.7245999574661255

@@ -15,11 +15,7 @@
   "hint": "<p>An example is as shown above; for inputs 80, 35, 100 one result is “925 – 117 = 808”. Some input combinations have no result. For the inputs 35, 10, 10 there is no expression that matches those readings. For any given input set, the program should determine all of the valid expressions and print the number of expressions found.</p>",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2008 Pacific Northwest Region Programming Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.470599889755249

@@ -19,12 +19,7 @@
   "hint": "<p>A possible solution for the first example is shown below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 419px; height: 202px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Regional Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 1.3804999589920044

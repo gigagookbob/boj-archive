@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 1998, plantarflex, Apple_Cplus",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 288,
   "submission_count": null,
   "average_tries": 2.3680999279022217

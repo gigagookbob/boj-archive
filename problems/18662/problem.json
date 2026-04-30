@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 9: MEX Foundation Contest",
   "level": 27,
-  "tags": [
-    "math",
-    "implementation",
-    "dp",
-    "graphs",
-    "bipartite_matching"
-  ],
+  "tags": ["math", "implementation", "dp", "graphs", "bipartite_matching"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.75

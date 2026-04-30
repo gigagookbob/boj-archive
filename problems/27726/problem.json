@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2022, akim9905, 39dll, deuslovelt, eaststar, jthis, leeh18, rasauq1122, tony9402",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "disjoint_set"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 3.2537999153137207

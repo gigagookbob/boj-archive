@@ -15,10 +15,7 @@
   "hint": "<p>Use route 2 to travel from city 1 to city 3, then route 1 to travel from city 3 to city 2.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO January 2015 Contest, Bronze",
   "level": 10,
-  "tags": [
-    "implementation",
-    "mitm"
-  ],
+  "tags": ["implementation", "mitm"],
   "accepted_user_count": 137,
   "submission_count": null,
   "average_tries": 2.8759000301361084

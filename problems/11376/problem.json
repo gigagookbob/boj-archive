@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, ploffer11, pwj6800, sait2000, doju",
   "level": 17,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 3221,
   "submission_count": null,
   "average_tries": 2.2244999408721924

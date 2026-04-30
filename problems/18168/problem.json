@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 키파컵, 제2회 키파컵, kipa00",
   "level": 25,
-  "tags": [
-    "math",
-    "divide_and_conquer",
-    "fft",
-    "multipoint_evaluation"
-  ],
+  "tags": ["math", "divide_and_conquer", "fft", "multipoint_evaluation"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 3.1719000339508057

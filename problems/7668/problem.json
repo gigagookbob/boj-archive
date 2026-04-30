@@ -15,11 +15,7 @@
   "hint": "<p>In the first example, 1v3 = 1 × 62<sup>2</sup> + 57 × 62 + 3 = 7381, which is divisible by 61.</p>\n<p>In the second example, 2P6 = 2 × 62<sup>2</sup> + 25 × 62 + 6 = 9244, which is not divisible by 61.</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2007",
   "level": 9,
-  "tags": [
-    "math",
-    "string",
-    "number_theory"
-  ],
+  "tags": ["math", "string", "number_theory"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.2806999683380127

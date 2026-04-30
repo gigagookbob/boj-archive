@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, November 27, 2021, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, November 27, 2021, Advanced",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "math",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "math", "set"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.125

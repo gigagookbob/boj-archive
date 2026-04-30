@@ -19,10 +19,7 @@
   "hint": "<p>The illustration in the problem statement shows the field from the first example and the directions of moves.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 4: Grand Prix of Eurasia",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1

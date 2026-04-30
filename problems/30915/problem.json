@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BOJ Bundle, BOJ Bundle in Math. Vol 1, kiwiyou, kaorin, utilforever",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "extended_euclidean"
-  ],
+  "tags": ["math", "number_theory", "extended_euclidean"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.578900098800659

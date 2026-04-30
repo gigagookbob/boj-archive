@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2019",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "discrete_sqrt"
-  ],
+  "tags": ["math", "number_theory", "discrete_sqrt"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 4

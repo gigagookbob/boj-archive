@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2009, doju, khj94811, kohandy",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 1711,
   "submission_count": null,
   "average_tries": 4.087100028991699

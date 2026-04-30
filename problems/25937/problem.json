@@ -15,11 +15,7 @@
   "hint": "<p>The first and last strings in Sample Input do not have any ‘?’. The first input is not balanced so there is no way of replacing all ‘?’ to make it balanced, thus the output is zero. However, the last input is balanced so there is one way of replacing all ‘?’ to make it balanced, thus the output is 1.</p>",
   "source": "University, University of Central Florida, 2015 Local Programming Contest",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "implementation",
-    "string"
-  ],
+  "tags": ["ad_hoc", "implementation", "string"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.6470999717712402

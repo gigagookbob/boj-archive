@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 키파컵, 제2회 키파컵, kipa00",
   "level": 21,
-  "tags": [
-    "euler_phi",
-    "implementation",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["euler_phi", "implementation", "math", "number_theory"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 8.26669979095459

@@ -15,10 +15,7 @@
   "hint": "<p>가능한 메시지로 abc, cab, abcabc가 있다. 길이가 3보다 짧은 메시지는 없다.</p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2009 연습 세션, baekjoon, jh05013, tlwpdus",
   "level": 17,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 503,
   "submission_count": null,
   "average_tries": 1.5706000328063965

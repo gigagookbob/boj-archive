@@ -19,15 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제1회 소프트콘, jwvg0425",
   "level": 23,
-  "tags": [
-    "dp",
-    "graphs",
-    "string",
-    "graph_traversal",
-    "bfs",
-    "hashing",
-    "z"
-  ],
+  "tags": ["dp", "graphs", "string", "graph_traversal", "bfs", "hashing", "z"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 3.855600118637085

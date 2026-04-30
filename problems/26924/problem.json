@@ -23,10 +23,7 @@
   "hint": "<p>Anta att Anders och Beatrices listor är $[5,2,3,5,1]$ respektive $[1,4,3,4,2]$. Om vi tar en femma i den första listan och byter ut mot en fyra i den andra listan så kommer listorna innehålla exakt samma tal. Det innebär att båda summorna kommer vara $15$, och vi svarar då $0$.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2013, KATT",
   "level": 12,
-  "tags": [
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["sorting", "binary_search"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.5455000400543213

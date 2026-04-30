@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2015 Rocky Mountain Regional Contest",
   "level": 13,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "math",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "geometry_3d", "math", "ternary_search"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.3912999629974365

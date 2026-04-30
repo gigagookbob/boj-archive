@@ -27,13 +27,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2015/2016 Spring Training Camp",
   "level": 20,
-  "tags": [
-    "implementation",
-    "graphs",
-    "greedy",
-    "trees",
-    "functional_graph"
-  ],
+  "tags": ["implementation", "graphs", "greedy", "trees", "functional_graph"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.7618999481201172

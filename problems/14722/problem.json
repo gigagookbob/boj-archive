@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 생각하는 프로그래밍 대회, amok, asz2325",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 954,
   "submission_count": null,
   "average_tries": 3.349100112915039

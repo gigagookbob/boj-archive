@@ -19,11 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 21,
-  "tags": [
-    "dp",
-    "divide_and_conquer",
-    "divide_and_conquer_optimization"
-  ],
+  "tags": ["dp", "divide_and_conquer", "divide_and_conquer_optimization"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 5.1585001945495605

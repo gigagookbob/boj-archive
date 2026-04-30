@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, Croatian Olympiad in Informatics 2009",
   "level": 25,
-  "tags": [
-    "trees",
-    "link_cut_tree"
-  ],
+  "tags": ["trees", "link_cut_tree"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 3.94320011138916

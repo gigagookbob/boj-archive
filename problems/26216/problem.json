@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 겨울 숲의 초대, 겨울 숲의 초대, frozenca, kiwiyou, sait2000, wider93",
   "level": 14,
-  "tags": [
-    "math",
-    "trees",
-    "lca"
-  ],
+  "tags": ["math", "trees", "lca"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 2.932300090789795

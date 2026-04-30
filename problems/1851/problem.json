@@ -15,10 +15,7 @@
   "hint": "<p>맨 처음에 무게 3, 무게 1의 추를 서로 교환한다. 이어서 무게 2, 무게 1의 추를 서로 교환하면 된다.</p>",
   "source": null,
   "level": 20,
-  "tags": [
-    "greedy",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["greedy", "permutation_cycle_decomposition"],
   "accepted_user_count": 309,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2016, jh05013",
   "level": 22,
-  "tags": [
-    "graphs",
-    "flow",
-    "circulation"
-  ],
+  "tags": ["graphs", "flow", "circulation"],
   "accepted_user_count": 195,
   "submission_count": null,
   "average_tries": 2.4718000888824463

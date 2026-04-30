@@ -15,10 +15,7 @@
   "hint": "<p>문자열의 부분열이란 문자열에서 $0$개 이상의 문자를 지운 문자열을 의미한다. 예를 들어, <span style=\"color:#e74c3c;\"><code>aan</code></span>은 <code><span style=\"color:#e74c3c;\">hanyang</span></code>의 부분열이다.</p>\r\n",
   "source": "University, 한양대학교, 제10회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, jjaewon9, cologne, junseo, mjhmjh1104, my3, seonah, solvedac, yijw0930",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 3.6719000339508057

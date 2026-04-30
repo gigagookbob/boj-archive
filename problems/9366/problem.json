@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, Lebanese Collegiate Programming Contest, LCPC 2011, seok9311",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "geometry", "arithmetic", "case_work"],
   "accepted_user_count": 2167,
   "submission_count": null,
   "average_tries": 1.9672000408172607

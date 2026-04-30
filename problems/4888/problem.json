@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2010 Arab Collegiate Programming Contest, kks227",
   "level": 16,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "line_intersection",
-    "tsp"
-  ],
+  "tags": ["bruteforcing", "geometry", "line_intersection", "tsp"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.700000047683716

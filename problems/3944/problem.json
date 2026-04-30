@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2012 Greater New York Programming Contest, baekjoon, sky1357",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 530,
   "submission_count": null,
   "average_tries": 2.4321000576019287

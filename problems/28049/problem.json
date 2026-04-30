@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 24,
-  "tags": [
-    "math",
-    "geometry",
-    "offline_queries",
-    "difference_array"
-  ],
+  "tags": ["math", "geometry", "offline_queries", "difference_array"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 6.300000190734863

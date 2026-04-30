@@ -15,11 +15,7 @@
   "hint": "<p>파인애플과 도우의 조합을 (1,2), (2,5), (3,4), (4,3), (5,1)로 할 경우, 1 XOR 2 = 3, 2 XOR 5 = 7, 3 XOR 4 = 7, 4 XOR 3 = 7, 5 XOR 1 = 4로 최소값이 3이 나온다. 이 이외에도 최소값이 3이 되게하는 조합이 존재하나, 최소값이 4 이상이 나오게 하는 조합은 없다.</p>",
   "source": "University, POSTECH, 2019 PPC, hyperbolic",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "bipartite_matching"
-  ],
+  "tags": ["binary_search", "parametric_search", "bipartite_matching"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.868899941444397

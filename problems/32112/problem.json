@@ -23,10 +23,7 @@
   "hint": "<p>아래 그림은 3번째 예제에서 Rick을 굴리는 그림이다.</p>\n<p style=\"text-align: center;\"><img alt=\"3번째 예제에서 Rick을 굴리는 그림\" src=\"1.png\" style=\"width: 200px; max-width: 100%;\"/></p>\n<p>이 예제에서 Rick을 아래쪽, 오른쪽, 아래쪽, 오른쪽 순서대로 굴릴 수 있으나 페인트가 묻는 영역의 넓이가 $74$로 최적이 아니다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024, functionx, exqt, kclee2172, queued_q, qwerasdfzxcl, sorohue",
   "level": 24,
-  "tags": [
-    "dp",
-    "constructive"
-  ],
+  "tags": ["dp", "constructive"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.5555999279022217

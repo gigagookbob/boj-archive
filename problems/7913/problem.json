@@ -15,10 +15,7 @@
   "hint": "<p>Explanation of the example: Byteasar has drunk 1+37/64 teacups of tea and 59/64 teacups of milk in total.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2011",
   "level": 15,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 3.1521999835968018

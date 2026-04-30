@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #6, baekjoon",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "geometry", "constructive"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.7691999673843384

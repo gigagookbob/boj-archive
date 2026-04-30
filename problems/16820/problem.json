@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2017 Day 3",
   "level": 17,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "parity"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "parity"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3042999505996704

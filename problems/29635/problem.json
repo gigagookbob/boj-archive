@@ -19,12 +19,7 @@
   "hint": "<p>Illustrations for the examples:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 312px; height: 145px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, February 13, 2010",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "geometry", "set", "hash_set"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1

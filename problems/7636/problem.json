@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2011",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["bruteforcing", "data_structures", "stack"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

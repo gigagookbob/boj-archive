@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2020",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "greedy"
-  ],
+  "tags": ["data_structures", "greedy"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,10 +15,7 @@
   "hint": "<p>문제에서 주어진 그림은 두 번째 예제이다.</p>\r\n",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2007, baekjoon, skdudn321, pichulia",
   "level": 16,
-  "tags": [
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["geometry", "sorting"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.9667000770568848

@@ -19,13 +19,7 @@
   "hint": "<p>채점 데이터는 실제 <code>백준 온라인 저지</code> 문제 및 <code>솔브드</code> 태그와 관련이 없을 수 있다.</p>",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2024 고려대학교 프로그래밍 경시대회 (KCPC), 예비소집, yijw0930, devluyten, edwardblue, eoaud0108, finimage, jinhan814, kevinlys00, kidw0124, lighter, rachel2003, tlsdydaud1, tmdghks",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set", "tree_set"],
   "accepted_user_count": 402,
   "submission_count": null,
   "average_tries": 1.7312999963760376

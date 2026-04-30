@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2019 서울대학교 프로그래밍 경시대회, Division 1, doju",
   "level": 24,
-  "tags": [
-    "math",
-    "constructive"
-  ],
+  "tags": ["math", "constructive"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 4.6666998863220215

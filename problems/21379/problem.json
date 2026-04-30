@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, District Championships",
   "level": 17,
-  "tags": [
-    "case_work",
-    "dp",
-    "game_theory",
-    "parsing",
-    "string"
-  ],
+  "tags": ["case_work", "dp", "game_theory", "parsing", "string"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 6.75

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2017 KAIST 7th ACM-ICPC Mock Competition, wwiiiii, jh05013",
   "level": 14,
-  "tags": [
-    "dp",
-    "binary_search",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["dp", "binary_search", "prefix_sum", "two_pointer"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.878000020980835

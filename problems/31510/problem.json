@@ -19,14 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2023 ICPC Pacific Northwest Region, Division 1, ICPC, Regionals, North America, Mid-Central Regional, 2023 Mid-Central USA Programming Contest, ICPC, Regionals, North America, South Central USA Regional, 2023 South Central USA Regional Contest, Division 1, ICPC, Regionals, North America, Mid-Atlantic Regional, 2023 Mid-Atlantic USA Regional Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2023 Southeast USA Regional Programming Contest, Division 1",
   "level": 23,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "trees",
-    "case_work",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "greedy", "trees", "case_work", "dp_tree"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.6470999717712402

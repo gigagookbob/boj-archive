@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, Apple_Cplus",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "set",
-    "probability"
-  ],
+  "tags": ["math", "dp", "set", "probability"],
   "accepted_user_count": 179,
   "submission_count": null,
   "average_tries": 1.5419000387191772

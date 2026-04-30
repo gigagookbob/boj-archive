@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 232px; height: 235px;\"/></p>\n<p style=\"text-align: center;\">Рис. 2: Батут, который построили в примере.</p>",
   "source": null,
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["bruteforcing", "geometry", "line_intersection"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

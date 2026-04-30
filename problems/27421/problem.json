@@ -27,11 +27,7 @@
   "hint": "<p>Possible loops for the sample inputs 1, 2, and 4 are depicted in the following figures.</p>\n<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 185px; height: 184px;\"/></td>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 185px; height: 184px;\"/></td>\n<td><img alt=\"\" src=\"4.png\" style=\"width: 185px; height: 184px;\"/></td>\n</tr>\n<tr>\n<td>(a) Sample 1</td>\n<td>(b) Sample 2</td>\n<td>(c) Sample 4</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Figure F.2. Possible loops for the sample inputs</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Summer 2023, Day 1: Starting Contest",
   "level": 22,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "knapsack"
-  ],
+  "tags": ["dp", "ad_hoc", "knapsack"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.7458000183105469

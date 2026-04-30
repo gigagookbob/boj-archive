@@ -23,10 +23,7 @@
   "hint": null,
   "source": "evenharder, chunghan, cs71107, Green55, jwvg0425, kclee2172, kyo20111",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 1.7132999897003174

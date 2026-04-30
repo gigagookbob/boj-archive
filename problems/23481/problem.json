@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 15: Grand Prix of Tokyo",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "tree_set",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "set", "tree_set", "stack"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 3.302999973297119

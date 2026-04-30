@@ -15,12 +15,7 @@
   "hint": "<p>Sample Case #1 is the one explained in the problem statement.</p>\n<p>In Sample Case #2, there are $4$ initiators (modules $2$ through $5$), so there are $4$ chain reactions. Activating them in order $3$, $5$, $4$, $2$ yields chains of fun $3$, $5$, $4$, $2$ for an overall fun of $14$. Notice that we are summing the four highest fun numbers in the input, so there is no way to get more than that.</p>\n<p>In Sample Case #3, an optimal activation order of the $5$ initiators is $4$, $5$, $7$, $6$, $8$.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Qualification Round",
   "level": 16,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "greedy",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "greedy", "trees"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.476699948310852

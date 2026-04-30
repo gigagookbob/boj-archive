@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2022 KAIST 12th ICPC Mock Competition, Camp, Petrozavodsk Programming Camp, Winter 2023, Day 4: KAIST+KOI Contest, Grand Prix of Korea, gs18115, moonrabbit2",
   "level": 28,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "graphs",
-    "topological_sorting",
-    "dag"
-  ],
+  "tags": ["ad_hoc", "constructive", "graphs", "topological_sorting", "dag"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.5384999513626099

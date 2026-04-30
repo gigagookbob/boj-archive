@@ -15,11 +15,7 @@
   "hint": "<p>(In this case, the optimal solution is to assign players 1 and 3 to position 2, and player 2 to position 3, so the sum of player performances is 2+8+9=19, and we pay a penalty of 5 for players 1 and 2 being at distance 1, and penalty 0 for players 1 and 3 being at the same position).</p>",
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2021",
   "level": 23,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.399999976158142

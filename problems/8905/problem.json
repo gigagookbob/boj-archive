@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2011, baekjoon",
   "level": 13,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["string", "bruteforcing", "backtracking"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 2.9544999599456787

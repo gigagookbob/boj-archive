@@ -15,9 +15,7 @@
   "hint": "<p>In order not to give a hint to the contestants, an example for $n \\ge 3$ is not shown.</p>\n<p>For $n = 2$ it is enough to obtain 0 non-decreasing rows, thus any syntactically correct program is a correct solution. But the shown program obtains not just 0, but 1 non-decreasing row in the bottom part of the square: it rotates the only $2 \\times 2$ square counterclockwise until its bottom row becomes sorted non-decreasingly. It easy to prove that such situation will happen after 0, 1, 2 or 3 rotations.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2019",
   "level": 22,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

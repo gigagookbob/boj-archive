@@ -15,11 +15,7 @@
   "hint": "<p>В примере можно получить текст, нажимая на кнопки в таком порядке: $aaaa\\langle SP\\rangle\\langle CP\\rangle\\langle BS\\rangle b\\langle SP\\rangle CD$, где $\\langle SP\\rangle$ --- перевод каретки на новую строку, $\\langle CP\\rangle$ --- копирование последнего слова, а $\\langle BS\\rangle$ --- удаление последнего символа.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, February 10, 2013",
   "level": 4,
-  "tags": [
-    "math",
-    "greedy",
-    "string"
-  ],
+  "tags": ["math", "greedy", "string"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.86489999294281

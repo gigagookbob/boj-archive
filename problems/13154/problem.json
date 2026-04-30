@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample we need to check 2 stars. The star positions in the present as well as the given plane and the trajectories of the stars are shown in figure 1. The plane from which the message originated is given by the vectors (1.0, 0.0, 0.0) and (0.0, 1.0, 0.0), the distance is 2.0. The first star is currently at position (2.0, 0.0, 1.0) and moves in direction (0.0, 0.0, 1.0) with speed 0.5. The second star is currently at position (0.0, 2.0, 1.0) and moves in direction (0.0, 0.0, 1.0) with speed 0.7. After moving the stars back by 2 years the stars’ positions are as shown in Figure H.2. As we can see, star 1 is in the plane and has the correct distance to Bob, therefore it fits the description. Star 2 is not in the plane and therefore does not fit the description. Hence the correct answer for the first sample is 1.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:414px; width:419px\"/></p>\n<p style=\"text-align: center;\">Figure H.1: Star positions in the present for the first sample input.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:412px; width:419px\"/></p>\n<p style=\"text-align: center;\">Figure H.2: Star positions two years ago for the first sample input.</p>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2016, doju",
   "level": 13,
-  "tags": [
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["geometry", "geometry_3d"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.3870999813079834

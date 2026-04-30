@@ -27,10 +27,7 @@
   "hint": "<p>An example of the optimal arrangement of the stars in the fourth test case:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 512px; height: 343px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2020",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

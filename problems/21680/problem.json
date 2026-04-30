@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2009",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "sorting"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.4500000476837158

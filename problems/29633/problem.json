@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ainta",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "probability",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "dp", "probability", "arbitrary_precision"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 9

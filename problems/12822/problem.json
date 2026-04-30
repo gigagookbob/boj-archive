@@ -15,11 +15,7 @@
   "hint": "<p>The optimal plan of repairing points is:</p>\n<ul>\n<li>Transport robot from point 7 to point 10 and repair the first point after time 3.</li>\n<li>Transport robot from point 10 to point 14 and repair the third point after time 3 + 4 = 7.</li>\n<li>Transport robot from point 14 to point 3 and repair the second point after time 3+4+11 = 18.</li>\n</ul>\n<p>Thus, the total cost of repairing the wall is 5 + 18 · 1 + 32 + 3 · 1 + 0 + 7 · 2 = 72.</p>",
   "source": "Camp, Visegrad Programming Contests Preparation Camp, VPCPC 2014",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "greedy", "prefix_sum"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.586199998855591

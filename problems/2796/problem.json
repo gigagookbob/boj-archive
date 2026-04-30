@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 배달을 (4, 8)에서 시작한다면, 첫 번째 친구를 만날 수 있다. 그 다음 (6, 6)으로 가서 두 번째 친구를 만나고, (4, 5)로 가서 세 번째 친구를 만나면 된다.</p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2012, Croatian Olympiad in Informatics 2012, baekjoon, khsoo01",
   "level": 17,
-  "tags": [
-    "implementation",
-    "greedy",
-    "geometry"
-  ],
+  "tags": ["implementation", "greedy", "geometry"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.8485000133514404

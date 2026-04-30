@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2021, Practice, Olympiad, International Olympiad in Informatics, IOI 2020, Practice",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "knapsack"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.3447999954223633

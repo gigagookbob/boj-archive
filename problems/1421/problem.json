@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon, mathjuny, rdd6584",
   "level": 10,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 981,
   "submission_count": null,
   "average_tries": 3.978600025177002

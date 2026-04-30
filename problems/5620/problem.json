@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2005/2006 모의고사 1, lokilo",
   "level": 19,
-  "tags": [
-    "geometry",
-    "sweeping",
-    "divide_and_conquer"
-  ],
+  "tags": ["geometry", "sweeping", "divide_and_conquer"],
   "accepted_user_count": 832,
   "submission_count": null,
   "average_tries": 2.264400005340576

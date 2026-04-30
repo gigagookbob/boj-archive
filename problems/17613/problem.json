@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2019 1차대회, 고등부, dohoon, hijkl2e",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "divide_and_conquer"
-  ],
+  "tags": ["dp", "greedy", "divide_and_conquer"],
   "accepted_user_count": 721,
   "submission_count": null,
   "average_tries": 2.4244000911712646

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 가을맞이 알고리즘 챌린지, Expert Division, myyh1234, hibye1217, jhnah917, quickn, tony9402",
   "level": 15,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["graphs", "bruteforcing", "bitmask"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.289900064468384

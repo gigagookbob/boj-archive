@@ -15,11 +15,7 @@
   "hint": "<p>because B(1)={1,2}, B(2)={2}, B(3)={2,3}, B(4)={1,2,3,4}.</p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2002",
   "level": 20,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

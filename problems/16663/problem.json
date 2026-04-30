@@ -19,13 +19,7 @@
   "hint": "<p>In the first example the distance between four pairs of vertices connected by an edge is equal to 1 and d(1, 4) = d(2, 4) = 2.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NERC 2018",
   "level": 26,
-  "tags": [
-    "bfs",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "prefix_sum"
-  ],
+  "tags": ["bfs", "dfs", "graphs", "graph_traversal", "prefix_sum"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4.53849983215332

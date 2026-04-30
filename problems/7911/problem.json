@@ -19,12 +19,7 @@
   "hint": "<p>Explanation for the first example: The first person needs 6 clothespins for her socks and 9 clothespins for her shirts. The second person needs 8 clothespins for her socks and 12 clothespins for her shirts. The second person should use the clothespins of the first color both for her socks and her shirts. The first person may then use, e.g., the clothespins of the second and the fourth color.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2011",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "tree_set"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 3.09089994430542

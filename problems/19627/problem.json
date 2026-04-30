@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCO 2019, 79brue",
   "level": 24,
-  "tags": [
-    "dp",
-    "monotone_queue_optimization"
-  ],
+  "tags": ["dp", "monotone_queue_optimization"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.5

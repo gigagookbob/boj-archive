@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, February 11, 2011",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy",
-    "precomputation"
-  ],
+  "tags": ["math", "greedy", "precomputation"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.8181999921798706

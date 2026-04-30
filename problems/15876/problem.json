@@ -19,10 +19,7 @@
   "hint": "<ul>\n<li>1번 입력의 경우: 0→1→1→0→1→1→1→0→0→1→0→1→1→1→0→1→1→1→1→0→0→0</li>\n<li>2번 입력의 경우: 0→1→1→0→1→1→1→0→0→1→0→1→1→1→0→1→1→1→1→0→0→0→1</li>\n</ul>",
   "source": "University, POSTECH, PPC 2018, zynyste",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 380,
   "submission_count": null,
   "average_tries": 1.4211000204086304

@@ -15,11 +15,7 @@
   "hint": "<p>The above cases meet the limits for Test Set 1. Another sample case that does not meet those limits appears at the end of this section.</p>\n<p>Sample Case #1 is the one in the statement. Notice that if we perform the replacements in the order mentioned in the statement, we get 13 different characters in the final text. If we perform them both once in the other order, however, we can get <code>CYDEJOMWYRLDFINOLS</code>, which has 14 different characters.</p>\n<p>In Sample Case #2, one way to get 2 different characters in the final text is to perform the replacements in the order given from left to right, once each.</p>\n<p>In Sample Case #3, none of the replacements affect the text at all, so it does not matter how we apply them. We will always be left with the original two letters. Notice that replacements can contain characters not appearing in the initial text, and the initial text can contain characters not appearing in the implemented replacements.</p>\n<p>In Sample Case #4, remember that uppercase <code>B</code> is not the same character as lowercase <code>b</code>.</p>\n<p>The following additional case could not appear in Test Set 1, but could appear in Test Set 2.</p>\n<pre>\n1\n1234 5\n12 2X X3 31 X2\n</pre>\n<p>The correct output is <code>Case #1: 4</code>.</p>\n<p>In this additional sample case, one possibility is to perform the replacements in the following order: <code>X3 2X X2 2X 12 31</code>. This process goes through the following strings, starting with <b>S</b>: <code>1234 1234 1X34 1234 1X34 2X34 2X14</code>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2020, Virtual World Finals",
   "level": 23,
-  "tags": [
-    "flow",
-    "graphs",
-    "scc"
-  ],
+  "tags": ["flow", "graphs", "scc"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

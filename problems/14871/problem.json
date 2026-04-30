@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:79px; width:106px\"/>S = &lt; 1, 3, 4, 2 &gt;</p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:130px; width:176px\"/>S = &lt; 1, 13, 16, 4, 8, 12, 9, 5, 6, 10, 11, 7, 3, 15, 14, 2 &gt;</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2017",
   "level": 17,
-  "tags": [
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["implementation", "recursion"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.25

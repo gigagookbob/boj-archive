@@ -19,11 +19,7 @@
   "hint": "<p>In the first test case, people 1 and 2 (and people 3 and 4) end up on the same team with probability \\(\\frac{1}{2}\\). For any other pair the probability is \\(\\frac{1}{4}\\).</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 7: Gennady Korotkevich Contest 5, Contest, Open Cup, 2019/2020 Season, Stage 11: Grand Prix of Gomel",
   "level": 24,
-  "tags": [
-    "combinatorics",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["combinatorics", "math", "prefix_sum"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.0399999618530273

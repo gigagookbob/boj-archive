@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 5: ZJU Contest 2",
   "level": 8,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.6739000082015991

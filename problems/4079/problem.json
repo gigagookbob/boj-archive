@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2005 East Central Regional Contest",
   "level": 13,
-  "tags": [
-    "math",
-    "data_structures",
-    "geometry",
-    "set",
-    "combinatorics"
-  ],
+  "tags": ["math", "data_structures", "geometry", "set", "combinatorics"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3

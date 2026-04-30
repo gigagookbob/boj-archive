@@ -15,11 +15,7 @@
   "hint": null,
   "source": "pkcchoi3",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "sorting", "geometry"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.892899990081787

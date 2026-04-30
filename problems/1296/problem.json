@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon, goooora, h0ngjun7, kesakiyo",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 3781,
   "submission_count": null,
   "average_tries": 1.9301999807357788

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2019 ICPC South Pacific Regionals",
   "level": 12,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.75

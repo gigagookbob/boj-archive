@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "coordinate_compression"
-  ],
+  "tags": ["bruteforcing", "geometry", "coordinate_compression"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.1333000659942627

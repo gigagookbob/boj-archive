@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2009 Rocky Mountain Regional Contest",
   "level": 14,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "pythagoras"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "pythagoras"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

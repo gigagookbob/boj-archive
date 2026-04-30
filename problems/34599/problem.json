@@ -23,12 +23,7 @@
   "hint": "<p>Opis trećeg probnog primjera: Demokrati Roberta Kumerlea<sup>1</sup> osvojili su $49$ mandata kao i Stranka liposuktiranih i naočitih antifeministica, a Aco Tudum Favorit $52$ mandata. Sve kombinacije u kojima su barem dvije liste mogu sastaviti većinu.</p>\n<hr/>\n<p><sup>1</sup> Referenca iz jedne od najboljih domaćih serija – Bitange i princeze (sezona 2, epizoda 4)</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Junior Final Exam #2",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "backtracking"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.09089994430542

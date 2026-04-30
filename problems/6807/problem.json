@@ -15,10 +15,7 @@
   "hint": "<p>Notice that picking the components with cost 11 and 5 yields a computer with value 18. No other combination of components has a higher value.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2010, CCO 2010",
   "level": 14,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 광주과학기술원, 광주과학기술원 HOLICS 알고리즘 대회 2018, hwy16016, shiftpsh",
   "level": 10,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 8200,
   "submission_count": null,
   "average_tries": 3.2750000953674316

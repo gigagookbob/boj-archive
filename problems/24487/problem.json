@@ -15,12 +15,7 @@
   "hint": "<p>It is optimal to select $(1,0)$ from the first group, $(0,1)$ from the second group, and $(10,10)$ from the third group. The sum of these vectors is $(11,11)$, which is squared distance $11^2+11^2=242$ from the origin.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 January Contest, Platinum",
   "level": 22,
-  "tags": [
-    "geometry",
-    "sweeping",
-    "convex_hull",
-    "smaller_to_larger"
-  ],
+  "tags": ["geometry", "sweeping", "convex_hull", "smaller_to_larger"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3

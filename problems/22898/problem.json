@@ -15,11 +15,7 @@
   "hint": "<p>Sample Case #1 is the example shown in the main part of the statement.</p>\n<p>These are possible optimal ways of solving Sample Cases #2, #3, and #4, respectively:</p>\n<p>$$1011_2 \\overset{\\text{NOT}}{\\Longrightarrow} 100_2 \\overset{\\times 2}{\\Longrightarrow} 1000_2 \\overset{\\text{NOT}}{\\Longrightarrow}111_2\\text{,}$$</p>\n<p>$$1010_2 \\overset{\\times 2}{\\Longrightarrow} 10100_2 \\overset{\\text{NOT}}{\\Longrightarrow} 1011_2\\text{, and}$$</p>\n<p>$$0_2 \\overset{\\text{NOT}}{\\Longrightarrow} 1_2\\text{.}$$</p>\n<p>In Sample Case #5, it is not possible to get from $0_2$ to $101_2$ with any sequence of operations.</p>\n<p>In Sample Case #6, we do not need to perform any operations because $S=E$.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 1C",
   "level": 20,
-  "tags": [
-    "case_work",
-    "implementation",
-    "two_pointer"
-  ],
+  "tags": ["case_work", "implementation", "two_pointer"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2010",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "floor_sum"
-  ],
+  "tags": ["math", "number_theory", "floor_sum"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.6279000043869019

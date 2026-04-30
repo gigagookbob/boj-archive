@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2021 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, smy4024169, amel, cs71107, gs18115, jhnah917, junhyeog, kyo20111, Lawali, miryu",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "traceback"
-  ],
+  "tags": ["dp", "greedy", "sorting", "traceback"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 3.087899923324585

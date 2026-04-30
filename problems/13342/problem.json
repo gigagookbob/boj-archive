@@ -31,13 +31,7 @@
   "hint": "<p>예제 1의 경우에 구역 0에서 구역 2까지 걸어간 다음, 월세를 받는다. 그 다음 구역 2에서 3으로 걸어가서 다시 월세를 받는다. 구역 1로 걸어간 다음, 차를 타고 구역 0으로 가서 월세를 받는다.</p>\n<p>총 걸린 시간은 5×1 + 5×3 + 5×2 + 1×2 + 1×3 + 1×1 = 36 이다.</p>\n<p>예제 2의 경우에 구역 0에서 구역 1로 걸어간다. 그 다음 거기서 차를 타고 구역 2로 이동한다. 차에서 내려서 월세를 받은 다음에 구역 2에서 1로, 그리고 0으로 걸어서 이동한다. 이제 구역 0에서 월세를 받으면 된다.</p>\n<p>총 걸린 시간은 37×2 + 38×1 + 38×2 + 37×2 = 262 이다.</p>",
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "flow",
-    "floyd_warshall",
-    "graphs",
-    "mcmf",
-    "shortest_path"
-  ],
+  "tags": ["flow", "floyd_warshall", "graphs", "mcmf", "shortest_path"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7726999521255493

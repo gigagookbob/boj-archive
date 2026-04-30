@@ -15,11 +15,7 @@
   "hint": "<p>この入力例において，都市の数は n = 9 である．また，9 つの都市 P<sub>1</sub>, . . . , P<sub>9</sub> の座標は順に</p>\n<p style=\"text-align: center;\">P<sub>1</sub>(1, 3), P<sub>2</sub>(3, 3), P<sub>3</sub>(2, 2), P<sub>4</sub>(3, 1), P<sub>5</sub>(0, 0), P<sub>6</sub>(0, 3), P<sub>7</sub>(0, 5), P<sub>8</sub>(3, 5), P<sub>9</sub>(5, 5)</p>\n<p>で与えられる．インフルエンザの感染可能距離は d = 2 であり，各都市で流行が続く日数は m = 2 である．また，k = 3 である．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 325px; height: 327px;\"/></p>\n<p>最初，インフルエンザが流行しているのは JOI 市 P<sub>1</sub> のみである．1 日後には，インフルエン ザの流行は，P<sub>1</sub> からの距離が 2 以下の都市 P<sub>2</sub>, P<sub>3</sub>, P<sub>6</sub> に拡大する．また，JOI 市 P<sub>1</sub> における 流行はまだ収まらない．2 日後には，流行は P<sub>4</sub>, P<sub>7</sub>, P<sub>8</sub> に拡大し，JOI 市 P<sub>1</sub> における流行は収 まる．3 日後には，流行は P<sub>9</sub> に拡大し，P<sub>2</sub>, P<sub>3</sub>, P<sub>6</sub> における流行は収まる．</p>\n<p>したがって，JOI 市で流行が始まってから 3 日後において，インフルエンザが流行している 都市は P<sub>4</sub>, P<sub>7</sub>, P<sub>8</sub>, P<sub>9</sub> の 4 つであるから，4 を出力すればよい．</p>\n<p>この入力例では，都市 P<sub>5</sub> においてインフルエンザが流行することはない．</p>",
   "source": ", Camp, JOI Spring Training Camp, JOI 2007/2008 Spring Training Camp",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.766700029373169

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 20: Grand Prix of Ural",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.0693999528884888

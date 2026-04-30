@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2025 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2025 Sogang Programming Contest, Champion, teyn, dong_gas, jinhan814, jk410, jthis, tmdgud0617, wbcho0504, woohyun_jng",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "set", "tree_set", "sliding_window"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 1.657099962234497

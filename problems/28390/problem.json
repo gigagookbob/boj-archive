@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Martina zna plesati na prvu i drugu, a Paula na prvu i treću vrstu glazbe. Na svadbi su plesale uz tri pjesme: prvu, petu i osmu odsviranu pjesmu. Zato je duljina najduljeg niza pjesama uz koje su plesale jednaka jedan. Kad bi Martina znala plesati uz treću vrstu glazbe, ona i Paula bi mogle plesati uz četiri uzastopne pjesme – od pete do osme. Isto tako, kad bi Paula znala plesati na drugu vrstu glazbe, mogle bi plesati uz pet uzastopnih pjesmi. Na svadbi nije bila odsvirana nijedna pjesma četvrte vrste tako da su odgovori na posljednja dva Anina pitanja jednaki jedan.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Junior Croatian Olympiad in Informatics 2023",
   "level": 12,
-  "tags": [
-    "dp",
-    "sweeping"
-  ],
+  "tags": ["dp", "sweeping"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.363600015640259

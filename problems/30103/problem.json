@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 2023 GSHS CS Seminar, flappybird, 79brue, ibm2006, jk410, lisifu, mjhmjh1104, puppy",
   "level": 22,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 5.565199851989746

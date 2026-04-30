@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2010, 초등부, eric00513, kjmin622, mojave_ghost, moon960323, pch6789",
   "level": 11,
-  "tags": [
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "two_pointer"],
   "accepted_user_count": 18411,
   "submission_count": null,
   "average_tries": 2.593600034713745

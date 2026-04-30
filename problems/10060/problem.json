@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2014, myungwoo, doju, queued_q",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "greedy", "sparse_table"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 5.157400131225586

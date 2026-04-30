@@ -19,11 +19,7 @@
   "hint": "<p>답을 구하는 과정에서 정수 오버플로우가 발생할 수 있으며, 다음과 같은 정수 자료형 사용을 권장한다.</p>\n<ul>\n<li>C, C++ : <code>long long</code></li>\n<li>Java : <code>long</code></li>\n</ul>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2024, gi1dong2, bsyun0571, hellogaon, hyoseok, iccodly, khj20006, putdata, qsccsq22, rasauq1122, rhdqor213, thdwlsdn030818, tony9402, tyoungs, yijw0930",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1276,
   "submission_count": null,
   "average_tries": 1.4803999662399292

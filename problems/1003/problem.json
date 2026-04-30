@@ -19,9 +19,7 @@
   "hint": null,
   "source": "baekjoon, connotation, doju, wonrok97, cyj101366",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 70460,
   "submission_count": null,
   "average_tries": 2.859800100326538

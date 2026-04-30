@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2006 Japan Domestic Contest",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "primality_test"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.1948000192642212

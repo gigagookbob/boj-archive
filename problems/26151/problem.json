@@ -19,13 +19,7 @@
   "hint": "<p>친절한 하이비가 NATO 문자열을 모아놓은 배열을 밑에 만들어두었다.</p>\n<p>C:</p>\n<pre>\nconst char* NATO[26] = { \"ALFA\", \"BRAVO\", \"CHARLIE\", \"DELTA\", \"ECHO\", \"FOXTROT\", \"GOLF\", \"HOTEL\", \"INDIA\", \"JULIETT\", \"KILO\", \"LIMA\", \"MIKE\", \"NOVEMBER\", \"OSCAR\", \"PAPA\", \"QUEBEC\", \"ROMEO\", \"SIERRA\", \"TANGO\", \"UNIFORM\", \"VICTOR\", \"WHISKEY\", \"XRAY\", \"YANKEE\", \"ZULU\" };\n</pre>\n<p>C++:</p>\n<pre>\nconst string NATO[26] = { \"ALFA\", \"BRAVO\", \"CHARLIE\", \"DELTA\", \"ECHO\", \"FOXTROT\", \"GOLF\", \"HOTEL\", \"INDIA\", \"JULIETT\", \"KILO\", \"LIMA\", \"MIKE\", \"NOVEMBER\", \"OSCAR\", \"PAPA\", \"QUEBEC\", \"ROMEO\", \"SIERRA\", \"TANGO\", \"UNIFORM\", \"VICTOR\", \"WHISKEY\", \"XRAY\", \"YANKEE\", \"ZULU\" };\n</pre>\n<p>Python:</p>\n<pre>\nNATO = ( \"ALFA\", \"BRAVO\", \"CHARLIE\", \"DELTA\", \"ECHO\", \"FOXTROT\", \"GOLF\", \"HOTEL\", \"INDIA\", \"JULIETT\", \"KILO\", \"LIMA\", \"MIKE\", \"NOVEMBER\", \"OSCAR\", \"PAPA\", \"QUEBEC\", \"ROMEO\", \"SIERRA\", \"TANGO\", \"UNIFORM\", \"VICTOR\", \"WHISKEY\", \"XRAY\", \"YANKEE\", \"ZULU\" )\n</pre>\n<p>Java:</p>\n<pre>\nconst String NATO[26] = { \"ALFA\", \"BRAVO\", \"CHARLIE\", \"DELTA\", \"ECHO\", \"FOXTROT\", \"GOLF\", \"HOTEL\", \"INDIA\", \"JULIETT\", \"KILO\", \"LIMA\", \"MIKE\", \"NOVEMBER\", \"OSCAR\", \"PAPA\", \"QUEBEC\", \"ROMEO\", \"SIERRA\", \"TANGO\", \"UNIFORM\", \"VICTOR\", \"WHISKEY\", \"XRAY\", \"YANKEE\", \"ZULU\" };</pre>",
   "source": "University, 한양대학교, 제9회 한양대학교 프로그래밍 경시대회, Beginner Division, University, 한양대학교, 제9회 한양대학교 프로그래밍 경시대회, Advanced Division, hibye1217, jthis, junseo, jyheo98, nick832, powergee, tlsdydaud1",
   "level": 18,
-  "tags": [
-    "dp",
-    "string",
-    "binary_search",
-    "prefix_sum",
-    "recursion"
-  ],
+  "tags": ["dp", "string", "binary_search", "prefix_sum", "recursion"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 3.81820011138916

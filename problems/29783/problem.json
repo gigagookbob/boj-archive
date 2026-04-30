@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, there is a pair of neighbors that both chose paper (the first and last character of the input) and another pair that both chose scissors. Therefore, we need at least two changes. One way of doing it with two changes is to change the leftmost paper to scissors and the rightmost scissors to rock, to obtain <code>SRSRP</code>.</p>\n<p>In Sample Case #2, all $7$ participants chose rock. If we change at most $3$ selections, there will be at least $4$ remaining rocks, and at least two of them will be neighbors. Therefore, the minimum number of changes is at least $4$. One way to achieve exactly $4$ is to get <code>PRSRPRS</code>.</p>\n<p>In Sample Case #3, no pair of neighbors tied, so no changes are needed.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round A",
   "level": 12,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.1666998863220215

@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>그림 같은 경우, 1-2-5-4-3 으로 가는 경우, 7이 걸리지만, 1-2-1-2-1-6-3 으로 가는 경우 6이 걸린다. </p>",
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Advanced Division, dajinstory, dotorya, jh05013",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.6019999980926514

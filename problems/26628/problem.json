@@ -15,10 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Monety w skarbonce mają nominały 8, 16, 2, 8 i 8 bajtozłotych. Łącznie są więc warte 42 bajtozłote. Aby uzyskać większy nominał, Bajtek może wymienić w banku monety o nominałach 8, 16, 8 i 8 (łącznie warte 40 bajtozłotych) na monety o nominałach 32, 4 i 4 (również łącznie warte 40 bajtozłotych). Najbardziej wartościowa moneta, którą uzyska, będzie miała nominał 2<sup>5</sup> bajtozłotych.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2017",
   "level": 6,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3912999629974365

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Gold",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "sweeping",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "sweeping", "tree_set"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.9428999423980713

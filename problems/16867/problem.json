@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2018 East Central Regional Contest",
   "level": 11,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.0713999271392822

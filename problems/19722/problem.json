@@ -15,10 +15,7 @@
   "hint": "<p>In the given example the students must choose $a_1$ and $a_2$ so that $a_1 + 4a_2$ is divisible by $3$. There are two possible solutions: </p>\n<ul>\n<li>$a_1 = 1$, $a_1 = -1$ ($a_1 + 4a_2 = 1 - 4 = -3$, divisible by $3$) and </li>\n<li>$a_1 = -1$, $a_2 = 1$ ($a_1 + 4a_2 = -1 + 4 = 3$, divisible by $3$).</li>\n</ul>\n<p>Professor's requirements are met.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2019",
   "level": 16,
-  "tags": [
-    "math",
-    "constructive"
-  ],
+  "tags": ["math", "constructive"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.9130001068115234

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2023 KSA Automata Winter Contest, flakepowders, eric00513, jk410, kiwiyou",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "scc", "2_sat"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3.375

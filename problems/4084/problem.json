@@ -15,12 +15,7 @@
   "hint": "<p>만약 네 정수가 2<sup>n</sup>보다 작다면, 3*n번 이내에 수렴한다.</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"480\" src=\"1.png\" width=\"853\"></iframe></p>\r\n",
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2011 Southeast USA Regional Programming Contest, baekjoon, kgj291",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 1604,
   "submission_count": null,
   "average_tries": 1.2818000316619873

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2015 Pacific Northwest Region Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2015 Pacific Northwest Region Programming Contest, Division 2, ICPC, Regionals, North America, Southeast USA Regional, 2015 Southeast USA Regional Programming Contest, Division 2",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 273,
   "submission_count": null,
   "average_tries": 1.384600043296814

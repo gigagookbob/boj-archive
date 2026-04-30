@@ -23,12 +23,7 @@
   "hint": "<p>Wyjaśnienie przykładów: W pierwszym przykładzie mamy trzech piratów: Algora, Bajtazara i Chara. Gdyby Algor został wyrzucony za burtę, to Bajtazar dokonałby podziału, w którym sam otrzymuje wszystkie $100$ monet, a Char nic nie otrzymuje. Wprawdzie Char nie zaakceptowałby takiego rozwiązania, ale zostałby przegłosowany przez Bajtazara.</p>\n<p>W związku z tym Algor nie jest w żaden sposób w stanie przekonać Bajtazara do głosowania za (musiałby mu zaproponować co najmniej $100 + 1$ monet). Zatem potrzebuje przekonać Chara, dając mu odpowiednio dużo monet (a konkretnie co najmniej $0 + 56$). W związku z tym Algor oferuje $56$ monet Charowi, a $44$ monety zostawia sobie – Algor i Char zagłosują za takim podziałem, przegłosowując Bajtazara.</p>\n<p>W drugim przykładzie pierwszy pirat ma za mało złotych monet do podziału, by usatysfakcjonować wystarczająco wielu piratów. Proponuje więc, że weźmie monetę dla siebie, po czym zostaje wyrzucony za burtę. Drugi pirat ma do wyboru dwa podziały, które są zaakceptowane. Może dać monetę trzeciemu albo czwartemu piratowi – zgodnie z regułami wybiera ten drugi podział.</p>\n<p>W trzecim przykładzie za podziałem zaproponowanym przez pierwszego pirata zagłosowali piraci o numerach $1$, $2$ oraz $5$.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2025",
   "level": 26,
-  "tags": [
-    "implementation",
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["implementation", "dp", "data_structures", "segtree"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

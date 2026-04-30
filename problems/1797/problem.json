@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO March 2007 Contest, Silver, author6, lyzqm, leehosu01, isku, kks227",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "prefix_sum",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "prefix_sum", "hash_set"],
   "accepted_user_count": 244,
   "submission_count": null,
   "average_tries": 2.327899932861328

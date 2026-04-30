@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2011",
   "level": 20,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 9.571399688720703

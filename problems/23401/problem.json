@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example: At seconds 10 and 20, player 1 sprayed players 6 and 7 from the other team. For each spraying the pineapples received 100 points. As the sprays happened within 10 seconds, the team receieved an additional 50 poitns (250 = 2 · 100 + 50). Team blueberries sprayed only one player from the opposing team, which is why they received only 100 points.</p>\n<p>Clarification of the second example: Player 2 achieved two double-sprays in a row, which is why team pineapple got a total of 3·100+2·50 = 400 points.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #1",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 1.7726999521255493

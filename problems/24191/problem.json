@@ -23,13 +23,7 @@
   "hint": "<p>I det tredje exempelfallet finns det fyra avgångar. Vi kallar dessa för tåg $0$ - tåg $3$, i den ordning de visas i indatan.</p>\n<p>Om Philip börjar i punkten $(493,377)$ kan han ta $952$ Borisar från tåg $3$ vid tiden $148$. Sedan har han exakt $164$ meter att gå (vilket tar $164$ sekunder) till tåg $1$. Det har avgångstid $312$, d.v.s. $164$ sekunder efter tåg $3$. Han hinner alltså precis till tåg $1$ och kan ta dess $911$ Borisar. Därifrån hinner han, med $6$ sekunders marginal, gå till tåg $2$ och ta $927$ Borisar därifrån. Totalt får han alltså $952+911+927=2790$ Borisar. </p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Online Qualification",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "sorting",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "sorting", "dag", "topological_sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

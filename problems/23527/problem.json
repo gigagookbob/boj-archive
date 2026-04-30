@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 18: Grand Prix of Minsk",
   "level": 23,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

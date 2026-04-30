@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Input 1, you count only pairs of line segments that intersect perpendicularly at the vertices of the square.</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2023 Day 2, Camp, Petrozavodsk Programming Camp, Summer 2024, Day 1: Welcome Contest",
   "level": 12,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.266700029373169

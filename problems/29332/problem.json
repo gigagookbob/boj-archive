@@ -19,9 +19,7 @@
   "hint": "<p>정수 좌표를 갖는 점을 격자점이라고 한다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 08., bnb2011, chogahui05, djs100201, dong_gas, heeda0528, hibye1217, kiwiyou, kongum, pjshwa, rustiebeats, snrnsidy, tony9402, utilforever",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 342,
   "submission_count": null,
   "average_tries": 2.5525999069213867

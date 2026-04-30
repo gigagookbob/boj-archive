@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2015 AIPO Preliminary Round, josephwon0310, exqt",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1408,
   "submission_count": null,
   "average_tries": 2.698899984359741

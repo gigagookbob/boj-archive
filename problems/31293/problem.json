@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 1: Grand Prix of SPb",
   "level": 23,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "invariant"
-  ],
+  "tags": ["graphs", "ad_hoc", "invariant"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3

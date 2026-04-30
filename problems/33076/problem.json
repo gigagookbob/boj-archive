@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2024, math_rabbit_1028, qwerasdfzxcl, 79brue, azberjibiou, jimini23, mingyu331",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "geometry", "sorting", "two_pointer"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

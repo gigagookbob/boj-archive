@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1995 Mid-Central Regional Programming Contest",
   "level": 10,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "implementation",
-    "math"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "implementation", "math"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.350000023841858

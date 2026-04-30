@@ -15,13 +15,7 @@
   "hint": "<p>In Sample Case #1, the two words can rhyme with an appropriate accent assignment, as described above, so the largest subset is the entire input.</p>\n<p>In Sample Case #2, no two words can rhyme regardless of how we assign accents, because any two suffixes will differ at least in the last letter. Therefore, the largest subset is the empty one, of size 0.</p>\n<p>In Sample Case #3, we can use the entire set of words if we accentuate <code>CODEJAM</code> and <code>JAM</code> at the <code>J</code>s, <code>HAM</code> and <code>NALAM</code> at their last <code>A</code>s and <code>HUM</code> and <code>NOLOM</code> at the <code>M</code>s.</p>\n<p>In Sample Case #4, any two words can be made to rhyme, but always by making the accented letter the <code>I</code>. Therefore, if we add two pairs to the subset, words from different pairs will rhyme. We can, thus, only form a subset of size 2, by choosing any 2 of the input words.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2019, Round 1A",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "greedy", "string", "trees", "trie"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

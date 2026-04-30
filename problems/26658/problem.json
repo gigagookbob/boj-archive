@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 경기북과학고등학교, GBS Coding Contest 2022, GBS Coding Contest 2022, School, 경기북과학고등학교, GBS Coding Contest 2022, GBS Coding Contest 2022 Open, functionx, bnb2011, heeda0528, jihookang, jthis, leo020630, snowflake, utilforever",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "sweeping",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "sweeping", "tree_set"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 3.452399969100952

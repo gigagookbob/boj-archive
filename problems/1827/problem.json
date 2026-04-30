@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2006, kks227",
   "level": 14,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "backtracking"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.642899990081787

@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 19,
-  "tags": [
-    "dp",
-    "traceback",
-    "bitset"
-  ],
+  "tags": ["dp", "traceback", "bitset"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

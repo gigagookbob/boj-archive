@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 7: Moscow IPT Contest, Contest, Open Cup, 2021/2022 Season, Stage 1: Grand Prix of Dolgoprudny",
   "level": 18,
-  "tags": [
-    "math",
-    "trees",
-    "number_theory",
-    "randomization"
-  ],
+  "tags": ["math", "trees", "number_theory", "randomization"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

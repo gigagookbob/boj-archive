@@ -15,11 +15,7 @@
   "hint": "<p>Camera i is referred to as C<sub>i</sub>. </p>\n<p>There are a total of 6 cameras, 3 per km. </p>\n<ul>\n<li>C<sub>1</sub> can watch C<sub>4</sub> and later but not C<sub>2</sub> or C<sub>3</sub></li>\n<li>C<sub>2</sub> can watch C<sub>4</sub> and later, but not C<sub>3</sub> </li>\n<li>C<sub>3</sub> can watch C<sub>4</sub> and C<sub>5</sub> but not C<sub>6</sub></li>\n<li>C<sub>4</sub> can watch C<sub>6</sub> but not C<sub>5</sub></li>\n<li>C<sub>5</sub> can watch C<sub>6</sub></li>\n<li>C<sub>6</sub> cannot watching anything. </li>\n<li>T = 1: Destroy C<sub>1</sub> and C<sub>2</sub></li>\n<li>T = 2: Destroy C<sub>3</sub> </li>\n<li>T = 3: Destroy C<sub>4</sub> and C<sub>5</sub></li>\n<li>T = 4: Destroy C<sub>6</sub></li>\n</ul>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2008 Asia Amritapuri Contest",
   "level": 20,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 5.5

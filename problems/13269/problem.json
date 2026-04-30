@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2016 KAIST 6th ACM-ICPC Mock Competition, jihoon",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["implementation", "greedy", "constructive"],
   "accepted_user_count": 196,
   "submission_count": null,
   "average_tries": 2.413300037384033

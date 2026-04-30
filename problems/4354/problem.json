@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 1 June, 2002, baekjoon, kyo20111, cdt416z, ckdtjssml, doju, kyo20111, wider93, yoongh97",
   "level": 16,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 2851,
   "submission_count": null,
   "average_tries": 2.823199987411499

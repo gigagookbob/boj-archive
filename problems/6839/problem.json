@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2008, CCO 2008",
   "level": 28,
-  "tags": [
-    "geometry",
-    "voronoi",
-    "delaunay"
-  ],
+  "tags": ["geometry", "voronoi", "delaunay"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.470599889755249

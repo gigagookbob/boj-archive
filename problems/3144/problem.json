@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, National Competition #2 - Juniors, baekjoon",
   "level": 15,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 3.480799913406372

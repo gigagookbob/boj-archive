@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2018 Rocky Mountain Regional Contest",
   "level": 14,
-  "tags": [
-    "graphs",
-    "greedy",
-    "mst"
-  ],
+  "tags": ["graphs", "greedy", "mst"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.615399956703186

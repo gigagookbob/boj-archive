@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2018-19, Second Selection Competition",
   "level": 12,
-  "tags": [
-    "graphs",
-    "string",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["graphs", "string", "bruteforcing", "backtracking"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.1922999620437622

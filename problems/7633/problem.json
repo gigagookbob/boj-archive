@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2011",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "game_theory"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "game_theory"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

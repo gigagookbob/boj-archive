@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2000, 중등부, doju, jsa3824, joonas, doju",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 4034,
   "submission_count": null,
   "average_tries": 1.9711999893188477

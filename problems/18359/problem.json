@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2014/2015, Stage 1",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.8636000156402588

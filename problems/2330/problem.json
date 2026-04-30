@@ -15,12 +15,7 @@
   "hint": "<p>온도가 1인 실험실, 3인 실험실 두 개가 있으면 된다.</p>",
   "source": "myungwoo",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "set"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 3.202899932861328

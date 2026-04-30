@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, India, The 2008 Asia Amritapuri Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.6389000415802002

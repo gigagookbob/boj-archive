@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2016 ACM South Pacific Programming Contest",
   "level": 21,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 18.628599166870117

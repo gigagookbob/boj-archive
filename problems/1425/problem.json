@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon, kcm1700",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "ternary_search"
-  ],
+  "tags": ["binary_search", "ternary_search"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 3.7764999866485596

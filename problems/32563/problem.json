@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2024",
   "level": 11,
-  "tags": [
-    "math",
-    "ternary_search"
-  ],
+  "tags": ["math", "ternary_search"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.294100046157837

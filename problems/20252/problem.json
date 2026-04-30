@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2020",
   "level": 20,
-  "tags": [
-    "graphs",
-    "bipartite_matching",
-    "traceback"
-  ],
+  "tags": ["graphs", "bipartite_matching", "traceback"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.6923000812530518

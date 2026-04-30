@@ -19,11 +19,7 @@
   "hint": "<p>The following graphic shows the first sample:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 94px; height: 144px;\"/></p>\n<p>An optimal sequence of button presses to turn off all the cameras is given by pressing the buttons for cameras 4, 5, 3, and 1 in this order.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2021",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.394700050354004

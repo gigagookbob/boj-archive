@@ -19,12 +19,7 @@
   "hint": null,
   "source": "baekjoon, songjuh, djm03178, kiwiyou, seoo2001, YunGoon",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 54929,
   "submission_count": null,
   "average_tries": 2.3310000896453857

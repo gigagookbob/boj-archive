@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), Qualification, NOI 2018 Preliminary",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "parametric_search", "prefix_sum"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.875

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2021",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["math", "dp", "prefix_sum"],
   "accepted_user_count": 188,
   "submission_count": null,
   "average_tries": 3.7393999099731445

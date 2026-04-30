@@ -15,9 +15,7 @@
   "hint": "<p>In the example test case, $f(1) = \\frac{5}{9}$, $f(2) = \\frac{35}{81}$ and $f(3) = \\frac{5}{9}$. Also, $g(1) = 1$, $g(2) = 3$ and $g(3) = 11$. Thus, the answer is $\\frac{5}{9} \\cdot 1 + \\frac{35}{81} \\cdot 3 + \\frac{5}{9} \\cdot 11 = \\frac{215}{27}$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 6: Gennady Korotkevich Contest 3, Grand Prix of Gomel, Contest, Open Cup, 2017/2018 Season, Stage 12: Grand Prix of Gomel",
   "level": 23,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

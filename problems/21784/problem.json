@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2020/2021 Spring Training Camp",
   "level": 24,
-  "tags": [
-    "heuristics",
-    "tsp",
-    "simulated_annealing"
-  ],
+  "tags": ["heuristics", "tsp", "simulated_annealing"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

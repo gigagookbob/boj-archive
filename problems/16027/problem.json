@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2018, Day 1",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lis"
-  ],
+  "tags": ["data_structures", "segtree", "lis"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 2.2404000759124756

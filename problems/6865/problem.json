@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2006, CCO 2006",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "sorting", "arithmetic"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.40910005569458

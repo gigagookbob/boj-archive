@@ -15,10 +15,7 @@
   "hint": "<p>In sample case #1, none of the rubber bands in the shop are long enough on their own. It will not work to buy the two cheapest rubber bands and stick them together, because the new band would have a stretch range of [7, 9], which does not include 6. (Remember, the rubber band must be able to stretch to a length of <em>exactly</em> <strong>L</strong>.) The optimal solution is to buy the rubber bands costing 2 and 5 and stick them together; the new band has a stretch range of [4, 7], which does include 6. You have 8 dollars, so you can afford the total cost of 7 dollars.</p>\n<p>In sample case #2, you need to buy all of the rubber bands to be able to stretch to length 14. That would cost 12 dollars, but you only have 11, so this case is <code>IMPOSSIBLE</code>.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round D APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round D",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.392899990081787

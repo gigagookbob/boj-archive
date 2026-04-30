@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2016/2017 Season, Stage 5: Grand Prix of Siberia",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.4500000476837158

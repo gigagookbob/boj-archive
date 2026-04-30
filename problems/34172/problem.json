@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL, alex04, foxpython, austin0817, changhw, kidw0124, mathjuny, pj991207, utilforever",
   "level": 21,
-  "tags": [
-    "dp",
-    "geometry",
-    "game_theory",
-    "precomputation",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "geometry", "game_theory", "precomputation", "sprague_grundy"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.4614999294281006

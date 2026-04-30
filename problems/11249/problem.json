@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-B Programming Contest, Thailand Central Group-B Programming Contest 2015",
   "level": 6,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 5.309500217437744

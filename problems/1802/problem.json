@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, seastar105",
   "level": 11,
-  "tags": [
-    "divide_and_conquer"
-  ],
+  "tags": ["divide_and_conquer"],
   "accepted_user_count": 1522,
   "submission_count": null,
   "average_tries": 2.5223000049591064

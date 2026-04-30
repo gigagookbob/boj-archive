@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2016",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "math",
-    "simulation"
-  ],
+  "tags": ["bruteforcing", "implementation", "math", "simulation"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.3587000370025635

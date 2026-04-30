@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2016/2017, School Stage, 10-12 Classes",
   "level": 10,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.900000095367432

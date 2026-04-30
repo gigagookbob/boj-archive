@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 1: Songyang Chen Contest 1",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

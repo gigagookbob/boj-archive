@@ -15,10 +15,7 @@
   "hint": "<p>The first data set is 9999909999 + 999999 = 10000909998.</p>\n<p>The second data set is 999...999(44444 9′s)333...333(55555 3′s) + + 111...111(44444 1′s)777...777(55555 7′s) = = 111...111(99999 1′s)0.</p>\n<p>The third data set is trivial, however it warns that you may want to use 8-byte integer types (long long in C/C++, long in Java), which can hold integers up to 9.22 × 10<sup>18</sup>.</p>",
   "source": "University, The USC Programming Contest, Fall 2019: daVinci",
   "level": 12,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.1875

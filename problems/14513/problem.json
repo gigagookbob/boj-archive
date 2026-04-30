@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2017, Contest, Open Cup, 2016/2017 Season, Stage 16: Grand Prix of America",
   "level": 24,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.625

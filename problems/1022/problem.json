@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, yeop94, myungwoo, lobo_prix",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 4302,
   "submission_count": null,
   "average_tries": 3.209700107574463

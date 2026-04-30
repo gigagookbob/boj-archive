@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2022",
   "level": 18,
-  "tags": [
-    "kmp",
-    "string"
-  ],
+  "tags": ["kmp", "string"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.434799909591675

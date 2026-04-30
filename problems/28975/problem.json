@@ -19,10 +19,7 @@
   "hint": "<p>В первом тесте из условия существа сбегают в моменты времени 7,  10 и 13, принадлежащие второму промежутку времени. Во время первого промежутка ни одно существо не совершает побег. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Advanced",
   "level": 7,
-  "tags": [
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["arithmetic", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4.470600128173828

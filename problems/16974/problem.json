@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 11,
-  "tags": [
-    "dp",
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["dp", "divide_and_conquer", "recursion"],
   "accepted_user_count": 1439,
   "submission_count": null,
   "average_tries": 1.9026999473571777

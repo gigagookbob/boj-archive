@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2017 ERICA Programming Contest, League B (초보), jh05013",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 3330,
   "submission_count": null,
   "average_tries": 1.2366000413894653

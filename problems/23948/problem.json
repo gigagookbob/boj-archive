@@ -15,10 +15,7 @@
   "hint": "<p>In sample case #1, the array contains <b>N</b> = 3 integers and <b>M</b> = 27. The largest possible value of k that gives a good universe is 12 ((8 xor 12) + (2 xor 12) + (4 xor 12) = 26).</p>\n<p>In sample case #2, the array contains <b>N</b> = 4 integers and <b>M</b> = 45. The largest possible value of k that gives a good universe is 14 ((30 xor 14) + (0 xor 14) + (4 xor 14) + (11 xor 14) = 45).</p>\n<p>In sample case #3, the array contains <b>N</b> = 1 integer and <b>M</b> = 0. The largest possible value of k that gives a good universe is 100 (100 xor 100 = 0).</p>\n<p>In sample case #4, there is no value of k that gives a good universe, so the answer is -1.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2019, Round G",
   "level": 14,
-  "tags": [
-    "greedy",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bitmask"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.9544999599456787

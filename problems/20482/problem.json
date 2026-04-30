@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2010",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.666700005531311

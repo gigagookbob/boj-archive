@@ -15,12 +15,7 @@
   "hint": "<p><strong>Explanation to second sample test:</strong> Below we present sequence of moves leading from the initial to the final state:</p>\n<pre>\n2 2        2 2        2 1        2 1        1 1        1 1        1 1\n2 1        2 0        2 1        1 1        2 1        1 2        1 2\n      -&gt;         -&gt;         -&gt;         -&gt;         -&gt;         -&gt;   \n2 1        2 1        2 1        2 1        2 1        2 1        1 2\n1 1        1 2        1 2        2 2        2 2        2 2        2 2\n</pre>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 1: Warsaw U Contest",
   "level": 22,
-  "tags": [
-    "dp",
-    "flow",
-    "mfmc",
-    "graphs"
-  ],
+  "tags": ["dp", "flow", "mfmc", "graphs"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.375

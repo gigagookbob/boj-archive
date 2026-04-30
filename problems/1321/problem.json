@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author8, noorycode, namespace",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 1171,
   "submission_count": null,
   "average_tries": 1.8830000162124634

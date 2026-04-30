@@ -15,10 +15,7 @@
   "hint": "<p>원판의 크기가 같다면, 색과 상관없이 어떤 원판을 위에 올려놓아도 무방하다. 단, 최종 상태는 위에서부터 빨강 원판 - 검정 원판 - 빨강 원판 - 검정 원판 - … 순이어야 한다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2019 Sogang Programming Contest, Master, semteo04, cozyyg, jh05013, kipa00, shiftpsh",
   "level": 16,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 503,
   "submission_count": null,
   "average_tries": 2.608299970626831

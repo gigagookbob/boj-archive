@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2009",
   "level": 19,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "rotating_calipers"
-  ],
+  "tags": ["geometry", "convex_hull", "rotating_calipers"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 1.5468000173568726

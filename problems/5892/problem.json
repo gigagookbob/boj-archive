@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>There are 4 flowerbeds in a row, initially with 1, 2, 3, and 4 units of dirt. Farmer John wishes to transform them so they have 4, 3, 2, and 0 units of dirt, respectively. The costs for adding, removing, and transporting dirt are 100, 200, and 1.</p>\n<h4>Output Details</h4>\n<p>One unit of dirt must be removed (from flowerbed #4), at a cost of 200. The remaining dirt can be moved at a cost of 10 (3 units from flowerbed #4 to flowerbed #1, 1 unit from flowerbed #3 to flowerbed #2).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO March 2012 Contest, Silver",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["dp", "graphs", "flow", "mcmf"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 2.3889000415802

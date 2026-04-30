@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Nordic Olympiad in Informatics, 2018",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "binary_search",
-    "prefix_sum",
-    "deque"
-  ],
+  "tags": ["dp", "data_structures", "binary_search", "prefix_sum", "deque"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.613600015640259

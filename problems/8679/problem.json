@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Intermediate Group)",
   "level": 11,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.733299970626831

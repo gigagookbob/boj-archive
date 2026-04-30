@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, luniro, orihehe",
   "level": 14,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 179,
   "submission_count": null,
   "average_tries": 2.2123000621795654

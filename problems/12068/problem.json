@@ -15,12 +15,7 @@
   "hint": "<p>For the first question in the test case, it's impossible to get the ratio 1/1 since this would require both chains to be on the same gear in the extra gear group, which is not allowed.</p>\n<p>For the second question in the test case, you can make the first chain connect the 5-tooth gear on the pedal gear group to the 4-tooth gear on the extra gear group, and make the second chain connect the 6-tooth gear on the extra gear group to the 3-tooth gear on the tire gear group. With this setup, the ratio is 5/2.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2016 University Graduates Test, Round B APAC Test 2016, Contest, Google, Kick Start, Google Kick Start 2015, Round B",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "euclidean",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "euclidean", "math", "number_theory"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.2221999168395996

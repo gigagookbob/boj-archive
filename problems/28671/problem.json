@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, January 31, 2021",
   "level": 13,
-  "tags": [
-    "string",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["string", "prefix_sum", "two_pointer"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.5

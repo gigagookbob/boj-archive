@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2006 Qualification, josephwon0310, dhnam2211",
   "level": 14,
-  "tags": [
-    "game_theory",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["game_theory", "implementation", "simulation"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.40910005569458

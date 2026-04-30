@@ -15,11 +15,7 @@
   "hint": "<p>모든 경우를 고려해볼 때 최대로 받을 수 있는 군만두의 개수는 5개이므로 5개를 받을 수 있도록 주문해야 한다. 볶음밥 10개를 추가로 주문하면 군만두를 0 + 1 + 3 = 4개 받을 수 있으므로 적합하지 않고, 볶음밥 9개와 짜장면 1개를 추가로 주문하면 군만두를 1 + 1 + 3 = 5개 받을 수 있어 최대로 주문할 수 있는 볶음밥은 9개이다.</p>",
   "source": "University, POSTECH, 2021 POSTECH Programming Contest, slah007, dkvltmxhf, gravekper, hitonanode, hojoon0205, shiftpsh",
   "level": 8,
-  "tags": [
-    "math",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "arithmetic", "case_work"],
   "accepted_user_count": 366,
   "submission_count": null,
   "average_tries": 3.4398999214172363

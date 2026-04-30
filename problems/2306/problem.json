@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2005, 중등부",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1449,
   "submission_count": null,
   "average_tries": 1.973099946975708

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2001, National Competition #1 - Juniors",
   "level": 9,
-  "tags": [
-    "implementation",
-    "dp",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "dp", "string", "ad_hoc"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.7418999671936035

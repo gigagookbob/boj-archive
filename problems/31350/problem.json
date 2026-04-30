@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 10: Grand Prix of China",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

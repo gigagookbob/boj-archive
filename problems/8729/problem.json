@@ -15,12 +15,7 @@
   "hint": "<p>Adrian wyciska 5 w pierwszym browarze, 7 w drugim, 10 w pierwszym, 14 w drugim i 15 w pierwszym.</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Beginner Group)",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "euclidean", "inclusion_and_exclusion"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.600000023841858

@@ -15,10 +15,7 @@
   "hint": "<p>$N \\times K$개의 케이크 단에는 $N$개의 단이 $K$개씩 포함되어 있다.</p>",
   "source": "Contest, BOJ User Contest, 파댕이컵, 파댕이컵, lycoris1600, ksoosung77, qvixnh22, utilforever",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.2691999673843384

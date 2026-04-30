@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 건국대학교, 2019 건국대학교 동아리 알프스 프로그래밍 경진대회 (KAPC), keunbum",
   "level": 16,
-  "tags": [
-    "dp",
-    "string",
-    "traceback"
-  ],
+  "tags": ["dp", "string", "traceback"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.1373000144958496

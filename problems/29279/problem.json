@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, March 1, 2014",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.1875

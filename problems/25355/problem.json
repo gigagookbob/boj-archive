@@ -23,13 +23,7 @@
   "hint": "<p>In the first example, there are two substrings that can constitute a description of an admissible map --- \"<code>RDUL</code>\" as a matrix of size $2 \\times 2$ (pic. 1) and \"<code>DU</code>\" as a matrix of size $2 \\times 1$ (pic. 2).</p>\n<p>In the second example, no substring can constitute a description of an admissible map. E. g. if we try to look at the string \"<code>RDRU</code>\" as a matrix of size $2 \\times 2$, we can find out that the resulting graph is not a set of cycles (pic. 3).</p>\n<p>In the third example, three substrings \"<code>RL</code>\", two substrings \"<code>RLRL</code>\" and one substring \"<code>RLRLRL</code>\" can constitute an admissible map, some of them in multiple ways. E. g. here are two illustrations of substring \"<code>RLRLRL</code>\" as matrices of size $3 \\times 2$ (pic. 4) and $1 \\times 6$ (pic. 5).</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 103px; height: 122px;\"/> <img alt=\"\" src=\"2.png\" style=\"height: 122px; width: 53px;\"/> <img alt=\"\" src=\"3.png\" style=\"width: 103px; height: 122px;\"/> <img alt=\"\" src=\"4.png\" style=\"width: 103px; height: 174px;\"/> <img alt=\"\" src=\"5.png\" style=\"width: 303px; height: 72px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2021",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "dp",
-    "functional_graph",
-    "graphs",
-    "hashing"
-  ],
+  "tags": ["ad_hoc", "dp", "functional_graph", "graphs", "hashing"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.6666998863220215

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2011 Mid-Central Regional Programming Contest",
   "level": 9,
-  "tags": [
-    "implementation",
-    "math",
-    "simulation",
-    "string"
-  ],
+  "tags": ["implementation", "math", "simulation", "string"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.7143000364303589

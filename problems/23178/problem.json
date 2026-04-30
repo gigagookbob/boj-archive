@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2021 KAIST 11th ICPC Mock Competition, jwvg0425, ansemddl97, cs71107, jh05013, koosaga, xiaowuc1",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "tree_set"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.5168999433517456

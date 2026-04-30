@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2020 서울대학교 프로그래밍 경시대회, Division 2, TAMREF",
   "level": 19,
-  "tags": [
-    "math",
-    "geometry",
-    "bitmask",
-    "backtracking",
-    "geometry_hyper"
-  ],
+  "tags": ["math", "geometry", "bitmask", "backtracking", "geometry_hyper"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 3.745800018310547

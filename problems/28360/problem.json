@@ -19,12 +19,7 @@
   "hint": "<p>절대오차는 실제 정답과 출력값의 차이, 상대오차(오차율)는 절대오차를 실제 정답으로 나눈 값을 의미한다. 즉, 실제 정답을 $a$, 출력값을 $b$라고 하면, 절대오차는 $\\vert a - b \\vert$, 상대오차는 $\\frac{\\vert a - b \\vert}{a}$로 계산한다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제7회 천하제일 코딩대회, sr3gm, cgiosy, chansol, cs71107, gs18115, jhnah917, kyo20111, myyh1234, tlsdydaud1",
   "level": 10,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "simulation"
-  ],
+  "tags": ["implementation", "dp", "graphs", "simulation"],
   "accepted_user_count": 267,
   "submission_count": null,
   "average_tries": 3.0448999404907227

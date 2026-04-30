@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 1996",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "simulation",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "simulation", "string"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3042999505996704

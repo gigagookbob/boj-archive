@@ -19,10 +19,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:279px; width:348px\"/></p>\n<p>모든 길이의 합 S는 S = A<sub>1</sub> + A<sub>2</sub> + A<sub>3</sub> + ... + A<sub>n-1</sub>이 된다.</p>",
   "source": "adh0463, jh05013, plzrun",
   "level": 6,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 278,
   "submission_count": null,
   "average_tries": 3.169100046157837

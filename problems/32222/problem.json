@@ -19,10 +19,7 @@
   "hint": "<ul>\n<li>배추처럼 생겼지만 아무튼 상추이다.</li>\n<li>본문의 영양제 설명을 수식적으로 표현하면 다음과 같다.\n\t<ul>\n<li>영양제 A : $(s_i, s_j, s_k)\\leftarrow(\\max \\{s_i,s_j,s_k\\}, \\max \\{s_i,s_j,s_k\\}, \\max \\{s_i,s_j,s_k\\})$</li>\n<li>영양제 B : $(s_i, s_j, s_k)\\leftarrow(s_i+\\min\\{s_i,s_j,s_k\\}, s_j+\\min\\{s_i,s_j,s_k\\}, s_k+\\min\\{s_i,s_j,s_k\\})$</li>\n<li>영양제 C : $(s_i)\\leftarrow(m)$</li>\n</ul>\n</li>\n</ul>",
   "source": "School, 송도고등학교, 송도고 코드마스터 2024, jinseo, cologne, dohoon, lisifu, plast",
   "level": 18,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 6.826099872589111

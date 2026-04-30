@@ -15,13 +15,7 @@
   "hint": "<p>For the first sample test case, the status of the torch will change like this: $00000$ $\\to$ $11100$ $\\to$ $01111$ $\\to$ $10110$ $\\to$ $01010$ $\\to$ $00100$ $\\to$ $00011$ $\\to$ $11111$.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 9: Grand Prix of Nanjing",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work", "parity", "invariant"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.6922999620437622

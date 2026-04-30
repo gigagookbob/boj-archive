@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2010 Day 2",
   "level": 14,
-  "tags": [
-    "knapsack"
-  ],
+  "tags": ["knapsack"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

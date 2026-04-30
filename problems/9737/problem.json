@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, Philippines Multi-Provincial Programming Contest, Philippines Multi-Provincial Programming Contest 2013",
   "level": 17,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "convex_hull", "polygon_area"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.5957000255584717

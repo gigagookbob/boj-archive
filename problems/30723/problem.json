@@ -27,11 +27,7 @@
   "hint": "<p>В первом примере сделан запрос про пару индексов $(1, 2)$, в ответ получена строка &lt;&lt;<code>1</code>&gt;&gt;, что означает, что $p_1 &lt; p_2$, и, следовательно, загадана перестановка $p = $&lt;&lt;$1$ $2$&gt;&gt;, то есть искомая строка --- &lt;&lt;<code>ab</code>&gt;&gt;.</p>\n<p>Во втором примере сделан запрос про пару индексов $(1, 2)$, в ответ получена строка &lt;&lt;<code>0</code>&gt;&gt;, это означает, что $p_1 \\geq p_2$, и, следовательно, загадана перестановка $p = $&lt;&lt;$2$ $1$&gt;&gt;, то есть искомая строка --- &lt;&lt;<code>ba</code>&gt;&gt;.</p>\n<p>В третьем примере не спрашивается ни про какие пары индексов, а сразу выводится ответ --- строка &lt;&lt;<code>qqq</code>&gt;&gt;.</p>\n<p>В четвертом примере была загадана перестановка &lt;&lt;$2$ $3$ $1$&gt;&gt;.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2018-19",
   "level": 15,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3.5

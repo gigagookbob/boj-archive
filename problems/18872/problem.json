@@ -15,11 +15,7 @@
   "hint": "<p>For each $1\\le i\\le N$, the $i$-th element of the following array is the number of permutations that cause the cows to take $i$ steps: $[1,25,20,30,24,20].$ The answer is $1^1\\cdot 2^{25}\\cdot 3^{20}\\cdot 4^{30}\\cdot 5^{24}\\cdot 6^{20}\\equiv 369329541\\pmod{10^9+7}$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 US Open Contest, Platinum",
   "level": 24,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.6875

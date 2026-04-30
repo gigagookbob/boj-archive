@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Olympiad Group)",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

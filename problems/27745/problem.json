@@ -15,10 +15,7 @@
   "hint": "<p>Sample Case #1 is similar to the first one described in the problem statement. Trouble Sort correctly sorts this list, so the answer is <code>OK</code>.</p>\n<p>Sample Case #2 is the second one described in the problem statement. Trouble Sort does not correctly sort this list, since it terminates with the list 7 9 8. The 9 is the first value in the list that is larger than the next value, so the index of the first sorting error is 1.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2018, Qualification Round",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "sorting"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.3792999982833862

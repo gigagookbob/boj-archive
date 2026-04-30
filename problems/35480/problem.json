@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Happy Birthday Lumi!, Happy Birthday Lumi! 2026, sorohue, dinojaemin, djeleanor2, minjunnick, nflight11, sjhi00, toycartoon",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 1.5866999626159668

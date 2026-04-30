@@ -27,11 +27,7 @@
   "hint": null,
   "source": null,
   "level": 15,
-  "tags": [
-    "greedy",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["greedy", "constructive", "case_work"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 3.6791999340057373

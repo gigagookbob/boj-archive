@@ -15,11 +15,7 @@
   "hint": "<p><a href=\"https://en.wikipedia.org/wiki/Bitwise_operation#XOR\">Bitwise XOR</a>은 두 값을 이진수로 표현하고 자리 단위로 적용되는 이진 연산자로, 두 피연산자의 각 자릿수를 비교하며 같으면 1, 다르면 0을 계산한다. C/C++, Java, Python에서 두 정수 <code>x</code>와 <code>y</code>의 Bitwise XOR 결과는 <code><span style=\"background-color:#dddddd;\">(x ^ y)</span></code>로 계산 할 수 있다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 1, University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 2, Green55, jh05013, jhnah917, Lawali, leejseo, pichulia, shiftpsh",
   "level": 16,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 2.470599889755249

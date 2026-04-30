@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, harinboy, jh05013, kkw564, ldw0318, minho6428, sohnryang, surung9898, yeo2507, Acka",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "traceback",
-    "lis"
-  ],
+  "tags": ["binary_search", "traceback", "lis"],
   "accepted_user_count": 12179,
   "submission_count": null,
   "average_tries": 2.841900110244751

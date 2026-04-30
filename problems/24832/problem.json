@@ -27,10 +27,7 @@
   "hint": "<p>In the first example, \"battab\" is also a valid answer.</p>\n<p>In the second example, there can be 4 different valid answers including the sample output. We are not going to provide any hints for what the others are.</p>\n<p>In the third example, the empty string is the only valid palindrome string.</p>",
   "source": "Contest, Codeforces, Codeforces Round 620 (Div. 2), djm03178",
   "level": 10,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.3777999877929688

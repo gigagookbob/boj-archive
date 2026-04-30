@@ -19,10 +19,7 @@
   "hint": "<p>소수는 $2$ 이상의 양의 정수이면서 자기 자신과 $1$ 이외의 양의 정수로 나누어떨어지지 않는 수이다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2022 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2022 Sogang Programming Contest, Master (Open), djs100201, bnb2011, chansol, dong_gas, eaststar, gratus907, gumgood, jthis, tony9402, wbcho0504",
   "level": 17,
-  "tags": [
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["constructive", "case_work"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.899999976158142

@@ -19,12 +19,7 @@
   "hint": "<p>Explanation of sample test 1</p>\n<p>There are 8 crabs that we have to keep in 4 aquariums. The optimal distribution is: crab 1 in aquarium 1; crabs 2, 3 and 4 in aquarium 2; crabs 5 and 6 in aquarium 3; crabs 7 and 8 in aquarium 4. Crab 1 feels no fear; crab 2 feels 5 fear; crab 3 feels 4 fear; crab 4 feels 3 fear; crab 5 feels 1 fear; crab 6 feels 9 fear; crab 7 feels 1 fear; crab 8 feels 9 fear. The total is 0 + 5 + 4 + 3 + 1 + 9 + 1 + 9 = 32.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2020, Group A (Seniors)",
   "level": 25,
-  "tags": [
-    "dp",
-    "binary_search",
-    "alien",
-    "monotone_queue_optimization"
-  ],
+  "tags": ["dp", "binary_search", "alien", "monotone_queue_optimization"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

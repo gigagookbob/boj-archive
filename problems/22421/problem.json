@@ -15,12 +15,7 @@
   "hint": "<p>1つ目のデータセットでは，下図のように，Koto駅から道路に沿って2km進んだ交差点がShin-Koto駅を建設する場所の候補となる．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 450px; height: 146px;\"/></p>\n<p>各交差点にShin-Koto駅を建設した場合の，レールを敷くための費用と予算1とのずれは次のようになる．</p>\n<ul>\n<li>(2, 0) ： | √(2<sup>2</sup> + 0<sup>2</sup>) - 1 | = 1.0</li>\n<li>(1, 1) ： | √(1<sup>2</sup> + 1<sup>2</sup>) - 1 | = 0.4142135623...</li>\n<li>(0, 2) ： | √(0<sup>2</sup> + 2<sup>2</sup>) - 1 | = 1.0</li>\n</ul>\n<p>よって，費用と予算とのずれが最小になるのは， (1, 1) に建設した場合となる．</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2015",
   "level": 3,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 235,
   "submission_count": null,
   "average_tries": 1.2170000076293945

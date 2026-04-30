@@ -15,14 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, dhyang24, eric00513, jbkmath48128, leo020630, palilo",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 379,
   "submission_count": null,
   "average_tries": 2.247999906539917

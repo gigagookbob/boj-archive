@@ -15,10 +15,7 @@
   "hint": "<p>2019년 3월 31일 슬랙 웹 버전을 기준으로 한다.</p>",
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 구데기컵 2018, jh05013",
   "level": 0,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 93.80000305175781

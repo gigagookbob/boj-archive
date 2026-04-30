@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:515px; width:500px\"/></p>",
   "source": "ICPC, Regionals, North America, Southern California Regional, 1989 Southern California Regional",
   "level": 12,
-  "tags": [
-    "geometry",
-    "implementation",
-    "math"
-  ],
+  "tags": ["geometry", "implementation", "math"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.9129999876022339

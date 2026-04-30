@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2013, ntopia",
   "level": 23,
-  "tags": [
-    "duality",
-    "linear_programming"
-  ],
+  "tags": ["duality", "linear_programming"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.25

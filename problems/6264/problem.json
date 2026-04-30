@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2007, kks227",
   "level": 20,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 4.4222002029418945

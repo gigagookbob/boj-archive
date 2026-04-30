@@ -15,10 +15,7 @@
   "hint": "<p>For M=1 the 1x1 square:</p>\n<pre>\n2</pre>\n<p>has a sum of just 2 &lt; 10.</p>\n<p>For M=2 the 2x2 square:</p>\n<pre>\n0 7\n0 2</pre>\n<p>has a sum of 9 &lt; 10. For M=3 each 3x3 square has a sum ≥ 10.</p>\n<p>Thus M=3 is the minimal M such that each square of size M x M has a sum of at least 10.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2019, Group B (Juniors)",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "prefix_sum"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.2414000034332275

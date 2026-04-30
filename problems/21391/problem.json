@@ -15,12 +15,7 @@
   "hint": "<ul>\n<li>It’s OK to be exactly d units away from the nearest tower.</li>\n<li>The size of the towers is negligible; if you move straight through a tower location, the tower won’t block your path.</li>\n</ul>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2007",
   "level": 0,
-  "tags": [
-    "floyd_warshall",
-    "graphs",
-    "math",
-    "shortest_path"
-  ],
+  "tags": ["floyd_warshall", "graphs", "math", "shortest_path"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

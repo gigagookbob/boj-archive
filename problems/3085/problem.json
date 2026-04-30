@@ -23,10 +23,7 @@
   "hint": "<p>예제 3의 경우 4번 행의 Y와 C를 바꾸면 사탕 네 개를 먹을 수 있다.</p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2012, Junior Croatian Olympiad in Informatics - Exam #1, baekjoon, jh05013, juhyun16, 10jobss",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 15054,
   "submission_count": null,
   "average_tries": 2.81030011177063

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "chunghan, ahgus89, kyo20111",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 319,
   "submission_count": null,
   "average_tries": 3.319700002670288

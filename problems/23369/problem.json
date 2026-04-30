@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2021 Preliminaries",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "deque"
-  ],
+  "tags": ["data_structures", "greedy", "deque"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.4788999557495117

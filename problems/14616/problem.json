@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2017 인하대학교 프로그래밍 경진대회 (IUPC), kesakiyo, jsa3824, ntopia",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "geometry", "sweeping"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 2.5817999839782715

@@ -19,11 +19,7 @@
   "hint": "<p>Во втором примере любая операция является оптимизирующей.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2008",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

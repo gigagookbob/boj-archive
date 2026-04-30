@@ -15,10 +15,7 @@
   "hint": "<p>Consider the following map, where each dot represents a city and its number of soldiers is given above it:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 254px; height: 259px;\"/></p>\n<p>Assuming that its 5 cities are numbered from top to bottom and left to right.</p>\n<p>That is, city 3 at location (3,2) is the capital of a kingdom, which also contains the cities 4 at location (1,1) and 5 at location (2,1). On the other hand, city 1 at location (2,5) forms a kingdom all by itself, while city 2 at location (2,3) forms a democracy all by itself.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2006",
   "level": 9,
-  "tags": [
-    "implementation",
-    "graphs"
-  ],
+  "tags": ["implementation", "graphs"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.5861999988555908

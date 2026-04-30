@@ -27,12 +27,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "ternary_search"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "ternary_search"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.407399892807007

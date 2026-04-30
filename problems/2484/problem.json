@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2010, 고등부, tncks0121, veydpz",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "case_work"],
   "accepted_user_count": 3598,
   "submission_count": null,
   "average_tries": 2.4021999835968018

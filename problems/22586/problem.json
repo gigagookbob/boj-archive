@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2011 Day 3",
   "level": 21,
-  "tags": [
-    "math",
-    "case_work",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "case_work", "inclusion_and_exclusion"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

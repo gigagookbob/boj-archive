@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Round 2",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["bruteforcing", "geometry", "constructive"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.926800012588501

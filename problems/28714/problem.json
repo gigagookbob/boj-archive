@@ -19,9 +19,7 @@
   "hint": "<p>В первом тесте существуют следующие способы выбрать подстроку (выделена скобками): </p>\n<ol>\n<li><code>[a]aa</code></li>\n<li><code>a[a]a</code></li>\n<li><code>aa[a]</code></li>\n<li><code>[aa]a</code></li>\n<li><code>a[aa]</code></li>\n</ol>\n<p>Во втором тесте существуют следующие способы выбрать подстроку:</p>\n<ol>\n<li><code>[a]bacaba</code></li>\n<li><code>a[b]acaba</code></li>\n<li><code>ab[a]caba</code></li>\n<li><code>aba[c]aba</code></li>\n<li><code>abac[a]ba</code></li>\n<li><code>abaca[b]a</code></li>\n<li><code>abacab[a]</code></li>\n<li><code>[ab]acaba</code></li>\n<li><code>a[ba]caba</code></li>\n<li><code>ab[ac]aba</code></li>\n<li><code>aba[ca]ba</code></li>\n<li><code>abac[ab]a</code></li>\n<li><code>abaca[ba]</code></li>\n<li><code>a[bac]aba</code></li>\n<li><code>aba[cab]a</code></li>\n</ol>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 5, 2019",
   "level": 11,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

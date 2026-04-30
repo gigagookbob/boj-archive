@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: Blue-eyed logicians could for example be those on nodes 1 and 2.</p>\n<p>Clarification of the second example: If only one of the logicians has blue eyes, then he surely can’t see anyone else with blue eyes. If there are two or more of them with blue eyes, then surely someone will see more than one person with blue eyes.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #1",
   "level": 19,
-  "tags": [
-    "case_work",
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["case_work", "dp", "dp_tree", "trees"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5

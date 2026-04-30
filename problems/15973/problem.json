@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2018, 중등부, tony0203, solarmagic",
   "level": 10,
-  "tags": [
-    "math",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["math", "geometry", "case_work"],
   "accepted_user_count": 1910,
   "submission_count": null,
   "average_tries": 2.9261999130249023

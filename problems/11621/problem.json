@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:245px; width:325px\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2015",
   "level": 19,
-  "tags": [
-    "geometry",
-    "implementation",
-    "math"
-  ],
+  "tags": ["geometry", "implementation", "math"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 4.878799915313721

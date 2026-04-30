@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2003, author5, boreng0817, kcan1416, wlsgur0717, yjinpark, sait2000",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "divide_and_conquer",
-    "stack"
-  ],
+  "tags": ["data_structures", "segtree", "divide_and_conquer", "stack"],
   "accepted_user_count": 9138,
   "submission_count": null,
   "average_tries": 2.4716999530792236

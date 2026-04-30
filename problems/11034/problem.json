@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, Vietnam High School Programming Contest, HSPC 2014, uk7880",
   "level": 3,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 2759,
   "submission_count": null,
   "average_tries": 2.29830002784729

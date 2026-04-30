@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2022 연세대학교 프로그래밍 경진대회, coconut99, dadada2413, ggoh, Juno, lky7674, pom0319, ystaeyoon113",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 189,
   "submission_count": null,
   "average_tries": 2.2063000202178955

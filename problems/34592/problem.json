@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2025",
   "level": 23,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["implementation", "data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.7777999639511108

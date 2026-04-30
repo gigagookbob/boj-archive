@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2020 Greater New York Programming Contest",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["game_theory", "math", "number_theory", "primality_test"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 4.111100196838379

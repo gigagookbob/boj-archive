@@ -23,12 +23,7 @@
   "hint": "<p><em>X</em>의 <em>P</em>에 대한 곱셈 역원 <em>X</em><sup>-1</sup>이란, <em>X</em>×<em>X<sup>-1</sup></em> ≡ 1 mod <em>P</em>를 만족하는 정수를 말한다.</p>",
   "source": "University, 연세대학교, 2019 연세대학교 컴퓨터과학과 프로그래밍 경진대회, portableangel",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "greedy",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["combinatorics", "greedy", "math", "prefix_sum"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.840000033378601

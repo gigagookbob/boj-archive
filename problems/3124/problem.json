@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, National Competition #1 - Juniors, grace0068",
   "level": 14,
-  "tags": [
-    "combinatorics",
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["combinatorics", "math", "prefix_sum"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.40910005569458

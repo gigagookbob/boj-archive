@@ -19,12 +19,7 @@
   "hint": "<p>우선 첫 번째 파도에 의해서 모래성은 다음과 같이 변한다.</p>\r\n\r\n<pre>\r\n......\r\n.9.9..\r\n..428.\r\n.9.9..\r\n......\r\n</pre>\r\n\r\n<p>첫 번째 파도에 의해서 2 주변에 빈 곳이 두군데가 되었고, 그 다음 파도에 의해서 이 2 부분이 휩쓸리게 된다.</p>\r\n\r\n<pre>\r\n......\r\n.9.9..\r\n..4.8.\r\n.9.9..\r\n......\r\n</pre>\r\n\r\n<p>그다음 파도에 의해서 가운데 4 부분이 파도에 휩쓸리게 된다.</p>\r\n\r\n<pre>\r\n......\r\n.9.9..\r\n....8.\r\n.9.9..\r\n......\r\n</pre>\r\n\r\n<p>이제 모래성은 아무리 파도가 쳐도 이 상태를 유지하게 된다. 즉 파도가 3번 쳐야지 모래성의 모습이 바뀐다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2014/2015 예선, pichulia, adh0463, doju",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 1373,
   "submission_count": null,
   "average_tries": 3.2184998989105225

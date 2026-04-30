@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, goooora",
   "level": 8,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "combinatorics", "probability"],
   "accepted_user_count": 2612,
   "submission_count": null,
   "average_tries": 2.312000036239624

@@ -27,10 +27,7 @@
   "hint": "<p>예제 1의 경우 일단 1번이 공을 잡는다. 1번은 공을 한 번 잡았기 때문에, 공을 3번에게 던진다. 3번은 공을 한 번 잡았기 때문에, 공을 5번에게 던진다. 5번은 2번에게 던지고, 2번은 4번에게 던진다. 4번은 1번에게 던진다. 1번은 이제 공을 두 번 잡았기 때문에, 공을 4번에게 던진다. 4번은 2번에게 던지고, 2번은 5번에게 던지고, 5번은 3번에게 던지고, 마지막으로 3번은 1번에게 던진다. 1번은 이제 공을 세 번 잡았기 때문에, 게임은 끝난다.</p>",
   "source": "baekjoon, chatterboy, chsun0303, dtc03012, hello70825, djm03178, jh05013",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 4684,
   "submission_count": null,
   "average_tries": 1.4219000339508057

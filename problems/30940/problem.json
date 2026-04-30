@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>Zrakoplović can reach the desired position in one wing flap by moving in the direction of the $z$-axis for one unit cube.</p>\n<p>Clarification of the third example: Zrakoplović can reach the desired position in three wing flaps by first moving to position $(2, 1, 2)$, then to $(2, 2, 2)$ and finally to $(3, 2, 2)$.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #2",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.228600025177002

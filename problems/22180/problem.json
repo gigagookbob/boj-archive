@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2011, RCC 2011 Third Qualification Round",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["bitmask", "backtracking"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.200000047683716

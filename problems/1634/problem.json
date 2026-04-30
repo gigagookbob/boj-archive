@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author6",
   "level": 15,
-  "tags": [
-    "trees",
-    "divide_and_conquer",
-    "tree_isomorphism"
-  ],
+  "tags": ["trees", "divide_and_conquer", "tree_isomorphism"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.0741000175476074

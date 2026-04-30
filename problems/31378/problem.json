@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 13: Grand Prix of Three Capitals",
   "level": 23,
-  "tags": [
-    "bitset",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["bitset", "data_structures", "segtree"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

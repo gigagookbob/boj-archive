@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, Croatian Olympiad in Informatics 2007, author5",
   "level": 20,
-  "tags": [
-    "graphs",
-    "trees",
-    "lca",
-    "articulation"
-  ],
+  "tags": ["graphs", "trees", "lca", "articulation"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 4.806000232696533

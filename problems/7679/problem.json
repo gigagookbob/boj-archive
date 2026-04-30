@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2006",
   "level": 17,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "dijkstra"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

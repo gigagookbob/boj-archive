@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2005/2006 모의고사 1, baekjoon, ntopia, tony9402",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "greedy", "bruteforcing", "sorting", "pigeonhole_principle"],
   "accepted_user_count": 430,
   "submission_count": null,
   "average_tries": 3.369800090789795

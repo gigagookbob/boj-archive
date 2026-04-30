@@ -15,12 +15,7 @@
   "hint": "<p>오버킬은 한 번만 이루어진다. 즉, 한 턴에 세 마리 이상의 몬스터에게 대미지를 줄 수는 없다.</p>",
   "source": "University, KAIST, KAIST HAJE 프로그래밍 대회, cologne, gs20036, harnel_tngn, juneharold, kaistray, mathking1021, shortcakesweets",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 276,
   "submission_count": null,
   "average_tries": 3.0362000465393066

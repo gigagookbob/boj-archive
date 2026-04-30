@@ -23,9 +23,7 @@
   "hint": "<p>Clarification of the third example: Dorijan first eats one cake from the left, then gives the next three cakes with sweetnesses $3$, $2$, and $5$ to the first customer. He then eats another cake from the left and gives the next two cakes with sweetnesses $4$ and $6$ to the second customer. The third customer gets a cake from the right with sweetness $1$ and the fourth gets the last cake with sweetness $2$. Dorijan unfortunately does not have more cakes, so the last customer goes home empty-handed.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #5",
   "level": 16,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2019",
   "level": 17,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.206899881362915

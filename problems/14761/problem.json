@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2016 Rocky Mountain Regional Contest, ICPC, Regionals, North America, South Central USA Regional, 2016 South Central USA Regional Programming Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 956,
   "submission_count": null,
   "average_tries": 1.3336999416351318

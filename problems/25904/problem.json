@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2022 SKKU 프로그래밍 대회 in 소프트의 밤, woolim, bnb2011, deuslovelt, heeda0528, jthis, jyheo98, leeh18, leo020630, max804, palilo",
   "level": 3,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1251,
   "submission_count": null,
   "average_tries": 1.5291999578475952

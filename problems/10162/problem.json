@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2014, 초등부, 79brue, ojh3316, sorohue, baekjoon",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["math", "implementation", "greedy"],
   "accepted_user_count": 24245,
   "submission_count": null,
   "average_tries": 1.6086000204086304

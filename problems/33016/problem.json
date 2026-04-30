@@ -15,10 +15,7 @@
   "hint": "<p>In the last test case of <code>9 2</code> the possible layouts with the minimum inconvenience of 6 are 3-4-2, 2-4-3, and 2-5-2.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2023",
   "level": 18,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.4500000476837158

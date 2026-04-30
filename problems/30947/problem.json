@@ -15,11 +15,7 @@
   "hint": "<p>The maximum profit is made by baking cakes 1 and 2, but not cake 3.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2023",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.8868000507354736

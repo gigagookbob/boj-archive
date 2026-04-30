@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2017 연습 세션",
   "level": 16,
-  "tags": [
-    "implementation",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "sorting", "ad_hoc"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 4.321400165557861

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2017",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "primality_test"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.7407000064849854

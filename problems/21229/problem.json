@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 February Contest, Gold",
   "level": 20,
-  "tags": [
-    "game_theory",
-    "math",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["game_theory", "math", "number_theory", "prefix_sum"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.4544999599456787

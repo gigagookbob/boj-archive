@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2020, CCC 2020 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2020, CCC 2020 Senior Division",
   "level": 14,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "number_theory",
-    "bfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "number_theory", "bfs"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 3.7578999996185303

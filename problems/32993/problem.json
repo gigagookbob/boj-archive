@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2024 송년대회, gs22059, gs22123, ibm2006, qwerasdfzxcl, songc",
   "level": 18,
-  "tags": [
-    "bfs",
-    "bitset",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "bitset", "graphs", "graph_traversal"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.18179988861084

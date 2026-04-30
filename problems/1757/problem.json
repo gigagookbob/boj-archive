@@ -15,9 +15,7 @@
   "hint": "<p>1분에 5만큼 뛰고 2분때 쉬고 3분에 뛰어서 4를 더 뛰고 4 5분은 쉰다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO January 2008 Contest, Silver, author9",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 722,
   "submission_count": null,
   "average_tries": 2.8406999111175537

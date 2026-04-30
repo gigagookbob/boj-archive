@@ -19,10 +19,7 @@
   "hint": "<p>2번째 예제에서 205ml로 나눌 경우 2,2,3,4 가 된다. 하지만 206ml라고 하면 각각 2, 2, 3, 3 으로 나눌 수 있기 때문에 나누는 용량을 조금 줄여야한다.</p>",
   "source": "University, 홍익대학교, 홍익대학교 프로그래밍 경진대회 2016, qwebnm7788, kimtaehyun98",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 2316,
   "submission_count": null,
   "average_tries": 3.22189998626709

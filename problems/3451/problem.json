@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2003",
   "level": 8,
-  "tags": [
-    "implementation",
-    "set"
-  ],
+  "tags": ["implementation", "set"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.649999976158142

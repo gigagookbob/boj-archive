@@ -15,10 +15,7 @@
   "hint": "<p>In sample case #1, <code>JOHNSON</code> contains 5 different alphabet letters('H', 'J', 'N', 'O', 'S'), so he is the leader.</p>\n<p>Sample case #2 would only appear in Large data set. The name <code>DEF</code> contains 3 different alphabet letters, the name <code>A AB C</code> also contains 3 different alphabet letters. <code>A AB C</code> comes alphabetically earlier so he is the leader.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round A APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round A",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 1.6584999561309814

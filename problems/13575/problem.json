@@ -23,11 +23,7 @@
   "hint": null,
   "source": null,
   "level": 20,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring",
-    "fft"
-  ],
+  "tags": ["math", "exponentiation_by_squaring", "fft"],
   "accepted_user_count": 423,
   "submission_count": null,
   "average_tries": 4.5721001625061035

@@ -15,10 +15,7 @@
   "hint": "<p>We select the exercises 1, 2 and 5 which gives a total score of 10 + 22 + 10 = 42.</p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2020-2021 연습 세션",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 217,
   "submission_count": null,
   "average_tries": 1.1842999458312988

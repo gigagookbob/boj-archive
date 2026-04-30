@@ -15,10 +15,7 @@
   "hint": "<p>1. 1번 디스크를 A-&gt;B로 옮긴다. 2. 2번 디스크를 A-&gt;C로 옮긴다. 3. 1번 디스크를 B-&gt;A로 옮긴다. 4. 2번 디스크를 C-&gt;B로 옮긴다. 5. 1번 디스크를 A-&gt;B로 옮기면 끝나게 된다.</p>\r\n",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2007, author5",
   "level": 17,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 2.1617000102996826

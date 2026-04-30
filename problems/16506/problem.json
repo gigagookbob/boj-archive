@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제2회 생각하는 프로그래밍 대회, isku",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 867,
   "submission_count": null,
   "average_tries": 1.743899941444397

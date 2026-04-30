@@ -19,12 +19,7 @@
   "hint": "<p>문자열의 부분열이란 문자열에서 몇몇 문자를 지운(물론 지우지 않아도 된다) 문자열을 의미한다. 예를 들어 aan은 hanyang의 부분열이다.</p>",
   "source": "University, 한양대학교, 제9회 한양대학교 프로그래밍 경시대회, Advanced Division, jjaewon9, jthis, jyheo98, nick832, powergee, tlsdydaud1",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 2.8605000972747803

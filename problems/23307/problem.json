@@ -19,10 +19,7 @@
   "hint": "<p>달팽이들의 방향은 다음과 같이 표기한다.</p>\n<table class=\"table table-bordered table-center-50 td-center td-middle\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"3.png\"/></td>\n<td style=\"text-align: center;\">UL</td>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"4.png\"/></td>\n<td style=\"text-align: center;\">UR</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"5.png\"/></td>\n<td style=\"text-align: center;\">LU</td>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"6.png\"/></td>\n<td style=\"text-align: center;\">RU</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"7.png\"/></td>\n<td style=\"text-align: center;\">LD</td>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"8.png\"/></td>\n<td style=\"text-align: center;\">RD</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"9.png\"/></td>\n<td style=\"text-align: center;\">DL</td>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"10.png\"/></td>\n<td style=\"text-align: center;\">DR</td>\n</tr>\n</tbody>\n</table>",
   "source": "University, 연세대학교, 2021 연세대학교 프로그래밍 경진대회, lky7674, IHHI, Juno, Picasso, tony9402, yjyj1027, ystaeyoon113",
   "level": 13,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.7342000007629395

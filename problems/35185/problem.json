@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 4 : Grand Final, jhwest2, azberjibiou, silverwolf, stonejjun03",
   "level": 14,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.792099952697754

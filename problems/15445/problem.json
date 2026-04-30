@@ -23,12 +23,7 @@
   "hint": "<p>For the first example, the eight different samples are a, b, aa, ab, ba, aba, aab, baa.</p>\n<p>For the second example, rejo, drejon are clockwise samples and nojer, dnojer are counter-clockwise samples.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 24 June, 2017",
   "level": 18,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "randomization",
-    "suffix_array"
-  ],
+  "tags": ["string", "bruteforcing", "randomization", "suffix_array"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

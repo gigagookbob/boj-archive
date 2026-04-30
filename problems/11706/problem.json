@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2015",
   "level": 22,
-  "tags": [
-    "centroid",
-    "centroid_decomposition",
-    "divide_and_conquer",
-    "trees"
-  ],
+  "tags": ["centroid", "centroid_decomposition", "divide_and_conquer", "trees"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.6363999843597412

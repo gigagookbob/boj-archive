@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, ldd0901, pos10022, semtax",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 7474,
   "submission_count": null,
   "average_tries": 2.426100015640259

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, moonrabbit2, doju, choiking10",
   "level": 22,
-  "tags": [
-    "dp",
-    "kitamasa"
-  ],
+  "tags": ["dp", "kitamasa"],
   "accepted_user_count": 153,
   "submission_count": null,
   "average_tries": 2.3529000282287598

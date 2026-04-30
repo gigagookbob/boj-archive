@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2002",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5455000400543213

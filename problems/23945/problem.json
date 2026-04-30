@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2019, Round F",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>새로운 데크를 만든다. Deque1 : {3}</li>\n<li>새로운 데크를 만든다. Deque2 : {6}</li>\n<li>0을 Deque1의 앞에 넣는다. : {0, 3}</li>\n<li>9를 Deque2의 뒤에 넣는다. : {6, 9}</li>\n<li>5를 Deque2의 앞에 넣는다. : {5, 6, 9}</li>\n<li>4를 Deque2의 앞에 넣는다. : {4, 5, 6, 9}</li>\n<li>Deque1의 뒤에 Deque2를 붙이면 정렬된다.</li>\n</ul>",
   "source": null,
   "level": 11,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["implementation", "greedy", "sorting"],
   "accepted_user_count": 266,
   "submission_count": null,
   "average_tries": 1.6617000102996826

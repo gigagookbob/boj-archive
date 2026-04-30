@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC 2010",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting",
-    "geometry",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "geometry", "simulation"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.100000023841858

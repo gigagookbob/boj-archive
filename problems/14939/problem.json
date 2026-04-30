@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2017 Sogang Programming Contest, Master, semteo04, hun3555",
   "level": 17,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bruteforcing", "bitmask"],
   "accepted_user_count": 2489,
   "submission_count": null,
   "average_tries": 2.1603000164031982

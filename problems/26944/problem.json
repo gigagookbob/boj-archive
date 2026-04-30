@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2007, Qualification",
   "level": 9,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.3529000282287598

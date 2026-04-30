@@ -15,11 +15,7 @@
   "hint": "<p>The cows in this example move as follows:</p>\n<ol>\n<li>The first and second cows meet at position 1.5 at time 0.5. The first cow now has velocity $-1$ and the second has velocity $1.$</li>\n<li>The second and third cows meet at position 2 at time 1. The second cow now has velocity $-1$ and the third has velocity $1.$</li>\n<li>The first cow reaches the left barn at time 2.</li>\n<li>The second cow reaches the left barn at time 3.</li>\n<li>The process now terminates since the sum of the weights of the cows that have reached a barn is at least half of the sum of the weights of all cows. The third cow would have reached the right barn at time 4.</li>\n</ol>\n<p>Exactly two meetings occurred.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2019 December Contest, Silver",
   "level": 18,
-  "tags": [
-    "sorting",
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["sorting", "ad_hoc", "binary_search"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 4.212900161743164

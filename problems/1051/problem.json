@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, adh0463",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 12370,
   "submission_count": null,
   "average_tries": 2.0525999069213867

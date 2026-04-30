@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Southeast USA Regional, 2016 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2016 Pacific Northwest Region Programming Contest, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2016 Pacific Northwest Region Programming Contest, Division 2",
   "level": 10,
-  "tags": [
-    "dp",
-    "string",
-    "lis"
-  ],
+  "tags": ["dp", "string", "lis"],
   "accepted_user_count": 157,
   "submission_count": null,
   "average_tries": 1.2611000537872314

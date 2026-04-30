@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #4",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "hashing",
-    "sparse_table",
-    "string"
-  ],
+  "tags": ["data_structures", "hashing", "sparse_table", "string"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.5713999271392822

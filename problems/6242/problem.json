@@ -15,12 +15,7 @@
   "hint": "<p>The first building overlaps with the fourth building for an area of 1 square unit, so the total area is just 3*1 + 1*4 + 2*2 + 2*3 - 1 = 16.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO US Open 2007 Contest, Silver",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "sweeping",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "sweeping", "tree_set"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 2.1168999671936035

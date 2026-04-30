@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2009: Economic Crisis",
   "level": 11,
-  "tags": [
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "string"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

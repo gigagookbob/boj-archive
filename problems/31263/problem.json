@@ -35,10 +35,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제3회 보라매컵 예선, 99asdfg, asdarwin03, dabbler1, gs22059, ingyu1008, jinhan814, ksoosung77, kybs0627, saywoo, sksms1375, tyoungs, utilforever, whqkrkt04",
   "level": 8,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 406,
   "submission_count": null,
   "average_tries": 2.342400074005127

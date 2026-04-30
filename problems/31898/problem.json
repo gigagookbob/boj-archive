@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2022",
   "level": 22,
-  "tags": [
-    "implementation",
-    "dp",
-    "bruteforcing",
-    "simulation",
-    "case_work"
-  ],
+  "tags": ["implementation", "dp", "bruteforcing", "simulation", "case_work"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.416700005531311

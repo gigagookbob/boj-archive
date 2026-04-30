@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, European Championship, The 2025 ICPC European Championship",
   "level": 24,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph", "traceback"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

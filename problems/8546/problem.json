@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2002.11",
   "level": 6,
-  "tags": [
-    "math",
-    "dp",
-    "arithmetic"
-  ],
+  "tags": ["math", "dp", "arithmetic"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 1.5428999662399292

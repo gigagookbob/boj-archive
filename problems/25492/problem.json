@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2022 ICPC Sinchon Summer Algorithm Camp Contest, 중급, gumgood, bnb2011, jthis, lky7674, tlsdydaud1, tony9402, wonsei",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "data_structures",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "dp", "data_structures", "number_theory", "euclidean"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.875

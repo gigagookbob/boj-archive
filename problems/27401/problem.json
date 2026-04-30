@@ -15,10 +15,7 @@
   "hint": "<p>First, during step (2), player B discards all their cards. At this point, the players' hands are:</p>\n<ul>\n<li>A : 1, 2</li>\n<li>B : no cards</li>\n<li>C : 1, 2</li>\n</ul>\n<p>There are two ways the game can play out from this point:</p>\n<ol>\n<li>A passes card 1 to B. Then, B passes it to C. This way, C discards the pair of cards with value 1. Then, C has to pass his remaining card to A, who discards it.</li>\n<li>A passes card 2 to B. Then, B passes it to C. This way, C discards the pair of cards with value 2. Then, C has to pass his remaining card to A, who discards it.</li>\n</ol>",
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2019",
   "level": 15,
-  "tags": [
-    "case_work",
-    "dp"
-  ],
+  "tags": ["case_work", "dp"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

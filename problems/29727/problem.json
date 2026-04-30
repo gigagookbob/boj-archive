@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, eric00513, tony9402, utilforever, ychangseok",
   "level": 11,
-  "tags": [
-    "math",
-    "implementation",
-    "combinatorics"
-  ],
+  "tags": ["math", "implementation", "combinatorics"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 4

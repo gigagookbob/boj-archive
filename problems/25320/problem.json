@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022 예선, doju, 99asdfg, bnb2011, heeda0528, ho94949, hyperbolic, jh05013, lky7674, man_of_learning, myungwoo, queued_q, quickn, shiftpsh",
   "level": 17,
-  "tags": [
-    "greedy",
-    "set",
-    "constructive"
-  ],
+  "tags": ["greedy", "set", "constructive"],
   "accepted_user_count": 141,
   "submission_count": null,
   "average_tries": 4.588699817657471

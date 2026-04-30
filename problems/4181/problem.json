@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 13 June, 2009, kks227, chpark1111, ganghe74, juchan1220",
   "level": 17,
-  "tags": [
-    "sorting",
-    "geometry",
-    "convex_hull",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "convex_hull", "angle_sorting"],
   "accepted_user_count": 852,
   "submission_count": null,
   "average_tries": 4.732399940490723

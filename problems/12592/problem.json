@@ -15,12 +15,7 @@
   "hint": "<p>Fortunately for the peoples of the Jamcode system, \"the apocalypse\" turned out to be a mistranslation of \"the giant party.\" Nobody from Jamcode IX bothered to pass this along, because they were having so much fun.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Qualification Round",
   "level": 9,
-  "tags": [
-    "arbitrary_precision",
-    "euclidean",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["arbitrary_precision", "euclidean", "math", "number_theory"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.4118000268936157

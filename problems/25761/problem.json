@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 서울과학기술대학교, 제1회 서울과학기술대학교 컴퓨터공학과 알고리즘 대회, powergee, exponential_e, jthis, leo020630, tony9402, wider93",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.6500000953674316

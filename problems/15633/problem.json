@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 제1회 구데기컵, baekjoon, veydpz",
   "level": 3,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 2490,
   "submission_count": null,
   "average_tries": 1.7352999448776245

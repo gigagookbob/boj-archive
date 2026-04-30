@@ -19,9 +19,7 @@
   "hint": "<p>단순 볼록 다각형은 다각형을 이루는 변들이 서로 교차하지 않고 내각의 크기가 모두 $180\\,^{\\circ}$ 미만인 다각형을 말한다.</p>",
   "source": "University, 인하대학교, 2025 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2025 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, hjkim9911, plan_pt, 39dll, aym506, chlwnsgud7, cmgjol010, dongggle, gumgood, jinhan814, jkw8357, jthis, wjdclgns12",
   "level": 13,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.3333001136779785

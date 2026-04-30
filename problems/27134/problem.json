@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 1997-1998 Season, USACO Spring 1998 Contest",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 1.7364000082015991

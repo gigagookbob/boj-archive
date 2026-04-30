@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, Cornell University High School Programming Contest, 2nd Annual Cornell University High School Programming Contest",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.5333000421524048

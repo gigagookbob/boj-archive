@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 31, 2009, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 31, 2009, Advanced",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "math"
-  ],
+  "tags": ["bruteforcing", "implementation", "math"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.4285999536514282

@@ -19,13 +19,7 @@
   "hint": "<p>The following picture visualizes the sequence 17 operations from the first sample output. If an edge is not created yet, but its vertices are already in one graph, then this edge is drawn as dashed.</p>\n<p><img alt=\"\" src=\"3.png\" style=\"height:283px; width:572px\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2016",
   "level": 22,
-  "tags": [
-    "cactus",
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["cactus", "constructive", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.1303999423980713

@@ -15,11 +15,7 @@
   "hint": "<p>예제 입력에서, 아래 10가지 여행 경로가 있고, 각 확률은 다음과 같다.</p>\n<ul>\n<li>ICN → FUK → ICN → FUK : 0.4 × 0.4 × 0.4 = 0.064</li>\n<li>ICN → FUK → ICN → PEK : 0.4 × 0.4 × 0.6 = 0.096</li>\n<li>ICN → FUK → PEK → ICN : 0.4 × 0.6 × 0.125 = 0.03</li>\n<li>ICN → FUK → PEK → FUK : 0.4 × 0.6 × 0.25 = 0.06</li>\n<li>ICN → FUK → PEK → FNJ : 0.4 × 0.6 × 0.625 = 0.15</li>\n<li>ICN → PEK → ICN → FUK : 0.6 × 0.125 × 0.4 = 0.03</li>\n<li>ICN → PEK → ICN → PEK : 0.6 × 0.125 × 0.6 = 0.045</li>\n<li>ICN → PEK → FUK → ICN : 0.6 × 0.25 × 0.4 = 0.06</li>\n<li>ICN → PEK → FUK → PEK : 0.6 × 0.25 × 0.6 = 0.09</li>\n<li>ICN → PEK → FNJ → PEK : 0.6 × 0.625 × 1 = 0.375</li>\n</ul>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2016 서울대학교 프로그래밍 경시대회, corea, ainch96",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 12.489399909973145

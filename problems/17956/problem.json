@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2019, Contest, Open Cup, 2019/2020 Season, Stage 6: Grand Prix of Southeastern Europe",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "knapsack"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.3958001136779785

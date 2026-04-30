@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제3회 피갤컵, pyb1031, dong5995, kuhyaku, playsworld16",
   "level": 21,
-  "tags": [
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["prefix_sum", "game_theory"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.5714000463485718

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2022 KAIST RUN Spring Contest, moonrabbit2, ho94949, retro3014",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "stack"
-  ],
+  "tags": ["data_structures", "segtree", "stack"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2999999523162842

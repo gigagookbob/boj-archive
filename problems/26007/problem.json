@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2022 홍익대학교 HI-ARC 프로그래밍 경진대회, hwon233, cs71107, Green55, jh05013, jwvg0425",
   "level": 9,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 298,
   "submission_count": null,
   "average_tries": 2.063800096511841

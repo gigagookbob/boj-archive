@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2016",
   "level": 19,
-  "tags": [
-    "backtracking",
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "implementation"
-  ],
+  "tags": ["backtracking", "bitmask", "dp", "dp_bitfield", "implementation"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.7856999635696411

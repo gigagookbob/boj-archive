@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 283px; height: 97px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2006, corea",
   "level": 22,
-  "tags": [
-    "geometry",
-    "half_plane_intersection",
-    "rotating_calipers"
-  ],
+  "tags": ["geometry", "half_plane_intersection", "rotating_calipers"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 4.349999904632568

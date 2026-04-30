@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2015, Group D",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["bruteforcing", "constructive", "case_work"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.6363999843597412

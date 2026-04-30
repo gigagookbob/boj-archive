@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, harinboy, jh05013, surung9898, tony9402, yeo2507",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["binary_search", "lis"],
   "accepted_user_count": 21149,
   "submission_count": null,
   "average_tries": 2.339200019836426

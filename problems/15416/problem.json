@@ -15,12 +15,7 @@
   "hint": "<p>There might be more than one item at the same initial location. For example, it would be possible for two bottles, ten couriers, and the restaurant to share the same starting position.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:248px; width:312px\"/></p>\n<p style=\"text-align:center\">On this example, only one courier (C<sub>2</sub>) is used to retrieve the two bottles B<sub>1</sub> and B<sub>2</sub>, and bring them to the restaurant R by performing the moves labeled 1 to 4 in succession. The total number of kilometers is 5. This is one of the optimal solutions.</p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2017",
   "level": 22,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf",
-    "hungarian"
-  ],
+  "tags": ["graphs", "flow", "mcmf", "hungarian"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.875

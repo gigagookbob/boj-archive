@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2024/2025 예선 2",
   "level": 15,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "game_theory"
-  ],
+  "tags": ["sorting", "binary_search", "game_theory"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.299999952316284

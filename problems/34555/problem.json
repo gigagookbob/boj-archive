@@ -19,9 +19,7 @@
   "hint": "<p>예제 1, 예제 2 모두 올바른 출력입니다.</p>",
   "source": "University, 인천대학교, INU 코드페스티벌 2025, sk14cj, azberjibiou, bjs0306b, dohoon, ehe123, gwanwoopa, kwoncycle, leedongbin, swoon, tony9402",
   "level": 7,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 209,
   "submission_count": null,
   "average_tries": 1.4544999599456787

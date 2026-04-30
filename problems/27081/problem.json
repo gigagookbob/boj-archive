@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO February 2002 Contest, Green or Orange",
   "level": 14,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "dfs",
-    "backtracking"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "dfs", "backtracking"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 2.0336999893188477

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2012, Junior Croatian Olympiad in Informatics - Exam #2, baekjoon",
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2

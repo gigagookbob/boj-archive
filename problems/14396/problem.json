@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, kcm1700",
   "level": 17,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.7187999486923218

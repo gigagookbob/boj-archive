@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\">첫 번째 예제 예시</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p style=\"text-align: center;\">두번째 예제 예시</p>",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2018 고려대학교 프로그래밍 경시대회 (KCPC), Advanced Div., Lawali",
   "level": 23,
-  "tags": [
-    "arbitrary_precision",
-    "euler_characteristic",
-    "geometry"
-  ],
+  "tags": ["arbitrary_precision", "euler_characteristic", "geometry"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 6.555600166320801

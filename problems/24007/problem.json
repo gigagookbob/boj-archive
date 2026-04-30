@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, there is only one rival team. You cannot dance against them because it would make your energy fall to 0, and you cannot recruit them because it would make your honor fall below 0. Delaying does not help, so the only option is to declare a truce. You finish with 0 honor.</p>\n<p>In Sample Case #2, one optimal strategy is:</p>\n<ol>\n<li>Delay against the first rival team. They go to the back of the lineup.</li>\n<li>Dance against the second rival team. Your energy drops to 7, and your honor increases to 1.</li>\n<li>Recruit the third rival team. Your energy increases to 22, and your honor decreases to 0.</li>\n<li>Dance against the first rival team (which is now at the head of the lineup again). Your energy drops to 2, and your honor increases to 1.</li>\n</ol>\n<p>You finish with 1 point of honor.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2017, Round F",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.5455000400543213

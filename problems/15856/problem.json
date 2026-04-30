@@ -31,12 +31,7 @@
   "hint": "<p>Explanation for the 2nd sample case</p>\n<p>For the second sample, the following are all 5 sacred arrangements (the scarecrows are denoted by character '<code>*</code>'):</p>\n<pre>\n***    *.*    **.    .**    .*.</pre>\n<p>Explanation for the 3rd sample case</p>\n<p>Notice that, for the third sample, we cannot put any scarecrow in the first row. As a sacred arrangement requires at least one scarecrow in each row, thus, in this case, there is no possible sacred arrangement.</p>\n<p>Explanation for the 5th sample case</p>\n<p>For the fifth sample, the following are all 5 sacred arrangements (the scarecrows are denoted by character '<code>*</code>'):</p>\n<pre>\n*vv*    *vv*    *vv.    *vv.    .vv*\n*v*v    .v*v    .v*v    *v*v    *v*v</pre>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, ACM-ICPC Regional Contest, Jakarta 2017",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "inclusion_and_exclusion"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.1851999759674072

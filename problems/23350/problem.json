@@ -27,13 +27,7 @@
   "hint": "<p>우선순위는 같지만, 무게순으로 배치해야 하는 경우는 예시 1을 기준으로 설명한다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 677px; height: 200px;\"/><br/>\n </p>\n<p>처음 2개의 컨테이너는 무게순대로 넣는 것이 가능하다. 이 과정에서 로봇은 3(1+2)의 무게를 들어올린다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 675px; height: 200px;\"/><br/>\n </p>\n<p>하지만 다음 컨테이너는 적재된 컨테이너 상단부보다 무겁기 때문에 재배치 해야하고 결과는 아래 그림과 같다. 이 과정에서 로봇은 6(1+2+3)의 무게를 들어올린다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 670px; height: 200px;\"/><br/>\n </p>\n<p>재배치 하느라 꺼낸 컨테이너를 다시 넣을 땐, 무게순으로 넣어준다. 이 과정에서 로봇은 3(1+2)의 무게를 들어올리고 총 12의 무게를 들어올리게 된다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"height: 250px; width: 729px;\"/><br/>\n </p>\n<p>우선순위가 맞지 않는 경우에 대해선 예시 2를 기준으로 설명한다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\" style=\"width: 672px; height: 200px;\"/><br/>\n </p>\n<p>처음 2개의 컨테이너는 현재 우선순위인 1과 맞지 않기 때문에 레일의 처음으로 이동시킨다. 이 과정에서 로봇은 3(1+2)의 무게를 들어올린다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"6.png\" style=\"width: 670px; height: 200px;\"/><br/>\n </p>\n<p>이후 컨테이너 적재는 예시 1과 동일하다.</p>",
   "source": "University, 한국항공대학교, 제1회 한국항공대학교 프로그래밍 경진대회(KAUPC), minjea917, bnb2011, palilo, pjshwa, shjohw12, WeissBlume",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "stack",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "stack", "queue"],
   "accepted_user_count": 316,
   "submission_count": null,
   "average_tries": 1.88919997215271

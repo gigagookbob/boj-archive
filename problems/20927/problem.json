@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Winter Algorithm Camp Contest, 초급, lky7674, gratus907, iknoom1107, jwvg0425, tony9402",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "backtracking",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "backtracking", "disjoint_set"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 4.315800189971924

@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 29 September, 2001",
   "level": 18,
-  "tags": [
-    "math",
-    "data_structures",
-    "bruteforcing",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["math", "data_structures", "bruteforcing", "sorting", "ad_hoc"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

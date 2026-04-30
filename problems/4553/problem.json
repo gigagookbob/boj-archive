@@ -15,10 +15,7 @@
   "hint": "<p>The below diagram shows the initial state plus the four following states of the second sample input:</p>\n<pre>\n  0     1     2     3     4\n..A.. ..... ..A.. ..... ..A..\n..A.. .AAA. ..A.. .AAA. ..A..\n..A.. ..... ..A.. ..B.. ..A..\n..... ..B.. .BBB. .B.B. .B.B.\n.BBB. .BBB. .BBB. .B.B. .B.B.</pre>\n<p>Note that in turn 4 the A species takes over a cell that would have otherwise stayed as a B.</p>",
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2005 South Central USA  Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

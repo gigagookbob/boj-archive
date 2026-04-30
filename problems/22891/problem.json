@@ -15,13 +15,7 @@
   "hint": "<p>In Sample Case #1, the optimal split is: 11+2+7+3+2=5⋅5. Another split is also possible: 5+7+3+2+5=11⋅2, but it gives a lower score.</p>\n<p>In Sample Case #2, note that cards with the same number can be placed in different groups.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 1A",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.9523999691009521

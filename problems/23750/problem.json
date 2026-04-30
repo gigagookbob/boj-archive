@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Champion, University, 서강대학교, Sogang Programming Contest, 2021 Sogang Programming Contest, Open, djs100201, benedict0724, djm03178, gumgood, jh05013, jhnah917, lky7674, shiftpsh, wbcho0504",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.512500047683716

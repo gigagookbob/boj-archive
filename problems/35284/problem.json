@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2026 신촌지역 대학교 프로그래밍 동아리 연합 겨울 대회 (SUAPC 2026 Winter), kdy40929, changhw, ez_code, gs22059, ibasic, jinhan814, junwoojune, lky7674, mythofys, sorohue",
   "level": 16,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.9714000225067139

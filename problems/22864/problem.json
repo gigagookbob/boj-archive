@@ -23,13 +23,7 @@
   "hint": null,
   "source": "tony9402, luciaholic, melon940925, rhs0266",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "greedy", "arithmetic", "simulation"],
   "accepted_user_count": 3806,
   "submission_count": null,
   "average_tries": 2.1547999382019043

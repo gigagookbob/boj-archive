@@ -31,13 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "string", "bruteforcing", "arithmetic"],
   "accepted_user_count": 4271,
   "submission_count": null,
   "average_tries": 1.9697999954223633

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", School, Virginia Tech High School Programming Contest, 2019 Virginia Tech High School Programming Contest",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "backtracking"
-  ],
+  "tags": ["math", "number_theory", "backtracking"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.9474000930786133

@@ -19,10 +19,7 @@
   "hint": "<p>Explanation for Output for Sample Input 1</p>\n<p>Tudor first combines the pieces of wood with lengths 1 and 4 to form a board of length 5. Then he combines the pieces of wood with lengths 2 and 3 to form another board of length 5. Finally, he combines the boards to make a fence with length 2 and height 5.</p>\n<p>Explanation for Output for Sample Input 2</p>\n<p>Tudor can’t make a fence longer than length 1, and there are 10 ways to make a fence with length 1 by choosing any two pieces of wood to nail together. Specifically, he may have a fence of height 11, 101, 1001, 2001, 110, 1010, 2010, 1100, 2100 and 3000.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Senior Division",
   "level": 11,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.4509999752044678

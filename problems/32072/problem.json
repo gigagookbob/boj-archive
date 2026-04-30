@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2024 2차대회, 중등부, Olympiad, 한국정보올림피아드, KOI 2024 2차대회, 고등부, onjo0127",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "trees",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "trees", "priority_queue"],
   "accepted_user_count": 325,
   "submission_count": null,
   "average_tries": 1.6061999797821045

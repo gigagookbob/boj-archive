@@ -19,10 +19,7 @@
   "hint": "<p>I exempelfall $1$ uppfyller eleven alla kriterier utom ett <code>A</code>-kriterium. Eleven får därför ett <code>B</code>.</p>\n<p>I exempelfall $2$ uppfyller eleven alla <code>E</code>-kriterier men inte hälften av <code>C</code>-kriterierna. Eleven får därför ett <code>E</code>.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Online Qualification",
   "level": 2,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 1142,
   "submission_count": null,
   "average_tries": 1.886199951171875

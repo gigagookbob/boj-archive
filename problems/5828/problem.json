@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>FJ is traveling along a road starting from position 0 and ending at position D=17.  He starts with 3 units of fuel in a tank that can hold up to 10 units.  There are 4 fuel stations; the first is at position 2 and sells fuel for a price of 40 per unit, etc.</p><h4>Output Details</h4><p>FJ travels 2 units of distance and then stops to purchase 2 units of fuel (cost = 40x2); this allows him to reach the station at position 5, where he fills his tank to capacity (cost = 7x10).  When he reaches position 10, he adds two more units of fuel (cost = 12x2).  The total cost is 174.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO US Open 2013 Contest, Silver",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "stack"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.529400110244751

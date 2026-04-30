@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 11., bnb2011, azberjibiou, cologne, kiwiyou, utilforever",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["ad_hoc", "constructive", "prefix_sum", "sliding_window"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4

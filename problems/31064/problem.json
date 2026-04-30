@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2023-2024 Season, USACO 2023 December Contest, Bronze",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["math", "greedy", "case_work"],
   "accepted_user_count": 180,
   "submission_count": null,
   "average_tries": 3.2943999767303467

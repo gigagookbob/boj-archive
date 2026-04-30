@@ -23,10 +23,7 @@
   "hint": "<p>I det första exemplet kan vi välja att starta mötet vid tiden $4$, då ledamot $2$ och $3$ kan delta. Fallet skulle kunna vara med i samtliga testfallsgrupper.</p>\n<p>Exempel $2$ och $3$ skulle inte kunna förekomma i testfallsgrupp $2$ eller $3$.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Online Qualification",
   "level": 12,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2000000476837158

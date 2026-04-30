@@ -15,11 +15,7 @@
   "hint": "<p>Direct paths connects farm 2 to each of the other farms (to farm 1: 7 and 3; to farm 3: 1; to farm 4: 2). The longest path is length 3, so the round-trip time is 6.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO US Open 2007 Contest, Bronze",
   "level": 11,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 298,
   "submission_count": null,
   "average_tries": 1.6140999794006348

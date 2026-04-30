@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2015",
   "level": 7,
-  "tags": [
-    "arithmetic",
-    "greedy",
-    "math"
-  ],
+  "tags": ["arithmetic", "greedy", "math"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.4412000179290771

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025, kep1er07, 79brue, evenharder, functionx, hyperbolic, kipa00, leo020630, queued_q, realpsdoingdamyoo, seonah, woohyun_jng",
   "level": 15,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 1.5252000093460083

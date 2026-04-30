@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), Qualification, NOI 2022 Qualification",
   "level": 13,
-  "tags": [
-    "dp",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "greedy", "prefix_sum"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.6538000106811523

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ndb796, jh05013",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 1420,
   "submission_count": null,
   "average_tries": 2.226799964904785

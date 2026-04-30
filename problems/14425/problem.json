@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon, Green55, BaaaaaaaaaaarkingDog, djm03178, jaeyoon8783, qwe123rt45, solarmagic, tongnamuu, wlaud",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set", "tree_set"],
   "accepted_user_count": 33567,
   "submission_count": null,
   "average_tries": 1.813099980354309

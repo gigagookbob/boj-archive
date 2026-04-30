@@ -19,10 +19,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>If Ivan starts with the third street light, he turns off the light bulb on it – (3, 4, X, 4, 3). The left light bulb has greater power so he turns it off – (3, X, X, 4, 3). Now the right light bulb has greater power so he turns it off – (3, X, X, X, 3). Ivan has two options for the last step because light bulbs #1 and #5 are of equal power.</p>\n<p>If Ivan begins from the fifth street lamp, the only way he can turn all the light bulbs off is by moving from right to left and turning them off sequentially</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2015, Final Exam #1",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.1332999467849731

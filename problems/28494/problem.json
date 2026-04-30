@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), Qualification, NOI 2023 Qualification",
   "level": 20,
-  "tags": [
-    "greedy",
-    "lca",
-    "smaller_to_larger",
-    "trees"
-  ],
+  "tags": ["greedy", "lca", "smaller_to_larger", "trees"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.75

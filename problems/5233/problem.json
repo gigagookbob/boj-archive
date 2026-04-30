@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, University of Maryland High School Programming Contest, HSPC 2011",
   "level": 16,
-  "tags": [
-    "backtracking",
-    "bruteforcing",
-    "recursion"
-  ],
+  "tags": ["backtracking", "bruteforcing", "recursion"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

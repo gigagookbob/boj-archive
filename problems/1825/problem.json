@@ -31,11 +31,7 @@
   "hint": null,
   "source": "author5, baekjoon",
   "level": 19,
-  "tags": [
-    "implementation",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["implementation", "greedy", "constructive"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.3076999187469482

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 February Contest, Silver",
   "level": 18,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "greedy",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "greedy", "set"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.804900050163269

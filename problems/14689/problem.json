@@ -19,9 +19,7 @@
   "hint": "<p>Explanation for Output for Sample Input 1</p>\n<p>The subway system is illustrated below, with the stations numbered from 1 to 5 and the lines connecting stations marked as either being line 1 or line 2:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:175px; width:489px\"/></p>\n<p>Initially, the number of passengers at each station is {1, 2, 3, 4, 5}.</p>\n<p>The answer to the first survey is 1 + 2 + 3 + 4 + 5 = 15.</p>\n<p>After line 1 is operated, the number of passengers at each station is {3, 2, 1, 4, 5}.</p>\n<p>The answer to the second survey is 1 + 4 + 5 = 10.</p>\n<p>After line 2 is operated, the number of passengers at each station is {3, 5, 1, 2, 4}.</p>\n<p>The answer to the third survey is 3 + 5 + 1 = 9.</p>\n<p>Explanation for Output for Sample Input 2</p>\n<p>The subway system is illustrated below, with the stations numbered from 1 to 3 and the lines connecting stations marked as all being line 1:</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:108px; width:280px\"/></p>\n<p>Just before the first survey, the number of passengers at each station is {114, 101, 109}.</p>\n<p>Just before the second survey, the number of passengers at each station is {109, 114, 101}.</p>\n<p>Just before the third survey, the number of passengers at each station is {101, 109, 114}.</p>\n<p>Just before the fourth survey, the number of passengers at each station is {114, 101, 109}.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Senior Division, ainch96",
   "level": 22,
-  "tags": [
-    "sqrt_decomposition"
-  ],
+  "tags": ["sqrt_decomposition"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.680000066757202

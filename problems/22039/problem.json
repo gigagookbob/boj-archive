@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2021",
   "level": 21,
-  "tags": [
-    "berlekamp_massey"
-  ],
+  "tags": ["berlekamp_massey"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.5

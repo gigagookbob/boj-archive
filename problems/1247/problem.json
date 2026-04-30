@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5, ZZangZZang, ntopia, joonas, pichulia",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 7736,
   "submission_count": null,
   "average_tries": 2.5817999839782715

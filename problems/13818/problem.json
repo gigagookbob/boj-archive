@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest 2008",
   "level": 12,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "euler_phi"
-  ],
+  "tags": ["math", "implementation", "number_theory", "euler_phi"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.294100046157837

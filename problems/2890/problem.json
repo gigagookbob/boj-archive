@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #6, baekjoon, adh0463, ganghe74, hihihi",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 1481,
   "submission_count": null,
   "average_tries": 1.6962000131607056

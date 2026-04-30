@@ -15,12 +15,7 @@
   "hint": "<p>Be sure to read Notes to Teams, which has general formatting guidelines that pertain to all problem input files, including this one. Also note:</p>\n<ul>\n<li>A document will contain at most 100 markers, with at most 20 primary entries.</li>\n<li>A primary entry will have at most 5 secondary entries.</li>\n<li>An entry will have at most 10 unique page references (not including duplicates).</li>\n<li>The character '&amp;' will not appear anywhere within a marker, and will appear at most 500 times within a document.</li>\n<li>The character '*' is used only to signal the end of a document or the end of the input.</li>\n<li>The characters '{', '}', '%', and '\\$' will only be used to define markers, and will not appear in any text or entries.</li>\n<li>A marker may span one or more lines. Every end-of-line within a marker must be converted to a single space.</li>\n<li>A space within a marker (including a converted end-of-line) is normally included in the text/entry, just like any other character. However, any space that immediately follows '{', immediately precedes '}', or is immediately adjacent to '%' or '\\$' must be ignored.</li>\n<li>The total length of a marker, measured from the opening '{' to the closing '}', and in which all embedded end-of-lines are converted to spaces, will be at most 79 characters.</li>\n</ul>",
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2001 Mid-Central Regional Programming Contest",
   "level": 16,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "sorting", "parsing"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

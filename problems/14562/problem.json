@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, CodeRace 2017, byeop24, happiness96, wjdtmdrbs88",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 956,
   "submission_count": null,
   "average_tries": 1.9895000457763672

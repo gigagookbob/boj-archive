@@ -15,9 +15,7 @@
   "hint": "<p>The first line contains points (-5; -5; -5), (1; 1; 1), (2; 2; 2), and (3; 3; 3), and the second line contains points (1; 0; -1), (2; 2; 2), (3; 4; 5).</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2007",
   "level": 17,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

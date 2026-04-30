@@ -15,11 +15,7 @@
   "hint": "<p>Note: at the beginning of the contest, Geralt has 100 energy units and 0 blood toxicity level. Also, Geralt may choose not to drink any potion when he defeats a monster, even though he still has some left in his inventory. Once he has no potion, he needs to rely solely on the rest of his energy</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2016 ACM-ICPC Asia-Bangkok Regional Contest",
   "level": 16,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.416700005531311

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2012",
   "level": 24,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "dijkstra",
-    "slope_trick"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "dijkstra", "slope_trick"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.7142999172210693

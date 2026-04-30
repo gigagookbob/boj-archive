@@ -19,11 +19,7 @@
   "hint": null,
   "source": "baekjoon, sungjune222, jh05013",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "deque"],
   "accepted_user_count": 48376,
   "submission_count": null,
   "average_tries": 1.7706999778747559

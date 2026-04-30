@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2012 Mid-Atlantic Regional Programming Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "arithmetic",
-    "geometry_3d"
-  ],
+  "tags": ["math", "implementation", "geometry", "arithmetic", "geometry_3d"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 1.1200000047683716

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2022 성균관대학교 프로그래밍 경진대회, st42597, 79brue, cs71107, hibye1217, jh05013, jhnah917, tony9402",
   "level": 14,
-  "tags": [
-    "math",
-    "binary_search",
-    "prefix_sum",
-    "probability"
-  ],
+  "tags": ["math", "binary_search", "prefix_sum", "probability"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 2.518899917602539

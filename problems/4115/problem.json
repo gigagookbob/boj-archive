@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2008 Mid-Atlantic Regional Programming Contest, ICPC, Regionals, North America, Southeast USA Regional, 2008 Southeast USA Regional Programming Contest, ICPC, Regionals, North America, Rocky Mountain Regional, 2008 Rocky Mountain Regional Contest",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.7273000478744507

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 08., pjshwa, chogahui05, cologne, heeda0528, kiwiyou, lky7674, tony9402, utilforever",
   "level": 10,
-  "tags": [
-    "math",
-    "string",
-    "combinatorics"
-  ],
+  "tags": ["math", "string", "combinatorics"],
   "accepted_user_count": 279,
   "submission_count": null,
   "average_tries": 1.5125000476837158

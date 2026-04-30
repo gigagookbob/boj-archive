@@ -23,12 +23,7 @@
   "hint": "<p><strong>Clarification of the first test case:</strong></p>\n<p>In the first step, Krešo will deliver the peppers to restaurant 1.</p>\n<p>In the second step, Krešo will travel to restaurant 3.</p>\n<p>In the third step, Krešo will deliver the peppers to restaurant 3.</p>\n<p>He is left with 2 units of time, in which he can drive to restaurant 2, but he lacks one unit of time to deliver the peppers to that restaurant.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #7",
   "level": 19,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "knapsack",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "knapsack", "trees"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.357100009918213

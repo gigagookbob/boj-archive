@@ -19,12 +19,7 @@
   "hint": "<p>In the game of Nim, there are several heaps of stones. On each turn, the player selects any heap and takes some positive number of stones from it. The player who takes the last stone wins the game.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 4: Yandex Cup",
   "level": 27,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "xor_basis",
-    "matroid"
-  ],
+  "tags": ["math", "linear_algebra", "xor_basis", "matroid"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3.1621999740600586

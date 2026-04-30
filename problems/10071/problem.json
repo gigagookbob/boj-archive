@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2014, Day 1",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "greedy",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "greedy", "disjoint_set"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 3

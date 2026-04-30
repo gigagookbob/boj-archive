@@ -23,14 +23,7 @@
   "hint": null,
   "source": "University, 경희대학교, 경희대학교 2025 봄 프로그래밍 경시대회 (KHSPC 2025), iygav1238, nflight11, overnap, tlsdydaud1, tony9402, yyyy7089",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "greedy", "graph_traversal", "trees", "dp_tree"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.6666998863220215

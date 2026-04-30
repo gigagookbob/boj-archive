@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 예시 입력에서 1번 갱의 1번 영역 (1, 1) ∼ (4, 5)를 지우고, 2번 갱의 3번 영역 (90, 95) ∼ (105, 110)을 지우면, 1번 갱과 2번 갱의 영역이 서로 겹치지 않아 가능하다.</p>\n<p>두 번째 예시 입력은 1번 갱의 영역과 2번 갱의 영역을 어떻게 지워도 항상 겹치는 영역이 하나 이상 존재해서 불가능하다.</p>",
   "source": "University, POSTECH, PPC 2018, jhs7jhs",
   "level": 21,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "author6, h0ngjun7, cheetose",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "priority_queue"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "sweeping", "priority_queue"],
   "accepted_user_count": 200,
   "submission_count": null,
   "average_tries": 3.7750000953674316

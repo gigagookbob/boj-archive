@@ -15,10 +15,7 @@
   "hint": "<p>После сокращения дробей, являющихся всеми возможными значениями мощности взрыва, Рико получает следующий набор значений: $\\frac{1}{1}$, $\\frac{2}{1}$, $\\frac{3}{1}$, $\\frac{4}{1}$, $\\frac{1}{2}$, $\\frac{3}{2}$, $\\frac{1}{4}$, $\\frac{3}{4}$, $\\frac{1}{8}$, $\\frac{3}{8}$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, March 17, 2014",
   "level": 6,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.7894999980926514

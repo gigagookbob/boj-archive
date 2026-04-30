@@ -15,12 +15,7 @@
   "hint": "<p>만일 닌자 1을 매니저로 선택하고, 닌자 3과 4를 배치하면, 월급의 총 액수는 4이고 이 액수는 예산 4를 초과하지 않는다. 배치된 닌자의 수가 2명이므로, 매니저의 리더십 레벨은 3이고, 고객의 만족도는 6이 된다. 이 값은 최대 값이다.</p>",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2012, rdd6584",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "priority_queue",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "trees", "priority_queue", "smaller_to_larger"],
   "accepted_user_count": 384,
   "submission_count": null,
   "average_tries": 2.9010000228881836

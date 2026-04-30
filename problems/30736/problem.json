@@ -19,9 +19,7 @@
   "hint": "<p>Во втором примере одним из оптимальных решений будет остановить барабан в самом начале. Тогда выигрышная вершина окажется одной из нижних для треугольников на первом и третьем слое.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2017-18",
   "level": 0,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 5

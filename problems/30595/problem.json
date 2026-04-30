@@ -15,11 +15,7 @@
   "hint": "<p>В примере второе поселение будет заражено в нулевой день, так как лежит на границе заражения.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Qualification",
   "level": 18,
-  "tags": [
-    "geometry",
-    "implementation",
-    "math"
-  ],
+  "tags": ["geometry", "implementation", "math"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

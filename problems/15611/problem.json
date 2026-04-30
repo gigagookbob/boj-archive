@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2017 연습 세션, ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2020 연습 세션, jh05013",
   "level": 19,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.7222000360488892

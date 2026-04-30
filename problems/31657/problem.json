@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2023, Division 1, University, University of Alberta Programming Contest, UAPC 2023, Division 2",
   "level": 13,
-  "tags": [
-    "case_work",
-    "dp",
-    "greedy",
-    "knapsack"
-  ],
+  "tags": ["case_work", "dp", "greedy", "knapsack"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

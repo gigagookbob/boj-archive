@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 1, gggkik, edwardblue, fs_edge, jms020820, tlsdydaud1",
   "level": 20,
-  "tags": [
-    "implementation",
-    "graphs",
-    "greedy",
-    "functional_graph"
-  ],
+  "tags": ["implementation", "graphs", "greedy", "functional_graph"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.25

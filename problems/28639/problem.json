@@ -19,9 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 169px; height: 106px;\"/></p>\n<p style=\"text-align: center;\">(a) В первом примере провода располагаются следующим образом</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 167px; height: 166px;\"/></p>\n<p style=\"text-align: center;\">(b) Во втором примере провода располагаются следующим образом</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, October 25, 2020, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, October 25, 2020, Advanced",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2024",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "smaller_to_larger"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "smaller_to_larger"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.7446999549865723

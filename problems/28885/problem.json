@@ -19,9 +19,7 @@
   "hint": "<p>В первом тесте исходная последовательность это последовательность $1$ $2$ $3$, в которой ко всем числам прибавили $1$.</p>\n<p>Во втором тесте ни на каком месте не могла стоять $1$, поэтому ответ на второй тест --- <code>NO</code>.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, November 26, 2017, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, November 26, 2017, Advanced",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.5651999711990356

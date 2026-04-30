@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2011, djm03178",
   "level": 19,
-  "tags": [
-    "trees",
-    "lca"
-  ],
+  "tags": ["trees", "lca"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.588200092315674

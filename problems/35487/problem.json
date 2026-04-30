@@ -23,13 +23,7 @@
   "hint": "<p>The length of a pattern is defined as the number of digits it contains. For example, <code spellcheck=\"false\">\"12\"</code> has length $2$, and <code spellcheck=\"false\">\"1171\"</code> has length $4$.</p>",
   "source": "University, 서강대학교, CSE4152 문제해결프로그래밍실습, 2025-2학기 기말고사 코딩 테스트, hulahula3247, tmdgud0617, yunny_world",
   "level": 18,
-  "tags": [
-    "greedy",
-    "string",
-    "binary_search",
-    "parametric_search",
-    "kmp"
-  ],
+  "tags": ["greedy", "string", "binary_search", "parametric_search", "kmp"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

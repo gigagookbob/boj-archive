@@ -15,11 +15,7 @@
   "hint": "<p>In Case #1, the hikers all happen to be moving at the same speed, and one way for Herbert to avoid encountering any of them is to move exactly as fast as they do.<br/>\n<br/>\nIn Case #2, the second hiker is moving much faster than the first, and if Herbert goes slowly enough to avoid overtaking the first hiker, he will have multiple encounters with the speedy second hiker. One optimal strategy for Herbert is to go exactly as fast as the second hiker, encountering the first hiker once and never encountering the second hiker at all.<br/>\n<br/>\nIn Case #3, the two hikers start in the same place, but one is twice as fast as the other. One optimal strategy is for Herbert to immediately catch up to the slower hiker without overtaking him, follow just behind him until he passes the deer's starting position, and then finish quickly before the faster hiker can catch Herbert.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 1B",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "ad_hoc", "priority_queue"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.7647000551223755

@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2024 1차대회, 중등부, Olympiad, 한국정보올림피아드, KOI 2024 1차대회, 고등부, chansol, tncks0121",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 296,
   "submission_count": null,
   "average_tries": 1.8818000555038452

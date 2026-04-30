@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 1998",
   "level": 0,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "constructive",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "constructive", "hash_set"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

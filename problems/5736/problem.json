@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2007",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "dp", "prefix_sum"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.8333001136779785

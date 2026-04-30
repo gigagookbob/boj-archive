@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2006 Mid-Central Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "math",
-    "probability",
-    "simulation"
-  ],
+  "tags": ["implementation", "math", "probability", "simulation"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.149999976158142

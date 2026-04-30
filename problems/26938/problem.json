@@ -15,11 +15,7 @@
   "hint": "<p>Efter $149$ dagar är kostnaden med glödlampor $71.32840$ kronor (varav inköpskostnad $10$ kronor; man måste byta glödlampa en gång) och med lågenergilampa $71.24354$ kronor (varav inköpskostnad $60$ kronor).</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2009, Qualification",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.5246000289916992

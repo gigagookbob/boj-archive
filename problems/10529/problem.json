@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2014",
   "level": 12,
-  "tags": [
-    "math",
-    "string",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["math", "string", "bruteforcing", "backtracking"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.3595999479293823

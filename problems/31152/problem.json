@@ -23,11 +23,7 @@
   "hint": "<p>In all three examples, the issue is that $13 &gt; 10$, so we have to change at least one of them.</p>\n<p>In the first one, we can decrease $13$ by replacing it with $5$, but it breaks the other side, so there is no solution.</p>\n<p>In the second one, we also have $4$, which we can use to fix the broken side. It is impossible to do with less than $2$ operations.</p>\n<p>In the third example we can finally increase the last element, thus fixing $A$ in 1 operation.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe, ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2021",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.833299994468689

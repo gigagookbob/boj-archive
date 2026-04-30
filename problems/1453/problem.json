@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, typhoon, tncks0121",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 8986,
   "submission_count": null,
   "average_tries": 1.6079000234603882

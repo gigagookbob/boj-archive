@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2016 KAIST 6th ACM-ICPC Mock Competition, mighty93",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 1.9261000156402588

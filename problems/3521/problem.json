@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2010",
   "level": 12,
-  "tags": [
-    "geometry",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "ternary_search"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1764999628067017

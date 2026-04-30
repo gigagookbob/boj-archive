@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2022 KAIST RUN Spring Contest, retro3014, gs18115, ho94949, sjimed",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "dp",
-    "sorting"
-  ],
+  "tags": ["binary_search", "dp", "sorting"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 4.382400035858154

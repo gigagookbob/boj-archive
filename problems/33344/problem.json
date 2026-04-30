@@ -15,11 +15,7 @@
   "hint": "<p>Linear interpolation is a method of estimating values within an interval, based on known values at the endpoints. In the context of color interpolation, it means that the color components $(r, g, b)$ are calculated as a weighted average of the corresponding components of the left and right colors, with the weights determined by the relative distance of the point from the left endpoint and the right endpoint. This creates a smooth transition of colors along the line.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 2: Nyatl Contest 2023",
   "level": 11,
-  "tags": [
-    "math",
-    "geometry",
-    "calculus"
-  ],
+  "tags": ["math", "geometry", "calculus"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2

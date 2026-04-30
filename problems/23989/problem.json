@@ -15,10 +15,7 @@
   "hint": "<p>The pictures below illustrate the grids from the three sample cases and a valid square in the third sample case.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\"/></p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2017, Round A",
   "level": 12,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.4230999946594238

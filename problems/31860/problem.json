@@ -15,12 +15,7 @@
   "hint": "<p>$\\lfloor \\ \\rfloor$는 바닥함수로, $\\lfloor x \\rfloor$ 는 $x$ 이하의 정수 중 가장 큰 정수를 뜻한다.</p>",
   "source": "University, 숙명여자대학교, 제4회 숙명여자대학교 프로그래밍 경진대회 (SMUPC), 0yeonjae2, 2093ab, lky7674, pjshwa, shjohw12, sk091204091204, songfox00, swoon, tony9402",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "priority_queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "priority_queue"],
   "accepted_user_count": 517,
   "submission_count": null,
   "average_tries": 1.8626999855041504

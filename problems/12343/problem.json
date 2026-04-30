@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Qualification Round",
   "level": 23,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "greedy"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.8889000415802002

@@ -19,11 +19,7 @@
   "hint": "<p>Граф из второго примера изображен на картинке:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, October 20, 2018, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, October 20, 2018, Advanced",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

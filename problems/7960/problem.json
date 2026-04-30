@@ -15,10 +15,7 @@
   "hint": "<p>In the foregoing example piggy banks 1 and 4 have to be smashed.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2004/2005, Stage 1",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.59089994430542

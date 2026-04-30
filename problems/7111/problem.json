@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 10th Latvian olympiad in informatics, Stage III (Country), jinsoolve",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.2221999168395996

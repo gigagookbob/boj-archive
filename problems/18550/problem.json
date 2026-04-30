@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 8: Petrozavodsk SU Contest",
   "level": 18,
-  "tags": [
-    "arithmetic",
-    "binary_search",
-    "math"
-  ],
+  "tags": ["arithmetic", "binary_search", "math"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.4615000486373901

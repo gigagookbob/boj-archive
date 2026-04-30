@@ -15,13 +15,7 @@
   "hint": "<p>The solution is visualized in the picture below.</p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:241px; width:258px\"/></p>\n<p>Here two dendrites of node 2 are connected to the same input E. Node 3 is connected to two ﬁrst layer nodes 1 and 2 and to constant zero. The zero connection is negated. Input F is not connected to any node.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2012",
   "level": 23,
-  "tags": [
-    "bitmask",
-    "bruteforcing",
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["bitmask", "bruteforcing", "implementation", "parsing", "string"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 17

@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2015 Greater New York Programming Contest",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "geometry"
-  ],
+  "tags": ["binary_search", "geometry"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5455000400543213

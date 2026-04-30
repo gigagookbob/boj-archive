@@ -15,11 +15,7 @@
   "hint": "<p>1, 2, 4번 친구의 선물을 구매하고, 3번 친구의 선물을 쿠폰을 써서 구매하면 된다. (4+2)+(2+0)+(4+1)+(6+3) = 22 이기 때문에, B원으로 모두 구매하고 배송보낼 수 있다. 또, 1번이나 4번 친구에게 쿠폰을 써도 된다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO January 2012 Contest, Bronze, baekjoon, doju, qnfkdbs0222, shnoh, tjrwodnjs999",
   "level": 8,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting"],
   "accepted_user_count": 445,
   "submission_count": null,
   "average_tries": 3.7011001110076904

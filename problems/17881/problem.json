@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2019 Rocky Mountain Regional Contest",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["bruteforcing", "geometry", "line_intersection"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.6122000217437744

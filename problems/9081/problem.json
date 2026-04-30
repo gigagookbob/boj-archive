@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2003, jh05013",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "combinatorics"
-  ],
+  "tags": ["math", "implementation", "string", "combinatorics"],
   "accepted_user_count": 1668,
   "submission_count": null,
   "average_tries": 2.1684999465942383

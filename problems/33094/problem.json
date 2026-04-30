@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2023, ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2024 연습 세션",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "sorting"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "sorting"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.9660999774932861

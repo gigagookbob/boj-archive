@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2020!, wookje, ahgus89, cgiosy, cheetose, cs71107, evenharder, gravekper, jhnah917, junseo, kdh9949, koosaga, rdd6584, ryute",
   "level": 4,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 1934,
   "submission_count": null,
   "average_tries": 1.4213999509811401

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, Croatian Olympiad in Informatics 2008",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "greedy"
-  ],
+  "tags": ["binary_search", "greedy"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.642899990081787

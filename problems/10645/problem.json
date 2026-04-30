@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example: Mirko begins his ride at point (1, 2) and moves towards the mushroom located at (4, 5).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #5",
   "level": 9,
-  "tags": [
-    "geometry",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["geometry", "implementation", "sorting"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.25

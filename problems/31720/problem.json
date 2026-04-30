@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, UNIST-DGIST-POSTECH, 2024 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2024 UDPC), Junior Division, University, UNIST-DGIST-POSTECH, 2024 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2024 UDPC), Open Contest, queued_q, 99asdfg, hyperbolic, leo020630, lky7674, mjhmjh1104, nick832, slah007, tony9402, utilforever",
   "level": 13,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.8039000034332275

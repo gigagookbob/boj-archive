@@ -23,11 +23,7 @@
   "hint": "<p>BBVVBVVVBB har längd 10 så Alice måste dela halsbandet i två delar med 5 godisar i varje. De möjliga delarna hon kan få är BBVVB, BVVBV, VVBVV, VBVVV, BVVVB, VVVBB, VVBBB, VBBBB, BBBBV, BBBVV. Hon får mest blåa godisar genom att välja VBBBB eller BBBBV som har $4$ blåa godisar.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 231px; height: 164px;\"/></p>\n<p style=\"text-align: center;\">Figure 1. Ett av två optimala sätt att klippa i exempelfall 1</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2020, Online Qualification",
   "level": 7,
-  "tags": [
-    "prefix_sum",
-    "two_pointer",
-    "sliding_window"
-  ],
+  "tags": ["prefix_sum", "two_pointer", "sliding_window"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.537500023841858

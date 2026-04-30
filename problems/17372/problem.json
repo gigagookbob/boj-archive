@@ -27,13 +27,7 @@
   "hint": null,
   "source": "sait2000",
   "level": 24,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "prefix_sum",
-    "euler_phi"
-  ],
+  "tags": ["math", "dp", "number_theory", "prefix_sum", "euler_phi"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 2.4532999992370605

@@ -15,12 +15,7 @@
   "hint": "<p>In this example, here is one possible solution, which involves the optimal number of cows (7):</p>\n<pre>\n..........\n..........\n..........\n..B.......\n..C.......\n..CC.R....\n...CCC....\n.....C....\n.....L....\n..........\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 US Open Contest, Bronze, jh05013",
   "level": 7,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "case_work"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "case_work"],
   "accepted_user_count": 718,
   "submission_count": null,
   "average_tries": 2.0641000270843506

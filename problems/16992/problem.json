@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, august14",
   "level": 0,
-  "tags": [
-    "heuristics",
-    "simulated_annealing"
-  ],
+  "tags": ["heuristics", "simulated_annealing"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 23.209699630737305

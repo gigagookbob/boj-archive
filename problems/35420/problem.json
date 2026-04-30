@@ -19,12 +19,7 @@
   "hint": "<p>$n!$은 $1$부터 $n$까지의 모든 정수를 곱한 값이다.</p>\n<div class=\"mt-wrapper\">\n<h2 class=\"mt-title\">Factorial Attack</h2>\n<div class=\"mt-panel\">\n<h3>필드 설정</h3>\n<div class=\"mt-input-group\"><label for=\"mt-input-n\">몬스터 수 (N):</label> <input class=\"mt-input-text mt-short\" id=\"mt-input-n\" max=\"500\" min=\"1\" type=\"number\" value=\"5\"/></div>\n<div class=\"mt-input-group\"><label for=\"mt-input-hp\">체력 배열 (공백 구분):</label> <input class=\"mt-input-text mt-long\" id=\"mt-input-hp\" type=\"text\" value=\"10 20 30 40 50\"/><button class=\"mt-btn\" id=\"mt-btn-load\">필드 생성</button></div>\n</div>\n<div class=\"mt-stats\">\n<div>시전 횟수: <span id=\"mt-attack-count\" style=\"color:#ef4444;\">0</span>회</div>\n<div>생존 몬스터: <span id=\"mt-alive-count\">0</span> / <span id=\"mt-total-count\">0</span>마리</div>\n</div>\n<div class=\"mt-arena\" id=\"mt-arena\"> </div>\n<div class=\"mt-bottom-controls\">\n<div id=\"mt-preview-damage\" style=\"font-size: 1.1em; color: #ef4444; font-weight: bold; min-height: 1.5em;\">대상을 드래그하여 선택해주세요.</div>\n<button class=\"mt-btn mt-btn-attack\" disabled=\"disabled\" id=\"mt-btn-execute\">Attack!</button></div>\n</div>",
   "source": "School, 한국디지털미디어고등학교, 제4회 디미고 프로그래밍 챌린지, k_san, 99asdfg, hibye1217, ibasic, utilforever, woohyun_jng",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "case_work", "bitmask", "backtracking"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.4375

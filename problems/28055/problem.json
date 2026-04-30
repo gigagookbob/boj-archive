@@ -19,14 +19,7 @@
   "hint": "<p>Vertex $x$ is an ancestor of vertex $y$ $(x \\neq y)$ if there is a sequence of vertices $\\{x=a_1, a_2, \\ldots a_k=y\\}$ where $a_i$ is a parent of $a_{i+1}$ ($1 \\leq i \\leq k-1$).</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2023 KAIST RUN Spring Contest, azberjibiou, cs71107, kdh9949, mhy908, sean9892, sjimed, songc",
   "level": 14,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy",
-    "sorting",
-    "trees"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "greedy", "sorting", "trees"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.4348000288009644

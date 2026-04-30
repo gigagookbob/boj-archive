@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 7: Grand Prix of Xiaomi",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "divide_and_conquer"
-  ],
+  "tags": ["data_structures", "divide_and_conquer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.4443999528884888

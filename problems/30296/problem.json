@@ -35,13 +35,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2023 KAIST 13th ICPC Mock Competition, Camp, Petrozavodsk Programming Camp, Summer 2024, Day 2: K-ontest, azberjibiou, jhwest2, kyo20111, ncy09, whqkrkt04",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "hld",
-    "lazyprop",
-    "segtree",
-    "trees"
-  ],
+  "tags": ["data_structures", "hld", "lazyprop", "segtree", "trees"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5999999046325684

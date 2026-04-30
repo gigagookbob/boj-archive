@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 7: Grand Prix of Siberia",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "constructive",
-    "divide_and_conquer"
-  ],
+  "tags": ["data_structures", "segtree", "constructive", "divide_and_conquer"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 2.487600088119507

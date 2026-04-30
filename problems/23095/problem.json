@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2020",
   "level": 16,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.9744000434875488

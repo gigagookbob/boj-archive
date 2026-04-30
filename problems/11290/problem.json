@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Irish Collegiate Programming Contest, IrICPC 2015",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 1.620300054550171

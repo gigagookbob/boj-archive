@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 블롭컵, 제1회 블롭컵, gunwookim, amsminn, chansol, flappybird, jjang36524, lighton, mjhmjh1104, tlsdydaud1",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree",
-    "articulation"
-  ],
+  "tags": ["dp", "graphs", "trees", "dp_tree", "articulation"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.5332999229431152

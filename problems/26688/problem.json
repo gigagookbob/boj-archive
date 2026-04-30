@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Bajtek może zabrać do Bitka 8 różnych podzbiorów opakowań: {5}, {1, 5}, {1, 3, 5}, {1, 4, 5}, {1, 3, 4, 5}, {1, 2, 3, 5}, {1, 2, 4, 5} i {1, 2, 3, 4, 5}. Gdy zdecyduje się np. zabrać pierwsze, drugie, czwarte i piąte opakowanie, a Bitek zażyczy sobie 9 cukierków, to może wręczyć mu jedynie pierwsze i drugie opakowanie. Bajtek nie może się zdecydować np. na zabranie tylko pierwszego, drugiego i piątego opakowania, gdyż Bitek mógłby zażyczyć sobie np. 6 cukierków, przez co Bajtek byłby bezradny.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "sorting"
-  ],
+  "tags": ["math", "dp", "sorting"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

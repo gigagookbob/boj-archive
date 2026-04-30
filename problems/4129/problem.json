@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 16 September, 2012",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "tree_set", "set"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3478000164031982

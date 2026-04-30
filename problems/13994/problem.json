@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2016",
   "level": 15,
-  "tags": [
-    "dp",
-    "math",
-    "prefix_sum",
-    "probability"
-  ],
+  "tags": ["dp", "math", "prefix_sum", "probability"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.3260999917984009

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2007, National Competition #2 - Seniors, baekjoon",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "backtracking",
-    "mitm"
-  ],
+  "tags": ["bitmask", "backtracking", "mitm"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.3333001136779785

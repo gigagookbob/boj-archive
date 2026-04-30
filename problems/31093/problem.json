@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2023!, kdh9949, ahgus89, cgiosy, cs71107, jhnah917, jhwest2, junseo, kyo20111, wapas",
   "level": 16,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.3604999780654907

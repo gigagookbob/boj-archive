@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제2회 코드 챔피언십 Division 2, azberjibiou",
   "level": 15,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 3.436800003051758

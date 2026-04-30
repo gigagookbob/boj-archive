@@ -23,11 +23,7 @@
   "hint": "<p>월간 향유회는 <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSfQbcT0wAMauRmEJP9hMXBQBUhAWC9Ap7CE5QyBm3RkF7-A1Q/viewform\">Call For Tasks</a>를 받고 있습니다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 08., pjshwa, chogahui05, cologne, lky7674, tony9402, utilforever",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 687,
   "submission_count": null,
   "average_tries": 1.3595000505447388

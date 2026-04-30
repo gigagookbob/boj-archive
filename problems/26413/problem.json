@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Camp, Moscow Pre-Finals ACM ICPC Workshop, Moscow Pre-Finals ACM ICPC Workshop 2018",
   "level": 19,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.363600015640259

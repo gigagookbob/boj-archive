@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 제1회 구데기컵, jh05013, baekjoon",
   "level": 0,
-  "tags": [
-    "binary_search",
-    "bruteforcing"
-  ],
+  "tags": ["binary_search", "bruteforcing"],
   "accepted_user_count": 6932,
   "submission_count": null,
   "average_tries": 8.806699752807617

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Google Code Jam Korea 2012, Code Jam Korea 2012 본선 라운드",
   "level": 17,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 4.260900020599365

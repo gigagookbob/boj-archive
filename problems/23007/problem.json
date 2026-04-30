@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, the palindromes are <code>[\"aa\", \"bb\"]</code>.</p>\n<p>In Sample Case #2, the palindromes are <code>[\"aaaaa\", \"aabaa\", \"aacaa\", \"aadaa\", \"aaeaa\", \"ababa\", \"abbba\", \"abcba\"]</code>.</p>\n<p>In Sample Case #3, the palindromes are <code>[\"a\", \"b\", \"c\"]</code>.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round C",
   "level": 13,
-  "tags": [
-    "math",
-    "string",
-    "combinatorics"
-  ],
+  "tags": ["math", "string", "combinatorics"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.6828999519348145

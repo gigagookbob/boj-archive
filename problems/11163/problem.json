@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2013",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "precomputation"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "precomputation"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.649999976158142

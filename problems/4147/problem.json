@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 24 September, 2011",
   "level": 16,
-  "tags": [
-    "constructive",
-    "gaussian_elimination",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["constructive", "gaussian_elimination", "linear_algebra", "math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

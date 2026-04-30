@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>The pattern in the input shows a cow hide with three distinct spots.</p>\n<h4>Output Details</h4>\n<p>Four 'X's suffice to join the three spots into one.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO November 2011 Contest, Silver",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 2.4000000953674316

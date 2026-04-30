@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, grace0068",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 215051,
   "submission_count": null,
   "average_tries": 1.6121000051498413

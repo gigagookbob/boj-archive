@@ -15,12 +15,7 @@
   "hint": "<p>In the first sample case $g = 2$. The example queries are listed above, using results of these queries player may understand that in the first game the answer is $10$, and in the second game the answer is $1$.</p>\n<p>Strictly follow the output format. After printing anything make sure to print a new line and to flush the output buffer, in order to do that you may use <code>flush(output)</code> for Pascal/Delphi, <code>fflush(stdout)</code> or <code>cout.flush()</code> for C/C++, <code>sys.stdout.flush()</code> for Python, <code>System.out.flush()</code> for Java.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2016-17, Day 2",
   "level": 19,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "parametric_search"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "parametric_search"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4

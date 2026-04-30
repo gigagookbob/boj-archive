@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제2회 kriiICPC, august14",
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "geometry_hyper"
-  ],
+  "tags": ["ad_hoc", "geometry", "geometry_hyper"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.6753000020980835

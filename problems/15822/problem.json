@@ -23,9 +23,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 1, mitslll, portableangel",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 175,
   "submission_count": null,
   "average_tries": 1.4743000268936157

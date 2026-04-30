@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2014 Pacific Northwest Region Programming Contest, Division 2, ICPC, Regionals, North America, Southeast USA Regional, 2014 Southeast USA Regional Programming Contest, Division 2",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.399999976158142

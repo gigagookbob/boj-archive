@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 2, Acka, portableangel, jh05013",
   "level": 12,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 821,
   "submission_count": null,
   "average_tries": 2.493299961090088

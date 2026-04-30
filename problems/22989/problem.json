@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2021 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2021 Summer), ho94949, amsminn, pichulia, seastar105, shiftpsh, tae826, wjdclgns12",
   "level": 20,
-  "tags": [
-    "implementation",
-    "parametric_search",
-    "recursion"
-  ],
+  "tags": ["implementation", "parametric_search", "recursion"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3478000164031982

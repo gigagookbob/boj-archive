@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 꼬마컵, 꼬마컵, zlzmsrhak",
   "level": 24,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "hashing"
-  ],
+  "tags": ["math", "number_theory", "constructive", "hashing"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 2.0659000873565674

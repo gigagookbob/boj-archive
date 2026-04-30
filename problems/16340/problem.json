@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2018",
   "level": 18,
-  "tags": [
-    "dp",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "game_theory", "sprague_grundy"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.7312999963760376

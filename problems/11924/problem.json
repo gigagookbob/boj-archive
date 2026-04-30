@@ -19,13 +19,7 @@
   "hint": "<p>Clarification of the first example: Mirka will play the following keys, respectively: <strong>1</strong>, 3, 0, <strong>3</strong>, <strong>1</strong>. Denoted in bold are the keys that she played correctly.</p>\n<p>Clarification of the second example: Mirka will play the following keys, respectively: <strong>2</strong>, -2, <strong>-6</strong>, <strong>-2</strong>, 2, <strong>6</strong>, <strong>10</strong>.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #6, Green55",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "math",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["ad_hoc", "data_structures", "math", "tree_set", "set"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.390199899673462

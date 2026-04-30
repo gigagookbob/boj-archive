@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, leejseonal ddforces (ryuted for div.1), leejseonal ddforces (ryuted for div.1), rdd6584",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "binary_search", "sparse_table"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.09089994430542

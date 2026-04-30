@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 February Contest, Gold",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "binary_search",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "binary_search", "stack"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 2.0404000282287598

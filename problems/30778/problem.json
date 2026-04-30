@@ -23,11 +23,7 @@
   "hint": "<p>В первом тесте существует единственная клетка в которой змейки могут встретиться через один ход — клетка с координатами (5, 6).</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Qualification 2014-15",
   "level": 6,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "geometry", "arithmetic"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.270300030708313

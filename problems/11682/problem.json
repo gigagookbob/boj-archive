@@ -15,12 +15,7 @@
   "hint": "<p>Farmer John has a 5×4 field. Moving between adjacent patches at a different level requires €1000 in fuel, while changing the height of a patch costs €2000.</p>\n<p>Farmer John needs €11000: €2000 to change the isolated patch to a lower level and €9000 for the fuel needed to move between patches of land at different levels.</p>\n<p>Not changing any patch would cost him €12000, changing all the high patches to low would cost him €18000, and changing all the low patches to high would cost him €22000.</p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2015",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "grid_graph", "mfmc"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.7323999404907227

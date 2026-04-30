@@ -19,11 +19,7 @@
   "hint": "<p>В первом тесте из примера можно выбрать крест размера $3$. Этот крест выглядит следующим образом:</p>\n<pre style=\"text-align: center;\">\n...###...\n...###...\n...###...\n#########\n#########\n#########\n...###...\n...###...\n...###...</pre>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, March 10, 2018",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "prefix_sum", "parametric_search"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.857100009918213

@@ -23,10 +23,7 @@
   "hint": "<p>힌트 1:</p>\n<p><img alt=\"\" src=\"3.png\" style=\"height:111px; width:104px\"/></p>\n<p>힌트 2:</p>\n<p><img alt=\"\" src=\"4.png\" style=\"height:101px; width:183px\"/></p>\n<p>힌트 3:</p>\n<p><img alt=\"\" src=\"5.png\" style=\"height:94px; width:146px\"/></p>",
   "source": "University, 충남대학교, 생각하는 프로그래밍 대회, isku",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 13328,
   "submission_count": null,
   "average_tries": 1.728600025177002

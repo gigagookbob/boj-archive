@@ -15,10 +15,7 @@
   "hint": "<p>The medians of the rows are, respectively, 5, 3, 5, 3 and 4. The median of those five values is 4.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO March 2009 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 158,
   "submission_count": null,
   "average_tries": 1.2024999856948853

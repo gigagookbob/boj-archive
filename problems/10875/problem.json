@@ -19,12 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 출발 후 7초가 지나고 나면 뱀의 머리가 자신의 몸 (1, 0)에 부딪히게 되고, 이때 뱀은 숨을 거둔다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:417px; width:413px\"/></p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2015, etaehyun4, djm03178",
   "level": 16,
-  "tags": [
-    "implementation",
-    "geometry",
-    "simulation",
-    "line_intersection"
-  ],
+  "tags": ["implementation", "geometry", "simulation", "line_intersection"],
   "accepted_user_count": 870,
   "submission_count": null,
   "average_tries": 7.150599956512451

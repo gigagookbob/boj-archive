@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2017",
   "level": 24,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["bruteforcing", "geometry", "case_work"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3.2750000953674316

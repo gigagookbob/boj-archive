@@ -15,9 +15,7 @@
   "hint": "<p>In Case #1, one diner starts with 3 pancakes and everyone else's plate is empty. One optimal strategy is:<br/>\n<br/>\nMinute 1: Do nothing. The diner will eat one pancake.<br/>\n<br/>\nMinute 2 (special): Interrupt and move one pancake from that diner's stack onto another diner's empty plate. (Remember that there are always infinitely many diners with empty plates available, no matter how many diners start off with pancakes.) No pancakes are eaten during an interruption.<br/>\n<br/>\nMinute 3: Do nothing. Each of those two diners will eat one of the last two remaining pancakes.<br/>\n<br/>\nIn Case #2, it is optimal to let the diners eat for 2 minutes, with no interruptions, during which time they will finish all the pancakes.<br/>\n<br/>\nIn Case #3, one diner starts with 4 pancakes and everyone else's plate is empty. It is optimal to use the first minute as a special minute to move two pancakes from the diner's plate to another diner's empty plate, and then do nothing and let the diners eat for the second and third minutes.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Qualification Round",
   "level": 12,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.0799999237060547

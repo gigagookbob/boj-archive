@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2007, Day 1",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.400000095367432

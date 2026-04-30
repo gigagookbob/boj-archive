@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first test case: Harry can place the wands in boxes. For example, he can place the wand of length 5 in a box of size 6, wand of length 7 in a box of size 13, and wand of length 9 in a box of size 10.</p>\n<p>Clarification of the second test case: Harry can’t place the wands in boxes because the box of size 2 can’t fit any of the wands.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #5",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["implementation", "greedy", "sorting"],
   "accepted_user_count": 218,
   "submission_count": null,
   "average_tries": 1.123900055885315

@@ -15,9 +15,7 @@
   "hint": "<p>There are four cases. The first two cases start as elegant diamonds of size 1 and 2, respectively, and don't need to be enhanced; so the cost is 0. The third case can be enhanced to look like:</p>\n<pre>\n  3\n 1 1\n1 2 1\n 1 1\n  3\n</pre>\n<p>There are several possible enhancements, but this is one with the lowest possible cost, which is 5. In the fourth case we can enhance the diamond into the following elegant diamond:</p>\n<pre>\n   9\n  1 1\n 6 3 6\n9 5 5 9\n 6 3 6\n  1 1\n   9\n</pre>\n<p>...for a cost of 7.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 2",
   "level": 13,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

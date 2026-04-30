@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2025",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "dp_tree"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "dp_tree"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2999999523162842

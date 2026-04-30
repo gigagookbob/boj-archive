@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2014, jh05013, tae",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.8824000358581543

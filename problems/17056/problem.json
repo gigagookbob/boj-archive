@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #6",
   "level": 21,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["combinatorics", "dp", "math", "number_theory"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.3889000415802

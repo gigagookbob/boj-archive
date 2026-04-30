@@ -15,11 +15,7 @@
   "hint": "<p>All the cells that can get dirty when the machine jumps in the example test are colored orange one the figure below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 125px; height: 120px;\"/></p>\n<p style=\"text-align: center;\">Cells that the machine can stain.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2020",
   "level": 14,
-  "tags": [
-    "dp",
-    "knapsack",
-    "math"
-  ],
+  "tags": ["dp", "knapsack", "math"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.5199999809265137

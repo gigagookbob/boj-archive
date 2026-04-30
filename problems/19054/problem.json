@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 2: UniBuc Contest, Contest, Open Cup, 2017/2018 Season, Stage 1: Grand Prix of Romania",
   "level": 26,
-  "tags": [
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["game_theory", "parity"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 4.072500228881836

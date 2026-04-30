@@ -19,10 +19,7 @@
   "hint": "<p><strong>Pojašnjenje prvog probnog primjera</strong>: moguće vreće su {0, 1, 2}, {0, 1, 3}, {0, 1, 4}, {0, 2, 5} i {0, 2, 6}</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2020",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

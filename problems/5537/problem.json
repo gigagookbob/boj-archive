@@ -19,10 +19,7 @@
   "hint": "<p>入出力例 1 において，JOI 君は 3 回南へ進み区画 (4, 1) の土産店で買い物をした後，さらに南へ 1 回，東へ 3 回進み，そこから北へ 2 回進むことで区画 (3, 4) の土産店で買い物をする．最後に南へ 2 回進んで国際空港へたどり着くと，合計で 11 個のお土産を買うことができる．</p>\n<p>※各入出力例のデータは， 右クリック等によりファイルに保存して利用可能です．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2012/2013 예선",
   "level": 20,
-  "tags": [
-    "dp",
-    "set"
-  ],
+  "tags": ["dp", "set"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.5517001152038574

@@ -23,12 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 150px; height: 150px;\"/></p>\n<p style=\"text-align: center;\">En illustration av Sample Input 2 som visar hur Pascal kan hoppa för att nå Hsara.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, Online Qualification",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.25

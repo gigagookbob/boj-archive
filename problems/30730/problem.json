@@ -23,13 +23,7 @@
   "hint": "<p>Обратите внимание, во втором примере все числа отрицательные, но Алёна всё равно должна выбрать какой-то непустой подмассив.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2017-18",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "sorting", "set", "prefix_sum", "two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.666700005531311

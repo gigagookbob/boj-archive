@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, newdeal",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 3963,
   "submission_count": null,
   "average_tries": 1.6103999614715576

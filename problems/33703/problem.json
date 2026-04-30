@@ -19,9 +19,7 @@
   "hint": "<p>정답이 매우 커질 수 있음에 유의해 주세요. C/C++에서는 <span style=\"color:#e74c3c;\"><code>int</code></span> 대신 <span style=\"color:#e74c3c;\"><code>long long</code></span>을, Java에서는 <span style=\"color:#e74c3c;\"><code>long</code></span> 자료형을 사용하는 것을 권장합니다. Python은 기본적으로 큰 수를 지원하므로 정수 자료형을 고려할 필요가 없습니다.</p>",
   "source": "University, 건국대학교, Hello, AlKon! 2025, yookwi, aru0504, motsuni04, ohwphil, pizzaroot, riroan",
   "level": 6,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 288,
   "submission_count": null,
   "average_tries": 1.1424000263214111

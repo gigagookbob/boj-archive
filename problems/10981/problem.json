@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2015 KAIST 5th ACM-ICPC Mock Competition",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "sorting", "set", "hash_set"],
   "accepted_user_count": 333,
   "submission_count": null,
   "average_tries": 2.1140999794006348

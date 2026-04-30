@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Bytedance-Moscow Workshops Camp, Bytedance-Moscow Workshops Camp 2020, Contest 1",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "disjoint_set"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 1.5745999813079834

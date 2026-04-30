@@ -19,12 +19,7 @@
   "hint": "<p>|x|는 x &lt; 0이면 −x, x ≥ 0이면 x인 절댓값 기호이다.</p>",
   "source": ", Olympiad, 한국정보올림피아드, KOI 2021 2차대회, 중등부",
   "level": 14,
-  "tags": [
-    "math",
-    "sorting",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["math", "sorting", "binary_search", "prefix_sum"],
   "accepted_user_count": 559,
   "submission_count": null,
   "average_tries": 2.459700107574463

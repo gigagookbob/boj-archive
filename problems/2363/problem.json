@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2004 Mid-Central Regional Programming Contest",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "recursion"
-  ],
+  "tags": ["bruteforcing", "recursion"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.7894999980926514

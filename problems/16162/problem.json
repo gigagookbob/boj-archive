@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제2회 네블컵, chogahui05, rdd6584, rdd6584",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 748,
   "submission_count": null,
   "average_tries": 1.478600025177002

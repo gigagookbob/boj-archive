@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Practice, Acka, eric00513",
   "level": 5,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 1164,
   "submission_count": null,
   "average_tries": 1.1718000173568726

@@ -27,10 +27,7 @@
   "hint": null,
   "source": "author5, jejeje8, jh05013, kimhs, rnjs4197",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 116198,
   "submission_count": null,
   "average_tries": 2.45770001411438

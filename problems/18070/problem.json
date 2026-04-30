@@ -23,10 +23,7 @@
   "hint": "<p>In the first example the strings to be counted are: a, b, c, aa, ab, ac, ba, bb, bc, ca, cb, cc, aaa, aab, aac, aba, abb, aca, acc, baa, bab, bba, bbb, bbc, bcb, bcc, caa, cac, cbb, cbc, cca, ccb, ccc.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Regional Contest",
   "level": 24,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.142899990081787

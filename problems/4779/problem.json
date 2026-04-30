@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2002 Mid-Atlantic Regional Programming Contest, baekjoon",
   "level": 8,
-  "tags": [
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "recursion"],
   "accepted_user_count": 12267,
   "submission_count": null,
   "average_tries": 2.152400016784668

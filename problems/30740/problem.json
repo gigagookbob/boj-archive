@@ -19,11 +19,7 @@
   "hint": "<p>Consider the first sample test. The given answer is the only way to conduct an experiment involving the only data center. In such a scenario the third data center has a maintenance during the hour 1, and no two data centers storing the information of the same client have maintenance at the same hour.</p>\n<p>On the other hand, for example, if we shift the maintenance time on hour later for the first data center, then the data of clients 1 and 3 will be unavailable during the hour 0.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2017-18, Day 1",
   "level": 18,
-  "tags": [
-    "graphs",
-    "greedy",
-    "scc"
-  ],
+  "tags": ["graphs", "greedy", "scc"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.1666998863220215

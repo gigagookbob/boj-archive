@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020 예선, evenharder, pichulia, rhs0266, sait2000, shiftpsh, tncks0121, woo960131",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 2340,
   "submission_count": null,
   "average_tries": 2.3171000480651855

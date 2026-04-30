@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2018 Pacific Northwest Region Programming Contest, Division 2",
   "level": 10,
-  "tags": [
-    "math",
-    "two_pointer"
-  ],
+  "tags": ["math", "two_pointer"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.2625000476837158

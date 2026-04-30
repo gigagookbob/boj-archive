@@ -19,12 +19,7 @@
   "hint": "<p>We have 9 · 10 = 90 and 3 · 4 · 5 · 6 = 360. The answer is <code>DA</code> because 90 divides 360.</p>\n<p>We calculate 2 · 3 · 4 · 5 = 120, which doesn’t divide 7 · 8 · 9 = 504. Thus the second answer is <code>NE</code>.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #4",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.9808000326156616

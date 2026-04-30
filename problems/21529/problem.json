@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере, поскольку высоких актеров всего трое, то на главную роль не может подойти больше трех человек.</p>\n<p>Во втором примере все актеры – блондины и все, кроме одного, – голубоглазые. Тогда среди трех высоких актеров найдутся хотя бы два голубоглазых (и, естественно, они будут блондинами). Следовательно, минимум два актера точно подойдут на главную роль в новом спектакле. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2013",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.5765000581741333

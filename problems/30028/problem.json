@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 2023 충남대학교 SW-IT Contest, Division 1, hhs2003, ai4youej, flappybird, martinok1103, solvedac, swoon, utilforever, w8385",
   "level": 19,
-  "tags": [
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["constructive", "dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.264699935913086

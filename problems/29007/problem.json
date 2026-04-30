@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제2회 흐즈로컵, hjroh0315, halin, kiwiyou, mingyu331, tony9402, utilforever, wapas, wider93",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "constructive", "implementation"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 2.8907999992370605

@@ -15,10 +15,7 @@
   "hint": "<p>Here are the representations with the maximum number of zeros for the example test cases:</p>\n<ul>\n<li>$11   = \\mathtt{1011}_2     = \\mathtt{102}_3    = \\mathtt{10}_{11}$ (one zero);</li>\n<li>$1007 = \\mathtt{1101022}_3  = \\mathtt{1007}_{10}$ (two zeros);</li>\n<li>$239  = \\mathtt{11101111}_2 = \\mathtt{1035}_6 = \\mathtt{10E}_{15} = \\mathtt{10}_{239}$ (one zero).</li>\n</ul>\n<p>In the $239 = \\mathtt{10E}_{15}$ representation, $\\mathtt{E}$ stands for a digit with the value of $14$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Regional Contest",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "heuristics"
-  ],
+  "tags": ["ad_hoc", "heuristics"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3

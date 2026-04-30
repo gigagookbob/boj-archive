@@ -15,10 +15,7 @@
   "hint": "<p>성우가 두 손을 동시에 움직이지 못하는 이유는 다음과 같다.</p>\n<ul>\n<li>사람은 두 가지 이상의 일을 동시에 할 수 없다.</li>\n<li>대학원생은 사람이다.</li>\n<li>성우는 대학원생이다.</li>\n</ul>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2020, high092, bsyun0571, dlstj0923, hellogaon, rasauq1122, rhs0266, TheKinGoD, tony9402",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1625,
   "submission_count": null,
   "average_tries": 2.0922999382019043

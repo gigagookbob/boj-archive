@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2025-2026 Season, USACO 2026 Second Contest, Silver",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "prefix_sum",
-    "priority_queue",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "prefix_sum", "priority_queue", "two_pointer"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.25

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "myungwoo",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "greedy", "two_pointer"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.81820011138916

@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "recursion"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.6957000494003296

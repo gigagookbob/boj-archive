@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2017 ERICA Programming Contest, League A (일반), chogahui05, tncks0121, jh05013",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 995,
   "submission_count": null,
   "average_tries": 1.986899971961975

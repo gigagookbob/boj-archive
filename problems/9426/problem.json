@@ -15,10 +15,7 @@
   "hint": "<p>수 K개의 중앙값은 ((K+1)/2)번째로 작은 숫자이다. 인덱싱은 1번 부터 시작하며, K가 홀수인 경우를 처리하기 위해 1을 더한다.</p>\n<p>예를 들어, (1, 2, 6, 5, 4, 3)의 중앙값은 3이고, (11, 13, 12, 14, 15)의 중앙값은 13이다. </p>",
   "source": "baekjoon, namnamseo, njw1204, previc1",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 1792,
   "submission_count": null,
   "average_tries": 3.2672998905181885

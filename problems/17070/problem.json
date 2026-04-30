@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, djm03178",
   "level": 11,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal"],
   "accepted_user_count": 19064,
   "submission_count": null,
   "average_tries": 2.0917000770568848

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2022",
   "level": 13,
-  "tags": [
-    "greedy",
-    "string",
-    "sorting"
-  ],
+  "tags": ["greedy", "string", "sorting"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.600000023841858

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO January 2009 Contest, Silver, erid3232, jh05013, tony0203, dohyonne, jung2381187",
   "level": 13,
-  "tags": [
-    "implementation",
-    "graphs",
-    "simulation",
-    "flow"
-  ],
+  "tags": ["implementation", "graphs", "simulation", "flow"],
   "accepted_user_count": 3045,
   "submission_count": null,
   "average_tries": 3.522200107574463

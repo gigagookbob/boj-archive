@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Sjaars Kampioenschap Programmeren 2015",
   "level": 12,
-  "tags": [
-    "dp",
-    "arbitrary_precision"
-  ],
+  "tags": ["dp", "arbitrary_precision"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.705899953842163

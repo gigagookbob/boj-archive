@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 15: Grand Prix of China",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["data_structures", "disjoint_set", "string", "suffix_array"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.5

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2021",
   "level": 0,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "polynomial_interpolation"
-  ],
+  "tags": ["combinatorics", "dp", "math", "polynomial_interpolation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2

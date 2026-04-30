@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 9: Yuhao Du Contest 7, Contest, Open Cup, 2019/2020 Season, Stage 12: Grand Prix of Zhejiang",
   "level": 21,
-  "tags": [
-    "greedy",
-    "case_work",
-    "bitmask"
-  ],
+  "tags": ["greedy", "case_work", "bitmask"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.8485000133514404

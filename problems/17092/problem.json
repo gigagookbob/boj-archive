@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, silvercube",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 1.8597999811172485

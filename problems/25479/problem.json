@@ -23,11 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Interval $[2, 4]$ sadrži $6$ različitih uzastopnih podnizova, od kojih $2$ imaju parnu sumu: $[2, 3]$ i $[3, 4]$. Drugi odgovor parnog stroja je $0$ jer je četvrti element niza $5$, tj. neparan broj. Treći odgovor je jednak prvom jer su i pitanja bila jednaka.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Junior Final Exam #2",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.7778000831604004

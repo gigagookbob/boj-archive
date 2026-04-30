@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, South Africa Regional Contest, Beninese Collegiate Programming Contest, The 2016 Beninese Collegiate Programming Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 682,
   "submission_count": null,
   "average_tries": 1.2389999628067017

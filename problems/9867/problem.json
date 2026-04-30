@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 5 machines, with initial milk outputs 1,2,3,4,5.  On day 1, machine 5 is updated to output 2 unit of milk, and so on.</p><h4>Output Details</h4><p>On day one, the optimal amount of milk is 2+4 = 6 (also achievable as 1+3+2).  On day two, the optimal amount is 7+4 = 11.  On day three, the optimal amount is 10+3+2=15.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO December 2013 Contest, Gold",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "divide_and_conquer"
-  ],
+  "tags": ["data_structures", "segtree", "divide_and_conquer"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 1.7066999673843384

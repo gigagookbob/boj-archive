@@ -19,12 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładu: W pierwszym teście przykładowym Bajtazar może pokryć ścianę dziewięcioma obrazami (sześcioma rozmiaru 1×1, dwoma rozmiaru 3×3 i jednym rozmiaru 6×6) na przykład w następujący sposób:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 300px; width: 492px;\"/></p>\n<p>W drugim teście przykładowym nie jest możliwe dokładne pokrycie ściany.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "greedy",
-    "math"
-  ],
+  "tags": ["ad_hoc", "geometry", "greedy", "math"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.333299994468689

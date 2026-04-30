@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, doju, clrmt, noorycode",
   "level": 15,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation", "backtracking"],
   "accepted_user_count": 20670,
   "submission_count": null,
   "average_tries": 3.5915000438690186

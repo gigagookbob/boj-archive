@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2025",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "geometry", "segtree", "coordinate_compression"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.2857000827789307

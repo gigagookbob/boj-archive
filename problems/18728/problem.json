@@ -15,10 +15,7 @@
   "hint": "<p>In the first example, all ways of assigning seats are presented below (‘<code>A</code>’ and ‘<code>a</code>’ denote seats assigned to the first pair, ‘<code>B</code>’ and ‘<code>b</code>’ — to the second):</p>\n<pre>\n AB   Ab   ab   aB   BA   bA   ba   Ba\n ba   Ba   BA   bA   ab   aB   AB   Ab</pre>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 5: Ja giellonian U Contest",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["bitmask", "inclusion_and_exclusion"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

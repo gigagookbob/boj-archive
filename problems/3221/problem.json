@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, Croatian Olympiad in Informatics 2004, baekjoon",
   "level": 13,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 242,
   "submission_count": null,
   "average_tries": 1.5164999961853027

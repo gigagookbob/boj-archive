@@ -19,12 +19,7 @@
   "hint": null,
   "source": "hemi0213, kjiwhan0120, eric00513",
   "level": 4,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "string", "number_theory", "primality_test"],
   "accepted_user_count": 3748,
   "submission_count": null,
   "average_tries": 2.466399908065796

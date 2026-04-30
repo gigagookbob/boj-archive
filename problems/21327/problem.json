@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample Simone answers both questions from category 1 ($300 + 400 = 700$ points) and the only question in category 2 ($200$ points). Since these were the only questions in these two categories we get two bonuses, which gives a total of $200 + 700 + 2 \\cdot 1000 = 2900$ points.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Final",
   "level": 14,
-  "tags": [
-    "dp",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "sorting", "knapsack"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.9696999788284302

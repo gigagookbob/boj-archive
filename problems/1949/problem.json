@@ -15,11 +15,7 @@
   "hint": null,
   "source": "tncks0121, kkw564, sait2000",
   "level": 14,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 5222,
   "submission_count": null,
   "average_tries": 1.7759000062942505

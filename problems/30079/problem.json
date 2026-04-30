@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2019/2020, District Stage, 10-12 Classes",
   "level": 10,
-  "tags": [
-    "dp",
-    "grid_graph"
-  ],
+  "tags": ["dp", "grid_graph"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.4375

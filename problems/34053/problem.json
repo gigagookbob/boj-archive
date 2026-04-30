@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025 예선, wapas, 79brue, evenharder, golazcc83, hyperbolic, isekaijoucho, kdh9949, kep1er07, kipa00, leo020630, man_of_learning, seonah",
   "level": 8,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 391,
   "submission_count": null,
   "average_tries": 1.8209999799728394

@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 11,
-  "tags": [
-    "arbitrary_precision",
-    "recursion"
-  ],
+  "tags": ["arbitrary_precision", "recursion"],
   "accepted_user_count": 8456,
   "submission_count": null,
   "average_tries": 4.236000061035156

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제9회 한양대학교 프로그래밍 경시대회, Beginner Division, andrewmjk1, jthis, junseo, jyheo98, leejseo, nick832, tlsdydaud1",
   "level": 14,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.894700050354004

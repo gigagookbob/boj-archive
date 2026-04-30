@@ -19,10 +19,7 @@
   "hint": null,
   "source": null,
   "level": 17,
-  "tags": [
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["binary_search", "lis"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.8421000242233276

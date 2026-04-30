@@ -27,9 +27,7 @@
   "hint": "<p>The optimal way to observe animals in the four examples are as follows:</p>\n<p>Example 1:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 267px; width: 332px;\"/></p>\n<p>Example 2:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 200px; width: 200px;\"/></p>\n<p>Example 3:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height: 200px; width: 200px;\"/></p>\n<p>Example 4:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"height: 200px; width: 200px;\"/></p>",
   "source": "Contest, Codeforces, Codeforces Round 620 (Div. 2), djm03178",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.4138000011444092

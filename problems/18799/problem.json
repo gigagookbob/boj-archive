@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2020 SciOI #1, blackking26, ncy09",
   "level": 21,
-  "tags": [
-    "dp",
-    "string",
-    "binary_search",
-    "suffix_array",
-    "slope_trick"
-  ],
+  "tags": ["dp", "string", "binary_search", "suffix_array", "slope_trick"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 3.2955000400543213

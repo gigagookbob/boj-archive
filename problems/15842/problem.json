@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2017",
   "level": 23,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "binary_search",
-    "divide_and_conquer"
-  ],
+  "tags": ["implementation", "ad_hoc", "binary_search", "divide_and_conquer"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4.285699844360352

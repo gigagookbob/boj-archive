@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2016",
   "level": 11,
-  "tags": [
-    "math",
-    "implementation",
-    "bitmask"
-  ],
+  "tags": ["math", "implementation", "bitmask"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.3720999956130981

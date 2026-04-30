@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, citizen, corea, jhpark1109, doju",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 26951,
   "submission_count": null,
   "average_tries": 3.2804999351501465

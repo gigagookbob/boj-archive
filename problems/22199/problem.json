@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2017",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "trees"
-  ],
+  "tags": ["dp", "greedy", "trees"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.9063000679016113

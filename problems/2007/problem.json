@@ -19,12 +19,7 @@
   "hint": null,
   "source": "raararaara",
   "level": 18,
-  "tags": [
-    "math",
-    "data_structures",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["math", "data_structures", "sorting", "ad_hoc"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 5.555600166320801

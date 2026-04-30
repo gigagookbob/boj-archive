@@ -15,10 +15,7 @@
   "hint": "<p>In the first example, Malvika has prepared only one programming contest, its easy problem takes 1 hour and gives 5 units of pleasure. The medium one takes 2 hours and gives 3 units of pleasure whereas the same values for hard are 3 hours and 6 units of pleasure. Animesh has only 5 hours and can select at max one problems out of these to solve. The hard problem is the best candidate to choose for him, it will him give him 6 units of pleasure and take his 5 hours. So, the answer is 6.</p>\n<p>In the second example, Malvika has prepared two programming contests.</p>\n<ul>\n<li>First programming contest:\n\t<ul>\n<li>Easy problem — 1 hour and 2 units of pleasure.</li>\n<li>Medium problem — 2 hours and 3 units of pleasure.</li>\n<li>Hard problem — 1 hours and 3 units of pleasure.</li>\n</ul>\n</li>\n<li>Second programming contest:\n\t<ul>\n<li>Easy problem — 2 hours and 4 units of pleasure.</li>\n<li>Medium problem — 3 hours and 6 units of pleasure.</li>\n<li>Hard problem — 3 hours and 5 units of pleasure.</li>\n</ul>\n</li>\n</ul>\n<p>Animesh has 6 hours and can use at max one swapping power. He can use the special power to swap the medium problem of second contest with any problem of first contest. After doing that, he can select the two problems taking 3 hours and giving pleasure of 6 and 5 units to get a total pleasure of 11 units.</p>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2015 ACM-ICPC Asia Chennai Regional Contest",
   "level": 14,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.25

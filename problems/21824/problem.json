@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2021, CCO 2021",
   "level": 21,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "math"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 7

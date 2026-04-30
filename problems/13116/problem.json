@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 2: Nexon Arena 연습 세션, tncks0121",
   "level": 7,
-  "tags": [
-    "math",
-    "trees",
-    "lca"
-  ],
+  "tags": ["math", "trees", "lca"],
   "accepted_user_count": 1523,
   "submission_count": null,
   "average_tries": 1.7878999710083008

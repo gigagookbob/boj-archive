@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 다음과 같은 표를 만들 수 있으며, 이 표는 유일합니다.</p>\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"width: 240px; height: 240px; margin: 0 auto;\">\n<tbody>\n<tr>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>1</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>0</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>1</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\">5</td>\n</tr>\n<tr>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>1</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>0</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>0</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\">4</td>\n</tr>\n<tr>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>1</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>1</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\"><strong>1</strong></td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle;\">7</td>\n</tr>\n<tr>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle; border: 1px 1px 0 1px;\">7</td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle; border: 1px 1px 0 1px;\">1</td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle; border: 1px 1px 0 1px;\">5</td>\n<td style=\"width: 60px; height: 60px; text-align: center; vertical-align: middle; border: 1px 1px 0 1px;\">13</td>\n</tr>\n</tbody>\n</table>",
   "source": "Contest, BOJ User Contest, 키파컵, 제1회 키파컵, kipa00",
   "level": 23,
-  "tags": [
-    "math",
-    "precomputation"
-  ],
+  "tags": ["math", "precomputation"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.75

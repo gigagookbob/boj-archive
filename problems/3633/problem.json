@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2005",
   "level": 15,
-  "tags": [
-    "math",
-    "probability",
-    "linearity_of_expectation",
-    "statistics"
-  ],
+  "tags": ["math", "probability", "linearity_of_expectation", "statistics"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7096999883651733

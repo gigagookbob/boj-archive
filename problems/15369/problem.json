@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the second test case:</p>\n<p>For simplicity’s sake, we’ll label the cards as true/false, depending on the claims written on them.</p>\n<p>Beneath the fifth card there are 0 false cards, so it is false.</p>\n<p>Beneath the fourth card there is 1 false card, so it is true.</p>\n<p>Beneath the third card there is 1 false card, so it is true.</p>\n<p>Beneath the second card there is 1 false card, so it is false.</p>\n<p>Beneath the first card there are 2 false cards, so it is false.</p>\n<p>Therefore, we have a total of 3 false cards.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #5",
   "level": 15,
-  "tags": [
-    "constructive",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["constructive", "greedy", "sorting"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2

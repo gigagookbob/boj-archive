@@ -19,13 +19,7 @@
   "hint": "<p>첫번째 예제의 경우 오른쪽 3칸, 왼쪽 1칸, 아래쪽 3칸, 오른쪽 1칸, 왼쪽 3칸으로 총 11칸 이동하여 5개의 식당을 방문할 수 있다.</p>\n<p>두번째 예제의 경우 장애물에 가로막혀 5개의 식당을 방문할 수 없다.</p>",
   "source": "University, POSTECH, 2021 POSTECH Programming Contest, qjatn0120baek, gravekper, hitonanode, hojoon0205, shiftpsh",
   "level": 15,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 218,
   "submission_count": null,
   "average_tries": 3.2430999279022217

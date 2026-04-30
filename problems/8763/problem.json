@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, FallSpot 2011",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "shortest_path",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "shortest_path", "dfs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

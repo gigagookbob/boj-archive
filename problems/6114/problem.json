@@ -15,9 +15,7 @@
   "hint": "<p>Ski the second slope once, take the lesson, and ski the first slope 5 times before time is up: a total of 6 slopes.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO US Open 2009 Contest, Gold",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.076900005340576

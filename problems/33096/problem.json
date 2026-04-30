@@ -19,14 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2023",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "dp_tree", "rerooting"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

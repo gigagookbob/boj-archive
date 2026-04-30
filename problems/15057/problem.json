@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2017",
   "level": 17,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "segtree"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.142899990081787

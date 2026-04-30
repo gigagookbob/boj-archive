@@ -15,9 +15,7 @@
   "hint": "<p>subsequence 란 주어진 문자열의 일부 항을 원래 순서대로 나열하여 얻을 수 있는 문자열을 의미한다.</p>",
   "source": "University, 성균관대학교, 2022 성균관대학교 프로그래밍 경진대회, ansol4328, 79brue, cs71107, hibye1217, jh05013, jhnah917, tony9402",
   "level": 17,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2.679500102996826

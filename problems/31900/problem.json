@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2022",
   "level": 29,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "bitmask",
-    "linear_algebra",
-    "mitm"
-  ],
+  "tags": ["math", "ad_hoc", "bitmask", "linear_algebra", "mitm"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.875

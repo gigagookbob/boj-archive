@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2019, Round B",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.600000023841858

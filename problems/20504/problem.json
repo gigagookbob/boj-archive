@@ -23,10 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제4회 천하제일 코딩대회, leejseo, deuslovelt",
   "level": 17,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 151,
   "submission_count": null,
   "average_tries": 2.2053000926971436

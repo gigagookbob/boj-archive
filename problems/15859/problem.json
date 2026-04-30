@@ -15,13 +15,7 @@
   "hint": "<ul>\n<li>time 1: open book 1</li>\n<li>time 2: open book 2</li>\n<li>time 3: open book 4</li>\n<li>time 4: close book 4 (borrow time 4 minutes)</li>\n<li>time 14: close book 2 (borrow time 14 minutes)</li>\n<li>time 15: open book 3</li>\n<li>time 16: open book 5</li>\n<li>time 17: close book 5 (borrow time 17 minutes)</li>\n<li>time 37: close book 3 (borrow time 37 minutes)</li>\n<li>time 38: close book 1 (borrow time 38 minutes)</li>\n</ul>",
   "source": ", Olympiad, Baltic Olympiad in Informatics, BOI 2018 연습 세션",
   "level": 17,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.7691999673843384

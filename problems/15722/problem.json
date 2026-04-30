@@ -19,9 +19,7 @@
   "hint": "<ul>\n<li>방향에 따라 x와y좌표의 증감의 규칙이 있다.</li>\n<li>달팽이의 자취에서 한 변을 1회로 보자. 이때 변의 길이는 2회 동안 유지되며 변의 길이가 변할 때는 1씩 규칙적으로 증가한다.</li>\n</ul>",
   "source": "University, 중앙대학교, CodeRace 2018, cloudhs7, ilene97",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 482,
   "submission_count": null,
   "average_tries": 1.4543999433517456

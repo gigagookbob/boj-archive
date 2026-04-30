@@ -15,11 +15,7 @@
   "hint": "<p>In Case #2, we already know that the site can support between 19 and 57 people. Since those are a factor of 3 apart, we don't need to do any testing.</p>\n<p>In Case #4, we can test 48; but if the site can support 48 people, we need more testing, because 48*2 &lt; 97. We could test 49; but if the site can't support 49 people, we need more testing, because 24 * 2 &lt; 49. So we need two tests.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 1C",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "math"
-  ],
+  "tags": ["ad_hoc", "binary_search", "math"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.270300030708313

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2005 Day 1",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "stack"
-  ],
+  "tags": ["data_structures", "disjoint_set", "stack"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.5

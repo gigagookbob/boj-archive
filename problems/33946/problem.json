@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 경희대학교, 경희대학교 2025 봄 프로그래밍 경시대회 (KHSPC 2025), overnap, minjunnick, nflight11, pani, qvixnh22, tlsdydaud1, tony9402, yyyy7089",
   "level": 18,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "bitset"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "bitset"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.5951999425888062

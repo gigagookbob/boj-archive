@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, there are only two numbers that can be constructed satisfying the divisibility constraint: $45$ and $54$. John chooses the smaller number.</p>\n<p>In Sample Case #2, $333$ is the only number possible.</p>\n<p>In Sample Case #3, there are four possible options - $212121$, $122121$, $121221$ and $121212$ - out of which the smallest number is $121212$.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round A",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory"
-  ],
+  "tags": ["math", "greedy", "number_theory"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.6389000415802

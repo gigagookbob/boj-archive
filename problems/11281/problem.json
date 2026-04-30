@@ -19,12 +19,7 @@
   "hint": null,
   "source": "baekjoon, eunsoo0607, jh05013",
   "level": 18,
-  "tags": [
-    "graphs",
-    "traceback",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "traceback", "scc", "2_sat"],
   "accepted_user_count": 2133,
   "submission_count": null,
   "average_tries": 2.1500000953674316

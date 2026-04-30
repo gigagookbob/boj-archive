@@ -15,14 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:188px; width:616px\"/></p>\n<p>Dashed arrows in the above pictures show possible travel of woken up moles that minimizes the total distance. For example, for k = 2 the first mole goes from the hole 2 to the hole 5 and the second mole stays in the hole 4.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2016",
   "level": 23,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "trees",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["dp", "graphs", "greedy", "trees", "flow", "mcmf"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.49180006980896

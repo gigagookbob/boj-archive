@@ -23,11 +23,7 @@
   "hint": "<p>예제 1의 경우에 G[10][5]부터 G[10][9]까지가 일치한다.</p>",
   "source": "baekjoon",
   "level": 22,
-  "tags": [
-    "math",
-    "number_theory",
-    "crt"
-  ],
+  "tags": ["math", "number_theory", "crt"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.680000066757202

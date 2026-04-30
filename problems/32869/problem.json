@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제11회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, myyh1234, gunwookim, heeda0528, jk410, juneharold, junseo, mjhmjh1104, tlsdydaud1",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "rerooting"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.6389000415802

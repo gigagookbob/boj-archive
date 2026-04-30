@@ -23,13 +23,7 @@
   "hint": "<p>Clarification of the second example: In the second example there are two colonies of cyanobacteria. In the first colony, all cyanobacteria are directly connected to cyanobacterium 1, and in the second with cyanobacterium 5. If any two cyanobacteria except 1 and except 5 are connected, the resulting colony will contain the longest possible chain. Eg. if 2 and 6 are connected, one such chain will be 3 - 1 - 2 - 6 - 5 - 7 which has length 6.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #3",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "tree_diameter"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.333299994468689

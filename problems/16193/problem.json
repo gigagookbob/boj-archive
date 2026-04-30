@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, cyclone472",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 302,
   "submission_count": null,
   "average_tries": 3.1821000576019287

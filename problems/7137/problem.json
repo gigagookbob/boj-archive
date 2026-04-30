@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, First Selection Competition",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "greedy"
-  ],
+  "tags": ["graphs", "graph_traversal", "greedy"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

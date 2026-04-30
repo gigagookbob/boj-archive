@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA4",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.8333001136779785

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "CHULMING",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 240,
   "submission_count": null,
   "average_tries": 2.0957999229431152

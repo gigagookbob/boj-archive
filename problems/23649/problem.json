@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 9: Grand Prix of Peterhof",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "geometry",
-    "string"
-  ],
+  "tags": ["ad_hoc", "constructive", "geometry", "string"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7273000478744507

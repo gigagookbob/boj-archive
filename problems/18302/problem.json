@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019",
   "level": 19,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree",
-    "combinatorics"
-  ],
+  "tags": ["math", "data_structures", "segtree", "combinatorics"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.7871999740600586

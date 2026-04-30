@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2016",
   "level": 12,
-  "tags": [
-    "greedy",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["greedy", "math", "number_theory"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

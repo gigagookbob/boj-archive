@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog primjera: Marin je najprije plavom pikulicom preskočio crvenu, dobivši time stanje XCP, a potom je crvenu kuglicu pomaknuo na susjedno prazno postolje, dobivši time konačno stanje CXP.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2020, Junior Final Exam #2",
   "level": 15,
-  "tags": [
-    "bitmask",
-    "tsp"
-  ],
+  "tags": ["bitmask", "tsp"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

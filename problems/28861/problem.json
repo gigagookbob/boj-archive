@@ -19,10 +19,7 @@
   "hint": "<p>Перестановка $a$ длины $n$ лексикографически больше перестановки $b$ длины $n$, если существует такое $x$, что $a_i = b_i$ для всех $i$ от $1$ до $x - 1$ и $a_x &gt; b_x$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Advanced",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "greedy"
-  ],
+  "tags": ["data_structures", "greedy"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

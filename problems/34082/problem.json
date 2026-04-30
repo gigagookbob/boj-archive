@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2기 -chinoaww는 피드백이 아니에요-, kdy40929, flakepowders, hyperbolic, iluem100, ksoosung77, kuhyaku, minchan_bae, oh040411, pyb1031, wizardrabbit, woohyun_jng",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "prefix_sum",
-    "combinatorics",
-    "dp_tree"
-  ],
+  "tags": ["math", "dp", "trees", "prefix_sum", "combinatorics", "dp_tree"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.561400055885315

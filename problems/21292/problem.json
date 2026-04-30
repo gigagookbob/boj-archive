@@ -15,11 +15,7 @@
   "hint": "<div class=\"headline\">\n<h2>la clé</h2>\n</div>\n<p>les seize verbes sont aller, apparaître, arriver, descendre, devenir, entrer, montrer, mourir, naître, partir, passer, rester, retourner, sortir, tomber et venir.</p>",
   "source": "Contest, BOJ User Contest, 구데기컵, EtvycAuRLZpb6hhe86x0, kipa00",
   "level": 0,
-  "tags": [
-    "case_work",
-    "math",
-    "string"
-  ],
+  "tags": ["case_work", "math", "string"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 14.142900466918945

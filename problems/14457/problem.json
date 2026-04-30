@@ -15,9 +15,7 @@
   "hint": "<p>In this example, if FJ applies his machine to the entire herd of cows (which is a valid upper-left rectangle), he will toggle their state to the following:</p>\n<pre>\n110\n000\n000\n</pre>\n<p>All that remains is to apply the machine to the upper-left rectangle containing the two 1s, and he is finished. In total, this is just 2 applications.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 January Contest, Bronze",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 431,
   "submission_count": null,
   "average_tries": 1.5267000198364258

@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2016 Rocky Mountain Regional Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "dp"
-  ],
+  "tags": ["implementation", "dp"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.0526000261306763

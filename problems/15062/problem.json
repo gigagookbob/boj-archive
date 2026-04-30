@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2017, jh05013",
   "level": 21,
-  "tags": [
-    "bipartite_matching",
-    "flow",
-    "graphs"
-  ],
+  "tags": ["bipartite_matching", "flow", "graphs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.6666998863220215

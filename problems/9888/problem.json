@@ -19,10 +19,7 @@
   "hint": "<ul>\n<li>The line equation for the perpendicular bisector of the line segment connecting the two points \\((x_0, y_0)\\) and \\((x_1, y_1)\\) is \\[\\left(y_1 - y_0\\right) \\left(y - \\frac{y_0 + y_1}{2}\\right) + \\left(x_1 - x_0\\right) \\left(x - \\frac{x_0 + x_1}{2}\\right) = 0\\text{.}\\]</li>\n<li>If the two lines \\[ax + by + c = 0,\\\\dx + ey + f = 0\\] intersect, the intersection is the point \\[\\left(\\frac{bf-ce}{ae-bd}, \\frac{cd-af}{ae-bd}\\right)\\text{.}\\]</li>\n</ul>",
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2006",
   "level": 21,
-  "tags": [
-    "geometry",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "half_plane_intersection"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

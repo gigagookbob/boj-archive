@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 4 October, 2008",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "bitmask",
-    "pythagoras"
-  ],
+  "tags": ["bruteforcing", "geometry", "bitmask", "pythagoras"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.9615000486373901

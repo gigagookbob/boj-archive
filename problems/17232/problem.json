@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2019 아주대학교 프로그래밍 경시대회 APC, Div.2, spectaclehong",
   "level": 12,
-  "tags": [
-    "implementation",
-    "simulation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "simulation", "prefix_sum"],
   "accepted_user_count": 339,
   "submission_count": null,
   "average_tries": 2.115000009536743

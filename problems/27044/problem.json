@@ -15,10 +15,7 @@
   "hint": "<p>The entire milking grid can be constructed from repetitions of the pattern 'AB'. </p>",
   "source": "Olympiad, USA Computing Olympiad, 2003-2004 Season, USACO November 2003 Contest, Green",
   "level": 18,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

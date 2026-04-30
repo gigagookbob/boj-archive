@@ -15,10 +15,7 @@
   "hint": "<p>The initial list is 1 2 3 4 5 6</p>\n<p>After the first operation, the list becomes 2 3 4 5 6 1 (The operation 1 1 6 would have had the same result.)</p>\n<p>After the second operation, the list becomes 4 5 2 3 6 1</p>\n<p>After the third operation, the list becomes 4 3 6 5 2 1</p>\n<p>After the fourth operation, the list becomes 6 5 4 3 2 1</p>\n<p>This solution earns full points as 4 = 6 / 2 + 1.</p>",
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2016",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

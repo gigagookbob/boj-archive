@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제1회 보라매컵 예선, 99asdfg, eaststar, eric00513, max804, mjhmjh1104, tony9402",
   "level": 17,
-  "tags": [
-    "combinatorics",
-    "math",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["combinatorics", "math", "permutation_cycle_decomposition"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.4443999528884888

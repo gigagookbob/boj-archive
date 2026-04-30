@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 광주과학기술원, 2024 GIST 알고리즘 마스터즈, invrtd_h, 99asdfg, dohoon, gs22123, jh01533, leo020630, petamingks",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "priority_queue", "sweeping"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5625

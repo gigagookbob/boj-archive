@@ -23,10 +23,7 @@
   "hint": "<p>In the first example, frogs that ended up on water lilies $1$ and $2$ must have moved to the left, while frogs that ended up on water lilies $51$ and $52$ must have moved to the right. Thus, we know for sure that exactly $2$ frogs moved to the left between the photos.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Regional Contest",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "greedy"
-  ],
+  "tags": ["binary_search", "greedy"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3200000524520874

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 전시관, 제1 전시관, ainta",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "segtree",
-    "case_work"
-  ],
+  "tags": ["data_structures", "ad_hoc", "segtree", "case_work"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 4.400000095367432

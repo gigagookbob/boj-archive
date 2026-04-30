@@ -15,13 +15,7 @@
   "hint": "<p>Explanation of the output lines:</p>\n<ol>\n<li>Node $1$ has $2$ children, nodes $4$ and $2$ (in this order).</li>\n<li>Node $2$ has no children.</li>\n<li>Node $3$ has $1$ child, node $1$.</li>\n<li>Node $4$ has no children.</li>\n</ol>",
   "source": "Olympiad, Estonian Informatics Olympiad, 2014-15, Open Competition",
   "level": 12,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.2221999168395996

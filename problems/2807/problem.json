@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #5, baekjoon, hihihi",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "combinatorics",
-    "math",
-    "string"
-  ],
+  "tags": ["bruteforcing", "combinatorics", "math", "string"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.1842000484466553

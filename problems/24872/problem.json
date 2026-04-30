@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2021",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["bruteforcing", "math"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 3.6538000106811523

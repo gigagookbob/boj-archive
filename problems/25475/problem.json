@@ -15,12 +15,7 @@
   "hint": "<p>Opis prvog primjera: Nakon što smo saznali da je osoba $3$ Hrvat, samo za nju sa sigurnošću znamo da je Hrvat. Nakon toga saznajemo da je osoba $2$ Hrvat, ali sada odmah i za njihovu djecu ($3$ i $4$) znamo da su Hrvati, a nakon što znamo da je $4$ Hrvat, odmah znamo i da je $6$ Hrvat jer je dijete od $4$. Na kraju saznajemo i da je osoba $5$ Hrvat.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Junior Final Exam #1",
   "level": 14,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1

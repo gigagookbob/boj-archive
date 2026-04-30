@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Google Code Jam Africa 2010, Qualification Round",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 436,
   "submission_count": null,
   "average_tries": 1.2431000471115112

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제4회 천하제일 코딩대회 예선, junie",
   "level": 11,
-  "tags": [
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["sorting", "binary_search"],
   "accepted_user_count": 285,
   "submission_count": null,
   "average_tries": 2.2174999713897705

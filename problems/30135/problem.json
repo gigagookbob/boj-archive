@@ -15,12 +15,7 @@
   "hint": "<p>A already has the best possible set (all 6's) so he won't roll again. B has no chance of winning. However she can probably force a draw by throwing all 6's. So the only option for her is to re-roll all the 5 dice. The numbers of possible outcomes are 6*6*6*6*6 out of which only 1 will force a draw. So the answer is 1 - (1/6^5). </p>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2008 Asia Amritapuri Contest",
   "level": 0,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "dp", "combinatorics", "probability"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 4

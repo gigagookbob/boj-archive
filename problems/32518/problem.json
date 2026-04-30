@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, DGUPC, 제 2회 DGUPC, iansong, kwoncycle, mjhmjh1104",
   "level": 13,
-  "tags": [
-    "dp",
-    "data_structures",
-    "set",
-    "hash_set",
-    "recursion"
-  ],
+  "tags": ["dp", "data_structures", "set", "hash_set", "recursion"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 3.4107000827789307

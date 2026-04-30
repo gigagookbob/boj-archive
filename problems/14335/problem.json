@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.6470999717712402

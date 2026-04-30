@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2016",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "implementation", "sorting", "number_theory", "euclidean"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.3454999923706055

@@ -27,12 +27,7 @@
   "hint": "<p>In the first test case, the hero will get 0 units of experience with probability 1/4, 1 unit of experience with probability 1/2, and 2 units of experience with probability 1/4. Hence, the expected amount is 1.</p>\n<p>In the second test case, the hero will get 0 units of experience with probability 1/4, and 1 unit of experience with probability 3/4. The expected amount is 3/4.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 7: Gennady Korotkevich Contest 5, Contest, Open Cup, 2019/2020 Season, Stage 11: Grand Prix of Gomel",
   "level": 25,
-  "tags": [
-    "math",
-    "dp",
-    "calculus",
-    "generating_function"
-  ],
+  "tags": ["math", "dp", "calculus", "generating_function"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.6666998863220215

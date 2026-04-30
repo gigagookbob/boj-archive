@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제3회 kriiicon, august14",
   "level": 1,
-  "tags": [
-    "implementation",
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["implementation", "arithmetic", "math"],
   "accepted_user_count": 123261,
   "submission_count": null,
   "average_tries": 2.4516000747680664

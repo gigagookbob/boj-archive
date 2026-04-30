@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2019 전북대학교 프로그래밍 경진대회, joonas, cozyyg",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "set",
-    "backtracking",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "backtracking", "tree_set"],
   "accepted_user_count": 794,
   "submission_count": null,
   "average_tries": 1.9937000274658203

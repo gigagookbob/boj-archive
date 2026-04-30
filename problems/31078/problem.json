@@ -15,10 +15,7 @@
   "hint": "<p>In the example, after the first second, there are $3$ rectangles of area $1$ and $2$ rectangles of area $2$ that satisfy the constraint. So the first line should contain a $5$. After the second second, only cells in the second column remains intact. The answer should be $3$. After the third second, only one cell remains intact. The answer should be $1$. After the fourth second, all cells broke apart so the answer should be $0$. </p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 15, Grand Prix of China, Division 1",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "linked_list"
-  ],
+  "tags": ["data_structures", "linked_list"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 4

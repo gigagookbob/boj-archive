@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 28 September, 2013",
   "level": 10,
-  "tags": [
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "string"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.7999999523162842

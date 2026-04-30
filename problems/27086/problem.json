@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2022, math_rabbit_1028, 79brue, azberjibiou, chansol, dhyang24, physics07, sharaelong, whqkrkt04",
   "level": 15,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 2.254199981689453

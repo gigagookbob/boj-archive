@@ -15,12 +15,7 @@
   "hint": "<p>두 위치 $(y_1, x_1)$, $(y_2, x_2)$ 사이의 택시 거리는 $|y_1 - y_2| + |x_1 - x_2|$ 이다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter), bnb2011, amel, heeda0528, jthis, leo020630, mjhmjh1104, pjshwa, tlsdydaud1, utilforever",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "lazyprop"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 4.076900005340576

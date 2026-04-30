@@ -31,13 +31,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021 예선, xiaowuc1, kareus, sukkie95, tpwls6630, chunghan, cki86201, jh05013, jihoon, koosaga, leejseo, pichulia",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "grid_graph"],
   "accepted_user_count": 1388,
   "submission_count": null,
   "average_tries": 2.683000087738037

@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2013/2014",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "prefix_sum",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "prefix_sum", "knapsack"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 1.5631999969482422

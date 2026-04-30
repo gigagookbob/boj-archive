@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Beijing, Beijing Regional Contest 2002",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 166,
   "submission_count": null,
   "average_tries": 3.3071999549865723

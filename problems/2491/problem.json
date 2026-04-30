@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2009, 초등부, wjsqjawns",
   "level": 7,
-  "tags": [
-    "implementation",
-    "dp"
-  ],
+  "tags": ["implementation", "dp"],
   "accepted_user_count": 7768,
   "submission_count": null,
   "average_tries": 2.6963999271392822

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2015 KAIST 5th ACM-ICPC Mock Competition, ksil, tjrwodnjs999, doju, doju, djm03178, doju",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 7115,
   "submission_count": null,
   "average_tries": 1.635699987411499

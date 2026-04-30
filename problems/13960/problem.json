@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2016",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["combinatorics", "dp", "math", "probability"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.1764999628067017

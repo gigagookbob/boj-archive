@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ACM-ICPC Asia Tsukuba Regional Contest 2017",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "greedy", "prefix_sum", "sweeping"],
   "accepted_user_count": 276,
   "submission_count": null,
   "average_tries": 1.6051000356674194

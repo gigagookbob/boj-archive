@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2019",
   "level": 21,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "fft"
-  ],
+  "tags": ["math", "prefix_sum", "fft"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.0769000053405762

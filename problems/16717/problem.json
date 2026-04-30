@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2018 송년대회, william202",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "tree_diameter"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "tree_diameter"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.578900098800659

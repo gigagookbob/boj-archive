@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2015, ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2020",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "scc"
-  ],
+  "tags": ["graphs", "graph_traversal", "scc"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.4419000148773193

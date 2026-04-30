@@ -23,13 +23,7 @@
   "hint": "<p>입출력의 양이 많으므로 빠른 입출력을 사용하는 것을 권장합니다. 대표적인 언어에 따른 빠른 입출력은 아래를 참고하세요.</p>\n<ul>\n<li>C++: <code>cin</code>, <code>cout</code>을 사용하는 경우 입출력 전에 <code>cin.tie(nullptr); ios::sync_with_stdio(false);</code>를 한 번 적용해야 합니다. 줄 바꿈할 때는 <code>endl</code> 대신 <code>'\\n'</code>을 사용해야 합니다.</li>\n<li>Java: <code>BufferedReader</code>와 <code>BufferedWriter</code>를 사용해야 합니다.</li>\n<li>Python3, PyPy3: <code>input()</code> 대신 <code>sys.stdin.readline().rstrip()</code>을 사용해야 합니다.</li>\n</ul>",
   "source": "University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 1, null_nullptr, heeda0528, mbae059, qvixnh22, skeep194, swoon, tony9402, utilforever, vkdldjvkdnj",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "binary_search",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "binary_search", "set", "tree_set"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 3.3285999298095703

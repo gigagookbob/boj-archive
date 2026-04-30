@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2025 SCON, m4ushold, w8385, cologne, dohyonne, jhnah917, jhwest2, jms020820, junseo, kyo20111, moonlit, rkaskan506, ryute",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "dfs"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 1.9244999885559082

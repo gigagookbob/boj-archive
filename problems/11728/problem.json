@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 6,
-  "tags": [
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "two_pointer"],
   "accepted_user_count": 17700,
   "submission_count": null,
   "average_tries": 2.10260009765625

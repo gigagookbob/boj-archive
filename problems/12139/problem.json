@@ -15,11 +15,7 @@
   "hint": "<p>In Case #1, Pegman is guaranteed to walk off the top edge of the grid, no matter where he is placed. You can prevent that by changing the topmost arrow to point down, which will cause him to walk back and forth between those two arrows forever.<br/>\n<br/>\nIn Case #2, no matter where Pegman is placed, he will walk around and around the board clockwise in a circle. No arrows need to be changed.<br/>\n<br/>\nIn Case #3, the mischievous user might place Pegman on the up arrow in the middle of the grid, in which case he will start walking and then walk off the top edge of the grid. Changing the direction of this arrow won't help: it would just make him walk off a different edge.<br/>\n<br/>\nIn Case #4, the only possible starting cell is blank, so Pegman will stand still forever and is in no danger.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 2",
   "level": 10,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.149999976158142

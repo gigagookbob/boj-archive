@@ -23,13 +23,7 @@
   "hint": "<p>Clarification of the first example: After applying the operation on a tree, node $3$ is at a distance of $1$ from node $1$, and node $2$ is at a distance of $2$ from node $1$. The result is $3 + 2 \\cdot 2 = 7$.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #3",
   "level": 17,
-  "tags": [
-    "dp",
-    "data_structures",
-    "trees",
-    "dp_tree",
-    "sparse_table"
-  ],
+  "tags": ["dp", "data_structures", "trees", "dp_tree", "sparse_table"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.5217000246047974

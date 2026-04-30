@@ -23,10 +23,7 @@
   "hint": "<p>pećnica ima kapacitet 3, pa će joj trebati 3 ture da bi ispekla 7 peciva. U prvoj i drugoj turi će ispeći po 3 peciva, dok će u zadnjoj turi peći samo jedno. </p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2007",
   "level": 9,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2016",
   "level": 20,
-  "tags": [
-    "flow",
-    "graphs"
-  ],
+  "tags": ["flow", "graphs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

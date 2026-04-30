@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2025 ICPC Asia Yokohama Regional Contest",
   "level": 17,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "parametric_search"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.8077000379562378

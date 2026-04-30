@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ndb796, kyo20111",
   "level": 9,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 4991,
   "submission_count": null,
   "average_tries": 2.347399950027466

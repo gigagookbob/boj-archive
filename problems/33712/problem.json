@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 전남대학교, 2025 상반기 전남대학교 PIMM 알고리즘 파티, jjkmk1013, lycoris1600, sjhi00, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.3415000438690186

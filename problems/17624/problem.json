@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2019 2차대회, 고등부, edenooo",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 231,
   "submission_count": null,
   "average_tries": 3.393899917602539

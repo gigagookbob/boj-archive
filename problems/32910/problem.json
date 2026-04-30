@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Qualification",
   "level": 11,
-  "tags": [
-    "euclidean",
-    "greedy",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["euclidean", "greedy", "math", "number_theory"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.81820011138916

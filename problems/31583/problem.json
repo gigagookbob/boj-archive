@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2017, functionx",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "multi_segtree",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "multi_segtree", "segtree"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

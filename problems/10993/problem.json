@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["implementation", "recursion"],
   "accepted_user_count": 1677,
   "submission_count": null,
   "average_tries": 2.4489998817443848

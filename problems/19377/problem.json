@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 3: Japanese Contest, Head of Republic of Karelia Cup, Round I",
   "level": 19,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

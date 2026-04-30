@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2025, ehe123, azberjibiou, bjs0306b, dohoon, gwanwoopa, kwoncycle, leedongbin, sk14cj, swoon, tony9402",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 159,
   "submission_count": null,
   "average_tries": 1.8176000118255615

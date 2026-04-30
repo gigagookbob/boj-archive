@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2022, Advanced",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "inclusion_and_exclusion"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.875

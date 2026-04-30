@@ -15,12 +15,7 @@
   "hint": "<ul>\n<li>출제자가 의도하고, 작성한 풀이는 600ms 안에 동작합니다.</li>\n</ul>",
   "source": "Contest, BOJ User Contest, IDTcup, 제 2회 IDTcup, TAMREF",
   "level": 18,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "case_work"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "case_work"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 5.934500217437744

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2025 SKKU 프로그래밍 대회, itinbangk, Coxie, jthis, shjohw12, sjhi00, tony9402, utilforever",
   "level": 13,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 4.6666998863220215

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2025 SKKU 프로그래밍 대회, shjohw12, Coxie, itinbangk, jthis, sjhi00, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["implementation", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.9111000299453735

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2012, 중등부, ncy09",
   "level": 19,
-  "tags": [
-    "implementation",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["implementation", "greedy", "constructive"],
   "accepted_user_count": 326,
   "submission_count": null,
   "average_tries": 2.6166000366210938

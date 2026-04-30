@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2018",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "dp",
-    "prefix_sum",
-    "sorting"
-  ],
+  "tags": ["binary_search", "dp", "prefix_sum", "sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

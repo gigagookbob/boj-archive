@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 2022 충남대학교 SW-IT Contest, Division 1, ygonepiece, jh05013, man_of_learning, puppy",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 288,
   "submission_count": null,
   "average_tries": 2.0104000568389893

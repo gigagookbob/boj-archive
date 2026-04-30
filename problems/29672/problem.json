@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 271px; height: 348px;\"/></p>\n<p>Этот рисунок соответствует второму примеру. Отмеченная жирной линией часть дороги, является освещенной.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, May 8, 2010, Advanced",
   "level": 17,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["sorting", "geometry", "sweeping"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

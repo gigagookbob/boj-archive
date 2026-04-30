@@ -19,11 +19,7 @@
   "hint": "<p>なお，入力例１と出力例１の船舶が運航を開始していく模様と客からの注文票に対する返答を，図１として以下に図示している．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/> <img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"3.png\"/> <img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"4.png\"/> <img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"5.png\"/> <img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"6.png\"/> <img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"7.png\"/> <img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"8.png\"/> <img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"9.png\"/> <img alt=\"\" src=\"2.png\"/> <img alt=\"\" src=\"10.png\"/></p>\n<p style=\"text-align: center;\">図１. 入力例１と出力例１に対するアニメーションと分解写真</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2007/2008 예선, baekjoon",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 1.1567000150680542

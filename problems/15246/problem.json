@@ -15,12 +15,7 @@
   "hint": "<p>Let’s show that the fifth road \"1 3\" can be directed in either direction. Two possible orientations of roads with different directions of the fifth road are LLRLRL and RLRRLL.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2017, Day 1",
   "level": 20,
-  "tags": [
-    "graphs",
-    "trees",
-    "lca",
-    "bcc"
-  ],
+  "tags": ["graphs", "trees", "lca", "bcc"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 3.7428998947143555

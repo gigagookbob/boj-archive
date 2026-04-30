@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2009, CCC 2009 Senior Division",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "bellman_ford",
-    "dial"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "bellman_ford", "dial"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 6.625

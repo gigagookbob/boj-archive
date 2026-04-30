@@ -27,11 +27,7 @@
   "hint": "<p>예제 1의 경우 아래와 같이 좋은 깃발을 만들 수 있다.</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"height:244px; width:340px\" /></p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2010/2011 예선, baekjoon",
   "level": 21,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 3.329699993133545

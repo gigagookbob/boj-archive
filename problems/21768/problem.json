@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2021 KAIST RUN Spring Contest, Camp, Petrozavodsk Programming Camp, Winter 2022, Day 2: Grand Prix of Daejeon, Contest, Open Cup, 2021/2022 Season, Stage 11: Grand Prix of Daejeon, koosaga, aeren, ainta, cs71107, jh05013, jhnah917, jwvg0425, leejseo, taeyeon_ss",
   "level": 23,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 2.0390000343322754

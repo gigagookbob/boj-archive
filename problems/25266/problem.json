@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2022",
   "level": 27,
-  "tags": [
-    "bitmask",
-    "divide_and_conquer",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bitmask", "divide_and_conquer", "graphs", "graph_traversal"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.5713999271392822

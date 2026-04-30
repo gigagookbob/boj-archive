@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2018, CCC 2018 Senior Division",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "set",
-    "hash_set",
-    "harmonic_number"
-  ],
+  "tags": ["dp", "data_structures", "set", "hash_set", "harmonic_number"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.2894999980926514

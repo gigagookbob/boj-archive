@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2011 in Fukuoka",
   "level": 21,
-  "tags": [
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "string"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.923099994659424

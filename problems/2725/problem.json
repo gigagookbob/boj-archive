@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2006 Greater New York Programming Contest, baekjoon",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum", "euclidean"],
   "accepted_user_count": 1865,
   "submission_count": null,
   "average_tries": 1.9153000116348267

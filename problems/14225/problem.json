@@ -23,9 +23,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 4993,
   "submission_count": null,
   "average_tries": 2.216900110244751

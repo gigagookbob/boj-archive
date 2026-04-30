@@ -15,9 +15,7 @@
   "hint": "<p>FJ can overpay Bessie with the one 10-cent coin for 1 week, then pay Bessie two 5-cent coins for 10 weeks and then pay Bessie one 1-cent coin and one 5-cent coin for 100 weeks.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO October 2009 Contest, Gold, Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO October 2005 Contest, Silver",
   "level": 13,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.3636000156402588

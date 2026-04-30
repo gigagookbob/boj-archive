@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Offline)",
   "level": 21,
-  "tags": [
-    "implementation",
-    "parsing",
-    "recursion",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "recursion", "string"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.8261001110076904

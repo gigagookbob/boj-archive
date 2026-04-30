@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>Farmer John has 4 cows.  Two cows have only 1 friend each, two cows have 2 friends each, and 1 cow has 3 friends (of course, one of these numbers is extra and does not belong on the list).</p><h4>Output Details</h4><p>Removal of the first number in FJ's list (the number 1) gives a remaining list of 2,2,1,3, which does lead to a feasible friendship pairing -- for example, if we name the cows A..D, then the pairings (A,B), (A,C), (A,D), and (B,C) suffice, since A has 3 friends, B and C have 2 friends, and D has 1 friend.  Similarly, removing the other \"1\" from FJ's list also works, and so does removing the \"3\" from FJ's list.  Removal of either \"2\" from FJ's list does not work -- we can see this by the fact that the sum of the remaining numbers is odd, which clearly prohibits us from finding a feasible pairing.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO March 2014 Contest, Gold",
   "level": 17,
-  "tags": [
-    "graphs",
-    "degree_sequence"
-  ],
+  "tags": ["graphs", "degree_sequence"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.7249999046325684

@@ -15,10 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Poniższy rysunek przedstawia sieć połączeń zgodną z informacjami zdobytymi przez Bajtazara; umieszczono na niej również długości tuneli.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 145px;\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2017/2018, Stage 1",
   "level": 18,
-  "tags": [
-    "case_work",
-    "constructive"
-  ],
+  "tags": ["case_work", "constructive"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.400000095367432

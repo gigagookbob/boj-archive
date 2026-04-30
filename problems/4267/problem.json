@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 24 September, 2006",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "data_structures", "greedy", "sorting"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 5.310299873352051

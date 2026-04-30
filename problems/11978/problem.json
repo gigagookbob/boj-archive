@@ -15,10 +15,7 @@
   "hint": "<p>In this example, FJ steps on a cell at time 17 that he stepped on earlier at time 7; therefore, \\(x\\) must be at most 10 or else the grass from his first visit would not yet have grown back. He also steps on a cell at time 26 that he also visited at time 2; hence \\(x\\) must also be at most 24. Since the first of these two constraints is tighter, we see that \\(x\\) can be at most 10.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO January 2016 Contest, Bronze, tpdnjs94",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 297,
   "submission_count": null,
   "average_tries": 2.8282999992370605

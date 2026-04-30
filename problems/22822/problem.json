@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2001 Japan Domestic Contest",
   "level": 12,
-  "tags": [
-    "backtracking",
-    "bruteforcing"
-  ],
+  "tags": ["backtracking", "bruteforcing"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

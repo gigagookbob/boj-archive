@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서울과학기술대학교, STPC 2024 Autumn by Seoultech FLY, hjroh0315, jwpassion1, kiwiyou, penguin1234, ruykun",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 266,
   "submission_count": null,
   "average_tries": 1.2217999696731567

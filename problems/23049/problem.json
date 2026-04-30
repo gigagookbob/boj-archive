@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2021 서울대학교 프로그래밍 경시대회, Division 1, kipa00, cozyyg, doju, gs18115, sukh1222, yclock",
   "level": 24,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "sqrt_decomposition"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "sqrt_decomposition"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 6.642899990081787

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "School, 마이폴학교, 슬기로운 마이폴 생활, gs18115, qvixnh22, terrasphere, lunarlity, oh040411, pyb1031, tony9402",
   "level": 22,
-  "tags": [
-    "dp",
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["dp", "game_theory", "parity"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.421099901199341

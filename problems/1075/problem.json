@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, eric00513, myju742",
   "level": 4,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 16037,
   "submission_count": null,
   "average_tries": 1.7237000465393066

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 2 June, 2001, baekjoon, waylight3, joonas",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 9926,
   "submission_count": null,
   "average_tries": 3.018199920654297

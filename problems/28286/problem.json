@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023 예선 연습 세션, juny2, evenharder, golazcc83, hyperbolic, jh05013, silverwolf, tlsdydaud1, wapas",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 190,
   "submission_count": null,
   "average_tries": 2.105299949645996

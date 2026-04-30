@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2008, baekjoon, happiness96, jung2381187, lunapocket",
   "level": 8,
-  "tags": [
-    "string",
-    "parsing"
-  ],
+  "tags": ["string", "parsing"],
   "accepted_user_count": 1718,
   "submission_count": null,
   "average_tries": 2.3870999813079834

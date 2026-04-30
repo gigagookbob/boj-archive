@@ -15,10 +15,7 @@
   "hint": "<p>위 입력 예제의 경우, 조건을 만족하는 T는 ()), )() 의 2가지가 가능하다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2018, ainta, zigui, koosaga",
   "level": 28,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 3.69569993019104

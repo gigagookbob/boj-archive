@@ -23,12 +23,7 @@
   "hint": "<p>Explanation for Sample 1</p>\n<p>Kevin can connect with person 3 immediately, and with this connection made, he can also connect with person 2. He doesn't have enough connections to connect with person 1 or person 4, so he gives 3 Internet Points to person 1 to acquire 3 total connections which enables him to connect with person 4.</p>\n<p>Explanation for Sample 2</p>\n<p>It is possible that Kevin can connect with everyone without giving away any Internet Points.</p>\n<p>Explanation for Sample 3</p>\n<p>Kevin should connect with person 1 immediately, then give 8 Internet Points to person 3 to connect with them, then connect with person 2.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCO 2017",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "sorting"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "sorting"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.294100046157837

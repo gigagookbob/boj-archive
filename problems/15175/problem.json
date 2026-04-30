@@ -19,11 +19,7 @@
   "hint": "<p>Sample Input 1 is the ‘After’ paragraph from Figure I.1. The 154 non-highlighted characters are shown in Figure I.2.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2016 ACM South Pacific Programming Contest",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "segtree"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -27,11 +27,7 @@
   "hint": "<p>첫 번째 예제의 경우에 (1, 2), (2)로 나누면 (1 OR 2) + 2 = 3 + 2 = 5가 된다.</p>\n<p>두 번째 예제의 경우에 (1, 2), (3), (4)로 나누면, (1 OR 2) + 3 + 4 = 3 + 3 + 4 = 10이 된다.</p>\n<p>세 번째 예제의 경우에는 (1), (2)로 나눠야 한다.</p>",
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "dp",
-    "divide_and_conquer",
-    "divide_and_conquer_optimization"
-  ],
+  "tags": ["dp", "divide_and_conquer", "divide_and_conquer_optimization"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 2.771399974822998

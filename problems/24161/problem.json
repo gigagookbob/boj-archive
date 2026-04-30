@@ -19,10 +19,7 @@
   "hint": "<p><strong>注意</strong> オーバーフローに注意すること．</p>\n<p style=\"text-align: center;\">2<sup>32</sup> &lt; 20 × 19 × · · · × 3 × 2 × 1 &lt; 2<sup>63</sup></p>\n<p>である．</p>",
   "source": "Camp, JOI Spring Training Camp, JOI 2006/2007 Spring Training Camp",
   "level": 13,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.266700029373169

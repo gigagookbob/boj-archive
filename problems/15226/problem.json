@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2017",
   "level": 5,
-  "tags": [
-    "math",
-    "number_theory",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "number_theory", "arbitrary_precision"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 1.8803000450134277

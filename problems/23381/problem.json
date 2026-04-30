@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2021, Camp, Petrozavodsk Programming Camp, Winter 2022, Day 4: NCPC+BAPC+CTU 2021 Selection",
   "level": 21,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc",
-    "randomization"
-  ],
+  "tags": ["bruteforcing", "ad_hoc", "randomization"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 3.092600107192993

@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "two_pointer"],
   "accepted_user_count": 422,
   "submission_count": null,
   "average_tries": 2.4335999488830566

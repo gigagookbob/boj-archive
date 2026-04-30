@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2018 전북대학교 프로그래밍 경진대회, zxcv859500, eric00513, rory143",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 1472,
   "submission_count": null,
   "average_tries": 2.4816999435424805

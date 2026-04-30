@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, EMEA Semifinal",
   "level": 17,
-  "tags": [
-    "math",
-    "geometry",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "geometry", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1

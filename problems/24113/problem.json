@@ -15,10 +15,7 @@
   "hint": "<p>この場合，入力で与えられる2つの整数は111222233333と999988877である．これらの和は112222222210 なので，出力は上のようになる．</p>",
   "source": ", Camp, JOI Spring Training Camp, JOI 2009/2010 Spring Training Camp",
   "level": 16,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.7390999794006348

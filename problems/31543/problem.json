@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제4회 고려대학교 MatKor Cup: 2024 Winter/Spring, alex04, gs25, kidw0124, tikiliki0417, coo001, devluyten, kevinlys00, lighter, sshs29hanul, tlsdydaud1, utilforever",
   "level": 23,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "bitmask"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 3.8148000240325928

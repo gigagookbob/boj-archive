@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2018",
   "level": 9,
-  "tags": [
-    "implementation",
-    "graphs",
-    "simulation"
-  ],
+  "tags": ["implementation", "graphs", "simulation"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.09089994430542

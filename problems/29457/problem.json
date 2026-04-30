@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере Алиса разрушает любую из трех дорог. После этого Боб, вне зависимости от своего хода, он проигрывает.</p>\n<p>Во втором примере всего одна дорога, разрушив ее, Алиса проиграет.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, May 5, 2012, Basic",
   "level": 8,
-  "tags": [
-    "graphs",
-    "trees",
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["graphs", "trees", "game_theory", "parity"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.724100112915039

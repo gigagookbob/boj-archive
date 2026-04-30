@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2012 Pacific Northwest Region Programming Contest, ainta, ntopia",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "flow", "grid_graph"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.7407000064849854

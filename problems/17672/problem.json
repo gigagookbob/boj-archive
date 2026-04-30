@@ -23,13 +23,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2018/2019 Spring Training Camp, ho94949, august14",
   "level": 24,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lazyprop"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "binary_search", "lazyprop"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 4.38640022277832

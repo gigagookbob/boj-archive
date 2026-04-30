@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제12회 한양대학교 프로그래밍 경시대회(HCPC), Beginner Division, jsj0412, 0xchaser, 79brue, hibye1217, jthis, leo020630, mathtw1030, pizzaroot, sadtreap, terrasphere, tlsdydaud1",
   "level": 4,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 279,
   "submission_count": null,
   "average_tries": 1.469499945640564

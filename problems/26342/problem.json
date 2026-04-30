@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2012 Local Programming Contest",
   "level": 15,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 6.545499801635742

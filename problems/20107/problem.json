@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2012, Day 1",
   "level": 9,
-  "tags": [
-    "constructive",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["constructive", "implementation", "simulation"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.1621999740600586

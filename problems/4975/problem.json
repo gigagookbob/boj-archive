@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2007 Japan Domestic Contest",
   "level": 9,
-  "tags": [
-    "implementation",
-    "simulation",
-    "sweeping"
-  ],
+  "tags": ["implementation", "simulation", "sweeping"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.350000023841858

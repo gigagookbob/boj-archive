@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2016, khsoo01",
   "level": 22,
-  "tags": [
-    "graphs",
-    "bitmask",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "bitmask", "shortest_path", "dijkstra"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 2.6882998943328857

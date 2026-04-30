@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2006 Day 2",
   "level": 19,
-  "tags": [
-    "math",
-    "geometry",
-    "sweeping",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "geometry", "sweeping", "numerical_analysis"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 25

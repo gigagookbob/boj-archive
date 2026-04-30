@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 1993 ACM South Pacific Programming Contest",
   "level": 12,
-  "tags": [
-    "divide_and_conquer"
-  ],
+  "tags": ["divide_and_conquer"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 4.960999965667725

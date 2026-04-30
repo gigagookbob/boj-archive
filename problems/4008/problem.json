@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2010",
   "level": 21,
-  "tags": [
-    "dp",
-    "cht"
-  ],
+  "tags": ["dp", "cht"],
   "accepted_user_count": 1244,
   "submission_count": null,
   "average_tries": 3.0481998920440674

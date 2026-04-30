@@ -15,10 +15,7 @@
   "hint": "<p>11 is the 5th term</p>\n<p>The sequence is –1, -4, -7, -10</p>\n<p>(-1+ -3 = -4, -4 + –3 = -7, -7+ -3 = -10)</p>\n<p>-8 isn’t in the sequence.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2010, goooora, shiftpsh, ai4youej, newdeal",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 859,
   "submission_count": null,
   "average_tries": 2.4993999004364014

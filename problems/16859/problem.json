@@ -35,14 +35,7 @@
   "hint": "<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"1.png\" width=\"560\"></iframe></p>",
   "source": "koosaga",
   "level": 22,
-  "tags": [
-    "articulation",
-    "cactus",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["articulation", "cactus", "dp", "dp_tree", "graphs", "trees"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.9047999382019043

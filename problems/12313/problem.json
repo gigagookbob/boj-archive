@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 2",
   "level": 13,
-  "tags": [
-    "backtracking",
-    "greedy"
-  ],
+  "tags": ["backtracking", "greedy"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.5

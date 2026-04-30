@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2004",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "trees",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "trees", "lca", "sparse_table"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.4403998851776123

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2017",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "sweeping"
-  ],
+  "tags": ["bruteforcing", "sweeping"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.5499999523162842

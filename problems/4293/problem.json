@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.jpg\" style=\"height:86px; width:351px\"/></p>\n<p>The picture above illustrates the first cutting line for the polygon from the sample.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 11 June, 2005",
   "level": 23,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "sorting"
-  ],
+  "tags": ["geometry", "line_intersection", "sorting"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

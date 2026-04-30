@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2016-17, Open Competition",
   "level": 13,
-  "tags": [
-    "implementation",
-    "dp",
-    "string"
-  ],
+  "tags": ["implementation", "dp", "string"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

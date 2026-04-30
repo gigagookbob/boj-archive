@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2017",
   "level": 21,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "greedy",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "greedy", "trees"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.1303999423980713

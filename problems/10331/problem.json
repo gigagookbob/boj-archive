@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2014 in Tokyo",
   "level": 9,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "string", "arithmetic", "parsing"],
   "accepted_user_count": 160,
   "submission_count": null,
   "average_tries": 1.5062999725341797

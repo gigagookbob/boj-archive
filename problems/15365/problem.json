@@ -23,13 +23,7 @@
   "hint": "<p>Clarification of the second test case:</p>\n<p>In order to get to city 2, you need to drive on road 1, for that it takes 1 minute and 7 kunas, so the required product is 7.</p>\n<p>In order to get to city 3, you need to drive on road 2, for that it takes 3 minutes and 2 kunas, so the required product is 6.</p>\n<p>In order to get to city 4, you need to drive on roads 2, 4, 5, in that order, and for that it takes a total of 11 minutes and 4 kunas, so the required product is 44.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #4",
   "level": 26,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "dijkstra",
-    "convex_hull"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "dijkstra", "convex_hull"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.8125

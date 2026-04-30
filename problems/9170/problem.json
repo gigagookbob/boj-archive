@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2005 Pacific Northwest Region Programming Contest, lobo_prix",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.6363999843597412

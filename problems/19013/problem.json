@@ -15,9 +15,7 @@
   "hint": "<p>The example above is given only to demonstrate the format. In this example, the string has length $5$. In the real first test, as well as all other tests, the length of the string to guess is exactly $1000$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 7: Izhevsk STU + Ufa SATU Contest, Contest, Open Cup, 2018/2019 Season, Stage 2: Grand Prix of Udmurtia",
   "level": 20,
-  "tags": [
-    "randomization"
-  ],
+  "tags": ["randomization"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 7.529399871826172

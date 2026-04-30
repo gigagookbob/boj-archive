@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #6",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "pst",
-    "pbs"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "pst", "pbs"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.6973999738693237

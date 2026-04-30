@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2001, baekjoon, sgchoi5, sait2000",
   "level": 10,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "grid_graph"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "shortest_path", "grid_graph"],
   "accepted_user_count": 32579,
   "submission_count": null,
   "average_tries": 1.845900058746338

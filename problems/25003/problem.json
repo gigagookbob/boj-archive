@@ -19,11 +19,7 @@
   "hint": "<p>In sample 1, optimum command structure is shown below at the left. The numbers in vertices correspond to reading times for the respective scouts. The maximum time of handling the message is $13$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 157px; height: 110px;\"/> <img alt=\"\" src=\"2.png\" style=\"width: 156px; height: 110px;\"/></p>\n<p>In sample 2, an optimum command structure is shown above at the right. The numbers in vertices correspond to reading times for the respective scouts. The maximum time of handling the message is $4$.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2015",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "segtree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

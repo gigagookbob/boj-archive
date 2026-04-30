@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 5 cows, at positions 3, 1, 10, 7, and 4.</p><h4>Output Details</h4><p>The four possible triples are the cows as positions 1-3-7, 1-4-7, 4-7-10, and 1-4-10.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO December 2013 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["bruteforcing", "sorting", "binary_search"],
   "accepted_user_count": 412,
   "submission_count": null,
   "average_tries": 1.5024000406265259

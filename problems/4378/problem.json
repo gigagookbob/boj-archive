@@ -15,11 +15,7 @@
   "hint": "<p>교준이는 위의 그림과 동일한&nbsp;쿼티 키보드를 사용한다.</p>\r\n\r\n<p>(셔등ㄹ;ㅇ,ㅇ 르;ㄹ,; ㅅ,ㅎ;ㄴ서ㅣ 걸ㄹ;횡 트ㅏㅊ; ㅌ;적,ㅎ,ㅎ ㅛㅣ려룅기/)</p>\r\n",
   "source": "Contest, Waterloo's local Programming Contests, 17 January, 2001, yclock, eric00513, Green55",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "string", "ad_hoc"],
   "accepted_user_count": 1242,
   "submission_count": null,
   "average_tries": 4.314799785614014

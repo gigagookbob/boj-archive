@@ -19,13 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, djm03178, jthis, chansol, eric00513, jhnah917",
   "level": 17,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "sorting",
-    "ad_hoc",
-    "segtree"
-  ],
+  "tags": ["implementation", "data_structures", "sorting", "ad_hoc", "segtree"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.047600030899048

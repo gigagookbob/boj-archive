@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, jenny00513, Apple_Cplus, ntopia, kcm1700",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 126,
   "submission_count": null,
   "average_tries": 3.142899990081787

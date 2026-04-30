@@ -19,10 +19,7 @@
   "hint": "<p>예제 입력에서 PLPPL은 사실 12번째에 있는 정원 배열이다. 그래서 12를 7로 나눈 나머지인 5를 정답으로 한다.</p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2008, Day 2, race0630, portableangel",
   "level": 19,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.7681000232696533

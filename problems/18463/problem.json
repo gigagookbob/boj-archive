@@ -23,13 +23,7 @@
   "hint": "<p>In the first example, on your first turn, you can kill the third monster, and on your second turn, you can kill the second monster.</p>\n<p>In the second example, you can wait until the leftmost monster will have hi = 1, and then kill it yourself.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 3: 300iq Petrozavodsk Contest III, 300iq",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "slope_trick"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "priority_queue", "slope_trick"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.3529000282287598

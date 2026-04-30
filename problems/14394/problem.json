@@ -23,9 +23,7 @@
   "hint": "<p>예제 1의 경우에는 다음과 같이 게임을 풀 수 있다.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"3.gif\" style=\"height:174px; width:663px\"/></p>",
   "source": "baekjoon, sky1357",
   "level": 7,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 228,
   "submission_count": null,
   "average_tries": 1.320199966430664

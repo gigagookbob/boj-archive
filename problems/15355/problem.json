@@ -23,9 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​third​ ​test​ ​case: In the first query, X=”vovo”, and Y=”devo”. In the second query, X=”odev”, and Y=”devo”.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #3",
   "level": 9,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 1.5575000047683716

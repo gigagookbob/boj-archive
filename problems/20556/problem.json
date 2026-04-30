@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2020 송년대회, moonrabbit2, cs71107, dlalswp25, gs18115, kdh9949, koosaga",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "offline_queries"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.6720999479293823

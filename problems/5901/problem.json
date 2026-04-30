@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 5 towns, with towns 1, 2, and 3 having markets.  There are 6 roads.</p><h4>Output Details</h4><p>FJ builds his farm in town 5.  His daily schedule takes him through towns 5-1-2-3-2-1-5, for a total distance of 12.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO February 2012 Contest, Silver",
   "level": 15,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "bruteforcing", "shortest_path", "dijkstra"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 2.5629000663757324

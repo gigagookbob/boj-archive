@@ -19,14 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2014",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "string",
-    "trees",
-    "dp_tree",
-    "trie"
-  ],
+  "tags": ["dp", "data_structures", "string", "trees", "dp_tree", "trie"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.363600015640259

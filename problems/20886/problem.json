@@ -19,9 +19,7 @@
   "hint": "<p>I det första exempelfallet så har Sverige kastat fyra snöbollar, av storlek 1, 3, 4 och 5 respektive, och Finland kastat två snöbollar av storlekar 2 och 3.</p>\n<p>Det skulle t.ex. kunna skett genom att Sverige började med att kasta en snöboll av storlek 1 på Finland, som i självförsvar kastar tillbaka en av storlek 2, varav Sverige svarar med en av storlek 3 och missar. Finland kastar därefter sin kvarvarande snöboll av storlek 2, och Sverige svarar med en av storlek 4, och missar igen. Sverige missar även med sin sista snöboll av storlek 5. Totalt kastades 3 av snöbollarna i självförsvar.</p>\n<p>I det andra exempelfallet så kan ingen av snöbollarna ha varit i självförsvar, eftersom en sådan snöboll måste vara större än den tidigare.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2017, Online Qualification",
   "level": 13,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

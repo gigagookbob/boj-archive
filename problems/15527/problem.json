@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ACM-ICPC Asia Regional 2017",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "dp",
-    "priority_queue",
-    "slope_trick"
-  ],
+  "tags": ["data_structures", "dp", "priority_queue", "slope_trick"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.8421000242233276

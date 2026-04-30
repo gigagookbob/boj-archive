@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2008 Greater New York Programming Contest, baekjoon",
   "level": 4,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "arithmetic"],
   "accepted_user_count": 5439,
   "submission_count": null,
   "average_tries": 1.3593000173568726

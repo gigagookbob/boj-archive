@@ -19,12 +19,7 @@
   "hint": "<p>The situations are depicted below together with possible optimum walls. In both cases, the wall is shown as a bold line and squares with villages are colored.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 506px; height: 230px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2014, Day 2",
   "level": 26,
-  "tags": [
-    "graphs",
-    "greedy",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "greedy", "shortest_path", "dijkstra"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.899999976158142

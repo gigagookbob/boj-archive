@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, to prevent the whole string from being a palindrome, the first and last question mark must be different characters.</p>\n<p>If we replace first question mark with <code>0</code> and replace the last question mark with <code>1</code>, we get <code>1000?1001</code>. If the remaining <code>?</code> is replaced by <code>1</code>, we get <code>100011001</code>, then the first $5$ characters form a palindrome of length $5$. Otherwise, we get <code>100001001</code>, the first $6$ characters are a palindrome of length $6$.</p>\n<p>If we replace first question mark with <code>1</code> we get <code>1001?0001</code>. If the remaining <code>?</code> is replaced by <code>1</code>, we get <code>100110001</code>, then the last $5$ characters form a palindrome of length $5$. Otherwise, we get <code>100100001</code>, the last $6$ characters are a palindrome of length $6$.</p>\n<p>Hence, there is no way to get a valid string.</p>\n<p>In Sample Case #2, one of the valid strings after replacing all the <code>?</code> is <code>10011</code>.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2022, Round A",
   "level": 17,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.5532000064849854

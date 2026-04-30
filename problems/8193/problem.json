@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.gif\" style=\"height:169px; width:157px\" /></p>\r\n\r\n<p>예제를 그림으로 나타낸 것이다. 실선이 이미 연결된 텔레포터이며 점선이 최대한 더 지을 수 있는 텔레포터들을 나타낸 것이다.</p>\r\n",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 2, kks227",
   "level": 19,
-  "tags": [
-    "graphs",
-    "greedy"
-  ],
+  "tags": ["graphs", "greedy"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.3333001136779785

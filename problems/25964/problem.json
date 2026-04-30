@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2022 아주대학교 프로그래밍 경시대회 APC, akim9905, kipa00, tony9402, wider93",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.3889000415802002

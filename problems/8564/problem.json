@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2001",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "trees", "dp_tree"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.294100046157837

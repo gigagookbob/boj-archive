@@ -15,10 +15,7 @@
   "hint": "<p>I exemplet hinner hon bara plocka äpplena från två träd. Trädet hon börjar på har $6$ äpplen. Trädet till norr har $7$ äpplen, medan trädet direkt till öst bara har $4$ äpplen. Hon hinner därför som mest plocka $6 + 7 = 13$ äpplen.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, Online Qualification",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.299999952316284

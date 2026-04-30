@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, dotorya",
   "level": 14,
-  "tags": [
-    "greedy",
-    "trees"
-  ],
+  "tags": ["greedy", "trees"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.7925000190734863

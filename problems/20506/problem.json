@@ -19,12 +19,7 @@
   "hint": "<p>트리에서, 두 정점 u, v의 LCA(Lowest Common Ancester)는, u의 조상이기도 하고 v의 조상이기도 한 정점들 가운데 가장 깊이가 깊은(아래에 있는) 정점이다.</p>\n<p>예를 들어, 예제 2의 입력에 해당하는 트리에서,</p>\n<ul>\n<li>1번과 5번 정점의 LCA는 12번 정점</li>\n<li>8번과 11번 정점의 LCA는 3번 정점</li>\n<li>5번과 7번 정점의 LCA는 9번 정점</li>\n<li>4번과 12번 정점의 LCA는 12번 정점</li>\n<li>2번과 2번 정점의 LCA는 2번 정점</li>\n</ul>\n<p>이다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제4회 천하제일 코딩대회, junie",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["math", "dp", "trees", "dp_tree"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 1.4205000400543213

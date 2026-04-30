@@ -15,11 +15,7 @@
   "hint": "<p>There are four ways to plant only on one squares (1, 2, 3, or 4), three ways to plant on two squares (13, 14, or 34), 1 way to plant on three squares (134), and one way to plant on no squares. 4+3+1+1=9.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO November 2006 Contest, Gold",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.9434000253677368

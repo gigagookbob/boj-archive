@@ -19,9 +19,7 @@
   "hint": "<p>In the first example, $A$ is $[1, 2]$. $A$ has four subsequences $[]$, $[1]$, $[2]$ and $[1,2]$, and the sums for them are $0$, $1$, $2$ and $3$. So, $B = [1, 1, 1, 1]$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 4: Ruyi Ji Contest 2",
   "level": 18,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.666700005531311

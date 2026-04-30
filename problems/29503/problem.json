@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 23, 2010, Basic",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "simulation", "parsing"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.1332999467849731

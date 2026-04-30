@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, one of the optimal permutations is $\\{4, 5, 3, 2, 1\\}$.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 16: Grand Prix of Moscow",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "trees"
-  ],
+  "tags": ["data_structures", "greedy", "trees"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.399999976158142

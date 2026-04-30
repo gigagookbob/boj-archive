@@ -19,10 +19,7 @@
   "hint": "<p><code><span style=\"color:#e74c3c;\">YES</span></code> 또는 <code><span style=\"color:#e74c3c;\">NO</span></code>를 출력할 때 모든 글자를 대문자로 출력해야 함에 유의하라.</p>",
   "source": "School, 대전과학고등학교, 제1회 대전과학고등학교 프로그래밍 경진대회 DSHStack, koi312500, dongwook7, hyperbolic, iktk, ohwphil, sjhi00, woohyun_jng",
   "level": 2,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 1073,
   "submission_count": null,
   "average_tries": 1.23580002784729

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2021",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "set",
-    "lazyprop"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "set", "lazyprop"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.736799955368042

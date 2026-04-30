@@ -15,10 +15,7 @@
   "hint": "<p>Four lights; five commands. Here is the sequence that should be processed:</p>\n<pre>\n        Lights\n            1 2 3 4\n  Init:     O O O O   O = off  * = on\n  0 1 2 -&gt;  * * O O  toggle lights 1 and 2\n  0 2 4 -&gt;  * O * *\n  1 2 3 -&gt;  1        count the number of lit lights in range 2..3\n  0 2 4 -&gt;  * * O O  toggle lights 2, 3, and 4\n  1 1 4 -&gt;  2        count the number of lit lights in the range 1..4</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO November 2008 Contest, Bronze",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 202,
   "submission_count": null,
   "average_tries": 1.2771999835968018

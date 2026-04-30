@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2023",
   "level": 16,
-  "tags": [
-    "graphs",
-    "sqrt_decomposition"
-  ],
+  "tags": ["graphs", "sqrt_decomposition"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.399999976158142

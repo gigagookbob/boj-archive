@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 4: Yandex Cup 2020",
   "level": 19,
-  "tags": [
-    "eulerian_path",
-    "graphs"
-  ],
+  "tags": ["eulerian_path", "graphs"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 4.199999809265137

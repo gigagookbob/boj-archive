@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제1회 가톨릭대학교 프로그래밍 경진대회 (CCPC), Div. 1, winterlood, 9507ym, kimcoding, rhs0266, tony9402, tyoungs",
   "level": 17,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 1.7720999717712402

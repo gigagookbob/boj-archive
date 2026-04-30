@@ -19,12 +19,7 @@
   "hint": "<p>볼록 다각형은 모든 내각이 $0$도보다 크고 $180$도와 같거나 작은 단순 다각형이다.</p>",
   "source": "University, 국민대학교, 2025 KPSC Summer Algorithm Challenge, tapris, chan120714, lky7674, saywoo, sjhi00, utilforever",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "prefix_sum",
-    "calculus"
-  ],
+  "tags": ["math", "geometry", "prefix_sum", "calculus"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 7.444399833679199

@@ -23,12 +23,7 @@
   "hint": "<p><em>Explanation of Sample 1:</em> The average of $[10, 9, 10, 7, 7]$ is exactly $8.6$. It can be proven such that there is no valid list with four or less integers.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2025",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "constructive", "euclidean"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2012",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

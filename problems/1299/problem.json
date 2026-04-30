@@ -15,11 +15,7 @@
   "hint": null,
   "source": "xhark",
   "level": 0,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 5.730800151824951

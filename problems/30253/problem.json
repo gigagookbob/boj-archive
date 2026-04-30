@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2016/2017, National Round (2), 10-12 Classes",
   "level": 13,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.799999952316284

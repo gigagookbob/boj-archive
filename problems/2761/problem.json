@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2004 Greater New York Programming Contest, baekjoon, exupery",
   "level": 15,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "geometry_3d"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.576300024986267

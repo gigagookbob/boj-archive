@@ -19,11 +19,7 @@
   "hint": "<p>In the first example one possible strategy is as follows: one streamsniper starts searching at 5.5, another at 11.5, and the last one starts searching 3.5 seconds after Arthas does (he will know because the delay is 3, which is less than 3.5).</p>",
   "source": "Camp, Moscow Pre-Finals ACM ICPC Workshop, Moscow Pre-Finals ACM ICPC Workshop 2018",
   "level": 24,
-  "tags": [
-    "implementation",
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["implementation", "greedy", "parametric_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 7.75

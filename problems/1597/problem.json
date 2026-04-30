@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2006, author5, 7020kjs",
   "level": 20,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "calculus",
-    "polygon_area"
-  ],
+  "tags": ["math", "implementation", "geometry", "calculus", "polygon_area"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

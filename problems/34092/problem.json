@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025, leo020630, 79brue, cki86201, functionx, hyperbolic, kipa00, kuhyaku, ncy09, queued_q, seonah",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "lca"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "lca"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 6.689700126647949

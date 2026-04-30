@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, Round 3",
   "level": 23,
-  "tags": [
-    "graphs",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "planar_graph"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

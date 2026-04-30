@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO December 2010 Contest, Bronze",
   "level": 3,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 846,
   "submission_count": null,
   "average_tries": 1.3770999908447266

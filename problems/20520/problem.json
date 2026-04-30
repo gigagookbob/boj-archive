@@ -19,10 +19,7 @@
   "hint": "<p>В первом тесте, если поставить всех 10 защитников на единственный участок, они смогут отбить всех нападающих, и никто не пройдёт в крепость. Во втором примере можно, например, направить двух защитников на первый участок и одного --- на третий.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2016",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.757599949836731

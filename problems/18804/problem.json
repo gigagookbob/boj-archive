@@ -27,12 +27,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2020 SciOI #1, blackking26",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "hall",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "hall", "lazyprop", "segtree"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.36359977722168

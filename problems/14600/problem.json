@@ -23,9 +23,7 @@
   "hint": "<p>예제 1: <img alt=\"\" src=\"1.png\" style=\"height:54px; width:51px\"/></p>\n<p>예제 2: <img alt=\"\" src=\"2.png\" style=\"height:90px; width:87px\"/></p>\n<p>예제 3: <img alt=\"\" src=\"3.png\" style=\"height:87px; width:86px\"/></p>",
   "source": "University, 아주대학교, 2017 아주대학교 프로그래밍 경시대회 (APC), Division 1, luke0201",
   "level": 10,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 689,
   "submission_count": null,
   "average_tries": 1.486199975013733

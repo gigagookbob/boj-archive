@@ -19,13 +19,7 @@
   "hint": null,
   "source": "newdeal, bono4023, kth004, devbelly",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "mst",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "mst", "grid_graph"],
   "accepted_user_count": 1392,
   "submission_count": null,
   "average_tries": 3.487799882888794

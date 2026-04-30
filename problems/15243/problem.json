@@ -31,9 +31,7 @@
   "hint": "<p>In the last test case, the actual result is 8155103542731753 by we have to print it modulo 10<sup>9</sup> + 7.</p>",
   "source": "Olympiad, All-Ireland Programming Olympiad, 2017 AIPO National Finals",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 1.5226999521255493

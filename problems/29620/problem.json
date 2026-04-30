@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 전남대학교, 2023 전남대학교 PIMM 알고리즘 파티, 0do, jk410, kiwiyou, lycoris1600, tony9402, utilforever",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.240000009536743

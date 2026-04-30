@@ -15,11 +15,7 @@
   "hint": "<p>Another correct solution would be:</p>\n<pre>\n0 1 2 3 0\n2 3 0 0 1\n0 0 3 1 2\n1 0 0 2 3\n3 2 1 0 0</pre>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2011",
   "level": 18,
-  "tags": [
-    "implementation",
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["implementation", "constructive", "backtracking"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.3125

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2017 연세대학교 컴퓨터과학과 프로그래밍 경진대회, portableangel, seok9311",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["math", "dp", "prefix_sum"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 2.97979998588562

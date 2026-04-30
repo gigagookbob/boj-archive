@@ -31,13 +31,7 @@
   "hint": "<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"1.png\" width=\"560\"></iframe></p>",
   "source": "baekjoon, Apple_Cplus, ho94949",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics",
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics", "bitmask", "backtracking"],
   "accepted_user_count": 1282,
   "submission_count": null,
   "average_tries": 2.811199903488159

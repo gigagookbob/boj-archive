@@ -27,13 +27,7 @@
   "hint": "<p>예제 3</p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:141px; width:314px\"/></p>",
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph",
-    "mcmf",
-    "hungarian"
-  ],
+  "tags": ["graphs", "flow", "grid_graph", "mcmf", "hungarian"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.266700029373169

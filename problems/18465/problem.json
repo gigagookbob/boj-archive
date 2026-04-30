@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 3: 300iq Petrozavodsk Contest III, 300iq",
   "level": 26,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.25

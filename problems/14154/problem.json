@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2008",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.2726999521255493

@@ -19,11 +19,7 @@
   "hint": "<p>예제 입력2 의 경우에는 아래와 같은 예시가 있다.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:116px; width:414px\"/></p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2017 Sogang Programming Contest, Champion, ainch96",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.8624999523162842

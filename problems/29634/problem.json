@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, February 13, 2010",
   "level": 10,
-  "tags": [
-    "bfs",
-    "dfs",
-    "flood_fill",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dfs", "flood_fill", "graphs", "graph_traversal"],
   "accepted_user_count": 120,
   "submission_count": null,
   "average_tries": 1.399999976158142

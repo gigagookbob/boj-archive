@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2002 연습 세션",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "flow", "grid_graph", "bipartite_matching"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.899999976158142

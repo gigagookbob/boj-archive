@@ -31,10 +31,7 @@
   "hint": "<p>URU도 가능하지만, 사전 순으로 가장 앞서는 답은 아니다.</p>",
   "source": "baekjoon, lobo_prix",
   "level": 13,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 4.892499923706055

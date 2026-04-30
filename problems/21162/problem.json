@@ -15,11 +15,7 @@
   "hint": "<p><a href=\"https://www.acmicpc.net/problem/15492\">https://www.acmicpc.net/problem/15492</a> 을 풀어보면 도움이 될 수도 있다.</p>",
   "source": "jhnah917, cs71107, messi",
   "level": 18,
-  "tags": [
-    "string",
-    "hashing",
-    "suffix_array"
-  ],
+  "tags": ["string", "hashing", "suffix_array"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 2.8399999141693115

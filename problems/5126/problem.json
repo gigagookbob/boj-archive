@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2012: End of the World",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "string", "bruteforcing"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

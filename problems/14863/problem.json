@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2017, 초등부, apjw6112",
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 1749,
   "submission_count": null,
   "average_tries": 3.210400104522705

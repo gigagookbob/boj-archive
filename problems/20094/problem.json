@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2017, Practice",
   "level": 4,
-  "tags": [
-    "implementation",
-    "constructive",
-    "heuristics"
-  ],
+  "tags": ["implementation", "constructive", "heuristics"],
   "accepted_user_count": 278,
   "submission_count": null,
   "average_tries": 1.2517999410629272

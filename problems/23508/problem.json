@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 19: The Grand Prix of Serbia",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "linear_algebra",
-    "math",
-    "segtree"
-  ],
+  "tags": ["data_structures", "linear_algebra", "math", "segtree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

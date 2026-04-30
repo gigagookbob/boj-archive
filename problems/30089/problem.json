@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 예제의 정답인 <code>KITPAPTIK</code>는 <code>KITPA</code>로 시작하고, 뒤에서부터 읽은 문자열 <code>KITPAPTIK</code>도 <code>KITPA</code>로 시작한다.</p>\n<p>두 번째 예제에 대해서, <code>BANANANAB</code>도 앞의 조건 두 개를 만족하지만, 더 짧은 문자열 <code>BANANAB</code>도 조건을 만족하므로, 가장 짧은 문자열인 <code>BANANAB</code>가 정답이 된다.</p>",
   "source": "Contest, 한국정보기술진흥원, 제1회 청소년 IT경시대회, 초등부, Contest, 한국정보기술진흥원, 제1회 청소년 IT경시대회, 중등부, Contest, 한국정보기술진흥원, 제2회 청소년 IT경시대회, 예비소집, ai4youej",
   "level": 7,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 664,
   "submission_count": null,
   "average_tries": 1.7651000022888184

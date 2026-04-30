@@ -35,9 +35,7 @@
   "hint": null,
   "source": "baekjoon, hun3555, kesakiyo",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1015,
   "submission_count": null,
   "average_tries": 2.614799976348877

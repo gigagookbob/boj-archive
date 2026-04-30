@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 23,
-  "tags": [
-    "bfs",
-    "constructive",
-    "graphs",
-    "graph_traversal",
-    "recursion"
-  ],
+  "tags": ["bfs", "constructive", "graphs", "graph_traversal", "recursion"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

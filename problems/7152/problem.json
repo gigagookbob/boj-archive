@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2013",
   "level": 20,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "flow"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "flow"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.6666998863220215

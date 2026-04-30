@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, AI Network Scholarium, AI Network Scholarium I, leehosu01, alex9801, august14, doju, gs15120",
   "level": 8,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 216,
   "submission_count": null,
   "average_tries": 1.8703999519348145

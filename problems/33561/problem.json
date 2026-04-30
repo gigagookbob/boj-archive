@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제2회 유틸컵, lms0806, chogahui05, dkim110807, dong5995, jinhan814, tony9402, utilforever",
   "level": 13,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting", "prefix_sum"],
   "accepted_user_count": 212,
   "submission_count": null,
   "average_tries": 1.754699945449829

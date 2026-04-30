@@ -15,11 +15,7 @@
   "hint": "<p>В примере на последний запрос также допустим ответ <code>1</code>. Ололо, частичные решения</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, March 17, 2012",
   "level": 20,
-  "tags": [
-    "offline_queries",
-    "coordinate_compression",
-    "mo"
-  ],
+  "tags": ["offline_queries", "coordinate_compression", "mo"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.6444000005722046

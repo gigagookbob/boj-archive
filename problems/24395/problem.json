@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2022 중앙대학교 CHAC (ChAOS Hello2022 Algorithm Contest), thrudgelmir, bnb2011, chogahui05, dkvltmxhf, dlaud5379, dlstj0923, omjin7n, pjshwa, smmaker118, soljin8122, tngus5851, tony9402, xingxing2001",
   "level": 13,
-  "tags": [
-    "dp",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "sorting", "knapsack"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 2.578399896621704

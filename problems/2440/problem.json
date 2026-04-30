@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, cake_monotone",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 70609,
   "submission_count": null,
   "average_tries": 1.4594000577926636

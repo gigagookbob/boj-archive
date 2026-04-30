@@ -23,12 +23,7 @@
   "hint": "<p>맵에 따라 게임이 끝나지 않을 수 있음에 유의하라.</p>",
   "source": "University, KAIST, KAIST HAJE 프로그래밍 대회, cologne, shortcakesweets, gs20036, harnel_tngn, juneharold, kaistray, mathking1021",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 5.225800037384033

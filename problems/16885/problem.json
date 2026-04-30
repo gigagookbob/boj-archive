@@ -19,12 +19,7 @@
   "hint": "<p>두 벡터 v = (x<sub>v</sub>, y<sub>v</sub>), u = (x<sub>u</sub>, y<sub>u</sub>)의 합은 s = v + u = (x<sub>v</sub> + x<sub>u</sub>, y<sub>v</sub> + y<sub>u</sub>) 이다.</p>\n<p>벡터 v = (x, y)의 |v|는 √(x<sup>2</sup> + y<sup>2</sup>) 이다.</p>",
   "source": "baekjoon, jh05013, ppsrac",
   "level": 19,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "divide_and_conquer"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "divide_and_conquer"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.3125

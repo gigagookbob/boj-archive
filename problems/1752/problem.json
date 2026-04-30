@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2002, Day 1, author6",
   "level": 18,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["dp", "bruteforcing", "sorting"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 4.724100112915039

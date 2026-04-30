@@ -15,10 +15,7 @@
   "hint": "<p>In this example, Elsie could have earned at most 2 points. If the pebble started under shell 1, then she guesses right exactly once (her final guess). If the pebble started under shell 2, then she guesses right twice (the first two guesses). If the pebble started under shell 3, then she doesn't make any correct guesses.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 January Contest, Bronze",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 930,
   "submission_count": null,
   "average_tries": 1.5902999639511108

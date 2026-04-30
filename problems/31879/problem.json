@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2024 한양대학교 ERICA 프로그래밍 경시대회 HEPC, One Division, University, 한양대학교 ERICA 캠퍼스, 2024 한양대학교 ERICA 프로그래밍 경시대회 HEPC, Open Contest, khj20006, firstin0907, gs22059, hellogaon, hyoseok, qsccsq22, tony9402",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "maximum_subarray"
-  ],
+  "tags": ["data_structures", "segtree", "maximum_subarray"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.2188000679016113

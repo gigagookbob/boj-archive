@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2020",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "constructive"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 1.2785999774932861

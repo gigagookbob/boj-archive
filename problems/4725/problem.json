@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2009 Mid-Atlantic Regional Programming Contest",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "combinatorics",
-    "recursion"
-  ],
+  "tags": ["math", "implementation", "string", "combinatorics", "recursion"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

@@ -23,9 +23,7 @@
   "hint": "<p>어떤 문자열의 연속 부분문자열(substring)이란, 문자열에서 연속한 구간을 선택하여 얻는 문자열을 의미한다. 예를 들어 문자열 <span style=\"color:#e74c3c;\"><code>abcde</code></span>의 연속 부분문자열에는 <span style=\"color:#e74c3c;\"><code>a</code></span>, <span style=\"color:#e74c3c;\"><code>bc</code></span>, <span style=\"color:#e74c3c;\"><code>cde</code></span>, <span style=\"color:#e74c3c;\"><code>abcde</code></span> 등이 있으며, <span style=\"color:#e74c3c;\"><code>ace</code></span>는 연속 부분문자열이 아니다.</p>\r\n\r\n<p>두 문자열의 최장 공통 연속 부분문자열이란, 두 문자열의 공통된 연속 부분문자열 중 길이가 가장 긴 것을 의미한다. 예를 들어 $A=$ <span style=\"color:#e74c3c;\"><code>aaabb</code></span>, $B=$ <span style=\"color:#e74c3c;\"><code>caaab</code></span> 라면 두 문자열의 최장 공통 연속 부분문자열은 <span style=\"color:#e74c3c;\"><code>aaab</code></span>이며, 그 길이는 $4$이다.</p>\r\n",
   "source": "University, UNIST-DGIST-POSTECH, 2026 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2026 UDPC), Senior Division, 0917ba, leo020630, 99asdfg, jinhan814, jthis, pyb1031, utilforever",
   "level": 17,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.6363999843597412

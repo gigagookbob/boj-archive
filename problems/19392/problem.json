@@ -15,9 +15,7 @@
   "hint": "<p>Please note that the example in the problem statement is only to show the format! The tests in the system will not include this example (test 1 will be some other test), as it violates the constraints.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 5: Tsinghua U Deep Dark Fantasy Contest",
   "level": 22,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 6

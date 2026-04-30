@@ -15,9 +15,7 @@
   "hint": "<p>로봇융합관의 건물 공사는 실제로 로봇이 담당했으며, 문제에 제시된 게임은 실제 로봇융합관 건설과는 무관하다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Div. 2, University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Open Contest - Phase 1, coo001, eoaud0108, kidw0124, cologne, shiftpsh, tlsdydaud1, utilforever, yijw0930",
   "level": 19,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.9907000064849854

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2014-15, Final Round, Gymnasium, Olympiad, Estonian Informatics Olympiad, 2014-15, Final Round, Advanced",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.142899990081787

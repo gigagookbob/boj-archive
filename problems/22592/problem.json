@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2011 Day 4",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "combinatorics",
-    "dp",
-    "math",
-    "sorting"
-  ],
+  "tags": ["binary_search", "combinatorics", "dp", "math", "sorting"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

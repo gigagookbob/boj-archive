@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, Acka, doju",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching"],
   "accepted_user_count": 1804,
   "submission_count": null,
   "average_tries": 2.196199893951416

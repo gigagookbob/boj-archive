@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 217px; height: 218px;\" /></p>\r\n",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2010, Croatian Olympiad in Informatics 2010, baekjoon, pda_pro12, songuno1",
   "level": 14,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["sorting", "binary_search", "set"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 2.3701000213623047

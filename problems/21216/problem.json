@@ -19,12 +19,7 @@
   "hint": "<ul>\n<li>We assume the reader base is stable, i.e. no reader leaves and no additional reader joins throughout the process.</li>\n<li>We assume that everyone knows their own email address; receiving one's own address is simply ignored. </li>\n<li>You do no have to be \"consistent\" in your answers across several tests cases, meaning that you can output the value $E$ for one test case and $E$+1 for another.</li>\n</ul>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2020-2021",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "bfs"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.5344998836517334

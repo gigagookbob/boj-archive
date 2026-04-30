@@ -19,11 +19,7 @@
   "hint": "<p>The first example corresponds to the example from the problem statement. There are no more declarations to be made, so we just need to see how many of Claire's possible decisions lead to Alice's win, and how many of them lead to Bob's win. Alice will win if Claire picks stone $1$ for her on the first move, and stone $3$ for her on the second move, and will lose in all other cases.</p>\n<p>In the second example, if Alice starts by declaring \"<code>1 1</code>\" , Bob will continue \"<code>2 2</code>\", and no matter what Alice declares on the third move, she will lose, as Claire will have to pick stone $1$ for the first move, and stone $2$ for the second move, and there will be no stones left for Alice in the third move. However, this is not the optimal first move for Alice: instead, she should start by declaring \"<code>1 2</code>\". Then, no matter what Bob does on the second move and what Alice does on the third move, each of them will win in $4$ cases out of $8$.</p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2021, Day 2",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "game_theory",
-    "math"
-  ],
+  "tags": ["combinatorics", "game_theory", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -15,12 +15,7 @@
   "hint": "<p>Byteasar will show a part of his transcript corresponding to days 1 to 3. During this period the group earned 24 bythalers. The remainder of this number by 13 is 11, which is Byteasar's income for serving as a treasurer.</p>",
   "source": "Camp, POI Training Camp, ONTAK 2010",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "tree_set"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2001, baekjoon, corea",
   "level": 19,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.3036000728607178

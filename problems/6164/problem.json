@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO February 2008 Contest, Gold",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "maximum_subarray"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "maximum_subarray"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 2.5397000312805176

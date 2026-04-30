@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Mid-Central European Regional Contest, MCERC 2000",
   "level": 21,
-  "tags": [
-    "graphs",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "eulerian_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

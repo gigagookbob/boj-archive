@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회, kookmin20103324, djm03178, jh05013",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "ad_hoc",
-    "stack",
-    "deque"
-  ],
+  "tags": ["data_structures", "sorting", "ad_hoc", "stack", "deque"],
   "accepted_user_count": 351,
   "submission_count": null,
   "average_tries": 3.6666998863220215

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #3, Division 2, Contest, solved.ac, solved.ac Grand Arena #3, Division 1, cologne, havana723, solvedac, cologne, cozyyg, gs18115, moonrabbit2, seonah",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "two_pointer"
-  ],
+  "tags": ["implementation", "bruteforcing", "two_pointer"],
   "accepted_user_count": 6803,
   "submission_count": null,
   "average_tries": 2.750699996948242

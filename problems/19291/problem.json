@@ -19,12 +19,7 @@
   "hint": "<p>첫 번째 예제는 도넛의 중심을 $(1,0)$이나 $(-1,0)$에 두면 된다.</p>\r\n\r\n<p>두 번째 예제는 도넛이 너무 커졌기 때문에, $-100$을 피해서 $1$하나를 포함 시키는 것이 최적이다.</p>\r\n",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 5: Grand Prix of Korea, Contest, kriiicon, 제5회 kriiicon, Contest, Open Cup, 2017/2018 Season, Stage 10: Grand Prix of Korea, august14",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "lazyprop"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.952399969100952

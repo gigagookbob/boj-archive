@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2014/2015, Stage 3",
   "level": 23,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.6842000484466553

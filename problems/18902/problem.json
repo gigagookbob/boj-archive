@@ -19,11 +19,7 @@
   "hint": "<p>In Sample 1, the situation looks like on picture below: photon starts in grid node marked Start while photon sensor is in grid node marked Finish.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 180px; height: 160px;\"/></p>\n<p>In Sample 2, even for $p = 1$ only $4$ photons reach the upper-right corner. </p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2017",
   "level": 21,
-  "tags": [
-    "arbitrary_precision",
-    "dp",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["arbitrary_precision", "dp", "inclusion_and_exclusion"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 12.142900466918945

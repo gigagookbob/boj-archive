@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2018, Contest, Open Cup, 2017/2018 Season, Stage 16: Grand Prix of America",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.6026999950408936

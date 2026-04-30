@@ -19,9 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.gif\" style=\"height:223px; width:163px\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.gif\" style=\"height:161px; width:69px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 1",
   "level": 27,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.142899990081787

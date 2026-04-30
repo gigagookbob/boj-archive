@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Pacific Northwest Regional, 2023 ICPC Pacific Northwest Region, Division 2",
   "level": 12,
-  "tags": [
-    "implementation",
-    "geometry",
-    "simulation",
-    "geometry_3d"
-  ],
+  "tags": ["implementation", "geometry", "simulation", "geometry_3d"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

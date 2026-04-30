@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, February 27, 2010",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "implementation", "sorting", "geometry", "pythagoras"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.142899990081787

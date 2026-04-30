@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2002, Day 2",
   "level": 21,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["math", "bruteforcing", "sorting"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.926800012588501

@@ -19,10 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"5.png\" style=\"height: 199px; width: 400px;\"/></p>\n<p style=\"text-align: center;\"><strong>     책이 비스듬히 세워져 있어 준엽이가 좋아하지 않는 상태 </strong></p>",
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Beginner Division, University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Advanced Division, ans, doju",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "case_work"],
   "accepted_user_count": 184,
   "submission_count": null,
   "average_tries": 3.57069993019104

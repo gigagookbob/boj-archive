@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2015/2016 Spring Training Camp",
   "level": 22,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.1384999752044678

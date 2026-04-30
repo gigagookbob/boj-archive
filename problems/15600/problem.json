@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2017",
   "level": 5,
-  "tags": [
-    "greedy",
-    "game_theory"
-  ],
+  "tags": ["greedy", "game_theory"],
   "accepted_user_count": 273,
   "submission_count": null,
   "average_tries": 1.5896999835968018

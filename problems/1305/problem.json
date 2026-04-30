@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, eldpswp99, sgc109, kkddgg1001",
   "level": 17,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 4494,
   "submission_count": null,
   "average_tries": 1.7639000415802002

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2014, RCC 2014 Second Qualification Round",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.9393999576568604

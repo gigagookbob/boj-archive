@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 대구과학고등학교, 대구과학고 코드잼 경시대회 2018, junie, Juno, cheetose",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 2.3986001014709473

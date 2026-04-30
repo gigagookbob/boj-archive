@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO March 2010 Contest, Bronze",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "arbitrary_precision"],
   "accepted_user_count": 213,
   "submission_count": null,
   "average_tries": 1.9436999559402466

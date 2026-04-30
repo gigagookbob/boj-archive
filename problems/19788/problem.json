@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2013",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "implementation",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "implementation", "tree_set", "set"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.3333001136779785

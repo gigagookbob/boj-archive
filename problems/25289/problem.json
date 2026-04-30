@@ -19,10 +19,7 @@
   "hint": "<section id=\"hint\">\n<p>Python 사용자는 PyPy로 제출하는 것을 권장합니다.</p>\n</section>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제6회 천하제일 코딩대회 예선, prarie, jhnah917, jhwest2, junseo, kyo20111",
   "level": 12,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 271,
   "submission_count": null,
   "average_tries": 2.468600034713745

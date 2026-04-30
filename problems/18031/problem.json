@@ -15,11 +15,7 @@
   "hint": "<p>On the first scenario the farmer’s net incomes would be [10, 1, −1, −70] and they start with a wealth of 31:</p>\n<ul>\n<li>At the end of first month their wealth is 41. As 1 ≤ 41 ≤ 41 they won’t donate nor receive money.</li>\n<li>At the end of second month their wealth is 42. As 42 &gt; 41 they donate 1, ending the month with a wealth of 41.</li>\n<li>At the end of third month their wealth is 40. As 1 ≤ 40 ≤ 41 once again they won’t donate nor receive money.</li>\n<li>Finally, at the end of fourth month their wealth is −30. As −30 &lt; 1 they receive a donation from the ICPC ending the month with a wealth of 1.</li>\n</ul>\n<p>Hence, on this scenario, the farmer ends up owning a wealth of 1.</p>",
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2019",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "segtree", "sparse_table"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.2444000244140625

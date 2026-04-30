@@ -15,11 +15,7 @@
   "hint": "<p>아래 방법을 사용하는 게 최적이다.</p>\n<ol>\n<li>2번째 고객의 휴대폰을 집는다.</li>\n<li>3번째 고객의 휴대폰을 집는다.</li>\n<li>스타트한별 사옥 동쪽 7<em>.</em>5m 지점까지 이동한 후 돌아와서 3번째 고객의 휴대폰을 반납한다.</li>\n<li>2번째 고객의 휴대폰을 반납한다.</li>\n<li>1번째 고객의 휴대폰을 집는다.</li>\n<li>스타트한별 사옥 서쪽 10<em>.</em>5m 지점까지 이동한 후 돌아와서 1번째 고객의 휴대폰을 반납한다.</li>\n<li>스타트한별 사옥으로 이동한다.</li>\n</ol>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024 예선, functionx, azberjibiou, bubbler, cki86201, evenharder, jh05013, kclee2172, kipa00, mingyu331, queued_q, qwerasdfzxcl, sorohue, whqkrkt04",
   "level": 16,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["greedy", "ad_hoc", "case_work"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 3.515199899673462

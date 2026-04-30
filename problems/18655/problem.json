@@ -15,12 +15,7 @@
   "hint": "<p>The following figure illustrates the sample test case, where the affected area is inside the red sphere, and asteroids are colored by orange, blue and green in the order they appear in the sample.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 493px; height: 299px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 8: Jingzhe Tang Contest 2, XIX Open Cup Onsite",
   "level": 17,
-  "tags": [
-    "calculus",
-    "geometry",
-    "geometry_3d",
-    "math"
-  ],
+  "tags": ["calculus", "geometry", "geometry_3d", "math"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.142899990081787

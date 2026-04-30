@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 13: Grand Prix of Three Capitals",
   "level": 0,
-  "tags": [
-    "bruteforcing",
-    "graphs",
-    "mst"
-  ],
+  "tags": ["bruteforcing", "graphs", "mst"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 3

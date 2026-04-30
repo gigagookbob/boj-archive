@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2021 Greater New York Programming Contest",
   "level": 13,
-  "tags": [
-    "implementation",
-    "precomputation",
-    "string"
-  ],
+  "tags": ["implementation", "precomputation", "string"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 5.2221999168396

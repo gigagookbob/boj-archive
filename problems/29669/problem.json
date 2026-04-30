@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере ответ может выглядеть так:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 320px; height: 300px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, May 8, 2010, Basic",
   "level": 10,
-  "tags": [
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["geometry", "constructive"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2

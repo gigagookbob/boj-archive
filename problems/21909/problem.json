@@ -23,11 +23,7 @@
   "hint": "<p>In the first sample, the weights of exactly $4$ subarrays are divisible by $3$:</p>\n<ul>\n<li>weight($[5]$) = weight($[23]$) = weight($[2021]$) = $0$</li>\n<li>weight($[5, 23, 2021]$) = $56703$ = $3 \\cdot 41 \\cdot 461$</li>\n</ul>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2020, Contest, Open Cup, 2020/2021 Season, Stage 17: Grand Prix of Southern Europe",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["math", "dp", "prefix_sum"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.25

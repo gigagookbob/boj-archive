@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:123px; width:387px\"/></p>\n<p style=\"text-align: center;\">Castle from the example input and one possible correct output.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2002, Day 2",
   "level": 19,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.8125

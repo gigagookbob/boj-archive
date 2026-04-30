@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, 폴리매스 코드 챔피언십, 폴리매스 제1회 코드 챔피언십, 79brue",
   "level": 5,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 1123,
   "submission_count": null,
   "average_tries": 1.6589000225067139

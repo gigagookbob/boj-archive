@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2016 A",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "string", "stack"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 1.8187999725341797

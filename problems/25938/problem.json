@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2015 Local Programming Contest",
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.7856999635696411

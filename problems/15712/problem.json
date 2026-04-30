@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제1회 네블컵, chogahui05",
   "level": 14,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 509,
   "submission_count": null,
   "average_tries": 2.9567999839782715

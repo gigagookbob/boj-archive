@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 15,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 220,
   "submission_count": null,
   "average_tries": 1.7545000314712524

@@ -15,10 +15,7 @@
   "hint": "<p>The sample output denotes this winning sequence:</p>\n<p>$$\\displaystyle \\begin{align*} &amp; ABAAB\\underline{BB}AA \\\\ &amp; AB\\underline{AA}BAA \\\\ &amp; A\\underline{BB}AA \\\\ &amp; \\underline{AAA} \\end{align*}$$</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2022, CCO 2022",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "dp"
-  ],
+  "tags": ["ad_hoc", "dp"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.076900005340576

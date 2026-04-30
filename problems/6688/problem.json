@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2002",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "sorting",
-    "grid_graph",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "sorting", "grid_graph", "flood_fill"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.75

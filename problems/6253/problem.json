@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2012",
   "level": 18,
-  "tags": [
-    "bipartite_matching",
-    "data_structures"
-  ],
+  "tags": ["bipartite_matching", "data_structures"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Bytedance-Moscow Workshops Camp, Bytedance-Moscow Workshops Camp 2020, Contest 1",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "cht",
-    "li_chao_tree"
-  ],
+  "tags": ["data_structures", "segtree", "cht", "li_chao_tree"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.1786000728607178

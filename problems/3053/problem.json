@@ -23,10 +23,7 @@
   "hint": "<p>유클리드 기하학: <a href=\"http://ko.wikipedia.org/wiki/%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%EA%B8%B0%ED%95%98%ED%95%99\" target=\"_blank\">한국어 위키</a>&nbsp;<a href=\"http://en.wikipedia.org/wiki/Euclidean_geometry\" target=\"_blank\">영문 위키</a>&nbsp;<a href=\"http://mathworld.wolfram.com/EuclideanGeometry.html\" target=\"_blank\">Wolfram Mathworld</a></p>\r\n\r\n<p>비유클리드 기하학: <a href=\"http://ko.wikipedia.org/wiki/%EB%B9%84%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C_%EA%B8%B0%ED%95%98%ED%95%99\" target=\"_blank\">한국어 위키</a>&nbsp;<a href=\"http://en.wikipedia.org/wiki/Non-Euclidean_geometry\" target=\"_blank\">영문 위키</a>&nbsp;<a href=\"http://mathworld.wolfram.com/Non-EuclideanGeometry.html\" target=\"_blank\">Wolfram Mathworld</a></p>\r\n\r\n<p>택시 기하학: <a href=\"http://ko.wikipedia.org/wiki/%ED%83%9D%EC%8B%9C%EA%B8%B0%ED%95%98%ED%95%99\" target=\"_blank\">한국어 위키</a>&nbsp;<a href=\"http://en.wikipedia.org/wiki/Taxicab_geometry\" target=\"_blank\">영문 위키</a>&nbsp;<a href=\"http://mathworld.wolfram.com/TaxicabMetric.html\" target=\"_blank\">Wolfram Mathworld</a></p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #1, baekjoon, onjo0127",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 22925,
   "submission_count": null,
   "average_tries": 2.0302000045776367

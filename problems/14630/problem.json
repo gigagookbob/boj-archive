@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2017 전북대학교 프로그래밍 경진대회, djm03178",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 315,
   "submission_count": null,
   "average_tries": 2.047600030899048

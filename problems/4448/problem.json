@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2011 Pacific Northwest Region Programming Contest",
   "level": 21,
-  "tags": [
-    "dp",
-    "string",
-    "bitset"
-  ],
+  "tags": ["dp", "string", "bitset"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.68969988822937

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2017, ntopia",
   "level": 7,
-  "tags": [
-    "sorting",
-    "case_work"
-  ],
+  "tags": ["sorting", "case_work"],
   "accepted_user_count": 1003,
   "submission_count": null,
   "average_tries": 2.1963999271392822

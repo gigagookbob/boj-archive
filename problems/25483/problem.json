@@ -23,9 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Različite mogućnosti za par brojeva $A$ i $B$ su $(1, 9)$, $(2, 8)$, $(3, 7)$, $(4, 6)$ i $(5, 5)$. Mogućnosti $(9, 1)$, $(8, 2)$, $(7, 3)$ i $(6, 4)$ ne brojimo dodatno, budući da predstavljaju iste parove.</p>\n<p>Opis drugog probnog primjera: Mogućnosti su $(3, 10)$, $(2, 11)$, $(1, 12)$ i $(0, 13)$.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2020, Junior Croatian Olympiad in Informatics 2020",
   "level": 7,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2

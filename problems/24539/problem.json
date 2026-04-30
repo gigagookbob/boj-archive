@@ -23,13 +23,7 @@
   "hint": null,
   "source": "jwvg0425, Green55, jhnah917, jthis, kyo20111, tlsdydaud1",
   "level": 17,
-  "tags": [
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "prefix_sum"
-  ],
+  "tags": ["constructive", "dfs", "graphs", "graph_traversal", "prefix_sum"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.359999895095825

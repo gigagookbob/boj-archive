@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 초급, whaeun25, djs100201, gumgood, gunwookim, kyo20111, lky7674, pichulia",
   "level": 5,
-  "tags": [
-    "math",
-    "string",
-    "number_theory"
-  ],
+  "tags": ["math", "string", "number_theory"],
   "accepted_user_count": 675,
   "submission_count": null,
   "average_tries": 3.712599992752075

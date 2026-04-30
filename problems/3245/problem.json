@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2003, Croatian Olympiad in Informatics 2003, baekjoon",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "simulation", "prefix_sum"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.5

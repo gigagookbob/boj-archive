@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2020, sonho00, august14, dlstj0923, hibye1217, tony9402",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 214,
   "submission_count": null,
   "average_tries": 3.3505001068115234

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, MAVEN League, apwgg045, jh05013",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "greedy"
-  ],
+  "tags": ["bruteforcing", "greedy"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 9.239100456237793

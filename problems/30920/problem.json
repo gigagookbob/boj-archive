@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BOJ Bundle, BOJ Bundle in Math. Vol 1, hibye1217, index, kaorin, kiwiyou, sait2000, sorohue, utilforever",
   "level": 16,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["ad_hoc", "constructive", "permutation_cycle_decomposition"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.899999976158142

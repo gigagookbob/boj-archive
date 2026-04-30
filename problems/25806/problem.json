@@ -19,10 +19,7 @@
   "hint": "<p>Explanation of the First Sample Input/Output: Mikey can eat in one restaurant each week; that will tell him if that restaurant is causing the food poisoning. After at most 7 weeks, he will know the bad restaurant since there are only 8 restaurants.</p>",
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Final Round)",
   "level": 15,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 5.199999809265137

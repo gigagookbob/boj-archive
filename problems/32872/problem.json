@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제11회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, thak00, gunwookim, heeda0528, ingyu1008, jk410, juneharold, mjhmjh1104",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "trees",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "trees", "prefix_sum"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 4.0605998039245605

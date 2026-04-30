@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 3",
   "level": 24,
-  "tags": [
-    "centroid",
-    "knapsack",
-    "math",
-    "trees"
-  ],
+  "tags": ["centroid", "knapsack", "math", "trees"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.7018001079559326

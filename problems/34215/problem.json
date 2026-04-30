@@ -10,11 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2025, Day 1",
   "level": 23,
-  "tags": [
-    "precomputation",
-    "randomization",
-    "sqrt_decomposition"
-  ],
+  "tags": ["precomputation", "randomization", "sqrt_decomposition"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.400000095367432

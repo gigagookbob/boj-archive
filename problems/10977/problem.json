@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2015 KAIST 5th ACM-ICPC Mock Competition",
   "level": 17,
-  "tags": [
-    "math",
-    "string",
-    "kmp"
-  ],
+  "tags": ["math", "string", "kmp"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 3.8034000396728516

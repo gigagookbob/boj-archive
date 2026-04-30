@@ -23,12 +23,7 @@
   "hint": "<p>수열 <em>a</em> = [<em>a</em><sub>1</sub>, <em>a</em><sub>2</sub>, ⋯, <em>a</em><sub><em>n</em></sub>]이 수열 <em>b</em> = [<em>b</em><sub>1</sub>, <em>b</em><sub>2</sub>, ⋯, <em>b</em><sub><em>m</em></sub>]보다 사전순으로 앞선다는 것은 다음을 모두 만족시키는 양의 정수 <em>i</em>가 존재한다는 뜻이다.</p>\n<ul>\n<li><em>i</em>보다 작은 모든 양의 정수 <em>j</em>에 대해, <em>a</em><sub><em>j</em></sub>와 <em>b</em><sub><em>j</em></sub> 모두 존재하면서 <em>a</em><sub><em>j</em></sub> = <em>b</em><sub><em>j</em></sub></li>\n<li><em>b</em><sub><em>i</em></sub>가 존재함</li>\n<li><em>a</em><sub><em>i</em></sub>가 존재하지 않거나 <em>a</em><sub><em>i</em></sub> &lt; <em>b</em><sub><em>i</em></sub></li>\n</ul>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024 예선 연습 세션, mingyu331, cki86201, cozyyg, evenharder, golazcc83, jh05013, qwerasdfzxcl, whqkrkt04",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.142899990081787

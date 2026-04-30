@@ -15,11 +15,7 @@
   "hint": "<p>5-&gt;6-&gt;1-&gt;4 (3 + 1 + 3)</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO October 2009 Contest, Gold",
   "level": 11,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 1.3509999513626099

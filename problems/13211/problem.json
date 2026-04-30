@@ -15,12 +15,7 @@
   "hint": "<p>Both D327045452 and H364436380 are stolen passports.</p>",
   "source": "Olympiad, Malaysian Computing Olympiad, MCO 2014",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 247,
   "submission_count": null,
   "average_tries": 1.5749000310897827

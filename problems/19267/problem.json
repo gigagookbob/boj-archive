@@ -23,11 +23,7 @@
   "hint": "<p>In the picture below, you can see a graph from sample test 3. Solid vertices and edges are those which are present in the resulting graph, and dashed vertices and edges are the deleted ones.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 150px; height: 219px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 2: ITMO U 1 Contest",
   "level": 27,
-  "tags": [
-    "chordal_graph",
-    "dp",
-    "graphs"
-  ],
+  "tags": ["chordal_graph", "dp", "graphs"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

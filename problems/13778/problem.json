@@ -19,13 +19,7 @@
   "hint": "<p>Both MPs have the same score so are both best scoring and worst scoring.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2016, alex9801, jaehoo1",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "sorting",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "sorting", "set", "hash_set"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.6666998863220215

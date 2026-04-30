@@ -15,9 +15,7 @@
   "hint": "<p>After the first event, civilization 2 owns only the $(2, 1)$ field, while civilization 1 owns the rest. Both civilizations have borders of length 2, and their wealth is 7 and 3, respectively. The civilization 1 with power of 5 is the most powerful.</p>\n<p>After the second event, civilization 1 owns fields on one diagonal, while civilization 2 on the other. Both civilizations have borders of length 4, and wealth of 5, so they are equally powerful with power of -7.</p>\n<p>After the third event, there are now three civilizations on the board: 1, 2 and 3. The civilization 6 is now the most powerful.</p>\n<p>Finally, in the last three events, civilization 3 takes over the remaining fields. Note that now 3 is the most powerful civilization for any $A$, $B$ and $C$, since we only take into account civilizations controlling at least one field. The power of civilization 3 at the end of the game is -10, since it has borders of length 0, and wealth of 10.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 1: Jagiellonian U Contest, Grand Prix of Krakow, Contest, Open Cup, 2020/2021 Season, Stage 10: Grand Prix of Krakow",
   "level": 23,
-  "tags": [
-    "data_structures"
-  ],
+  "tags": ["data_structures"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.9443999528884888

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2020 December Contest, Platinum",
   "level": 22,
-  "tags": [
-    "dp",
-    "math"
-  ],
+  "tags": ["dp", "math"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2000000476837158

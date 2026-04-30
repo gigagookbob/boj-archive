@@ -15,10 +15,7 @@
   "hint": "<p>본 문제는 입출력의 양이 많은 관계로 최악의 경우 입출력에 약 500ms 가량의 시간이 소요될 수 있습니다. 이 점에 유의하여 문제를 해결해 주시기 바랍니다.</p>\r\n",
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division, hjroh0315, biximo, dhyang24, naeby, quickn, utilforever",
   "level": 16,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 3.9351000785827637

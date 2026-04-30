@@ -15,12 +15,7 @@
   "hint": "<p>In the example, the values of $s$ on the four steps are $740\\,740$, $139\\,655$, $469\\,353$, and $880\\,395$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2025-2026 Northwestern Russia Qualification",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "knapsack",
-    "bitset"
-  ],
+  "tags": ["dp", "bitmask", "knapsack", "bitset"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 8.5

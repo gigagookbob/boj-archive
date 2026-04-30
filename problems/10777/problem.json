@@ -15,11 +15,7 @@
   "hint": "<p>10, 1, 12, 2, 8, 6, 14, 7의 순서가 최적이다.</p>\r\n",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2015, CCC 2015 Senior Division, koosaga, topology",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["dp", "greedy", "sorting"],
   "accepted_user_count": 137,
   "submission_count": null,
   "average_tries": 3.5985000133514404

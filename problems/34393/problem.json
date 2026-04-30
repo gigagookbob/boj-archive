@@ -19,14 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2022, Advanced",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "geometry",
-    "sweeping",
-    "pythagoras"
-  ],
+  "tags": ["math", "greedy", "sorting", "geometry", "sweeping", "pythagoras"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

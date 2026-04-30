@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023 예선 연습 세션, jh05013, evenharder, golazcc83, hyperbolic, kclee2172, qwerasdfzxcl, silverwolf, tlsdydaud1, wapas",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.3902000188827515

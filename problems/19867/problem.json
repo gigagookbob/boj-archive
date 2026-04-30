@@ -19,11 +19,7 @@
   "hint": "<p>Число $510510$ имеет ровно 128 делителей.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2016",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

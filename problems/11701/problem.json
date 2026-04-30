@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Spring Contest, JAG Spring Contest 2012",
   "level": 23,
-  "tags": [
-    "case_work",
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["case_work", "geometry", "sorting"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.75

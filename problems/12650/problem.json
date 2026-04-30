@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, Round 1A",
   "level": 14,
-  "tags": [
-    "dp",
-    "precomputation"
-  ],
+  "tags": ["dp", "precomputation"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 3.9047999382019043

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Beginner Round, 79brue",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.5

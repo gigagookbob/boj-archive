@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, SpringSpot 2011",
   "level": 9,
-  "tags": [
-    "bfs",
-    "dfs",
-    "flood_fill",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dfs", "flood_fill", "graphs", "graph_traversal"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.0833001136779785

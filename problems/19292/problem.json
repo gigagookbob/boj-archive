@@ -31,12 +31,7 @@
   "hint": "<p>첫 번째 예제에서 만들어지는 원형 정수열은 다음의 $6$가지이다:</p>\r\n\r\n<ul>\r\n\t<li>$[1, 1, 2, 2]$: $4$점</li>\r\n\t<li>$[1, 2, 1, 2]$: $1$점</li>\r\n\t<li>$[1, 2,&nbsp;2, 1]$: $4$점</li>\r\n\t<li>$[2, 1, 1, 2]$: $4$점</li>\r\n\t<li>$[2, 1, 2, 1]$: $1$점</li>\r\n\t<li>$[2, 2, 1, 1]$: $4$점</li>\r\n</ul>\r\n\r\n<p>그러므로 총 $18$점이다.</p>\r\n",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 5: Grand Prix of Korea, Contest, kriiicon, 제5회 kriiicon, Contest, Open Cup, 2017/2018 Season, Stage 10: Grand Prix of Korea, august14",
   "level": 25,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

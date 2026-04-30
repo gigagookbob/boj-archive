@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2018, orihehe, kipa00, urd05, yukariko, zych1751",
   "level": 16,
-  "tags": [
-    "dp",
-    "mitm"
-  ],
+  "tags": ["dp", "mitm"],
   "accepted_user_count": 1583,
   "submission_count": null,
   "average_tries": 4.312699794769287

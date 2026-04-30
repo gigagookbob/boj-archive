@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest 2005",
   "level": 15,
-  "tags": [
-    "dag",
-    "dp",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "dp", "graphs", "topological_sorting"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.399999976158142

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2014, koosaga",
   "level": 26,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "prefix_sum",
-    "invariant"
-  ],
+  "tags": ["math", "ad_hoc", "prefix_sum", "invariant"],
   "accepted_user_count": 810,
   "submission_count": null,
   "average_tries": 4.3383002281188965

@@ -15,11 +15,7 @@
   "hint": "<p>채점기는 공백의 종류나 개수에 민감하지 않지만, 너무 많은 공백을 출력한 경우 오답을 받을 수 있다.</p>",
   "source": "ho94949",
   "level": 26,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "constructive", "implementation"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.9000000953674316

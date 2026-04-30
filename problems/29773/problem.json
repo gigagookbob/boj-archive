@@ -23,10 +23,7 @@
   "hint": null,
   "source": "starbow, sorohue, utilforever, yup0927",
   "level": 14,
-  "tags": [
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "dp_digit"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.2222000360488892

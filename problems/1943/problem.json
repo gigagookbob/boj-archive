@@ -15,10 +15,7 @@
   "hint": null,
   "source": "BaaaaaaaaaaarkingDog, gustjq1101, kkkj0410, qhsl1213, yous",
   "level": 14,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 1392,
   "submission_count": null,
   "average_tries": 4.545300006866455

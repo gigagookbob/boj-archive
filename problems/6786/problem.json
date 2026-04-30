@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li>2 Type O- patients receive Type O- blood</li>\n<li>4 Type O+ patients receive Type O+ blood</li>\n<li>3 Type A- patients receive Type A- blood</li>\n<li>3 Type A- patients receive Type 0- blood</li>\n<li>1 Type A+ patients receive Type A+ blood</li>\n<li>1 Type A+ patients receive Type O+ blood</li>\n<li>2 Type B- patients receive Type B- blood</li>\n<li>9 Type B+ patients receive Type B+ blood</li>\n<li>5 Type AB- patient receives Type AB- blood</li>\n<li>3 Type AB+ patients receive Type AB+ blood</li>\n</ul>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2011, CCC 2011 Senior Division",
   "level": 17,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.3076999187469482

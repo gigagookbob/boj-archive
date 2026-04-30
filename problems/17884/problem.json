@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2019 Rocky Mountain Regional Contest",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 293,
   "submission_count": null,
   "average_tries": 1.2014000415802002

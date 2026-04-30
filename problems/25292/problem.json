@@ -15,11 +15,7 @@
   "hint": "<p>Sample Case #1 is illustrated in the image above. Notice that each child is equally close to each of the two non-blueberry-jelly sweets. In our solution, Mr. Jolly assigns the second sweet to the second child and the third sweet to the first child, successfully leaving the first sweet (the blueberry jelly) for himself.</p>\n<p>In Sample Case #2, the sole child is closer to the blueberry jelly than to the other sweet, so Mr. Jolly cannot prevent his precious blueberry jelly from being eaten.</p>\n<p>In Sample Case #3, we present one of many solutions; it is actually possible to call the children in any order.</p>\n<p>In Sample Case #4, note that children might share the same position, sweets might share the same position, and children and sweets might share the same position.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Round 2",
   "level": 22,
-  "tags": [
-    "bipartite_matching",
-    "constructive",
-    "graphs"
-  ],
+  "tags": ["bipartite_matching", "constructive", "graphs"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.8461999893188477

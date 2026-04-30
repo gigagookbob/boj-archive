@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회, lemonade31",
   "level": 7,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 567,
   "submission_count": null,
   "average_tries": 2.0564000606536865

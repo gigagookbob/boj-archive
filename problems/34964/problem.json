@@ -23,11 +23,7 @@
   "hint": "<pre>\n◇◇◇비◇비◇드◇/◆스◆테◆이◆시◆스◆◆◆\n\n★지★금★무★료★플★레★이★\n\nhttps://store.steampowered.com/app/2093940</pre>",
   "source": "School, 서울과학고등학교, SciOI 2025, mingyu331, kuhyaku, utilforever, yijw0930",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "stack"
-  ],
+  "tags": ["data_structures", "ad_hoc", "stack"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4.769199848175049

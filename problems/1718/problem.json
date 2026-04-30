@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author10, jinhee13, jh05013",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2771,
   "submission_count": null,
   "average_tries": 1.801900029182434

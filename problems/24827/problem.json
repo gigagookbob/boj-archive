@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", School, Virginia Tech High School Programming Contest, 2019 Virginia Tech High School Programming Contest",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.916700005531311

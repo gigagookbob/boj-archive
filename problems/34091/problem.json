@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025, 79brue, functionx, kipa00, kuhyaku, leo020630, queued_q, seonah",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.7777999639511108

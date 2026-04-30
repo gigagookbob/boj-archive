@@ -15,12 +15,7 @@
   "hint": "<p>For simplicity, we use list $[f(1), \\dots, f(n)]$ to represent a function $f$. </p>\n<p>For the sample input, there are $6$ valid SG functions:</p>\n<ul>\n<li>$[0,1,0,1,0]$, $[0,1,2,0,1]$, $[0,2,1,0,1]$, $[1,0,1,0,1]$, $[1,0,1,2,0]$ and $[1,0,2,1,0]$.</li>\n</ul>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 7: Grand Prix of Xiaomi",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "graphs"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "graphs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

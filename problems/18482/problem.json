@@ -19,13 +19,7 @@
   "hint": "<p>In the first example test case, L(L(G)) = G, and the total edge weight of the MST of G is 1 + 2 = 3.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 5: Gennady Korotkevich Contest 4, Contest, Open Cup, 2018/2019 Season, Stage 11: Grand Prix of Gomel",
   "level": 23,
-  "tags": [
-    "math",
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["math", "data_structures", "graphs", "disjoint_set", "mst"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.9048000574111938

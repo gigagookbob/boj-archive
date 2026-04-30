@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #3, Division 1, cologne, solvedac, cologne, moonrabbit2, seonah",
   "level": 26,
-  "tags": [
-    "dp",
-    "knapsack",
-    "parity",
-    "bitset"
-  ],
+  "tags": ["dp", "knapsack", "parity", "bitset"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.125

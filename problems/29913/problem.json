@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2019-20, Open Competition",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph", "traceback"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.81820011138916

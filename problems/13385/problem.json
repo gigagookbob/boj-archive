@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Asia Thailand National Programming Contest, 2015 ACM-ICPC Thailand National Programming Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "dp",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "dp", "arbitrary_precision"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.342900037765503

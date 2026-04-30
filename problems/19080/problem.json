@@ -15,11 +15,7 @@
   "hint": "<p>In the example, the lamplighter has the string \"<code>RXR</code>\", and the desired lamp positions are $-2$, $0$ and $2$. You can give the lamplighter the string \"<code>XLLXR</code>\". His combined program then becomes \"<code>XLLXR-RXR-LXRRX</code>\" (dashes for clarity).</p>\n<p>The lamplighter will light the lamp number $0$, then go to $-2$ and light it, go to $0$ and turn it off, turn it on again, and finally go to $2$ and turn it on. In the end, the state of all lamps is the one you wanted.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 5: Moscow IPT Contest",
   "level": 18,
-  "tags": [
-    "implementation",
-    "string",
-    "kmp"
-  ],
+  "tags": ["implementation", "string", "kmp"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

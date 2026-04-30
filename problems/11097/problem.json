@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2014 연습 세션, jhs7jhs",
   "level": 18,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dag",
-    "floyd_warshall",
-    "scc"
-  ],
+  "tags": ["graphs", "shortest_path", "dag", "floyd_warshall", "scc"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 3.496500015258789

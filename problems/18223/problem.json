@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2019 Overflow Programming Contest (OPC), gun1120, hojoon0205",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 1862,
   "submission_count": null,
   "average_tries": 1.9098000526428223

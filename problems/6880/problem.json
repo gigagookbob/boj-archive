@@ -15,12 +15,7 @@
   "hint": "<p>The pinball screen would display (in turn):</p>\n<pre>\n1 of 1\n1 of 2\n2 of 3\n2 of 4\n5 of 5</pre>\n<p>The average rank is $(1+1+2+2+5)/5 = 2.20$.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2005, CCC 2005 Senior Division",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "coordinate_compression"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.1500000953674316

@@ -31,11 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2020 Asia Yokohama Regional",
   "level": 19,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["math", "geometry", "binary_search"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.6110999584197998

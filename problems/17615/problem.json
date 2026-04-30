@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2019 2차대회, 초등부",
   "level": 10,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 4367,
   "submission_count": null,
   "average_tries": 2.3087000846862793

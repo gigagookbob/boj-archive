@@ -15,10 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Poniższy obrazek przedstawia położenie wież magów (czarne punkty) oraz obszar bezpieczny (szara figura). Punkt (1, 3/2 ) jest bezpieczny: dla każdego kierunku istnieje mag, że poruszenie się z punktu (1, 3/2) w tym kierunku powoduje zbliżenie się do obu wież tego maga. Punkt (5, 5) nie jest bezpieczny: poruszenie się z niego w górę spowoduje oddalenie się od wszystkich wież oprócz drugiej wieży czwartego maga.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 233px; height: 226px;\"/></p>",
   "source": "Contest, Algorithmic Engagements, PA 2018",
   "level": 23,
-  "tags": [
-    "geometry",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "half_plane_intersection"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1993 Mid-Central Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "case_work"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.2381000518798828

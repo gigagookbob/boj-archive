@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2024 POSTECH Programming Contest, Open Contest, leo020630, hyperbolic, jk410, menborong, pasa3232, petamingks, pjshwa, qjatn0120baek, slah007, tony9402",
   "level": 18,
-  "tags": [
-    "coordinate_compression",
-    "data_structures",
-    "geometry",
-    "segtree"
-  ],
+  "tags": ["coordinate_compression", "data_structures", "geometry", "segtree"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 3.75

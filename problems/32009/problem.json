@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2024, ibm2006",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "crt"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "crt"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 5

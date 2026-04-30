@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #4, Division 2, queued_q, solvedac, ai4youej, cologne, cozyyg, gs18115, seonah, shiftpsh",
   "level": 14,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 453,
   "submission_count": null,
   "average_tries": 4.554100036621094

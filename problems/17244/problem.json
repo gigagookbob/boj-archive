@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2019 전북대학교 프로그래밍 경진대회, joonas",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "bitmask", "grid_graph"],
   "accepted_user_count": 1331,
   "submission_count": null,
   "average_tries": 2.3178000450134277

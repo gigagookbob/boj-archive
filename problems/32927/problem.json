@@ -27,12 +27,7 @@
   "hint": "<p>Note that a string $a$ is a substring of a string $b$ if $a$ can be obtained from $b$ by deleting zero or more characters from the beginning and zero or more characters from the end.</p>\n<p>In the first test, all pairs of strings satisfying the conditions are (\"<code>01</code>\", \"<code>10</code>\"), (\"<code>01</code>\", \"<code>11</code>\"), (\"<code>10</code>\", \"<code>01</code>\"), (\"<code>10</code>\", \"<code>11</code>\"), (\"<code>11</code>\", \"<code>01</code>\"), and (\"<code>11</code>\", \"<code>10</code>\").</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Regional Contest",
   "level": 21,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "dp_sum_over_subsets"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "dp_sum_over_subsets"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, Lawali, silvercube",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "beats"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "beats"],
   "accepted_user_count": 601,
   "submission_count": null,
   "average_tries": 3.643899917602539

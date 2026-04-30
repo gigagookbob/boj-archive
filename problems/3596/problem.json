@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2007, baekjoon",
   "level": 19,
-  "tags": [
-    "dp",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "game_theory", "sprague_grundy"],
   "accepted_user_count": 367,
   "submission_count": null,
   "average_tries": 3.0244998931884766

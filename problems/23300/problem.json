@@ -23,12 +23,7 @@
   "hint": "<p>아래 그림은 에제 입력 1을 나타내고 있다.</p>\n<p>파란색 도형 안에 숫자는 페이지의 번호를 나타내고 있다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "University, 아주대학교, 2021 아주대학교 프로그래밍 경시대회 APC, Div.2, hjhj97, rhs0266, spectaclehong, wjdclgns12, yjyj1027",
   "level": 11,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "stack", "deque"],
   "accepted_user_count": 401,
   "submission_count": null,
   "average_tries": 2.80049991607666

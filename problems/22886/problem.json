@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Qualification Round",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 1.4285999536514282

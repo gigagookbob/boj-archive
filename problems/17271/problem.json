@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2019 인하대학교 프로그래밍 경진대회 (IUPC), njchung99",
   "level": 9,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1232,
   "submission_count": null,
   "average_tries": 2.1452999114990234

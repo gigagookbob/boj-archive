@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2025 신촌지역 대학교 프로그래밍 동아리 연합 여름 대회 (SUAPC 2025 Summer), jinhan814, Coxie, ez_code, lky7674, ystaeyoon113",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "case_work"
-  ],
+  "tags": ["data_structures", "segtree", "case_work"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.125

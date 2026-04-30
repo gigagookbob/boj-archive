@@ -19,10 +19,7 @@
   "hint": "<p>Иллюстрация к первому тесту. Дома  --- фигуры разного цвета, дороги  --- черные отрезки. Возможный маршрут Майлза нарисован красной пунктирной линией.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 124px; height: 123px;\"/></p>\n<p>Иллюстрация ко второму тесту.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 124px; height: 87px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, February 10, 2019",
   "level": 19,
-  "tags": [
-    "bitset",
-    "dp"
-  ],
+  "tags": ["bitset", "dp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.5

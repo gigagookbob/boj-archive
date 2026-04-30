@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, the longest unfriendly subsequences are $(1, 2)$ and $(2, 1)$. The subsequence $(1, 2, 1)$, for example, is not unfriendly, as its $1$-st and $3$-rd elements are equal.</p>\n<p>In the second test case, the longest unfriendly subsequence is $(1, 2, 3, 1, 2, 3)$. It's clear that the subsequence which consists of the whole sequence is not unfriendly, so the answer is $6$.</p>\n<p>In the third test case, the longest unfriendly subsequence is $(1, 10, 100, 1)$.</p>",
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2022",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy"
-  ],
+  "tags": ["dp", "data_structures", "greedy"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4.294099807739258

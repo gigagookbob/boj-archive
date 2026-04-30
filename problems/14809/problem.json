@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, the \"stack\" consists only of one pancake. A stack of just the first pancake would have an exposed area of π × <strong>R<sub>0</sub></strong><sup>2</sup> + 2 × π * <strong>R<sub>0</sub></strong> × <strong>H<sub>0</sub></strong> = 14000π mm<sup>2</sup>. A stack of just the second pancake would have an exposed area of 44000π mm<sup>2</sup>. So it is better to use the second pancake.</p>\n<p>In Sample Case #2, we can use both of the same pancakes from case #1. The first pancake contributes its top area and its side, for a total of 14000π mm<sup>2</sup>. The second pancake contributes some of its top area (the part not covered by the first pancake) and its side, for a total of 34000π mm<sup>2</sup>. The combined exposed surface area is 48000π mm<sup>2</sup>.</p>\n<p>In Sample Case #3, all of the pancakes have radius 100 and height 10. If we stack two of these together, we effectively have a single new cylinder of radius 100 and height 20. The exposed surface area is 14000π mm<sup>2</sup>.</p>\n<p>In Sample Case #4, the optimal stack uses the pancakes with radii of 8 and 9.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 1C",
   "level": 9,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["greedy", "bruteforcing", "geometry"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.3521000146865845

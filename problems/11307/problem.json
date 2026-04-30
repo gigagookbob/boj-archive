@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 27 September, 2015",
   "level": 16,
-  "tags": [
-    "string",
-    "game_theory"
-  ],
+  "tags": ["string", "game_theory"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.75

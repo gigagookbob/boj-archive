@@ -15,12 +15,7 @@
   "hint": "<p>첫 번째 테스트 케이스에서 보면 한신이는 1번 정치인(한신이의 측근[2])에게 3번 정치인(1번 정치인의 지인[4])을 소개받고, 이 3번 정치인은 4번 정치인(3번 정치인의 지인[4])을 만나는 경우 2+4+4 = 10이다.</p>\r\n\r\n<p>한신이가 곧바로 4번 정치인(한신이의 비즈니스관계[3])에게 얘기할수 있지만 대신에 2번 정치인(한신이의 최측근[1])에게 4번 정치인(2번 정치인의 최측근[1])을 소개 받아 만난다면 한신이는 더 좋은 인상으로 최고의원을 만날수 있을것이다.</p>\r\n",
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, Malaysia National Programming Contest, Al-Khawarizmi National Programming Contest 2013, vumbumy",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "traceback"],
   "accepted_user_count": 737,
   "submission_count": null,
   "average_tries": 2.5129001140594482

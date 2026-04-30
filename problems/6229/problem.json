@@ -15,11 +15,7 @@
   "hint": "<p>Bessie cleverly hops onto the pad at row 1, column 3 on her way to the right hand side.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO February 2007 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 124,
   "submission_count": null,
   "average_tries": 1.7903000116348267

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2025 US Open Contest, Silver",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "trees", "binary_search"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.850000023841858

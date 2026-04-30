@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "exponentiation_by_squaring",
-    "crt"
-  ],
+  "tags": ["math", "dp", "number_theory", "exponentiation_by_squaring", "crt"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.107100009918213

@@ -15,9 +15,7 @@
   "hint": "<pre>\nN          1    2    3    4    5    6    7    8\n더러움(아침)  0    5    13   0    10   11   0    3\n불쾌함(당일)  0    40   78   0    10   165  0    27\n불쾌함(누적)  0    40   118  118  128  293  293  320\n</pre>",
   "source": "University, 연세대학교, 2016 연세대 컴퓨터과학과 프로그래밍 경진대회, zych1751, portableangel, leekh2002, doju",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 175,
   "submission_count": null,
   "average_tries": 2.55430006980896

@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2020, Group B",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["ad_hoc", "data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 100.5

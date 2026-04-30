@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2014, Contest, Open Cup, 2014/2015 Season, Stage 4: Grand Prix of Europe, evenharder",
   "level": 20,
-  "tags": [
-    "dp",
-    "case_work",
-    "dp_digit"
-  ],
+  "tags": ["dp", "case_work", "dp_digit"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.930999994277954

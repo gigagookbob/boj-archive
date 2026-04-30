@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 가능한 비밀번호의 조합은 07, 17, 27, 37, 47, 57, 67, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 87, 97이다. 두 번째 예제의 경우 가능한 비밀번호의 조합은 34, 43이다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2016 Sogang Programming Contest, Master, wxiz49",
   "level": 9,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 936,
   "submission_count": null,
   "average_tries": 2.33870005607605

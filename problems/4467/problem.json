@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2010 Pacific Northwest Region Programming Contest",
   "level": 25,
-  "tags": [
-    "dp",
-    "dp_connection_profile"
-  ],
+  "tags": ["dp", "dp_connection_profile"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.5

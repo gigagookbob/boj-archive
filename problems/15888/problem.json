@@ -23,10 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제2회 천하제일 코딩대회 예선, wookje, fromis_9, YunGoon",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 379,
   "submission_count": null,
   "average_tries": 4.459099769592285

@@ -15,9 +15,7 @@
   "hint": "<p>This is the same puzzle at the beginning of the problem statement after a cipher has been applied. Here \"M\" and \"O\" have been replaced with \"Q\" and \"M\" respectively.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO US Open 2015 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 157,
   "submission_count": null,
   "average_tries": 2.484100103378296

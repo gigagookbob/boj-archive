@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1998, 중등부, doju, goooora, kcm1700",
   "level": 13,
-  "tags": [
-    "dp",
-    "sorting",
-    "traceback"
-  ],
+  "tags": ["dp", "sorting", "traceback"],
   "accepted_user_count": 1838,
   "submission_count": null,
   "average_tries": 2.6779000759124756

@@ -19,11 +19,7 @@
   "hint": "<p>The first sample case shows $P=2$ people with distinct birthdays. The probability of this occurring is $b = 364/365 \\approx 0.9972602740$, and $\\log_{10}(b) \\approx -0.001191480807419$.</p>\n<p>The second sample case represents the third example in the list given earlier with $P=10$ people. In this case, the probability is $b \\approx 0.0000489086$, and $\\log_{10}(b) \\approx -4.310614508857128$.</p>",
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2019",
   "level": 12,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "combinatorics", "probability"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.4615000486373901

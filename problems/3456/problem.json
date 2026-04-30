@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2003, baekjoon",
   "level": 21,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "geometry",
-    "invariant",
-    "euler_characteristic"
-  ],
+  "tags": ["math", "ad_hoc", "geometry", "invariant", "euler_characteristic"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.5293999910354614

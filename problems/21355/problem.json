@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2021, Qualification",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "case_work", "parsing"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 1.5262999534606934

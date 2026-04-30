@@ -19,12 +19,7 @@
   "hint": "<p>Consider the prefix of length 3 of the first example (i.e the full array), which is equal to [3,1,2]. The optimal strategy is to move from second element if you start pointing at it. You won't to be able to move afterwards or if you start poining to some element other than second.</p>\n<p>The score is $\\frac{5}{2}$ which is equal to 499122179 modulo 998244353.</p>",
   "source": "Camp, Moscow Pre-Finals ACM ICPC Workshop, Moscow Pre-Finals ACM ICPC Workshop 2018",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "probability",
-    "convex_hull"
-  ],
+  "tags": ["math", "geometry", "probability", "convex_hull"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

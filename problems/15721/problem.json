@@ -19,11 +19,7 @@
   "hint": "<p>예를 들어 7명이 있고, 16번째 등장하는 “뻔”을 부른 사람의 번호를 알고 싶다면 입력은 7 16 0이다. 4명이 있고 6번째 등장하는 “데기”를 부른 사람의 번호를 알고 싶다면 입력은 4 6 1이며, 이때 출력 값은 반 시계 방향으로 3번째 있는 사람이므로 3을 출력한다. </p>",
   "source": "University, 중앙대학교, CodeRace 2018, redjen, jh05013",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 1587,
   "submission_count": null,
   "average_tries": 2.0731000900268555

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 건국대학교, 2025 건국대학교 프로그래밍 경진대회 (KUPC), aerae, aru0504, cmgjol010, hyperbolic, ohwphil, pizzaroot, riroan, rlatjwls3333, yookwi",
   "level": 14,
-  "tags": [
-    "math",
-    "data_structures",
-    "greedy",
-    "string",
-    "case_work"
-  ],
+  "tags": ["math", "data_structures", "greedy", "string", "case_work"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.0876998901367188

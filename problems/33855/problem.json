@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 355px; height: 300px;\"/></p>\n<p style=\"text-align: center;\">Illustration of the 4th test case from the example. The arrows represent the walks between meeting points.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2025",
   "level": 20,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 5.63640022277832

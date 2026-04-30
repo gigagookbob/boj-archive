@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 2: ITMO U 1 Contest",
   "level": 26,
-  "tags": [
-    "directed_mst",
-    "graphs"
-  ],
+  "tags": ["directed_mst", "graphs"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.200000047683716

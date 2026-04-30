@@ -19,11 +19,7 @@
   "hint": "<p>The averages of individual rows are, respectively: 2, 5, 8.<br/>\nThe averages of individual columns are, respectively: 4, 5, 6.<br/>\nSince the average of each row is located in the correspoding row and the average of each column is<br/>\nlocated in the corresponding column, the output table will make Slavko happy. </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #2, koosaga",
   "level": 16,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.75

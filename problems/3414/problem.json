@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2012",
   "level": 14,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "dag", "topological_sorting"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.9600000381469727

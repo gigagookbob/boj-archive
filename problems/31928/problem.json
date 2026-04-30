@@ -19,10 +19,7 @@
   "hint": "<p>두 루트 있는 트리 $G, H$가 동형이라는 것은 $G$의 임의의 두 정점 $u, v$가 주어졌을 때 $G$에서 $u$가 $v$의 부모인 것과 $H$에서 $f(u)$가 $f(v)$의 부모인 것이 필요충분조건인 일대일 함수 $f:V(G) \\rightarrow V(H)$가 존재한다는 것이다. 여기에서 $V(G)$와 $V(H)$는 각각 $G$와 $H$의 정점 집합을 의미한다.</p>",
   "source": "University, 아주대학교, 2024 아주대학교 프로그래밍 경시대회 APC, Open Contest, University, 성균관대학교, 2024 성균관대학교 프로그래밍 경진대회 with APC, Coxie, acepark, akim9905, dbrua1222, deuslovelt, heeda0528, hojoon0205, jk410, lky7674, max804, nick832, palilo, pani, petamingks, shjohw12",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 2.1684999465942383

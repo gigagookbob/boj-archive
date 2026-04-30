@@ -19,10 +19,7 @@
   "hint": "<p><strong>Note</strong>: your output does not need to match exactly. The spacing is up to you.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2001, CCC 2001 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2001, CCC 2001 Senior Division",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.291700005531311

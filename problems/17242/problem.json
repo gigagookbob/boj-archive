@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 예시에서, 0번과 3번을 잇는 간선을 지나게 되면 어떠한 형태로든 Kaka의 총 마리 수 가 1,000을 넘어가게 되므로 지나가면 안 된다. 가능한 경로 중 가장 스트레스가 적은 경로 는 0번, 1번, 3번, 4번 순서대로 지나가는 경로이고, 스트레스 값은 (1 + 2 + 1) × (1 + 2 + 7) = 40이다.</p>\n<p>두 번째 예시는 어떠한 경로로 가도 Kaka나 Bebe의 마리 수가 1,000을 넘어가게 되므로 가능한 답이 없다. 그러므로 -1을 출력한다.</p>",
   "source": "University, POSTECH, 2019 PPC, jhs7jhs",
   "level": 16,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.955199956893921

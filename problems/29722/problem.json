@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, martinok1103, aig0016, cjh970422, eric00513, jh01533, kiwiyou, lms0806, nflight11, pjshwa, sedev57, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 928,
   "submission_count": null,
   "average_tries": 2.680999994277954

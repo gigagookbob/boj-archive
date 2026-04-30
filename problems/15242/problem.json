@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2017 AIPO National Finals",
   "level": 10,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "string"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "string"],
   "accepted_user_count": 172,
   "submission_count": null,
   "average_tries": 1.1512000560760498

@@ -23,12 +23,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.357100009918213

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 초등부, 79brue",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.7446999549865723

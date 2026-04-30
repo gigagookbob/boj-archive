@@ -15,11 +15,7 @@
   "hint": "<p>Жишээ нь дээр Жонс-д сүүлийн хоёр чулууг өгч өөрөө сүүлийн хоёр чулууны нийлбэртэй тэнцүү байх тооны чулууг авсан.</p>",
   "source": "ICPC, Regionals, Asia East Continent, Mongolia, Mongolia National Programming Contest, Mongolia National Programming Contest 2018",
   "level": 17,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "knapsack"
-  ],
+  "tags": ["dp", "ad_hoc", "knapsack"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

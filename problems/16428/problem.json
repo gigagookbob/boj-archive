@@ -35,11 +35,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, lmklove0",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 1432,
   "submission_count": null,
   "average_tries": 2.8875999450683594

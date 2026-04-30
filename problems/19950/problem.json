@@ -27,11 +27,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2020 IGRUS Newbie Programming Contest, saemy90, chobe1, gsts007, gunwookim, panda959595, rhs0266, tyoungs, zxcvber",
   "level": 12,
-  "tags": [
-    "greedy",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["greedy", "geometry", "geometry_3d"],
   "accepted_user_count": 191,
   "submission_count": null,
   "average_tries": 1.6282999515533447

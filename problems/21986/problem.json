@@ -19,12 +19,7 @@
   "hint": "<p>In the second example, the sequence <code>1 2 R 2 0 1</code> is also possible.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Offline)",
   "level": 22,
-  "tags": [
-    "bipartite_matching",
-    "flow",
-    "graphs",
-    "mcmf"
-  ],
+  "tags": ["bipartite_matching", "flow", "graphs", "mcmf"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.615399956703186

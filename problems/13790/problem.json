@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest 2011",
   "level": 19,
-  "tags": [
-    "arbitrary_precision",
-    "case_work",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "case_work", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

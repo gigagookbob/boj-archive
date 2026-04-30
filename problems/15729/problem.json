@@ -15,9 +15,7 @@
   "hint": "<p>다음과 같이 2개의 버튼을 눌러 쪽지에 적혀 있는 상태를 만들 수 있다.   </p>\n<ul>\n<li>모든 버튼이 꺼진 처음 상태 → <code>0 0 0 0 0 0 0</code></li>\n<li>세 번째 버튼을 누른 상태 → <code>0 0 1 1 1 0 0</code></li>\n<li>네 번째 버튼을 누른 상태 → <code>0 0 1 0 0 1 0</code></li>\n</ul>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 HEPC, MAVEN, hellogaon, jung2381187",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 1007,
   "submission_count": null,
   "average_tries": 1.9701999425888062

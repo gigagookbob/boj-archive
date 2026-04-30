@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2019, Day 2",
   "level": 22,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive", "prefix_sum"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.7166999578475952

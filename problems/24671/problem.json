@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 3: Kazakhstan Contest",
   "level": 16,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.4865000247955322

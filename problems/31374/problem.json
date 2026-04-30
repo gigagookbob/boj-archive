@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 13: Grand Prix of Three Capitals",
   "level": 22,
-  "tags": [
-    "fft",
-    "math",
-    "randomization"
-  ],
+  "tags": ["fft", "math", "randomization"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 5

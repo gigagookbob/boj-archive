@@ -15,12 +15,7 @@
   "hint": "<p>Before the first flip, the cows at $(1, 1)$ and $(1, 2)$ cost $1$ to feed, the cow at $(2, 1)$ costs $100$ to feed, and the cow at $(2, 2)$ costs $500$ to feed, for a total cost of $602$. After the first flip, the direction of the signpost at $(1,1)$ changes from R to D, and the cow at $(1, 1)$ now costs $100$ to feed (while the others remain unchanged), so the total cost is now $701$. The second and third flips switch the same sign back and forth. After the fourth flip, the cows at $(1, 1)$ and $(2, 1)$ now cost $500$ to feed, for a total cost of $1501$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Silver",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 1.7289999723434448

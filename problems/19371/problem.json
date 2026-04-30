@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 3: Japanese Contest, Head of Republic of Karelia Cup, Round I",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.2778000831604004

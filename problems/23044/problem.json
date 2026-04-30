@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2021 서울대학교 프로그래밍 경시대회, Division 1, onjo0127, dennisstar, dlalswp25, doju, gs18115, kdh9949, sukh1222, yclock",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "parametric_search"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "parametric_search"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 2.5513999462127686

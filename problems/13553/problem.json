@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "offline_queries",
-    "mo"
-  ],
+  "tags": ["data_structures", "segtree", "offline_queries", "mo"],
   "accepted_user_count": 415,
   "submission_count": null,
   "average_tries": 3.6747000217437744

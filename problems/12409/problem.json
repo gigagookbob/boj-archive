@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, EuroPython 2012, EuroPython 2012",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "ternary_search"
-  ],
+  "tags": ["bruteforcing", "geometry", "ternary_search"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 8.533300399780273

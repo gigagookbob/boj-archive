@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Warm-up Round, hellogaon",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 1.4530999660491943

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2014",
   "level": 23,
-  "tags": [
-    "geometry",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "ternary_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3

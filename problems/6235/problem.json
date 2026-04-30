@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Beijing, Beijing Regional Contest 2004",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["implementation", "data_structures", "priority_queue"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.5127999782562256

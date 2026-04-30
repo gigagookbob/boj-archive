@@ -35,9 +35,7 @@
   "hint": "<p>4일동안 레벨이 4인 캐릭터 넷을 5로 훈련시킬 수 있고, 6일동안 레벨이 3인 캐릭터 셋을 5로 훈련시킬 수 있다.</p>",
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 174,
   "submission_count": null,
   "average_tries": 3.4655001163482666

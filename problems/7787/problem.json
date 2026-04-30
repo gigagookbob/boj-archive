@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, KBTU Open, KBTU Open 2008, baekjoon, ch3ckm4te, shj5508",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 205,
   "submission_count": null,
   "average_tries": 2.2195000648498535

@@ -15,10 +15,7 @@
   "hint": "<p>The picture in the problem statement illustrates the opponent FSM given in the above sample input and a possible solution of yours given in the sample output.</p>\n<p>Opponent FSM keeps playing Rock or Paper (depending on its initial state) until it sees Scissors — seeing Scissors triggers a change in its behaviour.</p>\n<p>One way to beat such FSM is to play Paper . If your opponent keeps playing Rock, just continue playing Paper and thus win. If the opponent FSM is playing Paper , trigger it to playing Rock by playing Scissors once, and then it’ll keep playing Rock and you’ll keep beating it with your Paper .</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2014",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.105299949645996

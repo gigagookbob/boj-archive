@@ -19,12 +19,7 @@
   "hint": null,
   "source": "author5, ha819ha, junseo, msphere, sait2000, sh0416, slah007",
   "level": 18,
-  "tags": [
-    "string",
-    "hashing",
-    "suffix_array",
-    "rabin_karp"
-  ],
+  "tags": ["string", "hashing", "suffix_array", "rabin_karp"],
   "accepted_user_count": 1339,
   "submission_count": null,
   "average_tries": 2.267400026321411

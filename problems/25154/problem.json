@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog primjera: Na polju (1,1) Vedran je izgubio 23 jedinice energije, na (2,1) 33 jedinice, na (3,1) 22, na (3,2) 37, na (3,3) 38, na (4,3) 28 i na (5,3) 13 jedinica energije. Na ovom putu je izgubio 194 jedinica energije što je najmanje što je mogao izgubiti na putu prema rubu. S ovim putem bi dobili sve bodove za taj test podatak.</p>\n<p>Opis drugog primjera: Za dani ispis, dobio bi 0.96*T, gdje je T broj bodova za taj test primjer jer na tom putu mistična tvar Vedranu oduzme 6 jedinica energije. Najbolje bi bilo da je Vedran išao (1,1)- &gt;(1,2)-&gt;(2,2)-&gt;(3,2). U tom slučaju mistična tvar bi Vedranu oduzela 5 jedinica energije.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2018, Junior Croatian Olympiad in Informatics 2018",
   "level": 12,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.7142999172210693

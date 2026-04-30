@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2023!, kyo20111, cgiosy, cs71107, jhnah917, jhwest2, junseo, wapas",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "trees",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "trees", "lca", "sparse_table"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.709700107574463

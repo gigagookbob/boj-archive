@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #5",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "stack",
-    "difference_array"
-  ],
+  "tags": ["data_structures", "stack", "difference_array"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.8406000137329102

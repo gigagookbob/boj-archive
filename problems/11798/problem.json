@@ -15,12 +15,7 @@
   "hint": null,
   "source": "koosaga, eric00513",
   "level": 21,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "polygon_area",
-    "two_pointer"
-  ],
+  "tags": ["convex_hull", "geometry", "polygon_area", "two_pointer"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 5.849999904632568

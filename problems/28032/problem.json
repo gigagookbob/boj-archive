@@ -15,12 +15,7 @@
   "hint": "<p>The first and third teams differ by $5$. The second and third teams differ by $3$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 US Open Contest, Silver",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 111,
   "submission_count": null,
   "average_tries": 1.5676000118255615

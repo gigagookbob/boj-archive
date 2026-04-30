@@ -23,9 +23,7 @@
   "hint": "<p>In test cases worth 40 points in total, it will hold 1 ≤ N ≤ 20.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #6",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.513200044631958

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 진짜 구데기컵 2018, jh05013",
   "level": 0,
-  "tags": [
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "string"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 4.256400108337402

@@ -15,13 +15,7 @@
   "hint": "<p>문제에서 다루는 적분법은 $\\int x^n \\mathrm{d}x = \\frac{1}{n+1}x^{n+1} + C$이 성립한다.</p>",
   "source": "Contest, BOJ User Contest, 양갈래컵, 제 1회 양갈래컵, mymasterpark2, toycartoon, dayo05, ibm2006, iseol421, jyheo98, mingyu331",
   "level": 14,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "parsing",
-    "calculus"
-  ],
+  "tags": ["math", "implementation", "string", "parsing", "calculus"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.9791998863220215

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "junie, jh05013, kangwlgns, lobo_prix, shjohw12, BaaaaaaaaaaarkingDog, qja0950",
   "level": 17,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "point_in_non_convex_polygon"
-  ],
+  "tags": ["geometry", "line_intersection", "point_in_non_convex_polygon"],
   "accepted_user_count": 710,
   "submission_count": null,
   "average_tries": 4.270400047302246

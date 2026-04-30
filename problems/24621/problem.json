@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 February Contest, Bronze",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sweeping"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 2.4837000370025635

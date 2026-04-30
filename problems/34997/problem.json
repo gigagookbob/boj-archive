@@ -15,9 +15,7 @@
   "hint": "<p>문제를 해결하는 데에는 상관이 없지만 레이저는 Light Amplification by Stimulated Emission of Radiation의 약어이므로 laser라고 써야 한다.</p>",
   "source": "Contest, BOJ User Contest, 카툰컵, Cartoon Cup: ONE, hibye1217, areian13, iktk, kaorin, kuhyaku, ohwphil, qvixnh22, utilforever",
   "level": 18,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.8667000532150269

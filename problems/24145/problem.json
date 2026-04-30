@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2007/2008 Spring Training Camp",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.114300012588501

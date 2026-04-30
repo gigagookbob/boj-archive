@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:194px; width:114px\"/></p>\n<p>In vertices 3 and 6 the game is already lost. In vertex 5, the only move is to vertex 6, and the player wins. If Georgiy starts in vertex 1, or Gennady in vertices 2 or 4, Gennady can always go to vertex 1, and make the game infinite. If Georgiy starts in vertex 4, he can either go to vertex 1 (which leads to a draw) or to vertex 5, which leads to losing. Georgiy prefers the latter. Similarly, from vertex 2, he prefers to go to 3 and win. From vertex 1, Gennady can go to vertex 2 and lose, or go to vertex 4 and win. He prefers the latter.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2016",
   "level": 25,
-  "tags": [
-    "dfs",
-    "game_theory",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "game_theory", "graphs", "graph_traversal"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.5262999534606934

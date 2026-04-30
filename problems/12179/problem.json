@@ -15,12 +15,7 @@
   "hint": "<p>Note that sample cases 3 through 5 are outside the range of the Small data set.<br/>\n<br/>\nIn Case #1, Anima knows that all multifactorials of 9000 are at least 9000, so the opponent's single-digit power level, whatever it is, can't exceed any of them.<br/>\n<br/>\nThe output for Case #2, which is the largest possible input for the Small dataset, has 1990 exclamation points, in case you don't wish to count them.<br/>\n<br/>\nIn Case #3, both 9000 with 156 exclamation points and 9000 with 157 exclamation points have 205 digits, whereas 9000 with 155 exclamation points has 207 digits. Anima could make the claim with either 156 or 157, but she always chooses as few exclamation points as possible. This output has 156 exclamation points.</p>",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2015, Code Jam to I/O for Women 2015",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "simulation", "arbitrary_precision"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.2856999635696411

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2017/2018, National Round (1), 7-9 Classes, Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2017/2018, National Round (1), 10-12 Classes",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "trees",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "ad_hoc", "trees", "disjoint_set"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.166700005531311

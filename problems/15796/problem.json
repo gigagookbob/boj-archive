@@ -23,12 +23,7 @@
   "hint": "<p>Explanation of the example 1: The magical substrings are abc, cba, abc and abccba. Note that for example the substring ab is not magical because the letter c is not in it. </p>\n<p>Explanation of the example 2: Only the substring abcABC is magical (the letters a and A are different because a is a lowercase letter and A is an uppercase letter).</p>\n<p>Explanation of the example 3: The number of magical substrings is 22 and one of them is SwSwwS.</p>",
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2017",
   "level": 13,
-  "tags": [
-    "dp",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["dp", "data_structures", "set", "hash_set"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.38100004196167

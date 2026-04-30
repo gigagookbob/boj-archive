@@ -15,10 +15,7 @@
   "hint": "<p>The phone starts with battery 1 in place. After 2 seconds it is completely depleted, so it changes to battery 2, which now has a total charge of 12.</p>\n<p>It takes 2.4 seconds to deplete battery 2, and thus, now battery 1 has a charge of 2.4 coulombs. It's time to change to battery 1 again.</p>\n<p>After 0.48 seconds battery 1 is depleted and battery 2 has 0.48 coulombs of charge.</p>\n<p>This process continues for an extra 0.12 seconds until none of the batteries have any power left. Note that we will make an infinite number of battery swaps.</p>",
   "source": "School, Cornell University High School Programming Contest, Cornell University High School Programming Contest 2016",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 199,
   "submission_count": null,
   "average_tries": 2.783900022506714

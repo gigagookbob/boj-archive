@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Beginner Round",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 151,
   "submission_count": null,
   "average_tries": 1.198699951171875

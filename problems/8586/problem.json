@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2011, Stage 1",
   "level": 8,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.5641000270843506

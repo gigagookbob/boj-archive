@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2015/2016, namnamseo",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "offline_queries"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.2558000087738037

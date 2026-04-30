@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>On the first day, Lana will take the shoes labeled $2$ out of the wardrobe. This action will take her $2$ seconds. At the end of the day, she will leave those shoes in the hallway and keep them there indefinitely.</p>\n<p>Now, whenever she needs to retrieve the shoes labeled $1$ from the wardrobe, it will take her $1$ second. However, if she needs the shoes labeled $2$, she can immediately wear them from the hallway without spending any time.</p>\n<p>The total time she will spend retrieving shoes is: $2 + 1 + 0 + 1 + 0 + 1 = 5$ seconds.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2024/2025, Contest #4",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "greedy", "segtree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3.3333001136779785

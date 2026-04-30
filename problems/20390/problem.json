@@ -19,10 +19,7 @@
   "hint": "<p>시간 / 메모리 제한으로 인해 C/C++ 와 Java11, 그리고 PyPy3 이외의 언어로는 정해로도 정답을 받을 수 있는 것이 보장되지 않는다.</p>",
   "source": "pichulia",
   "level": 15,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 151,
   "submission_count": null,
   "average_tries": 3.8078999519348145

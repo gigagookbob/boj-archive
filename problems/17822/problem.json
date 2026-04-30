@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, sodp2, pichulia",
   "level": 14,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 6342,
   "submission_count": null,
   "average_tries": 2.738600015640259

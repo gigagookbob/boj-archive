@@ -23,10 +23,7 @@
   "hint": null,
   "source": "vjerksen, doju",
   "level": 24,
-  "tags": [
-    "graphs",
-    "general_matching"
-  ],
+  "tags": ["graphs", "general_matching"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 2.201900005340576

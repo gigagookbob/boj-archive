@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 827,
   "submission_count": null,
   "average_tries": 3.452199935913086

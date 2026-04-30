@@ -19,13 +19,7 @@
   "hint": "<p>지호가 $O(N^2)$ 미만에 해결할 수 있을 것 같다고 이야기한 부분은, 엄밀히 하면 모든 정점에 대해 $o(N^2)$에 해결할 수 있다는 뜻이다.</p>",
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2024 반년대회, gs22059, denniskim, dkim110807, ehlee0815, flappybird, gs22123, ibm2006, iccodly, jk410, junwoojune, kdh9949, lisifu, lky7674, mjhmjh1104, puppy",
   "level": 17,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "rerooting",
-    "tree_diameter"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "rerooting", "tree_diameter"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.640000104904175

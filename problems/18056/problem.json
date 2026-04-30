@@ -19,10 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 619px; height: 287px;\"/></p>\n<p style=\"text-align: center;\"><small>Images by <a href=\"https://pixabay.com/de/vectors/eidechse-rot-bunte-reptil-kriecht-46815/\">OpenClipart-Vectors</a> on Pixabay.</small></p>\n<p>Figure C.1: Illustration of the first sample case. Initially, Christian owns 2 yellow, 3 green, and 5 blue chameleons. After 5 applications of the C<sup>4</sup> method he has 10 green chameleons. The vectors (y, g, b) denote the number of yellow, green, and blue chameleons available in the respective breeding step.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2019",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "math"
-  ],
+  "tags": ["ad_hoc", "math"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.4800000190734863

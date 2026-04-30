@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2018 Rocky Mountain Regional Contest",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.399999976158142

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2011/2012, Stage 3",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "bruteforcing",
-    "data_structures",
-    "math",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "bruteforcing", "data_structures", "math", "sorting"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.9000000953674316

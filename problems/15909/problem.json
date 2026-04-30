@@ -19,10 +19,7 @@
   "hint": "<p>2번째 예제 케이스에서 4번 위치에서 경로의 합이 5가 되는 행성은 5번 행성(E[4] + E[2] + E[5] = 5)과 3번 행성(E[4] + E[2] + E[1] + E[3] = 5) 2개밖에 존재하지 않는다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2018, bluefire",
   "level": 18,
-  "tags": [
-    "set",
-    "smaller_to_larger"
-  ],
+  "tags": ["set", "smaller_to_larger"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 3.2363998889923096

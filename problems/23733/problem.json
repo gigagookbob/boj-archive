@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, UNIST, 3rd UNIST Algorithm Programming Contest Uni-CODE 2021, chunghan, checkcheck, cs71107, jh05013, queued_q",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.4800000190734863

@@ -19,11 +19,7 @@
   "hint": "<p><em>Explanation of Sample 1:</em> The graph can be illustrated as follows.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 156px; height: 125px;\"/></p>\n<p>You can travel from vertex $1$ to vertex $2$ by traversing the vertices $1 \\to 4 \\to 5 \\to 2$. The weights of the traversed edges are changed into $3$, $1$, and $1$ respectively.</p>\n<p>Then, you travel from vertex $2$ to vertex $3$ by traversing the vertices $2 \\to 5 \\to 6 \\to 3$. The cost of the entire travel is $5+1+2+1+1+1 = 11$.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2025",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

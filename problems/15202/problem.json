@@ -23,14 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2017",
   "level": 17,
-  "tags": [
-    "dfs",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["dfs", "dp", "dp_tree", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

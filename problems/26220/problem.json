@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 겨울 숲의 초대, 겨울 숲의 초대, frozenca, flappybird, hibye1217, kiwiyou, sait2000, wider93",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.4544999599456787

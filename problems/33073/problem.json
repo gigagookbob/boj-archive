@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2024, math_rabbit_1028, qwerasdfzxcl, dohoon, jimini23, jk410, kuhyaku, turgon314, woohyun_jng",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.9636000394821167

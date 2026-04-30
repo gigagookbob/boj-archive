@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #1 - Juniors, baekjoon, harosh, yoloo",
   "level": 14,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "dfs"],
   "accepted_user_count": 8667,
   "submission_count": null,
   "average_tries": 3.037600040435791

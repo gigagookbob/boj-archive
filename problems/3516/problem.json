@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2011",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "coordinate_compression"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.5806000232696533

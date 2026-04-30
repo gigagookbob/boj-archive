@@ -19,10 +19,7 @@
   "hint": "<p>팰린드롬이란 앞으로 읽어도, 뒤로 읽어도 같은 문자열을 의미합니다.</p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 7회 코딩 테스트, chogahui05, aig0016, utilforever",
   "level": 13,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.125

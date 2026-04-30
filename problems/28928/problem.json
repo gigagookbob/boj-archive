@@ -23,9 +23,7 @@
   "hint": "<p>Обратите внимание, что входные данные могут иметь достаточно большой объем, поэтому рекомендуется использовать быстрые потоки ввода-вывода вашего языка.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 1, 2016",
   "level": 15,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

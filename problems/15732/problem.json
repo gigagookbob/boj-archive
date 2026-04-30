@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 HEPC, MAVEN, hellogaon, tksabum, chogahui05",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 1197,
   "submission_count": null,
   "average_tries": 3.6198999881744385

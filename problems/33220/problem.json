@@ -23,14 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 300px; height: 225px;\"/></p>\n<p style=\"text-align: center;\">Figure B.1: Visualization of Sample Input 2.</p>",
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2022",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

@@ -23,12 +23,7 @@
   "hint": "<p>Vertex cover is a set of vertices such that for each edge at least one of the endpoints belongs to the set.</p>\n<p>Matching is a set of edges such that no two edges from it have common endpoint.</p>\n<p>Note that a minimum vertex cover would not be accepted as a correct answer if it is not smol.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 5: Almost Retired Dandelion Contest, ICPC Camp Contest 2, Contest, Open Cup, 2020/2021 Season, Stage 11: Grand Prix of Nizhny Novgorod",
   "level": 25,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat",
-    "general_matching"
-  ],
+  "tags": ["graphs", "scc", "2_sat", "general_matching"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.857100009918213

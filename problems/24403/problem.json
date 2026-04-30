@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2021",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "euclidean",
-    "euler_phi"
-  ],
+  "tags": ["math", "greedy", "number_theory", "euclidean", "euler_phi"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.9350999593734741

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2003 East Central Regional Contest, f52985, bupjae",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "polygon_area"
-  ],
+  "tags": ["bruteforcing", "geometry", "polygon_area"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 1.7273000478744507

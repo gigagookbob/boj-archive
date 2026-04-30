@@ -15,9 +15,7 @@
   "hint": "<p>이 문제의 시간 제한이 $0.124$초인 이유는 동우의 생일이 $1$월 $24$일이기 때문이다.</p>",
   "source": "University, 고려대학교, MatKor Cup, 제1회 MatKor Cup: 2022 Summer 연습 세션, University, 고려대학교, MatKor Cup, 제7회 고려대학교 MatKor Cup: 2025 Summer, The FinAL 연습 세션, alex04, kidw0124, austin0817, devluyten, ezh8n, lighter, mathjuny, midoria, pj991207, rachel2003, tlsdydaud1, utilforever, w8385",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 543,
   "submission_count": null,
   "average_tries": 1.8011000156402588

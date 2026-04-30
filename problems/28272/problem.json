@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2023, functionx, dohoon, kiwiyou, sorohue, utilforever",
   "level": 26,
-  "tags": [
-    "cartesian_tree",
-    "dp",
-    "prefix_sum",
-    "trees"
-  ],
+  "tags": ["cartesian_tree", "dp", "prefix_sum", "trees"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

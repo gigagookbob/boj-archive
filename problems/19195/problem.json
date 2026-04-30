@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 7: Karelia Cup Day 1, Grand Prix of Karelia, Contest, Open Cup, 2014/2015 Season, Stage 8: Grand Prix of Karelia",
   "level": 24,
-  "tags": [
-    "precomputation",
-    "berlekamp_massey"
-  ],
+  "tags": ["precomputation", "berlekamp_massey"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.0625

@@ -15,12 +15,7 @@
   "hint": "<p>N개의 자료 값 $x_1, x_2, ..., x_n$이 있을 때,</p>\n<p>평균 $m$은 $m=\\frac{x_1​+x_2​+⋅⋅⋅+x_n}{n}​$</p>\n<p>분산 $V$는 $V=\\frac{(x_1-m)^2+(x_2-m)^2+⋅⋅⋅+(x_n-m)^2}{n}​$</p>\n<p>표준편차 $\\sigma$는 $\\sigma=\\sqrt{V}$이다.</p>\n<p>\"자동차가 차주 김표준의 편을 들다\"를 네 글자로 줄이면 \"표준편차\"이다. (ㅎㅎ;; ㅈㅅ.. ㅋㅋ!!)</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제3회 천하제일 코딩대회, messi, some256, wapas",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "prefix_sum",
-    "statistics"
-  ],
+  "tags": ["bruteforcing", "math", "prefix_sum", "statistics"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 4.026700019836426

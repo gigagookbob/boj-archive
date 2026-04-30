@@ -15,9 +15,7 @@
   "hint": "<p>높이 10 봉우리에 있는 활잡이가 높이 2, 5, 7 봉우리에 있는 활잡이들을 처치할 수 있다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제1회 천하제일 코딩대회 본선, YunGoon",
   "level": 5,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 4664,
   "submission_count": null,
   "average_tries": 2.425800085067749

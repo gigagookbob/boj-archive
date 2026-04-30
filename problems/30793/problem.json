@@ -23,11 +23,7 @@
   "hint": "<p>Who can foresee such an unexpected outcome if the final election result deviates significantly from the preliminary results?</p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 6회 코딩 테스트, chogahui05, ksoosung77, naeby, sjhi00, utilforever, vkdldjvkdnj",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 807,
   "submission_count": null,
   "average_tries": 1.1907999515533447

@@ -15,11 +15,7 @@
   "hint": "<p>실제로 준세는 $10$번 정도 문제를 반려 당했습니다.</p>",
   "source": "School, 송도고등학교, 송도고 코드마스터 2024, junse2, cologne, dohoon, gggkik, ibm2006, jinseo, kiwiyou, lisifu, pizzaroot, weekend",
   "level": 7,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "simulation"
-  ],
+  "tags": ["implementation", "ad_hoc", "simulation"],
   "accepted_user_count": 201,
   "submission_count": null,
   "average_tries": 1.5821000337600708

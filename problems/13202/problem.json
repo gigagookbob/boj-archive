@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2016 서울대학교 프로그래밍 경시대회, pse1202",
   "level": 14,
-  "tags": [
-    "math",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "pythagoras"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 3.234800100326538

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2005",
   "level": 18,
-  "tags": [
-    "convex_hull",
-    "geometry"
-  ],
+  "tags": ["convex_hull", "geometry"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.375

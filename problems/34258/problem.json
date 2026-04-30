@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Lemon Cup, Lemon Cup, kuhyaku, gs22059, leinad2, pk661, realpsdoingdamyoo, utilforever, woohyun_jng",
   "level": 24,
-  "tags": [
-    "trees",
-    "binary_search",
-    "randomization",
-    "hld"
-  ],
+  "tags": ["trees", "binary_search", "randomization", "hld"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.3845999240875244

@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 4141,
   "submission_count": null,
   "average_tries": 2.3810999393463135

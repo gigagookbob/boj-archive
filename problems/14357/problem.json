@@ -15,12 +15,7 @@
   "hint": "<p>In sample case #1, you must use the only two available department members to form the committee. That committee will tie only if the two committee members vote differently, which will happen half the time. (Without loss of generality, choose the vote of the first. Then the probability that the second will vote the other way is 0.5.)</p>\n<p>In sample case #2, the best strategy is to pick one of the members with \"Yes\" probability 0.00 and one of the members with \"Yes\" probability 1.00. This guarantees a tie.</p>\n<p>In sample case #3, suppose that we pick the two members with \"Yes\" probabilities of 0.50 and 0.75. A tie will happen if the first one votes \"Yes\" and the second one votes \"No\" (probability 0.5 * 0.25 = 0.125), or if the first one votes \"No\" and the second one votes \"Yes\" (probability 0.5 * 0.75 = 0.375). So the total probability of a tie is 0.125 + 0.375 = 0.5. Choosing the two members with \"Yes\" probabilities of 0.50 and 1.00 would also make the tie probability 0.5, since the 1.00 member will vote \"Yes\" and the 0.50 member must vote \"No\". Choosing the two members with \"Yes\" probabilities of 0.75 and 1.00 would make the tie probability only 0.25, since the 1.00 member will vote \"Yes\" and the 0.75 member must vote \"No\". So 0.5 is the best we can do.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 2",
   "level": 8,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["combinatorics", "dp", "math", "probability"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.7777999639511108

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 1996, bvba",
   "level": 9,
-  "tags": [
-    "case_work",
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "parsing", "string"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.875

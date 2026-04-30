@@ -23,10 +23,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2020 SciOI #1, blackking26",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 242,
   "submission_count": null,
   "average_tries": 3.8926000595092773

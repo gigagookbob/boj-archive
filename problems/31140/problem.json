@@ -15,11 +15,7 @@
   "hint": "<p>For the second test case, the best way is $0100 \\rightarrow 0110 \\rightarrow 1111$.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 6: Grand Prix of EDG",
   "level": 12,
-  "tags": [
-    "dp",
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["dp", "greedy", "parametric_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

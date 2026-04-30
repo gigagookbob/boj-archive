@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2015, tncks0121",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 278,
   "submission_count": null,
   "average_tries": 5.208600044250488

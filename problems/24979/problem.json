@@ -15,13 +15,7 @@
   "hint": "<p>The answer to the first query is yes because the first character of $s$ is already equal to 'C'.</p>\n<p>The answer to the fifth query is yes because the substring OW from the second to the third character of $s$ can be converted into 'C' in two operations:</p>\n<pre>\n   OW\n-&gt; CWW\n-&gt; C\n</pre>\n<p>No other substring of this example string COW can be reduced to 'C'</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 US Open Contest, Silver",
   "level": 15,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "prefix_sum",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["string", "ad_hoc", "prefix_sum", "parity", "invariant"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 1.4265999794006348

@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Input 1, Patient Zero could be person 1 or person 4. Persons 2 and 3 can be eliminated, because they had contact on day 2, when Patient Zero would be symptomatic and quarantined.</p>\n<p>Suppose person 1 is Patient Zero. Person 1 may have infected person 4 on day 1. Person 1 is symptomatic on day 2, so they begin quarantining. Therefore, there is no chain of contact from person 1 (Patient Zero) to persons 2 or 3, so person 2 and person 3 are safe and do not need to be quarantined. If person 1 infected person 4 on day 1, then person 4 will be symptomatic tomorrow (day 3), so there is no need to contact them because they will isolate on their own. Therefore if Patient Zero is person 1, no one needs to be notified.</p>\n<p>Now suppose person 4 is Patient Zero. Person 4 may have infected person 1 on day 1; using the same logic as above, there is no need to notify person 1 or person 4 to quarantine on day 3. This leaves persons 2 and 3, which requires us to consider multiple infection patterns.</p>\n<p>If person 4 infected both persons 2 and 3 on day 1, then both of them will be symptomatic and self-quarantine starting on day 3, so we do not need to notify them.</p>\n<p>Suppose instead person 4 infected person 2 but NOT person 3 on day 1. (Remember that transmission is not guaranteed.) In this case, person 2 could go on to infect person 3 on day 2, and person 3 would not yet be symptomatic on day 3, so we would need to notify person 3 to quarantine.</p>\n<p>Similarly, if person 4 infected person 3 but NOT person 2 on day 1, we would need to notify person 2 to quarantine.</p>\n<p>Therefore to be sure we can halt the outbreak, we need to notify both person 2 and person 3 to quarantine. This is guaranteed to stop the outbreak, whether person 1 or person 4 is Patient Zero.</p>",
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2022, Camp, Petrozavodsk Programming Camp, Summer 2022, Day 1: Welcome Contest",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.8181999921798706

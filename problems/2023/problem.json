@@ -15,12 +15,7 @@
   "hint": null,
   "source": "herdson, qkrwjddn, uk7880",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "backtracking",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "backtracking", "primality_test"],
   "accepted_user_count": 11670,
   "submission_count": null,
   "average_tries": 2.136399984359741

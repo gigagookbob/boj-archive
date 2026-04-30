@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, FallSpot 2009",
   "level": 8,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.157900094985962

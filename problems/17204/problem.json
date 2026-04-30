@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2019 NPC (Newbie Programming Contest), soljin8122",
   "level": 8,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation"],
   "accepted_user_count": 1739,
   "submission_count": null,
   "average_tries": 1.5508999824523926

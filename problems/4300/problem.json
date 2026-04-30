@@ -15,10 +15,7 @@
   "hint": "<h3>Chances of Winning</h3>\n<p>Every BINGO game has a winning card, so a player's chances of winning depend on the number of cards in the game and how many cards s/he is playing. For example, if a player has 12 cards in a game with 1200 cards, the chances of winning for that player is 1 in 100.</p>",
   "source": ", Contest, Waterloo's local Programming Contests, 5 February, 2005",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5937999486923218

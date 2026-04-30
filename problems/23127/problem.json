@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, pair (<code>ABA</code>, <code>CBC</code>) is awesome.</p>\n<p>In the second test case, there are $3$ ways to replace question marks to get an awesome pair: (<code>ABA</code>, <code>CBC</code>), (<code>ACA</code>, <code>CBC</code>), (<code>ABA</code>, <code>CAC</code>).</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 3: IQ test by kefaa2, antontrygubO_o, and gepardo, Contest, Open Cup, 2021/2022 Season, Stage 2: Grand Prix of IMO",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "implementation"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.5455000400543213

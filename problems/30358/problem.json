@@ -23,12 +23,7 @@
   "hint": "<p>In Sample Input 1, All of the stone placements satisfy the condition.</p>\n<p>In Sample Input 2, there are 10 different ways that the first placement is \"Gemini Tree.\" They could also be \"Gemini Tree\" after one leaf is removed.</p>\n<p>In Sample Input 3, there are 86 ways that the first placement is a \"Gemini Tree.\" Two of these are not \"Gemini Tree,\" if any one leaf is removed.</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2023 Day 2, Camp, Petrozavodsk Programming Camp, Summer 2024, Day 1: Welcome Contest",
   "level": 22,
-  "tags": [
-    "math",
-    "trees",
-    "combinatorics",
-    "euler_tour_technique"
-  ],
+  "tags": ["math", "trees", "combinatorics", "euler_tour_technique"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

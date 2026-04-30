@@ -27,11 +27,7 @@
   "hint": "<p>For the first sample, there are three contestants A, B, and C. A currently has 3 points, B currently has 1 point, and C currently has 4 points. The judges can assign 12 points.</p>\n<p>Suppose the judges chose to assign (q) 2 points to A, 7 points to B, and 3 points to C. The scores will be announced in increasing order of q. The following sequence of actions happen:</p>\n<ul>\n<li>A’s score is announced. Her score becomes 5, and she is the new leader.</li>\n<li>C’s score is announced. His score becomes 7, and he is the new leader.</li>\n<li>B’s score is announced. His score becomes 8, and he is the new leader.</li>\n</ul>\n<p>We can see this is an exciting set of announcements.</p>\n<p>On the other hand, the judges choosing q = [3, 3, 6] is not exciting, since the leader isn’t unique after the first announcement. (We announce B first since they have the minimum pi between the two contestants both getting 3 points from the judges.) Also, the q = [6, 5, 1] is not exciting, since the leader doesn’t change after the first announcement.</p>\n<p>Given this scenario, three distinct final rankings that are possible (from highest ranked to lowest ranked):</p>\n<ul>\n<li>C, B, A, with judges q = [2, 5, 5]</li>\n<li>B, C, A, with judges q = [2, 8, 2]</li>\n<li>C, A, B, with judges q = [4, 4, 4]</li>\n</ul>\n<p>Note that the order B, C, A is only counted once even though it can be realized in two different ways (q = [2, 8, 2] and q = [2, 7, 3]).</p>",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2017 Pacific Northwest Region Programming Contest, Division 1, ICPC, Regionals, North America, Southeast USA Regional, 2017 Southeast USA Regional Programming Contest, Division 1",
   "level": 24,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.75

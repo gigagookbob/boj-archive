@@ -23,10 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2020 ICPC Asia Jakarta Regional Contest",
   "level": 6,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.125

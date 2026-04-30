@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon, pjw4791",
   "level": 20,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 1881,
   "submission_count": null,
   "average_tries": 1.861199975013733

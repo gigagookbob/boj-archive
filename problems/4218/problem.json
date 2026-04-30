@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2011, august14, koosaga",
   "level": 25,
-  "tags": [
-    "circulation",
-    "flow",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["circulation", "flow", "mcmf", "graphs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.523800015449524

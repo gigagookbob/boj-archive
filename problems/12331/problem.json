@@ -15,10 +15,7 @@
   "hint": "<p>In the first case, we can spend all 5 joules of our energy on the first activity (for a gain of 10), regain 2 and spend them on the second activity. In the second case, we spend 2 joules on the first activity, regain them, and spend 5 on the second. In the third case, our regain rate is equal to the maximum energy, meaning we always recover all energy after each activity - so we can spend full 3 joules on each activity.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 1A",
   "level": 7,
-  "tags": [
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["dp", "bruteforcing"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.829300045967102

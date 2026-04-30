@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2010",
   "level": 9,
-  "tags": [
-    "implementation",
-    "dp",
-    "greedy",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "dp", "greedy", "string", "parsing"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.0416998863220215

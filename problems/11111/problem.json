@@ -15,12 +15,7 @@
   "hint": null,
   "source": "h0ngjun7, qkrlwsnd, newdeal",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "grid_graph", "mcmf"],
   "accepted_user_count": 552,
   "submission_count": null,
   "average_tries": 2.1684999465942383

@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, the three points are the surface points of one octant of the sphere, and the path traces out that octant. There are many hemispheres that do not overlap that path at all.</p>\n<p>In Sample Case #2, the eight points are the corners of a cube inscribed in the sphere; any hemisphere will contain at least some parts of that path. Note that dividing all values by 5 would produce an equivalent case (with the same set of points).</p>\n<p>In Sample Case #3, the path is itself a great circle, and so every other great circle must intersect it somewhere.</p>\n<p>Sample Case #4 uses the same three points as in Sample Case #3, except that the first two points are visited twice each. Note that a case may include multiple representations of the same point, and that a path may include the same points or connections more than once.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, World Finals",
   "level": 25,
-  "tags": [
-    "math",
-    "geometry",
-    "convex_hull",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "convex_hull", "geometry_3d"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.81820011138916

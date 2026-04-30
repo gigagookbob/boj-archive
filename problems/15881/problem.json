@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, PPC 2018, zynyste",
   "level": 5,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 1336,
   "submission_count": null,
   "average_tries": 1.8539999723434448

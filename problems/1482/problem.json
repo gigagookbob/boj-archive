@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 19,
-  "tags": [
-    "greedy",
-    "backtracking",
-    "dp_digit"
-  ],
+  "tags": ["greedy", "backtracking", "dp_digit"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 3.536600112915039

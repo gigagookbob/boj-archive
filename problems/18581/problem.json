@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 29 September, 2019",
   "level": 11,
-  "tags": [
-    "math",
-    "sorting",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "sorting", "number_theory", "constructive"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.4285999536514282

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Camp, Moscow Pre-Finals ACM ICPC Workshop, Moscow Pre-Finals ACM ICPC Workshop 2018",
   "level": 27,
-  "tags": [
-    "dp",
-    "link_cut_tree",
-    "trees"
-  ],
+  "tags": ["dp", "link_cut_tree", "trees"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

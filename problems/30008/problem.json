@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 프로그래밍 챌린지, 제 1회 선린 프로그래밍 챌린지, 대회, School, 선린인터넷고등학교, 선린 프로그래밍 챌린지, 제 1회 선린 프로그래밍 챌린지, Open Contest, gubshig, 79brue, amsminn, myyh1234, prarie",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "case_work"],
   "accepted_user_count": 1634,
   "submission_count": null,
   "average_tries": 1.3384000062942505

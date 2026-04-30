@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회, kookmin20103324",
   "level": 14,
-  "tags": [
-    "geometry",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "ternary_search"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 6.448299884796143

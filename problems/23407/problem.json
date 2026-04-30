@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 3: Grand Prix of SPb",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "bitmask"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.2857000827789307

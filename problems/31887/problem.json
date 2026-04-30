@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, K512컵, 2024 서강대학교 K512컵, tkfkddl59323, alex9801, hulahula3247, jk410, lky7674",
   "level": 17,
-  "tags": [
-    "dp",
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["dp", "greedy", "two_pointer"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4

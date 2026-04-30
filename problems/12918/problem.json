@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 22,
-  "tags": [
-    "graphs",
-    "geometry",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "geometry", "flow", "mcmf"],
   "accepted_user_count": 182,
   "submission_count": null,
   "average_tries": 3.8076999187469482

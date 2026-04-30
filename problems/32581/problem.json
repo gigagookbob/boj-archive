@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2024",
   "level": 15,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "set"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

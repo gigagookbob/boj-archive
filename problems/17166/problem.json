@@ -23,11 +23,7 @@
   "hint": "<p>In example 2, overlapping region is indicated as subtractive mixing of two or more colors. All points with $(x \\ge 5 \\wedge  y \\le 1) \\vee (x \\le 1 \\wedge y \\ge 5)$ is included in all five region, and colored as darkest.</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2019 KAIST RUN Spring Contest, ho94949",
   "level": 19,
-  "tags": [
-    "geometry",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["geometry", "sorting", "sweeping"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 3.230799913406372

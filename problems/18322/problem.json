@@ -15,10 +15,7 @@
   "hint": "<p>Including \"hello\" and \"my\", the first line contains 7 non-space characters. Adding \"name\" would cause the first line to contain $11&gt;7$ non-space characters, so it is placed on a new line.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 January Contest, Bronze",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 636,
   "submission_count": null,
   "average_tries": 2.300299882888794

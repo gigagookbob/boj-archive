@@ -23,9 +23,7 @@
   "hint": "<p>Opis drugog probnog primjera:</p>\n<table class=\"table table-bordered td-center table-center-70\">\n<tbody>\n<tr>\n<td> </td>\n<td>Početno vrijeme</td>\n<td>Prvi dan</td>\n<td>Drugi dan</td>\n<td>Treći dan</td>\n<td>Četvrti dan</td>\n</tr>\n<tr>\n<td>Prvi alarm</td>\n<td>14:01</td>\n<td>14:01</td>\n<td>14:01</td>\n<td>14:01</td>\n<td>14:01</td>\n</tr>\n<tr>\n<td>Drugi alarm</td>\n<td>19:02</td>\n<td>19:02</td>\n<td>19:02</td>\n<td>19:02</td>\n<td>21:39</td>\n</tr>\n<tr>\n<td>Treći alarm</td>\n<td>10:54</td>\n<td>01:49</td>\n<td>05:03</td>\n<td>06:37</td>\n<td>06:37</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Junior Final Exam #2",
   "level": 16,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

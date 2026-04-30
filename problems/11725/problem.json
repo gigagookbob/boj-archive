@@ -19,13 +19,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "dfs"],
   "accepted_user_count": 39346,
   "submission_count": null,
   "average_tries": 2.2446999549865723

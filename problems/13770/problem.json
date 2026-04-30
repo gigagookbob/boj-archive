@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2015 ACM South Pacific Programming Contest",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "divide_and_conquer",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "divide_and_conquer", "lazyprop"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.2857000827789307

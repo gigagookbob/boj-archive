@@ -15,13 +15,7 @@
   "hint": "<p>$B$가 $A$의 부분수열이라는 것은, $1 \\le i_1 &lt; i_2 &lt; \\cdots &lt; i_{\\lvert B \\rvert} \\le \\lvert A \\rvert$가 존재해서 $1 \\le j \\le \\lvert B \\rvert$에 대해 $A_{i_j} = B_j$라는 것을 의미합니다. </p>",
   "source": "University, 서울사이버대학교, 2022 서울사이버대학교 프로그래밍 경진대회 (SCUPC), cologne",
   "level": 28,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "lis",
-    "randomization",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "binary_search", "lis", "randomization", "sorting"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 22.71430015563965

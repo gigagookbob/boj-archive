@@ -15,11 +15,7 @@
   "hint": "<p>The easiest route is (0, 0) -&gt; (1, 0) -&gt; (2, 1) -&gt; (2, 2) -&gt; (2, 3). The energy for each step is 1, 4, 4, and 4 units. </p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2014",
   "level": 12,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.8723000288009644

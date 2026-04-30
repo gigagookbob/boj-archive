@@ -19,11 +19,7 @@
   "hint": "<p>X가 계산 과정에서 32bit 정수형의 범위를 초과할 수 있음에 주의하세요.</p>\n<p>C/C++의 경우 long long 타입, Java의 경우 long 타입을 사용하는 것을 권장합니다.</p>",
   "source": "University, 경북대학교, 2019 Goricon, exqt",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "bitmask"
-  ],
+  "tags": ["math", "greedy", "bitmask"],
   "accepted_user_count": 254,
   "submission_count": null,
   "average_tries": 2.397599935531616

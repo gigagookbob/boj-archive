@@ -19,11 +19,7 @@
   "hint": "<p>Sample 1: You can view the whole plane below.</p>\n<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:264px; width:350px\"/></p>\n<p>Sample 2: This is the same input as above, using online queries.</p>",
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2017",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "pst",
-    "segtree"
-  ],
+  "tags": ["data_structures", "pst", "segtree"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.7856999635696411

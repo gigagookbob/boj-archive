@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2013, baekjoon",
   "level": 19,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "line_intersection", "polygon_area"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 3.3255999088287354

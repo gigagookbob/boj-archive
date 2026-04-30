@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제4회 천하제일 코딩대회 예선, leejseo",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "string", "ad_hoc"],
   "accepted_user_count": 706,
   "submission_count": null,
   "average_tries": 1.179900050163269

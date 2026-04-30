@@ -15,9 +15,7 @@
   "hint": "<p>첫 번째 저지는 M이고, 3번째 선수가 L을 요구했기 때문에 첫 번째 저지는 주어질 수 없다. 두 번째 저지와 네 번째 저지는 요구된 적이 없고, 세 번째 저지는 S를 요구한 2번째 선수에게 주어진다.</p>\r\n",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2015, CCC 2015 Senior Division, jjwdi0",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 417,
   "submission_count": null,
   "average_tries": 2.1078999042510986

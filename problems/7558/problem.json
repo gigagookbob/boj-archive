@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2003, baekjoon, degurii",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "flt"
-  ],
+  "tags": ["math", "number_theory", "flt"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.6087000370025635

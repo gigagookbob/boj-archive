@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Taejon Nationalwide Internet Competition 2002, djm03178",
   "level": 7,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 510,
   "submission_count": null,
   "average_tries": 2.4509999752044678

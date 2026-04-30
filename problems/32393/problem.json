@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2024 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, yijw0930, amel, edwardblue, eoaud0108, finimage, jinhan814, kevinlys00, kidw0124, w8385",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "set", "tree_set", "sqrt_decomposition"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.7555999755859375

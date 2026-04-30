@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2021 East Central Regional Contest",
   "level": 17,
-  "tags": [
-    "implementation",
-    "geometry",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "simulation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.799999952316284

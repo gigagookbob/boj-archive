@@ -15,13 +15,7 @@
   "hint": "<p>The polygon is given by the points (0,0) (0,1) (1,2) (1,0).</p>\n<p>In the first query, we join the points (0,1) and (1,0) which leads to the 2 areas given by (0,0) (0,1) (1,0) and (0,1) (1,2) (1,0). The first triangle has an area of 0.5 and the second triangle has an area of 1. The minimum of these 2 is 0.5.</p>\n<p>In the second query, we join the points (0,0) and (1,2) which leads to the 2 areas given by (0,0) (0,1) (1,2) and (0,0) (1,2) (1,0). The first triangle has an area of 0.5 and the second triangle has an area of 1. The minimum of these 2 is 0.5.</p>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2010 ACM-ICPC Asia Amritapuri Regional Contest",
   "level": 13,
-  "tags": [
-    "dp",
-    "geometry",
-    "math",
-    "polygon_area",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "geometry", "math", "polygon_area", "prefix_sum"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

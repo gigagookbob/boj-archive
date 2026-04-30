@@ -27,9 +27,7 @@
   "hint": "<p>Explanation for the 1st sample case</p>\n<p>For the first sample, if you start the meeting 2.5 seconds after you arrived, the meeting will be attended by the first two subordinates.</p>\n<p>Explanation for the 2nd sample case</p>\n<p>For the second sample, you can adjust the arrival time of the third subordinate to become one second later.</p>\n<p>Explanation for the 3rd sample case</p>\n<p>For the third sample, you can adjust the arrival time of the second subordinate to become one second later and start the meeting 0.71863781 seconds after you arrived.</p>\n<p>Explanation for the 4th sample case</p>\n<p>For the fourth sample, you cannot adjust any of the arrival time to satisfy your needs.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, ACM-ICPC Regional Contest, Jakarta 2017",
   "level": 13,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2021 SciCom Qualification Test, 79brue, lky7674",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 3.1974000930786133

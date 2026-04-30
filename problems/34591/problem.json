@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2025",
   "level": 23,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability",
-    "fft"
-  ],
+  "tags": ["math", "combinatorics", "probability", "fft"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4.285699844360352

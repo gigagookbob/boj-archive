@@ -15,10 +15,7 @@
   "hint": "<p>In this example, we have 5 cows (numbered 1..5 according to their order in the input). Cow 4 is the first to arrive (at time 10), and before she can finish eating (at time 27) cows 1 and 3 both arrive. Since cow 1 has higher seniority, she gets to eat next, having waited 2 units of time beyond her arrival time. She finishes at time 30, and then cow 3 starts eating, having waited for 10 units of time beyond her starting time. After a gap where no cow eats, cow 5 arrives and then while she is eating cow 2 arrives, eating 5 units of time later. The cow who is delayed the most relative to her arrival time is cow 3.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Silver",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 289,
   "submission_count": null,
   "average_tries": 1.871999979019165

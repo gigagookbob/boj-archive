@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2023 1차대회, 중등부, cs71107",
   "level": 10,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 906,
   "submission_count": null,
   "average_tries": 2.1180999279022217

@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 쿼리에서는 3번 문제의 답을 F로 바꾸면 세 문제를 맞혀 9점을 받고 보너스 점수 5점을 추가로 얻을 수 있다.</p>\n<p>두 번째 쿼리에서는 달빛 여우가 생각한 7번 문제의 답이 O에서 X로 바뀐다.</p>\n<p>세 번째 쿼리에서는 3번 문제와 8번 문제의 답을 F로 바꾸면 두 문제를 맞혀 6점을 받고 보너스 점수 10점을 추가로 얻을 수 있다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2019 서울대학교 프로그래밍 경시대회, Division 1, doju, edenooo",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 3.733299970626831

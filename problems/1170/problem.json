@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "cactus"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "cactus"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 2.0471999645233154

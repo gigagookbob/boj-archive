@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5, august14, djm03178, sait2000, tolelom, algoshipda",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 44439,
   "submission_count": null,
   "average_tries": 3.620300054550171

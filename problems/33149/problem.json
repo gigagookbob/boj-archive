@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2024, Contest, University, 경인지역 대학 연합, shake! 2024, Open Contest, shjohw12, akim9905, bnb2011, Coxie, hamuim, ibm2006, jk410, lky7674, overnap, pani, rustiebeats, swoon, tlsdydaud1, utilforever",
   "level": 17,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "knapsack"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "knapsack"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.146299958229065

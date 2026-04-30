@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>Na powyższym rysunku liczby w kwadratach oznaczają masy towaru znajdującego się w poszczególnych magazynach, a pozostałe liczby odpowiadają numerom miast, w których te magazyny się znajdują. W tym przypadku dążeniem Bajtazara jest, aby w każdym magazynie znalazły się $12/6=2$ tony towaru. Jednym ze sposobów zrealizowania tego zadania o optymalnym koszcie $10$ jest:</p>\n<ul>\n<li>przewieźć $1$ tonę towaru z miasta 1 do 4 (koszt $2$),</li>\n<li>przewieźć $2$ tony towaru z miasta 1 do 3 (koszt $4$),</li>\n<li>przewieźć $2$ tony towaru z miasta 5 do 6 (koszt $4$).</li>\n</ul>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2008, Stage 1",
   "level": 14,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

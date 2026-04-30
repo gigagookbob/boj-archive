@@ -15,9 +15,7 @@
   "hint": "<p>두 번째 조사 대상 영역에는 정글(J)이 3개, 바다(O)가 5개, 얼음(I)이 2개 있다.</p>\r\n\r\n<p><img alt=\"\" src=\"1.png\" style=\"width: 218px; height: 113px;\" /></p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2010/2011, baekjoon, lyzqm",
   "level": 11,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 1327,
   "submission_count": null,
   "average_tries": 1.8906999826431274

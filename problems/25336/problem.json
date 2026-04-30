@@ -15,10 +15,7 @@
   "hint": "<ul>\n<li>입력과 출력은 64비트 정수 범위를 넘을 수 있다.</li>\n<li>사용하지 않은 숫자는 등장 횟수를 고려하지 않는다.</li>\n<li>Python 사용자는 PyPy로 제출하는 것을 권장한다.</li>\n</ul>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제6회 천하제일 코딩대회 본선, kyo20111, hibye1217, jhnah917, jhwest2",
   "level": 19,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.833299994468689

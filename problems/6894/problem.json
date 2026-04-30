@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2004, CCC 2004 Senior Division",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["graphs", "graph_traversal", "implementation", "simulation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

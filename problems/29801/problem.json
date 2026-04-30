@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, there is no way for Badari to rearrange <code>DEJAM</code> to be lexicographically after <code>O</code>, so Amir guaranteed a win.</p>\n<p>In Sample Case #2, <code>AAA</code> is guaranteed to be earlier than any rearrangement of a string containing more than $3$ letters, so Amir also wins.</p>\n<p>In Sample Case #3, all possible partitions result in a list of parts that is already sorted in lexicographical order, so Amir cannot possibly win.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round C",
   "level": 21,
-  "tags": [
-    "case_work",
-    "constructive"
-  ],
+  "tags": ["case_work", "constructive"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2000-2001 Season, USACO Spring 2001 Contest, Green, lyzqm",
   "level": 11,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 207,
   "submission_count": null,
   "average_tries": 1.9661999940872192

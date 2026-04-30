@@ -23,12 +23,7 @@
   "hint": "<p>The third example test case demonstrates the real prices of oil futures in April 2020 (in dollars, multiplied by 10 and rounded). Be careful with theories like the one Fedor made. </p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2020-2021 North-Western Russia Regional Contest",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "prefix_sum",
-    "statistics"
-  ],
+  "tags": ["bruteforcing", "math", "prefix_sum", "statistics"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.0416998863220215

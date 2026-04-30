@@ -15,13 +15,7 @@
   "hint": "<p>For the first test case, the string becomes \"<code>100</code>\" after the first change. $f($<code>100</code>$) = f($<code>000</code>$) + 1 = 1$. And it becomes \"<code>111</code>\" after the second change. $f($<code>111</code>$) = f($<code>110</code>$) + 1 = f($<code>100</code>$) + 2 = f($<code>000</code>$) + 3 = 3$.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 18: Grand Prix of Beijing",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "lazyprop",
-    "math",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "lazyprop", "math", "segtree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 5.199999809265137

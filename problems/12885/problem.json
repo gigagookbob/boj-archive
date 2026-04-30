@@ -23,11 +23,7 @@
   "hint": null,
   "source": null,
   "level": 17,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["greedy", "ad_hoc", "game_theory"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.2599999904632568

@@ -27,11 +27,7 @@
   "hint": "<p>$A \\le B \\le C$를 만족하는 $A$, $B$, $C$는 $A+B&gt;C$를 만족할 때만 울타리를 만들 수 있다. 그리고, 그 때 넓이는 $\\sqrt{p(p-A)(p-B)(p-C)}$이다. 여기서 $p=(A+B+C)/2$ 이다.</p>",
   "source": "baekjoon, dotorya",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 218,
   "submission_count": null,
   "average_tries": 2.2018001079559326

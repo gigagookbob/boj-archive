@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2025 KAIST RUN Spring Contest, bubbler, ainta, gs22123, ibm2006, koosaga, leinad2, moonrabbit2, silverwolf, urd05",
   "level": 12,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 2.1635000705718994

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 꼬마컵, 꼬마컵, zlzmsrhak, hellogaon",
   "level": 13,
-  "tags": [
-    "graphs",
-    "constructive",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "constructive", "shortest_path", "bellman_ford"],
   "accepted_user_count": 229,
   "submission_count": null,
   "average_tries": 2.6287999153137207

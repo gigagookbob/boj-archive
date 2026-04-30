@@ -15,12 +15,7 @@
   "hint": "<p>In Case #1, the upper-right and lower-left corners are sinks. Water from the diagonal flows towards the lower-left because of the lower altitude (5 versus 6).</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2009, Qualification Round",
   "level": 11,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 1.3788000345230103

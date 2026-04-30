@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2019",
   "level": 23,
-  "tags": [
-    "geometry",
-    "sweeping",
-    "bulldozer"
-  ],
+  "tags": ["geometry", "sweeping", "bulldozer"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 3.059299945831299

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2020-2021 Season, November 7, 2020, Advanced",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "inclusion_and_exclusion"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

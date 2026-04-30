@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2000, 초등부, diekfk1",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 5314,
   "submission_count": null,
   "average_tries": 2.5843000411987305

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2022 IGRUS Newbie Programming Contest, yooshnn, 39dll, aym506, chlwnsgud7, gumgood, wjdclgns12, yuja",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.3617000579833984

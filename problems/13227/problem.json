@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2015 AIPO National Finals - Junior, jaehoo1, lyzqm",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 196,
   "submission_count": null,
   "average_tries": 1.8061000108718872

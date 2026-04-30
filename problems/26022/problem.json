@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2022",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "implementation", "number_theory", "constructive"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.7115000486373901

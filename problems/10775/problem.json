@@ -19,11 +19,7 @@
   "hint": "<p>예제 1 : [2][?][?][1] 형태로 도킹시킬 수 있다. 3번째 비행기는 도킹시킬 수 없다.</p>\r\n\r\n<p>예제 2 : [1][2][3][?] 형태로 도킹 시킬 수 있고, 4번째 비행기는 절대 도킹 시킬 수 없어서 이후 추가적인 도킹은 불가능하다.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2015, CCC 2015 Senior Division, koosaga, atagkim, jh05013, chan4928, queued_q, dlaud5379",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "greedy", "disjoint_set"],
   "accepted_user_count": 8659,
   "submission_count": null,
   "average_tries": 2.697999954223633

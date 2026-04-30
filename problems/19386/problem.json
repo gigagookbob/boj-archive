@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 4: Yandex Cup 2017",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "euler_tour_technique",
-    "segtree",
-    "trees"
-  ],
+  "tags": ["data_structures", "euler_tour_technique", "segtree", "trees"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

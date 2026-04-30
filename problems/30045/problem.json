@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2023, bsyun0571, cologne, hellogaon, hyoseok, khj20006, kjmin622, leo020630, mksmk606, rasauq1122, swoon, tony9402, xxnonamexx",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1533,
   "submission_count": null,
   "average_tries": 1.339900016784668

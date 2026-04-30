@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2020 Goricon, dogdriip",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1084,
   "submission_count": null,
   "average_tries": 1.256500005722046

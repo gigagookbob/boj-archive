@@ -19,12 +19,7 @@
   "hint": "<p>Explanation for Output for Sample Input 1</p>\n<p>One possibility is to travel from (3, 4) to (4, 4) to (4, 3) to (3, 3).</p>\n<p>Explanation for Output for Sample Input 2</p>\n<p>It is possible to get from (10, 2) to (10, 4) using exactly 2 units of electricity, by going north 2 units.</p>\n<p>It is also possible to travel using 4 units of electricity as in the following sequence:</p>\n<p style=\"text-align: center;\">(10, 2) → (10, 3) → (11, 3) → (11, 4) → (10, 4).</p>\n<p>It is also possible to travel using 5 units of electricity from (10, 2) to (11, 4) by the following sequence:</p>\n<p style=\"text-align: center;\">(10, 2) → (10, 3) → (11, 3) → (12, 3) → (12, 4) → (11, 4).</p>\n<p>It is not possible to move via any path of length 5 from (10, 2) to (10, 4), however.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2017, CCC 2017 Junior Division",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "parity"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "parity"],
   "accepted_user_count": 352,
   "submission_count": null,
   "average_tries": 1.72160005569458

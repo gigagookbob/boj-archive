@@ -15,11 +15,7 @@
   "hint": "<p>For k = 1, you can choose the entire array, and the answer will be (2+4+5+7+3+6)/6 = 4.5.</p>\n<p>For k = 2, you can choose the second, the third and the fourth marks, and the answer will be (4+5+7)/3 = 5+1/3.</p>\n<p>For k = 3, you can choose the third and the fourth marks, and the answer will be (5+7)/2 = 6.</p>\n<p>For k = 4, you can choose the fourth mark and get the answer 7.</p>\n<p>For k = 5, you can choose the last three marks and get the answer (7+3+6)/3 = 5+1/3.</p>\n<p>For k = 6, you can choose the last mark and get the answer 6.</p>\n<p>It can be shown that these answers are optimal.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 6: Belarusian SU Contest, Contest, Open Cup, 2018/2019 Season, Stage 12: Grand Prix of Belarus",
   "level": 24,
-  "tags": [
-    "binary_search",
-    "cht",
-    "pbs"
-  ],
+  "tags": ["binary_search", "cht", "pbs"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 5.241399765014648

@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2022 Mid-Central USA Regional Contest, ICPC, Regionals, North America, North Central North America Regional, 2022 North Central NA Regional Contest",
   "level": 22,
-  "tags": [
-    "bellman_ford",
-    "binary_search",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["bellman_ford", "binary_search", "graphs", "shortest_path"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

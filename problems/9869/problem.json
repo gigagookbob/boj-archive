@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 cows.  The first produces 10 gallons of milk if milked by time 3, and so on.</p><h4>Output Details</h4><p>Farmer John milks cow 3 first, giving up on cow 4 since she cannot be milked by her deadline due to the conflict with cow 3.  Farmer John then milks cows 1 and 2.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO December 2013 Contest, Silver",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 228,
   "submission_count": null,
   "average_tries": 2.144700050354004

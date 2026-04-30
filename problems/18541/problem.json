@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 7: Oleksandr Kulkov Contest 1, Botan Investment Cup",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "disjoint_set",
-    "two_pointer",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "disjoint_set", "two_pointer", "mst"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4.25

@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2023 Local Programming Contest (Qualifying Round)",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.875

@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2025, Division 1, University, University of Alberta Programming Contest, UAPC 2025, Division 2",
   "level": 7,
-  "tags": [
-    "math",
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["math", "sorting", "geometry"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2173999547958374

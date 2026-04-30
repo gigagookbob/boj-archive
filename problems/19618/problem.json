@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2020",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "two_pointer",
-    "deque_trick"
-  ],
+  "tags": ["dp", "greedy", "two_pointer", "deque_trick"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 4.41510009765625

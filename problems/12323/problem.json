@@ -15,13 +15,7 @@
   "hint": "<p>Notes</p>\n<p>Although the size of motes is limited in the input files, Armin's mote may grow larger than the provided limits by absorbing other motes.</p>\n<p>Osmos was created by Hemisphere Games. Hemisphere Games does not endorse and has no involvement with Google Code Jam.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 1B",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing", "sorting", "simulation"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2

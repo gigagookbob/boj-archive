@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제1회 보라매컵 본선, 99asdfg, max804, mjhmjh1104, pjshwa, tony9402",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "set",
-    "stack"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "set", "stack"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3

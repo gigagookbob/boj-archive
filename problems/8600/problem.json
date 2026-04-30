@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p><b>Wyjaśnienie do przykładu:</b> W pierwszym okrążeniu odczepiony zostaje tylko wagon przewożący surowiec numer 5, w drugim - wagon przewożący surowiec numer 4, wreszcie w trzecim, ostatnim okrążeniu odczepione zostają kolejno wagony przewożące surowce o numerach 3, 2, 1.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2010, Stage 2",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "implementation",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "implementation", "set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.0999999046325684

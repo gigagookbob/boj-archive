@@ -19,10 +19,7 @@
   "hint": "<p>В первом тестовом примере из отрезка $[1, 10]$ Человек-Паук выпишет все числа, кроме числа $9$.</p>\n<p>Во втором тестовом примере Человек-Паук выпишет все числа, кроме $89, 90, 91, \\ldots, 99$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, May 13, 2018, Easy",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2999999523162842

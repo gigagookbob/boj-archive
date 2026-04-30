@@ -19,9 +19,7 @@
   "hint": "<p>For better understanding, these are the final visible rendered messages of the example inputs:</p>\n<p>Sample 1:</p>\n<p>The <strong>International Collegiate Programming Contest</strong> <code>(ICPC)</code> is a global <em>competitive programming contest</em> focusing on algorithmic problem-solving and teamwork. <em>Let's</em> test <code>some</code> <strong>more</strong> Darkdown <em>elements</em> here. Visit the Official ICPC Website: (https://icpc.global) for more info! 🚀</p>\n<p>Sample 2:</p>\n<p>l ML5g <strong>RsXFVBdO R</strong><code>gwkz MV</code></p>",
   "source": "ICPC, Regionals, Asia West Continent, Iran, 2024 ICPC Asia Tehran Regional Contest",
   "level": 0,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

@@ -31,10 +31,7 @@
   "hint": "<p>Python을 사용하는 참가자는 PyPy 사용을 권장 합니다.</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 148px; height: 100px;\" /></p>\r\n\r\n<p>위의 그림 예제의 경우에, Z를 10으로 고른다면 좌상단과 우하단에 위치한 단지에 고층 건물을 짓고, 나머지 단지에는 공원을 두 개 지을 수 있다.</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 148px; height: 100px;\" /></p>\r\n\r\n<p>아래 세 예제는 이 규칙을 따르지 않고 공원을 지은 경우를 나타낸다.&nbsp;</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 148px; height: 100px;\" /><img alt=\"\" src=\"5.png\" style=\"width: 148px; height: 100px;\" /><img alt=\"\" src=\"6.png\" style=\"width: 148px; height: 100px;\" /><br />\r\n&nbsp;</p>\r\n\r\n<p>왼쪽 예제는 공원이 도시 격자를 벗어난 경우를 나타낸다. 중간 예제는 두 개의 공원이 겹쳐서 하나의 단지 위에 지어진 경우를 나타낸다. 상단 중간 단지를 공유하고 있다. 우측 예제는 공원이 두 개의 인접한 단지 위에 지어지지 않은 경우를 나타낸다. 이 세 경우 모두 공원을 잘못 지은 경우이다.</p>\r\n",
   "source": "haden",
   "level": 18,
-  "tags": [
-    "sorting",
-    "bipartite_matching"
-  ],
+  "tags": ["sorting", "bipartite_matching"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.7576000690460205

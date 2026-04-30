@@ -27,12 +27,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제6회 고려대학교 MatKor Cup: 2025 Winter, kidw0124, finimage, m4ushold, midoria, utilforever",
   "level": 20,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "combinatorics", "probability", "linearity_of_expectation"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.4800000190734863

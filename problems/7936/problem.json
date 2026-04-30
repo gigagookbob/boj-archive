@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2008, baekjoon, quickn, TAMREF",
   "level": 24,
-  "tags": [
-    "math",
-    "number_theory",
-    "discrete_log"
-  ],
+  "tags": ["math", "number_theory", "discrete_log"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 7.2581000328063965

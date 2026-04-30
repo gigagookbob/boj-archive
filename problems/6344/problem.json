@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1997",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "prime_factorization"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.1578999757766724

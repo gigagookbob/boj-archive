@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "bitmask",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "bitmask", "lazyprop"],
   "accepted_user_count": 417,
   "submission_count": null,
   "average_tries": 3.601900100708008

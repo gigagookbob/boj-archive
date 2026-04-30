@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2022 Greater New York Programming Contest",
   "level": 11,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.1363999843597412

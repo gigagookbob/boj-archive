@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2023",
   "level": 24,
-  "tags": [
-    "math",
-    "constructive",
-    "combinatorics"
-  ],
+  "tags": ["math", "constructive", "combinatorics"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.5385000705718994

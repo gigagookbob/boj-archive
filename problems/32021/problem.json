@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2018 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, Southern California Regional, 2018 Southern California Regional",
   "level": 14,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "knapsack",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "knapsack", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

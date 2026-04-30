@@ -19,12 +19,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 11,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "traceback"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "traceback"],
   "accepted_user_count": 15869,
   "submission_count": null,
   "average_tries": 2.0929999351501465

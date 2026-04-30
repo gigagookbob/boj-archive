@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2013 Local Programming Contest",
   "level": 18,
-  "tags": [
-    "flow",
-    "graphs"
-  ],
+  "tags": ["flow", "graphs"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

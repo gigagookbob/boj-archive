@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Far Eastern Russia Regional Contest, NEERC Far-Eastern Subregional 2003",
   "level": 17,
-  "tags": [
-    "mitm"
-  ],
+  "tags": ["mitm"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

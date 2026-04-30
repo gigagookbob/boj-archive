@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Afghanistan, Asia-Kabul ICPC Regional Contest 2018, jaehoo1",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "string", "ad_hoc"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 1.1485999822616577

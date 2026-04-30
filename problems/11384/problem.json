@@ -15,10 +15,7 @@
   "hint": "<p>5개의 직사각형은 다음과 같다. ([x1, y1, x2, y2]으로 나타냄)</p>\n<ul>\n<li>[1, 1, 1, 1]</li>\n<li>[1, 1, 1, 2]</li>\n<li>[1, 2, 1, 2]</li>\n<li>[1, 1, 2, 1]</li>\n<li>[2, 1, 2, 1]</li>\n</ul>",
   "source": "Contest, kriiicon, 제3회 kriiicon, august14",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.8705999851226807

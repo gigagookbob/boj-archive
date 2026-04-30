@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Winter Algorithm Camp Contest, 중급, tkfkddl59323, eaststar, man_of_learning, pinebananais, starbow, tae826, ystaeyoon113",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 3.1303999423980713

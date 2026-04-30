@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2009, baekjoon, heiler",
   "level": 17,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "grid_graph",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "grid_graph", "bellman_ford"],
   "accepted_user_count": 961,
   "submission_count": null,
   "average_tries": 6.068699836730957

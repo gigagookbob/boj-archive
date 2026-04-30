@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2007, author6, dotorya",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "probability",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "dp", "probability", "arbitrary_precision"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 15.8125

@@ -35,9 +35,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, shiftpsh",
   "level": 17,
-  "tags": [
-    "ternary_search"
-  ],
+  "tags": ["ternary_search"],
   "accepted_user_count": 374,
   "submission_count": null,
   "average_tries": 3.962599992752075

@@ -15,11 +15,7 @@
   "hint": "<p>Następujące jedenaście kompozycji spełnia warunki zadania:</p>\n<pre>\n80 102 90 98 100\n102 90 98 100\n90 98 100\n98 100\n100\n80 102 90 98\n80 102 90\n80 102\n102 90 98\n102 90\n102</pre>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2009, Stage 2",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "combinatorics"
-  ],
+  "tags": ["math", "greedy", "combinatorics"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3200000524520874

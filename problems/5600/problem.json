@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2006/2007 예선, waylight3",
   "level": 9,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 323,
   "submission_count": null,
   "average_tries": 1.73989999294281

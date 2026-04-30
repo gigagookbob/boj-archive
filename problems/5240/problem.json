@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 213px; height: 264px;\"/></p>",
   "source": "School, University of Maryland High School Programming Contest, HSPC 2010",
   "level": 13,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5.5

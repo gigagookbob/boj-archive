@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016 연습 세션, functionx",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["math", "dp", "combinatorics", "bitmask", "dp_bitfield"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.5901999473571777

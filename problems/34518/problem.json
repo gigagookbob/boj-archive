@@ -19,10 +19,7 @@
   "hint": "<p id=\"manhattan\"><a href=\"#r-manhattan\">[1]</a> 격자의 $a$행 $b$열과 $c$행 $d$열의 맨해튼 거리는 $|a - c| + |b - d|$이다.</p>",
   "source": "University, Centroid 연합, 2025 Centroid Cup, pani, sendol, yup0927, young_out, wapas, utilforever, tony9402, tapris, swoon, sjhi00, chlwnsgud7, plan_pt, nflight11, mujigae, kckyoung2, jh01533, hjkim9911",
   "level": 16,
-  "tags": [
-    "constructive",
-    "parity"
-  ],
+  "tags": ["constructive", "parity"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.3260999917984009

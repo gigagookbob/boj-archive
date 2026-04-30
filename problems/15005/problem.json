@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2017, doju",
   "level": 18,
-  "tags": [
-    "math",
-    "data_structures",
-    "number_theory",
-    "set"
-  ],
+  "tags": ["math", "data_structures", "number_theory", "set"],
   "accepted_user_count": 117,
   "submission_count": null,
   "average_tries": 2.453000068664551

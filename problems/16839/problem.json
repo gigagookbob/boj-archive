@@ -19,12 +19,7 @@
   "hint": "<p>Number the vertices of the graph: 1, 2, 3, 4, 5. For example, you can color the graph in the following way:</p>\n<ul>\n<li>Choose three vertices 1, 2, 3 and color edges between them with color 1.</li>\n<li>Choose three vertices 1, 4, 5 and color edges between them with color 2.</li>\n</ul>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2014 Day 2, Camp, Petrozavodsk Programming Camp, Winter 2015, Day 2: Makoto Soejima Contest 1, Japanese Grand Prix, Contest, Open Cup, 2014/2015 Season, Stage 6: Grand Prix of Japan",
   "level": 17,
-  "tags": [
-    "implementation",
-    "greedy",
-    "case_work",
-    "backtracking"
-  ],
+  "tags": ["implementation", "greedy", "case_work", "backtracking"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.9375

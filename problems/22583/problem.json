@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2011 Day 3",
   "level": 20,
-  "tags": [
-    "flow",
-    "greedy",
-    "two_pointer",
-    "graphs"
-  ],
+  "tags": ["flow", "greedy", "two_pointer", "graphs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

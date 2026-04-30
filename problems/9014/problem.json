@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2012, Nada",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "binary_search"
-  ],
+  "tags": ["ad_hoc", "geometry", "binary_search"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2

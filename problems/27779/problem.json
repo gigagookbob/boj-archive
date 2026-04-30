@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, the fight is fair if and only if Charles can use the last type of sword, so the answer is 4.</p>\n<p>In Sample Case #2, there are 4 fair fights: (1, 2), (1, 3), (2, 2), and (2, 3). Notice that for pairs like (1, 3), Charles and Delila both have multiple swords they could choose that they are most skilled with; however, each pair only counts as one fair fight.</p>\n<p>In Sample Case #3, there is 1 fair fight: (1, 1).</p>\n<p>In Sample Case #4, there are no fair fights, so the answer is 0.</p>\n<p>In Sample Case #5, remember that the <i>duelists</i> are not trying to make the fights fair; they choose the type of sword that they are most skilled with. For example, (1, 3) is not a fair fight, because Charles will choose the first type of sword, and Delila will choose the third type of sword. Delila will not go easy on Charles by choosing a weaker sword!</p>\n<p>In Sample Case #6, there are 7 fair fights: (1, 3), (1, 4), (2, 3), (2, 4), (3, 3), (3, 4), and (4, 4).</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2019, Round 1B",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "segtree",
-    "sparse_table"
-  ],
+  "tags": ["binary_search", "data_structures", "segtree", "sparse_table"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

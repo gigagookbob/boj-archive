@@ -19,10 +19,7 @@
   "hint": "<p>격자의 왼쪽 위가 0, 0 이고 오른쪽 밑이 <em>N</em>-1, <em>M</em>-1 입니다.</p>\n<p>경로에는 시작 지점과 끝 지점이 포함되어야 합니다.</p>",
   "source": "University, 경북대학교, 2020 Goricon, skeep194",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 2.053100109100342

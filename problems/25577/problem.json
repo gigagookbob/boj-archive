@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 부산대학교, 2022 부산대학교 CodeRace, whquddn55, chansol, jh05013, lky7674, tony9402",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["greedy", "sorting", "permutation_cycle_decomposition"],
   "accepted_user_count": 347,
   "submission_count": null,
   "average_tries": 1.437999963760376

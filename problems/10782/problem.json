@@ -19,13 +19,7 @@
   "hint": "<p>In the first example, Byteasar in his first move should hack computer 2 (scoring 6). The operator’s response will be protecting computer 3. In the next move Byteasar can hack computer 1 (scoring 7). Finally, the operator will protect computer 4.</p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2015",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "prefix_sum",
-    "deque"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "prefix_sum", "deque"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.0892999172210693

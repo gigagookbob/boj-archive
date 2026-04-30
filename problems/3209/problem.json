@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2004, Regional Competition - Seniors, doju",
   "level": 14,
-  "tags": [
-    "bfs",
-    "bitmask",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "bitmask", "graphs", "graph_traversal"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.1538000106811523

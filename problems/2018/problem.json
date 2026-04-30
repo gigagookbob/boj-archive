@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO March 2003 Contest, Orange, yukariko, momiens",
   "level": 6,
-  "tags": [
-    "math",
-    "two_pointer"
-  ],
+  "tags": ["math", "two_pointer"],
   "accepted_user_count": 13307,
   "submission_count": null,
   "average_tries": 2.0322000980377197

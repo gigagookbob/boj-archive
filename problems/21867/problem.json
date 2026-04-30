@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2021 연세대학교 신입생 프로그래밍 경진대회, QuqqU, ggoh, Juno, lky7674, Picasso, pinebananais, sogangcse, standingbell",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 993,
   "submission_count": null,
   "average_tries": 1.5992000102996826

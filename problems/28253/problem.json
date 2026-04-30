@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 06., snrnsidy, amsminn, chogahui05, djs100201, pjshwa, tony9402, utilforever",
   "level": 20,
-  "tags": [
-    "dp",
-    "string",
-    "kmp",
-    "dp_digit"
-  ],
+  "tags": ["dp", "string", "kmp", "dp_digit"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.8845999240875244

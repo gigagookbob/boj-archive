@@ -19,10 +19,7 @@
   "hint": "<p>Figure E.1 depicts the first sample case. It is possible to connect all stations by removing the connections between stations 1 and 2 of length 2 and instead building the connection between stations 2 and 4. The curvature of the rails does not matter because you have a hammer.</p>\n<p>In the second case, depicted in Figure E.2, it is not possible to connect all three stations.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:325px; width:439px\"/></p>\n<p style=\"text-align: center;\">Figure E.1: Illustration of the first sample input.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:261px; width:429px\"/></p>\n<p style=\"text-align: center;\">Figure E.2: Illustration of the second sample input.</p>",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2016",
   "level": 13,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 2.4570999145507812

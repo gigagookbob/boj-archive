@@ -15,10 +15,7 @@
   "hint": "<p>The intervals with measurements [1], [1,4], [4], [4], [4,2], [4,2,5], [4,2,5,2], [2], [2,5], [2,5,2], [5], [5,2], [2], [2,1], and [1] are weird.</p>\n<p>Note that there are TWO intervals that corresponds to the measurement [4], so it is counted twice.</p>",
   "source": "School, Cornell University High School Programming Contest, Cornell University High School Programming Contest 2016",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 1.1720000505447388

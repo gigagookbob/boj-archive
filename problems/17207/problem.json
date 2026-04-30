@@ -19,11 +19,7 @@
   "hint": "<p><img alt=\"행렬사진\" src=\"1.png\" style=\"width: 227px; height: 142px;\"/></p>\n<p>위의 그림과 같이 행렬에서 행은 가로줄, 열은 세로줄을 의미한다.</p>",
   "source": "University, 중앙대학교, 2019 NPC (Newbie Programming Contest), junsuk0522",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 335,
   "submission_count": null,
   "average_tries": 1.6776000261306763

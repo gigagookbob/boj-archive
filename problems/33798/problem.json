@@ -15,10 +15,7 @@
   "hint": "<p>The given solution to the first sample case is $a=[2, 1, 3]$, $b=[3, 2, 1]$. This gives $$a_{b_1} = a_3 = 3 \\quad\\quad a_{b_2} = a_2 = 1 \\quad\\quad a_{b_3} = a_1 = 2$$ $$b_{a_1} = b_2 = 2 \\quad\\quad b_{a_2} = b_1 = 3 \\quad\\quad b_{a_3} = b_3 = 1$$ which matches the input values $a_b=[3, 1, 2]$ and $b_a=[2, 3, 1]$.</p>\n<p>In the second sample case, it can be shown that there are no valid permutations $a$ and $b$.</p>",
   "source": "University, Rutgers University, Rutgers University Programming Contest Spring 2025",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["ad_hoc", "permutation_cycle_decomposition"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2010 Greater New York Programming Contest, baekjoon, exupery",
   "level": 12,
-  "tags": [
-    "implementation",
-    "string",
-    "bitmask"
-  ],
+  "tags": ["implementation", "string", "bitmask"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.26419997215271

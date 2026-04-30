@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Pakistan, Asia Lahore Regional 2014",
   "level": 0,
-  "tags": [
-    "dp",
-    "math",
-    "string"
-  ],
+  "tags": ["dp", "math", "string"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.799999952316284

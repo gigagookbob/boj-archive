@@ -15,12 +15,7 @@
   "hint": "<p>$N$ 이 $6$ 일 때 겉넓이가 최소가 되는 모습.</p>\n<p style=\"text-align: center;\"><img alt=\"N이 6일 때 3x2x1 직육면체, 또는 2x2x1 위에 블록 두 개를 추가한 모습\" src=\"2.png\" style=\"max-width:40%;display:block; margin-left: auto; margin-right: auto;\"/></p>\n<p>$N$ 이 $19$ 일 때 겉넓이가 최소가 되는 모습.</p>\n<p style=\"text-align: center;\"><img alt=\"N이 19일 때 3x3x2 직육면체 위에 블록을 하나 추가한 모습\" src=\"3.png\" style=\"max-width:40%;display:block; margin-left: auto; margin-right: auto;\"/></p>",
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제2회 임스의 메이플컵, pichulia, hiyabye, menborong, nflight11, ruykun, tony9402",
   "level": 14,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["greedy", "ad_hoc", "geometry", "geometry_3d"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.6552000045776367

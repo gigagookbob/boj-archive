@@ -19,10 +19,7 @@
   "hint": "<p>두 번째와 세 번째 토핑을 올리면 200 + 300 + 100 = 600 칼로리가 된다. 가격은 12 + 2 * 2 = 16원이 된다. 이 피자의 1원 당 칼로리는 600 / 16 = 37.5이다. 이 피자는 최고의 피자이므로, 37.5의 소수점 이하를 버린 37을 출력하면 된다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2011/2012 예선, baekjoon, zzangnyun, kangwh0617, yongdol503",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 1980,
   "submission_count": null,
   "average_tries": 2.2197000980377197

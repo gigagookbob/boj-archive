@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2011, bupjae",
   "level": 20,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing",
-    "recursion"
-  ],
+  "tags": ["implementation", "string", "parsing", "recursion"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "implementation",
-    "simulation",
-    "backtracking"
-  ],
+  "tags": ["implementation", "simulation", "backtracking"],
   "accepted_user_count": 7194,
   "submission_count": null,
   "average_tries": 1.5367000102996826

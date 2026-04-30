@@ -15,9 +15,7 @@
   "hint": "<p>Note that you can climb up from cell 1 to cell 4, but you cannot climb up from cell 2 to cell 1 because of a “ceiling” obstacle.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NERC 2018",
   "level": 19,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.3461999893188477

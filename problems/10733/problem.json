@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, august14",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["bruteforcing", "data_structures", "stack"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 3.685699939727783

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "shiftpsh",
   "level": 17,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 332,
   "submission_count": null,
   "average_tries": 1.9336999654769897

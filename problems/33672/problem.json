@@ -31,12 +31,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2025, Division 1",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "disjoint_set",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "sorting", "disjoint_set", "smaller_to_larger"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

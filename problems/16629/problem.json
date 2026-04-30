@@ -27,13 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2018",
   "level": 25,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "math", "number_theory"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

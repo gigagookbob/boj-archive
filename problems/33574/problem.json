@@ -19,11 +19,7 @@
   "hint": "<p>원래 교가의 가사는 \"끊임없는 <strong>정열</strong>과 창조함으로\"이다. 헷갈리지 않게 주의하자.</p>",
   "source": "School, 한국디지털미디어고등학교, 제2회 디미고 프로그래밍 챌린지, goodpjw2008, 99asdfg, deom, dkim110807, ian0704, ldhhello, qvixnh22, seungchan0325, tlsdydaud1, utilforever",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 240,
   "submission_count": null,
   "average_tries": 1.25

@@ -19,13 +19,7 @@
   "hint": "<p>Иллюстрация к первому примеру, оранжевым нарисована часть пути, которую Иккинг и Беззубик пройдут пешком, а синим --- часть, которую Беззубик пролетит:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 143px; height: 149px;\"/></p>\n<p>Иллюстрация ко второму примеру:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 163px; height: 125px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, March 2, 2019",
   "level": 23,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "dijkstra",
-    "convex_hull"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "dijkstra", "convex_hull"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 9.66670036315918

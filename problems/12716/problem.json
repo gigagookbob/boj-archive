@@ -15,12 +15,7 @@
   "hint": "<p>The sequence of speed limit signs for case 2 should be 1, 2, 0, 0, 0, 4.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Round 1C",
   "level": 16,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "coordinate_compression"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.8974000215530396

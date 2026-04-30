@@ -15,10 +15,7 @@
   "hint": null,
   "source": "dotorya, gs18115",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 6.684199810028076

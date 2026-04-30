@@ -15,12 +15,7 @@
   "hint": "<p>In this example, Bessie can feel that she is initially standing at a 90-degree angle, but she cannot tell if she is initially standing at vertex 2, 3, or 4. After taking a step along one edge in the clockwise direction, Bessie either reaches the exit or can uniquely determine her location based on the length of this edge. The distances she obtains are:</p>\n<p>If starting at vertex 2: she travels 12 units in the dark (1 unit to reach vertex 3, then 11 units to continue to the exit). She only needs to travel 10 units in a lit barn. This is an extra distance of 2 for this vertex.</p>\n<p>If starting at vertex 3: she travels 11 units in both cases.</p>\n<p>If starting at vertex 4: she travels 1 unit in both cases.</p>\n<p>The worst-case difference over all starting points is therefore 12 - 10 = 2. That is, Bessie can guarantee that using her strategy, no matter where she starts, she will travel at most 2 extra units of distance farther in the dark than in the light.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO January 2016 Contest, Gold",
   "level": 15,
-  "tags": [
-    "implementation",
-    "geometry",
-    "set",
-    "simulation"
-  ],
+  "tags": ["implementation", "geometry", "set", "simulation"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 3.10260009765625

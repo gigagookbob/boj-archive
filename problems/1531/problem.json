@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, cbkpar, supernova, supremejin03, YunGoon",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 3280,
   "submission_count": null,
   "average_tries": 1.4988000392913818

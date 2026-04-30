@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2023",
   "level": 21,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "binary_search",
-    "knapsack",
-    "bitset"
-  ],
+  "tags": ["dp", "greedy", "sorting", "binary_search", "knapsack", "bitset"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.5

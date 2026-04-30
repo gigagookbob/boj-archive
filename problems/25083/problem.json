@@ -15,9 +15,7 @@
   "hint": null,
   "source": "shiftpsh, flappybird, hibye1217, jh05013, wider93",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 92579,
   "submission_count": null,
   "average_tries": 1.871899962425232

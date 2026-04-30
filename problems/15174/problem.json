@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2016 ACM South Pacific Programming Contest",
   "level": 23,
-  "tags": [
-    "crt",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["crt", "math", "number_theory"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.5713999271392822

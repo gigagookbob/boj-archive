@@ -15,11 +15,7 @@
   "hint": "<p>1 2 3, 2 1 3의 방법이 가능하기 때문에 답이 위와 같이 된다.</p>",
   "source": null,
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 3.4166998863220215

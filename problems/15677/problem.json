@@ -15,10 +15,7 @@
   "hint": "<p>1번 예제에서, 10을 10번 쓰게되면 총 20글자를 써야 한다. 하지만 11을 11번 쓰게되면 총 12글자를 쓰게 되고, 이 경우 만족도는 8, 양심의 가책은 (11-10) * 2가 되어 정답은 8 - 2 = 6 이 된다.</p>",
   "source": "University, 연세대학교, 2018 연세대학교 컴퓨터과학과 프로그래밍 경진대회, ae04071, portableangel",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["bruteforcing", "ad_hoc"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 3.465100049972534

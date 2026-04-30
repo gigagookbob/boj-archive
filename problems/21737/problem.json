@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 숙명여자대학교, 제1회 숙명여자대학교 교내 알고리즘 경진대회 (SMUPC), whaeun25, cs71107, lky7674, plast, sait2000, songfox00, swoon, wbcho0504",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 348,
   "submission_count": null,
   "average_tries": 3.6466000080108643

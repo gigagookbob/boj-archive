@@ -31,13 +31,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, April 4, 2020",
   "level": 15,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "greedy",
-    "recursion"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "greedy", "recursion"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

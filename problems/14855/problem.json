@@ -19,10 +19,7 @@
   "hint": "<p>첫 번째 에제의 경우에는 1번 만두를 2개 만들고, 2번 만두를 4개 만들고, 스페셜 만두를 1개 만들면 되고, 두 번째 예제의 경우에는 스페셜 만두를 4개 만들면 된다.</p>",
   "source": null,
   "level": 12,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 1.8991999626159668

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 금오공과대학교, 2025 KUMOH ASK CONTEST, chika, ehlee0815, gs22123, tony9402, ychangseok",
   "level": 17,
-  "tags": [
-    "math",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["math", "greedy", "prefix_sum"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.5332999229431152

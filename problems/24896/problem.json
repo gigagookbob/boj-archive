@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2022 숭고한 연합 알고리즘 콘테스트, Division 1, edenooo, cgiosy, cs71107, jhnah917, knon0501, lobo_prix",
   "level": 21,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "trees"
-  ],
+  "tags": ["dp", "ad_hoc", "trees"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 5.849999904632568

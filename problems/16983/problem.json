@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2018/2019",
   "level": 23,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 2.4144999980926514

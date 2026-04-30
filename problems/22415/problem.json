@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2015 Day 2",
   "level": 20,
-  "tags": [
-    "string",
-    "binary_search",
-    "hashing"
-  ],
+  "tags": ["string", "binary_search", "hashing"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14, busyhuman",
   "level": 18,
-  "tags": [
-    "graphs",
-    "articulation",
-    "bcc",
-    "cactus"
-  ],
+  "tags": ["graphs", "articulation", "bcc", "cactus"],
   "accepted_user_count": 377,
   "submission_count": null,
   "average_tries": 2.732100009918213

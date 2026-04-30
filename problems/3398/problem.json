@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2000",
   "level": 19,
-  "tags": [
-    "arbitrary_precision",
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "bruteforcing", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

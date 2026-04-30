@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2024",
   "level": 20,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "bipartite_matching",
-    "bitset"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "bipartite_matching", "bitset"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.25

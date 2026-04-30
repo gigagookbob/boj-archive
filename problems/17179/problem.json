@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제3회 생각하는 프로그래밍 대회, sigmaflo2, jh05013",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 780,
   "submission_count": null,
   "average_tries": 2.6782000064849854

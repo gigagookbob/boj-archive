@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2022 ICPC Sinchon Summer Algorithm Camp Contest, 초급, tlsdydaud1, bnb2011, djs100201, gumgood, jthis, lky7674, meque98, tony9402, wonsei",
   "level": 2,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 3531,
   "submission_count": null,
   "average_tries": 1.256600022315979

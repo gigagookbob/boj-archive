@@ -15,11 +15,7 @@
   "hint": "<p>The solutions for the first test case are:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 103px; height: 25px;\"/></p>\n<p>In the second test case, there is no way to fit both squares inside the rectangle.</p>\n<p>The solutions for the third test case are:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 382px; height: 150px;\"/></p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 13,
-  "tags": [
-    "combinatorics",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.083299994468689

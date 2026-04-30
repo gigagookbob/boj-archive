@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2024 Fall Automata 상현컵, nymets08, eric00513, jish0218, ksha123, raehwan0418",
   "level": 10,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 2.8529000282287598

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2023-2024 Season, USACO 2024 February Contest, Platinum",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "sparse_table"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

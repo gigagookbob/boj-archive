@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, there are two possible ways to store a value 1 in 2 bits which are (0)(1)<sub>2</sub> and (1)(-1)<sub>2</sub> In the second example, for the first test case, there are no possible ways to store a value -2 in 1 bits.</p>\n<p>For second test case, there are only one way to store a value -2 in 2 bits, which is (-1)(0)<sub>2</sub></p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-B Programming Contest, Thailand Central Group-B Programming Contest 2015",
   "level": 10,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.4000000953674316

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 1",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "math"
-  ],
+  "tags": ["ad_hoc", "constructive", "math"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 5.3333001136779785

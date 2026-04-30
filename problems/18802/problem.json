@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2020 SciOI #1, 79brue",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "trees",
-    "combinatorics",
-    "centroid"
-  ],
+  "tags": ["math", "dp", "trees", "combinatorics", "centroid"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.31820011138916

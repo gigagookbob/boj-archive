@@ -15,14 +15,7 @@
   "hint": "<p>In Sample Case #1, we can send one skier to rest point 4, one skier to rest point 3, and two skiers to rest point 2.</p>\n<p>In Sample Case #2, we can send three skiers to rest point 2, two skiers to rest point 5, and two skiers to rest point 4.</p>\n<p>Notice that the first slope listed in a test case does not need to start at the summit rest point, and that slopes can have <b>U<sub>i</sub></b> &gt; <b>V<sub>i</sub></b>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2020, Virtual World Finals",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "hld",
-    "lazyprop",
-    "segtree",
-    "trees"
-  ],
+  "tags": ["data_structures", "greedy", "hld", "lazyprop", "segtree", "trees"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

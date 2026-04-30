@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제1회 가톨릭대학교 프로그래밍 경진대회 (CCPC), Div. 1, hschoi1104, kimcoding, rhs0266, tony9402, tyoungs",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 322,
   "submission_count": null,
   "average_tries": 3.1459999084472656

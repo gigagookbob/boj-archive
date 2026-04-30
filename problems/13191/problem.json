@@ -15,11 +15,7 @@
   "hint": "<p>There are N = 2 contestants, T = 3 test cases and S = 3, which means we must compute the minimal score for 1, 2 and 3 subtasks, respectively. The Points[] array is {4, 3, 5}.</p>\n<p>In the case of a single subtask, the total number of points that can be achieved is equal to 0, because neither contestant has solved all cases correctly, and all test cases must be in the same subtask.</p>\n<p>There are two ways to group the test cases in two subtasks. One of them produces a total number of 12 points and the other one a total of 8 points. Because we are looking to minimize this value, we choose the latter.</p>\n<p>There is also a single way to group the test cases into three subtasks, which produces a total number of 16 points.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2016, Day 2",
   "level": 20,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "bitmask"
-  ],
+  "tags": ["dp", "prefix_sum", "bitmask"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.2142999172210693

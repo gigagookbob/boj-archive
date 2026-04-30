@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2005",
   "level": 12,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "floyd_warshall"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.4138000011444092

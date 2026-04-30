@@ -19,10 +19,7 @@
   "hint": "<p>Clarification of the example : Kile took banknotes worth 2, 3 and 1 kn, and Pogi took the banknote worth 6 kn. </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #4",
   "level": 17,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2

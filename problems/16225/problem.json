@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제2회 웰노운컵 Day 2, jh05013, jh05013",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 500,
   "submission_count": null,
   "average_tries": 2.614000082015991

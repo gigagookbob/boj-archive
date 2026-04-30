@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Bangladesh, Dhaka Regional Contest 2002",
   "level": 11,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2017 Pacific Northwest Region Programming Contest, Division 2, ICPC, Regionals, North America, Southeast USA Regional, 2017 Southeast USA Regional Programming Contest, Division 2",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "probability"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.399999976158142

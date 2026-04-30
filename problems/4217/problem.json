@@ -15,12 +15,7 @@
   "hint": "<p>첫 번째 예제:&nbsp;<img alt=\"\" src=\"2.png\" style=\"height:104px; width:109px\" /></p>\r\n\r\n<p>두 번째 예제:&nbsp;<img alt=\"\" src=\"1.png\" style=\"height:158px; width:164px\" /></p>\r\n",
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2011, baekjoon, pichulia",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 206,
   "submission_count": null,
   "average_tries": 4.014599800109863

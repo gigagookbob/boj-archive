@@ -23,11 +23,7 @@
   "hint": "<p>어떤 정점의 자손은 자기 자신을 포함한다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2022 Sogang Programming Contest, Champion, University, 서강대학교, Sogang Programming Contest, 2022 Sogang Programming Contest, Champion (Open), djs100201, bnb2011, chansol, dong_gas, eaststar, gratus907, gumgood, jthis, raararaara, tony9402, wbcho0504",
   "level": 11,
-  "tags": [
-    "math",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "prime_factorization"],
   "accepted_user_count": 219,
   "submission_count": null,
   "average_tries": 2.5982000827789307

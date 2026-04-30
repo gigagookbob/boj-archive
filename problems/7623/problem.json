@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, MIT, The MIT Programming Contest, 2008-09, MIT Programming Contest Team Contest 1 2008, baekjoon",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 4.695700168609619

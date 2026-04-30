@@ -15,11 +15,7 @@
   "hint": "<p>10 = 5 + 5<br/>\n11 = 10 + 1<br/>\n121 = 110 + 11 = 92 + 29 = 83 + 38 = 74 + 47 = 65 + 56 = 56 + 65 = 47 + 74 = 38 + 83 = 29 + 92 </p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2014 - 2nd Round",
   "level": 18,
-  "tags": [
-    "case_work",
-    "dp",
-    "greedy"
-  ],
+  "tags": ["case_work", "dp", "greedy"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

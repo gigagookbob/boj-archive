@@ -31,11 +31,7 @@
   "hint": null,
   "source": "sait2000",
   "level": 28,
-  "tags": [
-    "math",
-    "number_theory",
-    "fft"
-  ],
+  "tags": ["math", "number_theory", "fft"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 7.928599834442139

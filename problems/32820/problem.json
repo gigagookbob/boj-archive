@@ -23,15 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2024",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "string",
-    "shortest_path",
-    "dijkstra",
-    "kmp",
-    "z"
-  ],
+  "tags": ["dp", "graphs", "string", "shortest_path", "dijkstra", "kmp", "z"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 4.348800182342529

@@ -27,10 +27,7 @@
   "hint": "<p>위의 모든 예제는 출력 형식을 지키지만 정답이 아니다.</p>",
   "source": "Contest, BOJ User Contest, 카툰컵, Cartoon Cup: ONE, yyyy7089, hibye1217, kaorin, qvixnh22",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.0833001136779785

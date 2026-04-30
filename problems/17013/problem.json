@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2019, CCC 2019 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2019, CCC 2019 Senior Division",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 242,
   "submission_count": null,
   "average_tries": 1.4132000207901

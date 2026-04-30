@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제3회 한국항공대학교 프로그래밍 경진대회(KAUPC), soo7652, 20wjsdudtj, chansol, gojib2002, hello70825, shjohw12, utilforever",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "sorting", "arithmetic"],
   "accepted_user_count": 1411,
   "submission_count": null,
   "average_tries": 1.777500033378601

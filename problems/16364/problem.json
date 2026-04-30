@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2018",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "dp",
-    "geometry",
-    "priority_queue",
-    "stack"
-  ],
+  "tags": ["data_structures", "dp", "geometry", "priority_queue", "stack"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 6.300000190734863

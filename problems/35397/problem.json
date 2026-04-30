@@ -35,11 +35,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2025",
   "level": 19,
-  "tags": [
-    "graphs",
-    "case_work",
-    "eulerian_path"
-  ],
+  "tags": ["graphs", "case_work", "eulerian_path"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

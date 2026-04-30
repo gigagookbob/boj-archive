@@ -23,10 +23,7 @@
   "hint": null,
   "source": "author5, clock, doju, jh05013, mythofys, djm03178, his130, jh05013",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 134689,
   "submission_count": null,
   "average_tries": 2.946199893951416

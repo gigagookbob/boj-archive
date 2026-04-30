@@ -19,14 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2009, National Competition #2 - Juniors, baekjoon",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "set",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "greedy", "number_theory", "set", "primality_test", "sieve"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.66129994392395

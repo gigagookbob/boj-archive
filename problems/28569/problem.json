@@ -23,9 +23,7 @@
   "hint": "<p>Все возможные потрошения во втором примере:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 600px; height: 160px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, October 23, 2021",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

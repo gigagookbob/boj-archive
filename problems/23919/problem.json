@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, the turns must proceed as follows:</p>\n<ol>\n<li>Alma moves to room (2, 2).</li>\n<li>Berthe cannot move.</li>\n<li>Alma moves to room (2, 3).</li>\n<li>Berthe still cannot move.</li>\n<li>Alma cannot move. Since neither painter can move, the game is now over.</li>\n</ol>\n<p>Alma has painted 3 rooms and Berthe has painted 1 room, so the score is 3 - 1 = 2.</p>\n<p>In Sample Case #2, neither painter can move. They only paint their starting rooms.</p>\n<p>The following additional cases could not appear in Test Set 1, but could appear in Test Set 2.</p>\n<pre>\n2\n3 3 4 2 1 2\n2 3\n3 1\n3 3 2 2 3 2\n2 1\n3 1\n</pre>\n<p>The correct output for these two cases would be:</p>\n<pre>\nCase #1: 0\nCase #2: -1\n</pre>\n<p>In Case #1, Alma can move to (3, 5) or (3, 3). She cannot move to (2, 3), which is under construction.</p>\n<ul>\n<li>If she moves to (3, 5), she will have no more moves and Berthe will go on to paint two more rooms. Score: 2 - 3 = -1.</li>\n<li>If Alma moves to (3, 3), then Berthe can do one of the following:\n\t<ul>\n<li>Move to (3, 2), leaving neither painter with any future moves. Score: 2 - 2 = 0.</li>\n<li>Move to (2, 2). Then the rest of the game must play out as follows: Alma moves to (3, 2), Berthe moves to (1, 1). Score: 3 - 3 = 0.</li>\n</ul>\n</li>\n</ul>\n<p>So Alma knows that moving to (3, 3) guarantees a score of 0 no matter what Berthe does, which is better than the score of -1 that she would get by moving to (3, 5). Therefore, Alma moves to (3, 3). Notice that:</p>\n<ul>\n<li>We do not know exactly how the rest of this game will play out, but we do know the best score that Alma can guarantee.</li>\n<li>It is possible that one or more rooms that are not under construction do not get painted.</li>\n</ul>\n<p>In Case #2, Alma must move to (3, 3), and then it is better for Berthe to move to (3, 4) than to (2, 2).</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round F",
   "level": 18,
-  "tags": [
-    "implementation",
-    "graphs",
-    "backtracking",
-    "recursion"
-  ],
+  "tags": ["implementation", "graphs", "backtracking", "recursion"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2

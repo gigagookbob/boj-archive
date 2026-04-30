@@ -23,11 +23,7 @@
   "hint": null,
   "source": "rkm0959",
   "level": 24,
-  "tags": [
-    "math",
-    "number_theory",
-    "mobius_inversion"
-  ],
+  "tags": ["math", "number_theory", "mobius_inversion"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 10.39579963684082

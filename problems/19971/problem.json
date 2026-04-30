@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере Сережа может не выполнять четвертое задание. Остальные задания суммарно требуют 11 минут.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2009",
   "level": 8,
-  "tags": [
-    "graphs",
-    "bruteforcing"
-  ],
+  "tags": ["graphs", "bruteforcing"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.7000000476837158

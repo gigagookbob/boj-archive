@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCC 2014 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2014, CCC 2014 Senior Division",
   "level": 5,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "hash_set"],
   "accepted_user_count": 174,
   "submission_count": null,
   "average_tries": 1.9713000059127808

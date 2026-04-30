@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 6,
-  "tags": [
-    "math",
-    "dp",
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["math", "dp", "game_theory", "parity"],
   "accepted_user_count": 24930,
   "submission_count": null,
   "average_tries": 1.5061999559402466

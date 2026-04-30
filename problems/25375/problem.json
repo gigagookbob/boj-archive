@@ -15,10 +15,7 @@
   "hint": "<p>$gcd(x, y)$는 $x$, $y$의 최대공약수이다.</p>",
   "source": "School, 동래고등학교, 2022 동래고등학교 정보과학 문제해결 대회, chansol, chogahui05, mjhmjh1104, tlsdydaud1, tony9402",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 666,
   "submission_count": null,
   "average_tries": 2.7732999324798584

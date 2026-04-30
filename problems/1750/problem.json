@@ -35,13 +35,7 @@
   "hint": "<p>예제 1의 경우 가능한 경우의 수는 (2, 3), (4, 3), (2, 4, 3)이다.</p>",
   "source": "baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "knapsack",
-    "euclidean"
-  ],
+  "tags": ["math", "dp", "number_theory", "knapsack", "euclidean"],
   "accepted_user_count": 586,
   "submission_count": null,
   "average_tries": 1.8737000226974487

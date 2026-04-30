@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Western Subregional 2005",
   "level": 16,
-  "tags": [
-    "dp",
-    "precomputation"
-  ],
+  "tags": ["dp", "precomputation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

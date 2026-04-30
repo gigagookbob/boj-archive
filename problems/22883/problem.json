@@ -19,9 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 222px; height: 134px;\" /></p>\r\n\r\n<p style=\"text-align: center;\">그림 K.2: 예제 1 참고</p>\r\n\r\n<p>예제 1의 초기 게임판은 위와 같다. 제연이가 첫 번째 턴에 두 번째 판의 말을 오른쪽으로 움직이면 덕인이는 더 이상 말을 움직일 수 없으므로 제연이가 이긴다.</p>\r\n",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021, Contest, Open Cup, 2021/2022 Season, Stage 17: Grand Prix of Seoul, tlwpdus, cki86201, functionx, jh05013, koosaga, pichulia",
   "level": 25,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.914900064468384

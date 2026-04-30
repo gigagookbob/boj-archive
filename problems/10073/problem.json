@@ -15,9 +15,7 @@
   "hint": "<table class=\"table table-bordered\" style=\"width:50%\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th>서브태스크</th>\r\n\t\t\t<th>gondolaSeq</th>\r\n\t\t\t<th>리턴 값</th>\r\n\t\t\t<th>replacementSeq</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>(3, 1, 4)</td>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>(2)</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>(5, 1, 2, 3, 4)</td>\r\n\t\t\t<td>0</td>\r\n\t\t\t<td>()</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>2</td>\r\n\t\t\t<td>(2, 3, 4, 9, 6, 7, 1)</td>\r\n\t\t\t<td>2</td>\r\n\t\t\t<td>(5, 8)</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2014, Day 2, yclock",
   "level": 15,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 2.1851999759674072

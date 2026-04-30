@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1999/2000, Stage 2",
   "level": 15,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "recursion",
-    "trees"
-  ],
+  "tags": ["combinatorics", "dp", "math", "recursion", "trees"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.083299994468689

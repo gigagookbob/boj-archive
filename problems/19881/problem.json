@@ -15,11 +15,7 @@
   "hint": "<p>В примере можно действовать следующим образом: переложить маленький диск с первого стержня на третий, затем средний диск с первого на второй, затем маленький с третьего на второй (поверх среднего), затем большой диск с первого на третий, и, наконец, последним действием пару дисков со второго стержня на третий. Всего необходимо пять действий.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2011",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "recursion"
-  ],
+  "tags": ["math", "dp", "recursion"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.90910005569458

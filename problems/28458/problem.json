@@ -27,11 +27,7 @@
   "hint": "<p>사전순의 정의는 아래와 같다.</p>\n<p>두 문자열의 길이가 다를 경우 길이가 작은 문자열에 모든 문자보다 작다고 판별하는 특별한 문자를 두 문자열의 길이가 같아질 때까지 문자열의 끝에 추가한다. 두 문자열의 길이가 같을 경우 첫 번째 문자부터 순서대로 비교하면서 같은 문자라면 다음 문자로 넘어가고 다른 문자라면 그때 작은 문자를 가지고 있는 문자열이 사전순으로 작다.</p>",
   "source": "Contest, BOJ User Contest, 유틸컵, 제1회 유틸컵 - Chapter 1, skeep194, chogahui05, index, kiwiyou, starbow, swoon, utilforever, wapas",
   "level": 16,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.430999994277954

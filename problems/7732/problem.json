@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2007",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "planar_graph"
-  ],
+  "tags": ["graphs", "flow", "planar_graph"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 5.599999904632568

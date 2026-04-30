@@ -15,12 +15,7 @@
   "hint": "<p>Figure 1 illustrates the tree given in the example.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 2",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "segtree", "set", "smaller_to_larger"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 4.440700054168701

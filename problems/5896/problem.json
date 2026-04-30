@@ -15,11 +15,7 @@
   "hint": "<p>농부 존은 1개의 쿠폰과 7원을 가지고&nbsp;소 시장에 갔다.</p>\r\n\r\n<p>3번째 소에 쿠폰 하나를 쓰고 1,2,3번 소를 산다. (1 + 2 + 3 = 6원)</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO February 2012 Contest, Gold, onjo0127, dk10211, h0ngjun7, rdd6584, wnsduds1",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 280,
   "submission_count": null,
   "average_tries": 3.9000000953674316

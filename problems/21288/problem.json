@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Online Qualification",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "bipartite_matching"
-  ],
+  "tags": ["bitmask", "bipartite_matching"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.0322999954223633

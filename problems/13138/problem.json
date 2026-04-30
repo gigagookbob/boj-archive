@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016, functionx",
   "level": 23,
-  "tags": [
-    "math",
-    "data_structures",
-    "ad_hoc",
-    "set"
-  ],
+  "tags": ["math", "data_structures", "ad_hoc", "set"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.9600000381469727

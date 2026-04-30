@@ -35,10 +35,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2019-20, Final Round",
   "level": 15,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.375

@@ -15,11 +15,7 @@
   "hint": "<h4>Output Details</h4>\n<p>Bessie can shine the beam downwards above the middle column of her field to have it reflected 3 times.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO February 2014 Contest, Bronze",
   "level": 11,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 2.0272998809814453

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2020",
   "level": 17,
-  "tags": [
-    "dp",
-    "binary_search",
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["dp", "binary_search", "prefix_sum", "difference_array"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.5293999910354614

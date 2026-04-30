@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2014 Japan Domestic Contest",
   "level": 14,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "bruteforcing", "trees", "dp_tree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

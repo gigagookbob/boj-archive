@@ -15,9 +15,7 @@
   "hint": null,
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2023, maroo750, rustiebeats, shiftpsh, solvedac, utilforever, wjdclgns12",
   "level": 18,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 2.4393999576568604

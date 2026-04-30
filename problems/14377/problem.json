@@ -15,9 +15,7 @@
   "hint": "<p>In the sample case, the arrangement must be either this:</p>\n<p><code>1 2 3<br/>\n2 3 4<br/>\n3 5 6</code></p>\n<p>or this:</p>\n<p><code>1 2 3<br/>\n2 3 5<br/>\n3 4 6</code></p>\n<p>In either case, the missing list is <code>3 4 6</code>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 1A",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.8421000242233276

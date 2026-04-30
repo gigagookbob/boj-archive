@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2012, Advanced, School, PLU High School Programming Contest, PLU 2012, Novice, baekjoon, jh05013, jung2381187",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 10914,
   "submission_count": null,
   "average_tries": 1.7575000524520874

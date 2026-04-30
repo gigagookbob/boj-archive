@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #5",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "data_structures",
-    "hash_set",
-    "string",
-    "set"
-  ],
+  "tags": ["bitmask", "data_structures", "hash_set", "string", "set"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.9285999536514282

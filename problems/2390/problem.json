@@ -15,12 +15,7 @@
   "hint": null,
   "source": "alex9801, cologne, doju, jh05013",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "graphs",
-    "math",
-    "sqrt_decomposition"
-  ],
+  "tags": ["combinatorics", "graphs", "math", "sqrt_decomposition"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 12.26669979095459

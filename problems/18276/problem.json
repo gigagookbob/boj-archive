@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2019",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "disjoint_set"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.0967999696731567

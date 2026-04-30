@@ -15,12 +15,7 @@
   "hint": "<p>For the first test test case, here are the $4$ edges Alice can add to give herself the winning strategy:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 459px; height: 250px;\"/></p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "game_theory"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "game_theory"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1

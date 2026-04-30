@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2007 Rocky Mountain Regional Contest",
   "level": 15,
-  "tags": [
-    "0_1_bfs",
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["0_1_bfs", "dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 5.3333001136779785

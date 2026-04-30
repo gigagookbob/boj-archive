@@ -15,9 +15,7 @@
   "hint": "<p>The answer for the sample is $\\frac{1}{4}$.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 5: Grand Prix of Korea, functionx",
   "level": 25,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.25

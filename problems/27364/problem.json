@@ -10,13 +10,7 @@
   "hint": null,
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2020",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "stack",
-    "cartesian_tree"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "stack", "cartesian_tree"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.875

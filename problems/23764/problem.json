@@ -23,11 +23,7 @@
   "hint": "<p>첫 번째 예제에서, 준혁이가 4를 지우고 2, 2를 적으면 이긴다.</p>",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2021 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, amel, sait2000, cs71107, Lawali",
   "level": 21,
-  "tags": [
-    "game_theory",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["game_theory", "math", "number_theory"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.2221999168395996

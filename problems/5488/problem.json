@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Shanghai, Shanghai Regional Contest 2004",
   "level": 20,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "euler_characteristic"
-  ],
+  "tags": ["geometry", "line_intersection", "euler_characteristic"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4

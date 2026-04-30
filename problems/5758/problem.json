@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2005, cozyyg",
   "level": 11,
-  "tags": [
-    "sorting",
-    "constructive"
-  ],
+  "tags": ["sorting", "constructive"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

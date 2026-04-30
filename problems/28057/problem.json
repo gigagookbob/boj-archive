@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2023 KAIST RUN Spring Contest, azberjibiou, songc, kdh9949, sjimed",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "segtree"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 4.074999809265137

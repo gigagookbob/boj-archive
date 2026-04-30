@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2014, baekjoon",
   "level": 13,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 279,
   "submission_count": null,
   "average_tries": 3.774199962615967

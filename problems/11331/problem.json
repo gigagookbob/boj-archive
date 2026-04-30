@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2014, doju",
   "level": 9,
-  "tags": [
-    "prefix_sum",
-    "sorting"
-  ],
+  "tags": ["prefix_sum", "sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.7894999980926514

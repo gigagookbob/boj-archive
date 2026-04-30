@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2017/2018 Spring Training Camp",
   "level": 23,
-  "tags": [
-    "math",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.5283000469207764

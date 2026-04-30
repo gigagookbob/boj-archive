@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 1A",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["math", "bruteforcing", "geometry"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.142899990081787

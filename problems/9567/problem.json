@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 10 stalls in the barn, numbered 0..9.  The second line of input states that 3 cows prefer stall (2*1+4) mod 10 = 6, and 3 cows prefer stall (2*2+4) mod 10 = 8.  The third line states that 2 cows prefer stall (0*1+1) mod 10 = 1.  Line four specifies that 1 cow prefers stall (1*1+7) mod 10 = 8 (so a total of 4 cows prefer this stall).</p><h4>Output Details</h4><p>All stalls will end up occupied except stall 5.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO November 2013 Contest, Gold",
   "level": 12,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.9048000574111938

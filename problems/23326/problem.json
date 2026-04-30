@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2021 홍익대학교 프로그래밍 경진대회, swoon, cheetose, cozyyg, cs71107, jwvg0425, kyo20111",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "binary_search", "set", "tree_set"],
   "accepted_user_count": 900,
   "submission_count": null,
   "average_tries": 3.105600118637085

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, University of Virginia High School Programming Contest, UVa HSPC 2011",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "stack"
-  ],
+  "tags": ["data_structures", "implementation", "stack"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.799999952316284

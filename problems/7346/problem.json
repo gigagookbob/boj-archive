@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Taejon 2001, Contest, CTU FEE Local Contest, CTU FEE 2004, medic_programmer",
   "level": 14,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 1.6897000074386597

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, bang627, beginnertomaster, eric00513, fs_edge, qpwoeiruty",
   "level": 12,
-  "tags": [
-    "dp",
-    "string",
-    "lcs"
-  ],
+  "tags": ["dp", "string", "lcs"],
   "accepted_user_count": 36814,
   "submission_count": null,
   "average_tries": 2.3380000591278076

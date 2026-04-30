@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2008/2009, Contest #1, baekjoon, khsoo01",
   "level": 21,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "rerooting",
-    "tree_diameter"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "rerooting", "tree_diameter"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.5

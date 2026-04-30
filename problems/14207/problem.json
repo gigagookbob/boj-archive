@@ -27,12 +27,7 @@
   "hint": "<p>예제 1의 경우에 도로는 (3, 5), (3, 10), (6, 5), (6, 10), (9, 5), (9, 10), (10, 2), (10, 4), (10, 6), (10, 8)이 있다. 도시 9에서 6으로 가는 최단 경로는 9 -&gt; 10 -&gt; 6이다.</p>\n<p>예제 2의 경우에 A<sub>0</sub> = B<sub>0</sub> = 1이기 때문에, 모든 도시 사이에 도로가 존재한다.</p>\n<p>예제 4의 경우에 최단 경로는 10 -&gt; 56 -&gt; 26 -&gt; 34 -&gt; 62 이다.</p>",
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "math"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.3529000282287598

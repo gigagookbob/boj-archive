@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2010",
   "level": 21,
-  "tags": [
-    "backtracking",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["backtracking", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 9

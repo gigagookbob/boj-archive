@@ -15,12 +15,7 @@
   "hint": null,
   "source": "author6, justin0907, wjsqjawns, kiwiyou, ntopia",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "trees",
-    "lca",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "trees", "lca", "sparse_table"],
   "accepted_user_count": 4311,
   "submission_count": null,
   "average_tries": 2.6626999378204346

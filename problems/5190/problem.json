@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2006: 100 Years of Engineering",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "physics"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "physics"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 1.4706000089645386

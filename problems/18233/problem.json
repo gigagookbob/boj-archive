@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 송년 코드페스티벌 2019, orihehe",
   "level": 11,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 323,
   "submission_count": null,
   "average_tries": 2.8173000812530518

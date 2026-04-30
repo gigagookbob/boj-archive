@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 1: Kyoto U Contest 1",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "constructive", "primality_test"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.1333000659942627

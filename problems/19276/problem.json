@@ -19,10 +19,7 @@
   "hint": "<p>In Sample 1, after the first operation, the values written in vertex $0, 1, \\ldots, 4$ are $4, 0, 1, 2, 3$.</p>\n<p>In Sample 2, after the first operation, the values written in vertex $0, 1, \\ldots, 4$ are $3, 1, 0, 2, 4$. After the second operation, the values written in vertex $0, 1, \\ldots, 4$ are $1, 0, 2, 3, 4$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 25,
-  "tags": [
-    "trees",
-    "hld"
-  ],
+  "tags": ["trees", "hld"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

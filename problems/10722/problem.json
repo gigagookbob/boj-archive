@@ -15,12 +15,7 @@
   "hint": "<p>예제를 그림으로 그리면 다음과 같다.</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:322px; width:509px\"/></p>",
   "source": "Contest, Coder's High, Coder's High 2015 Side Contest, tae",
   "level": 14,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "physics"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "physics"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 3.5399999618530273

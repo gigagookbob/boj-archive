@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, POSTECH, 2025 POSTECH Programming Contest, Contest, University, POSTECH, 2025 POSTECH Programming Contest, Open Contest, hyperbolic, menborong, jthis, kwoncycle, leo020630, petamingks, plast, qvixnh22",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum",
-    "pigeonhole_principle"
-  ],
+  "tags": ["ad_hoc", "prefix_sum", "pigeonhole_principle"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 3.9258999824523926

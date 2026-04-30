@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, 18sht1710",
   "level": 22,
-  "tags": [
-    "prefix_sum",
-    "offline_queries",
-    "sqrt_decomposition",
-    "mo"
-  ],
+  "tags": ["prefix_sum", "offline_queries", "sqrt_decomposition", "mo"],
   "accepted_user_count": 838,
   "submission_count": null,
   "average_tries": 3.936800003051758

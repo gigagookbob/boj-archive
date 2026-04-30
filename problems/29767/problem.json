@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 단국대학교부속소프트웨어고등학교, 단대소프트고 2023 알고리즘 대회, gggkik, dk10211, flappybird, fs_edge, hibye1217, jk410, kiwiyou, leo020630, MenOfPassion, utilforever",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "sorting", "prefix_sum"],
   "accepted_user_count": 773,
   "submission_count": null,
   "average_tries": 2.065999984741211

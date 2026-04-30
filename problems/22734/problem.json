@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2006 Day 1",
   "level": 20,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "set",
-    "divide_and_conquer"
-  ],
+  "tags": ["geometry", "binary_search", "set", "divide_and_conquer"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 6.119999885559082

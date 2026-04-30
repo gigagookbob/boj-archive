@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2020 예선, functionx, evenharder, moonrabbit2, pichulia, QuqqU, rhs0266, sait2000, shiftpsh, tncks0121",
   "level": 16,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 421,
   "submission_count": null,
   "average_tries": 3.118799924850464

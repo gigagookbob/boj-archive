@@ -15,10 +15,7 @@
   "hint": "<p>In the ﬁrst test case each subset is obviously fair.</p>\n<p>In the second test case no subset is fair. When tossing a subset of these coins, you are almost certain to see all zeroes – Bolek would be really unhappy!</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2012",
   "level": 13,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.8181999921798706

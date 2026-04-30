@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2022!, man_of_learning, queued_q, cgiosy, chansol, edenooo, gustjwkd1007, kyo20111, ryute",
   "level": 17,
-  "tags": [
-    "math",
-    "dp",
-    "knapsack",
-    "physics"
-  ],
+  "tags": ["math", "dp", "knapsack", "physics"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.4333000183105469

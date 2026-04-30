@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2017, plzrun",
   "level": 12,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 1.746500015258789

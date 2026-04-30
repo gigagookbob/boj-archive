@@ -19,10 +19,7 @@
   "hint": "<p>Find the Fox는 실존하는 책의 제목이다. 인내심이 충분하다면 이 책에서 FOX를 찾아보자.</p>",
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 3, jms020820, jthis, m4ushold, mathtw1030, tlsdydaud1",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 1.2603000402450562

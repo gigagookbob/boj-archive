@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, COSS Division, University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, Open Contest, putdata, bsyun0571, bumsoo0515, gi1dong2, hellogaon, jaemkim01, khj20006, kjmin622, qsccsq22, rasauq1122, rhdqor213, sjhi00, skeep194, tony9402",
   "level": 20,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "hashing"
-  ],
+  "tags": ["implementation", "bruteforcing", "hashing"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 7.357100009918213

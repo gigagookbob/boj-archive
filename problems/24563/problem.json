@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2021 East Central Regional Contest",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["ad_hoc", "greedy", "two_pointer"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.4544999599456787

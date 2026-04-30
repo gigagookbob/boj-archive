@@ -15,10 +15,7 @@
   "hint": "<p>입력으로 주어지는 각 행을 반전시켜서 출력하면 됩니다. 입력의 1행 1열은 출력의 1행 M열로, 입력의 1행 2열은 출력의 1행 M-1열로 … 입력의 1행 M열은 출력의 1행 1열로 … 입력의 N행 M열은 출력의 N행 1열로 출력하세요.</p>",
   "source": "University, 고려대학교, 2016 고려대학교 신입생 프로그래밍 경시대회, h0ngjun7, njw1204",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 8676,
   "submission_count": null,
   "average_tries": 1.6066999435424805

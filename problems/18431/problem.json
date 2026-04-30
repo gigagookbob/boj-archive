@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2019/2020",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "set",
-    "prefix_sum"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "set", "prefix_sum"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 1.5827000141143799

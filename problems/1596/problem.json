@@ -35,12 +35,7 @@
   "hint": "<p>예제 1의 경우 7, 18, 29, 70, 81, 92이 있다.</p>",
   "source": "baekjoon",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "traceback"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.8889000415802

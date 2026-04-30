@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2005, vjerksen",
   "level": 3,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "bruteforcing", "arbitrary_precision"],
   "accepted_user_count": 2172,
   "submission_count": null,
   "average_tries": 2.2144999504089355

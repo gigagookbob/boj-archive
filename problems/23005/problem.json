@@ -15,12 +15,7 @@
   "hint": "<p>For Sample Case #1, the secret code is 2021 because it is exactly the product of consecutive primes 43 and 47.</p>\n<p>For Sample Case #2, the secret code is 1763 because the product of 41 and 43 is 1763 which is smaller than 2020, but the product of 43 and 47 exceeds the given value of 2020.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round B",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 3.5757999420166016

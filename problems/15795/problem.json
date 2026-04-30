@@ -23,11 +23,7 @@
   "hint": "<p>Explanation of the example 1: Let K=3 and N=4. The possible interesting sequences are {0,0,0,0}; {0,0,0,1}; {0,0,1,0}; {0,0,1,2}; {0,1,0,0}; {0,1,0,1}; {0,1,2,0}. Hence there are 7 sequences and this is the answer for this example.</p>",
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2017 연습 세션",
   "level": 12,
-  "tags": [
-    "dp",
-    "math",
-    "sliding_window"
-  ],
+  "tags": ["dp", "math", "sliding_window"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.1818000078201294

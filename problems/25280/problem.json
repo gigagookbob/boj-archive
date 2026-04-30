@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, LTH Challenge 2022",
   "level": 12,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search",
-    "probability"
-  ],
+  "tags": ["math", "binary_search", "parametric_search", "probability"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.399999976158142

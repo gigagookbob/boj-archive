@@ -19,12 +19,7 @@
   "hint": "<p>네 종류의 색깔을 각각 R,B,G,Y라고 했을 때,</p>\n<p>첫 번째 예시에는 첫 칸에 R,G,B,Y중 어느 칸을 배치해도 전체 아름다움은 1이고 이 경우가 최대다. 따라서 총 4가지의 경우가 존재한다.</p>\n<p>두 번째 예시에서는<br/>\nRB<br/>\nGY<br/>\n로 배치했을 때 2+2+2+2 = 8로 최대의 아름다움을 만들 수 있고, 이렇게 만들 수 있는 경우의 수는 한 가지 밖에 없다.</p>",
   "source": "Contest, BOJ User Contest, 소프트콘, 제1회 소프트콘, smu201111192, cgiosy",
   "level": 20,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "sliding_window"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "sliding_window"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 3.936199903488159

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2002, CCO 2002",
   "level": 14,
-  "tags": [
-    "math",
-    "ternary_search"
-  ],
+  "tags": ["math", "ternary_search"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4.857100009918213

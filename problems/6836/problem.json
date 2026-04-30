@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2008, CCO 2008",
   "level": 17,
-  "tags": [
-    "graphs",
-    "trees",
-    "hashing",
-    "tree_isomorphism"
-  ],
+  "tags": ["graphs", "trees", "hashing", "tree_isomorphism"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

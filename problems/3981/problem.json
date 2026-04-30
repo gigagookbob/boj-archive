@@ -15,10 +15,7 @@
   "hint": "<p>첫 번째 테스트 케이스에서, 가능한 답 중 하나는 a = 0, b = 0, c = 0, d = 3 이다.</p>\r\n",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2010, School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2016 송년대회, koosaga, previc1",
   "level": 14,
-  "tags": [
-    "math",
-    "linear_algebra"
-  ],
+  "tags": ["math", "linear_algebra"],
   "accepted_user_count": 185,
   "submission_count": null,
   "average_tries": 2.3513998985290527

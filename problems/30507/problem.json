@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2023, maroo750, rustiebeats, shiftpsh, solvedac, utilforever, wjdclgns12",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.541700005531311

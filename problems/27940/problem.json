@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가지컵, 2023 가지컵, yup0927, functionx, jihwan_0319, kiwiyou, mingyu331, sait2000, wapas, WeissBlume, wider93",
   "level": 6,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 573,
   "submission_count": null,
   "average_tries": 1.9895000457763672

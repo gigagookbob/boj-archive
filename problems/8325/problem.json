@@ -15,11 +15,7 @@
   "hint": "<p>Assume that Byteman makes the first borehole at point 1, what takes him time 8. It can then turn out that he finds crude oil there and he will have to check, how far to the right does the reservoir reach. He will need two more boreholes, making which requires 36 units of time in the worst case. Therefore, in this case Byteman will spend in total 44 units of time drilling.</p>\n<p>It turns out that it is better to start at point 2. If there is no crude oil there, it is sufficient to check point 1. However, in the worst case Byteman will have to make two more boreholes in points 3 and 4 and end his work in total time equal to 42.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2009",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "segtree"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 6.5

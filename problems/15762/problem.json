@@ -15,13 +15,7 @@
   "hint": "<p>In this example, the largest region for a single cow consists of five 9s. If cows with IDs 1 and 9 team up, they can form a region of size 10.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 US Open Contest, Silver",
   "level": 19,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "graph_traversal",
-    "bfs",
-    "tree_set"
-  ],
+  "tags": ["graphs", "data_structures", "graph_traversal", "bfs", "tree_set"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 3.0655999183654785

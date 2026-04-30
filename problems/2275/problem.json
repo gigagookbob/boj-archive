@@ -15,10 +15,7 @@
   "hint": null,
   "source": "jason9319",
   "level": 15,
-  "tags": [
-    "greedy",
-    "trees"
-  ],
+  "tags": ["greedy", "trees"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 2.3956000804901123

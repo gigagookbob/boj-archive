@@ -31,9 +31,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2021 Rocky Mountain Regional Contest",
   "level": 6,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 63,
   "submission_count": null,
   "average_tries": 1.6507999897003174

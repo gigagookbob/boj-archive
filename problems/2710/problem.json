@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2008 Greater New York Programming Contest, arine, baekjoon",
   "level": 20,
-  "tags": [
-    "math",
-    "geometry",
-    "calculus"
-  ],
+  "tags": ["math", "geometry", "calculus"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.4643000364303589

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-B Programming Contest, Thailand Central Group-B Programming Contest 2015",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.4098000526428223

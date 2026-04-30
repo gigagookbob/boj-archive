@@ -19,14 +19,7 @@
   "hint": null,
   "source": "University, 단국대학교, DSPC 2025 (Dankook Univ. SWAG Programming Contest), University, 경희대학교, 2025 경희대학교 shake! 예선, yyyy7089, dinojaemin, jinhan814, jthis, jwpassion1, kcits970, m4ushold, sadtreap, sjhi00, tony9402",
   "level": 19,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "number_theory",
-    "dfs",
-    "scc"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "number_theory", "dfs", "scc"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

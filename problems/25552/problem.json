@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, POSTECH, 2022 POSTECH Programming Contest, slah007, bnb2011, hyperbolic, kclee2172, knon0501, leo020630, lky7674, qjatn0120baek, tlsdydaud1",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "grid_graph"],
   "accepted_user_count": 100,
   "submission_count": null,
   "average_tries": 3.380000114440918

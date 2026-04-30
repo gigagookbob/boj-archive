@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2010",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "parametric_search",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "parametric_search", "priority_queue"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.0625

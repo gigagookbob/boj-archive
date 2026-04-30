@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2014",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.8102999925613403

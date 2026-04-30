@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2022",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "divide_and_conquer",
-    "stack",
-    "cdq"
-  ],
+  "tags": ["data_structures", "divide_and_conquer", "stack", "cdq"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

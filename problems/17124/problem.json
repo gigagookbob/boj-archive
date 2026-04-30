@@ -15,10 +15,7 @@
   "hint": "<p>첫 테스트 케이스는 문제에서 언급되었다.</p>\r\n\r\n<p>두 번째 테스트 케이스의 경우 A = [16, 8, 12] 이고 &nbsp;B = [20, 5, 14, 9] 이다.</p>\r\n\r\n<p>이 경우 배열 C는 [14, 9, 14] 이며 따라서 정답은 14+9+14 = 37이다.</p>\r\n\r\n<p>세 번째 테스트의 경우 C = [2 2 3] 이며 정답은 7이다.&nbsp;</p>\r\n",
   "source": null,
   "level": 8,
-  "tags": [
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["sorting", "binary_search"],
   "accepted_user_count": 619,
   "submission_count": null,
   "average_tries": 2.578399896621704

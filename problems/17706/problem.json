@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2015/2016 Spring Training Camp",
   "level": 25,
-  "tags": [
-    "dp",
-    "case_work",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["dp", "case_work", "inclusion_and_exclusion"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.142899990081787

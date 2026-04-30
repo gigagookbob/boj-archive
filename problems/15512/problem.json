@@ -23,12 +23,7 @@
   "hint": "<p>Sample 1: The ordering (1, 2, 3) would yield 2 * 0.7 + (2 + 5) * 0.3 * 0.5 + (2 + 5 + 7) * 0.3 * 0.5 = 4.55 Victoins in expectation. The ordering (2, 3, 1) maximizes the expected winnings which is 8.7 Vitcoins.</p>\n<p>Sample 3: Both orderings (2, 3, 1) and (3, 2, 1) yield the same expected number of Vitcoins you can win, but (2, 3, 1) comes first lexicographically. </p>",
   "source": "Contest, Startlink Online Contest, Startlink Online Contest #1, haden, doju",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "sorting", "probability"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.2352999448776245

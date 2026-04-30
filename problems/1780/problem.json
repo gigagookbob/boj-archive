@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author5, tncks0121, djm03178, hwankim123, upsk1",
   "level": 9,
-  "tags": [
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "recursion"],
   "accepted_user_count": 26270,
   "submission_count": null,
   "average_tries": 1.6339000463485718

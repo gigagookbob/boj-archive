@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, UT Invitational Programming Contest, UT Invitational Programming Contest 2020",
   "level": 17,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

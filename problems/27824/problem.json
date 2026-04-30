@@ -15,13 +15,7 @@
   "hint": "<p>Sample Case #1 is the one pictured in the problem statement. Alice's optimal first move is to move to junction $4$.</p>\n<p>Sample Case #2 is the same as Sample Case #1 but the Queen starts at junction $2$. The Queen can catch Alice by first announcing a move to junction $4$. If Alice were to move to junction $4$⁠, she would be caught in $2$ moves. Alice can evade capture for an extra $2$ moves by staying put and waiting until the Queen then moves to junction $5$ where she is located.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p>In Sample Case #3, the Queen cannot reach Alice no matter what she does.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\"/></p>\n<p>In Sample Case #4, the Queen can begin by announcing that she will move to Alice's current junction. Alice has to move before then. If Alice moves to where the Queen already is, she gets caught immediately; if Alice remains in place, then she gets caught when the Queen moves. The second option is better, since it requires $2$ total moves (Alice's and the Queen's) instead of $1$.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\"/></p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, World Finals",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "bfs",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["ad_hoc", "bfs", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

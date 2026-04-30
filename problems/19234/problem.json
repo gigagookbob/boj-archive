@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #6",
   "level": 16,
-  "tags": [
-    "dp",
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "hashing"
-  ],
+  "tags": ["dp", "data_structures", "string", "set", "hash_set", "hashing"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.136399984359741

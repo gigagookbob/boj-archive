@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 8: Andrew Stankevich Contest 47, Contest, Open Cup, 2014/2015 Season, Stage 7: Northern Grand Prix",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["ad_hoc", "geometry", "sweeping"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

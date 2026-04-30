@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2016, 중등부",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 27980,
   "submission_count": null,
   "average_tries": 2.4932000637054443

@@ -23,11 +23,7 @@
   "hint": "<p>예제 1의 경우 {1, 2}, {0, 3}으로 꽃을 구매하는 방법이 있다.</p>\n<p>예제 2의 경우에는 {2, 2}로 꽃을 구매할 수 있다.</p>\n<p>예제 3의 경우에는 {1, 2, 2}, {0, 3, 2}, {1, 3, 1}이 가능하다.</p>",
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.875

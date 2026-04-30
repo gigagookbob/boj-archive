@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2017",
   "level": 7,
-  "tags": [
-    "greedy",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["greedy", "implementation", "simulation"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.948099970817566

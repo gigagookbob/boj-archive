@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2005, kks227, luniro",
   "level": 15,
-  "tags": [
-    "dp",
-    "parsing",
-    "string"
-  ],
+  "tags": ["dp", "parsing", "string"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 2.4544999599456787

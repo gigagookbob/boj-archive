@@ -15,10 +15,7 @@
   "hint": "<p>Прыжки, которые позволяют лягушке поменять цвет, начав с первой кочки, показаны на рисунке ниже.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 574px; height: 600px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2025",
   "level": 19,
-  "tags": [
-    "graphs",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "ad_hoc"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

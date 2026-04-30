@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, HotSpot 2010",
   "level": 3,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "string", "arithmetic"],
   "accepted_user_count": 384,
   "submission_count": null,
   "average_tries": 1.5025999546051025

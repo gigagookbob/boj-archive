@@ -23,10 +23,7 @@
   "hint": null,
   "source": "kdr06006, rdd6584",
   "level": 19,
-  "tags": [
-    "graphs",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "bipartite_matching"],
   "accepted_user_count": 252,
   "submission_count": null,
   "average_tries": 2.1944000720977783

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2010 Mid-Atlantic Regional Programming Contest, baekjoon, ploffer11",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 937,
   "submission_count": null,
   "average_tries": 3.7214999198913574

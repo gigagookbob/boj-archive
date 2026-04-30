@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "pst",
-    "merge_sort_tree"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "pst", "merge_sort_tree"],
   "accepted_user_count": 468,
   "submission_count": null,
   "average_tries": 3.3631999492645264

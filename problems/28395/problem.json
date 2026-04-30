@@ -15,9 +15,7 @@
   "hint": "<p>В приведенном примере содержится три теста:</p>\n<p>1) В первом тесте поле можно разрезать, как показано на рисунке:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 200px; height: 202px;\"/></p>\n<p style=\"text-align: center;\">Иллюстрация к первому тесту:</p>\n<p style=\"text-align: center;\">$a = 2$, $b = 2$, $k = 1$, $m = 2$.</p>\n<p>2) Во втором тесте поле нельзя разрезать требуемым образом.</p>\n<p>3) В третьем тесте поле можно разрезать, как показано на рисунке:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 355px; height: 250px;\"/></p>\n<p style=\"text-align: center;\">Иллюстрация к третьему тесту:</p>\n<p style=\"text-align: center;\">$a = 3$, $b = 5$, $k = 5$, $m = 12$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2023",
   "level": 10,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

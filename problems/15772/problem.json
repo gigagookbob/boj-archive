@@ -15,13 +15,7 @@
   "hint": "<p>시간 3에 <code>Alex</code>&nbsp;의 접속 상태는 <em>f</em> = 1&nbsp;(1번 접속), <em>r</em> = 1 (시간 3 - 2 = 1)이다. 따라 &quot;<code>New Customer</code>&quot; 로 분류된다.</p>\r\n\r\n<p>시간 7에 <code>Alex</code>&nbsp;의 접속 상태는 <em>f</em> = 2 (2번 접속), <em>r</em> = 1&nbsp;(시간 7 - 6 = 1)이다. 따라 &quot;<code>Potential Loyalist</code>&quot;로 분류된다.</p>\r\n\r\n<p>시간 8의 <code>RUN</code>&nbsp;의 접속 상태는 <em>f</em> = 3 (3번 접속), <em>r</em> = 3&nbsp;(시간 8 - 5 = 3)이다. 따라 &quot;<code>Need Attention</code>&quot; 으로 구분된다.</p>\r\n\r\n<p>해당 예제는 서브태스크 1에는 주어지지 않음을 유의하자.</p>\r\n",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2018 KAIST RUN Spring Contest, etaehyun4, jh05013, whquddn55",
   "level": 12,
-  "tags": [
-    "case_work",
-    "data_structures",
-    "hash_set",
-    "implementation",
-    "set"
-  ],
+  "tags": ["case_work", "data_structures", "hash_set", "implementation", "set"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 3.3241000175476074

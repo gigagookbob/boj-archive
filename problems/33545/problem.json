@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2025!, ainta, cki86201, silverwolf",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "combinatorics",
-    "dp",
-    "knapsack",
-    "math"
-  ],
+  "tags": ["ad_hoc", "combinatorics", "dp", "knapsack", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.9412000179290771

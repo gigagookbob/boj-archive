@@ -15,9 +15,7 @@
   "hint": "<p>In the first case, for each juice, we have one person that wants the drink to be made entirely out of that juice! Clearly we can only satisfy one of them.</p>\n<p>In the second case, we can satisfy any two of the three preferences.</p>\n<p>In the third case, all five people will like the drink if we make it using equal thirds of each juice.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, World Finals",
   "level": 19,
-  "tags": [
-    "sweeping"
-  ],
+  "tags": ["sweeping"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.061199903488159

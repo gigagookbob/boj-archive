@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1994/1995, Stage 3, koosaga",
   "level": 12,
-  "tags": [
-    "backtracking",
-    "dp"
-  ],
+  "tags": ["backtracking", "dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.4544999599456787

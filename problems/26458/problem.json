@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ICPC 2021 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Winter 2023, Day 1: JAGain in Petrozavodsk",
   "level": 21,
-  "tags": [
-    "hashing",
-    "kmp",
-    "string",
-    "trees",
-    "tree_isomorphism"
-  ],
+  "tags": ["hashing", "kmp", "string", "trees", "tree_isomorphism"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.7778000831604004

@@ -27,10 +27,7 @@
   "hint": "<p>문자열 $S$의 부분 문자열이란, $S$의 왼쪽 끝과 오른쪽 끝에서 $0$개 이상의 문자를 제거해서 만들 수 있는 문자열을 의미한다. 예를 들어 <span style=\"color:#e74c3c;\"><code>GSHSSSHS</code></span>의 부분 문자열로는 <span style=\"color:#e74c3c;\"><code>GSHS</code></span>, <span style=\"color:#e74c3c;\"><code>SSHS</code></span>, <span style=\"color:#e74c3c;\"><code>HSSSH</code> </span>등이 있고, 부분 문자열이 아닌 것으로는 <span style=\"color:#e74c3c;\"><code>GH</code></span>, <span style=\"color:#e74c3c;\"><code>A</code></span>, <span style=\"color:#e74c3c;\"><code>HSH</code> </span>등이 있다.</p>",
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2026 IamCoder Qualification Test, swlee0202, 28trillion, bluejun, byunjaewoo, gs22059, jalapen0_p1ckle, kuhyaku, lighton, lunarlity, minchan_bae, mj1000j, realpsdoingdamyoo, ryanson, shijun2009, woohyun_jng",
   "level": 6,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 1.2603000402450562

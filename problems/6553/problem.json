@@ -15,9 +15,7 @@
   "hint": "<p>Note that the output can be interpreted as a polygon as well. The relationship between the sample input and output polygons is illustrated in the figure on Problem 6554. To generate further sample input you may use your solution to that problem.</p>",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2002",
   "level": 5,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.6103999614715576

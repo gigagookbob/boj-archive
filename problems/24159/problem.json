@@ -19,11 +19,7 @@
   "hint": "<p><strong>注意</strong> 採点に用いる入力データに対しては，m の値は 2<sup>31</sup> よりも小さい．</p>",
   "source": "Camp, JOI Spring Training Camp, JOI 2006/2007 Spring Training Camp",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "bruteforcing", "exponentiation_by_squaring"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.8309999704360962

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2015",
   "level": 14,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "greedy"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "greedy"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.0833001136779785

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2025 January Contest, Platinum",
   "level": 23,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "binary_search",
-    "ternary_search"
-  ],
+  "tags": ["math", "ad_hoc", "binary_search", "ternary_search"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

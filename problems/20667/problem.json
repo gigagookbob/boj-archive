@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2020, depthfirst, august14, dlstj0923, hibye1217, tony9402",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 4.995100021362305

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 4 : Grand Final, stonejjun03, azberjibiou, jhwest2, silverwolf, TAMREF",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "trees", "dp_tree"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.9630000591278076

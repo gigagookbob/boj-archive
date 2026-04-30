@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2023, Beginner, School, CS@Mines, CS@Mines HSPC 2023, Advanced",
   "level": 8,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "bruteforcing", "grid_graph"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.1538000106811523

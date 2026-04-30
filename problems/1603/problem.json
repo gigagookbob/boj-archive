@@ -19,13 +19,7 @@
   "hint": null,
   "source": "baekjoon, h0ngjun7, yooshnn",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "game_theory",
-    "dp_bitfield",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "bitmask", "game_theory", "dp_bitfield", "sprague_grundy"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 3.5613999366760254

@@ -15,12 +15,7 @@
   "hint": "<p>The first patterns can be scaled to any height and so it occurs 7 times. The second and the third pattern each occur 3 times. The fourth pattern occurs 2 times.</p>",
   "source": "Camp, Visegrad Programming Contests Preparation Camp, VPCPC 2014",
   "level": 21,
-  "tags": [
-    "aho_corasick",
-    "data_structures",
-    "trees",
-    "trie"
-  ],
+  "tags": ["aho_corasick", "data_structures", "trees", "trie"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.799999952316284

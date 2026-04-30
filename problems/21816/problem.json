@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 US Open Contest, Gold",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "geometry",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "geometry", "combinatorics"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.6531000137329102

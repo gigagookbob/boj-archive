@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Atlantic Regional, 2021 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, North Central North America Regional, 2021 North Central NA Regional Contest",
   "level": 18,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.6922999620437622

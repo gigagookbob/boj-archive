@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021 예선, xiaowuc1, cki86201, jh05013, koosaga, pichulia",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs"
-  ],
+  "tags": ["dp", "graphs"],
   "accepted_user_count": 402,
   "submission_count": null,
   "average_tries": 2.751199960708618

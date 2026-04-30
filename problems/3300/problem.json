@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2013, baekjoon, sait2000, myungwoo",
   "level": 14,
-  "tags": [
-    "dp",
-    "string",
-    "bruteforcing",
-    "parsing",
-    "regex"
-  ],
+  "tags": ["dp", "string", "bruteforcing", "parsing", "regex"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 3.490600109100342

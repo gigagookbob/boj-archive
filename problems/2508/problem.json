@@ -15,10 +15,7 @@
   "hint": "<p>아래와 같은 입력은 주어지지 않는다.</p>\n<pre>\n v\n&gt;o&lt;\n ^</pre>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2012, doju, jaehoo1",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 1245,
   "submission_count": null,
   "average_tries": 2.2079999446868896

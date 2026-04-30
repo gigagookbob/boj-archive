@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2017",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "mst",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mst", "mfmc"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 1.9924999475479126

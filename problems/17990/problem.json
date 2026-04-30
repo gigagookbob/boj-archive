@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2019",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "disjoint_set", "offline_queries"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5625

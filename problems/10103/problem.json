@@ -15,12 +15,7 @@
   "hint": "<p>첫 라운드는 상덕이의 승리이다. 따라서 창영이는 6점을 잃게 된다. 두 번째 라운드는 두 사람의 숫자가 같기 때문에, 아무도 점수를 잃지 않고 넘어간다. 세 번째 라운드의 승자는 창영이이기 때문에, 상덕이는 4점을 잃게 된다. 마지막 라운드는 창영이가 승리하고, 상덕이는 5점을 잃게 된다. 따라서, 창영이는 6점, 상덕이는 9점을 잃었다.</p>\r\n",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2014, CCC 2014 Junior Division, baekjoon",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 10602,
   "submission_count": null,
   "average_tries": 1.2045999765396118

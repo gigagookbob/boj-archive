@@ -15,12 +15,7 @@
   "hint": "<p>The pictures below illustrate the first two samples (not to scale). In the center of the black circle is the observer. The other circles are pillars, with the visible ones in gray and the not visible ones in red. The blue dotted lines represent some of the unblocked lines of sight; the red dotted lines represent blocked lines of sight (that turn gray at the point at which they are first blocked).</p>\n<p><img alt=\"\" src=\"1.png\"/><img alt=\"\" src=\"2.png\"/></p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, World Finals",
   "level": 25,
-  "tags": [
-    "math",
-    "geometry",
-    "number_theory",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "geometry", "number_theory", "inclusion_and_exclusion"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.899999976158142

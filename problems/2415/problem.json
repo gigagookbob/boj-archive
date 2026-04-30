@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 208px; height: 177px;\" /></p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2009, baekjoon",
   "level": 20,
-  "tags": [
-    "sorting",
-    "geometry",
-    "set",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "set", "angle_sorting"],
   "accepted_user_count": 257,
   "submission_count": null,
   "average_tries": 4.003900051116943

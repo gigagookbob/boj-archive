@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2014",
   "level": 7,
-  "tags": [
-    "math",
-    "combinatorics",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "combinatorics", "arbitrary_precision"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.0947000980377197

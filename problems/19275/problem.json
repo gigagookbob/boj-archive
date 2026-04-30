@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 3: AtCoder Contest",
   "level": 28,
-  "tags": [
-    "case_work",
-    "combinatorics",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["case_work", "combinatorics", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.25

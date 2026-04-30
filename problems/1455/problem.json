@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 10,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 925,
   "submission_count": null,
   "average_tries": 1.5880999565124512

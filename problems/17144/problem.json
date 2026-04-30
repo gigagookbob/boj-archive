@@ -43,10 +43,7 @@
   "hint": null,
   "source": "baekjoon, dbfldkfdbgml, jh05013, tmdals6718",
   "level": 12,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 20214,
   "submission_count": null,
   "average_tries": 1.7771999835968018

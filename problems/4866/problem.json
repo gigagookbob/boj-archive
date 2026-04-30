@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2004 Rocky Mountain Regional Contest",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "geometry",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["bruteforcing", "data_structures", "geometry", "hash_set", "set"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.9258999824523926

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, UNIST, 4th UNIST Algorithm Programming Contest Uni-CODE 2022, chunghan, queued_q, checkchck, cs71107, jh05013, jhnah917, junseo, leejseo, mskim17",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 473,
   "submission_count": null,
   "average_tries": 2.198699951171875

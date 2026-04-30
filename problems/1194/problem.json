@@ -43,13 +43,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, wkd48632, kesakiyo, ntopia, snengggggggg",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "bitmask", "grid_graph"],
   "accepted_user_count": 6431,
   "submission_count": null,
   "average_tries": 2.448899984359741

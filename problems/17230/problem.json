@@ -23,13 +23,7 @@
   "hint": "<p>예제2, 3은 서브태스크1, 2에서는 나오지 않는다.</p>",
   "source": "University, 아주대학교, 2019 아주대학교 프로그래밍 경시대회 APC, Div.1, Acka, spectaclehong, yuiop8747",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "segtree", "set", "hash_set", "tree_set"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.3190999031066895

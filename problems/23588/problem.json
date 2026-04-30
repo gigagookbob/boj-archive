@@ -15,12 +15,7 @@
   "hint": "<p>This example violates the constraints, and is given only to illustrate the process of interaction. All tests in the testing system will satisfy all the constraints from the statement.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 3: Grand Prix of SPb",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc",
-    "bitmask",
-    "randomization"
-  ],
+  "tags": ["bruteforcing", "ad_hoc", "bitmask", "randomization"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 7

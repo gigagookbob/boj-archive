@@ -19,11 +19,7 @@
   "hint": "<p>In the output of the first example, the difference between the maximum and the minimum number of simultaneously evaluated submissions is one for tasks $1$ and $2$ and zero for task $3$. On the other hand, ordering the submissions as in the input would not have constituted a valid output because the difference between the maximum and the minimum number of simultaneously evaluations submissions for task $3$ is two.</p>\n<p>In the output of the second example, the difference between the maximum and the minimum number of simultaneously evaluated submissions is zero for all three tasks.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2023, Day 1",
   "level": 23,
-  "tags": [
-    "divide_and_conquer",
-    "eulerian_path",
-    "graphs"
-  ],
+  "tags": ["divide_and_conquer", "eulerian_path", "graphs"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 5.388899803161621

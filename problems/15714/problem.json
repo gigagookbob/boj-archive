@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제1회 네블컵, rdd6584",
   "level": 14,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.098400115966797

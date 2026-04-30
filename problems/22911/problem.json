@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 2",
   "level": 20,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "dp_tree",
-    "math",
-    "trees"
-  ],
+  "tags": ["combinatorics", "dp", "dp_tree", "math", "trees"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.7407000064849854

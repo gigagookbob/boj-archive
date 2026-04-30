@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: After the first move, every field on the board is attacked. For example, field (1, 1) is seen by only one rook so the total XOR for that field is 1. After the second move none of the fields are attacked. For example, field (1,1) is seen by both rooks so the total XOR for that field is 0.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #1",
   "level": 19,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.976699948310852

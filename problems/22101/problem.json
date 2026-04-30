@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2014, RCC 2014 Third Qualification Round",
   "level": 16,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "knapsack"
-  ],
+  "tags": ["dp", "prefix_sum", "knapsack"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

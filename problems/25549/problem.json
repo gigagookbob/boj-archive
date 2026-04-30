@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2022 POSTECH Programming Contest, qjatn0120baek, bnb2011, hyperbolic, kclee2172, knon0501, leo020630, lky7674, slah007",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "set",
-    "tree_set",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "trees", "set", "tree_set", "smaller_to_larger"],
   "accepted_user_count": 202,
   "submission_count": null,
   "average_tries": 2.084199905395508

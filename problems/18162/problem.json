@@ -15,10 +15,7 @@
   "hint": "<p>\"하위 16비트\"는 최하위 비트(Least Significant Bit)를 포함하는, 가장 낮은 자리의 16비트를 의미합니다. 반대로, \"상위 16비트\"는 최상위 비트(Most Significant Bit)를 포함하는, 가장 높은 자리의 16비트를 의미합니다.</p>",
   "source": "Contest, BOJ User Contest, 키파컵, 제2회 키파컵, kipa00",
   "level": 20,
-  "tags": [
-    "constructive",
-    "math"
-  ],
+  "tags": ["constructive", "math"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4.692299842834473

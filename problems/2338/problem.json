@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 22187,
   "submission_count": null,
   "average_tries": 2.00600004196167

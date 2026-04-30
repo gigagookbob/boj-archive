@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2020",
   "level": 9,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "stack"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.0499999523162842

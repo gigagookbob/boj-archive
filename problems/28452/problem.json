@@ -19,12 +19,7 @@
   "hint": "<p>두 점 $A(x_1, y_1)$과 $B(x_2, y_2)$ 사이의 맨해튼 거리는 $|x_2 - x_1| + |y_2 - y_1|$으로 정의된다.</p>",
   "source": "University, 홍익대학교, 제1회 하이콘, tolelom, dicohy27, Green55, gs18115, pjshwa",
   "level": 16,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.6738998889923096

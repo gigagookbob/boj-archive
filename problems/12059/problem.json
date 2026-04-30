@@ -15,10 +15,7 @@
   "hint": "<p>In the first case, Bolt scored a total of 7000 in his two competitions. Gay would have scored a total of 8500 if all competitions were counted, but since only the top 2 competitions are counted in this case, Gay scored 6500 and ranked second. Since Peimeng and Tianbing both scored 1500, they both ranked 3rd and listed by their names. Larry is last, since he scored only 1000.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2016 University Graduates Test, Round C APAC Test 2016, Contest, Google, Kick Start, Google Kick Start 2015, Round C",
   "level": 9,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.9544999599456787

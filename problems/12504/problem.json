@@ -15,11 +15,7 @@
   "hint": "<p>In Case #3, I could have played 5 games today (<strong>D</strong> = 5) and 25 games in total (<strong>G</strong> = 25), and won 4 games today  (80% of 5) and 14 games in total (56% of 25).</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 1A",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "case_work"
-  ],
+  "tags": ["math", "number_theory", "case_work"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.836400032043457

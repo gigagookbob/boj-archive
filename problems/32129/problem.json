@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, LG Collegiate Programming Contest, LGCPC 2024 본선, benedict0724, 79brue, kyo20111",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.7255001068115234

@@ -15,12 +15,7 @@
   "hint": "<p>This is the board in the image, with cells <em>(1, 1)</em>, <em>(2, 2)</em>, <em>(4, 1)</em>, and <em>(3, 0)</em> dead.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 1 October, 2016",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching", "grid_graph"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2022 Goricon, qotmd01, dngnogu, jthis, leo020630, mokalover, powergee, skeep194",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 919,
   "submission_count": null,
   "average_tries": 2.184999942779541

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2018 SCAL-MOOKJA, University, 중앙대학교, 2018 SCAL-MOOKJA, byeop24, Green55, lyzqm",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 315,
   "submission_count": null,
   "average_tries": 1.5175000429153442

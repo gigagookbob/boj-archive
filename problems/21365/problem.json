@@ -19,12 +19,7 @@
   "hint": "<p>I exempel 1 är de första tre orden ungar till $S$, och dessutom stökiga. Testfallet skulle därmed kunna finnas med i testgrupp 2 eller 4.</p>\n<p>I exempel 2 är de fyra första orden ungar, varav de två första dessutom stökiga ungar. Det här testfallet skulle inte kunna vara med i testgrupp 2 eller 4.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2021, Online Qualification",
   "level": 15,
-  "tags": [
-    "dp",
-    "greedy",
-    "string",
-    "binary_search"
-  ],
+  "tags": ["dp", "greedy", "string", "binary_search"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

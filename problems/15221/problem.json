@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2016",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

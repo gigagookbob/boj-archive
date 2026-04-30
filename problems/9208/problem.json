@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2013, baekjoon, jh05013",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "hall"
-  ],
+  "tags": ["data_structures", "greedy", "hall"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 4.854499816894531

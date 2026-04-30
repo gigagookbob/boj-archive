@@ -23,10 +23,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, jhnah917, parkky, tony9402, WeissBlume",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 831,
   "submission_count": null,
   "average_tries": 4.584799766540527

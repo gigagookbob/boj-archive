@@ -15,11 +15,7 @@
   "hint": null,
   "source": "h0ngjun7",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "stack"],
   "accepted_user_count": 388,
   "submission_count": null,
   "average_tries": 2.27839994430542

@@ -23,14 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>If Nina first writes <code>b</code>, Emilija must write <code>b</code>, and then Nina can write <code>b</code>. The current word is <code>bbb</code>, and Emilija can’t make a move, so Nina wins.</p>\n<p>If Nina would first write <code>a</code>, Emilija could write <code>b</code>. The word would be <code>ab</code>, and Nina wouldn’t be able to make a move, and she would lose.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2020/2021, Contest #3",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "dp",
-    "dp_tree",
-    "game_theory",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "dp", "dp_tree", "game_theory", "trees", "trie"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2000000476837158

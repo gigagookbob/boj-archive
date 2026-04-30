@@ -19,11 +19,7 @@
   "hint": "<p>For the first example, the 3 ways to form a triangle are choosing sticks 2, 3, 4 or 2, 4, 5 or 3, 4, 5.</p>",
   "source": "Contest, Waterloo's local Programming Contests, 30 September, 2017",
   "level": 4,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["math", "bruteforcing", "geometry"],
   "accepted_user_count": 293,
   "submission_count": null,
   "average_tries": 1.228700041770935

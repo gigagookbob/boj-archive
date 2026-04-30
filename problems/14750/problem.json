@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2017, ntopia",
   "level": 19,
-  "tags": [
-    "graphs",
-    "geometry",
-    "flow",
-    "line_intersection"
-  ],
+  "tags": ["graphs", "geometry", "flow", "line_intersection"],
   "accepted_user_count": 404,
   "submission_count": null,
   "average_tries": 4.75

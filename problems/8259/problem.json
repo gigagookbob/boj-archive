@@ -15,10 +15,7 @@
   "hint": "<p>Pierwszy kornik w pierwszym ruchu może wybrać sztachetę o wysokości 5, o wysokości 3 lub obie na raz. Optymalnym ruchem jest zjedzenie sztachety o wysokości 5. Przeciwnik zjada wtedy sztachety o wysokościach 2 i 3.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2012",
   "level": 19,
-  "tags": [
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["game_theory", "parity"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

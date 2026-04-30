@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, GSHS x SASA, 제1회 GSHS x SASA 프로그래밍 경시대회, yc252525, yjkim997, dinojaemin, dkim110807, jms020820, lighton, sorohue, utilforever",
   "level": 12,
-  "tags": [
-    "implementation",
-    "simulation",
-    "bitmask"
-  ],
+  "tags": ["implementation", "simulation", "bitmask"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.8792999982833862

@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 768px; height: 300px;\"/></p>\n<p>In the first test we need to build a seaport in a settlement number $6$ in order to ensure safety for tourists living in settlement number $3$. However, tourists from settlements number $1$ and $2$ are able to reach it as well, so they safety will be ensured as well in that case, so it doesn't matter whether we build seaports in settlements number $4$ and $5$.</p>\n<p>In the second sample test we need to build seaports in at least two out of settlements in numbers $4$, $5$ and $6$ and that is sufficient to ensure safety of all tourists. It doesn't matter whether we build seaport in settlement number $7$. It can be readily checked that in total there are $8$ plans ensuring safety.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 1: Warsaw U Contest",
   "level": 26,
-  "tags": [
-    "dp",
-    "graphs",
-    "planar_graph",
-    "scc"
-  ],
+  "tags": ["dp", "graphs", "planar_graph", "scc"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

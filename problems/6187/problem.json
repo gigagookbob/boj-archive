@@ -15,9 +15,7 @@
   "hint": "<p>81+58+42+61 = 242; this is the best possible sum</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO US Open 2008 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 165,
   "submission_count": null,
   "average_tries": 1.5333000421524048

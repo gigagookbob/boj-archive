@@ -15,13 +15,7 @@
   "hint": "<p>화살표는 치킨의 배달 과정을 나타냅니다. 제자리로 돌아오는 화살표는 배달원이 도로를 이용하기 위해 1의 시간만큼 기다렸음을 나타냅니다.</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:223px; width:400px\" /></p>\r\n",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2003/2004, Stage 3, namnamseo, rdd6584",
   "level": 21,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 5.6128997802734375

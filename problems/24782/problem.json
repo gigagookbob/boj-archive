@@ -31,11 +31,7 @@
   "hint": null,
   "source": ", School, Virginia Tech High School Programming Contest, 2015 Virginia Tech High School Programming Contest",
   "level": 15,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["graphs", "bruteforcing", "backtracking"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.478300094604492

@@ -15,9 +15,7 @@
   "hint": "<p>In the first case, Gildong can take one block from the $1$-st column, move to the $2$-nd column, put the block on the $2$-nd column, then move to the $3$-rd column.</p>\n<p>In the second case, Gildong has to put the block in his bag on the $1$-st column to get to the $2$-nd column. But it is impossible to get to the $3$-rd column because $|h_2-h_3|=3&gt;k$ and there is no way to decrease the gap.</p>\n<p>In the fifth case, the character is already on the $n$-th column from the start so the game is won instantly.</p>",
   "source": "Contest, Codeforces, Codeforces Round 578 (Div. 2), djm03178",
   "level": 9,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.600000023841858

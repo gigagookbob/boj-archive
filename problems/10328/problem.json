@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2014",
   "level": 8,
-  "tags": [
-    "implementation",
-    "graphs",
-    "simulation",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "graphs", "simulation", "grid_graph"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.7963000535964966

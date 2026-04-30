@@ -15,11 +15,7 @@
   "hint": "<p>문제의 예제는 잭과 질이 가지고 있는 집 5채의 가치가 6,000,000, 30,000,000, 3,000,000, 11,000,000, 3,000,000인 경우이다. 잭이 6,000,000 달러 집, 질이 3,000,000 달러 집 두 개를 가져가면 두 사람은 공평하게 집을 나눌 수 있다. 남는 집 (11,000,000 달러, 30,000,000 달러) 의 합은 41,000,000 달러이다.</p>\r\n",
   "source": ", Contest, Waterloo's local Programming Contests, 26 Septemeber, 2010, baekjoon",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "mitm"
-  ],
+  "tags": ["data_structures", "hash_set", "mitm"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 3.1572999954223633

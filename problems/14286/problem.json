@@ -15,11 +15,7 @@
   "hint": null,
   "source": "cs71107",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 540,
   "submission_count": null,
   "average_tries": 1.6851999759674072

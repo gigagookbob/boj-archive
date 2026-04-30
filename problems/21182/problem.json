@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2019",
   "level": 21,
-  "tags": [
-    "geometry",
-    "heuristics",
-    "min_enclosing_circle"
-  ],
+  "tags": ["geometry", "heuristics", "min_enclosing_circle"],
   "accepted_user_count": 170,
   "submission_count": null,
   "average_tries": 2.029400110244751

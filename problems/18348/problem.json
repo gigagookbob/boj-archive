@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 전시관, 제1 전시관, ho94949, doju",
   "level": 22,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "constructive", "primality_test", "sieve"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 6.099999904632568

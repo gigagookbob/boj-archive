@@ -15,9 +15,7 @@
   "hint": "<p>In the first query, Company $2$ moves to location $10$. Then the app is asked for the distance between company $4$ and company $5$, which is $3$. The next query is the distance between companies $1$ and $3$, which is also $3$. A number of updates and queries follow.</p>",
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2018 ICPC South Central USA Regional Programming Contest",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 1.1770999431610107

@@ -15,13 +15,7 @@
   "hint": "<p>In the first query, all length $1$ subsequences of <code>abcbc</code> are subsequences of one of $x$, $y$, or $z$, but the subsequence <code>cb</code> is not, so the answer is $2$.</p>\n<p>In the second query, <code>d</code> is a subsequence of <code>dabcabc</code> that is not a subsequence of any of $x$, $y$, or $z$.</p>\n<p>In the third query, <code>bbc</code> is a subsequence of <code>abbcc</code> that is not a subsequence of any of $x$, $y$, or $z$, and it is the shortest such subsequence.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Spring 2025 Invitational, Finals",
   "level": 26,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "ad_hoc", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.4000000953674316

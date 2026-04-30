@@ -31,10 +31,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제2회 생각하는 프로그래밍 대회, zzz845zz",
   "level": 10,
-  "tags": [
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["implementation", "recursion"],
   "accepted_user_count": 842,
   "submission_count": null,
   "average_tries": 2.091399908065796

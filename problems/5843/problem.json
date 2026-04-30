@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are two cows waiting to be transported along a fence of length 10. The first cow wants to go from position 0 (where Bessie starts) to position 9.  The second cow wishes to go from position 6 to position 5.</p><h4>Output Details</h4><p>Bessie picks up the first cow at position 0 and drives to position 6. There she drops off the first cow, delivers the second cow to her destination and returns to pick up the first cow.  She drops off the first cow and then drives the remainder of the way to the right side of the fence.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO February 2013 Contest, Gold",
   "level": 19,
-  "tags": [
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "prefix_sum"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.3076999187469482

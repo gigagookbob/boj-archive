@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2005, kimtree97, lambda, minju1307, yjwr0528",
   "level": 4,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 77932,
   "submission_count": null,
   "average_tries": 2.1858999729156494

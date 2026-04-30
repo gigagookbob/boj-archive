@@ -23,11 +23,7 @@
   "hint": null,
   "source": "index, iktk, nflight11, sait2000, utilforever, wider93, ychangseok, yup0927",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "string"
-  ],
+  "tags": ["math", "greedy", "string"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 3.686300039291382

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 전시관, 제1 전시관, alex9801",
   "level": 24,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "mitm"
-  ],
+  "tags": ["graphs", "ad_hoc", "mitm"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 13.20829963684082

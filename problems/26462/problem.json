@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Winter 2024, Day 1: Welcome Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.1851999759674072

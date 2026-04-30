@@ -27,10 +27,7 @@
   "hint": "<p>끈끈이주걱의 두께는 무시한다. 즉, 어떤 끈끈이주걱이 위치한 곳을 벗어나면 더 이상 해당 끈끈이주걱과 닿을 염려가 없다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2024 서울대학교 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2024 서울대학교 프로그래밍 경시대회, Division 2, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2024 서울대학교 프로그래밍 경시대회, Division 1 (Open Contest), mujigae, kdh9949, whqkrkt04, TAMREF, parkky, onjo0127, octane, mhy908, lky7674, ksi4495, abra_stone, juneharold, imtore, hidercpp, gs20036, gs15120, eunlin, cozyyg, ai4youej",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 194,
   "submission_count": null,
   "average_tries": 3.8917999267578125

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2022 Local Programming Contest (Final Round)",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.1633000373840332

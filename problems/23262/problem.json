@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round G",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ternary_search"
-  ],
+  "tags": ["greedy", "sorting", "ternary_search"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.5

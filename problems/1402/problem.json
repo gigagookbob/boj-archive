@@ -15,11 +15,7 @@
   "hint": "<p>6 = 2*3, 2+3=5이므로 성립한다.</p>",
   "source": "xhark, tony9402",
   "level": 6,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 5412,
   "submission_count": null,
   "average_tries": 2.140399932861328

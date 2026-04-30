@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2008",
   "level": 26,
-  "tags": [
-    "math",
-    "number_theory",
-    "fft",
-    "flt",
-    "crt",
-    "kitamasa"
-  ],
+  "tags": ["math", "number_theory", "fft", "flt", "crt", "kitamasa"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 6.125

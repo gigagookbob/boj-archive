@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 08., snrnsidy, cologne, lky7674, tony9402, utilforever",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.9544999599456787

@@ -19,12 +19,7 @@
   "hint": "<ul>\n<li>In the input picture, each row and each column has at least one non-blurred pixel.</li>\n<li>In any two consecutive lines, there are at least two non-blurred pixels in the same column.</li>\n</ul>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2018",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "parametric_search",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "parametric_search", "segtree"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.7691999673843384

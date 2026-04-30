@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제2회 초콜릿컵, bubbler, kiwiyou, mingyu331, parkky, sorohue, wider93",
   "level": 18,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.8889000415802002

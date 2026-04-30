@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제4회 kriiicon, august14",
   "level": 23,
-  "tags": [
-    "math",
-    "dp",
-    "precomputation"
-  ],
+  "tags": ["math", "dp", "precomputation"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.5769000053405762

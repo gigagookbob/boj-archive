@@ -19,11 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładów: Układ platform i taśmociągów w pierwszym teście przykładowym wygląda następująco:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 372px; height: 86px;\"/></p>\n<p>Niżej zobrazowane są trasy, którymi na swoje docelowe platformy trafiają kolejne walizki:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 632px; height: 319px;\"/></p>\n<p>Po sześciu walizkach każda platforma znów wypuści następną walizkę pierwszym wychodzącym z niej taśmociągiem, zatem odpowiedzią jest liczba 6.</p>\n<p>Układ platform i taśmociągów w drugim teście przykładowym wygląda następująco:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 146px; height: 38px;\"/></p>\n<p>Pierwsza walizka zostanie odebrana przez personel lotniska bezpośrednio z pierwszej platformy i nie zmieni niczego, zatem układ będzie zresetowany już po niej.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2022",
   "level": 14,
-  "tags": [
-    "math",
-    "graphs",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "graphs", "arbitrary_precision"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

@@ -19,10 +19,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"2.png\" style=\"height:633px; width:631px\"/></p>\n<p style=\"text-align:center\">Figure A.2: The middle 441 squares.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2016 ACM South Pacific Programming Contest",
   "level": 9,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.266700029373169

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2017",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "bruteforcing", "set"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5556000471115112

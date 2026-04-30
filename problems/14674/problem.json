@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2017 SCCC Summer Contest, mincl",
   "level": 8,
-  "tags": [
-    "math",
-    "sorting"
-  ],
+  "tags": ["math", "sorting"],
   "accepted_user_count": 231,
   "submission_count": null,
   "average_tries": 3.766200065612793

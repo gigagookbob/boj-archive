@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 3: Kazakhstan Contest",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "number_theory",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "number_theory", "dfs"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.9666999578475952

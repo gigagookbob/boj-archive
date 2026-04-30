@@ -10,10 +10,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 6,
-  "tags": [
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["implementation", "geometry"],
   "accepted_user_count": 894,
   "submission_count": null,
   "average_tries": 3.0459001064300537

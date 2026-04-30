@@ -23,10 +23,7 @@
   "hint": null,
   "source": "MenOfPassion, chansol, jthis, leo020630, pjshwa, tlsdydaud1, wider93",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 1.7116999626159668

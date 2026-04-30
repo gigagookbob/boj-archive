@@ -15,13 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 30 September, 2006",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum", "primality_test", "sieve"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5312999486923218

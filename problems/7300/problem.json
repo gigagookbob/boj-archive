@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2004",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["data_structures", "disjoint_set", "graphs", "graph_traversal"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

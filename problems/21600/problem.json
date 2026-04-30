@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2021 SciCom Qualification Test, azberjibiou",
   "level": 10,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 540,
   "submission_count": null,
   "average_tries": 2

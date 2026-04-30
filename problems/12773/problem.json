@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2016",
   "level": 25,
-  "tags": [
-    "shortest_path",
-    "linear_programming"
-  ],
+  "tags": ["shortest_path", "linear_programming"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.392899990081787

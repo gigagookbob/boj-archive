@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the second example:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 314px; height: 328px;\"/></p>\n<p>Clarification of the third example: The colored parts of the plane are the same as in the second example and the points in Mirko’s queries are: (2, 2), (2, 1), (9, −14), (25, 29), (−32, 30) and (30, 17).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #2",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["binary_search", "geometry", "point_in_convex_polygon"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

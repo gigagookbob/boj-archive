@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2023 2차대회, 중등부, Olympiad, 한국정보올림피아드, KOI 2023 2차대회, 고등부, junie, koosaga",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "set",
-    "combinatorics",
-    "tree_set"
-  ],
+  "tags": ["math", "data_structures", "set", "combinatorics", "tree_set"],
   "accepted_user_count": 147,
   "submission_count": null,
   "average_tries": 2.5713999271392822

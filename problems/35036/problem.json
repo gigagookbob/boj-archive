@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2025!, stonejjun03, cki86201, jhnah917",
   "level": 22,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.4230999946594238

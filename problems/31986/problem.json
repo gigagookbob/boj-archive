@@ -27,13 +27,7 @@
   "hint": "<p>$G_1$, $G_2$, ..., $G_9$를 적어보면 다음과 같다.</p>\n<p style=\"text-align: center;\">$1$, $2$, $2$, $3$, $3$, $4$, $4$, $4$, $5$, $\\cdots$</p>",
   "source": "wapas, pentagon03, tony9402, utilforever, wider93",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "divide_and_conquer",
-    "fft"
-  ],
+  "tags": ["math", "dp", "combinatorics", "divide_and_conquer", "fft"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.8333001136779785

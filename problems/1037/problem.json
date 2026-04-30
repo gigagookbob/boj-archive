@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, doju, jh05013",
   "level": 5,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 45034,
   "submission_count": null,
   "average_tries": 1.73580002784729

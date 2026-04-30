@@ -31,9 +31,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 11,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 1.9226000308990479

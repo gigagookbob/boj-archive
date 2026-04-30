@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2017 SCCC Summer Contest, sys7961",
   "level": 10,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "trees",
-    "articulation"
-  ],
+  "tags": ["graphs", "ad_hoc", "trees", "articulation"],
   "accepted_user_count": 2100,
   "submission_count": null,
   "average_tries": 1.888100028038025

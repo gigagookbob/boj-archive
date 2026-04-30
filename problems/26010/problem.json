@@ -27,9 +27,7 @@
   "hint": "<ul>\n<li>$0$초에 각 돈은 입력에서 주어진 초기 위치에 존재하며, 그린은 $(0, 0)$을 방문한다.</li>\n<li>$t (t&gt;0)$초에 돈과 그린은 다음과 같이 움직인다.\n\t<ul>\n<li>$t-1$초에 $(x, y)$에 위치했던 돈은, $t$초에 $(x, y-1)$에 위치한다.</li>\n<li>$t-1$초에 마지막으로 그린이 방문한 칸이 $(x, 0)$이라면, 어떤 키를 누르냐에 따라 $t$초에 다음과 같은 칸을 순서대로 방문한다.\n\t\t<ul>\n<li>\n<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"width: 500px;\">\n<thead>\n<tr>\n<th scope=\"row\">누른 키</th>\n<th scope=\"col\">방문하는 칸 (순서대로)</th>\n<th scope=\"col\">소모되는 힘</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>←키</td>\n<td>$(x-1, 0)$</td>\n<td>$P_{lr}$</td>\n</tr>\n<tr>\n<td>아무 키도 누르지 않음</td>\n<td>$(x, 0)$</td>\n<td>$0$</td>\n</tr>\n<tr>\n<td>→키</td>\n<td>$(x+1, 0)$</td>\n<td>$P_{lr}$</td>\n</tr>\n<tr>\n<td>←키 + ↑키</td>\n<td>$(x-1, 1) \\rightarrow (x-1, 0)$</td>\n<td>$P_{lr}$ + $P_{j}$</td>\n</tr>\n<tr>\n<td>↑키</td>\n<td>$(x, 1) \\rightarrow (x,0)$</td>\n<td>$P_{j}$</td>\n</tr>\n<tr>\n<td>→키 + ↑키</td>\n<td>$(x+1, 1) \\rightarrow (x+1, 0)$</td>\n<td>$P_{lr}$ + $P_{j}$</td>\n</tr>\n</tbody>\n</table>\n</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>$t$초에 어떤 돈이 위치하는 칸을, $t$초에 그린이 방문하게 된다면 그 돈을 모을 수 있다.</li>\n</ul>",
   "source": "University, 홍익대학교, 2022 홍익대학교 HI-ARC 프로그래밍 경진대회, Green55, cs71107, jh05013, jwvg0425",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.8499999046325684

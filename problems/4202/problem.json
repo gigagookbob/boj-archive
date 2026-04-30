@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 15 June, 2008",
   "level": 18,
-  "tags": [
-    "geometry",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "polygon_area"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.4544999599456787

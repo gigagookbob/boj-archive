@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, October 20, 2012, Basic",
   "level": 11,
-  "tags": [
-    "math",
-    "combinatorics",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "combinatorics", "exponentiation_by_squaring"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.2963000535964966

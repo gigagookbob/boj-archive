@@ -19,11 +19,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "parametric_search", "two_pointer"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.9706000089645386

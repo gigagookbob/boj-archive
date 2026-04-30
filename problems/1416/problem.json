@@ -31,10 +31,7 @@
   "hint": "<p>예제 1: 1111, 1122, 1212, 1221, 2112, 2121, 2211, 2222</p>",
   "source": "baekjoon, chogahui05, restart",
   "level": 17,
-  "tags": [
-    "dp",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["dp", "inclusion_and_exclusion"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.2651000022888184

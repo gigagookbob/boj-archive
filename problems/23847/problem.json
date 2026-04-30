@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2021, kimyh9797",
   "level": 14,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["graphs", "ad_hoc", "case_work"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 2.0606000423431396

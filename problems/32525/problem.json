@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 10., wapas, chogahui05, lky7674, snrnsidy, utilforever",
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "geometry", "constructive"],
   "accepted_user_count": 187,
   "submission_count": null,
   "average_tries": 2.6791000366210938

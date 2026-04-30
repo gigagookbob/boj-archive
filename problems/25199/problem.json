@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 곰곰컵, 제1회 곰곰컵, pjshwa, r4pidstart, chogahui05, pichulia, pjshwa, tony9402",
   "level": 17,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2021 고려대학교 프로그래밍 경시대회 (KCPC), Div. 2, ryute, WeissBlume, cs71107, gs18115, jhnah917, kyo20111, Lawali",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 598,
   "submission_count": null,
   "average_tries": 1.7759000062942505

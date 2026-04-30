@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2004 Pacific Northwest Region Programming Contest, seok9311",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal"],
   "accepted_user_count": 1346,
   "submission_count": null,
   "average_tries": 3.310499906539917

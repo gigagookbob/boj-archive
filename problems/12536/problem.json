@@ -15,11 +15,7 @@
   "hint": "<p>Here is one possible scenario with <strong>D</strong> = 6 for test case #1. Start at position 13 and time 2 to get message 0. Then walk to the right to position 14, arriving at time 3 to get message 1. Then walk left to position 6, arriving at time 11 to get message 2.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Code Jam Africa and Arabia 2011, Online Competition",
   "level": 13,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.4583001136779785

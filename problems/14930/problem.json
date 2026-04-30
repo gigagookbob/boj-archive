@@ -15,10 +15,7 @@
   "hint": "<p>2/7초 후 빨간 구슬이 2번 구슬과 충돌한 뒤 2초 후 4번 구슬과 충돌하고 5/2초 후 다시 2번 구슬과 충돌해 3초 후에는 12의 위치에 있게 된다.</p>\n<p>완전탄성충돌이란 운동량과 운동에너지 모두 보존되는 충돌을 의미한다.</p>",
   "source": "School, 대구과학고등학교, 2017 대곽 Codejam 정보경시대회, tlwpdus, doju",
   "level": 0,
-  "tags": [
-    "sorting",
-    "physics"
-  ],
+  "tags": ["sorting", "physics"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 1.5462000370025635

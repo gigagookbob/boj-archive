@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2023 1차대회, 중등부, leejseo",
   "level": 13,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 474,
   "submission_count": null,
   "average_tries": 3.343899965286255

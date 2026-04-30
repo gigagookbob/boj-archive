@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2016, Novice",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "arithmetic", "pythagoras"],
   "accepted_user_count": 320,
   "submission_count": null,
   "average_tries": 1.2405999898910522

@@ -19,13 +19,7 @@
   "hint": "<p><strong>사전 순의 정의</strong></p>\n<p>길이가 $N$인 순열 $X_1, X_2, \\dots , X_N$이 길이가 $N$인 순열 $Y_1, Y_2, \\dots , Y_N$보다 사전 순으로 앞선다는 것은 아래 조건과 동치이다.</p>\n<ul>\n<li>$X_i ≠ Y_i$가 성립하는 가장 작은 $i$ ($1 ≤ i ≤ N$)에 대해 $X_i &lt; Y_i$이다.</li>\n</ul>",
   "source": ", Olympiad, 한국정보올림피아드, KOI 2022 2차대회, 고등부, koosaga, onjo0127",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "priority_queue",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "greedy", "set", "priority_queue", "tree_set"],
   "accepted_user_count": 277,
   "submission_count": null,
   "average_tries": 2.9386000633239746

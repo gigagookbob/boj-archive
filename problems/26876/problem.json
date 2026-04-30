@@ -23,11 +23,7 @@
   "hint": "<p>In the first example test, Nikolay can adjust the time by pressing button A three times.</p>\n<p>In the second example test, Nikolay should press button A and button B $12$ times each.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 6,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "arithmetic"],
   "accepted_user_count": 200,
   "submission_count": null,
   "average_tries": 1.5049999952316284

@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2022, Camp, Petrozavodsk Programming Camp, Summer 2022, Day 1: Welcome Contest",
   "level": 22,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc", "case_work"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.583299994468689

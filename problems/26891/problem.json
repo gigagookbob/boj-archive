@@ -23,11 +23,7 @@
   "hint": "<p>Se Figure 1 för en förklaring av indataexemplet. De svarta pilarna illustrerar det nödvändiga avståndet $1$ mellan deltagarna och väggarna.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 200px; height: 101px;\"/></p>\n<p style=\"text-align: center;\">En illustration av en optimal lösning för Sample Input 1.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, Final",
   "level": 5,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.4042999744415283

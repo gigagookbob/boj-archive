@@ -23,9 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 9,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 14203,
   "submission_count": null,
   "average_tries": 1.2620999813079834

@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2012, baekjoon",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "sorting"
-  ],
+  "tags": ["math", "dp", "sorting"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 2.4890999794006348

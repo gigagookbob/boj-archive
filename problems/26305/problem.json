@@ -15,14 +15,7 @@
   "hint": "<p>This problem is not the easiest problem in this contest.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2022",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "dag",
-    "dp",
-    "graphs",
-    "scc",
-    "topological_sorting"
-  ],
+  "tags": ["ad_hoc", "dag", "dp", "graphs", "scc", "topological_sorting"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.4286000728607178

@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["math", "dp", "game_theory"],
   "accepted_user_count": 503,
   "submission_count": null,
   "average_tries": 1.801200032234192

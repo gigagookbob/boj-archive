@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 4: Moscow SU Tapirs Contest 2",
   "level": 21,
-  "tags": [
-    "kmp",
-    "string"
-  ],
+  "tags": ["kmp", "string"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 12

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2011 ACM South Pacific Programming Contest",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean",
-    "extended_euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean", "extended_euclidean"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 3.309499979019165

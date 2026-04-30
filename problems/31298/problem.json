@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 1: Grand Prix of SPb",
   "level": 19,
-  "tags": [
-    "greedy",
-    "trees"
-  ],
+  "tags": ["greedy", "trees"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.5

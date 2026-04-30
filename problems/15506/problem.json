@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제1회 소프트콘, onjo0127",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "segtree", "priority_queue"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 4.44189977645874

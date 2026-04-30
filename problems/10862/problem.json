@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the second example:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:205px; width:294px\"/></p>\n<p>If we denote the restaurants from the determined layout with A, B, C and D, then we can see in the image that the restaurant layout corresponds to the gathered data because it holds:</p>\n<ul>\n<li>Restaurant A is closest to friend 1 and delivery time is 3.</li>\n<li>Restaurant B is closest to friend 2 and delivery time is 2.</li>\n<li>Restaurant C is closest to friend 3 and delivery time is 3.</li>\n<li>Restaurant D is closest to friend 4 and delivery time is 3.</li>\n</ul>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2015, Final Exam #2",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 6.3846001625061035

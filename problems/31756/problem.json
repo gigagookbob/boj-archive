@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Championship, The 2024 ICPC Latin America Championship",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory",
-    "knapsack",
-    "bitset"
-  ],
+  "tags": ["math", "number_theory", "knapsack", "bitset"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 3.040800094604492

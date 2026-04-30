@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "sweeping"
-  ],
+  "tags": ["ad_hoc", "sweeping"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.0556000471115112

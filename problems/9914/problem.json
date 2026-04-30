@@ -23,10 +23,7 @@
   "hint": "<p>Example 1.  Drive for two hours south at 30 miles per hour, then for four hours west at 40 miles per hour, then for three hours north at 20 miles per hour, then for six hours east at 60 miles per hour, then for five hours north at 30 miles per hour, and then for six hours south at 60 miles per hour.</p>\n<p>When following these instructions, the driver will be passing through where she started from after taking two breaks.</p>\n<p>Example 2.  Drive for one hour south at 30 miles per hour, then for two hours west at 40 miles per hour, then for one hour north at 30 miles per hour, then for one hour east at 79 miles per hour, and then for five hours north at 30 miles per hour.</p>\n<p>When following these instructions, the driver will neither pass through nor be back where she started from.</p>\n<p>Example 3.  Drive for four hours west at 60 miles per hour, then drive for eight hours north at 80 miles per hour, then drive for four hours east at 60 miles per hour, then drive for eight hours south at 100 miles per hour, then drive for ten hours east at 20 miles per hour.</p>\n<p>When following these instructions, the driver will pass through where she started from after taking 4 breaks.</p>",
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2001",
   "level": 9,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.8125

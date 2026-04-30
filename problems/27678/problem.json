@@ -15,12 +15,7 @@
   "hint": "<p>In the first example, it does not matter whether Cyril (child 3) will play with Adam or with Betka. Either way, one of the teams will have strength 1 and the other 0, so the sum of strengths is 1 and their difference is 1. In the second example, letting Cyril play with Adam increases the sum of strengths, but letting him play with Betka keeps the teams more balanced.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2015",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "graph_traversal", "flow", "mfmc"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

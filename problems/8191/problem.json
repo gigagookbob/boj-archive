@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:81px; width:113px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 2",
   "level": 21,
-  "tags": [
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["prefix_sum", "two_pointer"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 2.4872000217437744

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2024",
   "level": 19,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "permutation_cycle_decomposition"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.6922999620437622

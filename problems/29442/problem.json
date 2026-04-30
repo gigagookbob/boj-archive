@@ -15,10 +15,7 @@
   "hint": "<p>In the sample above, it is not possible for all boys to play football in the same time, but if we arrange the rows as follows: <code>BGG</code>, <code>BB</code>, <code>GG</code>, <code>GBG</code>, then three of four boys will play football.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, February 25, 2012",
   "level": 14,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

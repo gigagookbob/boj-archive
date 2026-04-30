@@ -23,11 +23,7 @@
   "hint": "<p>예제 데이터 3은 Small에서는 나오지 않는다.</p>\n<p>공기의 저항은 없음을 가정했기 때문에 수평 방향으로의 속도는 벽에 부딪히는 순간을 제외하고는 일정하다. 바닥과 벽이 동시에 부딪히는 경우는 없다!</p>",
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 2, spectaclehong, pkcchoi3, portableangel",
   "level": 8,
-  "tags": [
-    "implementation",
-    "arbitrary_precision",
-    "physics"
-  ],
+  "tags": ["implementation", "arbitrary_precision", "physics"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 2.944200038909912

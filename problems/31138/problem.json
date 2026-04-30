@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 6: Grand Prix of EDG",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "dijkstra"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

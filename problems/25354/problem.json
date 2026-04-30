@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 3, jhwest2, aeren, topology",
   "level": 30,
-  "tags": [
-    "graphs",
-    "trees",
-    "constructive",
-    "recursion"
-  ],
+  "tags": ["graphs", "trees", "constructive", "recursion"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

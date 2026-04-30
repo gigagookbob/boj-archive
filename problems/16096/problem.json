@@ -15,10 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 266px; height: 120px;\"/></p>\n<p style=\"text-align: center;\">Figure 2: Illustration of the second input from the Sample Input: a seed with period two, and the configuration to which it leads</p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, Télécom ParisTech Internal Selection, Concours interne de programmation Télécom ParisTech 2017",
   "level": 10,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

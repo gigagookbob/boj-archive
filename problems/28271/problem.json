@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2023, functionx, dohoon, hjroh0315, kiwiyou, sorohue, utilforever",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 8

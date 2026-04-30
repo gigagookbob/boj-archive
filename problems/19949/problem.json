@@ -15,10 +15,7 @@
   "hint": "<p>영재는 1번과 2번의 답을 1로 찍었으면 3번의 답은 1로 찍지 않는다.</p>",
   "source": "University, 인하대학교, 2020 IGRUS Newbie Programming Contest, panda959595, chobe1, gsts007, gunwookim, rhs0266, saemy90, tyoungs, zxcvber",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 1396,
   "submission_count": null,
   "average_tries": 1.2764999866485596

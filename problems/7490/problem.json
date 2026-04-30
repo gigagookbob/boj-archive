@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC Semi-Final 2010, wwiiiii",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["implementation", "string", "bruteforcing", "backtracking"],
   "accepted_user_count": 5340,
   "submission_count": null,
   "average_tries": 2.0100998878479004

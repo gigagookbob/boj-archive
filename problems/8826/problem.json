@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, SpringSpot 2010",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string",
-    "simulation"
-  ],
+  "tags": ["implementation", "string", "simulation"],
   "accepted_user_count": 305,
   "submission_count": null,
   "average_tries": 1.173799991607666

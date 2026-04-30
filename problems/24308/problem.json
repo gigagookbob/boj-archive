@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2018, Group D",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "math",
-    "number_theory",
-    "string"
-  ],
+  "tags": ["bruteforcing", "implementation", "math", "number_theory", "string"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.482800006866455

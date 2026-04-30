@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2016",
   "level": 20,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring", "euler_phi"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

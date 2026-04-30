@@ -19,9 +19,7 @@
   "hint": "<p>In the sample 1, by distributing the shipments in this order: mine 1, mine 1, mine 2, mine 2, mine 1, mine 2, the shipments will result in 1, 2, 1, 2, 3 and 3 units of coal produced in that order, for a total of 12 units. There are other ways to achieve this largest amount. </p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2007, Day 2",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 1.8235000371932983

@@ -15,10 +15,7 @@
   "hint": "<p>If Bessie could go where Farmer Bob's cow is, a square of area 8 would be formed. However, cows cannot share a grid-point, so she must go in row 3, column 3 to complete the top-left square of area 4.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO November 2006 Contest, Silver",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.872299909591675

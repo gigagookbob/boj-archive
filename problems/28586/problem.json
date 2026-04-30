@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, November 07, 2021, Basic",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "ad_hoc"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.399999976158142

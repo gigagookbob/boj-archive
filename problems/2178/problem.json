@@ -27,12 +27,7 @@
   "hint": null,
   "source": "djm03178, jh05013, poia0304, sait2000",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 78941,
   "submission_count": null,
   "average_tries": 2.158099889755249

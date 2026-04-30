@@ -35,11 +35,7 @@
   "hint": "<p>예제 1의 경우 1과 2를 직렬 연결한 것을 2와 병렬 연결 하면 된다.</p>",
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "backtracking"
-  ],
+  "tags": ["math", "dp", "backtracking"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5.25

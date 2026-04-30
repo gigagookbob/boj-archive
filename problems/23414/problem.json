@@ -23,11 +23,7 @@
   "hint": "<p>In the first test, one of the possible pair removal sequences is the following:</p>\n<ul>\n<li><code>ab<u>cb</u>cxdda</code></li>\n<li><code>abcx<u>dd</u>a</code></li>\n<li><code>a<u>bc</u>xa</code></li>\n<li><code>axa</code></li>\n</ul>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 3: Grand Prix of SPb",
   "level": 10,
-  "tags": [
-    "greedy",
-    "string",
-    "parity"
-  ],
+  "tags": ["greedy", "string", "parity"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.65910005569458

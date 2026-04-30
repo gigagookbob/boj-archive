@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2021 POSTECH Programming Contest, hyperbolic, gravekper, hitonanode, hojoon0205, shiftpsh",
   "level": 22,
-  "tags": [
-    "flow",
-    "graphs"
-  ],
+  "tags": ["flow", "graphs"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 4.6875

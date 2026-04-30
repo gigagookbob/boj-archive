@@ -19,13 +19,7 @@
   "hint": "<p>언어별로 표준 출력 버퍼를 flush하는 방법은 다음과 같다.</p>\n<ul>\n<li>C: fflush(stdout)</li>\n<li>C++: std::cout « std::flush</li>\n<li>Java: System.out.flush()</li>\n<li>Python: sys.stdout.flush()</li>\n<li>Kotlin: System.out.flush()</li>\n</ul>",
   "source": "Contest, BOJ User Contest, 피갤컵, 제1회 피갤컵, pyb1031, amel, dabbler1, hamuim, ibm2006, kdh9949, lky7674, nick832, plast, skeep194",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "constructive",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "constructive", "bfs"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 3.5283000469207764

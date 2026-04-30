@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2011 Pacific Northwest Region Programming Contest, baekjoon",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "precomputation"
-  ],
+  "tags": ["math", "dp", "combinatorics", "precomputation"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.1666998863220215

@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>Among all binary numbers containing exactly 3 \"1\" bits, FJ wants to output the 7th in increasing sorted order.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO February 2012 Contest, Silver",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.612499952316284

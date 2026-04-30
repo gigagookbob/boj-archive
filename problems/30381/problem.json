@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2017",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "set",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "set", "priority_queue"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.899999976158142

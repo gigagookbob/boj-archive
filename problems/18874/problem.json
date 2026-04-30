@@ -15,10 +15,7 @@
   "hint": "<p>The fourth line of output describes the number of inversions when FJ's hairs are decreased to length 3. Then $A=[3,2,3,3,0]$ has five inversions: $A_1&gt;A_2,\\,A_1&gt;A_5,\\,A_2&gt;A_5,\\,A_3&gt;A_5,$ and $A_4&gt;A_5$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 US Open Contest, Gold",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 168,
   "submission_count": null,
   "average_tries": 1.482100009918213

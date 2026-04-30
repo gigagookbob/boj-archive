@@ -15,12 +15,7 @@
   "hint": null,
   "source": "kiwiyou, puppy, utilforever, wapas",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set",
-    "smaller_to_larger"
-  ],
+  "tags": ["data_structures", "set", "tree_set", "smaller_to_larger"],
   "accepted_user_count": 562,
   "submission_count": null,
   "average_tries": 2.2348999977111816

@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2016 Preliminaries, Riddler, alex9801, khj94811, dlwodnsdl",
   "level": 17,
-  "tags": [
-    "implementation",
-    "geometry",
-    "randomization"
-  ],
+  "tags": ["implementation", "geometry", "randomization"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 2.9962000846862793

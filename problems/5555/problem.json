@@ -23,10 +23,7 @@
   "hint": "<p>&lt;예제 입력&nbsp;2&gt;의 반지에는 &quot;XYZ&quot;라는 문자열이 하나 포함되어있다. 이것은 반지의 문자열의 시작과 끝이 연결되어 있기 때문이다.</p>\r\n\r\n<p>&lt;예제 입력 3&gt;의 첫&nbsp;번째 반지는 &quot;PQR&quot;이라는 단어가 2 개 포함되어 있으며, 두 번째 반지는 &quot;PQR&quot;라는 문자열이 1 개 포함되어 있으며,&nbsp;세 번째 반지에는 &quot;PQR&quot;라는 문자열이 포함되어 있지 않다. 따라서 &quot;PQR&quot;라는 문자열이 포함되어있는 반지의 수는 2 개가 된다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2010/2011 예선, baekjoon, minjunkweon, apjw6112, mystika",
   "level": 6,
-  "tags": [
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["string", "bruteforcing"],
   "accepted_user_count": 3891,
   "submission_count": null,
   "average_tries": 1.5556000471115112

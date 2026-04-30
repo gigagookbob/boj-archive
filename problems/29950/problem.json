@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2018-19, First Selection Competition",
   "level": 6,
-  "tags": [
-    "math",
-    "arithmetic",
-    "prefix_sum"
-  ],
+  "tags": ["math", "arithmetic", "prefix_sum"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2

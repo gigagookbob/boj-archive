@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере в нулевой момент времени танцоры располагаются так: $1 2 3 4$. Но так как выступление должно продлиться хотя бы одну минуту, $k = 0$ не подходит. Далее происходят следующие перемещения:</p>\n<ul>\n<li>$2\\, 3\\, 4\\, 1$ после первой минуты</li>\n<li>$3\\, 4\\, 1\\, 2$ после второй минуты</li>\n<li>$4\\, 1\\, 2\\, 3$ после третьй минуты</li>\n<li>$1\\, 2\\, 3\\, 4$ после четвертой минуты</li>\n</ul>\n<p>Как видно, после четвертой минуты танцоры заняли требуемое положение, а значит, подходит $ k = 4$, и ответ --- &lt;&lt;<code>Yes</code>&gt;&gt;.</p>\n<p>Во втором примере танцоры всегда остаются на своем месте, следственно, они никогда не займут требуемое положение, и ответ --- &lt;&lt;<code>No</code>&gt;&gt;.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2018-19",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "permutation_cycle_decomposition",
-    "crt"
-  ],
+  "tags": ["math", "number_theory", "permutation_cycle_decomposition", "crt"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

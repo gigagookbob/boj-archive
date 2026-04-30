@@ -27,10 +27,7 @@
   "hint": "<p>예제 1의 경우에 B=3을 고르면, C = [0, 1, 2, 3, 0, 1]이 된다. 이때, i &lt; j이면서 C<sub>i</sub> &lt; C<sub>j</sub>인 쌍의 개수는 8개이다.</p>",
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "greedy",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bitmask"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.433300018310547

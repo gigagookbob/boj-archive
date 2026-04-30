@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 1997, Contest, CTU FEE Local Contest, CTU FEE 2003",
   "level": 7,
-  "tags": [
-    "math",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.140000104904175

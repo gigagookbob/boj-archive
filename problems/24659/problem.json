@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 1: Kyoto U Contest 2, Contest, Open Cup, 2021/2022 Season, Stage 10: Grand Prix of Kyoto",
   "level": 18,
-  "tags": [
-    "dp",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["dp", "permutation_cycle_decomposition"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.25

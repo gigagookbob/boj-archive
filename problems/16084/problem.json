@@ -15,10 +15,7 @@
   "hint": "<p>Хоёртын тоог N оронтой болгохын тулд 0-ээр эхл лнэ. Жишээ нь 3 оронтой б х үү ү хоёртын тоог жагсаан бичвэл 000, 001, 010, 011, 100, 101, 110, 111 болох ба эдгээрийг б гдэнг нь ү агуулах хамгийн богино, цагаан толгойн дарааллаар хамгийн эхэнд байрлах г ү 0001011100 байна.</p>",
   "source": "ICPC, Regionals, Asia East Continent, Mongolia, Mongolia National Programming Contest, Mongolia National Programming Contest 2018",
   "level": 18,
-  "tags": [
-    "string",
-    "backtracking"
-  ],
+  "tags": ["string", "backtracking"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

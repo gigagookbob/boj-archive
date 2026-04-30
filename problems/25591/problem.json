@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2022 중앙대학교 프로그래밍 경진대회 (CPC), Division 2, BothEarRim, hibye1217, njw1204, smmaker118, tony9402",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 2334,
   "submission_count": null,
   "average_tries": 1.2335000038146973

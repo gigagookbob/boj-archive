@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2023 성균관대학교 프로그래밍 경진대회, faang12594, hibye1217, mjhmjh1104",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "divide_and_conquer",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "constructive", "divide_and_conquer", "sorting"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.75

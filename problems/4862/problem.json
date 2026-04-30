@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2005 Rocky Mountain Regional Contest, baekjoon",
   "level": 20,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring", "euler_phi"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 3.2395999431610107

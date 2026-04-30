@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2000, CCC 2000 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2000, CCC 2000 Senior Division",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.3276000022888184

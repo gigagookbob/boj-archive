@@ -15,12 +15,7 @@
   "hint": "<p>Искомые варианты:</p>\n<ul>\n<li><code>mark(1, 1); mark(1, 2)</code></li>\n<li><code>mark(1, 1); mark(2, 2)</code></li>\n<li><code>mark(1, 2); mark(1, 1)</code></li>\n<li><code>mark(1, 2); mark(1, 2)</code></li>\n<li><code>mark(1, 2); mark(2, 2)</code></li>\n<li><code>mark(2, 2); mark(1, 1)</code></li>\n<li><code>mark(2, 2); mark(1, 2)</code></li>\n</ul>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2012",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

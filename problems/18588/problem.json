@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 1: Songyang Chen Contest 2",
   "level": 27,
-  "tags": [
-    "matroid"
-  ],
+  "tags": ["matroid"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 3.0952000617980957

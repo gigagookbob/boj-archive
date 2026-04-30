@@ -19,10 +19,7 @@
   "hint": "<p>같은 방이라도 핫스팟 WiFi가 켜져 있으면, 공용 WiFi 전파를 방해하는 것에 유의하여라.</p>",
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2021, shpark061104, artichoke42, cgiosy, jhnah917",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 257,
   "submission_count": null,
   "average_tries": 1.5291999578475952

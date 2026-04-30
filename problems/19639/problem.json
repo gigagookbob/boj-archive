@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2020 ICPC Sinchon Summer Algorithm Camp Contest, 중급, semteo04, gumgood, pichulia, rhs0266, shiftpsh",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 265,
   "submission_count": null,
   "average_tries": 3.8905999660491943

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Orange Cup, Orange Cup, azberjibiou, 79brue, koosaga, leinad2, tlsdydaud1",
   "level": 20,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "greedy", "number_theory", "constructive"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.5088000297546387

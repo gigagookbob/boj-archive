@@ -15,11 +15,7 @@
   "hint": "<p>페르마의 마지막 정리는 1995년에 앤드루 와일스에 의해 증명되었다.</p>\r\n",
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1995 Mid-Central Regional Programming Contest, baekjoon, doju, mwy3055, runnie0427",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 2703,
   "submission_count": null,
   "average_tries": 2.5387001037597656

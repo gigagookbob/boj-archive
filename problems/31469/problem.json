@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제3회 초콜릿컵, bubbler, ingyu1008, mingyu331, quickn, solvedac, sorohue, tlsdydaud1, utilforever, vkdldjvkdnj",
   "level": 24,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "lgv"
-  ],
+  "tags": ["math", "linear_algebra", "lgv"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.3125

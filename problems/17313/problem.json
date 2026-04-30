@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2013",
   "level": 24,
-  "tags": [
-    "linear_algebra",
-    "math",
-    "randomization"
-  ],
+  "tags": ["linear_algebra", "math", "randomization"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.454500198364258

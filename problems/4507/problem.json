@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2011 South Central USA  Regional Programming Contest, baekjoon",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.3333001136779785

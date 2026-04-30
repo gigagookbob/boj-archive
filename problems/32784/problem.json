@@ -31,11 +31,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 7회 코딩 테스트, chogahui05, aig0016, utilforever",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["math", "implementation", "prefix_sum"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3.5

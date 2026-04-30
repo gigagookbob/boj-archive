@@ -15,11 +15,7 @@
   "hint": "<p>Sequence of removing made by Nastya looks like this:</p>\n<p>\"<code>ababcba</code>\" $\\rightarrow$ \"<code>abab<s>c</s>ba</code>\" $\\rightarrow$ \"<code>ab<s>a</s>b<s>c</s>ba</code>\" $\\rightarrow$ \"<code>ab<s>abc</s>ba</code>\" </p>\n<p>Nastya can not continue, because it is impossible to get word \"<code>abb</code>\" from word \"<code><s>a</s>b<s>abc</s>ba</code>\".</p>\n<p>So, Nastya will remove only three letters.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis University Open, Olympiad in Informatics 2016-2017",
   "level": 14,
-  "tags": [
-    "string",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["string", "binary_search", "parametric_search"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.4138000011444092

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2016, Day 2",
   "level": 18,
-  "tags": [
-    "graphs",
-    "constructive"
-  ],
+  "tags": ["graphs", "constructive"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.266700029373169

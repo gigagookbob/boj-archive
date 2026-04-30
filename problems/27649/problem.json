@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2023 성균관대학교 프로그래밍 경진대회, faang12594, ansol4328, deuslovelt, jthis, mjhmjh1104, prarie",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 332,
   "submission_count": null,
   "average_tries": 2.1988000869750977

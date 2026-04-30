@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2012",
   "level": 16,
-  "tags": [
-    "bitmask",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["bitmask", "combinatorics", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.75

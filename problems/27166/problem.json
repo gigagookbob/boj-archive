@@ -31,12 +31,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, pichulia, chansol, cologne, shiftpsh, topology, ydk1104",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "greedy", "simulation"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.4063000679016113

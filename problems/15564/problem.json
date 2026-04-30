@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제1회 웰노운컵, moonrabbit2, rdd6584",
   "level": 22,
-  "tags": [
-    "trees",
-    "divide_and_conquer",
-    "centroid",
-    "centroid_decomposition"
-  ],
+  "tags": ["trees", "divide_and_conquer", "centroid", "centroid_decomposition"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 3.058799982070923

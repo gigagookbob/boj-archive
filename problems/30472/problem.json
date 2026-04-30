@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2023 Goricon, hamuim, exqt, hyperbolic, leo020630, utilforever",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.2065000534057617

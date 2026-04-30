@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2026. 01-02., lunarlity, utilforever",
   "level": 16,
-  "tags": [
-    "graphs",
-    "constructive",
-    "grid_graph",
-    "parity"
-  ],
+  "tags": ["graphs", "constructive", "grid_graph", "parity"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.733299970626831

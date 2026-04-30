@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 HEPC, MAVEN, dreammusic23, eric00513, jh05013",
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 12716,
   "submission_count": null,
   "average_tries": 1.6225999593734741

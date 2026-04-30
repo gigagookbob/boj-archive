@@ -27,13 +27,7 @@
   "hint": null,
   "source": "baekjoon, portableangel",
   "level": 17,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "constructive",
-    "euclidean"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "constructive", "euclidean"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 2.0469000339508057

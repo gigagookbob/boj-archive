@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2024",
   "level": 23,
-  "tags": [
-    "geometry",
-    "case_work",
-    "sweeping"
-  ],
+  "tags": ["geometry", "case_work", "sweeping"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 5.5

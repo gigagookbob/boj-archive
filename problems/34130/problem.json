@@ -15,10 +15,7 @@
   "hint": null,
   "source": "pyb1031, jh01533, ohwphil, pani",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "parity"
-  ],
+  "tags": ["game_theory", "parity"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.4166998863220215

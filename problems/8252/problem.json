@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2012",
   "level": 23,
-  "tags": [
-    "flow",
-    "hungarian",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["flow", "hungarian", "mcmf", "graphs"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 7.099999904632568

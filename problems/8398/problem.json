@@ -15,14 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Contest, Algorithmic Engagements, PA 2006",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "dfs", "tree_diameter"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

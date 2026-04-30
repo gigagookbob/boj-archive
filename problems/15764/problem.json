@@ -15,11 +15,7 @@
   "hint": "<p>In this example, Farmer John has six cows, with cow 1 being sick. He needs to milk cow 4 before cow 5 and cow 5 before cow 6. Moreover, Farmer John has to milk cow 3 first and cow 5 third.</p>\n<p>FJ has to milk cow 3 first, and since cow 4 has to come before cow 5, cow 4 must be milked second, and cow 5 third. Thus, cow 1 can be fourth at earliest in the order.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 US Open Contest, Bronze",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["implementation", "greedy", "case_work"],
   "accepted_user_count": 162,
   "submission_count": null,
   "average_tries": 3.7592999935150146

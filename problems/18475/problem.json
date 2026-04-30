@@ -15,10 +15,7 @@
   "hint": "<p>In the example test case, initially team B is at the top of the standings. First, team A is chosen twice. It is optimal to choose problems with penalties 245 and 386, in any order; then team A gets ahead of team B, with 6 problems and penalty 901. After that team B gets ahead of team A, with 7 problems and penalty 1398. Finally, team A gets ahead of team B again, with 7 problems and penalty 1359.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 5: Gennady Korotkevich Contest 4, Contest, Open Cup, 2018/2019 Season, Stage 11: Grand Prix of Gomel",
   "level": 23,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.7691999673843384

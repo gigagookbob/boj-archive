@@ -19,10 +19,7 @@
   "hint": "<p>프로그램이 제한 시간 안에 종료되지 않을 경우 예상치 못한 채점 결과를 받을 수 있다.</p>",
   "source": "University, 단국대학교, DSPC 2025 (Dankook Univ. SWAG Programming Contest), University, 경희대학교, 2025 경희대학교 shake! 예선, yyyy7089, dinojaemin, jinhan814, jthis, jwpassion1, kcits970, lighter, lunarlity, m4ushold, sadtreap, sendol, sjhi00, tony9402",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.455899953842163

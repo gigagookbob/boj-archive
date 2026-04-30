@@ -15,11 +15,7 @@
   "hint": "<p>The sample output displays one set of acceptable answers to the sample cases. Other answers are possible within the allowed precision.</p>\n<p>In sample case #1, course 1 (<code>C</code>) is a basic course that is a prerequisite for the advanced course 2 (<code>J</code>). The only way to complete the courses is to take course 1 and then course 2. This creates the string <code>CJ</code>. So the cool words <code>CJ</code>, <code>C</code>, <code>D</code>, and <code>JC</code> are present as substrings in 1, 1, 0, and 0 out of 1 possible cases, respectively.</p>\n<p>In sample case #2, the basic course 1 (<code>B</code>) is a prerequisite for the advanced course 2 (<code>A</code>), and course 3 (<code>A</code>) is another basic course. There are three possible ways of completing the courses:</p>\n<ol>\n<li>take course 1, then course 2, then course 3 (string: <code>BAA</code>)</li>\n<li>take course 1, then course 3, then course 2 (string: <code>BAA</code>)</li>\n<li>take course 3, then course 1, then course 2 (string: <code>ABA</code>)</li>\n</ol>\n<p>The cool words <code>AA</code>, <code>AAB</code>, and <code>ABA</code> are present as substrings in 2, 0, and 1 out of 3 possible cases, respectively.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 3",
   "level": 18,
-  "tags": [
-    "math",
-    "probability",
-    "randomization"
-  ],
+  "tags": ["math", "probability", "randomization"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2024, kimyh9797, aeren, dabbler1, gs22123, iccodly, leedongbin, penguin1234, sk14cj",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 2.6454999446868896

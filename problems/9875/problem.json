@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>Each team owns 4 stones.  Team A has stones at (0,0), (0,2), (2,0), and (2,2), and team B has stones at (1,1), (1,10), (-10,3), and (10,3).</p><h4>Output Details</h4><p>Team A captures their opponent's stone at (1,1).  Team B captures their opponent's stones at (0,2) and (2,2).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO January 2014 Contest, Gold, doju",
   "level": 19,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "point_in_convex_polygon"
-  ],
+  "tags": ["geometry", "convex_hull", "point_in_convex_polygon"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 3.195499897003174

@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2014/2015 Spring Training Camp",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "disjoint_set",
-    "graphs",
-    "mst"
-  ],
+  "tags": ["binary_search", "data_structures", "disjoint_set", "graphs", "mst"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.5

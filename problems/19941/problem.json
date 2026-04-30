@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2020 1차대회, 고등부, Olympiad, 한국정보올림피아드, KOI 2020 1차대회, 중등부, otter66",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 8217,
   "submission_count": null,
   "average_tries": 1.930299997329712

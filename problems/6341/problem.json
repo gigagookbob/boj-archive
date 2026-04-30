@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Mid-Central European Regional Contest, MCERC 1999",
   "level": 7,
-  "tags": [
-    "implementation",
-    "binary_search",
-    "simulation",
-    "bitmask"
-  ],
+  "tags": ["implementation", "binary_search", "simulation", "bitmask"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.105299949645996

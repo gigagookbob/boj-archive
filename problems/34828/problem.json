@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2025 연세대학교 프로그래밍 경진대회, oh040411, coconut99, leo020630, lky7674, playsworld16, pyb1031, sk091204091204, tlsdydaud1, ystaeyoon113",
   "level": 15,
-  "tags": [
-    "dp",
-    "sqrt_decomposition"
-  ],
+  "tags": ["dp", "sqrt_decomposition"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.3087999820709229

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2019 Mid-Central Regional Programming Contest",
   "level": 14,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "bruteforcing", "shortest_path", "dijkstra"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.078900098800659

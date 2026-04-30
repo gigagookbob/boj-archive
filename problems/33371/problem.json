@@ -23,12 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 150px; height: 150px;\"/></p>\n<p style=\"text-align: center;\">Third example</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 5: Moscow IPT Yolki-Palki Contest 1",
   "level": 20,
-  "tags": [
-    "math",
-    "implementation",
-    "constructive",
-    "recursion"
-  ],
+  "tags": ["math", "implementation", "constructive", "recursion"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.3333001136779785

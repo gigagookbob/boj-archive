@@ -15,11 +15,7 @@
   "hint": "<p>Note: The chess piece images above were created by Colin M.L. Burnett and are used under the auspices of the BSD license, the text of which follows the problem statement.</p>",
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2008 South Central USA  Regional Programming Contest",
   "level": 16,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5.25

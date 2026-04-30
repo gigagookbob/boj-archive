@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025, wapas, 79brue, evenharder, functionx, kipa00, kuhyaku, leo020630, ncy09, queued_q, seonah",
   "level": 11,
-  "tags": [
-    "sorting",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["sorting", "ad_hoc", "constructive"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 2.4755001068115234

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2025 January Contest, Platinum",
   "level": 23,
-  "tags": [
-    "dp",
-    "data_structures",
-    "set",
-    "slope_trick"
-  ],
+  "tags": ["dp", "data_structures", "set", "slope_trick"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

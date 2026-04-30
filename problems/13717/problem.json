@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예제에서 지우가 어떻게 뿔충이(Weedle)를 진화시켰는지 보자. 처음 진화를 위해 지우는 12개의 사탕을 사용하였지만 2개를 돌려받아 32개의 사탕이 남는다&nbsp;&nbsp;(42-12+2).&nbsp;두 번째 진화 후엔 22개가 남는다. 세 번째 진화 후엔 12개가 남고 12개로는 마지막 진화를 할 수 있으므로 총 4마리를 진화시킬 수 있다.</p>\r\n\r\n<p>마찬가지로 지우는 3마리의 캐터피(Caterpie), 4마리의 구구(Pidgey), 3마리의 꼬렛(Rattata), 총 14마리의 포켓몬을 진화시킬 수 있다.</p>\r\n\r\n<p>또한, 뿔충이(Weedle)와&nbsp;구구(Pidgey)는 같은 횟수로 진화가 가능하지만&nbsp;뿔충이(Weedle)의 도감번호가 더 작으므로 (입력 데이터에서 먼저 나오므로) 두 번째 줄에&nbsp;Weedle를 출력한다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #2, zeikar, jame0313",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 945,
   "submission_count": null,
   "average_tries": 1.4697999954223633

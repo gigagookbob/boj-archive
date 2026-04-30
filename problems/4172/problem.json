@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 3 October, 2009, baekjoon, corea",
   "level": 8,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 478,
   "submission_count": null,
   "average_tries": 2.412100076675415

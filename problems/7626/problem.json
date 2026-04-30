@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, MIT, The MIT Programming Contest, 2008-09, MIT Programming Contest Team Contest 1 2008, baekjoon",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "coordinate_compression"],
   "accepted_user_count": 836,
   "submission_count": null,
   "average_tries": 3.9103000164031982

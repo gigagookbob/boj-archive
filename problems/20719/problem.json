@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, UT Invitational Programming Contest, UT Invitational Programming Contest 2020",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "number_theory", "constructive"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2

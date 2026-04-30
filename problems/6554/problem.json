@@ -15,10 +15,7 @@
   "hint": "<p>The relationship between the sample input and output polygons is illustrated in the figure below. Solid lines indicate the polygon joining the Foreign Offices, whereas dashed lines indicate the polygon joining the meeting locations. To generate further sample input you may use your solution to Problem 6553.</p>\n<p><img alt=\"\" src=\"1.gif\" style=\"height:254px; width:391px\"/></p>",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2002",
   "level": 10,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.625

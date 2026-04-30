@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2018",
   "level": 0,
-  "tags": [
-    "implementation",
-    "simulation",
-    "string"
-  ],
+  "tags": ["implementation", "simulation", "string"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

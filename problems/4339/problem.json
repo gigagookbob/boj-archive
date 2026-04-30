@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 25 January, 2003",
   "level": 9,
-  "tags": [
-    "case_work",
-    "implementation",
-    "math",
-    "parsing",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "math", "parsing", "string"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 4.388899803161621

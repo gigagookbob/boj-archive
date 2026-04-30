@@ -15,10 +15,7 @@
   "hint": "<p>(1) / (4) / (2, 3) 으로 땅을 묶어 사보자. 상헌이는 100 * 1 + 20 * 15 + 1 * 100 = 500의 가격에 땅을 살 수 있다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO March 2008 Contest, Gold, koosaga",
   "level": 21,
-  "tags": [
-    "dp",
-    "cht"
-  ],
+  "tags": ["dp", "cht"],
   "accepted_user_count": 767,
   "submission_count": null,
   "average_tries": 3.105600118637085

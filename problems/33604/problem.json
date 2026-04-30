@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, European Championship, The 2025 ICPC European Championship",
   "level": 20,
-  "tags": [
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["geometry", "constructive"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.799999952316284

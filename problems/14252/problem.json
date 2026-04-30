@@ -23,13 +23,7 @@
   "hint": "<p>예제 1의 경우에 {43, 2195, 2199}를 추가하면 된다.</p>",
   "source": null,
   "level": 16,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "sorting",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "bruteforcing", "sorting", "number_theory", "euclidean"],
   "accepted_user_count": 331,
   "submission_count": null,
   "average_tries": 1.5860999822616577

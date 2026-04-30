@@ -15,11 +15,7 @@
   "hint": "<ul>\n<li>이 문제의 일부 테스트 케이스는 답의 범위가 $2^{31}$을 넘어갈 수 있으므로 long long 자료형을 쓰도록 하자.</li>\n</ul>",
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2024 IamCoder Qualification Test, lighton, denniskim, mjhmjh1104, sonamoo",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "tree_set", "set"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 3.952399969100952

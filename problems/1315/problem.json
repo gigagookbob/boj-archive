@@ -31,9 +31,7 @@
   "hint": null,
   "source": "baekjoon, lein",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 968,
   "submission_count": null,
   "average_tries": 3.7757999897003174

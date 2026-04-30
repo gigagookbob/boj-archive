@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 3: Moscow IPT Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "calculus",
-    "physics"
-  ],
+  "tags": ["math", "implementation", "geometry", "calculus", "physics"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5

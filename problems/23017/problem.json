@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #2, we are able to fill in 8 of the blanks. We can fill in the missing letters as follows:</p>\n<ul>\n<li>row 1, column 4: We know this is <code>A</code> from character at row 1, column 1.</li>\n<li>row 2, column 4=<code>A</code> from row 1, column 4.</li>\n<li>row 2, column 6=<code>A</code> from row 2, column 4.</li>\n<li>row 3, column 6=<code>A</code> from row 2, column 6.</li>\n<li>row 3, column 2=<code>B</code> from row 3, column 1.</li>\n<li>row 4, column 2=<code>B</code> from row 3, column 2.</li>\n<li>row 4, column 3=<code>B</code> from row 4, column 2.</li>\n<li>row 4, column 4=<code>A</code> from row 4, column 11.</li>\n</ul>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round E",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.242400050163269

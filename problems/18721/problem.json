@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 5: Ja giellonian U Contest",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "dp",
-    "greedy",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "greedy", "segtree"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 5.6666998863220215

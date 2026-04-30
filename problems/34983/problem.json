@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 대전대신고등학교, 제1회 코더즈 코딩페어, nflight11, dabbler1, dinojaemin, jihwan_0319, kckyoung2, kolorvxl, realpsdoingdamyoo, thak00, tony9402, toycartoon, utilforever, young_out",
   "level": 13,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.016700029373169

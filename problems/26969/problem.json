@@ -15,12 +15,7 @@
   "hint": "<p>Bessie can give $4$ moonies and $4$ ice cream cones to cow $1$, and $6$ moonies\nand $3$ ice cream cones to cow $3$, in order to get cows $1$ and $3$ to\naccompany her for a total popularity of $5 + 10 = 15$.\n\n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2022 December Contest, Gold",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack"],
   "accepted_user_count": 214,
   "submission_count": null,
   "average_tries": 1.9766000509262085

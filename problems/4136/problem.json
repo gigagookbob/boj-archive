@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 15 July, 2012, Contest, Waterloo's local Programming Contests, 4 October, 1998",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.5

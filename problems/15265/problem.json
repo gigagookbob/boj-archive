@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2017, Contest, Open Cup, 2017/2018 Season, Stage 8: Grand Prix of Europe, yclock",
   "level": 14,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "implementation",
-    "string",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "implementation", "string", "trees"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.3077000379562378

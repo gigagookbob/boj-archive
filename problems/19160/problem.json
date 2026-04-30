@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2019 ICPC Asia Jakarta Regional Contest",
   "level": 22,
-  "tags": [
-    "trees",
-    "hashing",
-    "tree_isomorphism"
-  ],
+  "tags": ["trees", "hashing", "tree_isomorphism"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.4063000679016113

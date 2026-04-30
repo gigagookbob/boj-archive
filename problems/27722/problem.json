@@ -15,13 +15,7 @@
   "hint": "<p>In the third case there are 3<sup>3</sup> = 27 possibilities. Out of these, in 11 some girl is thrown out. These 11 sequences are: 133, 222, 223, 232, 233, 313, 322, 323, 331, 332, and 333.</p>\n<p>For example, if the sequence of numbers were 322, the first girl sits at seat #3, the second one at #2, and then the third one tries to sit at #2, but finds both seat #2 and seat #3 occupied, and she’s thrown out.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2009",
   "level": 19,
-  "tags": [
-    "arbitrary_precision",
-    "combinatorics",
-    "dp",
-    "math",
-    "probability"
-  ],
+  "tags": ["arbitrary_precision", "combinatorics", "dp", "math", "probability"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2

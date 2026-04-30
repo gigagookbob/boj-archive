@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2015, jellypudding86, sky1357",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2016,
   "submission_count": null,
   "average_tries": 1.2812999486923218

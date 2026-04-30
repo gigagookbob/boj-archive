@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2018 KAIST 8th ACM-ICPC Mock Competition, Contest, Open Cup, 2018/2019 Season, Stage 5: Grand Prix of Korea, jaydoubluel, sebinkim",
   "level": 23,
-  "tags": [
-    "dp",
-    "trees",
-    "binary_search",
-    "dp_tree",
-    "alien"
-  ],
+  "tags": ["dp", "trees", "binary_search", "dp_tree", "alien"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 6.2596001625061035

@@ -19,10 +19,7 @@
   "hint": "<p>U prvom primjeru, nakon promjene, riječi su bliske sljedećim potezima:</p>\n<p><code><u>ab</u>c</code> → <code><u>bc</u>c</code> → <code><u>cd</u>c</code> → <code>d<u>ec</u></code> → <code>dfd</code></p>\n<p><code><u>ce</u>d</code> → <code>dfd</code></p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Croatian Olympiad in Informatics 2023",
   "level": 15,
-  "tags": [
-    "math",
-    "parity"
-  ],
+  "tags": ["math", "parity"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.5713999271392822

@@ -19,12 +19,7 @@
   "hint": "<p>Clarification of the first example: Stjepan gets the first, Gustav the second, and Ivan the third task.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #7",
   "level": 15,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "prefix_sum", "bitmask", "dp_bitfield"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.5499999523162842

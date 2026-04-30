@@ -19,10 +19,7 @@
   "hint": "<p>예제 입출력 1에서, 포인트 카드 1의 꽝 도장 3개와 포인트 카드 3의 꽝 도장 1개를 당첨 도장으로 바꾸면, 4엔으로 5-1=4장의 카드가 경품과 교환 가능하게 되어, 이것이 최소 비용이다.</p>\r\n\r\n<p>예제 입출력 2에서, 이미 4-1=3장의 카드가 경품과 교환 가능하므로 도장을 바꿀 필요가 없다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2016/2017 예선, paulsohn, index",
   "level": 4,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 958,
   "submission_count": null,
   "average_tries": 1.3705999851226807

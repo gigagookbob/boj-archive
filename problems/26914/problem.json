@@ -35,10 +35,7 @@
   "hint": "<p>Förklaring av exempelfall 1: Mårten kan åstadkomma delbarhet på ett sätt, genom att stryka ettan i talet. Kvar blir då bara talet 3, som förstås är delbart med tre.</p>\n<p>Förklaring av exempelfall 2: Mårten åstadkommer delbarhet genom att inte stryka någon siffra alls.</p>\n<p>Förklaring av exempelfall 3: det går inte att skapa ett trevligt tal oavsett vad Mårten gör.</p>\n<p>Förklaring av exempelfall 4: det går att skapa de trevliga talen 9, 192, 912 och 12, men det sistnämnda kan åstadkommas på två sätt: genom att stryka de två första siffrorna eller genom att stryka de två mittersta siffrorna.</p>\n<p>Förklaring av exempelfall 5: det går att skapa de trevliga talen 0, 3, 12, 102, 123 och 1023.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2014, Final",
   "level": 10,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

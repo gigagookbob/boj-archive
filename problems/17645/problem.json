@@ -23,12 +23,7 @@
   "hint": "<p><img alt=\"\" src=\"3.png\" style=\"width: 176px; height: 111px; float: left;\"/>The figure on the left shows the first example output. On the left is the original figure after using the scissors, on the right are the corresponding Ci when we tape those pieces back together.</p>\n<p>In the second example output, note that it is sufficient if the final shape is equivalent to the target one, they do not have to be identical.</p>\n<p>The figure below shows three stages of the third example output. First, we cut the input rectangle into two smaller rectangles, then we cut the bigger of those two rectangles into two more. State after these cuts is shown in the top left part of the figure.</p>\n<p>Continuing, we tape the two new rectangles together to form a six-sided polygon, and then we cut that polygon into three 2-by-1 rectangles and one smaller rectangle. This is shown in the bottom left part of the figure.</p>\n<p>Finally, we take the rectangle we still have from the first step and the four new rectangles and we assemble them into the desired 3-by-3 square.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 253px; height: 92px;\"/></p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2019, Day 2",
   "level": 29,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "constructive"
-  ],
+  "tags": ["math", "implementation", "geometry", "constructive"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.9412000179290771

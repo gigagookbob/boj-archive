@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2011",
   "level": 20,
-  "tags": [
-    "graphs",
-    "greedy",
-    "flow"
-  ],
+  "tags": ["graphs", "greedy", "flow"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

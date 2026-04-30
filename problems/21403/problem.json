@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2008",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "simulation",
-    "physics"
-  ],
+  "tags": ["math", "implementation", "geometry", "simulation", "physics"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

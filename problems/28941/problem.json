@@ -23,12 +23,7 @@
   "hint": "<p>В первом примере можно заменить единицы на девятки, тогда сумма изменится на $16$.</p>\n<p>Во втором примере можно заменить $85$ на $95$, и сумма увеличится на $10$.</p>\n<p>В третьем примере у числа $9999$ нельзя заменить хотя бы одну цифру так, чтобы число увеличилось, поэтому ответ $0$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 15, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 15, 2016, Advanced",
   "level": 8,
-  "tags": [
-    "greedy",
-    "implementation",
-    "math",
-    "sorting"
-  ],
+  "tags": ["greedy", "implementation", "math", "sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.4737000465393066

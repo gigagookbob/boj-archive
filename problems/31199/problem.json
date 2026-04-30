@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2023",
   "level": 17,
-  "tags": [
-    "implementation",
-    "geometry",
-    "case_work",
-    "convex_hull"
-  ],
+  "tags": ["implementation", "geometry", "case_work", "convex_hull"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.190500020980835

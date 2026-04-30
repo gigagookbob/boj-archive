@@ -15,12 +15,7 @@
   "hint": "<p>K=1인 경우 답은 6 = 2 &times; 3이다. 6은 서로 다른 두 소수의 곱 중에서 가장 작은 곱이다. 4 = 2 &times; 2 이기 때문에, 정답이 되지 않는다.</p>\r\n\r\n<p>세 번째 예제 K=10인 경우에 정답은 10 = 2 &times; 5 이다.</p>\r\n\r\n<p>마지막 예제 K=100000인 경우 정답은 100001 = 11 &times; 9091 이다.</p>\r\n",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-B Programming Contest, Thailand Central Group-B Programming Contest 2013, baekjoon, tuscanigt",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 545,
   "submission_count": null,
   "average_tries": 1.9706000089645386

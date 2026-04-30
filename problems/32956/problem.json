@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서울사이버대학교, 2024 서울사이버대학교 프로그래밍 경진대회 (SCUPC), cgiosy, cologne, junseo, kyo20111, sean9892",
   "level": 16,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "parametric_search"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 4.403800010681152

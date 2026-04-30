@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제4회 보라매컵, amel, sjimed, buttercrab, chattermin, kaorin, moonrabbit2, prarie, serin",
   "level": 9,
-  "tags": [
-    "math",
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["math", "sorting", "geometry"],
   "accepted_user_count": 144,
   "submission_count": null,
   "average_tries": 2.4028000831604004

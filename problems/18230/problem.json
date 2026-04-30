@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 송년 코드페스티벌 2019, rdd6584",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 556,
   "submission_count": null,
   "average_tries": 3.5594000816345215

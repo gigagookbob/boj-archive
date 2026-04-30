@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, the cycle consists of planets 2, 3, and 4. Therefore, the distances for planets 2, 3, and 4 are 0. There is a vacuum tube between 1 and 2, and another vacuum tube between 3 and 5. Thus, planets 1 and 5 are at a distance 1 from the cycle.</p>\n<p>In Sample Case #2, all the planets are part of the cycle. Hence, their distances are 0.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2018, Round C",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.2726999521255493

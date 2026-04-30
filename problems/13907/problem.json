@@ -15,12 +15,7 @@
   "hint": "<p>세금이 오르기 전</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:100px; width:339px\"/></p>\n<p>첫 번째 세금 인상 후</p>\n<p><img alt=\"\" src=\"2.png\" style=\"height:100px; width:325px\"/></p>\n<p>두 번째 세금 인상 후</p>\n<p><img alt=\"\" src=\"3.png\" style=\"height:100px; width:331px\"/></p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2016 Sogang Programming Contest, Champion, University, 서강대학교, Sogang Programming Contest, 2016 Sogang Programming Contest, Master, Telcontar",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 1575,
   "submission_count": null,
   "average_tries": 4.867300033569336

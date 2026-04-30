@@ -10,9 +10,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2012, Round 1A",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3200000524520874

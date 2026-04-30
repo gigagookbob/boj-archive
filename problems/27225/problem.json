@@ -15,10 +15,7 @@
   "hint": "<p>В примере Иван Петрович может посадить за 3 парты мальчика и девочку, и за четвертую парту двух мальчиков, тогда 6 учеников будут внимательно слушать урок.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2020",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 236,
   "submission_count": null,
   "average_tries": 1.4745999574661255

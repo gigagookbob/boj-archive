@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2024 반년대회, denniskim, dkim110807, ehlee0815, kdh9949, lisifu, lky7674, mjhmjh1104, puppy",
   "level": 20,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "traceback"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "traceback"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.8235000371932983

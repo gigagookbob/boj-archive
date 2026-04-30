@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 마작컵, 마작컵 2024 - 우인전 3/4 님만 오면 ㄱ, havana723, shiftpsh, gs18115, moonrabbit2",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 357,
   "submission_count": null,
   "average_tries": 2.5797998905181885

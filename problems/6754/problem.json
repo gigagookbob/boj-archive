@@ -15,12 +15,7 @@
   "hint": "<p>The first four railway cars have total weight 50 + 30 + 10 + 10 = 100, which is not greater than what the bridge can hold. When the first railway car leaves, and the next comes on, we have a total weight of 30 + 10 + 10 + 40 = 90, which is not greater than what the bridge can hold. The last four cars would cause the bridge to break, since 10 + 10 + 40 + 50 = 110 which is greater than the bridge can hold. So, only the first 5 railway cars can be taken across the bridge.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2013, CCC 2013 Senior Division",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["math", "implementation", "prefix_sum", "sliding_window"],
   "accepted_user_count": 124,
   "submission_count": null,
   "average_tries": 2.274199962615967

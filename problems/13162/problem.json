@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2016, functionx",
   "level": 22,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "geometry"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "geometry"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 4.533299922943115

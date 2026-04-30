@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, Virginia Tech High School Programming Contest, 2014 Virginia Tech High School Programming Contest",
   "level": 4,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 116,
   "submission_count": null,
   "average_tries": 1.3878999948501587

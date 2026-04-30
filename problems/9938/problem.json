@@ -15,10 +15,7 @@
   "hint": "<p>처음 6개의 술은 규칙 1에 의해서 1, 3, 5, 7, 9, 2번 서랍에 보관할 수 있다.</p>\r\n\r\n<p>7번째 술은 규칙 3을 적용할 수 있다. 1번 서랍에 들어있는 술을 2로, 2번 서랍에 들어있는 술을 3으로, 3번 서랍에 들어있는 술을 4번으로 옮길 수 있다.</p>\r\n\r\n<p>8번째 술은 8번 서랍에 넣을 수 있다.</p>\r\n\r\n<p>9번째 술은 규칙 3을 적용할 수 있다. 서랍 7에 들어있는 술을 8로, 8에 들어있는 술은 2로, 2에 들어있는 술을 1로, 1에 들어있는 술을 5로, 5에 들어있는 술을 6으로 옮길 수 있다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #5, baekjoon, ggj06281",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 968,
   "submission_count": null,
   "average_tries": 3.2695999145507812

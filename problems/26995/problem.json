@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO December 2005 Contest, Silver",
   "level": 16,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "binary_search",
-    "mitm"
-  ],
+  "tags": ["math", "ad_hoc", "binary_search", "mitm"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.9544999599456787

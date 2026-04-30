@@ -23,11 +23,7 @@
   "hint": "<p>In the first example, the minimum cost is to barricade the central three squares on each side of the bank for a total cost of 12.</p>\n<p>In the second example, since the bank is on the border, there is no way to prevent the robbers from escaping the state.</p>\n<p>In the third example, we must prevent the robbers from leaving the bank to the top, bottom, and right, or else we cannot prevent them from leaving the state. To the left, however, it is cheaper to allow passage through the ‘b’ cell, and then barricade in each of the three directions from there. The total cost is 7+ 5+ 7+ 3(1) = 22.</p>",
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2018 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, Pacific Northwest Regional, 2018 Pacific Northwest Region Programming Contest, Division 1",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.7764999866485596

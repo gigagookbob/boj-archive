@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, 제1회 구데기컵, jh05013",
   "level": 0,
-  "tags": [
-    "string",
-    "implementation"
-  ],
+  "tags": ["string", "implementation"],
   "accepted_user_count": 361,
   "submission_count": null,
   "average_tries": 2.562299966812134

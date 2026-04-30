@@ -27,11 +27,7 @@
   "hint": null,
   "source": "University, 광주과학기술원, 광주과학기술원 HOLICS 알고리즘 대회 2018, cea, jh05013, sky1357",
   "level": 20,
-  "tags": [
-    "game_theory",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["game_theory", "graphs", "graph_traversal"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.8889000415802002

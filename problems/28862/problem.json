@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере можно получить следующую матрицу:</p>\n<p><code>1 2 2 1</code></p>\n<p><code>1 2 2 1</code></p>\n<p>Во втором:</p>\n<p><code>1 2 1</code></p>\n<p><code>1 2 1</code></p>\n<p><code>1 2 1</code></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Advanced",
   "level": 10,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2999999523162842

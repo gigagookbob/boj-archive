@@ -15,11 +15,7 @@
   "hint": "<p>The fragment that attains the difference of 3 in the number of occurrences of a and b is aaaba. </p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 2",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "greedy", "prefix_sum"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 3.263200044631958

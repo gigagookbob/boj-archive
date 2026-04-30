@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제2회 소프트콘, jwvg0425",
   "level": 16,
-  "tags": [
-    "math",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["math", "constructive", "bitmask"],
   "accepted_user_count": 217,
   "submission_count": null,
   "average_tries": 2.7604000568389893

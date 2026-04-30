@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2017 Pacific Northwest Region Programming Contest, Division 2, ICPC, Regionals, North America, Southeast USA Regional, 2017 Southeast USA Regional Programming Contest, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2017 Mid-Atlantic USA Regional Contest, rickmccoy",
   "level": 10,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 1.9078999757766724

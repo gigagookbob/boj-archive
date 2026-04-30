@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #3, pl0892029",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "string",
-    "binary_search",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "binary_search", "set", "hash_set"],
   "accepted_user_count": 1631,
   "submission_count": null,
   "average_tries": 2.4138998985290527

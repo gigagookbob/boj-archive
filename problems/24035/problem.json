@@ -15,10 +15,7 @@
   "hint": "<p>Sample Case #1 is the case explained above.</p>\n<p>In Sample Case #2, all pets are of the same size, so Aroha must offer them all the same amount of treats. The minimum total is attained by offering each pet a single treat.</p>\n<p>In Sample Case #3, both pets are of different size so they need a different amount of treats each. Buying less than $2$ treats is not enough to give treats to both pets. Buying $2$ treats and making sure both pets get something would force Aroha to give both pets the same amount, despite them having different size. Using $3$ treats Aroha can give 11 to the small pet and $2$ to the big pet and thus comply with all her rules.</p>",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2021, Code Jam to I/O for Women 2021",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.2258000373840332

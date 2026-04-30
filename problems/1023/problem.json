@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, namnamseo",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 1002,
   "submission_count": null,
   "average_tries": 2.722599983215332

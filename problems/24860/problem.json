@@ -15,11 +15,7 @@
   "hint": "<p>In conclusion, we note that somatic recombination is powerful protective mechanism for various bacteria and viruses, but not only one. Other ways to prevent foreign invasion are beyond the focus of this problem.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2021",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic",
-    "combinatorics"
-  ],
+  "tags": ["math", "arithmetic", "combinatorics"],
   "accepted_user_count": 1483,
   "submission_count": null,
   "average_tries": 1.354699969291687

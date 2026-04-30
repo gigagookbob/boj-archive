@@ -15,13 +15,7 @@
   "hint": "<h4>Output Details</h4><p>The group {BESSIE, ELSIE, MATILDA} enters the barn on three separate occasions.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO December 2013 Contest, Bronze",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "sorting",
-    "string",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "sorting", "string", "set"],
   "accepted_user_count": 601,
   "submission_count": null,
   "average_tries": 1.5058000087738037

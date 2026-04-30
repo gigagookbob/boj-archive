@@ -15,12 +15,7 @@
   "hint": "<p>예제 출력의 점수를 얻을 수 있는 문자열의 예시는 각각 <span data-darkreader-inline-color=\"\" style=\"color: rgb(231, 76, 60); --darkreader-inline-color:#e95849;\"><code>abc</code></span>, <span data-darkreader-inline-color=\"\" style=\"color: rgb(231, 76, 60); --darkreader-inline-color:#e95849;\"><code>111</code></span>, <span data-darkreader-inline-color=\"\" style=\"color: rgb(231, 76, 60); --darkreader-inline-color:#e95849;\"><code>abcd</code></span>, <span data-darkreader-inline-color=\"\" style=\"color: rgb(231, 76, 60); --darkreader-inline-color:#e95849;\"><code>ab123</code></span>, <span data-darkreader-inline-color=\"\" style=\"color: rgb(231, 76, 60); --darkreader-inline-color:#e95849;\"><code>abc</code></span>이다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2023 Winter), amel, jthis, leo020630, mjhmjh1104, pjshwa",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "trees", "trie"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.7390999794006348

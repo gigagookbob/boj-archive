@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2023 HPEC (Hanyang Programming Evaluation Contest), Beginner, University, 한양대학교, 2023 HPEC (Hanyang Programming Evaluation Contest), Intermediate, hansoyo, cologne, bsheep0304, hibye1217, jjaewon9, jrdora, myyh1234, opusdeisong",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 2.2255001068115234

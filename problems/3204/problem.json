@@ -15,13 +15,7 @@
   "hint": "<p>예제에서는 5명의 학생과 7개의 서로 아는 관계가 있다. 예제 출력과 같이 간선 방향을 설정하고 나면, 1, 2, 4번 학생은 자신이 좋아하는 학생 수와 자신을 좋아하는 학생 수가 같으며, 3번 학생은 자신이 좋아하는 학생 수가 자신을 좋아하는 학생 수보다 1 많으며, 5번 학생은 자신을 좋아하는 학생 수가 자신이 좋아하는 학생 수보다 1 많게 되어 문제의 조건을 만족한다.</p>\r\n",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2010, Group A (Seniors), kdh9949",
   "level": 19,
-  "tags": [
-    "constructive",
-    "dfs",
-    "eulerian_path",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["constructive", "dfs", "eulerian_path", "graphs", "graph_traversal"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 3.434799909591675

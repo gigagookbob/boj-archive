@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", University, UT Invitational Programming Contest, UT Invitational Programming Contest 2019",
   "level": 18,
-  "tags": [
-    "math",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

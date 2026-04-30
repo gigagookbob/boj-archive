@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2017 연습 세션",
   "level": 8,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "grid_graph"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "dfs", "grid_graph"],
   "accepted_user_count": 1221,
   "submission_count": null,
   "average_tries": 2.867300033569336

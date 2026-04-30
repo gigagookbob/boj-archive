@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2007, baekjoon",
   "level": 24,
-  "tags": [
-    "implementation",
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["implementation", "constructive", "backtracking"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 6.1666998863220215

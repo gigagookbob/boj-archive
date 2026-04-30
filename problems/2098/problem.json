@@ -15,12 +15,7 @@
   "hint": null,
   "source": "tjrwodnjs999, arat5724, coke, djm03178, sys7961, kcm1700",
   "level": 15,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "tsp"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "tsp"],
   "accepted_user_count": 12848,
   "submission_count": null,
   "average_tries": 3.419100046157837

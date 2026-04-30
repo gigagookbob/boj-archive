@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Winter Algorithm Camp Contest, 중급, lky7674, gratus907, iknoom1107, jwvg0425, tony9402",
   "level": 21,
-  "tags": [
-    "bipartite_matching",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bipartite_matching", "graphs", "graph_traversal"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.1110999584198

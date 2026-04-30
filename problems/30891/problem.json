@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2023, leedongbin, azberjibiou, leo020630, mjhmjh1104, rdd6584",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry"],
   "accepted_user_count": 354,
   "submission_count": null,
   "average_tries": 1.5055999755859375

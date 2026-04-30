@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, doju, jh05013",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 3070,
   "submission_count": null,
   "average_tries": 2.6833999156951904

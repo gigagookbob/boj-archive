@@ -15,10 +15,7 @@
   "hint": "<p>Даденият низ е подниз на пермутацията на a uamntu и пермутацията на b ornamntuet.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2014, Group D",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.2244999408721924

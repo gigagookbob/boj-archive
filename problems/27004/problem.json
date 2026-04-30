@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO US Open 2005 Contest, Silver",
   "level": 18,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

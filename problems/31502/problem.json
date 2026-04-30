@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 카툰컵, 카툰컵 Zero: ~Prologue~, jshyun912, dbgksdl00, dbrua1222, ingyu1008, kiwiyou, nflight11, utilforever, ychangseok",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "dijkstra"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 4.816699981689453

@@ -15,11 +15,7 @@
   "hint": "<p>언어 별로 표준 출력 버퍼를 <strong><code>flush</code> </strong>하는 방법은 다음과 같다.</p>\n<ul>\n<li>C: <code>fflush(stdout)</code></li>\n<li>C++: <code>std::cout &lt;&lt; std::flush</code></li>\n<li>Java: <code>System.out.flush()</code></li>\n<li>Python: <code>sys.stdout.flush()</code></li>\n<li>기타 언어의 경우 각 언어의 documentation을 참조하라.</li>\n</ul>",
   "source": "University, 경북대학교, 2021 Goricon, skeep194, pichulia, djs100201, jh05013, wbcho0504, WeissBlume",
   "level": 19,
-  "tags": [
-    "math",
-    "arithmetic",
-    "randomization"
-  ],
+  "tags": ["math", "arithmetic", "randomization"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 8.75

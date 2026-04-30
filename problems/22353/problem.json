@@ -19,10 +19,7 @@
   "hint": "<p>예제 1에서 이하가 첫 판에 승리할 확률은 50%, 한 번 패배한 후 두 번째 판에서 승리할 확률은 75%, 마지막으로 세 번째 판에서 승리할 확률은 100%이다. </p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2021 예선, evenharder, chunghan, cki86201, jh05013, koosaga, leejseo, pichulia, xiaowuc1",
   "level": 10,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 651,
   "submission_count": null,
   "average_tries": 1.3532999753952026

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2020-2021 North-Western Russia Regional Contest",
   "level": 19,
-  "tags": [
-    "eulerian_path",
-    "graphs"
-  ],
+  "tags": ["eulerian_path", "graphs"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 3.272700071334839

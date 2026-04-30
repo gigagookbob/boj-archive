@@ -19,13 +19,7 @@
   "hint": "<p>입력에서 동일한 관계가 여러 번 주어질 수 있음에 유의하자.</p>",
   "source": "University, 성균관대학교, 2022 성균관대학교 프로그래밍 경진대회, deuslovelt, 79brue, cs71107, hibye1217, jh05013, jhnah917, tony9402",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "dag", "topological_sorting"],
   "accepted_user_count": 269,
   "submission_count": null,
   "average_tries": 2.0855000019073486

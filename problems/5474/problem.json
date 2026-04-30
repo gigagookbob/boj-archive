@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2007, Day 1",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy"
-  ],
+  "tags": ["data_structures", "greedy"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 1.8200000524520874

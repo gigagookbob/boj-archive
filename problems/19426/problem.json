@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 9. Xi Lin Contest, Grand Prix of China, Contest, Open Cup, 2016/2017 Season, Stage 11: Grand Prix of China",
   "level": 22,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "prefix_sum",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "ad_hoc", "prefix_sum", "flow", "mfmc"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

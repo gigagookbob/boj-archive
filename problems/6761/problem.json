@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2013, CCO 2013",
   "level": 18,
-  "tags": [
-    "string",
-    "geometry",
-    "hashing",
-    "kmp",
-    "invariant"
-  ],
+  "tags": ["string", "geometry", "hashing", "kmp", "invariant"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.125

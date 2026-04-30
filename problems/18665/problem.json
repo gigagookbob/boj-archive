@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 9: MEX Foundation Contest, cgiosy",
   "level": 16,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "set",
-    "recursion"
-  ],
+  "tags": ["greedy", "ad_hoc", "set", "recursion"],
   "accepted_user_count": 209,
   "submission_count": null,
   "average_tries": 2.7081000804901123

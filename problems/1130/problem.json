@@ -31,13 +31,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "geometry",
-    "bfs",
-    "line_intersection"
-  ],
+  "tags": ["graphs", "graph_traversal", "geometry", "bfs", "line_intersection"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 10.263199806213379

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 경기북과학고등학교, GBS Coding Contest 2022, GBS Coding Contest 2022 Open, leo020630, heeda0528, jihookang, jthis, snowflake, utilforever",
   "level": 25,
-  "tags": [
-    "dp",
-    "binary_search",
-    "alien",
-    "monotone_queue_optimization"
-  ],
+  "tags": ["dp", "binary_search", "alien", "monotone_queue_optimization"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 6.8649001121521

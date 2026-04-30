@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2024 서울대학교 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2024 서울대학교 프로그래밍 경시대회, Division 2, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2024 서울대학교 프로그래밍 경시대회, Division 1 (Open Contest), sciencepark, eunlin, gs15120, imtore, lky7674, mhy908, onjo0127, TAMREF, whqkrkt04",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 4.407400131225586

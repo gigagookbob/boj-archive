@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14",
   "level": 11,
-  "tags": [
-    "math",
-    "implementation",
-    "trees"
-  ],
+  "tags": ["math", "implementation", "trees"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 2.505000114440918

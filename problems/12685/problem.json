@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, AMER Semifinal",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "game_theory", "sprague_grundy"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5

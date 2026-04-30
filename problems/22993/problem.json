@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 정보 알고리즘경시대회, 2021 선린 정보 알고리즘경시대회, junie, jhnah917, kyo20111",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 1040,
   "submission_count": null,
   "average_tries": 2.8731000423431396

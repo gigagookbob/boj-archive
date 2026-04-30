@@ -15,10 +15,7 @@
   "hint": "<p>In Case #1, the smoothed sequence is:<br/>\n<br/>\n0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0, 4.5<br/>\n<br/>\nThe integer sequence that gives the smallest difference is:<br/>\n<br/>\n0, 1, 1, 2, 2, 3, 3, 4, 4, 5<br/>\n<br/>\nNote that the sequence:<br/>\n<br/>\n0.5, 0.5, 1.5, 1.5, 2.5, 2.5, 3.5, 3.5, 4.5, 4.5<br/>\n<br/>\nWould give the same smoothed sequence with a maximum difference of 4, but this is not a valid answer because the original temperatures are known to have been integers.<br/>\n<br/>\nIn Case #2, all we know is that the sum of the 100 original values was -100. It's possible that all of the original values were exactly -1, in which case the difference between the largest and smallest temperatures would be 0, which is as small as differences get!<br/>\n<br/>\nIn Case #3, the original sequence could have been:<br/>\n<br/>\n-4, 8, -4, 8, -4, 8, -4</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 3",
   "level": 16,
-  "tags": [
-    "greedy",
-    "sliding_window"
-  ],
+  "tags": ["greedy", "sliding_window"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.0999999046325684

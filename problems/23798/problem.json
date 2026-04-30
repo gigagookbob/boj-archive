@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2021 SKKU 프로그래밍 대회 in 소프트의 밤, sonho00, anzanda, Coxie, cozyyg, hojoon0205, hyperbolic, sukh1222",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree",
-    "combinatorics",
-    "lazyprop"
-  ],
+  "tags": ["math", "data_structures", "segtree", "combinatorics", "lazyprop"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.8889000415802

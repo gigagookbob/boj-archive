@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 경찰대학, 2019 ChickenReallyGood 대회, hunjison, kyo20111, jh05013",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "stack"],
   "accepted_user_count": 343,
   "submission_count": null,
   "average_tries": 1.5859999656677246

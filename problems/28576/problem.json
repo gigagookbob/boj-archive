@@ -19,10 +19,7 @@
   "hint": "<p>Синим и красным цветом показаны планы двух непересекающихся лабиринтов во втором примере:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 130px; height: 168px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, November 07, 2021, Advanced",
   "level": 17,
-  "tags": [
-    "trees",
-    "constructive"
-  ],
+  "tags": ["trees", "constructive"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

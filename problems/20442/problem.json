@@ -19,10 +19,7 @@
   "hint": "<p>어떤 문자열에서 몇 개의 문자를 지워서 부분 수열을 만들 수 있다. 예를 들어, ABC의 부분 수열은 ABC, AB, BC, AC, A, B, C와 빈 문자열이다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2020, rasauq1122, bsyun0571, dlstj0923, hellogaon, rhs0266, tony9402",
   "level": 14,
-  "tags": [
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["prefix_sum", "two_pointer"],
   "accepted_user_count": 485,
   "submission_count": null,
   "average_tries": 2.7030999660491943

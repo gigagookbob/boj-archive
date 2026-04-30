@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "prime_factorization"],
   "accepted_user_count": 733,
   "submission_count": null,
   "average_tries": 3.6603000164031982

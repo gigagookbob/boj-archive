@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, Vietnam High School Programming Contest, HSPC 2014, qja0950",
   "level": 20,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring", "euler_phi"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 8.108699798583984

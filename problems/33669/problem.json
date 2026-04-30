@@ -15,10 +15,7 @@
   "hint": "<p>짬뽕 문자열의 첫 $100$글자는 <span data-darkreader-inline-color=\"\" style=\"color: rgb(231, 76, 60); --darkreader-inline-color: var(--darkreader-text-e74c3c, #e95849);\"><code>12JJAM45PPONG78JJAM101112PPONG1415JJAM1718PPONG202122JJAM2425PPONG2728JJAMPPONGJJAMPPONGJJAMPPONGJJA</code></span>이다.</p>",
   "source": "Contest, BOJ User Contest, Happy Birthday Lumi!, Happy Birthday Lumi! 2025, djeleanor2, ai4youej, eric00513, index, lighter, ohwphil, vkdldjvkdnj, wizardrabbit",
   "level": 15,
-  "tags": [
-    "binary_search",
-    "implementation"
-  ],
+  "tags": ["binary_search", "implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.857100009918213

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2014 Japan Domestic Contest",
   "level": 12,
-  "tags": [
-    "sorting",
-    "backtracking"
-  ],
+  "tags": ["sorting", "backtracking"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.099999904632568

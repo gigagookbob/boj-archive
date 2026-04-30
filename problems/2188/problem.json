@@ -15,9 +15,7 @@
   "hint": null,
   "source": "hun3555, djm03178, rubix",
   "level": 17,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 4347,
   "submission_count": null,
   "average_tries": 2.02810001373291

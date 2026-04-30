@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 6: MIPT Contest",
   "level": 23,
-  "tags": [
-    "constructive",
-    "dfs",
-    "eulerian_path",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["constructive", "dfs", "eulerian_path", "graphs", "graph_traversal"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.578900098800659

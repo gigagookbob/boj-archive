@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1994/1995, Stage 1, djs100201",
   "level": 16,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 1323,
   "submission_count": null,
   "average_tries": 1.7369999885559082

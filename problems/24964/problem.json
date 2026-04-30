@@ -23,10 +23,7 @@
   "hint": "<p>In the first sample, there are $4^3$ DNA sequences of length $3$. There are $4$ DNA sequences, “<code>ACA</code>”, “<code>ACG</code>”, “<code>ACC</code>”, and “<code>ACT</code>”, that match the pattern “<code>AC?</code>”. Thus, the probability is $4/4^3 = 0.0625$. Any real number between $0.059375$ and $0.065625$ is accepted as a correct output.</p>\n<p>As in the third sample, the probability can be a small real number. Note that “<code>0</code>” is not a correct output, as $0$ is less than 95% of the precise probability.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2021 Asia Yokohama Regional",
   "level": 24,
-  "tags": [
-    "inclusion_and_exclusion",
-    "randomization"
-  ],
+  "tags": ["inclusion_and_exclusion", "randomization"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 5.5

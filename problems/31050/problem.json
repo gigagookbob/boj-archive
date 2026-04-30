@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2018 ICPC South Central USA Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.5

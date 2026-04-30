@@ -23,10 +23,7 @@
   "hint": "<p>$\\lfloor\\frac{|X|}{2}\\rfloor$는 수열 $X$의 길이를 $2$로 나눈 몫과 같다.</p>",
   "source": "University, 연세대학교, 2025 연세대학교 프로그래밍 경진대회, oh040411, coconut99, leo020630, lky7674, playsworld16, pyb1031, sk091204091204, tlsdydaud1, ystaeyoon113",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.433300018310547

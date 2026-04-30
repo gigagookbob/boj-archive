@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ahgus89",
   "level": 23,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 4.044400215148926

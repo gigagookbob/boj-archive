@@ -23,12 +23,7 @@
   "hint": null,
   "source": "tony9402, melon940925, rhs0266",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 1044,
   "submission_count": null,
   "average_tries": 1.8889000415802002

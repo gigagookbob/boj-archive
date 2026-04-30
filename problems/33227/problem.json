@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2022",
   "level": 18,
-  "tags": [
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "two_pointer"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 5.3333001136779785

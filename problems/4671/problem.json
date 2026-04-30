@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1998 Mid-Central Regional Programming Contest",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.3636000156402588

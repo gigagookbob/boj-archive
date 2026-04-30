@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2024, Day 2",
   "level": 17,
-  "tags": [
-    "bfs",
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dp", "graphs", "graph_traversal"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8260999917984009

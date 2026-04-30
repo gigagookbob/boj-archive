@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2022, mksmk606, hellogaon, tony9402",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "flow",
-    "mfmc",
-    "graphs"
-  ],
+  "tags": ["bruteforcing", "flow", "mfmc", "graphs"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.2083001136779785

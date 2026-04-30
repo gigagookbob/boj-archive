@@ -23,9 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>From the original sequence <code>()))((()</code>, only the bolded parentheses will remain <code><strong>(</strong>))<strong>)(</strong>((<strong>)</strong></code>. That is <strong><code>()()</code></strong>, which is a valid sequence of parentheses.</p>\n<p>Clarification of the second example:</p>\n<p>From the original sequence <code>)()()()(</code>, only the bolded parentheses will remain <code>)<strong>(</strong>)<strong>()</strong>(<strong>)</strong>(</code>. That is <strong><code>(())</code></strong>, which is a valid sequence of parentheses.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #6",
   "level": 21,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.5

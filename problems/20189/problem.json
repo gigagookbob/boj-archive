@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2020 2차대회, 초등부",
   "level": 19,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "ad_hoc"],
   "accepted_user_count": 227,
   "submission_count": null,
   "average_tries": 3.647599935531616

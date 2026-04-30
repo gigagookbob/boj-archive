@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2018, 중등부, jh05013, jung2381187",
   "level": 23,
-  "tags": [
-    "dp",
-    "sorting",
-    "geometry",
-    "two_pointer",
-    "angle_sorting"
-  ],
+  "tags": ["dp", "sorting", "geometry", "two_pointer", "angle_sorting"],
   "accepted_user_count": 99,
   "submission_count": null,
   "average_tries": 5.070700168609619

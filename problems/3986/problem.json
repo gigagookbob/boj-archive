@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2012/2013, Contest #4, baekjoon, csehydrogen, wider93",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 15890,
   "submission_count": null,
   "average_tries": 1.7273999452590942

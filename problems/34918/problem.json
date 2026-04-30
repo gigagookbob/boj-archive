@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, we can perform one operation to turn <code>P</code> into <code>NP</code>.</p>\n<p>In the second test case, we can do two operations: <code>P<span style=\"color:#e74c3c;\">NP</span>N</code> $\\to$ <code>P<span style=\"color:#e74c3c;\">P</span>N</code> and then <code><span style=\"color:#e74c3c;\">P</span>PN</code> $\\to$ <code><span style=\"color:#e74c3c;\">NP</span>PN</code>.</p>\n<p>In the third test case, we can show that it is not possible to turn <code>PP</code> into <code>NP</code> using any number of operations.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Beginner Round",
   "level": 7,
-  "tags": [
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["string", "ad_hoc"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.4422999620437622

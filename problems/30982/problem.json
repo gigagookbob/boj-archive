@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 파댕이컵, 파댕이컵, ksoosung77, naeby, qvixnh22, utilforever",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 3.5385000705718994

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2017 SCCC Summer Contest, youngjeong_yu, YunGoon",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 617,
   "submission_count": null,
   "average_tries": 2.8039000034332275

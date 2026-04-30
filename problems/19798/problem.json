@@ -15,11 +15,7 @@
   "hint": "<p>Пояснение к примеру. Сначала Билли съест одну мошку, сидящую в точке 4. Другая мошка, сидящая в этой точке не сдвинется, обе мошки из точки 2 сдвинутся в точку 1. После того, как он съест вторую мошку в точке 4, обе мошки из точки 1 отпрыгнут в точку 0, где и будут сразу съедены.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2012",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "two_pointer"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.4643000364303589

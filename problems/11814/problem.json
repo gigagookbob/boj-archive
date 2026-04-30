@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example: The chameleons collide after 5 travelled meters in the middle of the stick. After that, both chameleons change their direction of movement. The chameleon moving to the right after collision is colored in 0, whereas the chameleon moving to the left after collision is colored in 1.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #4",
   "level": 20,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.6110999584197998

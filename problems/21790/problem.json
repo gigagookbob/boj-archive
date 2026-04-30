@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2020/2021 Spring Training Camp",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "greedy",
-    "math"
-  ],
+  "tags": ["ad_hoc", "greedy", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 6.73330020904541

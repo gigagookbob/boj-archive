@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 24 September, 2011",
   "level": 14,
-  "tags": [
-    "case_work",
-    "math"
-  ],
+  "tags": ["case_work", "math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 4.5

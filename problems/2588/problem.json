@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2005, 초등부",
   "level": 3,
-  "tags": [
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["arithmetic", "math"],
   "accepted_user_count": 198773,
   "submission_count": null,
   "average_tries": 2.151900053024292

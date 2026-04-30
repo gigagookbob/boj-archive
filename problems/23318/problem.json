@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum",
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "prefix_sum", "bitmask", "backtracking"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.625

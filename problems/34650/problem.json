@@ -15,11 +15,7 @@
   "hint": "<p>After printing each query, you must flush the output buffer to ensure the interactor receives your output. Failing to do so can result in an unexpected verdict. You can flush the output by using the following methods:</p>\n<ul>\n<li>In <code>C++</code>, call <code>fflush(stdout)</code> or <code>cout.flush()</code>.</li>\n<li>In <code>Java</code>, call <code>System.out.flush()</code>.</li>\n<li>In <code>Python</code>, call <code>sys.stdout.flush()</code>.</li>\n<li>In <code>Kotlin</code>, call <code>System.out.flush()</code>.</li>\n</ul>\n<p>For other languages, you should refer to the official documentation for your language.</p>",
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2025 KAIST 15th ICPC Mock Competition, University, MIT, The MIT Programming Contest, 2025-26, MIT Team Contest 2, flappybird, ai4youej, bnb2011, imeimi2000, johnny8337, koosaga, mon_de2738, qwerasdfzxcl, silverwolf, swoon",
   "level": 16,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 2.125

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2023, kimyh9797, azberjibiou, leedongbin, leo020630, mjhmjh1104, rdd6584",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 831,
   "submission_count": null,
   "average_tries": 1.4500999450683594

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2020",
   "level": 11,
-  "tags": [
-    "geometry",
-    "two_pointer"
-  ],
+  "tags": ["geometry", "two_pointer"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.384600043296814

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2010",
   "level": 15,
-  "tags": [
-    "dp",
-    "math",
-    "prefix_sum",
-    "probability"
-  ],
+  "tags": ["dp", "math", "prefix_sum", "probability"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.666700005531311

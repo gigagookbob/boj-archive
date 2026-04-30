@@ -19,11 +19,7 @@
   "hint": "<p>In the following pictures, we use blue for color $1$, red for color $2$, and yellow for color $3$. The first example looks as follows:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 83px; height: 251px;\"/></p>\n<p>The tree has a total of $6$ non-empty connected subgraphs: $3$ of size $1$, $2$ of size $2$ and $1$ of size $3$, the latter in fact being the whole tree. All such subgraphs of sizes $1$ and $3$ have a majority color. For those of size $2$ only the subgraph induced by vertices $1$ and $2$ does not have a majority color (red and yellow both appear equally often in it). Therefore, there are $6 - 1 = 5$ connected subgraphs with a majority color.</p>\n<p>The second example looks as follows, and it has $8$ connected subgraphs with a majority color:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 275px; height: 155px;\"/></p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 7: Grand Prix of Southeastern Europe, ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2021",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 4.400000095367432

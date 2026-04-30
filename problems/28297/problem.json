@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023 예선, saywoo, wapas, asdarwin03, bnb2011, egod1537, evenharder, functionx, hyperbolic, jh05013, kclee2172, man_of_learning, queued_q, silverwolf, tlsdydaud1, wider93",
   "level": 15,
-  "tags": [
-    "math",
-    "graphs",
-    "geometry",
-    "mst",
-    "pythagoras"
-  ],
+  "tags": ["math", "graphs", "geometry", "mst", "pythagoras"],
   "accepted_user_count": 282,
   "submission_count": null,
   "average_tries": 2.41129994392395

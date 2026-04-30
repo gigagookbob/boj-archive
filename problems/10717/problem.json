@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2014/2015, myungwoo, yclock",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 112,
   "submission_count": null,
   "average_tries": 2.4911000728607178

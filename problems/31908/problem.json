@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 광주과학기술원, 2024 GIST 알고리즘 마스터즈, belline0124, 99asdfg, dohoon, gs22123, heeda0528, jh01533, leo020630, lys9546, petamingks",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 502,
   "submission_count": null,
   "average_tries": 1.677299976348877

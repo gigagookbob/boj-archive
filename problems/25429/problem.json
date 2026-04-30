@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 단국대학교부속소프트웨어고등학교, 단대소프트고 2022 여름대회, lkh3happy, gggkik, jjang36524, leo020630",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "math",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "math", "tree_set", "set"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.6584999561309814

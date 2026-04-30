@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2021 아주대학교 프로그래밍 경시대회 APC, Div.1, define_chan, rhs0266, spectaclehong, wjdclgns12, yjyj1027",
   "level": 13,
-  "tags": [
-    "prefix_sum",
-    "sweeping",
-    "sliding_window",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "sweeping", "sliding_window", "difference_array"],
   "accepted_user_count": 390,
   "submission_count": null,
   "average_tries": 3.1691999435424805

@@ -15,10 +15,7 @@
   "hint": "<p>Both find and replace-by strings will be at most 80 characters long. Find strings will contain at least one character, but replace-by strings may be empty (indicated in the input file by an empty line). During the edit process the text may grow as large as 255 characters, but the final output text will be less than 80 characters long.</p>\n<p>The first test case in the sample input below corresponds to the example shown above.</p>",
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1999 Mid-Central Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.3714001178741455

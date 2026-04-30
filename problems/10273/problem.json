@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2014, portableangel, dygks232, djm03178, koosaga, oud3noida",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dag", "topological_sorting"],
   "accepted_user_count": 206,
   "submission_count": null,
   "average_tries": 4.5243000984191895

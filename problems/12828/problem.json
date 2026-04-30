@@ -15,12 +15,7 @@
   "hint": "<p>Those subsets are: ∅, {98}, {99}, {100}, {101}, {98, 99}, {100, 101}.</p>",
   "source": "Camp, Visegrad Programming Contests Preparation Camp, VPCPC 2014",
   "level": 16,
-  "tags": [
-    "dp",
-    "data_structures",
-    "sorting",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "sorting", "segtree"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.565200090408325

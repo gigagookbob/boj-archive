@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, September 21, 2013",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "string",
-    "combinatorics",
-    "z"
-  ],
+  "tags": ["math", "dp", "string", "combinatorics", "z"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

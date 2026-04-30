@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2019",
   "level": 22,
-  "tags": [
-    "implementation",
-    "sweeping"
-  ],
+  "tags": ["implementation", "sweeping"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.323499917984009

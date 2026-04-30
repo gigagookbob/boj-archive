@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2011, baekjoon, cheetose",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "case_work", "bitmask"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 2.3768999576568604

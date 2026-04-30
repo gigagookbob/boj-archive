@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2020",
   "level": 9,
-  "tags": [
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["arithmetic", "math"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.2708001136779785

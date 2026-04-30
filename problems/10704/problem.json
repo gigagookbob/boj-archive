@@ -23,11 +23,7 @@
   "hint": "<p><strong>Clarification of the first sample test:</strong> A sequence of length 4 with longest monotone subsequence of length 3 is (1, 4, 2, 3). The longest monotone sequence is (1, 2, 3).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #6",
   "level": 16,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.1754000186920166

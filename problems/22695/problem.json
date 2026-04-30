@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2007 Day 2",
   "level": 21,
-  "tags": [
-    "math",
-    "geometry",
-    "calculus",
-    "numerical_analysis"
-  ],
+  "tags": ["math", "geometry", "calculus", "numerical_analysis"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 4.736800193786621

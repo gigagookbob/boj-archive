@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 6: Um_nik mod 998 244 353 Contest",
   "level": 27,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "fft"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "fft"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

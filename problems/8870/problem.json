@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Spontaniczny Konkurs Informatyczny, SKI 2010",
   "level": 10,
-  "tags": [
-    "precomputation"
-  ],
+  "tags": ["precomputation"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.615399956703186

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 10., moonlit, bnb2011, chogahui05, heeda0528, kiwiyou, kongum, nflight11, pjshwa, snrnsidy, utilforever",
   "level": 12,
-  "tags": [
-    "trees",
-    "constructive",
-    "tree_diameter"
-  ],
+  "tags": ["trees", "constructive", "tree_diameter"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 2.2221999168395996

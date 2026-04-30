@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2022 2차대회, 중등부, Olympiad, 한국정보올림피아드, KOI 2022 2차대회, 고등부, dlalswp25, ho94949",
   "level": 20,
-  "tags": [
-    "math",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["math", "binary_search", "two_pointer"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 3.15339994430542

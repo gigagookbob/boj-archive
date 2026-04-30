@@ -15,11 +15,7 @@
   "hint": "<p>아래와 같이 5개의 널빤지가 필요하다.</p>\r\n\r\n<pre>\r\n111222..333444555.... // 길이 3인 널빤지\r\n.MMMMM..MMMM.MMMM.... // 웅덩이\r\n012345678901234567890 // 좌표</pre>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO US Open 2005 Contest, Silver, skeep194",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sorting", "sweeping"],
   "accepted_user_count": 4572,
   "submission_count": null,
   "average_tries": 2.440700054168701

@@ -19,10 +19,7 @@
   "hint": "<p>The first joyful number is $2$, which has one distinct prime factor. The fourth joyful number is $20 = 2 \\cdot 2 \\cdot 5$, which has two distinct prime factors.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2021, Day 2: UPC Contest",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.4677000045776367

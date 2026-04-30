@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2018: Family",
   "level": 7,
-  "tags": [
-    "math",
-    "data_structures",
-    "combinatorics",
-    "hash_set"
-  ],
+  "tags": ["math", "data_structures", "combinatorics", "hash_set"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.853700041770935

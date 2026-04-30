@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 5: 2021 Shanghai ICPC Camp Onsite 2 by PKU",
   "level": 17,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["math", "data_structures", "segtree"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

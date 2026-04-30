@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, the matrix is:</p>\n<pre>\n<code>3</code></pre>\n<p>So the sum of maximum values is 3. In the second test case, the matrix is:</p>\n<pre>\n<code>9 3</code>\n<code>1 6</code></pre>\n<p>So the sum of maximum values is 19. In the third test case, the matrix is:</p>\n<pre>\n<code>11 11 24</code>\n<code>13 13 26</code>\n<code>14 14 27</code></pre>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2016 University Graduates Test, Round C APAC Test 2016, Contest, Google, Kick Start, Google Kick Start 2015, Round C",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "sliding_window"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.3333001136779785

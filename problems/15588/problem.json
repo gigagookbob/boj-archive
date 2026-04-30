@@ -15,12 +15,7 @@
   "hint": "<p>If the two stamps have colors A and B, the possible paintings are AAA, AAB, ABB, BAA, BBA, and BBB.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 January Contest, Gold",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "prefix_sum",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "prefix_sum", "combinatorics"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 2.4739999771118164

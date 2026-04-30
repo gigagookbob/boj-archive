@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2021, Code Jam to I/O for Women 2021",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "greedy",
-    "string"
-  ],
+  "tags": ["ad_hoc", "greedy", "string"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.176500082015991

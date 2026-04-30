@@ -31,10 +31,7 @@
   "hint": "<p>다행히도 재우는 이번에는 수영 과목에서 Pass를 받았다.</p>\r\n",
   "source": "University, 고려대학교, MatKor Cup, 제4회 고려대학교 MatKor Cup: 2024 Winter/Spring, alex04, kidw0124, tikiliki0417, changhw, chlwnsgurb, coo001, eoaud0108, finimage, kevinlys00, leeminjae, lighter, sshs29hanul, tlsdydaud1, utilforever, w8385, yijw0930",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.469599962234497

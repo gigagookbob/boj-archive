@@ -23,10 +23,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2025 SciCom Qualification Test, johnjeong07, kdy40929, luca200799k, mingyu331",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 800,
   "submission_count": null,
   "average_tries": 1.1238000392913818

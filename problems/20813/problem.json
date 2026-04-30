@@ -23,9 +23,7 @@
   "hint": "<p>I det första exemplet trivs alla arter ihop. I första buren kan Esmeralda välja mellan 4 djurarter. För andra och tredje buren finns tre möjligheter vardera, eftersom det inte får vara samma art som i den föregående. Totalt finns $4\\cdot 3\\cdot 3=36$ möjliga placeringar.</p>\n<p>I det andra exemplet vet vi att Babian och Elefant inte får vara intill varandra. Vi vet också att Babian, Antilop, Dingo och Citronfjäril alla är fiender, och inga av dessa kan därför sättas intill varandra. Esmeralda måste sålunda sätta en elefant i varannan bur och välja fritt mellan antilop, dingo och citronfjäril i de övriga. Detta ger 9 möjligheter om hon börjar med elefant och 9 möjligheter om hon börjar med något av de andra djuren.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2020, Qualification",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1

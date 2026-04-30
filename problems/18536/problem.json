@@ -19,10 +19,7 @@
   "hint": "<p>For reference: \\(3^{12} = 531 441\\).</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 7: Oleksandr Kulkov Contest 1, Botan Investment Cup",
   "level": 24,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2856999635696411

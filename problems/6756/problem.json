@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2013, CCC 2013 Senior Division",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "greedy", "number_theory", "primality_test"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.59089994430542

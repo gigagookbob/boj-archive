@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 제주대학교, 2021 하반기 취업 알고리즘 집중특강 및 해커톤 대회, junie, cozyyg, gravekper",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "grid_graph",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "grid_graph", "0_1_bfs"],
   "accepted_user_count": 350,
   "submission_count": null,
   "average_tries": 2.777100086212158

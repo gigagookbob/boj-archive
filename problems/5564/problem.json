@@ -15,11 +15,7 @@
   "hint": "<p>この問題では，扱う整数の範囲が 32bit に収まらない可能性があることに注意せよ．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2009/2010",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5

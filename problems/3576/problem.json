@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2008",
   "level": 15,
-  "tags": [
-    "greedy",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["greedy", "constructive", "bitmask"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.085099935531616

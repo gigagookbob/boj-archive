@@ -15,13 +15,7 @@
   "hint": "<p>To attain the minimum time, the trains can depart from Upper Bytown at times 1, 9, and 11, and from Lower Bytown at times 5, 15, and 16.</p>\n<p> </p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 3",
   "level": 21,
-  "tags": [
-    "dp",
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "dp_deque"
-  ],
+  "tags": ["dp", "data_structures", "deque", "deque_trick", "dp_deque"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 3.8666999340057373

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, oopar2, pda_pro12",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 65938,
   "submission_count": null,
   "average_tries": 1.6398999691009521

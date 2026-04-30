@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2010 Pacific Northwest Region Programming Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "parsing",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "string", "parsing", "stack"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.230799913406372

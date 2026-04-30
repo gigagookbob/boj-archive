@@ -19,10 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, jbkmath48128, lms0806, tony9402",
   "level": 7,
-  "tags": [
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["sorting", "binary_search"],
   "accepted_user_count": 453,
   "submission_count": null,
   "average_tries": 2.7946999073028564

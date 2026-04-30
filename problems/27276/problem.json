@@ -15,12 +15,7 @@
   "hint": "<p>В приведенном робот выполняет в срок вторую и третью работы, а первую выполняет лишь во второй день. Поэтому ему приходится уплатить штраф величиной 2.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2013",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

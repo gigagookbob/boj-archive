@@ -35,13 +35,7 @@
   "hint": null,
   "source": "University, POSTECH, 2025 POSTECH Programming Contest, Contest, University, POSTECH, 2025 POSTECH Programming Contest, Open Contest, slah007, hyperbolic, jthis, kwoncycle, leo020630, menborong, plast",
   "level": 17,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work",
-    "sweeping",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "case_work", "sweeping", "parsing"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.3333001136779785

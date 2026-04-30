@@ -15,9 +15,7 @@
   "hint": "<p>In this example, the best solution is to let the cows enter through the door of the room that requires 7 cows.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO February 2016 Contest, Bronze",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 628,
   "submission_count": null,
   "average_tries": 1.8375999927520752

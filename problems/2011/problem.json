@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2004 East Central Regional Contest, baekjoon, sksdong1, keh0711, mystika, ploffer11, rhdtka21, stompesi, gugudan",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 10354,
   "submission_count": null,
   "average_tries": 4.720799922943115

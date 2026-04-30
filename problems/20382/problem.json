@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1994 Mid-Central Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string",
-    "bitmask",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "bitmask", "parsing"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.8889000415802

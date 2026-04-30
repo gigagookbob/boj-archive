@@ -19,10 +19,7 @@
   "hint": "<p>I det första exemplet har Sanna och Simon samma födelsedag. Eftersom Krarkl gillar Sanna mindre än Simon ($1 &lt; 2$) så kommer Krarkl bara komma ihåg Simons och Sagas födelsedagar.</p>\n<p>I det andra exemplet har Krarkl jätteotur och komma att missa hälften av sina kompisars födelsedagar.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Final",
   "level": 5,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 1.1538000106811523

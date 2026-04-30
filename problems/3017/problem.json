@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2008, otzoo",
   "level": 16,
-  "tags": [
-    "implementation",
-    "greedy",
-    "backtracking"
-  ],
+  "tags": ["implementation", "greedy", "backtracking"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 4.4375

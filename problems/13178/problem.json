@@ -19,12 +19,7 @@
   "hint": "<p>첫 번째 예제의 답은 3/2를 나타낸다.</p>",
   "source": "Contest, kriiicon, 제4회 kriiicon, august14",
   "level": 24,
-  "tags": [
-    "math",
-    "fft",
-    "generating_function",
-    "kitamasa"
-  ],
+  "tags": ["math", "fft", "generating_function", "kitamasa"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.3499999046325684

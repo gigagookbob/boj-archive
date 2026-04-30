@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 619px; height: 212px;\"/></p>\n<p style=\"text-align: center;\">Исходное расположение основания памятника в первом примере.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 619px; height: 210px;\"/></p>\n<p style=\"text-align: center;\">Оптимальное расположение основания памятника в первом примере.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2015",
   "level": 17,
-  "tags": [
-    "sweeping"
-  ],
+  "tags": ["sweeping"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

@@ -15,12 +15,7 @@
   "hint": "<p>FJ can see cows 1 and 2 but not cow 3.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO January 2015 Contest, Silver",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "sweeping",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "sorting", "sweeping", "priority_queue"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 4.20989990234375

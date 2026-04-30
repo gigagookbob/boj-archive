@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2007",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum", "pigeonhole_principle"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.4614999294281006

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 카툰컵, Cartoon Cup: ONE, yyyy7089, areian13, iktk, kaorin, kuhyaku, nflight11, ohwphil, qvixnh22, utilforever",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "stack"
-  ],
+  "tags": ["data_structures", "bruteforcing", "stack"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.4358999729156494

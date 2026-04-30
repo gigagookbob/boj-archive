@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2016",
   "level": 17,
-  "tags": [
-    "math",
-    "trees",
-    "lca",
-    "harmonic_number"
-  ],
+  "tags": ["math", "trees", "lca", "harmonic_number"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.71589994430542

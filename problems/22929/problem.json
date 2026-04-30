@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2021, Camp, Petrozavodsk Programming Camp, Summer 2021, Day 2: The American Contest",
   "level": 28,
-  "tags": [
-    "general_matching",
-    "graphs"
-  ],
+  "tags": ["general_matching", "graphs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 4.18179988861084

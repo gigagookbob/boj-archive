@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2005 South Central USA  Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "string",
-    "case_work"
-  ],
+  "tags": ["string", "case_work"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.0455000400543213

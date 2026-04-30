@@ -23,12 +23,7 @@
   "hint": "<p>In the first example, the array is $[1, 2]$, and $\\mathit{cost}(1, 2) = 1$. So, the only way to delete the array has the total cost of $1$.</p>\n<p>In the second example, one of the ways to delete the array is:</p>\n<ul>\n<li>$[1, 2, 3, 4, 5, 6] \\to [1, 2, 5, 6]$, deleting pair $(3, 4)$ with cost $6$.</li>\n<li>$[1, 2, 5, 6] \\to [1, 6]$, deleting pair $(2, 5)$ with cost $5$.</li>\n<li>And then deleting pair $(1, 6)$ with cost $3$.</li>\n</ul>\n<p>The total cost is therefore $\\max (6, 5, 3) = 6$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2021, Day 3: IQ test by kefaa2, antontrygubO_o, and gepardo, Contest, Open Cup, 2021/2022 Season, Stage 2: Grand Prix of IMO",
   "level": 21,
-  "tags": [
-    "bitset",
-    "dp",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["bitset", "dp", "implementation", "sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.3333001136779785

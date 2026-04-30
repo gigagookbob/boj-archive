@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2024 SKKU 프로그래밍 대회 in 소프트의 밤, Coxie, ansol4328, gggkik, max804, o9j8w7, playsworld16, shjohw12",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "ad_hoc"
-  ],
+  "tags": ["data_structures", "ad_hoc"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.0262999534606934

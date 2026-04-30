@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 113px; height: 139px;\"/></p>\n<p style=\"text-align: center;\">Slika prikazuje inicijalnu ploču. Igrač broj 1 će proći po prečki broj 2 pa zatim po prečki broj 5 i dobiti nagradu broj 3.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2018",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "divide_and_conquer"
-  ],
+  "tags": ["ad_hoc", "data_structures", "divide_and_conquer"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4

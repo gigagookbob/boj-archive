@@ -15,10 +15,7 @@
   "hint": "<p>The output for the first sample test case will not be considered correct if it is in the large dataset, because the number of moves is not the minimum. WNSEN would be a correct output for this test case if it were in the large dataset.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, Round 1C",
   "level": 9,
-  "tags": [
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["greedy", "constructive"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.3939000368118286

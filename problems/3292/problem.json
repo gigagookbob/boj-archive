@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2001, National Competition #2 - Seniors",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "dp"
-  ],
+  "tags": ["bruteforcing", "dp"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.263200044631958

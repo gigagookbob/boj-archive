@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2007 연습 세션, ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2012, baekjoon, pichulia",
   "level": 15,
-  "tags": [
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["sorting", "ad_hoc"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 1.9687999486923218

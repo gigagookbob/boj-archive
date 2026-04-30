@@ -15,12 +15,7 @@
   "hint": "<p>The trous de loup no. 2, 3, and 6 can be filled up with sand (using 6 out of the 7 bags available), whereas the ones no. 4 and 5 can be covered with the Great Plank. This way, five successive trous de loup (the ones no. 2 to 6) will be disarmed.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2014/2015, Stage 3",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "deque",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "deque", "prefix_sum", "two_pointer"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.9444000720977783

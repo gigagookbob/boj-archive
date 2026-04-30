@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2016 연습 세션, functionx",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "probability"
-  ],
+  "tags": ["math", "bruteforcing", "probability"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.970099925994873

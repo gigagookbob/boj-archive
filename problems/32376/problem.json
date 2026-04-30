@@ -15,12 +15,7 @@
   "hint": "<p>절대오차는 정답과 출력한 답의 차이, 상대오차는 절대오차를 정답으로 나눈 값을 의미합니다.</p>",
   "source": "University, 인천대학교, INU 코드페스티벌 2024, leedongbin, aeren, dabbler1, gs22123, iccodly, kimyh9797, penguin1234",
   "level": 12,
-  "tags": [
-    "sorting",
-    "geometry",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "geometry", "binary_search", "two_pointer"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 2.1110999584198

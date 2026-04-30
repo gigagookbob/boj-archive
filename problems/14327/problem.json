@@ -15,11 +15,7 @@
   "hint": "<p>In sample case #1, the IRR is 0, Jane just paid back all the money and no interest.<br/>\n<br/>\nSample case #2 and #3 would only appear in Large dataset.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round A APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round A",
   "level": 11,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "parametric_search"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.8276000022888184

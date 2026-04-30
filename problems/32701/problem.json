@@ -23,9 +23,7 @@
   "hint": "<p>Esimesed kaks näidet ühtivad esimese ja teise tekstis toodud näitega. Kolmas näide on laiendatud versioon tekstis toodud neljandast näitest.</p>",
   "source": "Olympiad, Estonian Informatics Olympiad, 2023-24, Open Competition",
   "level": 6,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.9523999691009521

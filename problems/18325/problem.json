@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the second example: One of the possible pouring configurations is the following:</p>\n<ol>\n<li>pour everything from glass 1 into glass 2.</li>\n<li>pour everything from glass 2 into glass 4.</li>\n<li>pour four nanoliters from glass 3 into glass 4.</li>\n<li>pour one nanoliter from glass 3 into glass 5.</li>\n</ol>\n<p>Glasses numbered 1, 2 and 3 are now empty.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #4",
   "level": 8,
-  "tags": [
-    "greedy",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["greedy", "implementation", "sorting"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.666700005531311

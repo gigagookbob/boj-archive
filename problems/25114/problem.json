@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2022 KAIST RUN Spring Contest, gs18115, cs71107, ho94949, kclee2172, onjo0127, retro3014",
   "level": 8,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["greedy", "ad_hoc", "bitmask"],
   "accepted_user_count": 213,
   "submission_count": null,
   "average_tries": 1.5540000200271606

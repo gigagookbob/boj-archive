@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제1회 한국항공대학교 프로그래밍 경진대회(KAUPC), gojib2002, bnb2011, palilo, pjshwa, shjohw12, WeissBlume",
   "level": 8,
-  "tags": [
-    "implementation",
-    "greedy",
-    "simulation"
-  ],
+  "tags": ["implementation", "greedy", "simulation"],
   "accepted_user_count": 855,
   "submission_count": null,
   "average_tries": 1.3519999980926514

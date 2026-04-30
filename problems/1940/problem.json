@@ -15,10 +15,7 @@
   "hint": null,
   "source": "roeniss, tncks0121, jshyun912, kyg0954, thak00",
   "level": 7,
-  "tags": [
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "two_pointer"],
   "accepted_user_count": 17037,
   "submission_count": null,
   "average_tries": 2.0787999629974365

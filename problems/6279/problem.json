@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:87px; width:297px\" /></p>\r\n",
   "source": "ICPC, Regionals, Asia East Continent, China, Shanghai, Shanghai Regional Contest 2011, baekjoon",
   "level": 17,
-  "tags": [
-    "math",
-    "precomputation"
-  ],
+  "tags": ["math", "precomputation"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 1.4348000288009644

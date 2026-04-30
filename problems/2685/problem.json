@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2010 Greater New York Programming Contest, baekjoon, WeissBlume",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 182,
   "submission_count": null,
   "average_tries": 1.8625999689102173

@@ -15,10 +15,7 @@
   "hint": "<p>A set of integers a<sub>1</sub> a<sub>2</sub> … a<sub>n</sub> is lexicographically smaller than other set b<sub>1</sub> b<sub>2</sub> … b<sub>n</sub> if there is a k between 1 and n so that a<sub>1</sub>=b<sub>1</sub>, a<sub>2</sub>=b<sub>2</sub>, ..., a<sub>k-1</sub> = b<sub>k-1</sub> and a<sub>k</sub> &lt; b<sub>k</sub>.</p>",
   "source": "Contest, infO(1) Cup, infO(1) Cup 2018 National Round",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["bruteforcing", "bitmask"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.230799913406372

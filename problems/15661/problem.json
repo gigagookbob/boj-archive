@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, iw0406",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "bitmask",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "bitmask", "backtracking"],
   "accepted_user_count": 5070,
   "submission_count": null,
   "average_tries": 2.233099937438965

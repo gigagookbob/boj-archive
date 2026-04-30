@@ -19,10 +19,7 @@
   "hint": "<p>В первом тесте можем сделать два &lt;&lt;мазка&gt;&gt; в клетке $(3;4)$ --- один крестик, другой нолик.</p>\n<p>Во втором тесте достаточно поставить нолик в клетке $(4;1)$ и в клетке $(5; 2)$. Разрешается кистью выходить за границы рисунка.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, September 24, 2022",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.4544999599456787

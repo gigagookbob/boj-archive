@@ -23,10 +23,7 @@
   "hint": "<p>Pojašnjenje prvog probnog primjera: Lista će nakon odmrzavanja biti ista kao i dok je bila zamrznuta, s našim trojcem na prvom mjestu!</p>\n<p>Pojašnjenje drugog probnog primjera: U najgorem će slučaju naš trojac izgubiti samo od tima <code>StoJeZivot</code> i završiti na drugom mjestu.</p>\n<p>Pojašnjenje trećeg probnog primjera: U najgorem će slučaju naš trojac izgubiti od timova <code>NisamSadaNistaDonio</code> i <code>JeLiMojKockaSeUmio</code> te završiti na trećem mjestu.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2024",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

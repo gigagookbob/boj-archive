@@ -23,13 +23,7 @@
   "hint": "<p>가능한 방법은 다음과 같다.</p>\r\n\r\n<ul>\r\n\t<li>(0,0)-(1,1), (2,2)-(2,2)</li>\r\n\t<li>(1,0)-(1,0), (0,1)-(0,1)</li>\r\n\t<li>(2,0)-(2,0), (1,1)-(1,1)</li>\r\n\t<li>(1,1)-(1,1), (0,2)-(0,2)</li>\r\n\t<li>(2,1)-(2,1), (1,2)-(1,2)</li>\r\n\t<li>(2,0)-(2,1), (0,2)-(1,2)</li>\r\n\t<li>(1,0)-(2,0), (0,1)-(0,2)</li>\r\n</ul>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #1, baekjoon",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "set",
-    "prefix_sum",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "set", "prefix_sum", "hash_set"],
   "accepted_user_count": 510,
   "submission_count": null,
   "average_tries": 2.0216000080108643

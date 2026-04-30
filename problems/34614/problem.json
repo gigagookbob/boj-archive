@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2025 ICPC Asia Pacific Championship",
   "level": 22,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "geometry",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "ad_hoc", "geometry", "number_theory", "euclidean"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.375

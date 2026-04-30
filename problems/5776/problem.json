@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2003",
   "level": 20,
-  "tags": [
-    "graphs"
-  ],
+  "tags": ["graphs"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

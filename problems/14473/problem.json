@@ -19,11 +19,7 @@
   "hint": "<p>入力例 1 においては，最初に置かれているぬいぐるみの種類は左から順に 1， 2， 2， 2， 1， 2， 1 である．並べ替えるために取り出すぬいぐるみの個数を最小にするには，左から 1 番目と 6 番目のぬいぐるみを取り出し，左から 1 番目に種類 2 のぬいぐるみを，左から 6 番目に種類 1 のぬいぐるみを配置すればよい．このとき，取り出すぬいぐるみの個数は 2 個である．</p>\n<p>※各入出力例のデータは，右クリック等によりファイルに保存して利用可能です．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2016/2017 예선",
   "level": 17,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.3380000591278076

@@ -15,10 +15,7 @@
   "hint": "<p>In test case #1, <code>tarts</code> is a shuffled anagram of <code>start</code> as none of the letters in each position of both strings match the other. Another possible solution is <code>trsta</code> (though you only need to provide one solution). However, in test case #2, there is no way of anagramming <code>jjj</code> to form a shuffled anagram, so <code>IMPOSSIBLE</code> is printed instead.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round E",
   "level": 14,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.8518999814987183

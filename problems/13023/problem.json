@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon, jason9319, forever900, jmkk27, memo, pjh1016",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "backtracking"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "backtracking"],
   "accepted_user_count": 15847,
   "submission_count": null,
   "average_tries": 3.300800085067749

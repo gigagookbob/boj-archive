@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 17 September, 2005",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "queue"],
   "accepted_user_count": 334,
   "submission_count": null,
   "average_tries": 4.218599796295166

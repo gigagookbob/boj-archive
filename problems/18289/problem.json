@@ -43,11 +43,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "dp",
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["dp", "exponentiation_by_squaring", "math"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.4768999814987183

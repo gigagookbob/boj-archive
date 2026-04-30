@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:46px; line-height:1.6em; width:192px\"/></p>\n<p>The figure presents where the frog leaps to (in a single leap) from each and every rock.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 3",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "sparse_table",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "sparse_table", "two_pointer"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.727299928665161

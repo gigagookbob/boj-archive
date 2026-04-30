@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2020 1차대회, 고등부, Olympiad, 한국정보올림피아드, KOI 2020 1차대회, 초등부",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 5120,
   "submission_count": null,
   "average_tries": 2.6257998943328857

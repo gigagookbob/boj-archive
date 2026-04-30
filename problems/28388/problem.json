@@ -23,12 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Mirko će u prve četiri minute obaviti posao s četvrtom osobom, iduće tri će obaviti posao s trećom osobom. Sada je prošlo ukupno sedam minuta, te prva i druga osoba više svoje poslove ne stignu obaviti. U idućoj minuti Mirko obavlja posao s petom osobom. Dakle tri osobe su uspjele obaviti svoje poslove.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2023, Junior Croatian Olympiad in Informatics 2023",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3.6666998863220215

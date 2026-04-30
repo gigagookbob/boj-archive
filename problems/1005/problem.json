@@ -19,12 +19,7 @@
   "hint": null,
   "source": "author1, xivnick, tncks0121, annaria, djm03178, doju, minshogi, zzaa9898, yclock, gorisanson",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "dag", "topological_sorting"],
   "accepted_user_count": 20185,
   "submission_count": null,
   "average_tries": 3.1700000762939453

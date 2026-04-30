@@ -15,12 +15,7 @@
   "hint": "<p>Тесту из условия соответствует такая пещера:</p>\n<pre>\n....###\n....###\n##.....\n##.....</pre>\n<p><code>#</code> - стенки пещеры, <code>.</code> - свободные клетки</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 24, 2018, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 24, 2018, Advanced",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "deque",
-    "deque_trick"
-  ],
+  "tags": ["data_structures", "bruteforcing", "deque", "deque_trick"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

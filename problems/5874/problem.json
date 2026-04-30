@@ -15,9 +15,7 @@
   "hint": "<p>예제에서 베시가 있을 수 있는 곳은 아래의 네가지이다.</p>\r\n\r\n<ol>\r\n\t<li>)()(())</li>\r\n\t<li>)()(())</li>\r\n\t<li>)()())(</li>\r\n\t<li>)()())(</li>\r\n</ol>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO November 2012 Contest, Bronze, thinksong1, leehosu01, ho94949",
   "level": 7,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 682,
   "submission_count": null,
   "average_tries": 1.7331000566482544

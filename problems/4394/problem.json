@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 29 January, 2000",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "simulation"
-  ],
+  "tags": ["implementation", "data_structures", "string", "simulation"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.857100009918213

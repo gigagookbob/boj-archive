@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, November 7, 2015, Advanced",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "game_theory",
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["ad_hoc", "game_theory", "math", "number_theory", "primality_test"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.5999999046325684

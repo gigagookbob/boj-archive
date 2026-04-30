@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Championship, North America Championship 2024",
   "level": 26,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2018",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "coordinate_compression"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

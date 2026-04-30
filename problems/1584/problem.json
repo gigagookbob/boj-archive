@@ -27,13 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 1191,
   "submission_count": null,
   "average_tries": 2.1679000854492188

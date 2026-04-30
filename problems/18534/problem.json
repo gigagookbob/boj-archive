@@ -15,11 +15,7 @@
   "hint": "<p>The possible rootings of the first tree are</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 489px; height: 130px;\"/></p>\n<p>Considering the rootings at 1 and 3, the 8 obtainable sets are:</p>\n<ol>\n<li>{1} by choosing u = 1, v = 1,</li>\n<li>{1, 2, 4, 5} by choosing u = 1, v = 2,</li>\n<li>{1, 2, 3, 4, 5} by choosing u = 1, v = 3,</li>\n<li>{2, 3, 4, 5} by choosing u = 2, v = 3,</li>\n<li>{2, 4, 5} by choosing u = 2, v = 2,</li>\n<li>{3} by choosing u = 3, v = 3,</li>\n<li>{4, 5} by choosing u = 2, v = 4,</li>\n<li>and {5} by choosing u = 5, v = 5.</li>\n</ol>\n<p>If the rootings are instead at 4 and 5, there are only 6 obtainable sets:</p>\n<ol>\n<li>{1} by choosing u = 1, v = 1,</li>\n<li>{1, 2, 3} by choosing u = 2, v = 4,</li>\n<li>{1, 2, 3, 4} by choosing u = 4, v = 4,</li>\n<li>{1, 2, 3, 4, 5} by choosing u = 4, v = 5,</li>\n<li>{3} by choosing u = 3, v = 2,</li>\n<li>and {5} by choosing u = 5, v = 5.</li>\n</ol>\n<p>For some of these, there are other ways to choose u and v to arrive at the same set.</p>",
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2020, Contest, Open Cup, 2019/2020 Season, Stage 13: Grand Prix of America",
   "level": 17,
-  "tags": [
-    "math",
-    "trees",
-    "lca"
-  ],
+  "tags": ["math", "trees", "lca"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.5744999647140503

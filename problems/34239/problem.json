@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 3, gunwookim, gggkik, jms020820, m4ushold, mathtw1030, tlsdydaud1",
   "level": 12,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 2.8025999069213867

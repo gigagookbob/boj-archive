@@ -23,12 +23,7 @@
   "hint": "<p>In the first example there are four stores, two types, and four queries.</p>\n<ul>\n<li>First query: Xiao-Ming lives in location 5 in year 3. In this year, stores 1 and 2 are open, distance to store 1 is 2, distance to store 2 is 4. Maximum is 4.</li>\n<li>Second query: Xiao-Ming lives in location 5 in year 6. In this year, stores 1 and 3 are open, distance to store 1 is 2, distance to store 3 is 2. Maximum is 2.</li>\n<li>Third query: Xiao-Ming lives in location 5 in year 9. In this year, stores 1 and 4 are open, they both have type 1, so there is no store of type 2, inconvenience index is −1.</li>\n<li>Same situation in fourth query.</li>\n</ul>\n<p>In the second example there are two stores, one type, and three queries. Both stores have location 1, and in all queries Xiao-Ming lives at location 1. In first two queries at least one of stores is open, so answer is 0, in third query both stores are closed, so answer is −1.</p>\n<p>In the third example there is one store and one query. Distance between locations is 99999999.</p>",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2018",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "offline_queries",
-    "priority_queue",
-    "segtree"
-  ],
+  "tags": ["data_structures", "offline_queries", "priority_queue", "segtree"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.857100009918213

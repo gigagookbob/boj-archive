@@ -23,13 +23,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2019 예선, august14",
   "level": 13,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "dfs",
-    "backtracking"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "dfs", "backtracking"],
   "accepted_user_count": 617,
   "submission_count": null,
   "average_tries": 1.6467000246047974

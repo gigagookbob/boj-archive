@@ -31,13 +31,7 @@
   "hint": "<p>Note that some of the samples are not valid input for all test groups.</p>\n<p>In the first sample, there are $N = 4$ participants and $Q = 5$ events. Anika first gets overtaken by $2$, who is now a full lap ahead of her. Then she overtakes $2$ back, followed by overtaking $1$ and then being overtaken by $3$. At this point, Anika can still be on her first lap. Finally, she overtakes $2$ again, and to do so means that she must have crossed the finish line at least once.</p>\n<p>In the second sample, there is just one participant other than Anika. Anika overtakes the other participant four times, meaning that Anika must have crossed the finish line at least three times.</p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2024, Day 1",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "greedy",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["ad_hoc", "data_structures", "greedy", "hash_set", "set"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

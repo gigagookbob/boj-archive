@@ -31,12 +31,7 @@
   "hint": null,
   "source": "baekjoon, Apple_Cplus",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "scc"
-  ],
+  "tags": ["dp", "graphs", "dag", "scc"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 2.9375

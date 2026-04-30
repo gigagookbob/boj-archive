@@ -19,13 +19,7 @@
   "hint": "<table class=\"table table-bordered\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 77px; height: 76px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 98px; height: 98px;\"/></td>\n</tr>\n<tr>\n<td>(a) Первый тест</td>\n<td>(b) Второй тест</td>\n</tr>\n</tbody>\n</table>\n<p style=\"text-align: center;\">Рис. 1: Пояснение к тестам</p>\n<p>Иллюстрации к ответам на тесты из примера с единственными способами замощения свободных клеток доминошками.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 19, 2019, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 19, 2019, Advanced",
   "level": 10,
-  "tags": [
-    "implementation",
-    "greedy",
-    "ad_hoc",
-    "constructive",
-    "parity"
-  ],
+  "tags": ["implementation", "greedy", "ad_hoc", "constructive", "parity"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.3157999515533447

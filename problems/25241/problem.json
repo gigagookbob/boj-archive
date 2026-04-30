@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 코딩테스트 4회, chogahui05, bnb2011, chansol, mjhmjh1104, parkky, pjshwa, quickn, tony9402",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "implementation", "sorting"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 3.1666998863220215

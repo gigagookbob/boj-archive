@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2쿨, sprout_429, djm03178, eaststar, hyperbolic, index, sait2000, sivcde0405",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 4.016900062561035

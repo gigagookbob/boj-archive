@@ -15,10 +15,7 @@
   "hint": "<p>After the first three updates, the $1\\times 2 \\times 1$ brick spanning $[0, 1]\\times [0, 2]\\times [0, 1]$ does not overlap with the remaining cheese, so it contributes toward the answer.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2024 December Contest, Bronze",
   "level": 7,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 183,
   "submission_count": null,
   "average_tries": 1.7760000228881836

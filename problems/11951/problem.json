@@ -19,9 +19,7 @@
   "hint": "<p>※各入出力例のデータは，右クリック等によりファイルに保存して利用可能です．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2015/2016 예선",
   "level": 15,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.1735000610351562

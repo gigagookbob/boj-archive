@@ -15,12 +15,7 @@
   "hint": null,
   "source": "akaishuichi, hororo12345, lambda, osier_star",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "divide_and_conquer"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "divide_and_conquer"],
   "accepted_user_count": 8553,
   "submission_count": null,
   "average_tries": 3.1324000358581543

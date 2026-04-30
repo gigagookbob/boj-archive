@@ -19,13 +19,7 @@
   "hint": "<p>첫 번째 예제의 경우 $0 \\rightarrow 1 \\rightarrow 2 \\rightarrow 3 \\rightarrow 0$ / $0 \\rightarrow 2 \\rightarrow 3 \\rightarrow 1 \\rightarrow 0$ / $0 \\rightarrow 3 \\rightarrow 1 \\rightarrow 2 \\rightarrow 0$ / $0 \\rightarrow 3 \\rightarrow 2 \\rightarrow 1 \\rightarrow 0$의 4가지 투어가 가능하다.</p>",
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2017 송년대회, khsoo01",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "data_structures",
-    "segtree",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "data_structures", "segtree", "combinatorics"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.690500020980835

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제3회 보라매컵 예선, 99asdfg, asdarwin03, dabbler1, gs22059, ingyu1008, ksoosung77, utilforever, whqkrkt04",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "greedy", "parametric_search"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 3.61899995803833

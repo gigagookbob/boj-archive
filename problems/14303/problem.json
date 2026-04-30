@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round D APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round D",
   "level": 12,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.5861999988555908

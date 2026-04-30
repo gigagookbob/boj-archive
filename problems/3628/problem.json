@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2005",
   "level": 21,
-  "tags": [
-    "binary_search",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["binary_search", "geometry", "geometry_3d"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3.6666998863220215

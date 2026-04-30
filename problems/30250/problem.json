@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2016/2017, National Round (2), 7-9 Classes, Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2016/2017, National Round (2), 10-12 Classes",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "case_work"
-  ],
+  "tags": ["math", "number_theory", "case_work"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 3

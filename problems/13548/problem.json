@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "offline_queries",
-    "mo"
-  ],
+  "tags": ["offline_queries", "mo"],
   "accepted_user_count": 1593,
   "submission_count": null,
   "average_tries": 2.966099977493286

@@ -31,11 +31,7 @@
   "hint": null,
   "source": null,
   "level": 24,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "segtree"
-  ],
+  "tags": ["data_structures", "implementation", "segtree"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 12.5

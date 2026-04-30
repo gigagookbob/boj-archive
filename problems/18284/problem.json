@@ -23,9 +23,7 @@
   "hint": "<p>Pojašnjenje drugog probnog primjera:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 396px; height: 278px;\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2019",
   "level": 11,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3.125

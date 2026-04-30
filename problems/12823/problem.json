@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:189px; width:303px\"/></p>",
   "source": "Camp, Visegrad Programming Contests Preparation Camp, VPCPC 2014",
   "level": 22,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 143,
   "submission_count": null,
   "average_tries": 2.734299898147583

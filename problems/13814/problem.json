@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest 2009",
   "level": 13,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["dp", "math", "number_theory"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.263200044631958

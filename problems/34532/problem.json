@@ -23,13 +23,7 @@
   "hint": "<p>트리는 무방향 사이클이 없는 연결 그래프를 의미한다.</p>",
   "source": "University, 충남대학교, 2025 충남대학교 SW-IT Contest, tjgus1668, ai4youej, gravekper, jinhan814, kaorin, kckyoung2, octane, utilforever, ygonepiece",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "segtree",
-    "bfs"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "segtree", "bfs"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.884600043296814

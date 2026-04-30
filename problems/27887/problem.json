@@ -51,13 +51,7 @@
   "hint": "<p>오빠. 숨어서 듣지 말고 대놓고 듣자.</p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 5회 코딩테스트, chogahui05, chansol, kiwiyou",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "parsing",
-    "queue",
-    "string"
-  ],
+  "tags": ["data_structures", "implementation", "parsing", "queue", "string"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.625

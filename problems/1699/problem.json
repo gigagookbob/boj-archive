@@ -31,10 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2007, baekjoon, godmoon00, sbukkk, yukariko",
   "level": 9,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 22011,
   "submission_count": null,
   "average_tries": 2.44950008392334

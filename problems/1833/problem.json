@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author10",
   "level": 13,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 492,
   "submission_count": null,
   "average_tries": 1.902400016784668

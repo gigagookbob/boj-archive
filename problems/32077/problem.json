@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2023 ICPC Asia Jakarta Regional Contest",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum",
-    "invariant"
-  ],
+  "tags": ["ad_hoc", "prefix_sum", "invariant"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 1.3863999843597412

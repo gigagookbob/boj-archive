@@ -15,9 +15,7 @@
   "hint": "<p>入出力例 1 では，5 番目 → 3 番目 → 1 番目 → 2 番目 → 4 番目 の順番で食べると， おいしさの合計が 20 になる．合計が 20 を超えるような食べ方は存在しないので，これが最善である．</p>\n<p>※各入出力例のデータは， 右クリック等によりファイルに保存して利用可能です．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2013/2014 예선",
   "level": 21,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3.9286000728607178

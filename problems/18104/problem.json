@@ -19,9 +19,7 @@
   "hint": "<p>В первом примере можно было также взять задачу с номером $4$, поскольку ее знает один человек.</p>\n<p>Во втором примере никто не знает задач с номерами $4$ и $5$, поэтому лучше всего взять их.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2019-2020 North-Western Russia Qualification",
   "level": 12,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.799999952316284

@@ -19,10 +19,7 @@
   "hint": null,
   "source": null,
   "level": 1,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 24621,
   "submission_count": null,
   "average_tries": 2.089099884033203

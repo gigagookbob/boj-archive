@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2024 KSA Automata Winter Contest, mickeyjung, aaron0526, ai4youej, eric00513, flakepowders, gs22059, hjroh0315, kiwiyou, parkky, runnie0427, utilforever, vkdldjvkdnj, wizardrabbit",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "math",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "math", "segtree"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 8.043499946594238

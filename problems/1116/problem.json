@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon, xbfld, doju, ntopia, zlzmsrhak",
   "level": 19,
-  "tags": [
-    "graphs",
-    "greedy"
-  ],
+  "tags": ["graphs", "greedy"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 3.196700096130371

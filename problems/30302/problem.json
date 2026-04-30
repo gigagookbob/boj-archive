@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2023 KAIST 13th ICPC Mock Competition, Camp, Petrozavodsk Programming Camp, Summer 2024, Day 2: K-ontest, azberjibiou, dohoon, jhwest2, kyo20111, mhy908, ncy09, whqkrkt04",
   "level": 19,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "greedy",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "greedy", "math"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.9375

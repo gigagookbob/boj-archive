@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, AMER Semifinal",
   "level": 7,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "probability"
-  ],
+  "tags": ["math", "greedy", "bruteforcing", "sorting", "probability"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.4815000295639038

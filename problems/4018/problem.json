@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2012 East Central Regional Contest, doju",
   "level": 15,
-  "tags": [
-    "dp",
-    "bitmask"
-  ],
+  "tags": ["dp", "bitmask"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.8636000156402588

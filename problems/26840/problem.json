@@ -15,13 +15,7 @@
   "hint": "<p>Wyjaśnienie do przykładu: Mając po jednej cyfrze 0, 1 i 2 w trójkowym systemie liczbowym, Bajtuś może ułożyć liczby 0<sub>3</sub> = 0<sub>10</sub>, 1<sub>3</sub> = 1<sub>10</sub>, 2<sub>3</sub> = 2<sub>10</sub>, 10<sub>3</sub> = 3<sub>10</sub>, 12<sub>3</sub> = 5<sub>10</sub>, 20<sub>3</sub> = 6<sub>10</sub>, 21<sub>3</sub> = 7<sub>10</sub>, 102<sub>3</sub> = 11<sub>10</sub>, 120<sub>3</sub> = 15<sub>10</sub>, 201<sub>3</sub> = 19<sub>10</sub> oraz 210<sub>3</sub> = 21<sub>10</sub>. Przez 2 podzielne są jedynie 0<sub>3</sub>, 2<sub>3</sub> oraz 20<sub>3</sub>, zatem szukana liczba to 20<sub>3</sub>.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2016/2017, Stage 1",
   "level": 16,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["math", "greedy", "number_theory", "binary_search", "prefix_sum"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2

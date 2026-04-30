@@ -19,10 +19,7 @@
   "hint": "<p>For the first sample, the following combination of prize winners allows the maximum total amount of 309500 yen.</p>\n<ul>\n<li>The first prize winner of 382947 makes one ticket with that number win 300000 yen.</li>\n<li>The second prize winner of 4837 makes two tickets, 924837 and 294837, win 4000 yen each.</li>\n<li>The third prize winners 07 and 45 make three tickets, 034207, 083907, and 372745, win 500 yen each. 37 cannot be a third prize winner, as the second prize winner, 4837, has the final two digits of 37. The ticket 274637, thus, wins nothing. You have no more tickets to win whatever the remaining third prize winner may be.</li>\n</ul>\n<p>For the second sample, nine out of the ten tickets have the same last two digits, 89, and thus the third prize winner of 89 allows nine third prizes, totaling 4500 yen. This is more than the second prize of 4000 yen possibly won by one of these nine tickets. The only remaining ticket 263784 should, of course, win the first prize.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2021 Asia Yokohama Regional",
   "level": 14,
-  "tags": [
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["greedy", "implementation"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.90910005569458

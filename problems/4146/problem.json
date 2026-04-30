@@ -15,10 +15,7 @@
   "hint": "<p>The mosaic is 4× 4, and contains the following arrangement of good and bad cells ('G' represents good, and 'B' represents bad):</p>\n<pre>\nBGGG\nGBBG\nGGGG\nGGGG\n</pre>\n<p>Several 2× 2 squares at the bottom contain no bad solar cells, but all 3 × 3 squares contain at least two bad solar cells.</p>",
   "source": ", Contest, Waterloo's local Programming Contests, 24 September, 2011",
   "level": 13,
-  "tags": [
-    "prefix_sum",
-    "parametric_search"
-  ],
+  "tags": ["prefix_sum", "parametric_search"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.523800015449524

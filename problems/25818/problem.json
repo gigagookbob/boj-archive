@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Qualifying Round)",
   "level": 7,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "geometry_3d"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.0464999675750732

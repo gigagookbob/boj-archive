@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2025 ICPC Pacific Northwest Regional, Division 1, ICPC, Regionals, North America, Pacific Northwest Regional, 2025 ICPC Pacific Northwest Regional, Division 2",
   "level": 7,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.0556000471115112

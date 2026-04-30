@@ -27,11 +27,7 @@
   "hint": "<p>다항함수의 적분은 다음과 같이 계산한다.</p>\n<p>\\[\\int_a^b{x^n dx} = \\frac{b^{n+1} - a^{n+1}}{n+1}\\]</p>",
   "source": "University, 아주대학교, 2017 아주대학교 프로그래밍 경시대회 (APC), Division 2, luke0201, jh05013",
   "level": 12,
-  "tags": [
-    "math",
-    "binary_search",
-    "calculus"
-  ],
+  "tags": ["math", "binary_search", "calculus"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 1.8661999702453613

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2022 ICPC Sinchon Summer Algorithm Camp Contest, 초급, gumgood, bnb2011, djs100201, jthis, lky7674, meque98, tlsdydaud1, tony9402, wonsei",
   "level": 14,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "bfs"],
   "accepted_user_count": 279,
   "submission_count": null,
   "average_tries": 5.5233001708984375

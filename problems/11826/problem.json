@@ -19,9 +19,7 @@
   "hint": "<p>Tests with answer -1 (with numbers from 23 to 27) will be scored only if your solution passes at least one test with number from 12 to 22. </p>",
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2010",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.9696999788284302

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, abel1802",
   "level": 9,
-  "tags": [
-    "sorting",
-    "coordinate_compression"
-  ],
+  "tags": ["sorting", "coordinate_compression"],
   "accepted_user_count": 45194,
   "submission_count": null,
   "average_tries": 2.433300018310547

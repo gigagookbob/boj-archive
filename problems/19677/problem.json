@@ -15,10 +15,7 @@
   "hint": "<p>The above program reads <em>x</em> and outputs <em>x</em> − 7.</p>\n<p>If you reverse the order of lines of the above program, “print” will become the first command, and the program will fail because it tries to print the top of an empty stack.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2017",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.5938000679016113

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2018/2019, National Round, 7-9 Classes",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["bruteforcing", "math"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.8077000379562378

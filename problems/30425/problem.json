@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 기행, 기1행, dhyang24, hibye1217, hjroh0315, kiwiyou, mingyu331, sorohue, utilforever, wapas, wider93",
   "level": 10,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 195,
   "submission_count": null,
   "average_tries": 2.835900068283081

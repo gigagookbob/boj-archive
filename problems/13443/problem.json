@@ -31,9 +31,7 @@
   "hint": "<p>예제 1의 경우에 (1, 2), (2, 1), (2, 3), (3, 2)에 흑돌을 놓으면 아래와 같은 상태가 된다.</p>\n<pre>\n.x.\nx.x\n.x.</pre>\n<p>예제 2의 경우에는 아무 돌도 놓지 않는 것이 빈 칸 개수의 최댓값이다.</p>",
   "source": "baekjoon",
   "level": 22,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.2856999635696411

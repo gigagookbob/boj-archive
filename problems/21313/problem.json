@@ -15,10 +15,7 @@
   "hint": "<p>길이가 같은 두 수열에 대해, 작은 번호부터 시작해 같은 번호의 항끼리 비교하여 더 작은 수가 먼저 나오는 수열이 사전순으로 앞선다.</p>\n<p>예를 들어 두 수열 A = {7, 3, 5} 와 B = {7, 4, 1} 가 있다고 하자. A<sub>1</sub>과 B<sub>1</sub>은 7로 서로 같다. A<sub>2</sub>와 B<sub>2</sub>는 각각 3과 4로 다르며, A<sub>2</sub>가 더 작으므로 수열 A는 수열 B보다 사전순으로 앞선다.</p>",
   "source": "University, 인하대학교, 2021 IGRUS Newbie Programming Contest, yooshnn, Lawali, rhs0266, tony9402, wjdclgns12",
   "level": 4,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 1562,
   "submission_count": null,
   "average_tries": 1.510200023651123

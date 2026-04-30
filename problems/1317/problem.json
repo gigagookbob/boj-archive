@@ -35,13 +35,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "dag",
-    "graphs",
-    "graph_traversal",
-    "string",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "graph_traversal", "string", "topological_sorting"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 8.071399688720703

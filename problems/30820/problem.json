@@ -19,11 +19,7 @@
   "hint": "<p>The pictures for the samples are provided below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 500px; height: 462px;\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 461px; width: 500px;\"/></p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2015-16, Day 2",
   "level": 19,
-  "tags": [
-    "sorting",
-    "geometry",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "angle_sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

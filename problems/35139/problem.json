@@ -19,9 +19,7 @@
   "hint": "<p><em>Explanation of Sample 1:</em> The following are the states of the land after each day:</p>\n<pre>\n#...#   #.#.#   #.#.#\n#...#   #...#   #.#.#\n#####   #####   #####\n#.#.#   #.#.#   #.#.#\n#####   #####   #####</pre>\n<p>After the first day, all three pools are rectangular pools. After the second day, the pool formed by cells $(1, 2)$, $(1, 4)$, $(2, 2)$, $(2, 3)$, $(2, 4)$ is not rectangular. All pools are rectangular again after the third day.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2025",
   "level": 17,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2008 Day 2",
   "level": 16,
-  "tags": [
-    "dp",
-    "geometry",
-    "bitmask",
-    "dp_bitfield",
-    "pythagoras",
-    "tsp"
-  ],
+  "tags": ["dp", "geometry", "bitmask", "dp_bitfield", "pythagoras", "tsp"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

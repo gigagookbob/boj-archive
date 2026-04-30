@@ -19,11 +19,7 @@
   "hint": null,
   "source": "wider93, jh05013, jhnah917, sait2000",
   "level": 25,
-  "tags": [
-    "math",
-    "fft",
-    "calculus"
-  ],
+  "tags": ["math", "fft", "calculus"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.3691999912261963

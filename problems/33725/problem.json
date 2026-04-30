@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Olympiad, Japanese Olympiad in Informatics, JOI 2024/2025",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["data_structures", "greedy", "prefix_sum"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.0943000316619873

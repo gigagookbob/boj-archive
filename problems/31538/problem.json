@@ -39,11 +39,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제4회 고려대학교 MatKor Cup: 2024 Winter/Spring, eoaud0108, kidw0124, sshs29hanul, tikiliki0417, tlsdydaud1, w8385, yijw0930",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.5384999513626099

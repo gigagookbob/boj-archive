@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, windflower",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "string",
-    "parsing"
-  ],
+  "tags": ["math", "greedy", "string", "parsing"],
   "accepted_user_count": 50998,
   "submission_count": null,
   "average_tries": 1.7847000360488892

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2002 Greater New York Programming Contest, yh0413, 112224, onjo0127, wkd48632, jh05013",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "number_theory", "simulation"],
   "accepted_user_count": 7403,
   "submission_count": null,
   "average_tries": 1.385699987411499

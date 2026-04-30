@@ -15,14 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2017 SCCC Summer Contest, hyo123bin, gggkik, jh05013",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 4.616799831390381

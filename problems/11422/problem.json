@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2012",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "greedy",
-    "math",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "greedy", "math", "segtree"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.5333000421524048

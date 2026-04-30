@@ -15,12 +15,7 @@
   "hint": null,
   "source": "namnamseo",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "bruteforcing", "set", "hash_set"],
   "accepted_user_count": 321,
   "submission_count": null,
   "average_tries": 2.5016000270843506

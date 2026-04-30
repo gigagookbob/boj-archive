@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2024!, kdh9949, cgiosy, cs71107, jhnah917, kyo20111",
   "level": 22,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "prefix_sum",
-    "sweeping",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "binary_search", "prefix_sum", "sweeping", "two_pointer"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.666700005531311

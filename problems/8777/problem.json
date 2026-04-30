@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, HotSpot 2011",
   "level": 13,
-  "tags": [
-    "dag",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "topological_sorting"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

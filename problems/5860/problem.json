@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 5 cows and 3 gangs.  Bessie's gang (gang 1) has 2 members, gang 2 has 1 member, and gang 3 has 2 members.</p><h4>Output Details</h4><p>Only one cow from Bessie's gang can end up on the field.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO December 2012 Contest, Gold",
   "level": 18,
-  "tags": [
-    "greedy",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["greedy", "implementation", "simulation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.333299994468689

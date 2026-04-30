@@ -19,12 +19,7 @@
   "hint": null,
   "source": "MenOfPassion",
   "level": 13,
-  "tags": [
-    "dp",
-    "sorting",
-    "binary_search",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "sorting", "binary_search", "coordinate_compression"],
   "accepted_user_count": 401,
   "submission_count": null,
   "average_tries": 2.291800022125244

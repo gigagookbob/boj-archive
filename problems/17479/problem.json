@@ -15,12 +15,7 @@
   "hint": "<p>이 문제는 픽션입니다. 문제에 나오는 인물, 사건, 배경은 실제와 아무런 관련이 없습니다.</p>",
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2019 중앙대학교 프로그래밍 경진대회 (CPC), soljin8122",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 605,
   "submission_count": null,
   "average_tries": 3.7685999870300293

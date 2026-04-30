@@ -19,12 +19,7 @@
   "hint": "<p>첫 번째 예제에서의 전선 가치의 총 합은 $112345^3 + 112345^6$이다.</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2017 KAIST RUN Spring Contest (HYEA Cup), ho94949",
   "level": 20,
-  "tags": [
-    "berlekamp_massey",
-    "dp",
-    "exponentiation_by_squaring",
-    "math"
-  ],
+  "tags": ["berlekamp_massey", "dp", "exponentiation_by_squaring", "math"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.8333001136779785

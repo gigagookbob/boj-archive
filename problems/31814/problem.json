@@ -19,11 +19,7 @@
   "hint": "<p>첫 번째 예제에 대한 설명은 다음과 같다.</p>\r\n\r\n<ul>\r\n\t<li>$f(1,1,1) =1$</li>\r\n\t<li>$f(1,1,2) =1$</li>\r\n\t<li>$f(1,2,1) =1$</li>\r\n\t<li>$f(2,1,1) =0$</li>\r\n\t<li>$f(2,2,1) =1$</li>\r\n</ul>\r\n",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2024 KAIST RUN Spring Contest, knon0501, 79brue, abra_stone, ai4youej, flakepowders, flappybird, koosaga, octane, parkky, qwerasdfzxcl",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 1.4433000087738037

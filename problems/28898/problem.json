@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, February 10, 2018",
   "level": 8,
-  "tags": [
-    "arbitrary_precision",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.4666999578475952

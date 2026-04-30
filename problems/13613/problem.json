@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, A Primeira Fase da Maratona de Programação 2014",
   "level": 14,
-  "tags": [
-    "dfs",
-    "dijkstra",
-    "graphs",
-    "graph_traversal",
-    "shortest_path"
-  ],
+  "tags": ["dfs", "dijkstra", "graphs", "graph_traversal", "shortest_path"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

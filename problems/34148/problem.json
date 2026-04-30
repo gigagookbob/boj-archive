@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Div.1, School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Div.2, School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Open Contest, lighton, dkim110807, gs22059, gs22123, iccodly, jthis, junwoojune, minchan_bae, mj1000j, sadtreap",
   "level": 13,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["math", "ad_hoc", "prefix_sum"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 1.8229999542236328

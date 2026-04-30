@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2017 Greater New York Programming Contest",
   "level": 17,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "math"
-  ],
+  "tags": ["geometry", "line_intersection", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1

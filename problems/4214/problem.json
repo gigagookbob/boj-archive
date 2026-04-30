@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2012",
   "level": 24,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 3.1394999027252197

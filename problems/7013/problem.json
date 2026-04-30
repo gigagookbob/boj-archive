@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2013: Snowstorm Spring 2013",
   "level": 19,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "dijkstra"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

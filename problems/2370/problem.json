@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 2003, hyakintoss",
   "level": 13,
-  "tags": [
-    "implementation",
-    "coordinate_compression"
-  ],
+  "tags": ["implementation", "coordinate_compression"],
   "accepted_user_count": 358,
   "submission_count": null,
   "average_tries": 3.229099988937378

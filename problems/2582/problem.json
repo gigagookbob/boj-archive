@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2006, 중등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2006, 고등부",
   "level": 0,
-  "tags": [
-    "heuristics",
-    "randomization",
-    "simulated_annealing"
-  ],
+  "tags": ["heuristics", "randomization", "simulated_annealing"],
   "accepted_user_count": 251,
   "submission_count": null,
   "average_tries": 8.772899627685547

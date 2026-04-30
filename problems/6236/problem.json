@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO March 2007 Contest, Silver, kookmin20103324, jason9319, jongseo_park, msphere, qjawlsqjacks, dlwodnsdl",
   "level": 10,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 6194,
   "submission_count": null,
   "average_tries": 3.2844998836517334

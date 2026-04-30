@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #3, baekjoon, august14, cgiosy",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "set",
-    "stack"
-  ],
+  "tags": ["data_structures", "set", "stack"],
   "accepted_user_count": 242,
   "submission_count": null,
   "average_tries": 2.0455000400543213

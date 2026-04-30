@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2002-2003 Season, USACO February 2003 Contest, Green, ntopia",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "bitmask", "dp_bitfield"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 5.329800128936768

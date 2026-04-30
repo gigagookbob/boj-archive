@@ -19,13 +19,7 @@
   "hint": "<p>0E-18 와 같은 지수 표기법(Exponential Notation)을 사용하지 않고 출력하는 것에 유의하시오.</p>",
   "source": "University, 중앙대학교, 2021 NPC (Newbie Programming Challenge), smmaker118, 9507ym, artichoke42, byeop24, dkvltmxhf, dlstj0923, gojib2002, gratus907, omjin7n, pjh6792, shieldnet, smmaker118, soljin8122, tngus5851, tony9402",
   "level": 9,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic",
-    "parsing",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "string", "arithmetic", "parsing", "arbitrary_precision"],
   "accepted_user_count": 141,
   "submission_count": null,
   "average_tries": 2.914900064468384

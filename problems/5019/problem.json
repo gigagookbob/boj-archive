@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2011, baekjoon",
   "level": 19,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["dp", "math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

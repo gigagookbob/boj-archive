@@ -27,10 +27,7 @@
   "hint": "<p>첫 번째 행동으로 1번과 2번 방이 합쳐져 (1, 2), (3), (4), (5) 상태가 된다. 이후 두 번째 행동으로 2, 3, 4번 방이 합쳐져 (1, 2, 3, 4), (5)의 상태가 된다. 따라서 남아있는 동방의 수는 2가 된다.</p>",
   "source": "University, 아주대학교, 2017 아주대학교 프로그래밍 경시대회 (APC), Division 1, University, 아주대학교, 2017 아주대학교 프로그래밍 경시대회 (APC), Division 2, shjgkwo, geon0407",
   "level": 7,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1184,
   "submission_count": null,
   "average_tries": 1.5269999504089355

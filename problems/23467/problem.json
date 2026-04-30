@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 14: Grand Prix of Wroclaw",
   "level": 28,
-  "tags": [
-    "data_structures",
-    "geometry",
-    "splay_tree",
-    "trees"
-  ],
+  "tags": ["data_structures", "geometry", "splay_tree", "trees"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.916700005531311

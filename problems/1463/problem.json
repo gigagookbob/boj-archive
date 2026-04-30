@@ -19,9 +19,7 @@
   "hint": "<p>10의 경우에 10 → 9 → 3 → 1 로 3번 만에 만들 수 있다.</p>",
   "source": "baekjoon, cyj101366, jugol, dynamiseus, jooa7878, lcr7324, dbfldkfdbgml",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 87890,
   "submission_count": null,
   "average_tries": 2.9268999099731445

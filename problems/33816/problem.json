@@ -19,9 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładów: Pierwszy test przykładowy odpowiada przykładowym operacjom opisanym w treści zadania. W drugim przypadku nie trzeba robić żadnej operacji, gdyż $A_n = B$.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2025",
   "level": 12,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

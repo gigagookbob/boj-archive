@@ -19,10 +19,7 @@
   "hint": "<p>50% of accounts (one account, the one with 200 euros), contains two thirds, 66.666667% of the total money.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #5, koosaga",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.4567999839782715

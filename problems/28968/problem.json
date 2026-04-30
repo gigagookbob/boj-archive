@@ -15,11 +15,7 @@
   "hint": "<p>В таблице приведены данные по носителям в конце каждого дня:</p>\n<table class=\"table table-bordered table-center-70\">\n<tbody>\n<tr>\n<th>день</th>\n<th>первый уровень</th>\n<th>второй уровень</th>\n<th>третий уровень</th>\n<th>всего носителей</th>\n</tr>\n<tr>\n<td>$0$</td>\n<td>$3$</td>\n<td>$0$</td>\n<td>$0$</td>\n<td>$3$</td>\n</tr>\n<tr>\n<td>$1$</td>\n<td>$3$</td>\n<td>$3$</td>\n<td>$0$</td>\n<td>$2 \\times 3$</td>\n</tr>\n<tr>\n<td>$2$</td>\n<td>$2 \\times 3 + 3$</td>\n<td>$3$</td>\n<td>$3$</td>\n<td>$5 \\times 3$</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Advanced",
   "level": 8,
-  "tags": [
-    "math",
-    "dp",
-    "arithmetic"
-  ],
+  "tags": ["math", "dp", "arithmetic"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.9500000476837158

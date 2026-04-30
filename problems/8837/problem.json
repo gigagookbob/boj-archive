@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, CoolSpot 2010",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.294100046157837

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2005",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "offline_queries",
-    "parsing",
-    "string"
-  ],
+  "tags": ["dp", "graphs", "offline_queries", "parsing", "string"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

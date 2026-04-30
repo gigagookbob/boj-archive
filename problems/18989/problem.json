@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2018, Day 5: Warsaw U Contest, XVIII Open Cup named after E.V. Pankratiev Onsite, Contest, Algorithmic Engagements, PA 2017",
   "level": 23,
-  "tags": [
-    "backtracking",
-    "heuristics",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["backtracking", "heuristics", "math", "number_theory"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 12

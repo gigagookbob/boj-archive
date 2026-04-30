@@ -15,13 +15,7 @@
   "hint": "<h4>Input Details</h4><p>The example from the problem statement.</p><h4>Output Details</h4><p>Only \"omm\" and \"mom\" can be ordered first.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO December 2012 Contest, Gold",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "trees",
-    "dag",
-    "trie"
-  ],
+  "tags": ["data_structures", "graphs", "trees", "dag", "trie"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 2.936199903488159

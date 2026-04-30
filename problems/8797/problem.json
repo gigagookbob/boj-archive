@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, CoolSpot 2011",
   "level": 10,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.850000023841858

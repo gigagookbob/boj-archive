@@ -15,12 +15,7 @@
   "hint": "<ul>\n<li>In the first operation the value 1 is added 1000 times to vertex 1 (note A=C=1, B=D=0). The path between 0 and 2 contains the vertices 0, 1 and 2. The total amount of monetary units in them is 1006.</li>\n<li>In operation 2: x(1)=0, y(1)=5, x(2)=1, y(2)=12. The path between 2 and 3 contains all the vertices of the tree.</li>\n<li>In operation 3: K=1, so A, B, C, D are irrelevant.</li>\n</ul>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2015",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "hld"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.0833001136779785

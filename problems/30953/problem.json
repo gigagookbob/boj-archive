@@ -15,12 +15,7 @@
   "hint": "<p>The tree in question is the following one:</p>\n<pre>\n<code>1-4-2\n  |\n  5-3\n</code></pre>\n<p>With the three queries in the example, it is possible to reconstruct it uniquely.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2023",
   "level": 19,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "trees",
-    "bitmask"
-  ],
+  "tags": ["graphs", "ad_hoc", "trees", "bitmask"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.4074000120162964

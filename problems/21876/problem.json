@@ -23,12 +23,7 @@
   "hint": "<p>In the first example, if you remove color 1, one block of color 2 will remain, and if you remove color 2, there will be one block of color 1 (since the blocks on opposite sides of the block of color 2 will merge into one block).</p>\n<p>In the second example, if you remove color 1, there will be three blocks, if you remove color 2, there will be also three blocks, and if you remove color 3, then 4 blocks will remain.</p>\n<p>In the third example: for color 4 : 4 blocks, for color 5 : 2 blocks, for color 9 : 4 blocks.</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, First elimination round, 2018-2019",
   "level": 11,
-  "tags": [
-    "implementation",
-    "greedy",
-    "bruteforcing",
-    "sweeping"
-  ],
+  "tags": ["implementation", "greedy", "bruteforcing", "sweeping"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2999999523162842

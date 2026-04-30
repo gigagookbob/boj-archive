@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 충남대학교, 생각하는 프로그래밍 대회, amok, Conatuseus",
   "level": 4,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 4871,
   "submission_count": null,
   "average_tries": 1.607100009918213

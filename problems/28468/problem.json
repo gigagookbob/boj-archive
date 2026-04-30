@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Summer Algorithm Camp Contest, 초급, starwh03, cologne, cozyyg, dlguq0107, kipa00, lky7674",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics"
-  ],
+  "tags": ["math", "graphs", "combinatorics"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.3889000415802002

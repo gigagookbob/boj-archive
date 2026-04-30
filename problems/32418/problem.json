@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2024, CCO 2024",
   "level": 22,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "lazyprop"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "sweeping", "lazyprop"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

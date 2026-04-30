@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ahgus89, chunghan, kyo20111",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "case_work",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "case_work", "disjoint_set"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.3461999893188477

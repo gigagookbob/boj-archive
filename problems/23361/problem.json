@@ -10,10 +10,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2007 연습 세션",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2

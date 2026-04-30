@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2005, 초등부, Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2005, 중등부, baekjoon, doju, game2k, jf297, jh05013, lety, ntopia, r4pidstart",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["implementation", "greedy", "case_work"],
   "accepted_user_count": 1092,
   "submission_count": null,
   "average_tries": 4.328800201416016

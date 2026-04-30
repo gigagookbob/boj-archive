@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2013 ACM-ICPC Asia Phuket Regional Programming Contest 연습 세션",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string"
-  ],
+  "tags": ["implementation", "data_structures", "string"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.2829999923706055

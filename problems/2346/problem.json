@@ -15,10 +15,7 @@
   "hint": null,
   "source": "tncks0121",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["data_structures", "deque"],
   "accepted_user_count": 18475,
   "submission_count": null,
   "average_tries": 2.20169997215271

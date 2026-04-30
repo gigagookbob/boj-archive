@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 193px; height: 266px;\"/></p>\n<p style=\"text-align: center;\">入力例の図示</p>\n<p>1 番目の料金所から 2 番目の料金所への道程は，1 → 2 と 1 → 4 → 2 の２つがあり，そのう ち料金が安い 1 → 4 → 2 の料金 8 を出力する．1 → 5 → 2 は，料金 2 だが，道路 1 ↔ 5 と道 路 5 ↔ 2 が 5 番目の料金所で鋭角をなすので，象は 1 → 5 → 2 とたどることはできない．</p>",
   "source": "Camp, JOI Spring Training Camp, JOI 2006/2007 Spring Training Camp",
   "level": 16,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "dijkstra"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.666700005531311

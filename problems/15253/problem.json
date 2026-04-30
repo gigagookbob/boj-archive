@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2017: Olympics",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "case_work"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "case_work"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7999999523162842

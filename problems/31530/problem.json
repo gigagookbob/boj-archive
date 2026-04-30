@@ -15,9 +15,7 @@
   "hint": "<p>입력이 많은 경우 빠른 입출력을 사용하지 않으면 시간 초과가 나올 수 있다.</p>\r\n",
   "source": "University, 고려대학교, MatKor Cup, 제4회 고려대학교 MatKor Cup: 2024 Winter/Spring 연습 세션, alex04, kidw0124, tikiliki0417, devluyten, eoaud0108, finimage, lighter, rachel2003, sshs29hanul, tlsdydaud1, utilforever, yijw0930",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 1.7927000522613525

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 3: Moscow IPT Contest",
   "level": 19,
-  "tags": [
-    "graphs",
-    "mst",
-    "two_pointer"
-  ],
+  "tags": ["graphs", "mst", "two_pointer"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.7083001136779785

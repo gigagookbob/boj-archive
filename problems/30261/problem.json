@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2023: P-22",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation",
-    "physics"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation", "physics"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2013, ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2014",
   "level": 20,
-  "tags": [
-    "dijkstra",
-    "flow",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "flow", "graphs", "shortest_path"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 3.492300033569336

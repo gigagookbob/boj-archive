@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Beginner Round, University, MIT, M(IT)^2, M(IT)^2 Winter 2025 Tournament, Advanced Round 2, 79brue",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["ad_hoc", "permutation_cycle_decomposition"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.1110999584198

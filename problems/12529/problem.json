@@ -15,13 +15,7 @@
   "hint": "<p>In the first sample case, the best Robbit can do is start with step number 2, then jump to step number 3 (height 1), then jump to height 2 and land on the red step number 1. The maximum height reached this way is 2.</p>\n<p>In the second sample case, the best strategy is to start with step number 5, then go to 6 (height 1), 8 (height 2), 1 (height 3), again to 5 (height 4) and finally to 10 (height 5), which is red.</p>\n<p>In sample case #3, Robbit can start with step number 1 and continue jumping forever. He can reach any height he wishes (unless he gets hungry or goes into Earth orbit).</p>",
   "source": "Contest, Google, Google's Coding Competitions, GoogleGames 2011, GoogleGames 2011 Pittsburgh",
   "level": 13,
-  "tags": [
-    "implementation",
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

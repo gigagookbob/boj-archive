@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 숙명여자대학교, 제1회 숙명여자대학교 교내 알고리즘 경진대회 (SMUPC), swoon, cs71107, lky7674, plast, sait2000, songfox00, wbcho0504, whaeun25",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "grid_graph"],
   "accepted_user_count": 11900,
   "submission_count": null,
   "average_tries": 1.6550999879837036

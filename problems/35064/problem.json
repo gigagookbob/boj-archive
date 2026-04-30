@@ -27,11 +27,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2025 송년대회, dkim110807, gs22123, moonrabbit2, utilforever",
   "level": 25,
-  "tags": [
-    "geometry",
-    "half_plane_intersection",
-    "duality"
-  ],
+  "tags": ["geometry", "half_plane_intersection", "duality"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 20.600000381469727

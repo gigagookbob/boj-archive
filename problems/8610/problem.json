@@ -15,10 +15,7 @@
   "hint": "<p>W powyższym przykładzie oryginalny tekst został przesunięty cyklicznie o $10$ liter. Najczęściej (czterokrotnie) występuje w nim litera <code>A</code>.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2009, Stage 1",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.773800015449524

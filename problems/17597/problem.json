@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2019",
   "level": 9,
-  "tags": [
-    "math",
-    "geometry",
-    "ternary_search",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "ternary_search", "pythagoras"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.982800006866455

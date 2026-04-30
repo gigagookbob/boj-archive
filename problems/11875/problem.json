@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example: Notice that the word “aa” could also be the root, but “a” is shorter.</p>\n<p>Clarification of the second example: The word is not a multigram because “a” and “b” are not mutually anagrams</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #5",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 1.3777999877929688

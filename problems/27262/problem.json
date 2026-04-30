@@ -15,10 +15,7 @@
   "hint": "<p>В примере лифту необходимо $7\\times 3=21$ секунда, чтобы спуститься с 8 этажа и затем $14\\times 3=42$ секунды, чтобы подняться на 15 этаж, где живет Миша. Мише же необходимо $14\\times 5 = 70$ секунд, чтобы подняться на 15 этаж по лестнице.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2015",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 849,
   "submission_count": null,
   "average_tries": 1.2237999439239502

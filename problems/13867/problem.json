@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2016",
   "level": 18,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "greedy",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["graphs", "data_structures", "greedy", "set", "tree_set"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.9138000011444092

@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, Izabella can do better than the example in the statement. If she starts by removing the rightmost piece, Olga has no possible moves and Izabella wins with $7$ pieces remaining. Izabella wins $1+7=8$ points in total.</p>\n<p>In Sample Case #2, Izabella cannot even make her first move, so Olga wins!</p>\n<p>In Sample Case #3, neither player has a choice on what to play, and Olga wins after all pieces are exhausted, so she gets only $1$ point.</p>\n<p>In Sample Case #4, all pieces are exhausted at the end of the game too, but it is Izabella who comes out with the win.</p>",
   "source": "Contest, Google, Code Jam to I/O for Women, Code Jam to I/O for Women 2021, Code Jam to I/O for Women 2021",
   "level": 17,
-  "tags": [
-    "case_work",
-    "game_theory",
-    "greedy"
-  ],
+  "tags": ["case_work", "game_theory", "greedy"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

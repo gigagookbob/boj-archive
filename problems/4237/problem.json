@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 14 July, 2007, baekjoon",
   "level": 12,
-  "tags": [
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "ad_hoc"],
   "accepted_user_count": 124,
   "submission_count": null,
   "average_tries": 1.9032000303268433

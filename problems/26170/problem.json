@@ -19,12 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, jbkmath48128, lms0806, tony9402",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "backtracking"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "backtracking"],
   "accepted_user_count": 391,
   "submission_count": null,
   "average_tries": 1.6726000308990479

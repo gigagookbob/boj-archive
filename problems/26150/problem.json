@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제9회 한양대학교 프로그래밍 경시대회, Beginner Division, hibye1217, jthis, jyheo98, powergee, tlsdydaud1",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting"
-  ],
+  "tags": ["implementation", "string", "sorting"],
   "accepted_user_count": 447,
   "submission_count": null,
   "average_tries": 1.1812000274658203

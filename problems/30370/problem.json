@@ -19,11 +19,7 @@
   "hint": "<ul>\n<li>How to find the probability modulo $998\\,244\\,353$\n\t<ul>\n<li>It can be proved that the sought probability is always a rational number. Additionally, the constraints of this problem guarantee that if the sought probability is represented as an irreducible fraction $\\frac{y}{x}$, then $x$ is not divisible by $998\\,244\\,353$. Here, there is a unique $0 \\le z &lt; 998\\,244\\,353$ such that $y \\equiv xz \\pmod{998\\,244\\,353}$, so report this $z$.</li>\n</ul>\n</li>\n</ul>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2023 Day 3",
   "level": 20,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "probability"
-  ],
+  "tags": ["math", "prefix_sum", "probability"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.2222000360488892

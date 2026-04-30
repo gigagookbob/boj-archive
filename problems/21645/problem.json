@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере необходимо подготовить 6 красных и 3 белых значка.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2011",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 283,
   "submission_count": null,
   "average_tries": 1.5794999599456787

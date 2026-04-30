@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제9회 한양대학교 프로그래밍 경시대회, Advanced Division, hibye1217, jthis, junseo, tlsdydaud1",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "segtree"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3.4865000247955322

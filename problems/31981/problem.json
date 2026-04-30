@@ -15,10 +15,7 @@
   "hint": "<p>Pojašnjenje probnog primjera:</p>\n<p>U prvom eksperimentu možemo sudariti čestice vrsta $3$ i $4$, čime preostaju dvije čestice vrste $2$. Ne postoji način da na kraju preostane neka druga vrsta čestica.</p>\n<p>U drugom eksperimentu moguće je za svaku vrstu čestica postići da na kraju preostani neki broj čestica te vrste.</p>\n<p>U četvrtom i petom eksperimentu će neovisno o odabiru sudara na kraju preostati neki broj čestica vrste $4$.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Croatian Olympiad in Informatics 2024",
   "level": 20,
-  "tags": [
-    "mo",
-    "offline_queries"
-  ],
+  "tags": ["mo", "offline_queries"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 6.7778000831604

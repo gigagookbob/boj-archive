@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2024, Day 7: Farewell Contest",
   "level": 22,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "mitm"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "mitm"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

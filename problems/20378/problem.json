@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1994 Mid-Central Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.6562999486923218

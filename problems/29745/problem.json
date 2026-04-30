@@ -10,12 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2023, Day 1",
   "level": 25,
-  "tags": [
-    "greedy",
-    "sorting",
-    "trees",
-    "set"
-  ],
+  "tags": ["greedy", "sorting", "trees", "set"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.5

@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2025, 2차 선발고사, koosaga",
   "level": 24,
-  "tags": [
-    "math",
-    "data_structures",
-    "binary_search",
-    "smaller_to_larger"
-  ],
+  "tags": ["math", "data_structures", "binary_search", "smaller_to_larger"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 10.83329963684082

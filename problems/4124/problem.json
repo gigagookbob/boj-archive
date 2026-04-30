@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 13 October, 2012",
   "level": 16,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["math", "ad_hoc", "case_work"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.6666998863220215

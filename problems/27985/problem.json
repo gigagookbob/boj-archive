@@ -19,10 +19,7 @@
   "hint": "<p>어떤 매칭에 대해, 어떤 연결되지 <strong>못한</strong> 두 학생의 쌍 $(i, j)$가 다음 조건을 만족할 때 <strong>unstable</strong>하다고 한다.</p>\r\n\r\n<ul>\r\n\t<li>$i$는 그의 파트너보다 $j$를 더 선호한다.</li>\r\n\t<li>$j$는 그의 파트너보다 $i$를 더 선호한다.</li>\r\n</ul>\r\n\r\n<p><strong>Stable matching</strong>이란 <strong>unstable</strong>한 쌍이 없는 매칭을 의미한다.</p>\r\n",
   "source": "School, 한국과학영재학교, 2022 Fall CS2 Final Mock Exam, runnie0427, eric00513, flakepowders, kiwiyou, leeh18, parkky",
   "level": 20,
-  "tags": [
-    "graphs",
-    "stable_marriage"
-  ],
+  "tags": ["graphs", "stable_marriage"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.0806000232696533

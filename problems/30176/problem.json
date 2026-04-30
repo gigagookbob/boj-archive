@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case, if you select indices $3, 4$ at the $1$-st second and $4$ at the $2$-nd second, then $a$ will become $[1, 7, 7, 8]$. There are some other possible ways to make $a$ nondecreasing in $2$ seconds, but you can't do it faster.</p>\n<p>In the second test case, $a$ is already nondecreasing, so answer is $0$.</p>\n<p>In the third test case, if you do nothing at first $2$ seconds and select index $2$ at the $3$-rd second, $a$ will become $[0, 0]$.</p>",
   "source": "Contest, Codeforces, Codeforces Round 633 (Div. 1), Contest, Codeforces, Codeforces Round 633 (Div. 2), spongbob9876",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["math", "greedy", "ad_hoc", "bitmask"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.642899990081787

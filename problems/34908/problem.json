@@ -15,12 +15,7 @@
   "hint": "<p>During an actual run the solution does not know the hidden array; it is shown here only to justify the sample.</p>\n<p>In the first test case, the judge prints <code>5</code>, so $N=5$. Its hidden array is $[7,11,6,5,17]$.</p>\n<ul>\n<li>The program asks <code>? 1 2</code> and receives <code>77</code> from $7\\times 11$.</li>\n<li>It asks <code>? 3 4</code> and receives <code>30</code> from $6\\times 5$.</li>\n<li>It asks <code>? 4 5</code> and receives <code>85</code> from $5\\times 17$.</li>\n</ul>\n<p>The program then correctly outputs <code>! 7 11 6 5 17</code>.</p>\n<p>In the second test case, the judge prints <code>5</code>. Its hidden array is $[1,40,61,41,69]$.</p>\n<p>The program asks <code>? 1 5</code> and receives <code>69</code> from $1\\times 69$. It then outputs <code>! 1 40 61 41 69</code>, which matches the judge's array.</p>\n<p>This illustrates one valid interaction sequence; any correct determination of the array using allowed queries is acceptable.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Advanced Team Round, University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Beginner Round",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "euclidean"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.5

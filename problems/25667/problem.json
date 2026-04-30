@@ -15,10 +15,7 @@
   "hint": "<p>The example output does not solve the problem, it is given only to demonstrate the format.</p>\n<p>When checking your output, the checker will perform the following checks.</p>\n<ol>\n<li>If your output exceeds $100\\,000$ lines, return WA and exit immediately.</li>\n<li>If your output contains an illegal instruction, return WA and exit immediately.</li>\n<li>Perform the following process $5000$ times:\n\t<ol style=\"list-style-type: lower-alpha;\">\n<li>Given are two 64-bit unsigned integers $x$ and $y$.</li>\n<li>Clear all registers to zero and make $a_1 = x$ and $a_2 = y$.</li>\n<li>Execute your program.</li>\n<li>If the <em>runtime</em> exceeds $70$, return WA and exit immediately.</li>\n<li>Check if the value of $a_1$ is $(x \\cdot y) \\bmod 2^{64}$. If not, return WA and exit immediately.</li>\n</ol>\n</li>\n<li>Return OK and exit immediately.</li>\n</ol>\n<p>Note that the checker will only check the register $a_1$. The final values of all other registers can be arbitrary.</p>\n<p>The $5000$ pairs of $x$ and $y$ for the checker are fixed in advance.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 3: Qingyu, flower and their friends’ Contest",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

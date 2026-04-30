@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2016, bupjae",
   "level": 21,
-  "tags": [
-    "case_work",
-    "constructive"
-  ],
+  "tags": ["case_work", "constructive"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4.652200222015381

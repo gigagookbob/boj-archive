@@ -19,10 +19,7 @@
   "hint": "<p>두식이의 할아버지는 군위에서 사과 농사를 짓고 있고, 윤하는 할아버지 성함이다. </p>\n<p>하지만 문제에 서술한 '군위윤하사과'와는 무관하다. </p>\n<blockquote>\n<p>군위 사과는 위액의 분비를 왕성하게 하여 소화를 도와주며 철분의 흡수를 높여줄 뿐만 아니라 스트레스로 인한 긴장을 완화 시켜 주는 유익한 과일로, 해발고도가 평지보다 높고 모래를 포함한 사질 토양이 발달한 팔공산 자락에서 재배되어 다른 곳에 비해 기후가 서늘해서 육질이 단단하고 과즙이 많으며 향이 좋다. </p>\n<p>-[네이버 지식백과] 군위 사과-</p>\n</blockquote>",
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, hopedream, eric00513, kiwiyou, ksoosung77, nflight11, parkky, starbow, tony9402, utilforever, wizardrabbit, ychangseok",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 521,
   "submission_count": null,
   "average_tries": 1.1995999813079834

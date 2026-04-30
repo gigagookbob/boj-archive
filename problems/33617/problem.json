@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제2회 피갤컵, ibm2006, dong5995, kwoncycle, lunarlity, plast, pyb1031, realpsdoingdamyoo",
   "level": 17,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.1310999393463135

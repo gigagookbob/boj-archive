@@ -19,11 +19,7 @@
   "hint": "<p><strong>Pojašnjenje prvog probnog primjera:</strong> Zato što je tek četvrta operacija prva tipa $1$, $lastans = 0$ te operacija nije mijenjanja. Predstavnik države $2$ putuje u državu $3$ i plaća dvostruku carinu $6$ zato što je jedina te stoga i najveća grupa koja ulazi u taj grad. Sada predstavnici iz gradova $2$ i $3$ zajedno ulaze u grad $6$, zato što se ta grupa sastoji od dvoje ljudi, a grupa iz čvora $7$ od samo jedne osobe, oni plaćaju dvostruku carinu tj. predstavnik grada $2$ plaća carinu $6$. Nakon toga zajedno predstavnici država $2$, $3$, $6$ i $7$ putuju u državu $1$ te opet plaćaju dvostruku carinu kao najveća grupa, stoga predstavnik države $2$ plaća $8$. To čini ukupnu svotu $6 + 6 + 8 = 20$.</p>\n<p>U petoj operaciji $lastans = 20$ stoga je $v = 16 ⊕ 20 = 5$. Predstavnik države $5$ sam putuje u državu $1$, zato što nije najveća grupa plaća jednostruku carinu tj. $4$.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2021",
   "level": 25,
-  "tags": [
-    "trees",
-    "hld",
-    "link_cut_tree"
-  ],
+  "tags": ["trees", "hld", "link_cut_tree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 9

@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>There are four cows weighing 5, 6, 3, and 7 pounds. The elevator has a maximum weight capacity of 10 pounds.</p>\n<h4>Output Details</h4>\n<p>We can put the cow weighing 3 on the same elevator as any other cow but the other three cows are too heavy to be combined. For the solution above, elevator ride 1 involves cow #1 and #3, elevator ride 2 involves cow #2, and elevator ride 3 involves cow #4. Several other solutions are possible for this input.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO March 2012 Contest, Gold",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.971400022506714

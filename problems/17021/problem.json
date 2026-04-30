@@ -15,12 +15,7 @@
   "hint": "<p>In this example, Bessie knows three words. The first two words rhyme, and have lengths of three syllables and four syllables, and the last word is three syllables long and doesn't rhyme with the others. She wants to write a three-line poem such that each line contains ten syllables and the first and last lines rhyme. There are 960 such poems. One example of a valid poem is the following (where 1, 2, and 3 represent the first, second, and third words): 121 123 321</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 January Contest, Gold",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "dp", "combinatorics", "exponentiation_by_squaring"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 2.008699893951416

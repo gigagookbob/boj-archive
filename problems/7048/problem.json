@@ -15,12 +15,7 @@
   "hint": "<p>John can choose candies in the following ways:</p>\n<p style=\"text-align: center;\">(1, 0), (2, 0), (3, 0), (0, 1), (0, 2), (0, 3), (1, 1), (1, 2), (2, 1)</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2004, Day 1",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics",
-    "generating_function"
-  ],
+  "tags": ["math", "dp", "combinatorics", "generating_function"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 3.1033999919891357

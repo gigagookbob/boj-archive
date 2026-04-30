@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2018 East Central Regional Contest",
   "level": 18,
-  "tags": [
-    "graphs",
-    "dag",
-    "floyd_warshall",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "floyd_warshall", "scc"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.6666998863220215

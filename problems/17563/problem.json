@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2018, urd05",
   "level": 22,
-  "tags": [
-    "randomization",
-    "sqrt_decomposition",
-    "birthday"
-  ],
+  "tags": ["randomization", "sqrt_decomposition", "birthday"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 7.571400165557861

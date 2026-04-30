@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #4, baekjoon, YunGoon, krenerd",
   "level": 3,
-  "tags": [
-    "string",
-    "implementation"
-  ],
+  "tags": ["string", "implementation"],
   "accepted_user_count": 6984,
   "submission_count": null,
   "average_tries": 1.8997999429702759

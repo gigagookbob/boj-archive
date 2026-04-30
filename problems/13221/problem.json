@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2015 AIPO Preliminary Round",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "geometry", "arithmetic"],
   "accepted_user_count": 620,
   "submission_count": null,
   "average_tries": 1.3128999471664429

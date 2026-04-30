@@ -19,10 +19,7 @@
   "hint": "<table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" class=\"table table-bordered\" style=\"margin-left: auto; margin-right: auto\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 299px; width: 350px;\"/></td>\n<td style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height: 296px; width: 350px;\"/></td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">(a) 예제 1의 도화지와 그림</td>\n<td style=\"text-align: center;\">(b) 예제 2의 도화지와 그림</td>\n</tr>\n</tbody>\n</table>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023, amel, 99asdfg, asdarwin03, evenharder, hyperbolic, jh05013, kclee2172, tlsdydaud1, wapas, wider93",
   "level": 16,
-  "tags": [
-    "implementation",
-    "sweeping"
-  ],
+  "tags": ["implementation", "sweeping"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 4.730800151824951

@@ -15,11 +15,7 @@
   "hint": "<p>다음 경우가 5 번의 점프로 가능한 시나리오이다.</p>\r\n\r\n<ul>\r\n\t<li>도게 0이 큰빌딩 2로 점프, 또 큰빌딩 4로 점프 (2번 점프).</li>\r\n\t<li>도게 0이 소식을 도게 2에게 전함.</li>\r\n\t<li>도게 2가 큰빌딩 3으로 점프, 또 큰빌딩 2로 점프, 또 큰빌딩 1로 점프 (3번 점프).</li>\r\n\t<li>도게 2가 도게 1에게 소식을 전함.</li>\r\n</ul>\r\n",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2015",
   "level": 22,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 3.7614998817443848

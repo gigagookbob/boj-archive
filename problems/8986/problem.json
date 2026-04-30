@@ -19,9 +19,7 @@
   "hint": "<p>중간 계산 결과와 출력할 값이 32비트 정수형 범위를 벗어날 수 있으니 64비트 정수형을 이용할 것을 권장한다.</p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2013, 고등부, travis01, sait2000, djm03178",
   "level": 16,
-  "tags": [
-    "ternary_search"
-  ],
+  "tags": ["ternary_search"],
   "accepted_user_count": 1136,
   "submission_count": null,
   "average_tries": 3.325700044631958

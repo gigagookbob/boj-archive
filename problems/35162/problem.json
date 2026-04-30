@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2025 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, kidw0124, foxpython, cywohoy, ezh8n, foxpython, mathjuny, sshs29hanul, tlsdydaud1, utilforever",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "geometry",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "geometry", "constructive", "case_work"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.7414000034332275

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2021, Coxie, jh05013, rhs0266, spectaclehong",
   "level": 6,
-  "tags": [
-    "math",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "pigeonhole_principle"],
   "accepted_user_count": 1145,
   "submission_count": null,
   "average_tries": 2.139699935913086

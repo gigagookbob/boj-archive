@@ -19,11 +19,7 @@
   "hint": "<p>If the egg starts flying at a speed of $v$, then after flying for $t$ seconds, it will move at a speed of $v + g \\cdot t$, or just $v + t$ in our case, and will cover the total distance of $v \\cdot t + g \\cdot \\frac{t^2}{2}$, or just $v \\cdot t + \\frac{t^2}{2}$ in our case.</p>\n<p>In the first example, the optimal solution looks as follows:</p>\n<ul>\n<li>Person $5$ throws the egg at a speed of $4$. After flying for $2$ seconds, it will cover $4 \\cdot 2 + \\frac{2^2}{2}=10$ meters and will be moving at a speed of $6$, so person $3$ will be able to catch it.</li>\n<li>Person $3$ throws the egg at a speed of $1$, and after $2$ seconds, person $2$ will catch it.</li>\n<li>Person $2$ throws the egg at a speed of $5$, and after $2$ more seconds, person $1$ will catch it, completing the challenge in $6$ seconds.</li>\n</ul>\n<p>In the second example, even if person $2$ throws the egg at a speed of $0$, it will still move faster than $4$ when it reaches the first floor. So, safe lowering is impossible.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 5: Moscow IPT Yolki-Palki Contest 1",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "segtree"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

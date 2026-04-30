@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Autumn Tournament in Informatics, 2020, Group C",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

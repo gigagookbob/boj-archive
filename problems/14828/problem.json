@@ -15,12 +15,7 @@
   "hint": "<p>In sample case #1, the optimal plan is as follows:</p>\n<ul>\n<li>Wait at camp 1 for an hour, until it becomes hour 1.</li>\n<li>Leave camp 1 at hour 1 to take the 5 hour hiking tour; arrive at camp 2 at hour 6.</li>\n<li>Immediately leave camp 2 at hour 6 to take the 3 hour hiking tour; arrive at camp 1 at hour 9.</li>\n<li>Wait at camp 1 for 15 hours, until it becomes hour 0 of the next day.</li>\n<li>Leave camp 1 at hour 0 to take the 3 hour hiking tour; arrive at camp 2 at hour 3.</li>\n<li>Wait at camp 2 for 1 hour, until it becomes hour 4.</li>\n<li>Leave camp 2 at hour 4 to take the 4 hour hiking tour; arrive at camp 1 at hour 8.</li>\n</ul>\n<p>This achieves the goal in 1 day and 8 hours, or 32 hours. Any other plan takes longer.</p>\n<p>In sample case #2, all of the tours leave at the same time and are the same duration. After finishing any tour, you can immediately take another tour. If we number the tours from 1 to 8 in the order in which they appear in the test case, one optimal plan is: 1, 5, 4, 7, 6, 2, 3, 8.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 3",
   "level": 24,
-  "tags": [
-    "eulerian_path",
-    "graphs",
-    "greedy",
-    "mst"
-  ],
+  "tags": ["eulerian_path", "graphs", "greedy", "mst"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.642899990081787

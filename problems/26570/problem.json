@@ -15,11 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2019, Advanced",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "backtracking"
-  ],
+  "tags": ["math", "number_theory", "backtracking"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.2352999448776245

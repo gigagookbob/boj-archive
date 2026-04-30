@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제2회 웰노운컵 Day 2, jwvg0425, seonh4996, myungwoo",
   "level": 17,
-  "tags": [
-    "string",
-    "z"
-  ],
+  "tags": ["string", "z"],
   "accepted_user_count": 276,
   "submission_count": null,
   "average_tries": 4.11959981918335

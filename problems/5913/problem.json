@@ -15,10 +15,7 @@
   "hint": "<p>입력으로 주어진 상황을 그림으로 그리면 아래와 같다. 점(.)은 사과 나무가 있는 칸, x는 없는 칸을 나타내며, j는 준규의 위치, h는 해빈이의 위치이다.</p>\r\n\r\n<pre>\r\nj  .  .  .  .\r\n\r\n.  .  .  .  .\r\n\r\nx  x  x  x  .\r\n\r\n.  .  .  .  .\r\n\r\n.  .  .  .  h\r\n</pre>\r\n\r\n<p>문제의 조건을 지키면서 사과를 모두 수확하는 방법은 한가지이며, 아래와 같다.</p>\r\n\r\n<pre>\r\nj  j--j  j--j\r\n|  |  |  |  |\r\nj--j  j--j  j\r\n            |\r\nx  x  x  x j/h\r\n            |\r\nh--h--h--h--h\r\n|\r\nh--h--h--h--h\r\n</pre>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO January 2012 Contest, Bronze, baekjoon, jamescsi",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 586,
   "submission_count": null,
   "average_tries": 1.537500023841858

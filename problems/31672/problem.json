@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, NLCS Jeju, GEC-Cup 2024, dhyang24, hjroh0315, ingyu1008, kaorin, qvixnh22, sait2000, sorohue",
   "level": 8,
-  "tags": [
-    "implementation",
-    "set",
-    "simulation"
-  ],
+  "tags": ["implementation", "set", "simulation"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 1.968400001525879

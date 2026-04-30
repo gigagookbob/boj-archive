@@ -19,10 +19,7 @@
   "hint": "<p>Ниже находится иллюстрация к первому примеру:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 640px; height: 131px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, January 29, 2022",
   "level": 13,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

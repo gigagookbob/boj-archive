@@ -23,13 +23,7 @@
   "hint": "<p>Opis prvog test podatka: Medveščak je prvu utakmicu odigrao kod kuće i pobijedio nakon tri trećine ukupnim rezultatom 7:4 (3 boda za pobjedu). Drugu utakmicu je igrao u gostima. Nakon tri trećine rezultat je bio neriješen (4:4), pobjedu je u produžetku odnio protivnik/domaćin pa je Medveščak dobio jedan bod. U trećem meču igranom kod kuće, Medveščak je odnio pobjedu nakon izvođenja kaznenih udaraca i dobio 1 bod za pobjedu.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2016, Junior Croatian Olympiad in Informatics 2016",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic", "parsing"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.333299994468689

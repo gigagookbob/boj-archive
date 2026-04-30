@@ -15,12 +15,7 @@
   "hint": "<p>첫 번째 예제에서, 다섯 개의 세미나를 다음과 같은 일정으로 진행한다.</p>\n<ul>\n<li>첫 번째 세미나를 $3$일차부터 $5$일차까지 진행한다.</li>\n<li>두 번째 세미나를 $6$일차부터 $8$일차까지 진행한다.</li>\n<li>세 번째 세미나를 $1$일차부터 $3$일차까지 진행한다.</li>\n<li>네 번째 세미나를 $4$일차부터 $6$일차까지 진행한다.</li>\n<li>다섯 번째 세미나를 $7$일차부터 $9$일차까지 진행한다.</li>\n</ul>\n<p>이 경우, $1$일차부터 $9$일차까지 각 날에 진행되는 세미나의 수는 차례로 $1,\\, 1,\\, 2,\\, 2,\\, 2,\\, 2,\\, 2,\\, 2,\\, 1$개이다. 따라서 진행되는 세미나가 가장 많은 날의 세미나 수는 $2$개이다.</p>\n<p>$2$개 이상의 세미나가 진행되는 날이 없게 일정을 정하는 방법은 없음을 증명할 수 있다.</p>",
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2023 예선, puppy, asdarwin03, dohoon, evenharder, functionx, golazcc83, hyperbolic, jh05013, kclee2172, man_of_learning, queued_q, silverwolf, tlsdydaud1, wapas",
   "level": 15,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 285,
   "submission_count": null,
   "average_tries": 2.5192999839782715

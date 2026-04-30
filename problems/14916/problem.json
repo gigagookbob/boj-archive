@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2017 ERICA Programming Contest, League B (초보), gdfssd, pkcchoi3, isku, nandong1104, object1997",
   "level": 6,
-  "tags": [
-    "math",
-    "dp",
-    "greedy"
-  ],
+  "tags": ["math", "dp", "greedy"],
   "accepted_user_count": 14783,
   "submission_count": null,
   "average_tries": 2.1250998973846436

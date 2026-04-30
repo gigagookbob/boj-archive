@@ -19,10 +19,7 @@
   "hint": "<p>Please assume that all elements are distinct.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2023",
   "level": 18,
-  "tags": [
-    "math",
-    "trees"
-  ],
+  "tags": ["math", "trees"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2.2249999046325684

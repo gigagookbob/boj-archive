@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, K512컵, 2024 서강대학교 K512컵, hulahula3247, alex9801, greedev, jk410, lky7674",
   "level": 21,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.3076999187469482

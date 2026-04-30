@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2009",
   "level": 14,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "ad_hoc",
-    "geometry"
-  ],
+  "tags": ["math", "bruteforcing", "ad_hoc", "geometry"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.875

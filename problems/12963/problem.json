@@ -31,13 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "greedy",
-    "disjoint_set",
-    "flow"
-  ],
+  "tags": ["data_structures", "graphs", "greedy", "disjoint_set", "flow"],
   "accepted_user_count": 544,
   "submission_count": null,
   "average_tries": 1.981600046157837

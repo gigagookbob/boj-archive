@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2012-2013 Season, February 23, 2013",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["ad_hoc", "math", "number_theory"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

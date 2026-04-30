@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2025 Preliminaries",
   "level": 19,
-  "tags": [
-    "greedy",
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["greedy", "geometry", "convex_hull"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

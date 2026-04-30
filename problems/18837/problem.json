@@ -43,13 +43,7 @@
   "hint": null,
   "source": "baekjoon, cgiosy, easrui",
   "level": 24,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "prefix_sum",
-    "lis"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "prefix_sum", "lis"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 12.63640022277832

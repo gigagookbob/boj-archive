@@ -15,10 +15,7 @@
   "hint": null,
   "source": "gunwookim",
   "level": 19,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3

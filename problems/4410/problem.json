@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 19 June, 1999, dotorya",
   "level": 11,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "binary_search",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "binary_search", "combinatorics"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.1738998889923096

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2022",
   "level": 22,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "bipartite_matching"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2143000364303589

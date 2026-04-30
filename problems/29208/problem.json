@@ -15,11 +15,7 @@
   "hint": "<p>Родственные связи есть у зверей 10 и 301, 74 и 47, 74 и 77, 47 и 77. Всего - 4 пары.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, October 6, 2013, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, October 6, 2013, Advanced",
   "level": 9,
-  "tags": [
-    "math",
-    "combinatorics",
-    "bitmask"
-  ],
+  "tags": ["math", "combinatorics", "bitmask"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.200000047683716

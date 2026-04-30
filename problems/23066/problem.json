@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2021, Day 2",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "greedy"
-  ],
+  "tags": ["game_theory", "greedy"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.5555999279022217

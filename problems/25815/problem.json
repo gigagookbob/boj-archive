@@ -31,11 +31,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2021 Local Programming Contest (Qualifying Round)",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 290,
   "submission_count": null,
   "average_tries": 1.1897000074386597

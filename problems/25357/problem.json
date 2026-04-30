@@ -15,10 +15,7 @@
   "hint": "<p>The points and the segments from the example are shown below.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 512px; height: 406px;\"/></p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2021",
   "level": 10,
-  "tags": [
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["geometry", "case_work"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 2.4130001068115234

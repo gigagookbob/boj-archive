@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2023 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2023 고려대학교 프로그래밍 경시대회 (KCPC), Div. 2, rootsquare, kdh9949, kidw0124, kyo20111, utilforever, wnguscjf01, yijw0930",
   "level": 18,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 3.6222000122070312

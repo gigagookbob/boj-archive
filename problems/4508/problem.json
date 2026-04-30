@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2011 South Central USA  Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "math",
-    "string",
-    "geometry",
-    "parsing"
-  ],
+  "tags": ["math", "string", "geometry", "parsing"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.666700005531311

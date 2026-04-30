@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2022, Division 1, University, University of Alberta Programming Contest, UAPC 2022, Division 2",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 351,
   "submission_count": null,
   "average_tries": 1.3077000379562378

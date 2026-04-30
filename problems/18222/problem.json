@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2019 Overflow Programming Contest (OPC), hojoon0205",
   "level": 9,
-  "tags": [
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "recursion"],
   "accepted_user_count": 1701,
   "submission_count": null,
   "average_tries": 2.4591000080108643

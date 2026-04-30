@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author6, willi19",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "multi_segtree"
-  ],
+  "tags": ["data_structures", "segtree", "multi_segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 8.777799606323242

@@ -15,14 +15,7 @@
   "hint": "<p>$1 \\le T \\le 10$, $1 \\le n \\le 500$, $n-2 \\le m \\le 5000$, $m \\ge 1$, $1 \\le k \\le 5000$, $\\sum\\limits_{i=1}^n d_i = m \\times k$.</p>",
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2020",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "bitset",
-    "constructive",
-    "greedy",
-    "knapsack",
-    "math"
-  ],
+  "tags": ["ad_hoc", "bitset", "constructive", "greedy", "knapsack", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3

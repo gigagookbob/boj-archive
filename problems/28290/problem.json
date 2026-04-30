@@ -31,10 +31,7 @@
   "hint": null,
   "source": "School, 대구소프트웨어마이스터고등학교, 2023 대구소프트웨어고 프로그래밍 경진대회 (DPC 2023), changwook987, amsminn, chansol, hibye1217, martinok1103, tlsdydaud1, utilforever",
   "level": 2,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 2026,
   "submission_count": null,
   "average_tries": 1.5300999879837036

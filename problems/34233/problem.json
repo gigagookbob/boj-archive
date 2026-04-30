@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 2, mathtw1030, cologne, jms020820, lkh3happy, tlsdydaud1",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "bfs", "dfs"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.90910005569458

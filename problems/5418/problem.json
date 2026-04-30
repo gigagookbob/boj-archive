@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2005",
   "level": 25,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "geometry_3d"
-  ],
+  "tags": ["geometry", "convex_hull", "geometry_3d"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

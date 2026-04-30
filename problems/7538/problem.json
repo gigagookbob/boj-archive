@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2005",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["ad_hoc", "parity", "invariant"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.434000015258789

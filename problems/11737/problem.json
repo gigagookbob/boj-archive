@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2015",
   "level": 22,
-  "tags": [
-    "articulation",
-    "cactus",
-    "graphs"
-  ],
+  "tags": ["articulation", "cactus", "graphs"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.0555999279022217

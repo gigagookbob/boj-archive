@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2023, xiaowuc1",
   "level": 14,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "prime_factorization"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "prime_factorization"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.020400047302246

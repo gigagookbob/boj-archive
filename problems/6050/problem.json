@@ -15,10 +15,7 @@
   "hint": "<p>The height measurements are 3, 2, 3, 5, 4, 1, 6.</p>\n<p>The widest mountain consists of the measurements 2, 3, 5, 4, 1. Other mountains include 3, 2 and 1, 6</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO US Open 2010 Contest, Silver",
   "level": 12,
-  "tags": [
-    "implementation",
-    "dp"
-  ],
+  "tags": ["implementation", "dp"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.0571000576019287

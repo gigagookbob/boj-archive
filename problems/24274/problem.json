@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2022!, Camp, Petrozavodsk Programming Camp, Winter 2022, Day 2: Grand Prix of Daejeon, Contest, Open Cup, 2021/2022 Season, Stage 11: Grand Prix of Daejeon, queued_q, functionx, ho94949, kyo20111, leejseo, shiftpsh",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "bipartite_matching",
-    "flow",
-    "graphs"
-  ],
+  "tags": ["ad_hoc", "bipartite_matching", "flow", "graphs"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.333299994468689

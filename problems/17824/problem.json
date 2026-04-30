@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 2: 300iq Contest 2, Contest, Open Cup, 2019/2020 Season, Stage 1: Grand Prix of Kazan, 300iq, koosaga",
   "level": 27,
-  "tags": [
-    "dp",
-    "dp_connection_profile",
-    "dp_tree",
-    "graphs",
-    "trees"
-  ],
+  "tags": ["dp", "dp_connection_profile", "dp_tree", "graphs", "trees"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

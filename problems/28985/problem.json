@@ -19,10 +19,7 @@
   "hint": "<p>В первом тестовом примере можно собрать прямоугольник со сторонами 1 + 2, 3, 4 + 7 и 5 + 6 --- суммарная длина палочек в этом прямоугольнике равна 28.</p>\n<p>Во втором тестовом примере ни одного прямоугольника составить нельзя.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Advanced",
   "level": 8,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.3499999046325684

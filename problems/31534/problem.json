@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제4회 고려대학교 MatKor Cup: 2024 Winter/Spring, alex04, kidw0124, eoaud0108, tikiliki0417, leeminjae, yijw0930, w8385, utilforever, tlsdydaud1, sshs29hanul, rachel2003, lighter, kevinlys00, finimage, devluyten, chlwnsgurb, changhw",
   "level": 7,
-  "tags": [
-    "math",
-    "geometry",
-    "geometry_3d",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "geometry_3d", "pythagoras"],
   "accepted_user_count": 325,
   "submission_count": null,
   "average_tries": 2.240000009536743

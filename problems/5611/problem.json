@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2005/2006 예선",
   "level": 18,
-  "tags": [
-    "arbitrary_precision",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "combinatorics", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.875

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "xhark, chogahui05, Green55, ho94949, Green55",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 841,
   "submission_count": null,
   "average_tries": 3.2520999908447266

@@ -35,12 +35,7 @@
   "hint": "<p>For example, for $n = 4$ you should count the permutation $[4, 2, 3, 1]$, as $4 \\bmod 2 = 0 \\le 2$, $2 \\bmod 3 = 2 \\le 2$, $3 \\bmod 1 = 0 \\le 2$, $1 \\bmod 4 = 1 \\le 2$. However, you shouldn’t count the permutation $[3, 4, 1, 2]$, as $3 \\bmod 4 = 3 &gt; 2$ which violates the condition from the statement.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2020, Contest, Open Cup, 2020/2021 Season, Stage 17: Grand Prix of Southern Europe",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "dp", "number_theory", "harmonic_number"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.107100009918213

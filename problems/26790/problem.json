@@ -15,12 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Potrzeba co najmniej 8 godzin, żeby uzyskać łącznie co najmniej 9 robotów. Na początku trzeba zeskanować robota, co zajmuje 2 godziny. Następnie należy dwukrotnie wydrukować zawartość pamięci, co zajmuje kolejne 2 godziny i zwiększa stan armii do 3 robotów. Wtedy należy jeszcze raz zeskanować całą armię i dwukrotnie wydrukować zawartość pamięci, co zajmuje w sumie 4 godziny i zwiększa liczebność armii do 9. W ten sposób po 8 godzinach powstaje 8 nowych robotów, przy czym na koniec w pamięci drukarki znajduje się skan 3 robotów.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2021/2022, Stage 2",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing",
-    "binary_search"
-  ],
+  "tags": ["math", "greedy", "bruteforcing", "binary_search"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

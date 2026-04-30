@@ -27,11 +27,7 @@
   "hint": null,
   "source": null,
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "greedy", "prefix_sum"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.2222000360488892

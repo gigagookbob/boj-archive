@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, SpringSpot 2011",
   "level": 9,
-  "tags": [
-    "greedy",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["greedy", "implementation", "simulation"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5556000471115112

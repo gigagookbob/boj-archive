@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2021, leinad2",
   "level": 25,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "euclidean"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 2.7248001098632812

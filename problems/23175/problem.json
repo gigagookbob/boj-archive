@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2021 KAIST 11th ICPC Mock Competition, leejseo, ainta, ansemddl97, cs71107, jh05013, koosaga, tncks0121, xiaowuc1",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 251,
   "submission_count": null,
   "average_tries": 1.3068000078201294

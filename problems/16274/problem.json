@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Elimination Round",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy",
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["dp", "greedy", "string", "suffix_array"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2017",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "string",
-    "binary_search",
-    "sparse_table",
-    "kmp"
-  ],
+  "tags": ["data_structures", "string", "binary_search", "sparse_table", "kmp"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.6842000484466553

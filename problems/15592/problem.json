@@ -15,11 +15,7 @@
   "hint": "<p>Here, the cow feed billboard obscures the lower right corner of the lawnmower billboard, but this doesn't really help, since Bessie still needs to use a tarp whose size is as large as the entire lawnmower billboard.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 January Contest, Bronze",
   "level": 7,
-  "tags": [
-    "implementation",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["implementation", "geometry", "case_work"],
   "accepted_user_count": 489,
   "submission_count": null,
   "average_tries": 2.85479998588562

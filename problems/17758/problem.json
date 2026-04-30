@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2015",
   "level": 23,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring",
-    "pisano"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring", "pisano"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 7.690499782562256

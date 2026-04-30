@@ -15,10 +15,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 12,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 814,
   "submission_count": null,
   "average_tries": 2.594599962234497

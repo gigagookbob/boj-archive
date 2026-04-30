@@ -19,9 +19,7 @@
   "hint": "<p>The example answer to the first test encodes the function $(x-3)^4 + (y + (-5))^2$. Note that it has no local maxima, no plateaus, and just one local minimum.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Regional Contest",
   "level": 16,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 논산 코드 페스티벌, 제1회 논산 코드 페스티벌, junie",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "set"],
   "accepted_user_count": 131,
   "submission_count": null,
   "average_tries": 5.236599922180176

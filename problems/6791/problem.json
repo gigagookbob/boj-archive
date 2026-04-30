@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2011, CCO 2011",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "tree_set", "set"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

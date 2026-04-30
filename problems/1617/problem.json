@@ -31,12 +31,7 @@
   "hint": "<p>방법 1과 2로 채우는 10*10크기의 직사각형과(100개의 검정칸), 방법 3과 4로 채우는 10*10크기의 직사각형(75개의 검정칸)이다. 두 직사각형은 서로 3개의 검정칸을 공유하므로 정답은 100+75-3=172이다.</p>",
   "source": "baekjoon, kks227",
   "level": 18,
-  "tags": [
-    "implementation",
-    "bitmask",
-    "sweeping",
-    "coordinate_compression"
-  ],
+  "tags": ["implementation", "bitmask", "sweeping", "coordinate_compression"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.333299994468689

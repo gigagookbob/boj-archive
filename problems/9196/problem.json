@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2013 Japan Domestic Contest, baekjoon",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "precomputation"
-  ],
+  "tags": ["bruteforcing", "sorting", "precomputation"],
   "accepted_user_count": 430,
   "submission_count": null,
   "average_tries": 1.6162999868392944

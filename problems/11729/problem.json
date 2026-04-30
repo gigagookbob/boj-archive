@@ -15,9 +15,7 @@
   "hint": null,
   "source": "baekjoon, hayman42",
   "level": 11,
-  "tags": [
-    "recursion"
-  ],
+  "tags": ["recursion"],
   "accepted_user_count": 43372,
   "submission_count": null,
   "average_tries": 1.9148999452590942

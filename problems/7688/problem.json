@@ -15,12 +15,7 @@
   "hint": "<p>In the above example, an optimal solution is achieved by removing the 2nd stone and the 7th stone, leaving three “2” stones, three “1” stones, and two “3” stones. Other solutions may be possible.</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2005",
   "level": 15,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bruteforcing", "bitmask", "dp_bitfield"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 5 books.  Each shelf can have total width at most 10.</p><h4>Output Details</h4><p>There are 3 shelves, the first containing just book 1 (height 5, width 7), the second containing books 2..4 (height 13, width 9), and the third containing book 5 (height 3, width 8).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO US Open 2012 Contest, Silver",
   "level": 13,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.357100009918213

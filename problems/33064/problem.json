@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2024 December Contest, Bronze",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "string",
-    "bruteforcing",
-    "set"
-  ],
+  "tags": ["data_structures", "string", "bruteforcing", "set"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 2.0922999382019043

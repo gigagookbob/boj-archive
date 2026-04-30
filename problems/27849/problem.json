@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 February Contest, Bronze",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 303,
   "submission_count": null,
   "average_tries": 2.9307000637054443

@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 16,
-  "tags": [
-    "dp",
-    "parity"
-  ],
+  "tags": ["dp", "parity"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.2567999362945557

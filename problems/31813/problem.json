@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2024 KAIST RUN Spring Contest, ai4youej, 79brue, flakepowders, flappybird, koosaga, octane, parkky, qwerasdfzxcl",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["math", "greedy", "constructive"],
   "accepted_user_count": 279,
   "submission_count": null,
   "average_tries": 2.3477001190185547

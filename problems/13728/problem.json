@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "linear_algebra"
-  ],
+  "tags": ["math", "number_theory", "linear_algebra"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 2.45770001411438

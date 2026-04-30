@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon, hmw9309",
   "level": 11,
-  "tags": [
-    "divide_and_conquer",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "recursion"],
   "accepted_user_count": 35371,
   "submission_count": null,
   "average_tries": 2.277100086212158

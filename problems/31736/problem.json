@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Camp, JOI Spring Training Camp, JOI 2023/2024 Spring Training Camp",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "trees"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 4.103400230407715

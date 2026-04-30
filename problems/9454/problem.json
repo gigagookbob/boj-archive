@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2013",
   "level": 24,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "sweeping",
-    "geometry_3d"
-  ],
+  "tags": ["math", "implementation", "geometry", "sweeping", "geometry_3d"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

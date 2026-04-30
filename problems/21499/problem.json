@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере потенциальную пару друзей образуют пользователи 1 и 2, а также 2 и 3. В обоих случаях у пользователей совпадает значение первой характеристики и различаются значения второй и третьей характеристик. Пользователи 1 и 3 имеют одинаковые значения первых двух характеристик, поэтому они не образуют пару потенциальных друзей.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2015",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "inclusion_and_exclusion"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.0526000261306763

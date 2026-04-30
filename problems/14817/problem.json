@@ -15,9 +15,7 @@
   "hint": "<p>Note that the last two sample cases would not appear in the Small dataset.</p>\n<p>In Case #1, both customers purchased a ticket for position 2. It is impossible to honor both tickets with a single ride, but promoting either ticket to position 1 allows you to accommodate both tickets on the same round.</p>\n<p>Case #2 is a similar story, except both tickets are for position 1. Since you cannot promote those tickets or exchange them for inferior tickets, you are forced to run 2 separate rides, one per customer.</p>\n<p>Case #3 features the same customer purchasing both positions. Since you are forced to have 2 rides for that customer, there is no reason to give out any promotions.</p>\n<p>In Case #4, notice that there may be both customers and positions with no tickets assigned. In this case, there are three tickets sold for position three. If you promote customer 2 to position 2, for instance, you can have one ride with customer 1 sitting in position 2 and customer 3 sitting in position 3, and a second ride with customer 2 in position 2 and customer 1 in position 3. Additional promotions will not allow you to decrease the number of rides, because customer 1 has two tickets and you need to honor those in different rides, regardless of position.</p>\n<p>In Case #5, one optimal solution is to promote one of the <code>3 1</code> tickets to <code>1 1</code>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 2",
   "level": 13,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.1764999628067017

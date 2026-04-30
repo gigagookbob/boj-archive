@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, imeimi2000",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "beats"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "beats"],
   "accepted_user_count": 266,
   "submission_count": null,
   "average_tries": 2.030100107192993

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2020, ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2021 연습 세션",
   "level": 5,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 97,
   "submission_count": null,
   "average_tries": 1.1339999437332153

@@ -39,10 +39,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2016",
   "level": 10,
-  "tags": [
-    "math",
-    "string"
-  ],
+  "tags": ["math", "string"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.309499979019165

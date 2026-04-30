@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2017/2018, National Round (2), 10-12 Classes",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["binary_search", "dp", "prefix_sum"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

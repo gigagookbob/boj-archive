@@ -15,9 +15,7 @@
   "hint": "<p>The sequence of speed limit signs for case 2 should be 1, 2, 0, 0, 0, 4.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, Round 1C",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.4878000020980835

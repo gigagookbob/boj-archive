@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 5: Grand Prix of Weihai, Division 1",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "hash_set",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["binary_search", "data_structures", "hash_set", "tree_set", "set"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

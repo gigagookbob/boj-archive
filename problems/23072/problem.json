@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, Swedish Coding Cup Finals 2021",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["ad_hoc", "binary_search"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 7.5

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제2회 웰노운컵 Day 1, moonrabbit2",
   "level": 23,
-  "tags": [
-    "cht",
-    "data_structures",
-    "dp",
-    "multi_segtree",
-    "segtree"
-  ],
+  "tags": ["cht", "data_structures", "dp", "multi_segtree", "segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 9.25

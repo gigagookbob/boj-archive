@@ -15,11 +15,7 @@
   "hint": "<p>В примере ограничениям удовлетворяют залы следующих размеров: 1 × 2, 1 × 3, 2 × 2.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2015",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.333299994468689

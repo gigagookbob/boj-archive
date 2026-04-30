@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2021",
   "level": 22,
-  "tags": [
-    "binary_search",
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["binary_search", "data_structures", "dp", "segtree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

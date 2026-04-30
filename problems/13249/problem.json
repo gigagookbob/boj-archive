@@ -23,13 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "ad_hoc",
-    "probability",
-    "invariant"
-  ],
+  "tags": ["math", "bruteforcing", "ad_hoc", "probability", "invariant"],
   "accepted_user_count": 223,
   "submission_count": null,
   "average_tries": 1.5605000257492065

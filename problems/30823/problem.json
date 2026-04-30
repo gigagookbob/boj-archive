@@ -15,9 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.jpg\"/></p>",
   "source": "University, 서울시립대학교, 2023 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 1, University, 서울시립대학교, 2023 서울시립대학교 프로그래밍 경진대회 (UOSPC), Div. 2, ljwljw8541, jinhan814, pjshwa, pwj6800, qqq831347, sangyoon9, saywoo, tae826, utilforever",
   "level": 8,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 309,
   "submission_count": null,
   "average_tries": 3.038800001144409

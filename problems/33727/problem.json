@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Japanese Olympiad in Informatics, JOI 2024/2025",
   "level": 24,
-  "tags": [
-    "dp",
-    "greedy",
-    "bitmask",
-    "dp_bitfield",
-    "bitset"
-  ],
+  "tags": ["dp", "greedy", "bitmask", "dp_bitfield", "bitset"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 9.714300155639648

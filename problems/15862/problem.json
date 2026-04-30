@@ -23,11 +23,7 @@
   "hint": "<p>In the first sample, there are three substrings of length 2 that contain one each of nucleobases 0 and 1 (namely “0 1”, “1 0” and “0 1”), but no substrings of length 1. Thus the shortest length is 2.</p>\n<p>In the second sample, the (unique) optimal substring is “1 3 2 0 1 2 0”.</p>\n<p>In the third sample, there aren’t enough nucleobases of type 0.</p>",
   "source": ", Olympiad, Baltic Olympiad in Informatics, BOI 2018",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "two_pointer",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "two_pointer", "parametric_search"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.0525999069213867

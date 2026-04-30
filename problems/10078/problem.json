@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2014",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree",
-    "mst"
-  ],
+  "tags": ["dp", "graphs", "trees", "dp_tree", "mst"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.9583001136779785

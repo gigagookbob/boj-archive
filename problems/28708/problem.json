@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #2, cologne, solvedac, cologne, jh05013, moonrabbit2, pichulia",
   "level": 23,
-  "tags": [
-    "math",
-    "graphs",
-    "number_theory",
-    "primality_test",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["math", "graphs", "number_theory", "primality_test", "flow", "mfmc"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.833299994468689

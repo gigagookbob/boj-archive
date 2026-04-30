@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2025, evenharder, 79brue, functionx, hyperbolic, kipa00, leo020630, ncy09, queued_q, realpsdoingdamyoo, seonah",
   "level": 18,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["implementation", "ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.7894999980926514

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 23 September, 2007",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "sorting",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "sorting", "set"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.5625

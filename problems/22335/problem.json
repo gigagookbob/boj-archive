@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2002, Day 1",
   "level": 9,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.4419000148773193

@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, 2023 North Central NA Regional Contest",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.395300030708313

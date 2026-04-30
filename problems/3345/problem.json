@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2012, baekjoon",
   "level": 19,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.0416998863220215

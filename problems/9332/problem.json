@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2013 Rocky Mountain Regional Contest",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "trees",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "trees", "tree_set", "set"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.230799913406372

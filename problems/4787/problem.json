@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2012",
   "level": 20,
-  "tags": [
-    "dp",
-    "cht"
-  ],
+  "tags": ["dp", "cht"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.6399999856948853

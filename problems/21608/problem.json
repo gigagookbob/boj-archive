@@ -19,9 +19,7 @@
   "hint": null,
   "source": "baekjoon, 16silver, Green55",
   "level": 11,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 9194,
   "submission_count": null,
   "average_tries": 2.300600051879883

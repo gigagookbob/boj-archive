@@ -15,11 +15,7 @@
   "hint": "<p>6 can be factored as just 6 (further factorable as 2x3 only, and hence square free), a single factor.  8 has to be factored as 2x2x2 so that all factors are square-free.</p>",
   "source": "ICPC, Regionals, Asia West Continent, India, The 2010 ACM-ICPC Asia Amritapuri Regional Contest",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.2778000831604004

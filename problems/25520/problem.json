@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Optimalno je razrezati papirić na pola riječi (abc|bca). Tako se dobiju dva papirića koja će Stjepan odnijeti Ricku.</p>\n<p>Opis drugog probnog primjera: Optimalno je razrezati papirić na (a|a|ab|b|ba|a|ab|b|ba|a|a)</p>\n<p>Opis trećeg probnog primjera: Optimalno je razrezati papirić na (ab|ab|ab|ab|a).</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2020, Junior Final Exam #1",
   "level": 14,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

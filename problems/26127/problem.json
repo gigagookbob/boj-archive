@@ -19,10 +19,7 @@
   "hint": "<p>본문에 제공된 노노그램의 출처는 이곳이다. https://www.nonograms.org/nonograms/i/28098</p>\r\n",
   "source": "University, UNIST, 4th UNIST Algorithm Programming Contest Uni-CODE 2022, junie, queued_q, andrew1010, cs71107, jh05013, jhnah917, junseo",
   "level": 16,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 2.477299928665161

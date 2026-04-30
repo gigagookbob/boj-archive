@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 US Open Contest, Bronze",
   "level": 13,
-  "tags": [
-    "case_work",
-    "graphs",
-    "implementation",
-    "lca",
-    "trees"
-  ],
+  "tags": ["case_work", "graphs", "implementation", "lca", "trees"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.5845999717712402

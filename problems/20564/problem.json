@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Lawali, edenooo, jhnah917",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "hld"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.9660999774932861

@@ -15,12 +15,7 @@
   "hint": "<p>To avoid ambiguities due to rounding errors, the judge tests have been constructed so that all answers are at least 0.001 away from a decision boundary (i.e., you can assume that the average is never 83.4997).</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2005",
   "level": 16,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.180299997329712

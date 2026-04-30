@@ -15,11 +15,7 @@
   "hint": "<p>디딤돌 장학금에는 I, II 두 종류가 있습니다. 위 문제는 I를 기반하며, 조건만 맞으면 별도의 신청 서식 없이 신청 가능합니다.</p>\n<p>실제로는 4학년의 경우 9학점 이상이면 신청이 가능하지만, 문제에서는 모든 학년의 이수 학점을 17학점 이상으로 통일합니다.</p>\n<p>자세한 내용은 <a href=\"https://inu.ac.kr/inu/840/subview.do\">https://inu.ac.kr/inu/840/subview.do</a> 위 사이트를 참조해 주세요.</p>",
   "source": "University, 인천대학교, INU 코드페스티벌 2025, ehe123, azberjibiou, bjs0306b, dohoon, gwanwoopa, kwoncycle, leedongbin, sk14cj, swoon, tony9402",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 620,
   "submission_count": null,
   "average_tries": 1.316100001335144

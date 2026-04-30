@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2021 Greater New York Programming Contest",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.8666999340057373

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 01., tkfkddl59323, cologne, lky7674, pjshwa, utilforever",
   "level": 17,
-  "tags": [
-    "dp",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "game_theory", "sprague_grundy"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.7143000364303589

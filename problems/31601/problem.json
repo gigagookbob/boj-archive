@@ -23,12 +23,7 @@
   "hint": "<p>Figure I.1 illustrates the vertices in the sample input as black dots. For sample inputs #1 and #3, the shaded regions represent the regions with the minimum possible area.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 802px; height: 250px;\"/></p>\n<p style=\"text-align: center;\">Figure I.1: Illustrations of the sample inputs (from left to right).</p>",
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2024 ICPC Asia Pacific Championship, ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2025 ICPC Asia Pacific Championship 연습 세션",
   "level": 24,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "line_intersection",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "convex_hull", "line_intersection", "polygon_area"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.266700029373169

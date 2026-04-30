@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2015, CCC 2015 Junior Division, baemin0103",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 9250,
   "submission_count": null,
   "average_tries": 1.5782999992370605

@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2021 East Central Regional Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "string",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "string", "bruteforcing", "arithmetic"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.5312999486923218

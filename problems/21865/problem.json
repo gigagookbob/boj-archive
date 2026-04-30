@@ -27,11 +27,7 @@
   "hint": null,
   "source": "cheetose, Lawali",
   "level": 22,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.6110999584198

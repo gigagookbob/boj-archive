@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 1: Xiaoxu Guo Contest 3",
   "level": 18,
-  "tags": [
-    "bipartite_graph",
-    "bruteforcing",
-    "dp",
-    "graphs",
-    "math"
-  ],
+  "tags": ["bipartite_graph", "bruteforcing", "dp", "graphs", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.3333001136779785

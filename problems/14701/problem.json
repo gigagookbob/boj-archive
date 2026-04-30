@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"height:110px; width:347px\"/></p>\n<p>1번 학생이 내리면 2번 학생과 3번 학생이 순서대로 이동한다. 4번 학생은 3번 좌석으로 옮겨 앉더라도 양 끝 좌석까지의 거리가 변하지 않기 때문에 이동하지 않는다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height:107px; width:347px\"/></p>\n<p>3번 학생이 내리면 4번 학생은 2번 좌석으로 이동하는 것이 이득이지만, 바로 옆자리가 아니므로 이동하지 않는다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"height:111px; width:345px\"/></p>\n<p>5번 학생이 내리면 4번 학생이 이동한다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2017 서울대학교 프로그래밍 경시대회, Division 1, University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2017 서울대학교 프로그래밍 경시대회, Division 2, doju, ntopia",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 3.8980000019073486

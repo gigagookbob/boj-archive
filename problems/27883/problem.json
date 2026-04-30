@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 5회 코딩테스트, chogahui05, chansol, eaststar, egod1537, kiwiyou, utilforever",
   "level": 10,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 2.4045000076293945

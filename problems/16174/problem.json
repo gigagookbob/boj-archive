@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2018 SCAL-MOOKJA, University, 중앙대학교, 2018 SCAL-MOOKJA, shieldnet, jh05013, jh05013, ploffer11",
   "level": 10,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 2123,
   "submission_count": null,
   "average_tries": 2.0720999240875244

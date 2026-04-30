@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2015 Pacific Northwest Region Programming Contest, Division 2",
   "level": 12,
-  "tags": [
-    "dp",
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["dp", "sorting", "sweeping"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 2

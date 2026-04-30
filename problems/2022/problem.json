@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 2000, jh05013, jh05013",
   "level": 12,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "binary_search", "pythagoras"],
   "accepted_user_count": 2266,
   "submission_count": null,
   "average_tries": 1.7683000564575195

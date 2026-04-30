@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2016 East Central Regional Contest",
   "level": 15,
-  "tags": [
-    "implementation",
-    "math",
-    "recursion",
-    "simulation"
-  ],
+  "tags": ["implementation", "math", "recursion", "simulation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

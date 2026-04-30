@@ -15,11 +15,7 @@
   "hint": "<p>Initially, all cows have milk output 7. On day 1, Bessie's milk output increases to 9, making her the unique cow with highest milk output and causing Farmer John to change his display. On day 4, Elsie's milk output decreases to 6, but this does not change the fact that Bessie is the sole cow in the lead. On day 7, Mildred jumps into the lead, changing the display, and on day 9, Mildred drops in production to be tied with Bessie, again changing the display.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2017 December Contest, Bronze",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 497,
   "submission_count": null,
   "average_tries": 2.344099998474121

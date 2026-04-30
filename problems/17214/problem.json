@@ -15,13 +15,7 @@
   "hint": "<p>문제에서 다루는 적분법은 $∫{x^ndx} = \\frac{1}{(n+1)}x^{n+1} + W$ 을 사용한다. (W는 적분상수) 또한 적분 가능 함수에 대하여 합의 법칙, $∫(f(x)+g(x))dx = ∫{f(x)dx} + ∫{g(x)dx}$ 가 성립한다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, ROOKIE League, TheKinGoD, hellogaon",
   "level": 12,
-  "tags": [
-    "math",
-    "string",
-    "case_work",
-    "parsing",
-    "calculus"
-  ],
+  "tags": ["math", "string", "case_work", "parsing", "calculus"],
   "accepted_user_count": 976,
   "submission_count": null,
   "average_tries": 4.790999889373779

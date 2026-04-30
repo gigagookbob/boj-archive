@@ -19,11 +19,7 @@
   "hint": "<p>입력의 2번째 줄의 내용이 <code>3 1 2 4</code>라면, 1번째 참가자는 포켓몬을 3마리 보유하고 있으며, 이는 각각 1번 종, 2번 종, 4번 종 포켓몬임을 의미한다.</p>",
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2022 서울대학교 프로그래밍 경시대회, Division 2, cakelemon, gs18103, kipa00, sait2000, sjimed",
   "level": 20,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.411799907684326

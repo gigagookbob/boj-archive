@@ -15,11 +15,7 @@
   "hint": "<p>In Sample Case #1, Akki has only one move in which he picks up the available cards and has two options.</p>\n<ol>\n<li>He can choose red number from the first card and blue number from the second card to add 1 ^ 3 = 2 to the total.</li>\n<li>He can choose red number from the second card and blue number from the first card to add 2 ^ 3 = 1 to the total.</li>\n</ol>\n<p>The second option is better and the answer is 1.</p>\n<p>In Sample Case #2, one optimal strategy is to take the red number from first card and the blue number from second card, add 1 ^ 2 = 3 to the total, and return first card to the box. Then, take the red number from first card and the blue number from third card, add 1 ^ 3 = 2 to the total, and return either of the cards to the box. The final total is 5.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2017, Round G",
   "level": 13,
-  "tags": [
-    "ad_hoc",
-    "graphs",
-    "mst"
-  ],
+  "tags": ["ad_hoc", "graphs", "mst"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.5714000463485718

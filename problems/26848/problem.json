@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2015/2016, Stage 1",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "case_work", "implementation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.5999999046325684

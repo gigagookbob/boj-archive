@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 한국디지털미디어고등학교, 제 1회 2024 디미고 프로그래밍 챌린지, ecode, dkim110807, ian0704, lky7674, max804, wizardrabbit, wjdclgns12",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dag", "topological_sorting"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 5.540500164031982

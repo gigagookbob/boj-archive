@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2016/2017 Season, Stage 7: Grand Prix of Dolgoprudny",
   "level": 13,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "binary_search", "polygon_area"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

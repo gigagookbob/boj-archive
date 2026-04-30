@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2017",
   "level": 20,
-  "tags": [
-    "graphs",
-    "trees",
-    "mst",
-    "lca"
-  ],
+  "tags": ["graphs", "trees", "mst", "lca"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.9285999536514282

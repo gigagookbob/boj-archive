@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2014 Rocky Mountain Regional Contest",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "bruteforcing"
-  ],
+  "tags": ["bitmask", "bruteforcing"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.736799955368042

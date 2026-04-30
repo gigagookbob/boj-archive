@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 숙명여자대학교, 제1회 숙명여자대학교 교내 알고리즘 경진대회 (SMUPC), swoon, cs71107, lky7674, plast, sait2000, wbcho0504",
   "level": 18,
-  "tags": [
-    "greedy",
-    "string",
-    "sorting"
-  ],
+  "tags": ["greedy", "string", "sorting"],
   "accepted_user_count": 273,
   "submission_count": null,
   "average_tries": 5.109899997711182

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2017",
   "level": 24,
-  "tags": [
-    "mitm"
-  ],
+  "tags": ["mitm"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 7.428599834442139

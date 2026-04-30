@@ -15,14 +15,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2020), Div. 1, shiftpsh, jh05013, jhnah917, Lawali, leejseo, pichulia",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "set",
-    "hash_set",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "trees", "set", "hash_set", "trie"],
   "accepted_user_count": 1291,
   "submission_count": null,
   "average_tries": 6.868299961090088

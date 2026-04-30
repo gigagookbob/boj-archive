@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2023 1차대회, 고등부, moonrabbit2",
   "level": 19,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.8703999519348145

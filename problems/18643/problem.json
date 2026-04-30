@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample, the only final board where the red player wins looks like this:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 103px; height: 83px;\"/></p>\n<p>In the second sample, since everything is symmetric the red player wins in exactly half of all \\(\\binom{144}{72}\\) \u0001possible final boards, and \\(\\frac{1}{2} \\cdot \\binom{144}{72}\\) \u0001= 740106499224393094996908447741294397438050.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 7: Petr Mitrichev Contest 15",
   "level": 28,
-  "tags": [
-    "arbitrary_precision",
-    "dp",
-    "dp_connection_profile"
-  ],
+  "tags": ["arbitrary_precision", "dp", "dp_connection_profile"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3.5

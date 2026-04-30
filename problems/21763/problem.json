@@ -19,11 +19,7 @@
   "hint": "<p>Note that the second example is only valid for subtasks 2 and 3.</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2021 KAIST RUN Spring Contest, Camp, Petrozavodsk Programming Camp, Winter 2022, Day 2: Grand Prix of Daejeon, Contest, Open Cup, 2021/2022 Season, Stage 11: Grand Prix of Daejeon, jh05013, aeren, ainta, cs71107, jhnah917, jwvg0425, koosaga, taeyeon_ss, tncks0121",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 192,
   "submission_count": null,
   "average_tries": 3.2344000339508057

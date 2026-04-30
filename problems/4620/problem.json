@@ -15,9 +15,7 @@
   "hint": "<p>Brute force methods examining every path will likely exceed the allotted time limit. 64-bit integer values are available as long values in Java or long long values using the contest's C/C++ compilers.</p>",
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2005 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, Pacific Northwest Regional, 2005 Pacific Northwest Region Programming Contest",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 255,
   "submission_count": null,
   "average_tries": 1.6979999542236328

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2011 Rocky Mountain Regional Contest",
   "level": 16,
-  "tags": [
-    "case_work",
-    "implementation"
-  ],
+  "tags": ["case_work", "implementation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 6.25

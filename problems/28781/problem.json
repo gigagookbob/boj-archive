@@ -27,10 +27,7 @@
   "hint": "<p>В первом примере, один метр равен $10^0$ метрам.</p>\n<p>Во втором примере, один километр равен $10^3$ метрам.</p>\n<p>В четвертом примере, один кубический миллиметр равен $10^{-9}$ кубическим метрам.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, May 11, 2020",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.159999966621399

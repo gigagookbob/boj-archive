@@ -27,10 +27,7 @@
   "hint": null,
   "source": "Olympiad, European Junior Olympiad in Informatics, eJOI 2024",
   "level": 19,
-  "tags": [
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "parametric_search"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

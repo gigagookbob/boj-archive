@@ -15,13 +15,7 @@
   "hint": null,
   "source": "scka, chansol",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "tree_diameter"],
   "accepted_user_count": 325,
   "submission_count": null,
   "average_tries": 5.227700233459473

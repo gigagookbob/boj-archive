@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2008/2009 Spring Training Camp",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "binary_search",
-    "parametric_search",
-    "dag"
-  ],
+  "tags": ["dp", "graphs", "binary_search", "parametric_search", "dag"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.2000000476837158

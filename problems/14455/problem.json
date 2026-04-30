@@ -15,12 +15,7 @@
   "hint": "<p>In this example, Bessie, Elsie, and Daisy all tie for the minimum by each producing 7 units of milk. The next-largest production, 9 units, is due to Henrietta.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 January Contest, Bronze, kdk8361",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "string", "set"],
   "accepted_user_count": 530,
   "submission_count": null,
   "average_tries": 3.0678999423980713

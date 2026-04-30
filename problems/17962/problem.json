@@ -19,12 +19,7 @@
   "hint": "<p>In the first test case, the tree is a straight line and has 4 nodes, so Bob always can choose the last white node.</p>\n<p>In the second test case, the optimal strategy for Alice is to place the chip on 3. This node will become black. Bob has to choose the node 1. Alice can choose any of 4, 5, 6, or 7. Bob can only choose 2. Alice chooses any of the white sons of 2, and Bob cannot make a move.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2019, Contest, Open Cup, 2019/2020 Season, Stage 6: Grand Prix of Southeastern Europe",
   "level": 22,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "game_theory"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "game_theory"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.120500087738037

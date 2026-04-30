@@ -15,11 +15,7 @@
   "hint": "<p data-pm-slice=\"1 1 []\"><code>PPKKPPKKP</code>에는 최소 두마리의 개구리가 있다. 각 문자별로 울음소리의 주인을 번호로 표현하면 <code>122121211</code>이 된다.</p>\n<p>이보다 더 적은 수의 개구리로는 표현할 수 없다.</p>\n<p>따라서 1번 개구리의 전체 울음소리는 <code>PKPKP</code>가 되고 2번 개구리는 <code>PKPK</code>가 된다.</p>",
   "source": "University, 성균관대학교, 2021 SKKU 프로그래밍 대회 in 소프트의 밤, Coxie, anzanda, cozyyg, hojoon0205, hyperbolic, sonho00, sukh1222",
   "level": 10,
-  "tags": [
-    "greedy",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "string", "ad_hoc"],
   "accepted_user_count": 434,
   "submission_count": null,
   "average_tries": 2.8501999378204346

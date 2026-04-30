@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 2012, baekjoon, nona1314",
   "level": 11,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry"
-  ],
+  "tags": ["math", "implementation", "geometry"],
   "accepted_user_count": 170,
   "submission_count": null,
   "average_tries": 4.8059000968933105

@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"4.png\" style=\"width: 243px; height: 252px;\"/> </p>\n<p style=\"text-align:center\">그림 4</p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2006, 중등부",
   "level": 25,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["implementation", "data_structures", "geometry", "sweeping"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 4.63640022277832

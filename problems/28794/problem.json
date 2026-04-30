@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, October 14, 2018",
   "level": 16,
-  "tags": [
-    "constructive",
-    "graphs",
-    "greedy",
-    "mst"
-  ],
+  "tags": ["constructive", "graphs", "greedy", "mst"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

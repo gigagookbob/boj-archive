@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2019 Sogang Programming Contest, Champion, semteo04, jh05013, shiftpsh",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["data_structures", "deque"],
   "accepted_user_count": 3188,
   "submission_count": null,
   "average_tries": 1.8535000085830688

@@ -19,14 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2018",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "greedy", "graph_traversal", "trees", "dp_tree"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 2.2156999111175537

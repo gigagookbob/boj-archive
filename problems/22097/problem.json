@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2014, RCC 2014 Fourth Qualification Round",
   "level": 17,
-  "tags": [
-    "dijkstra",
-    "dp",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "dp", "graphs", "shortest_path"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4

@@ -23,9 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2024 Mid-Central USA Programming Contest",
   "level": 15,
-  "tags": [
-    "lis"
-  ],
+  "tags": ["lis"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2609000205993652

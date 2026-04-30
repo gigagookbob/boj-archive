@@ -23,10 +23,7 @@
   "hint": null,
   "source": "pjh6792, wn1op",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow"
-  ],
+  "tags": ["graphs", "flow"],
   "accepted_user_count": 1966,
   "submission_count": null,
   "average_tries": 3.2070000171661377

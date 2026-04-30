@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 17 September, 2005, ho94949",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 5.813300132751465

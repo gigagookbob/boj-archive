@@ -23,9 +23,7 @@
   "hint": "<p>In the second example, all sets are good. In the third example, the only non-good set is $\\{1, 2\\}$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 5: LOUD Enough Contest 2",
   "level": 22,
-  "tags": [
-    "bitset"
-  ],
+  "tags": ["bitset"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

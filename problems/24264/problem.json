@@ -15,12 +15,7 @@
   "hint": null,
   "source": "MenOfPassion, heeda0528, jhnah917, jthis, tlsdydaud1",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 20945,
   "submission_count": null,
   "average_tries": 1.9464999437332153

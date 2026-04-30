@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 471px; height: 419px;\"/></p>\n<p style=\"text-align: center;\">上の入力例における 5 つの計画を表した図 (地点間の間隔は正確ではない)．太線の 3 つの計画を選べば航 路が交差することなく船を運航できる．</p>",
   "source": ", Camp, JOI Spring Training Camp, JOI 2009/2010 Spring Training Camp",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.9333000183105469

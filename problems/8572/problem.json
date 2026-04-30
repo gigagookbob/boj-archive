@@ -15,11 +15,7 @@
   "hint": "<p><b>Wyjaśnienie do przykładu:</b> Po pierwszej zamianie pierwsze słowo ma postać <code>aabb</code>, a drugie <code>aaaa</code>, więc późniejsze leksykograficznie jest słowo pierwsze. Po drugiej zamianie oba słowa mają postać <code>aaba</code>.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2012, Stage 1",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "tree_set"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5

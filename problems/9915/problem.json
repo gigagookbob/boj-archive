@@ -23,10 +23,7 @@
   "hint": "<p>Example 1.  There are n = 5 cars.  The first car starts with v = 10 meters per second, there are d = 80 meters between adjacent cars and there are t = 3 5-second-intervals.  First period: The first car will travel 10 × 5 = 50 meters in the first period, while all other cars stand still in this period.  Second period: At the beginning of the second period, the first car decelerates to a speed of 5 meters per second, because there is now 130 meters space to the car behind, and thus travels 5 × 5 = 25 meters in the second period.  At the beginning of the second period, the second car accelerates to a speed of 5 meters per second, because there is 130 meters space to the car in front, and thus travels 5 × 5 = 25 meters in the second period.  At the beginning of the second period, all other cars remain standing, because there still are 80 meters space to the car in front.  Third period: At the beginning of the third period, the first car decelerates to a speed of 0 meters per second, because there is again 130 meters space to the car behind, and thus travels 0 × 5 = 0 meter in the third period.  Answer: The first car will have traveled 50 + 25 + 0 = 75 meters after the first three periods.</p>\n<p>Example 2.  There are n = 2 cars.  The first car starts with v = 60 meters per second, there are d = 100 meters between adjacent cars and there are t = 14 5-second-intervals.  Answer: A collision occurs.</p>\n<p>Example 3.  There are n = 20 cars.  The first car starts with v = 5 meters per second, there are d = 5 meters between adjacent cars and there are t = 100 5-second-intervals.  Answer: The first car will have traveled 2550 meters.</p>",
   "source": "Olympiad, National Olympiad in Informatics (Singapore), NOI 2001",
   "level": 9,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.583299994468689

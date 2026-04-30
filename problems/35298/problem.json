@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2026 KSA Automata Winter Contest, sooahn07, edward3378, eric00513, flakepowders, leejseo, mythofys, parkky, pkearth, raehwan0418, sadtreap, wizardrabbit",
   "level": 16,
-  "tags": [
-    "sorting",
-    "constructive",
-    "invariant"
-  ],
+  "tags": ["sorting", "constructive", "invariant"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.3099000453948975

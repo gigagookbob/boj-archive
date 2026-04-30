@@ -15,12 +15,7 @@
   "hint": "<p>In this example, Cow 1 and Cow 2 are willing to walk 2019201817 miles to see each other. Cow 2 and Cow 3 are willing to walk 2019201685 miles. And Cow 1 and Cow 3 are willing to walk 2019201769 miles. Thus, by grouping the cows such that 1 is by herself and 2 and 3 are grouped together, $M = \\min(2019201817,2019201769) = 2019201769$ (which is the best we can do here).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 US Open Contest, Gold",
   "level": 14,
-  "tags": [
-    "math",
-    "graphs",
-    "greedy",
-    "mst"
-  ],
+  "tags": ["math", "graphs", "greedy", "mst"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 3.00570011138916

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2012, 중등부, doju",
   "level": 14,
-  "tags": [
-    "dp",
-    "sorting",
-    "binary_search"
-  ],
+  "tags": ["dp", "sorting", "binary_search"],
   "accepted_user_count": 1627,
   "submission_count": null,
   "average_tries": 2.732599973678589

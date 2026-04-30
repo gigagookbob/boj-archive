@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2018 Rocky Mountain Regional Contest",
   "level": 15,
-  "tags": [
-    "graphs",
-    "bitmask",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "bitmask", "shortest_path", "dijkstra"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2999999523162842

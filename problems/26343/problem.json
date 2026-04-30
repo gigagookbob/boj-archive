@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2012 Local Programming Contest",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.5

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2002, CCC 2002 Junior Division, Olympiad, Canadian Computing Competition & Olympiad, 2002, CCC 2002 Senior Division",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "case_work",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "case_work", "euclidean"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.4458999633789062

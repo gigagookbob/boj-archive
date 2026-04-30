@@ -39,12 +39,7 @@
   "hint": null,
   "source": "baekjoon, doju, koosaga",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 17428,
   "submission_count": null,
   "average_tries": 2.109499931335449

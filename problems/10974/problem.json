@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, corea",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 18672,
   "submission_count": null,
   "average_tries": 1.4881999492645264

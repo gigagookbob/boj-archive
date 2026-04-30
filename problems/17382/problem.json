@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2019, tncks0121",
   "level": 27,
-  "tags": [
-    "math",
-    "dp",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "dp_digit"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

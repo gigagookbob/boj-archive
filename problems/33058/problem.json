@@ -15,12 +15,7 @@
   "hint": "<p>For the first test case, you can only complete one of the jobs. After completing one job, it will then be time $2$ or later, so it is too late to start the other job, which must be started at time $1$ or earlier.</p>\n<p>For the second test case, you can start the second job at time $0$ and finish at time $2$, then start the first job at time $2$ and finish at time $5$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2024 December Contest, Gold",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.4687999486923218

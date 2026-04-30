@@ -15,10 +15,7 @@
   "hint": "<ol>\n<li>“<code>153+0174-1</code>”를 계산하면 153 + 174 − 1 = 326이다.</li>\n<li>“<code>3+0174-</code>”를 계산하면 3 + 174 = 177이다.</li>\n<li>이 연산 이후, S는 “<code>15+3-+43-1</code>”이다.</li>\n<li>“<code>5+3-+43</code>”을 계산하면 5 + 3 + 43 = 51이다.</li>\n<li>이 연산 이후, <em>S</em>는 “<code>5-221043-1</code>”이다.</li>\n<li>“<code>21043-</code>”을 계산하면 21043이다.</li>\n<li>“<code>5-221043-1</code>”을 계산하면 5 − 221043 − 1 = −221039이고, 이를 10<sup>9</sup> + 7로 나눈 나머지를 구하면 999778968이다.</li>\n<li>“<code>-</code>”을 계산하면 0이다. 처음 ‘<code>-</code>’ 버튼을 누를 때 수식이 0−이 되었다가, ‘<code>=</code>’ 버튼을 누르면서 마지막의 ‘<code>-</code>’이 무시되어 수식이 0으로 바뀌게 된다.</li>\n</ol>",
   "source": "Contest, Coder's High, Coder's high 2016 Round 2: Nexon Arena, tncks0121",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.8889000415802

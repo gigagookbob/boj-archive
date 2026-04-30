@@ -19,9 +19,7 @@
   "hint": "<p>Poniżej przedstawiony jest ciąg zmian z zaznaczonymi największymi wzrostami rankingu w jednych, dwóch, trzech i czterech kolejnych zawodach:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 233px; height: 61px;\"/></p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 11,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

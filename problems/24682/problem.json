@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 실버컵, 제1회 실버컵, cozyyg, jh05013",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "math",
-    "precomputation"
-  ],
+  "tags": ["bruteforcing", "implementation", "math", "precomputation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 5.75

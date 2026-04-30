@@ -15,10 +15,7 @@
   "hint": "<p>사실&nbsp;<a href=\"http://en.wikipedia.org/wiki/Tower_of_Hanoi#With_four_pegs_and_beyond\">막대가 4개 이상인&nbsp;하노이의 탑 문제</a>는 Open Problem이므로 이 답이 최적이라는 보장은 없다 :(</p>\r\n\r\n<p>하지만, 2014년에&nbsp;Frame&ndash;Stewart algorithm이 최적해를 준다는 것이 증명되었다.</p>\r\n",
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 2013, WeissBlume, jh05013",
   "level": 14,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 309,
   "submission_count": null,
   "average_tries": 3.0485000610351562

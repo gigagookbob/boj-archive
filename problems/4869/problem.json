@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2004 Rocky Mountain Regional Contest",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "probability"
-  ],
+  "tags": ["math", "implementation", "probability"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 2.745500087738037

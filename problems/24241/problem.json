@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2021",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["data_structures", "stack"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.5385000705718994

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2023 IamCoder Qualification Test, ehlee0815, denniskim, flappybird, gs22059, gs22123, jk410, lisifu, mjhmjh1104, roynine",
   "level": 5,
-  "tags": [
-    "implementation",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["implementation", "greedy", "constructive"],
   "accepted_user_count": 400,
   "submission_count": null,
   "average_tries": 2.7249999046325684

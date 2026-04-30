@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1</p>\n<p>The first query is a query of type $2$, where $S=3$, $L=3$, $R=4$. Let's calculate the result for this query:</p>\n<p>$i=3$, $V(62^3 - (62 \\bmod 2)^3)=3$</p>\n<p>$i=4$, $V(67^3 - (67 \\bmod 2)^3)=1$</p>\n<p>$\\displaystyle\\sum_{i=3}^{4}{V(A_i^3 - (A_i \\bmod P)^3)} = 3+1 = 4$</p>\n<p>The second query is of type $1$, where we need to assign $69$ to $A_1$, so our array $A$ now becomes: <code>69 94 62 67 91</code>.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round D",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "math",
-    "number_theory",
-    "segtree"
-  ],
+  "tags": ["data_structures", "math", "number_theory", "segtree"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.799999952316284

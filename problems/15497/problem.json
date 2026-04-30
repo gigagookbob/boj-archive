@@ -23,10 +23,7 @@
   "hint": "<p><strong>Clarification of the first test case:</strong> ​We choose the rectangle whose opposite angles are the given points, since it meets the conditions from the task.</p>\n<p><strong>Clarification of the second test case:</strong> ​We choose two rectangles with their centers in the origin. The first is of dimensions 50 x 20 and covers point (25, 10). The second is of dimensions 18 x 60 and covers the first two points. If we wanted to cover all the points using one rectangle, it would be of dimensions 50 x 60.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #6",
   "level": 16,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.5305999517440796

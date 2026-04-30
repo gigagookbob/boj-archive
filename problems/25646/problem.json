@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 2: ZJU Contest 1",
   "level": 20,
-  "tags": [
-    "math",
-    "geometry",
-    "calculus",
-    "rotating_calipers"
-  ],
+  "tags": ["math", "geometry", "calculus", "rotating_calipers"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

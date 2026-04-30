@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, if $v_{1} = \\{ 1 \\}$, $v_{2} = \\{ 2, 3 \\}$, and $v_{3} = \\{ 4, 5, 6 \\}$ then vertex sets will satisfy all conditions. But you can assign vertices to vertex sets in a different way; Other answers like \"<code>2 3 3 1 1 1</code>\" will be accepted as well.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 281px; height: 311px;\"/></p>\n<p>In the second example, it's impossible to make such vertex sets.</p>",
   "source": "Contest, Codeforces, Codeforces Round 589 (Div. 2), spongbob9876",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "hashing"
-  ],
+  "tags": ["graphs", "graph_traversal", "hashing"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8260999917984009

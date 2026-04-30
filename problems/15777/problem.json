@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2018 KAIST RUN Spring Contest, alex9801, jh05013",
   "level": 21,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "case_work",
-    "mitm"
-  ],
+  "tags": ["graphs", "ad_hoc", "case_work", "mitm"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 8.522700309753418

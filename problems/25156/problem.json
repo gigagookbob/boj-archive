@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog primjera: Dovoljno je otvoriti 2., 3. i 5. sef. Iz drugog će sefa drugi čovjek uzeti 4 kune, a treći 2 kune, iz trećeg će sefa treći čovjek uzeti 1 kunu, a četvrti čovjek preostale 4 kune, dok će iz petog sefa prvi i peti čovjek uzeti po 3 kune.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2018, Junior Croatian Olympiad in Informatics 2018",
   "level": 19,
-  "tags": [
-    "greedy",
-    "case_work"
-  ],
+  "tags": ["greedy", "case_work"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 11

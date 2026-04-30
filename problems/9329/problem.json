@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2013 Rocky Mountain Regional Contest, lll4592, jaehoo1, simm4256, zych1751",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "greedy", "arithmetic"],
   "accepted_user_count": 408,
   "submission_count": null,
   "average_tries": 1.4876999855041504

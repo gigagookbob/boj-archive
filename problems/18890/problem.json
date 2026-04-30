@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Codeforces, Hello 2020, koosaga",
   "level": 27,
-  "tags": [
-    "graphs",
-    "matroid"
-  ],
+  "tags": ["graphs", "matroid"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.333299994468689

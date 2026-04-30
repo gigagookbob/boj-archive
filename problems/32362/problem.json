@@ -19,12 +19,7 @@
   "hint": "<ul>\n<li>근성은 이 문제를 출제할 당시 진짜 훈련소에 있었다.</li>\n</ul>",
   "source": "University, 전남대학교, 2024 하반기 전남대학교 PIMM 알고리즘 파티, onsbtyd, invrtd_h, kiwiyou, measurezero, tony9402, utilforever",
   "level": 21,
-  "tags": [
-    "dp",
-    "string",
-    "bitset",
-    "z"
-  ],
+  "tags": ["dp", "string", "bitset", "z"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 6.6666998863220215

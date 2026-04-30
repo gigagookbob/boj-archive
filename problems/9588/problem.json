@@ -15,9 +15,7 @@
   "hint": "<p>Note, that if you put the chip on the 4th stack, other players may place their chips on the 1st and the 3rd stack, which leads to a draw, because the number of visible chips of the first and the second colors is the same (three chips of each color).</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2013",
   "level": 18,
-  "tags": [
-    "case_work"
-  ],
+  "tags": ["case_work"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.1333000659942627

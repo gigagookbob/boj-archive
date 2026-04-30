@@ -15,13 +15,7 @@
   "hint": "<p>この入力例は，下図に対応する．チェックポイントとなっている地点は水色で示されている．また，最 小の移動距離を達成する 2 人の移動方法は赤色で示されている．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 164px; height: 454px;\"/></p>",
   "source": ", Camp, JOI Spring Training Camp, JOI 2010/2011 Spring Training Camp",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dag", "topological_sorting"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

@@ -15,12 +15,7 @@
   "hint": "<p>Sample Case #1 is described in the problem statement. Dante's route is $1 \\to 2 \\to 17 \\to 18 \\to 25$. Because $1 \\to 2$ and $17 \\to 18$ are moves between consecutively numbered rooms, they are not included in the output. Only the shortcuts ($2 \\to 17$ and $18 \\to 25$) are included.</p>\n<p>In Sample Case #2, there is no solution. (Recall that there is no way for Dante to move diagonally.)</p>\n<p>In Sample Case #3, observe that $22$ appears both as the end of one shortcut and the start of the next. It would not be valid to include the line <code>11 22 25</code> in the output; each line must represent a single shortcut.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\"/></p>\n<p>There is another solution that uses only one shortcut: Dante can move from $1 \\to 2 \\to 3 \\to 4 \\to 5 \\to 6$, then move from $6 \\to 19$ (a shortcut), then move from $19 \\to 20 \\to 21 \\to 22 \\to 23 \\to 24 \\to 25$. This is also valid; there is no requirement to minimize (or maximize) the number of shortcuts taken.</p>\n<p>In Sample Case #4, Dante cannot get to the central room ($9$, in this case) in just one move.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Round 2",
   "level": 17,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["math", "implementation", "greedy", "constructive"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.25

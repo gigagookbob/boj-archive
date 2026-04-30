@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2021",
   "level": 18,
-  "tags": [
-    "dp",
-    "inclusion_and_exclusion",
-    "mitm"
-  ],
+  "tags": ["dp", "inclusion_and_exclusion", "mitm"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2143000364303589

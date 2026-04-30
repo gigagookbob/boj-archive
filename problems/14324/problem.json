@@ -15,12 +15,7 @@
   "hint": "<p>Case 1 is explained in the statement.</p>\n<p>In case 2, the island looks like this after the rain:</p>\n<pre>\n5 5 5 1\n5 2 2 5\n5 2 5 5\n5 2 5 8\n</pre>\n<p>Case 3 remains unchanged after the rain.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round A APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round A",
   "level": 15,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 1.938599944114685

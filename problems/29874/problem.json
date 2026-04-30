@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2021-22, Final Round 연습 세션",
   "level": 6,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["implementation", "bruteforcing", "geometry"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.200000047683716

@@ -31,12 +31,7 @@
   "hint": null,
   "source": "haden, jh05013",
   "level": 16,
-  "tags": [
-    "dfs",
-    "eulerian_path",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "eulerian_path", "graphs", "graph_traversal"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.452399969100952

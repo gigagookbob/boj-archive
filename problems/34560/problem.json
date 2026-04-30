@@ -31,11 +31,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2025, ehe123, azberjibiou, dohoon, gwanwoopa, kwoncycle, leedongbin, sk14cj, swoon, tony9402",
   "level": 14,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.3290998935699463

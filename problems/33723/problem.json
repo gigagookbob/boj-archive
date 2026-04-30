@@ -19,10 +19,7 @@
   "hint": "<p>어떠한 함수 $f$에 대해 $f^{n}$은 다음과 같이 정의한다.</p>\r\n\r\n<ul>\r\n\t<li>$f^{0}(X) =X$다.</li>\r\n\t<li>$f^{n}(X) =f(f^{n-1}(X))$다.</li>\r\n</ul>\r\n",
   "source": "hibye1217, minjunnick, mujigae, pyb1031, utilforever",
   "level": 18,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

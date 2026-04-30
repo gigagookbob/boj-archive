@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 30 September, 2000",
   "level": 18,
-  "tags": [
-    "geometry",
-    "sweeping"
-  ],
+  "tags": ["geometry", "sweeping"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2

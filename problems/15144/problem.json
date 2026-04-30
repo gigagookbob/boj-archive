@@ -19,9 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, ACM ICPC South Pacific Divisionals, 2017 South Pacific Divisional Contest",
   "level": 0,
-  "tags": [
-    "bitmask"
-  ],
+  "tags": ["bitmask"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

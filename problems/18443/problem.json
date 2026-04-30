@@ -19,10 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 18,
-  "tags": [
-    "dp",
-    "traceback"
-  ],
+  "tags": ["dp", "traceback"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.3894999027252197

@@ -15,12 +15,7 @@
   "hint": "<p>There are 11 dancers which belong to the samba schools identified by the IDs 123, 1678 and 43. Dancers of each samba school have to arrange on rows formed of exactly 2 persons. One samba school has the 123 ID and 6 dancers which can be arranged on 3 rows, each consisting of 2 persons. Another samba school, with the 1678 ID, has 2 dancers which can be arranged on a single row.</p>\n<p>The school with the ID 43 has 3 dancers which cannot be organized according to the conditions.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2011",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 137,
   "submission_count": null,
   "average_tries": 1.3285000324249268

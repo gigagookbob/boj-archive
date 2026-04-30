@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2013, Day 1",
   "level": 26,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "sqrt_decomposition",
-    "knuth"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "sqrt_decomposition", "knuth"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.3447999954223633

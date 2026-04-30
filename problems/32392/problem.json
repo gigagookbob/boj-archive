@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2024 고려대학교 프로그래밍 경시대회 (KCPC), Div. 1, eoaud0108, kidw0124, finimage, kevinlys00, tlsdydaud1, yijw0930",
   "level": 25,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.2857000827789307

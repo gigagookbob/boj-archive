@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #2, baekjoon, yuja, doju",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "implementation", "number_theory", "primality_test"],
   "accepted_user_count": 1961,
   "submission_count": null,
   "average_tries": 3.3248000144958496

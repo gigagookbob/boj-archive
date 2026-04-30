@@ -35,12 +35,7 @@
   "hint": null,
   "source": "wapas, tlsdydaud1, tony9402, utilforever, wider93",
   "level": 24,
-  "tags": [
-    "implementation",
-    "backtracking",
-    "knuth_x",
-    "dancing_links"
-  ],
+  "tags": ["implementation", "backtracking", "knuth_x", "dancing_links"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 3.771399974822998

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2021",
   "level": 20,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "flow"
-  ],
+  "tags": ["graphs", "graph_traversal", "flow"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.666700005531311

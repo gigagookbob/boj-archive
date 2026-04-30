@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>There are only two possible solutions to the puzzle:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 369px; height: 177px;\"/></p>\n<p>We can see that the second depicted solution has a smaller number written on the second piece. Therefore, that is the lexicographically smallest solution.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #2",
   "level": 14,
-  "tags": [
-    "case_work",
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["case_work", "greedy", "implementation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.25

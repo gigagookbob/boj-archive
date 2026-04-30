@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Summer Algorithm Camp Contest, 중급, starwh03, cologne, cozyyg, kipa00, lky7674",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 2.7708001136779785

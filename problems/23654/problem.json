@@ -15,10 +15,7 @@
   "hint": "<p>The example above shows the perfect answer. In this example, the solution can not make more than ten errors, so any correctly formatted answer will be accepted.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 9: Grand Prix of Peterhof",
   "level": 9,
-  "tags": [
-    "math",
-    "probability"
-  ],
+  "tags": ["math", "probability"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2

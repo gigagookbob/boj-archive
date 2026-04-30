@@ -19,9 +19,7 @@
   "hint": null,
   "source": "xhark, apjw6112, gjdms611, ggj06281, qktlf789456, njw1204",
   "level": 17,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 2251,
   "submission_count": null,
   "average_tries": 1.9817999601364136

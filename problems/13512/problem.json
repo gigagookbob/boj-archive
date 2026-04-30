@@ -15,12 +15,7 @@
   "hint": null,
   "source": "zych1751, ntopia",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "hld"],
   "accepted_user_count": 569,
   "submission_count": null,
   "average_tries": 2.6837000846862793

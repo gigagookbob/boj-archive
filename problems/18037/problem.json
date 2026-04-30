@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2019",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "dag"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "dfs", "dag"],
   "accepted_user_count": 68,
   "submission_count": null,
   "average_tries": 1.6175999641418457

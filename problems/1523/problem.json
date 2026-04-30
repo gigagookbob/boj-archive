@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, kesakiyo",
   "level": 18,
-  "tags": [
-    "graphs",
-    "bruteforcing"
-  ],
+  "tags": ["graphs", "bruteforcing"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.7346999645233154

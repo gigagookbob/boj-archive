@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 18,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "data_structures", "set", "prefix_sum"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8696000576019287

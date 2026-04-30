@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ntopia, orihehe, jsong0327, khkim6040, kyaryunha, tmdals6718",
   "level": 12,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 15009,
   "submission_count": null,
   "average_tries": 1.9926999807357788

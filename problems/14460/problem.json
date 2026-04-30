@@ -15,11 +15,7 @@
   "hint": "<p>1과 4, 1과 3이 사이가 안 좋으면서 가로지르는 쌍이다.<br></p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 February Contest, Platinum, jh05013",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "multi_segtree"
-  ],
+  "tags": ["data_structures", "segtree", "multi_segtree"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 2.8645999431610107

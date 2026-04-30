@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2012, seok9311, jh05013, yclock",
   "level": 19,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "sweeping",
-    "parametric_search"
-  ],
+  "tags": ["geometry", "binary_search", "sweeping", "parametric_search"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 7.195700168609619

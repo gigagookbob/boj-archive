@@ -23,11 +23,7 @@
   "hint": "<p>$10^{12}$는 $32$bit 정수형 타입 변수 범위를 초과할 수 있으므로, C/C++의 long long, Java의 Long 등 $64$비트 정수형 타입을 사용해야 한다.</p>",
   "source": "University, DGIST, 2024 DGIST 알고리즘 경진대회, 99asdfg, jinhan814, jyheo98, leo020630, sjhi00, tlsdydaud1, yyyy7089",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 2.46589994430542

@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, 2nd and 3rd packs of balloons contain digits <code>2</code> <code>0</code> <code>2</code> <code>1</code> and the 3rd one is the cheapest.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Online)",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 1.2826000452041626

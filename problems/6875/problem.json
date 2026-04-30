@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2005, CCC 2005 Junior Division",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "stack"
-  ],
+  "tags": ["data_structures", "bruteforcing", "stack"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

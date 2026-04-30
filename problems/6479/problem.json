@@ -15,12 +15,7 @@
   "hint": "<p>Madam Phoenix will be forever (or longer) in your debt; she might even give you a trip if you do your job well!</p>",
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 1993, University, Stanford Local ACM Programming Contest, SLPC 1999",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 2.654099941253662

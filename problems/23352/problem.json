@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제1회 한국항공대학교 프로그래밍 경진대회(KAUPC), minjea917, bnb2011, palilo, pjshwa, shjohw12, WeissBlume",
   "level": 11,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "bfs"],
   "accepted_user_count": 739,
   "submission_count": null,
   "average_tries": 2.025700092315674

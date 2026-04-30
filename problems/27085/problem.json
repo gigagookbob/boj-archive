@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2022, qwerasdfzxcl, azberjibiou, chansol, whqkrkt04",
   "level": 14,
-  "tags": [
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "two_pointer"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 3.83240008354187

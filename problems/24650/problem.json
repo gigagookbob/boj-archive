@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2021-2022 North-Western Russia Regional Contest",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "constructive",
-    "hash_set",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "constructive", "hash_set", "stack"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.125

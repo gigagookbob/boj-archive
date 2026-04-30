@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2011 East Central Regional Contest",
   "level": 18,
-  "tags": [
-    "implementation",
-    "dp",
-    "greedy",
-    "geometry"
-  ],
+  "tags": ["implementation", "dp", "greedy", "geometry"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 8

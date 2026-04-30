@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2008",
   "level": 16,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "precomputation",
-    "dp_digit"
-  ],
+  "tags": ["dp", "bruteforcing", "precomputation", "dp_digit"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.75

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 4 : Grand Final, jhwest2, gs18115, TAMREF",
   "level": 21,
-  "tags": [
-    "graphs",
-    "game_theory",
-    "dag",
-    "recursion",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "game_theory", "dag", "recursion", "topological_sorting"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 9.25

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1997/1998, Stage 2",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "geometry",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "geometry", "bfs"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2

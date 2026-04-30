@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 24,
-  "tags": [
-    "geometry",
-    "sweeping",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "sweeping", "line_intersection"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2023, Day 6: Um_nik mod 998 244 353 Contest",
   "level": 23,
-  "tags": [
-    "bitset",
-    "graphs",
-    "sqrt_decomposition"
-  ],
+  "tags": ["bitset", "graphs", "sqrt_decomposition"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4.076900005340576

@@ -19,10 +19,7 @@
   "hint": "<p>В первом тесте существует только одна компактная рассадка — в каждую из аудиторий рассадить по 7 человек.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Qualification 2014-15",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 162,
   "submission_count": null,
   "average_tries": 1.6542999744415283

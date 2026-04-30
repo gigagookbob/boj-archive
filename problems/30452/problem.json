@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2023, pizzaroot",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 4.258399963378906

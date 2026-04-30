@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 13: Grand Prix of Three Capitals",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "dp",
-    "knapsack",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "dp", "knapsack", "parametric_search"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 12

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "kiwiyou, pani, wapas",
   "level": 16,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "coordinate_compression"],
   "accepted_user_count": 138,
   "submission_count": null,
   "average_tries": 2.1884000301361084

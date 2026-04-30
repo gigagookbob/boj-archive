@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере одна из искомых окружностей имеет центр в точке с координатами (1, 0), а вторая — в точке с координатами (3, 0). Обе окружности имеют радиус равный 1.</p>\n<p>Во втором примере центр первой окружности совпадает с началом координат, а радиус равен 10<sup>6</sup>. Вторая окружность — любая, проходящая через точки (−10<sup>6</sup>, 0) и (0, 0).</p>\n<p>В обоих примерах возможны и другие правильные ответы. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2013",
   "level": 19,
-  "tags": [
-    "geometry",
-    "constructive",
-    "randomization",
-    "pigeonhole_principle"
-  ],
+  "tags": ["geometry", "constructive", "randomization", "pigeonhole_principle"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 5

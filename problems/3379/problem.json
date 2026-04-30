@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 225px; height: 198px;\"/></p>",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2005",
   "level": 20,
-  "tags": [
-    "binary_search",
-    "constructive",
-    "geometry",
-    "math"
-  ],
+  "tags": ["binary_search", "constructive", "geometry", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.7778000831604

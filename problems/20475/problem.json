@@ -15,10 +15,7 @@
   "hint": "<p>В приведенном примере Билл может разбить товары на два чека: в один чек пойдут товары за 1000 и за 400 рублей, товар за 400 рублей в этом чеке достанется бесплатно, а в другой --- остальные товары, в нем бесплатно достанется один товар за 100 рублей. Итого Биллу придется заплатить 1300 рублей.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2011",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3200000524520874

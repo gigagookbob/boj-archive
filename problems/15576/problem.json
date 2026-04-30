@@ -23,10 +23,7 @@
   "hint": null,
   "source": "baekjoon, hyakintoss, kipa00",
   "level": 20,
-  "tags": [
-    "math",
-    "fft"
-  ],
+  "tags": ["math", "fft"],
   "accepted_user_count": 1181,
   "submission_count": null,
   "average_tries": 2.453000068664551

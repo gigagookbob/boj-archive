@@ -23,11 +23,7 @@
   "hint": "<p>Обратите внимание, что в третьем тестовом примере четвертая операция изменила как список $y$, так и cписок $x$, а седьмая --- списки $x$, $y$ и $z$. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 16, 2013, Beginner, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 16, 2013, Advanced",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.142899990081787

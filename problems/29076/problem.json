@@ -19,10 +19,7 @@
   "hint": "<p>В первом тесте подходят все натуральные числа от 1 до 9.</p>\n<p>Во втором тесте подходят только числа 8, 9, 10, 11, 12, 13. У числа 14 в данном отрезке содержится только первая его цифра, поэтому оно не учитывается.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, February 7, 2016",
   "level": 12,
-  "tags": [
-    "implementation",
-    "math"
-  ],
+  "tags": ["implementation", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

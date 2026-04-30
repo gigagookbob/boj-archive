@@ -19,9 +19,7 @@
   "hint": "<p>This pictures correspond to the samples:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 122px; height: 252px;\"/></p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 9: Grand Prix of Udmurtia",
   "level": 14,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2.5

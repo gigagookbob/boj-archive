@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, European Championship, The 2024 ICPC European Championship",
   "level": 18,
-  "tags": [
-    "sorting",
-    "trees"
-  ],
+  "tags": ["sorting", "trees"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.3076999187469482

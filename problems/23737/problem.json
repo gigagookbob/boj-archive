@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, UNIST, 3rd UNIST Algorithm Programming Contest Uni-CODE 2021, queued_q, chunghan, jh05013, leejseo",
   "level": 21,
-  "tags": [
-    "case_work",
-    "gaussian_elimination",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["case_work", "gaussian_elimination", "linear_algebra", "math"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

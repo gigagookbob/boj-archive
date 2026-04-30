@@ -19,9 +19,7 @@
   "hint": "<p>어떤 정수 $0\\le t&lt;2^n$에 대해서, $t$의 길이 $n$의 이진전개라는 것은 길이 $n$의 이진수열 $a_na_{n-1}...a_1$인데, 이때 $a_i$는 $\\left\\lfloor \\frac{t}{2^{i-1}} \\right\\rfloor$가 홀수라면 $1$이고, 그렇지 않다면 $0$이다. 간단히 말해서, $a_i$는 $t$의 $i$번째 비트이다.</p>\r\n\r\n<p>출력 버퍼를 비우는 방법은 다음과 같다.</p>\r\n\r\n<ul>\r\n\t<li>C: <span style=\"color:#e74c3c;\"><code>fflush(stdout)</code></span></li>\r\n\t<li>C++: <span style=\"color:#e74c3c;\"><code>std::cout &lt;&lt; std::flush</code></span></li>\r\n\t<li>Java: <span style=\"color:#e74c3c;\"><code>System.out.flush()</code></span></li>\r\n\t<li>Python: <span style=\"color:#e74c3c;\"><code>sys.stdout.flush()</code></span></li>\r\n</ul>\r\n\r\n<p>이외의 언어에 대해서는 언어별 명세를 참고해야 한다.</p>\r\n",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2025 KAIST RUN Spring Contest, ibm2006, ainta, gs22123, koosaga, moonrabbit2, silverwolf, urd05",
   "level": 22,
-  "tags": [
-    "constructive"
-  ],
+  "tags": ["constructive"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.5

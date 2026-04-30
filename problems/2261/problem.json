@@ -15,11 +15,7 @@
   "hint": null,
   "source": "august14, Diuven, dummymon, h0ngjun7, jang010505, Juno, pentagon03, pichulia, jh05013",
   "level": 19,
-  "tags": [
-    "geometry",
-    "sweeping",
-    "divide_and_conquer"
-  ],
+  "tags": ["geometry", "sweeping", "divide_and_conquer"],
   "accepted_user_count": 4927,
   "submission_count": null,
   "average_tries": 5.857900142669678

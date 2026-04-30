@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST RUN Spring Contest, 2017 KAIST RUN Spring Contest (HYEA Cup), ho94949",
   "level": 27,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "math",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "math", "segtree"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 8.0625

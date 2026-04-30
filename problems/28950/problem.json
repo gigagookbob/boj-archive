@@ -27,12 +27,7 @@
   "hint": "<p>Пояснение к третьему тесту. По определению, последовательность из одной ячейки не является циклической, поэтому решения не существует.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 23, 2016",
   "level": 17,
-  "tags": [
-    "dfs",
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dfs", "dp", "graphs", "graph_traversal"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 11.5

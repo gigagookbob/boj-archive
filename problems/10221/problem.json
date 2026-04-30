@@ -15,12 +15,7 @@
   "hint": "<p>첫 번째 예제에서 답이 3인 X는 아래의 12개이다.</p>\n<p>(-1,1,2)  (-1,2,1)  (0,1,2)  (0,2,1)  (1,0,2)  (1,1,1)</p>\n<p>(1,2,-1)  (1,2,0)  (2,-1,2)  (2,0,1)  (2,1,-1)  (2,1,0)</p>",
   "source": "Contest, Coder's High, Coder's High 2014, august14",
   "level": 21,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "case_work",
-    "maximum_subarray"
-  ],
+  "tags": ["dp", "prefix_sum", "case_work", "maximum_subarray"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 3.68179988861084

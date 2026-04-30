@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2010, Final Exam #1, baekjoon, chan4928",
   "level": 22,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3.8333001136779785

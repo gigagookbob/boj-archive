@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2019 Japan Domestic Contest",
   "level": 21,
-  "tags": [
-    "constructive",
-    "graphs",
-    "graph_traversal",
-    "mst",
-    "trees"
-  ],
+  "tags": ["constructive", "graphs", "graph_traversal", "mst", "trees"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 8.923100471496582

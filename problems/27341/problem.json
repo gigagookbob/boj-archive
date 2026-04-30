@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the second example: Students in the beginning, after the first and after the second swap.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 409px; height: 113px;\"/></p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #3",
   "level": 14,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set"
-  ],
+  "tags": ["implementation", "data_structures", "set"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.4815000295639038

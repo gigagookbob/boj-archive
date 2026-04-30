@@ -15,11 +15,7 @@
   "hint": "<p>For the initial deck of the example test, one of the best distributions is to assign the cards with values $0$ and $2$ into one pile, the cards with values $0, 1, 2, 2, 4$ into another pile, and the card with value $4$ into the third pile. The sum of mexes in this distribution is $\\operatorname{mex}(\\{0, 2\\}) + \\operatorname{mex}(\\{0, 1, 2, 2, 4\\}) + \\operatorname{mex}(\\{4\\}) = 1 + 3 + 0 = 4$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.4643000364303589

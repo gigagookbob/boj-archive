@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2023, 2차 선발고사, koosaga",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "greedy"
-  ],
+  "tags": ["math", "dp", "greedy"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.1600000858306885

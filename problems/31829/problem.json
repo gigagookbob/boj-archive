@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, KPSC Welcome Contest 2024, Contest, University, 국민대학교, KPSC Welcome Contest 2024, Open Contest, saywoo, gggkik, pjshwa, tony9402, utilforever",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 2.5097999572753906

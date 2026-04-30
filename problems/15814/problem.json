@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2018 전북대학교 프로그래밍 경진대회, 940723, jh05013",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1392,
   "submission_count": null,
   "average_tries": 1.1450999975204468

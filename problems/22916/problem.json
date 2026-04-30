@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, there are 4 ways to write the integers on the blank cards: [1,1], [1,2], [2,1], and [2,2]. In the first two ways, no matter what Alice chooses in her first turn, Bob can always make the number in the last remaining cell be a 1, and card 1 contains a 1, which means those two games have a score of 1. In the last two ways, Alice can start by eliminating the leftmost half of the board, leaving [1,1] for Bob, who then has no choice but to leave [1] at the end. Since card 1 has a 2 on it in these ways, the score of both of these games is 2. The sum of all scores is therefore 1+1+2+2=6.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 3",
   "level": 23,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "math",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "math", "trees"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

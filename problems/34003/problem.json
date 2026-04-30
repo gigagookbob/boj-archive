@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제2회 임스의 메이플컵, pichulia, menborong, nflight11, tony9402",
   "level": 9,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "combinatorics", "probability"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.5148999691009521

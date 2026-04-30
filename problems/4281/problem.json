@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 25 February, 2006",
   "level": 9,
-  "tags": [
-    "bitmask",
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bitmask", "bruteforcing", "implementation"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.058799982070923

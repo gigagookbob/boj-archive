@@ -15,11 +15,7 @@
   "hint": "<p>The first, third and fifth sentences of the example describe items of the right colors. So, their colors and names must be printed. In the second and fourth sentences, this is not the case, so we must choose such an item that neither its name nor its color appear as words in the sentence.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 1: Grand Prix of SPb",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 3.1212000846862793

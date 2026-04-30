@@ -19,11 +19,7 @@
   "hint": "<ul>\n<li>시발역은 열차가 운행을 시작하는 역이고, 종착역은 열차가 운행을 종료하는 역입니다. \t예를 들어 시발역이 K258이고, 종착역이 K272라면, 열차는 K258(오이도)역을 출발하여 아래와 같은 순서대로 역에 멈추게 됩니다.\n\t<ul>\n<li>K259(달월), K260(월곶), K261(소래포구), K262(인천논현), K263(호구포), K264(남동인더스파크), K265(원인재), K266(연수), K267(송도), \t\tK268(학익), K269(인하대), K270(숭의), K271(신포), K272(인천)</li>\n</ul>\n</li>\n</ul>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 2회 코딩 테스트, chogahui05, hp3265, melon940925, rhs0266",
   "level": 14,
-  "tags": [
-    "dp",
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["dp", "greedy", "implementation"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 3.0416998863220215

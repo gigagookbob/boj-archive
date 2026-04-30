@@ -19,13 +19,7 @@
   "hint": "<p>Обратите внимание, что в случае, если в городе погибают все вампиры, а новый отряд из соседнего города приходит на следующий день, вампиры все равно проигрывают.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, October 19, 2013, Basic",
   "level": 10,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation", "bfs"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

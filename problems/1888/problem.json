@@ -15,13 +15,7 @@
   "hint": "<p>입출력 예시에서, 시간이 지남에 따라 달라지는 벽의 모습을 차례대로 나타내면 다음과 같다.</p>\n<pre>\n222220000111111\n222220000111111\n222220111111111\n222220111111111\n222200111111111\n\n222222201111111\n222222211111111\n222222211111111\n222222211111111\n222222211111111</pre>",
   "source": "author10",
   "level": 13,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 4.21999979019165

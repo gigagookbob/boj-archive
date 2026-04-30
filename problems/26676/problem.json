@@ -19,10 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładu: W pierwszym teście przykładowym Mateusz ma trzy pomysły na zadania pasujące na pozycję 5C. Po odrzuceniu dowolnego z nich reszta pomysłów tworzy poprawny zestaw zadań. W drugim teście przykładowym Mateusz dysponuje tylko jednym zadaniem pasującym do pozycji 5B, nie może zatem ułożyć poprawnego zestawu zadań.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2020",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 156,
   "submission_count": null,
   "average_tries": 1.2308000326156616

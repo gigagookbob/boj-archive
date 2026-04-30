@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2017, Day 8: UESTC Selection",
   "level": 23,
-  "tags": [
-    "combinatorics",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3

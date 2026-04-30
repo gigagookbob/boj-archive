@@ -23,13 +23,7 @@
   "hint": "<p><strong>Clarification of the third test case:</strong></p>\n<p>Initially, the numbers 1, 3 and 5 are written down.</p>\n<p>In the first step, Ivica chooses numbers 1 and 3, erases them and writes down 2. After the first step, 2 and 5 are written down.</p>\n<p>In the second step, Ivica chooses the remaining two numbers which average is 3.5.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #7",
   "level": 7,
-  "tags": [
-    "math",
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["math", "data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 313,
   "submission_count": null,
   "average_tries": 1.1628999710083008

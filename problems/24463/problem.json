@@ -27,13 +27,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제8회 한양대학교 프로그래밍 경시대회, Beginner Division, my3, chansol, ingyu1008, jhnah917, lake, thak00, tony9402",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "traceback"],
   "accepted_user_count": 414,
   "submission_count": null,
   "average_tries": 2.661799907684326

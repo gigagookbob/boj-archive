@@ -23,9 +23,7 @@
   "hint": "<p>Input/output samples are given in the table below. There are three tests. The first two use the same grammar: SAB, Sa, Ab (S→AB, S→a, A→b). For the first test the input string is a, and the result is 1, while for the second test the input string is ab and the result is 0.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2014",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.636399984359741

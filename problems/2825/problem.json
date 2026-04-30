@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2011/2012, Contest #2, baekjoon, adh0463, jh05013, donghy9508",
   "level": 14,
-  "tags": [
-    "math",
-    "bitmask"
-  ],
+  "tags": ["math", "bitmask"],
   "accepted_user_count": 246,
   "submission_count": null,
   "average_tries": 2.8536999225616455

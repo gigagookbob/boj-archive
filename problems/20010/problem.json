@@ -19,14 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제4회 생각하는 프로그래밍 대회, siontama",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "mst",
-    "tree_diameter"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "mst", "tree_diameter"],
   "accepted_user_count": 551,
   "submission_count": null,
   "average_tries": 1.6859999895095825

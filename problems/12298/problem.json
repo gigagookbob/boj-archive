@@ -15,9 +15,7 @@
   "hint": "<p>The board game Can't Stop was designed by Sid Sackson, and has been published by many publishers. Neither Mr. Sackson nor any of the publishers endorses, or has any involvement with, Google Code Jam.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2013, World Finals",
   "level": 22,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.8181999921798706

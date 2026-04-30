@@ -19,11 +19,7 @@
   "hint": "<p>For each test case, the total cost for any partitioning does not exceed 2<sup>31</sup>-1.</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2002, Day 2",
   "level": 18,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "cht"
-  ],
+  "tags": ["dp", "prefix_sum", "cht"],
   "accepted_user_count": 109,
   "submission_count": null,
   "average_tries": 1.4127999544143677

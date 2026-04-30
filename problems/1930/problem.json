@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "geometry", "case_work"],
   "accepted_user_count": 298,
   "submission_count": null,
   "average_tries": 2.7147998809814453

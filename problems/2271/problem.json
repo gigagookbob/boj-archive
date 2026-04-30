@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2004, bnb2011",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set"
-  ],
+  "tags": ["data_structures", "segtree", "set"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 4.94290018081665

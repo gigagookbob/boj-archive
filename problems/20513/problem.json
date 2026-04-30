@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере можно установить дополнительную защиту толщиной 2 метра и разместить модули на поле, как показано на рисунке.</p>\n<table class=\"table table-bordered td-center th-center td-middle\" style=\"width:100%;\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 53px; height: 62px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 112px; height: 122px;\"/></td>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 231px; height: 263px;\"/></td>\n</tr>\n</tbody>\n<tfoot>\n<tr>\n<th>Жилой модуль</th>\n<th>Жилой модуль с дополнительной защитой толщиной 2</th>\n<th>Размещение модулей на поле</th>\n</tr>\n</tfoot>\n</table>\n<p>Во втором примере жилой отсек имеет размер 5 × 5 метров, а поле – размер 6 × 6 метров. Добавить дополнительную защиту к модулю нельзя.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2016",
   "level": 10,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.333299994468689

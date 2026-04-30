@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2020 Greater New York Programming Contest",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "pigeonhole_principle"
-  ],
+  "tags": ["implementation", "string", "pigeonhole_principle"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.7882000207901

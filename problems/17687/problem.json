@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2017/2018 Spring Training Camp",
   "level": 22,
-  "tags": [
-    "dp",
-    "two_pointer",
-    "dag",
-    "sqrt_decomposition"
-  ],
+  "tags": ["dp", "two_pointer", "dag", "sqrt_decomposition"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 5.6346001625061035

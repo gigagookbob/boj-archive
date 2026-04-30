@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, SciOI 2024, kdy40929, 79brue, dohoon, ibm2006, jimini23, jk410, kuhyaku, math_rabbit_1028, tlsdydaud1, turgon314, woohyun_jng",
   "level": 14,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["greedy", "ad_hoc", "binary_search"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 2.089400053024292

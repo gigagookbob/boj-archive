@@ -15,12 +15,7 @@
   "hint": "<p>The sample interaction above is shown only for the purpose of illustrating the interaction protocol: there is no way the solution could reliably conclude the given estimate of $250\\,000$ infected people based on the four tests performed.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2020, Camp, Petrozavodsk Programming Camp, Winter 2021, Day 3: Nordic+ Contest 2020",
   "level": 21,
-  "tags": [
-    "math",
-    "probability",
-    "simulated_annealing",
-    "bayes"
-  ],
+  "tags": ["math", "probability", "simulated_annealing", "bayes"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 4.482800006866455

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2023, Camp, Petrozavodsk Programming Camp, Winter 2024, Day 6: K-ontest",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "number_theory", "dp_digit"],
   "accepted_user_count": 104,
   "submission_count": null,
   "average_tries": 3.7885000705718994

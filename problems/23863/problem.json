@@ -23,11 +23,7 @@
   "hint": "<p>A picture for the third example:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 532px; height: 532px;\"/></p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open 2020-2021, Qualification, Contest 2",
   "level": 24,
-  "tags": [
-    "geometry",
-    "sweeping",
-    "bulldozer"
-  ],
+  "tags": ["geometry", "sweeping", "bulldozer"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.9464000463485718

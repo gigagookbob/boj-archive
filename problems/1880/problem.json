@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2006",
   "level": 20,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "backtracking"
-  ],
+  "tags": ["graphs", "ad_hoc", "backtracking"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.5713999271392822

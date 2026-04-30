@@ -15,9 +15,7 @@
   "hint": "<p>For sample input</p>\n<p><img alt=\"\" src=\"1.gif\" style=\"height:146px; width:164px\"/></p>\n<p>For sample output</p>\n<p><img alt=\"\" src=\"2.gif\" style=\"height:146px; width:164px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2006/2007, Stage 2",
   "level": 22,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.5

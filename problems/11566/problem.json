@@ -23,9 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2015 Sogang Programming Contest, Master, Nada",
   "level": 8,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 186,
   "submission_count": null,
   "average_tries": 2.0699000358581543

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2018 연세대학교 컴퓨터과학과 프로그래밍 경진대회, portableangel, adh0463, vega",
   "level": 12,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 411,
   "submission_count": null,
   "average_tries": 3.2165000438690186

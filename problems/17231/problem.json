@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2019 아주대학교 프로그래밍 경시대회 APC, Div.1, spectaclehong",
   "level": 22,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.3076999187469482

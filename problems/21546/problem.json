@@ -19,12 +19,7 @@
   "hint": "<p>В примерах из условия разрешены следующие виды удалений (удаляемый символ зачёркнут, символ непосредственно перед ним подчёркнут): <u><code>a</code></u><s><code>b</code></s>, <u><code>b</code></u><s><code>c</code></s>, <code><u>c</u><s>a</s></code>.</p>\n<p>Возможная последовательность удалений в первом примере:</p>\n<ul>\n<li><code>abacaba</code></li>\n<li><code>abac<u>a</u><s>b</s>a</code></li>\n<li><code>abacaa</code></li>\n<li><code>aba<u>c</u><s>a</s>a</code></li>\n<li><code>abaca</code></li>\n<li><code>aba<u>c</u><s>a</s></code></li>\n<li><code>abac</code></li>\n<li><code><u>a</u><s>b</s>ac</code></li>\n<li><code>aac</code></li>\n</ul>\n<p>Возможная последовательность удалений во втором примере:</p>\n<ul>\n<li><code>bcacb</code></li>\n<li><code><u>b</u><s>c</s>acb</code></li>\n<li><code>bacb</code></li>\n</ul>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2021",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "dp",
-    "hashing",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "dp", "hashing", "sparse_table"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.700000047683716

@@ -27,10 +27,7 @@
   "hint": "<p>In Sample Input 1, There are five possible sequences $A$.</p>\n<ul>\n<li>$\\{0,2,0,0\\}$</li>\n<li>$\\{0,0,2,0\\}$</li>\n<li>$\\{0,1,2,0\\}$</li>\n<li>$\\{0,2,1,0\\}$</li>\n<li>$\\{0,2,2,0\\}$</li>\n</ul>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2023 Day 2, Camp, Petrozavodsk Programming Camp, Summer 2024, Day 1: Welcome Contest",
   "level": 23,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

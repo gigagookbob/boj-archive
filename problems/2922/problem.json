@@ -23,10 +23,7 @@
   "hint": "<p>정답은 2<sup>63</sup>-1을 넘지 않는다.</p>\r\n",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #1, baekjoon",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 627,
   "submission_count": null,
   "average_tries": 2.0510001182556152

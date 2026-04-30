@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, November 7, 2015, Basic",
   "level": 9,
-  "tags": [
-    "constructive",
-    "greedy"
-  ],
+  "tags": ["constructive", "greedy"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

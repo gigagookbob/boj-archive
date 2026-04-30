@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2023!, jhwest2, leejseo, cgiosy, chansol, edenooo, gustjwkd1007, jhnah917, jhwest2, kyo20111, ryute, serin, sharaelong",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 288,
   "submission_count": null,
   "average_tries": 2.3993000984191895

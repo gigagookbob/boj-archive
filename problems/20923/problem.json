@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Winter Algorithm Camp Contest, 초급, whaeun25, gratus907, iknoom1107, jwvg0425, tony9402",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 614,
   "submission_count": null,
   "average_tries": 4.20359992980957

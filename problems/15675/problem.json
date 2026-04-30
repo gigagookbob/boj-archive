@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2018 연세대학교 컴퓨터과학과 프로그래밍 경진대회, portableangel",
   "level": 20,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 257,
   "submission_count": null,
   "average_tries": 1.875499963760376

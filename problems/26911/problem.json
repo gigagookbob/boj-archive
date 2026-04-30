@@ -23,11 +23,7 @@
   "hint": "<p>Förklaring av exempelfall 1: Simon har 5 minuter på sig, och det finns tre tävlande att hämta upp. Att hämta den första tävlande tar 4 minuter, att hämta den andra tar 6 minuter, och att hämta den trejde tar 4 minuter (om han åker optimalt). Eftersom han bara har 5 minuter på sig så hinner han då bara hämta en person.</p>\n<p>Förklaring av exempelfall 2: Simon hinner inte hämta någon alls.</p>\n<p>Förklaring av exempelfall 3: Simon hinner precis hämta en person, personen som befinner sig vid $(-100, 0)$.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2014, Final",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["greedy", "sorting", "geometry"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1764999628067017

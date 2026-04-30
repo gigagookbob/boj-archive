@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2012, Day 2, doju, suhgyuho",
   "level": 24,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "trees", "dp_tree"],
   "accepted_user_count": 139,
   "submission_count": null,
   "average_tries": 2.151099920272827

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory"
-  ],
+  "tags": ["math", "greedy", "number_theory"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.885200023651123

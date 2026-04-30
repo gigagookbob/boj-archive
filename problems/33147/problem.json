@@ -19,12 +19,7 @@
   "hint": "<p>$\\bmod$는 나머지 연산으로, $a \\bmod b$는 $a$를 $b$로 나눈 나머지를 뜻한다. 예를 들어, $5 \\bmod 3 = 2$이다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2024, Contest, University, 경인지역 대학 연합, shake! 2024, Open Contest, rustiebeats, akim9905, bnb2011, Coxie, hamuim, ibm2006, jk410, lky7674, overnap, pani, shjohw12, swoon, tlsdydaud1, utilforever",
   "level": 10,
-  "tags": [
-    "math",
-    "sorting",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "sorting", "number_theory", "euclidean"],
   "accepted_user_count": 287,
   "submission_count": null,
   "average_tries": 2.376300096511841

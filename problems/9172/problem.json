@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2005 Pacific Northwest Region Programming Contest",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "number_theory",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "number_theory", "arithmetic"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.270300030708313

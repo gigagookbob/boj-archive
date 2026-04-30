@@ -35,10 +35,7 @@
   "hint": null,
   "source": "baekjoon, inhau",
   "level": 10,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 193,
   "submission_count": null,
   "average_tries": 3.5388998985290527

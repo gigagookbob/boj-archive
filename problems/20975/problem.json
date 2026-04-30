@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 January Contest, Bronze",
   "level": 10,
-  "tags": [
-    "combinatorics",
-    "greedy",
-    "math",
-    "sorting"
-  ],
+  "tags": ["combinatorics", "greedy", "math", "sorting"],
   "accepted_user_count": 387,
   "submission_count": null,
   "average_tries": 1.6718000173568726

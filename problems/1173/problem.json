@@ -31,10 +31,7 @@
   "hint": "<table class=\"table table-bordered\" style=\"width: 35%;\">\n<thead>\n<tr>\n<th style=\"text-align: center;\">시간</th>\n<th style=\"text-align: center;\">행동</th>\n<th style=\"text-align: center;\">행동을 한 후의 맥박</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">1</td>\n<td style=\"text-align: center;\">운동</td>\n<td style=\"text-align: center;\">95</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">2</td>\n<td style=\"text-align: center;\">운동</td>\n<td style=\"text-align: center;\">120</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">3</td>\n<td style=\"text-align: center;\">휴식</td>\n<td style=\"text-align: center;\">105</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">4</td>\n<td style=\"text-align: center;\">휴식</td>\n<td style=\"text-align: center;\">90</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">5</td>\n<td style=\"text-align: center;\">운동</td>\n<td style=\"text-align: center;\">115</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">6</td>\n<td style=\"text-align: center;\">휴식</td>\n<td style=\"text-align: center;\">100</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">휴식</td>\n<td style=\"text-align: center;\">85</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">8</td>\n<td style=\"text-align: center;\">운동</td>\n<td style=\"text-align: center;\">110</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">9</td>\n<td style=\"text-align: center;\">휴식</td>\n<td style=\"text-align: center;\">95</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">10</td>\n<td style=\"text-align: center;\">운동</td>\n<td style=\"text-align: center;\">120</td>\n</tr>\n</tbody>\n</table>",
   "source": "baekjoon, jh05013",
   "level": 4,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 5183,
   "submission_count": null,
   "average_tries": 2.0380001068115234

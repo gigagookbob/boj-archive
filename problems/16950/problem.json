@@ -19,13 +19,7 @@
   "hint": null,
   "source": "jh05013",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "constructive",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "constructive", "disjoint_set", "mst"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 3.7565999031066895

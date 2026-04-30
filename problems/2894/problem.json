@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2009/2010, Contest #6, august14",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bitmask",
-    "dag"
-  ],
+  "tags": ["graphs", "graph_traversal", "bitmask", "dag"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 3.6333000659942627

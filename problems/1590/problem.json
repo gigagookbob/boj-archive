@@ -31,11 +31,7 @@
   "hint": "<p>예제 1의 경우 150분, 200분, 250분, ..., 600분에 한 대씩 버스가 출발한다. 따라서 영식이는 300분에 버스를 타면 된다.</p>",
   "source": "baekjoon, gktgnjftm, jh05013",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "binary_search"
-  ],
+  "tags": ["math", "bruteforcing", "binary_search"],
   "accepted_user_count": 1279,
   "submission_count": null,
   "average_tries": 2.2829999923706055

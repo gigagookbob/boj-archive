@@ -31,11 +31,7 @@
   "hint": "<p>예제 1의 경우 아래와 같이 도로를 건설하는 것이 가능하다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 328px; height: 250px;\"/></p>\n<p>예제 2의 경우 아래와 같이 도로를 건설하는 것이 가능하다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 419px; height: 350px;\"/></p>",
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.4419000148773193

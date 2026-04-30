@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2017, Day 1",
   "level": 25,
-  "tags": [
-    "graphs",
-    "heuristics",
-    "randomization"
-  ],
+  "tags": ["graphs", "heuristics", "randomization"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1

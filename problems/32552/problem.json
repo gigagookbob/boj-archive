@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2024",
   "level": 17,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "lis"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "lis"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.2856999635696411

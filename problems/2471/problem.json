@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2010, 중등부, kcm1700",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "priority_queue",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "string", "set", "priority_queue", "tree_set"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.573199987411499

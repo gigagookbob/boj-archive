@@ -15,13 +15,7 @@
   "hint": "<p>Python 3 사용자는 PyPy3로 제출할 것을 권장한다.</p>",
   "source": "Contest, BOJ User Contest, 나들이, 첫 번째 나들이, vkdldjvkdnj, iktk, measurezero, mujigae, utilforever",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "bitmask",
-    "lazyprop",
-    "beats"
-  ],
+  "tags": ["data_structures", "segtree", "bitmask", "lazyprop", "beats"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.411799907684326

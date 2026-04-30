@@ -15,11 +15,7 @@
   "hint": "<p>디미고 책자가 최대 $1\\,000$페이지나 될 정도로 두꺼운 이유는 설명할 장점들이 너무 많기 때문이다. 더 길게 만들 수 있었지만 배려 차원에서 많이 요약되었다.</p>",
   "source": "School, 한국디지털미디어고등학교, 제 1회 2024 디미고 프로그래밍 챌린지, ecode, dkim110807, ian0704, lem0nad3, lky7674, max804, nflight11, wizardrabbit, wjdclgns12",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 758,
   "submission_count": null,
   "average_tries": 1.8773000240325928

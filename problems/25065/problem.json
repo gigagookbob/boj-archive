@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, National Olympiad in Informatics (China), NOI 2021",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "hld",
-    "maximum_subarray"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "hld", "maximum_subarray"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.6521999835968018

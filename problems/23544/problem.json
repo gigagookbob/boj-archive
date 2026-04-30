@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 20: Grand Prix of Ural",
   "level": 4,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 1.1097999811172485

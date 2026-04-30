@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Romanian IOI Selection, Romanian IOI 2017 Selection #3",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

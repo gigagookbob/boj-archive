@@ -31,12 +31,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2024 Preliminaries",
   "level": 20,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "backtracking",
-    "randomization"
-  ],
+  "tags": ["graphs", "bruteforcing", "backtracking", "randomization"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 7.25

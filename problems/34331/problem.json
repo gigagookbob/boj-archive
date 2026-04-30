@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 금오공과대학교, 2025 KUMOH ASK CONTEST, swoon, chika, gs22123, jthis, tony9402, ychangseok",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "mst"
-  ],
+  "tags": ["graphs", "graph_traversal", "mst"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.6340999603271484

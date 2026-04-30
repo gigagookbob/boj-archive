@@ -15,11 +15,7 @@
   "hint": "<p>Nakon što komad leda padne na središnju ploču, sve ploče osim posljednje bit će visine 2. Nakon još jednog pada na središnju ploču, sve su ploče visine 1.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2017",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "greedy"
-  ],
+  "tags": ["data_structures", "disjoint_set", "greedy"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

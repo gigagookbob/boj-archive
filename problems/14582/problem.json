@@ -19,9 +19,7 @@
   "hint": "<p>첫 번째 예제에서 울림 제미니스가 이기고 있던 순간은 (울림이 1회 초에 1점을 낸 순간) ~ (스타트링크가 3회 말에 1점을 낸 순간)과 (울림이 8회 초에 1점을 낸 순간) ~ (스타트링크가 9회 말에 2점을 낸 순간)이다.</p>",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2017 고려대학교 프로그래밍 대회, Div 2, functionx, tncks0121",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2980,
   "submission_count": null,
   "average_tries": 2.454400062561035

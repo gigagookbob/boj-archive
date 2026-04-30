@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2025 East Central NA Regional Contest",
   "level": 15,
-  "tags": [
-    "implementation",
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["implementation", "dp", "trees", "dp_tree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.2000000476837158

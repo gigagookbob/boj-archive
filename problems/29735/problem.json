@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 브실컵, 2023 브실컵, tony9402, utilforever, ychangseok",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 264,
   "submission_count": null,
   "average_tries": 2.322000026702881

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2012, cgiosy",
   "level": 20,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "trees"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.272700071334839

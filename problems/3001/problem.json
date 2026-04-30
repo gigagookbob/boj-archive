@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2007/2008, Contest #3, baekjoon, jason9319",
   "level": 17,
-  "tags": [
-    "dp",
-    "parametric_search",
-    "traceback",
-    "dp_digit"
-  ],
+  "tags": ["dp", "parametric_search", "traceback", "dp_digit"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 2.2651000022888184

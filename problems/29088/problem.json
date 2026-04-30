@@ -23,10 +23,7 @@
   "hint": "<p>На рисунке наглядно показан первый пример.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, March 27, 2016",
   "level": 7,
-  "tags": [
-    "math",
-    "case_work"
-  ],
+  "tags": ["math", "case_work"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2

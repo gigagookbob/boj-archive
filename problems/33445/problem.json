@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>The sample output prints a depth-2 circuit computing $\\mathit{Maj}_4$. The circuit $\\mathit{Maj}_4 (x_1,x_2,x_3,x_4)$ outputs $1$ if and only if at least two input nodes are $1$. Thus you can compute the logical AND of every pair of input nodes and output the logical OR of these ANDs.</p>\n<p>Here are some notes on the circuit nodes:</p>\n<ul>\n<li>Nodes $1$, $2$, $3$, and $4$ are input nodes.</li>\n<li>Nodes $5$, $6$, $7$, $8$, $9$, and $10$ compute the logical AND of some input nodes.</li>\n<li>Nodes $11$ and $12$ are redundant.</li>\n<li>Node $13$ is the output node.</li>\n<li>The constant nodes $T$ and $F$ are not drawn in the figure.</li>\n</ul>\n<p>Here, the existence of redundant nodes will not affect the validity of the circuit as long as the constraints ($1 \\le m \\le 5 \\cdot 10^4$, $\\sum k_i \\le 2 \\cdot 10^5$, $\\mathit{depth} \\le 14$) are satisfied.</p>\n<p>During the test, the following shows a possible scenario:</p>\n<p>The input nodes are set to $x_1 = 1$, $x_2 = 0$, $x_3 = 0$, $x_4 = 1$.</p>\n<p>Therefore, the outputs of nodes $x_5, \\ldots, x_{13}$ are:</p>\n<ul>\n<li>$x_5 = x_1 \\text{ AND } x_2 = 1 \\text{ AND } 0 = 0$</li>\n<li>$x_6 = x_1 \\text{ AND } x_3 = 1 \\text{ AND } 0 = 0$</li>\n<li>$x_7 = x_1 \\text{ AND } x_4 = 1 \\text{ AND } 1 = 1$</li>\n<li>$x_8 = x_2 \\text{ AND } x_3 = 0 \\text{ AND } 0 = 0$</li>\n<li>$x_9 = x_2 \\text{ AND } x_4 = 0 \\text{ AND } 1 = 0$</li>\n<li>$x_{10} = x_3 \\text{ AND } x_4 = 0 \\text{ AND } 1 = 0$</li>\n<li>$x_{11} = x_5 \\text{ AND } x_5 \\text{ AND } x_6 = 0 \\text{ AND } 0 \\text{ AND } 0 = 0$</li>\n<li>$x_{12} = x_7 = 1$</li>\n<li>$x_{13} = x_5 \\text{ OR } x_6 \\text{ OR } x_7 \\text{ OR } x_8 \\text{ OR } x_9 \\text{ OR } x_{10} = 0 \\text{ OR } 0 \\text{ OR } 1 \\text{ OR } 0 \\text{ OR } 0 \\text{ OR } 0 = 1$.</li>\n</ul>\n<p>The output of the circuit is $x_{13} = 1$, which is the majority of $\\{1, 0, 0, 1\\}$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 4: Peking U Contest 2",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "divide_and_conquer"
-  ],
+  "tags": ["ad_hoc", "constructive", "divide_and_conquer"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2.5

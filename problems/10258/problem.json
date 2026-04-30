@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2014, portableangel, kordreamfollower, myungwoo",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["math", "dp", "ad_hoc"],
   "accepted_user_count": 465,
   "submission_count": null,
   "average_tries": 1.7139999866485596

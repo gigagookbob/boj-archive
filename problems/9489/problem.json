@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2013 Southeast USA Regional Programming Contest, Division 2, baekjoon, corea",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "trees"
-  ],
+  "tags": ["data_structures", "trees"],
   "accepted_user_count": 984,
   "submission_count": null,
   "average_tries": 3.311000108718872

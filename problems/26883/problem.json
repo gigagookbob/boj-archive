@@ -19,11 +19,7 @@
   "hint": "<p>I det första indataexemplet så spelar användaren 500 millisekunder. Sedan använder hen mobilen för att starta musiken och avslutar den från laptopen $500$ millisekunder senare, men på grund av delayen så spelar musiken bara i 400 millisekunder. Totalt spelas alltså musiken i $900$ millisekunder.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2015, Online Qualification",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["implementation", "sorting", "simulation"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.5484000444412231

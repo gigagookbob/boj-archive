@@ -15,9 +15,7 @@
   "hint": "<p>본 문제에서 $2$의 거듭제곱수는 $2^k$ 꼴로 표현했을 때 $k$가 음이 아닌 정수가 되는 수로 정의됩니다.</p>\r\n",
   "source": "Contest, BOJ User Contest, 흐즈로컵, 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division, hjroh0315, biximo, dhyang24, eggx50000, naeby, quickn, utilforever",
   "level": 4,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 424,
   "submission_count": null,
   "average_tries": 1.9244999885559082

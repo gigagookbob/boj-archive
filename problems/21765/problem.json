@@ -23,11 +23,7 @@
   "hint": "<p>In example 2, the proposition can be established for $p=0.5,$ if people 1, 3 are for and people 2, 4 are against.</p>\n<p>However, if the proposition is established for $p&gt;0.5, $ it is a contradiction to the proposition if there exists a person against an issue.</p>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2021 KAIST RUN Spring Contest, easrui, tncks0121, aeren, ainta, cs71107, jhnah917, koosaga, leejseo, taeyeon_ss",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["math", "greedy", "binary_search"],
   "accepted_user_count": 101,
   "submission_count": null,
   "average_tries": 1.752500057220459

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, 2024 ICPC Asia Seoul Regional",
   "level": 21,
-  "tags": [
-    "dp",
-    "sorting",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "sorting", "coordinate_compression"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.7273000478744507

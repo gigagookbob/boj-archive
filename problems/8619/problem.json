@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p>Na rysunku kółkami oznaczono skrzyżowania, a kwadratami - przystanki. Cienkimi kreskami oznaczono ulice, natomiast grubą - najlepszą możliwą trasę z pierwszego przystanku na drugi, czyli pierwszy fragment optymalnej trasy autobusu. Dla uproszczenia na rysunku pominięto czasy przejazdu przez poszczególne ulice.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2008, Stage 1",
   "level": 14,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

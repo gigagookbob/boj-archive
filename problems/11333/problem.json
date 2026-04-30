@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2013, mathjuny",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 405,
   "submission_count": null,
   "average_tries": 1.8913999795913696

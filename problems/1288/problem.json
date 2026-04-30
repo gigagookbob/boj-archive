@@ -15,12 +15,7 @@
   "hint": null,
   "source": "xhark",
   "level": 22,
-  "tags": [
-    "geometry",
-    "polygon_area",
-    "half_plane_intersection",
-    "voronoi"
-  ],
+  "tags": ["geometry", "polygon_area", "half_plane_intersection", "voronoi"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.9393999576568604

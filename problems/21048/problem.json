@@ -23,11 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2020, Camp, Petrozavodsk Programming Camp, Winter 2021, Day 3: Nordic+ Contest 2020",
   "level": 22,
-  "tags": [
-    "geometry",
-    "polygon_area",
-    "half_plane_intersection"
-  ],
+  "tags": ["geometry", "polygon_area", "half_plane_intersection"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.9854999780654907

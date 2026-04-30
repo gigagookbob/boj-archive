@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 2 October, 1999, kipa00, silvercube",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 2022,
   "submission_count": null,
   "average_tries": 3.1879000663757324

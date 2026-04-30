@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제1회 한국항공대학교 프로그래밍 경진대회(KAUPC), soo7652, bnb2011, palilo, pjshwa, shjohw12, WeissBlume",
   "level": 13,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "bruteforcing", "shortest_path", "dijkstra"],
   "accepted_user_count": 199,
   "submission_count": null,
   "average_tries": 3.1558001041412354

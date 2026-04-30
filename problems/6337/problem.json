@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Mid-Central European Regional Contest, MCERC 1999",
   "level": 14,
-  "tags": [
-    "string",
-    "parsing",
-    "recursion"
-  ],
+  "tags": ["string", "parsing", "recursion"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.799999952316284

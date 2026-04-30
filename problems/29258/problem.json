@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 OVA ~한여름의 수학여행 편~, bubbler, hyperbolic, index, ruykun, sait2000, sorohue",
   "level": 19,
-  "tags": [
-    "case_work",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["case_work", "math", "number_theory"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.434799909591675

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO US Open 2015 Contest, Gold, oree2113",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "set",
-    "sweeping",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "sweeping", "tree_set"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 2.759999990463257

@@ -15,9 +15,7 @@
   "hint": "<p>In Sample Case #1, there are $3$ different colors on $4$ cards. One possible solution is to write the following integers, in order: $1$, $2$, $2$, and $3$. Notice that the same integer ($2$) is written on both cards of color $8$. Then, the order of the colors is $3$, $8$, $2$.</p>\n<p>In Sample Case #2, let $c_8$ and $c_2$ be the integers written in cards of color $8$ and $2$, respectively. If $c_2 \\gt c_8$ then the rightmost two cards would not have their integers in non-decreasing order. If $c_2 \\lt c_8$ that would happen to the second and third card from the left. Finally, $c_8 = c_2$ is forbidden by one of the rules. Therefore, there is no valid way of writing the integers in this case.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round A",
   "level": 8,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.1378999948501587

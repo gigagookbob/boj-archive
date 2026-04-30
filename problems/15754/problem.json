@@ -15,11 +15,7 @@
   "hint": "<p>In this example, we start with the array 20 2 3 4 9 8 7. After one pass of bubble sort (adding 7 to the work counter), we get 2 | 3 | 4 | 9 8 7 | 20, where | denotes a partition point. Our problem is therefore divided into recursive subproblems involving sorting 2, 3, 4, and 20 (each taking zero units of work), and 9 8 7. For the 9 8 7 subproblem, one pass of the main loop (3 units of work) yields 8 7 | 9, after which a final pass over 8 7 (2 units of work) effectively finishes the sort.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 US Open Contest, Platinum",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "data_structures", "sorting"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 3.3824000358581543

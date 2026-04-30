@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, chogahui05, ssphil21e, doju",
   "level": 15,
-  "tags": [
-    "segtree",
-    "data_structures"
-  ],
+  "tags": ["segtree", "data_structures"],
   "accepted_user_count": 4505,
   "submission_count": null,
   "average_tries": 2.009999990463257

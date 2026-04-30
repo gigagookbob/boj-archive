@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Na początku nikt nie posiada komputera, zatem odpowiedź na pierwsze pytanie jest przecząca, a pierwszym znakiem na wyjściu jest ‘0’. Następnie zostają dostarczone dwa komputery i jesteśmy pytani o to, czy drugi mieszkaniec posiada komputer. Jest możliwym, że jedna z dwóch dotychczasowych dostaw była do niego, ale mogło się też zdarzyć, że komputery dostawali odpowiednio mieszkaniec pierwszy i trzeci. Nie jesteśmy zatem w stanie jednoznacznie stwierdzić czy drugi mieszkaniec posiada komputer, odpowiedzią jest więc ‘?’. Zwróć uwagę na to, że po następnej dostawie stanie się jasnym, że drugi mieszkaniec musiał już posiadać komputer, jednak w momencie zapytania Bajtazar nie mógł tego wiedzieć.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2024",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["data_structures", "disjoint_set", "offline_queries"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

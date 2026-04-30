@@ -23,9 +23,7 @@
   "hint": "<p>I det första exemplet kan den högsta styrka uppnås t.ex. genom att dela in personerna i tre grupper: en bestående av person 1 och 4 (med 1 som ledare), en med person 3 och 5 (med 3 som ledare), och en med person 2. Detta ger $(10 \\cdot 2 + 7) + (-1 \\cdot 1 + 20) + (5 \\cdot 2 + 10) = 66$ styrka. Testfallet skulle kunna finnas med i testgrupp 3.</p>\n<p>I det andra exemplet kan högsta styrka uppnås t.ex. genom att dela in personerna i två grupper: en med personer 1, 2 och 3 (med 3 som ledare), och en med personer 4 och 5 (med 4 som ledare). Detta ger $(10 \\cdot 2 + -20) + (11 \\cdot 3 + -30) = 3$ styrka. Testfallet skulle kunnas finnas med i testgrupp 4.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2021, KATT",
   "level": 0,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

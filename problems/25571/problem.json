@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "two_pointer"
-  ],
+  "tags": ["ad_hoc", "two_pointer"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.200000047683716

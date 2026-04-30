@@ -19,10 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, chansol, gojib2002, jthis, palilo, sait2000",
   "level": 11,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 3.728800058364868

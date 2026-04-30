@@ -19,11 +19,7 @@
   "hint": "<p>두 점 $(a, b)$와 $(c, d)$의 $t:1-t$ 내분점은 $(a(1-t)+ct, b(1-t)+dt)$입니다.</p>\r\n",
   "source": "Contest, solved.ac, solved.ac Grand Arena #4, Division 1, cologne, solvedac, gs18115, kipa00, seonah, shiftpsh",
   "level": 20,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "polygon_area"
-  ],
+  "tags": ["geometry", "binary_search", "polygon_area"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 6.429900169372559

@@ -15,11 +15,7 @@
   "hint": "<p>첫 번째 패턴은 텍스트의 위치 1, 2, 7, 8, 9, 10에서 매췽된다.</p>\n<p>두 번째 패턴은 1, 2, 3, 7, 8, 9, 10, 11에서 매췽된다.</p>\n<p>\"1,1,2,48,1,1,1\"은 텍스트의 위치 1, 2에서 매췽된다.</p>\n<p>n이 1&lt;=n&lt;47 일 때, \"1,1,2,n,1,1,1\"은 어느 곳에서도 매췽되지 않는다.</p>\n<p>\"1,1,2,47,1,1,1\"은 텍스트의 위치 2에서만 매췽된다.</p>\n<p>n&gt;48일 때, 세 곳에서 매췽되는 \"1,1,2,n,1,1,1\"은 없다.</p>",
   "source": null,
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "bruteforcing", "prefix_sum"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.9565000534057617

@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2012",
   "level": 24,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "calculus"
-  ],
+  "tags": ["math", "implementation", "geometry", "calculus"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

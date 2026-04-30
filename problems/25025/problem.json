@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제5회 kriiicon 연습 세션, august14",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "flt"
-  ],
+  "tags": ["math", "number_theory", "flt"],
   "accepted_user_count": 128,
   "submission_count": null,
   "average_tries": 2.7578001022338867

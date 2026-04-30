@@ -19,10 +19,7 @@
   "hint": "<p>In the first sample, the initial state is “((()))”. The 4th parenthesis is flipped and the string becomes “(((())”. Then, to keep the balance you should flip the 2nd parenthesis and get “()(())”. The next flip of the 3rd parenthesis is applied to the last state and yields “())())”. To rebalance it, you have to change the 2nd parenthesis again yielding “(()())”.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2014 in Tokyo",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.6485999822616577

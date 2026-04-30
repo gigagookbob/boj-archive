@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, February 10, 2019",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "hld",
-    "segtree",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "hld", "segtree", "string", "trees", "trie"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -19,13 +19,7 @@
   "hint": "<p>문자열 $A$가 문자열 $B$의 연속된 부분으로 나타난다면 $A$를 $B$의 부분 문자열이라고 한다. 예로 <span style=\"color:#e74c3c;\"><code>di</code></span>, <span style=\"color:#e74c3c;\"><code>m</code></span>, <span style=\"color:#e74c3c;\"><code>dimi</code></span>는 <span style=\"color:#e74c3c;\"><code>dimi</code></span>의 부분 문자열이지만 <span style=\"color:#e74c3c;\"><code>a</code></span>, <span style=\"color:#e74c3c;\"><code>ii</code></span>, <span style=\"color:#e74c3c;\"><code>mid</code></span>는 <span style=\"color:#e74c3c;\"><code>dimi</code></span>의 부분 문자열이 아니다.</p>\n<p>문자열 $A$를 앞에서부터 읽어도 뒤에서부터 읽어도 같다면 $A$를 팰린드롬이라고 한다. 예로 <span style=\"color:#e74c3c;\"><code>a</code></span>, <span style=\"color:#e74c3c;\"><code>sees</code></span>, <span style=\"color:#e74c3c;\"><code>racecar</code></span>는 팰린드롬이지만 <span style=\"color:#e74c3c;\"><code>cab</code></span>, <span style=\"color:#e74c3c;\"><code>dimi</code></span>, <span style=\"color:#e74c3c;\"><code>palindrome</code></span>은 팰린드롬이 아니다.</p>",
   "source": "School, 한국디지털미디어고등학교, 제4회 디미고 프로그래밍 챌린지, coding_dana, 99asdfg, djangg7, fill2714, hibye1217, ibasic, jihoojh09, jjang36524, jms020820, shinhuichan, sorohue, utilforever, woohyun_jng",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "string",
-    "ad_hoc",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "string", "ad_hoc", "stack"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 1.5157999992370605

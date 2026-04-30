@@ -15,11 +15,7 @@
   "hint": "<p>어떤 문자열의 부분 문자열은 그 문자열의 비어 있지 않은 연속된 부분으로 정의한다.</p>",
   "source": "University, 서울대학교, 2025 SCSC 알고리즘 대난투, sjhi00, leo020630, mujigae, ohwphil, sjh1224, sorohue, swoon, terrasphere, tony9402, toycartoon, yijw0930",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "ad_hoc", "pigeonhole_principle"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.8831000328063965

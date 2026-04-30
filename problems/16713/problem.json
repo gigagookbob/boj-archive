@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2018 송년대회, william202, windflower",
   "level": 10,
-  "tags": [
-    "prefix_sum",
-    "bitmask"
-  ],
+  "tags": ["prefix_sum", "bitmask"],
   "accepted_user_count": 871,
   "submission_count": null,
   "average_tries": 1.6979999542236328

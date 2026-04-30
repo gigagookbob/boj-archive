@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 195px; height: 203px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2005",
   "level": 13,
-  "tags": [
-    "math",
-    "constructive",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["math", "constructive", "parity", "invariant"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.636399984359741

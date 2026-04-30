@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2021",
   "level": 17,
-  "tags": [
-    "math",
-    "calculus",
-    "ternary_search"
-  ],
+  "tags": ["math", "calculus", "ternary_search"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.857100009918213

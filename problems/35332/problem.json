@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, Farmer John can transfer $10$ haybales from barn $1$ into bags of feed. This leaves $a = [-5]$ and $b = [13]$. The imbalance is $\\max(a) - \\min(b) = -5 - 13 = -18$.</p>\n<p>In the second test case, Farmer john can transfer $5$ haybales from barn $1$ and $1$ haybale from barn $2$. This leaves $a = [95, 95]$ and $b = [5, 5]$. The imbalance is $95 - 5 = 90$. This is the minimum imbalance Farmer John can achieve.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2025-2026 Season, USACO 2026 Second Contest, Gold",
   "level": 18,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "parametric_search"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 5.571400165557861

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Far Eastern Russia Regional Contest, NEERC Far-Eastern Subregional 2004",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set", "tree_set"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.325600028038025

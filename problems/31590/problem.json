@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2024 ICPC Asia Pacific Championship 연습 세션",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "string",
-    "rope"
-  ],
+  "tags": ["data_structures", "string", "rope"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.5478999614715576

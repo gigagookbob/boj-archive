@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 2: Nyatl Contest 2023",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "combinatorics",
-    "euclidean",
-    "bitset"
-  ],
+  "tags": ["math", "number_theory", "combinatorics", "euclidean", "bitset"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

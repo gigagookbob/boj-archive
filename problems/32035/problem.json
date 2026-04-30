@@ -35,12 +35,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024 예선, cki86201, chansol, evenharder, golazcc83, jh05013, kclee2172, kipa00, qwerasdfzxcl, sorohue, whqkrkt04",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work", "parity"],
   "accepted_user_count": 90,
   "submission_count": null,
   "average_tries": 2.0443999767303467

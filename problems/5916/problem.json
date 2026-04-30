@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO December 2011 Contest, Gold, hansc0320, hellogaon, 79brue",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "hld"],
   "accepted_user_count": 531,
   "submission_count": null,
   "average_tries": 1.9736000299453735

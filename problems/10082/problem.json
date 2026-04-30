@@ -15,13 +15,7 @@
   "hint": "<p>This tree is depicted on the figure in the problem statement. The number of branches between given two nodes, i.e. the distance, is 4.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2014",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "trees", "dfs"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.0833001136779785

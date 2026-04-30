@@ -23,11 +23,7 @@
   "hint": "<ul>\n<li>$n \\le 100\\,000$</li>\n<li>$m \\le 100\\,000$</li>\n</ul>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2021",
   "level": 14,
-  "tags": [
-    "dag",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "topological_sorting"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.3125

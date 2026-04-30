@@ -23,10 +23,7 @@
   "hint": "<p>\\(10 = 1\\times 3^2+0\\times 3^1 + 1\\times 3^0\\)</p>\n<p>\\(5 = 1\\times 3^2+(-1)\\times 3^1 + (-1)\\times 3^0\\)</p>\n<p>\\(-8 = (-1)\\times 3^2+0\\times 3^1 + 1\\times 3^0\\)</p>",
   "source": "University, 인하대학교, 2021 인하대학교 프로그래밍 경진대회 (IUPC), wjdclgns12, dongwoo338, jinhan814, jjmjm2002, lsn1106, rhs0266, ruz, tony9402",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 314,
   "submission_count": null,
   "average_tries": 2.0796000957489014

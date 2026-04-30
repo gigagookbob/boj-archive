@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2020!, queued_q, leejseo, kimyh0316, 9c120n, junseo, ryute, rdd6584, queued_q, koosaga, kdh9949, jhnah917, gravekper, evenharder, cs71107, cheetose, cgiosy, ahgus89",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "pigeonhole_principle"
-  ],
+  "tags": ["bruteforcing", "pigeonhole_principle"],
   "accepted_user_count": 4286,
   "submission_count": null,
   "average_tries": 2.7755000591278076

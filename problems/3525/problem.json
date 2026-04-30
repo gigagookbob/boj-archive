@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2010",
   "level": 19,
-  "tags": [
-    "math",
-    "implementation",
-    "combinatorics"
-  ],
+  "tags": ["math", "implementation", "combinatorics"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.200000047683716

@@ -27,11 +27,7 @@
   "hint": "<p>ABACaba로 가리면 4개를 가릴 수 있고 (대문자가 가려진 문자), ABACaBA로 가리면 6개를 가릴 수 있다.</p>",
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 3.2263998985290527

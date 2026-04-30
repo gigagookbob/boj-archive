@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2010, baekjoon, eric00513",
   "level": 17,
-  "tags": [
-    "math",
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["math", "greedy", "binary_search"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 4.555600166320801

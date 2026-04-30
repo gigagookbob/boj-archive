@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере торт имеет форму квадрата и не важно по какой диагонали резать --- отношение площадей всегда получается равным единице.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 23, 2010, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, October 23, 2010, Advanced",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "polygon_area",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "geometry", "polygon_area", "prefix_sum"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.6666998863220215

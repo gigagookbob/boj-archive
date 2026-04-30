@@ -19,12 +19,7 @@
   "hint": "<p>예제 1에 대해, 일반 모드인 상태로 오른쪽으로 두 번을 이동하면 최소 턴 수이다.</p>\n<p>예제 2에 대해, 맨 처음 일반 모드에서 변신 모드로 변신한 다음에 (3,1) 으로 이동한 뒤 (3,3) 으로 이동하면 최소 턴 수이다.</p>",
   "source": "University, 경인지역 대학 연합, shake! 2018",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "dijkstra"],
   "accepted_user_count": 182,
   "submission_count": null,
   "average_tries": 4.7967000007629395

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2011, Stage 1",
   "level": 6,
-  "tags": [
-    "implementation",
-    "dp"
-  ],
+  "tags": ["implementation", "dp"],
   "accepted_user_count": 132,
   "submission_count": null,
   "average_tries": 1.7273000478744507

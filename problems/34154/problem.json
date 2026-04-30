@@ -23,12 +23,7 @@
   "hint": "<p>$|S|$는 문자열 $S$의 길이를 의미한다.</p>",
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Div.1, School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Div.2, School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Open Contest, ryanson, dkim110807, gs22059, gs22123, iccodly, jthis, junwoojune, minchan_bae, sadtreap, swlee0202",
   "level": 18,
-  "tags": [
-    "greedy",
-    "string",
-    "hashing",
-    "rabin_karp"
-  ],
+  "tags": ["greedy", "string", "hashing", "rabin_karp"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.767400026321411

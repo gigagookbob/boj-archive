@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2023 송년대회, lisifu, evenharder, leinad2, mjhmjh1104",
   "level": 18,
-  "tags": [
-    "constructive",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["constructive", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 2.142899990081787

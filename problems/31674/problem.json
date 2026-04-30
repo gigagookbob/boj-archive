@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, NLCS Jeju, GEC-Cup 2024, dhyang24, pnoin, hjroh0315, ingyu1008, kaorin, qvixnh22, sait2000, sorohue",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "sorting", "ad_hoc"],
   "accepted_user_count": 206,
   "submission_count": null,
   "average_tries": 3.3543999195098877

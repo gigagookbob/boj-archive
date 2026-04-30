@@ -15,11 +15,7 @@
   "hint": "<p>At the beginning, the trains leaving in the opposite directions should meet at station $3$. The first train will reach that station in $90$ minutes, and the second will arrive there in $100$ minutes; the waiting time will thus be $10$ minutes. Following the first change, the optimal meeting point becomes station $4$. Both trains will take $130$ minutes to get there, so neither will have to wait. After the second change, they will also meet at station $4$. This time, however, the train that arrives first will have to wait for $40$ minutes.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2021",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.9815000295639038

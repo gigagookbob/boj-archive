@@ -15,10 +15,7 @@
   "hint": "<p><b>Wyjaśnienie do przykładu:</b> Bajtazar kupuje towar w mieście numer 3 (cena: 2), następnie przejeżdża do miasta numer 1 (koszt tego przejazdu to $1+5=6$), gdzie sprzedaje towar w cenie 19. Łączny zysk Bajtazara to: $19-6-2=11$.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2010, Stage 2",
   "level": 14,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.142899990081787

@@ -15,9 +15,7 @@
   "hint": "<p>In case 1, you have ten cards numbered 1 to 10, so you make one straight of length 10, and get 10 dollars.</p>\n<p>In case 2, you could make two straights {101,102,103,104,105,106} and {103,104} and get 2 dollars. But it would be better to make {101,102,103,104} and {103,104,105,106} and get 4 dollars.</p>\n<p>In case 4, the card with the number 9 must be in a straight containing only that card. So you get 1 dollar.</p>\n<p>In case 3, you have zero cards, so you get zero dollars. You don't get money for nothing.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 3",
   "level": 6,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.5277999639511108

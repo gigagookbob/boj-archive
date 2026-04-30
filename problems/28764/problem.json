@@ -19,9 +19,7 @@
   "hint": "<p>Артефакты в первом примере, оптимальная баржа и один из вариантов оптимального размещения показаны на следующем рисунке.</p>\n<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"1.png\" style=\"width: 144px; height: 106px;\"/></td>\n<td><img alt=\"\" src=\"2.png\" style=\"width: 105px; height: 106px;\"/></td>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 105px; height: 106px;\"/></td>\n</tr>\n<tr>\n<td>Артефакты</td>\n<td>Баржа</td>\n<td>Размещение на барже</td>\n</tr>\n</tbody>\n</table>\n<p>Артефакты во втором примере, оптимальная баржа и один из вариантов оптимального размещения показаны на следующем рисунке.</p>\n<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"4.png\" style=\"width: 182px; height: 129px;\"/></td>\n<td><img alt=\"\" src=\"5.png\" style=\"width: 91px; height: 132px;\"/></td>\n<td><img alt=\"\" src=\"6.png\" style=\"width: 91px; height: 132px;\"/></td>\n</tr>\n<tr>\n<td>Артефакты</td>\n<td>Баржа</td>\n<td>Размещение на барже</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, March 14, 2020",
   "level": 9,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.2000000476837158

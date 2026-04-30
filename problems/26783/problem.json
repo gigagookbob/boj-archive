@@ -35,11 +35,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2020, Stage 2",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "backtracking"
-  ],
+  "tags": ["math", "greedy", "backtracking"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

@@ -31,13 +31,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2013, 고등부, tncks0121, baekjoon, djm03178, johy",
   "level": 11,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "grid_graph",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "grid_graph", "shortest_path"],
   "accepted_user_count": 63344,
   "submission_count": null,
   "average_tries": 2.5678000450134277

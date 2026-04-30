@@ -23,11 +23,7 @@
   "hint": "<p>В первом тесте Беверли потребуется перекрасить минимум одну клетку.</p>\n<p>Во втором тесте Беверли потребуется перекрасить минимум две клетки.</p>\n<p>В третьем тесте Беверли потребуется перекрасить минимум одну клетку.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 5, 2019",
   "level": 24,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "dp_connection_profile"
-  ],
+  "tags": ["dp", "prefix_sum", "dp_connection_profile"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1.5

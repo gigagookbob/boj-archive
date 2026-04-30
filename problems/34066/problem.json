@@ -15,13 +15,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제9회 천하제일 코딩대회 본선, gubshig, gggkik, iccodly, jhnah917, jsj0412",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "trees",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "trees", "disjoint_set"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 3.0799999237060547

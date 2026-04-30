@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2012 Mid-Central Regional Programming Contest, baekjoon",
   "level": 11,
-  "tags": [
-    "math",
-    "geometry",
-    "number_theory",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "number_theory", "pythagoras"],
   "accepted_user_count": 339,
   "submission_count": null,
   "average_tries": 1.212399959564209

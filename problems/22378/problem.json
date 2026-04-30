@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ICPC 2020 Asia Yokohama Regional 2020",
   "level": 21,
-  "tags": [
-    "trees",
-    "hld"
-  ],
+  "tags": ["trees", "hld"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제5회 한양대학교 프로그래밍 경시대회, Beginner Division, kkt1995, tony9402, doju",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 918,
   "submission_count": null,
   "average_tries": 1.922700047492981

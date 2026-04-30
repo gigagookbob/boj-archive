@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, Open Contest, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 중급반, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 고급반, lys7aves, sait2000",
   "level": 11,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 2687,
   "submission_count": null,
   "average_tries": 4.0055999755859375

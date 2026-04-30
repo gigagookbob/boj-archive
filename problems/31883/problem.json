@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, K512컵, 2024 서강대학교 K512컵, tkfkddl59323, alex9801, hulahula3247, jk410, lky7674, tmdgud0617",
   "level": 8,
-  "tags": [
-    "greedy",
-    "implementation",
-    "math",
-    "simulation"
-  ],
+  "tags": ["greedy", "implementation", "math", "simulation"],
   "accepted_user_count": 164,
   "submission_count": null,
   "average_tries": 1.2378000020980835

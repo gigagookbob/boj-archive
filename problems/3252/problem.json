@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, Regional Competition - Juniors",
   "level": 9,
-  "tags": [
-    "arithmetic",
-    "implementation",
-    "math",
-    "simulation",
-    "sorting"
-  ],
+  "tags": ["arithmetic", "implementation", "math", "simulation", "sorting"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.1785999536514282

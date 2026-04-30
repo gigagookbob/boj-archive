@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Offline)",
   "level": 22,
-  "tags": [
-    "dp",
-    "graphs",
-    "trees",
-    "dp_tree",
-    "articulation",
-    "cactus"
-  ],
+  "tags": ["dp", "graphs", "trees", "dp_tree", "articulation", "cactus"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5999999046325684

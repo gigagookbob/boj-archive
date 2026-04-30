@@ -31,11 +31,7 @@
   "hint": null,
   "source": ", University, University of Alberta Programming Contest, UAPC 2022, Division 1, University, University of Alberta Programming Contest, UAPC 2022, Division 2",
   "level": 8,
-  "tags": [
-    "case_work",
-    "math",
-    "ternary_search"
-  ],
+  "tags": ["case_work", "math", "ternary_search"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.4285999536514282

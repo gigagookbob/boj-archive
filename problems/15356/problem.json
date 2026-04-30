@@ -23,14 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​first​ ​test​ ​case:​ ​The protagonist’s moves are: left, left, right right.</p>\n<p>Clarification​ ​of​ ​the​ ​second​ ​test​ ​case:​ ​The protagonist’s moves are: stay still, stay still, stay still, right, left.</p>\n<p>Clarification​ ​of​ ​the​ ​third​ ​test​ ​case:​ ​The protagonist’s moves are: stay still, stay still, right.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #3",
   "level": 19,
-  "tags": [
-    "dp",
-    "graphs",
-    "string",
-    "graph_traversal",
-    "bfs",
-    "traceback"
-  ],
+  "tags": ["dp", "graphs", "string", "graph_traversal", "bfs", "traceback"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.5

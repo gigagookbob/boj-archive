@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 24 September, 2005, doju",
   "level": 8,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "implementation"
-  ],
+  "tags": ["geometry", "geometry_3d", "implementation"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.3042999505996704

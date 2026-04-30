@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2016, Contest, Open Cup, 2016/2017 Season, Stage 6: Czech Grand Prix, jwg8679",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 3.010999917984009

@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:279px; width:200px\"/></p>\n<p style=\"text-align:center\">Figure 3: Illustration of the second example input. The eggs are hidden in the four filled bushes.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2017",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "bipartite_matching"
-  ],
+  "tags": ["binary_search", "parametric_search", "bipartite_matching"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 1.5651999711990356

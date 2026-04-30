@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере следует действовать следующим образом: сначала надо взорвать группу из четырех красных пузырьков, получив 16 очков. Затем надо взорвать в любом порядке получившиеся две группы по 3 пузырька, получив по 9 очков за каждую. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2007",
   "level": 20,
-  "tags": [
-    "dp",
-    "recursion"
-  ],
+  "tags": ["dp", "recursion"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.8889000415802002

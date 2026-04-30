@@ -19,12 +19,7 @@
   "hint": "<p>Обяснение на пример 1: Мечо Пух яде за първи път при Заека, после при Бухала и за последен път при Йори. Така той изминава 2 + 1 = 3см ( 0 метра и 3 сантиметра).</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2017, Group E, ygonepiece",
   "level": 3,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "greedy", "arithmetic", "case_work"],
   "accepted_user_count": 228,
   "submission_count": null,
   "average_tries": 1.8860000371932983

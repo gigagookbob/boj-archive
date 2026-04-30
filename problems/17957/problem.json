@@ -15,12 +15,7 @@
   "hint": "<p>In the first query of type 1, we ask the value of a<sub>1</sub> and receive 1 as the answer.</p>\n<p>In the second query of type 2, we ask the value of a<sub>2</sub> and receive 2 as the answer.</p>\n<p>In the query of type 2, we ask all the possible differences between the elements of array with indexes 1, 2 and 3. And we get array 4, 3, 1 as the result. We know that the array contains values |a<sub>1</sub>−a<sub>2</sub>|, |a<sub>1</sub>−a<sub>3</sub>|, |a<sub>2</sub>−a<sub>3</sub>|. Since we already know that |a<sub>2</sub> − a<sub>1</sub>| = 1, one of the following is true: |a<sub>1</sub> − a<sub>3</sub>| = 3 and |a<sub>2</sub> − a<sub>3</sub>| = 4 or |a<sub>2</sub> − a<sub>3</sub>| = 3 and |a<sub>1</sub> − a<sub>3</sub>| = 4. The only case that is possible, taking into account the constraints of the problem, is when |a<sub>1</sub> − a<sub>3</sub>| = 4 and |a<sub>2</sub> − a<sub>3</sub>| = 3 with a<sub>3</sub> = 5.</p>\n<p>Since we know the values of all the elements of the array, we print them in the last query.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2019, Contest, Open Cup, 2019/2020 Season, Stage 6: Grand Prix of Southeastern Europe",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "bitmask",
-    "divide_and_conquer"
-  ],
+  "tags": ["ad_hoc", "binary_search", "bitmask", "divide_and_conquer"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.3478000164031982

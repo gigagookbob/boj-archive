@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, kritias",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 2047,
   "submission_count": null,
   "average_tries": 2.8011999130249023

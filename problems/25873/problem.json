@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2018 Local Programming Contest",
   "level": 8,
-  "tags": [
-    "combinatorics",
-    "data_structures",
-    "hash_set",
-    "math",
-    "set"
-  ],
+  "tags": ["combinatorics", "data_structures", "hash_set", "math", "set"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.3889000415802002

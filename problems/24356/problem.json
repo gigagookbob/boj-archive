@@ -15,10 +15,7 @@
   "hint": "<p>Обяснение на примера: В началото на разходката часовникът е показвал 23:45 часа, след 769 минути ще показва 12:34 часа и групата ще е обиколила езерото 25 пъти.</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2016, Group E",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 1013,
   "submission_count": null,
   "average_tries": 1.5676000118255615

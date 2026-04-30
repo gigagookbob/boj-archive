@@ -15,10 +15,7 @@
   "hint": "<p>Explanation</p>\n<p>You can split the node 1 from the rest, which takes 10 effort. If you instead split 12 and 34, you would have 8 + 10 = 18 effort.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2016",
   "level": 21,
-  "tags": [
-    "graphs",
-    "stoer_wagner"
-  ],
+  "tags": ["graphs", "stoer_wagner"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.833299994468689

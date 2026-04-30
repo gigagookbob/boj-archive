@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:244px; width:304px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2005/2006, Stage 2",
   "level": 18,
-  "tags": [
-    "dp",
-    "geometry",
-    "sweeping",
-    "angle_sorting"
-  ],
+  "tags": ["dp", "geometry", "sweeping", "angle_sorting"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 3.5278000831604004

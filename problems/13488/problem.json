@@ -23,12 +23,7 @@
   "hint": "<p>Slavko can sort the elves in the following way: 3, 2, 1. This way, the elf number 3 will sit beside dwarf number 3, elf 2 will have to move one seat clockwise and sit beside dwarf 1, and the elf number 2 will sit beside the dwarf number 2. Elves 1 and 2 will win their duels, and elf 3 will lose. </p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #1",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "tree_set", "set"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.272700071334839

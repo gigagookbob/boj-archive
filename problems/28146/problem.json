@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2023",
   "level": 18,
-  "tags": [
-    "graphs",
-    "greedy",
-    "sorting",
-    "mst"
-  ],
+  "tags": ["graphs", "greedy", "sorting", "mst"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 3.2576000690460205

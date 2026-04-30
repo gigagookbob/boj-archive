@@ -15,10 +15,7 @@
   "hint": "<p>무게가 4, 가격이 8인 고기를 하나 사면 나머지 고기를 모두 덤으로 얻을 수 있다. 이때 구매한 고기는 10kg이 되어 9kg 이상이 된다.</p>",
   "source": "myungwoo",
   "level": 13,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 1240,
   "submission_count": null,
   "average_tries": 5.2322998046875

@@ -15,9 +15,7 @@
   "hint": "<p>In Sample Case #1, the only possible strategy is for Wheatley to eat three cakes of side length 1.</p>\n<p>In Sample Case #2, Wheatley can eat one cake of side length 2, which requires fewer cakes than eating four cakes of side length 1.</p>\n<p>In Sample Case #3, the best strategy is for Wheatley to eat one cake of side length 2 and one cake of side length 1.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2017, Round F",
   "level": 9,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.6438000202178955

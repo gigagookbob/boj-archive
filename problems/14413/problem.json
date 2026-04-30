@@ -23,11 +23,7 @@
   "hint": "<p>In the interval from the first to the third element, there is only one number (number 1) that appears exactly twice.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #5",
   "level": 19,
-  "tags": [
-    "offline_queries",
-    "coordinate_compression",
-    "mo"
-  ],
+  "tags": ["offline_queries", "coordinate_compression", "mo"],
   "accepted_user_count": 365,
   "submission_count": null,
   "average_tries": 2.276700019836426

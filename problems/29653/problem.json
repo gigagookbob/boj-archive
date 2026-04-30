@@ -19,12 +19,7 @@
   "hint": "<p>Пояснение для первого примера:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 454px; height: 43px;\"/></p>\n<p>На рисунке точкой $A$ обозначено место обгона.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, April 3, 2010",
   "level": 5,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic",
-    "physics"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic", "physics"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.4571000337600708

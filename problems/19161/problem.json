@@ -15,11 +15,7 @@
   "hint": "<p>Randall performance is represented by 50. For the first scenario, the value of (B1)3 is updated to 300, causes the following:</p>\n<ul>\n<li>Initially, the performance of the employees is [50, 40, 30, 20, 10].</li>\n<li>At the end of the first year, 4 worst-performing employees are replaced by employees with performance [300, 100, 2, 1]. Therefore, the performance of the employees is [300, 100, 50, 2, 1].</li>\n<li>At the end of the second year, the performance of the employees is [300, 100, 50, 4, 2].</li>\n<li>At the end of the third year, the performance of the employees is [300, 100, 50, 7, 6].</li>\n</ul>\n<p>Therefore, Randall will still be in the company after 3 years.</p>\n<p>For the second scenario, the value of (B<sub>2</sub>)<sub>1</sub> is updated to 400, causes the following:</p>\n<ul>\n<li>Initially, the performance of the employees is [50, 40, 30, 20, 10].</li>\n<li>At the end of the first year, the performance of the employees is [300, 100, 50, 2, 1]. Recall that the change in the first scenario is kept for this scenario as well.</li>\n<li>At the end of the second year, the performance of the employees is [400, 300, 100, 50, 2].</li>\n<li>At the end of the third year, the performance of the employees is [400, 300, 100, 7, 6].</li>\n</ul>\n<p>Therefore, Randall will not be in the company after 3 years</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2019 ICPC Asia Jakarta Regional Contest",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.6562999486923218

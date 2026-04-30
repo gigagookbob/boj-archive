@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2017 Mid-Atlantic USA Regional Contest",
   "level": 13,
-  "tags": [
-    "case_work",
-    "implementation",
-    "string"
-  ],
+  "tags": ["case_work", "implementation", "string"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

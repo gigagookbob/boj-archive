@@ -15,10 +15,7 @@
   "hint": "<p><code>RegExp</code>$(s)$는 정규 표현식 $s$에 속한 문자열들의 집합을 의미한다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2025 신촌지역 대학교 프로그래밍 동아리 연합 여름 대회 (SUAPC 2025 Summer) 연습 세션, lky7674, ez_code, iluem100, kdy40929, mujigae, ystaeyoon113",
   "level": 5,
-  "tags": [
-    "implementation",
-    "precomputation"
-  ],
+  "tags": ["implementation", "precomputation"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.2812999486923218

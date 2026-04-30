@@ -35,9 +35,7 @@
   "hint": null,
   "source": "baekjoon, bupjae",
   "level": 12,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 4.926400184631348

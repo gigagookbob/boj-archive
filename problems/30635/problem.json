@@ -19,13 +19,7 @@
   "hint": "<p>В первом тестовом примере оптимальным порядком является прослушивание 4-го, 2-го, 3-го и 1-го альбомов. В таком случае Маша послушает треки в следующем порядке: <strong>1</strong>; <strong>7</strong>; <strong>8</strong>, 6; 4, <strong>9</strong>, 4, 6, 8 и получит 4 единицы впечатления.</p>\n<p>Во втором тестовом примере необходимо сначала прослушать 1-й, потом 4-й и в любом порядке 2-й и 3-й. В таком случае Маша получит максимальное впечатление, причём за каждую песню в 1-м и 4-м альбомах и ничего за 2-й и 3-й.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2022-23, Day 1",
   "level": 18,
-  "tags": [
-    "dp",
-    "data_structures",
-    "greedy",
-    "sorting",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "greedy", "sorting", "segtree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.2222000360488892

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 4: Ivan Kazmenko Contest 3",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math",
-    "recursion"
-  ],
+  "tags": ["combinatorics", "dp", "math", "recursion"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

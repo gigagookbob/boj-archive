@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2002/2003, Stage 2, bupjae",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.6922999620437622

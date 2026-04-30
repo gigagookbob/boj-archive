@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case, $6$ is a divisor of $36$ and $12$, and is a multiple of $2$.</p>\n<p>In the second test case, $10$ is a divisor of all elements, and also a multiple of $10$.</p>\n<p>In the third test case, there is no integer that satisfies the constraints.</p>",
   "source": "University, MIT, M(IT)^2, M(IT)^2 Winter 2025-26 Tournament, Beginner Round, 79brue",
   "level": 14,
-  "tags": [
-    "math",
-    "sorting",
-    "number_theory",
-    "prefix_sum"
-  ],
+  "tags": ["math", "sorting", "number_theory", "prefix_sum"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.724100112915039

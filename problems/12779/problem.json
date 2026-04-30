@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2016 IUPC 인하대학교 프로그래밍 경진대회, pppgod, heeda0528",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "parametric_search",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "parametric_search", "euclidean"],
   "accepted_user_count": 411,
   "submission_count": null,
   "average_tries": 4.124100208282471

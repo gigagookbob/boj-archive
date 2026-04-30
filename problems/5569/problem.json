@@ -19,9 +19,7 @@
   "hint": "<p>예제 1의 경우 다음과 같은 5가지 경로가 있다.</p>\r\n\r\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 332px; height: 293px;\" /></p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2009/2010 예선, baekjoon",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 1454,
   "submission_count": null,
   "average_tries": 1.7538000345230103

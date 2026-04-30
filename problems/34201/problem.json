@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 초등부, Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 중등부, 79brue",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "ad_hoc"],
   "accepted_user_count": 366,
   "submission_count": null,
   "average_tries": 1.4973000288009644

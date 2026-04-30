@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가지컵, 2024 가지컵, kiwiyou, bnb2011, cologne, dohoon, jhuni, mingyu331, sait2000, sorohue, utilforever, wider93, yup0927",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1055,
   "submission_count": null,
   "average_tries": 1.5649000406265259

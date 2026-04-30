@@ -15,9 +15,7 @@
   "hint": "<p>W pierwszym teście na całej długości działki szukana różnica głębokości wynosi 1.</p>\n<p>W drugim teście różnica jest najmniejsza w punkcie <strong>x</strong> = 5, i jest tam równa dokładnie 2.</p>\n<p>W trzecim teście różnica jest najmniejsza w punkcie <strong>x</strong> = 10.</p>",
   "source": "Contest, Spot, FallSpot 2010",
   "level": 9,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.615399956703186

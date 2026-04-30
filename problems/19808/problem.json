@@ -15,10 +15,7 @@
   "hint": "<p>The picture 1 shows the path chosen by the jury in the first sample test. The string that specifies this test is \"<code>RDRDR</code>\".</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 206px; height: 100px;\"/></p>\n<p style=\"text-align: center;\">Picture 1. The chosen path is “RDRDR”.</p>\n<p>The picture 2 shows the first query. The cells of the path \"<code>DDRRR</code>\" are denoted with bold frame. The cells that belong to the path chosen by the jury, the ones that have the detector that reports the presence of the robot, are shaded.</p>\n<p>The picture 3 shows the second query. The cells of the path \"<code>DRRRD</code>\" are denoted with bold frame. The cells that belong to the path chosen by the jury, the ones that have the detector that reports the presence of the robot, are shaded.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 205px; height: 100px;\"/></p>\n<p style=\"text-align: center;\">Picture 2. Query \"<code>DDRRR</code>\".</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 206px; height: 100px;\"/></p>\n<p style=\"text-align: center;\">Picture 3. Query \"<code>DRRRD</code>\".</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2019",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "divide_and_conquer"
-  ],
+  "tags": ["binary_search", "divide_and_conquer"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.3529000282287598

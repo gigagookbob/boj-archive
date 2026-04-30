@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2005 Arab Collegiate Programming Contest, baekjoon, djm03178, pda_pro12",
   "level": 10,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 347,
   "submission_count": null,
   "average_tries": 2.4149999618530273

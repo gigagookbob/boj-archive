@@ -15,13 +15,7 @@
   "hint": null,
   "source": "xhark, bluepuha, veydpz, vjerksen",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "grid_graph"],
   "accepted_user_count": 8077,
   "submission_count": null,
   "average_tries": 2.5113000869750977

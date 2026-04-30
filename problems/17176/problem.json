@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제3회 생각하는 프로그래밍 대회, bluedao, jh05013",
   "level": 5,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1222,
   "submission_count": null,
   "average_tries": 2.0220999717712402

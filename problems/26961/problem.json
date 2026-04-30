@@ -27,11 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, KATT",
   "level": 14,
-  "tags": [
-    "dp",
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["dp", "geometry", "sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

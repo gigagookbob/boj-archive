@@ -15,9 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Poniższy rysunek obrazuje sieć drogą Bajtogrodu z testu przykładowego. Kółka oznaczają skrzyżowania, liczby wewnątrz kółek to ich numery. Kreski oznaczają drogi, a liczby przy nich napisane oznaczają czas przejazdu daną drogą. Trasa przejazdu autobusu linii 1 jest oznaczona kolorem czerwonym, natomiast trasa autobusu linii 2 – kolorem niebieskim.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 186px; height: 100px;\"/></p>\n<p>Bajtek wychodzi ze szkoły w minucie t = 1, czeka na autobus linii 2, który przyjeżdża w minucie 2, jedzie nim do skrzyżowania numer 3, tam przesiada się w minucie 6 na autobus linii 1, który przyjeżdża do jego domu w minucie 8.</p>\n<p>Dla k = 0 Bajtek musiałby poczekać przy skrzyżowaniu 1 na autobus linii 1, który wyruszyłby w minucie 10 i dowiózł Bajtka do domu w minucie 18.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2020/2021, Stage 3",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.09089994430542

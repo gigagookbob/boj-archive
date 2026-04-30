@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:200px; width:253px\"/></p>",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2003",
   "level": 8,
-  "tags": [
-    "math",
-    "case_work",
-    "physics",
-    "invariant"
-  ],
+  "tags": ["math", "case_work", "physics", "invariant"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.7222000360488892

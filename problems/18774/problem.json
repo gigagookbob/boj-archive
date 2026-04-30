@@ -15,10 +15,7 @@
   "hint": "<p>There are many possible solutions. In our solution, we read the input to registers A and B, compute their bitwise xor in register Z and output it.</p>\n<p>However, we do not have an instruction for xor. We have to assemble it from ands, ors, and nots. First, we create (not-A and B) in C and (not-B and A) in D. Finally, we store (C or D) in Z and we are done.</p>\n<p>Why does it work? If the two numbers are identical, then C and D will both be zero, and so will Z. If the two numbers are not identical, consider a digit d where the two numbers differ in their binary representations. If this digit is 0 in A, it has to be 1 in B. But then it is 1 in C and therefore it is 1 in Z. And if the digit is 1 in A, it has to be 0 in B, 1 in D, and 1 in Z.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2011",
   "level": 11,
-  "tags": [
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["constructive", "bitmask"],
   "accepted_user_count": 122,
   "submission_count": null,
   "average_tries": 3.106600046157837

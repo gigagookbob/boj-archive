@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2002 East Central Regional Contest",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.0556000471115112

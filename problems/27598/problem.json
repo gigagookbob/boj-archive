@@ -15,10 +15,7 @@
   "hint": "<p>In the <strong>first test case</strong>, members $4$, $5$ must have been online between 9:00 and 22:00.</p>\n<p>In the <strong>second test case</strong>, it is possible that nobody has been online between 9:00 and 22:00.</p>",
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2022-2023",
   "level": 10,
-  "tags": [
-    "ad_hoc",
-    "two_pointer"
-  ],
+  "tags": ["ad_hoc", "two_pointer"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.6405999660491943

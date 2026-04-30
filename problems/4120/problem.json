@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2008 Southeast USA Regional Programming Contest",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "sorting", "tree_set", "set"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.7142999172210693

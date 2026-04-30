@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, POSTECH, 2023 POSTECH Programming Contest, Open Contest, leo020630, hyperbolic, jthis, kohandy, kwoncycle, menborong",
   "level": 21,
-  "tags": [
-    "math",
-    "graphs",
-    "ad_hoc",
-    "number_theory",
-    "bipartite_graph"
-  ],
+  "tags": ["math", "graphs", "ad_hoc", "number_theory", "bipartite_graph"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, leejseonal ddforces (ryuted for div.1), leejseonal ddforces (ryuted for div.1), ryute",
   "level": 18,
-  "tags": [
-    "graphs",
-    "bitmask",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "bitmask", "scc", "2_sat"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.738100051879883

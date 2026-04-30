@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2019 Mid-Central Regional Programming Contest",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "dijkstra",
-    "graphs",
-    "randomization",
-    "shortest_path"
-  ],
+  "tags": ["bitmask", "dijkstra", "graphs", "randomization", "shortest_path"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 8.5

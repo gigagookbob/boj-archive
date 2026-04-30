@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, the sample output sets the height of each building such that only the first building is visible to Andre, while the first, third, and fourth buildings are visible to Sule. Therefore, only the first building is visible to both Andre and Sule. Note that there exist other correct solutions, such as <code>4 3 1 2</code>.</p>\n<p>In Sample Case #2, all <b>N</b> = 4 buildings are visible to Andre and Sule. Therefore, it is impossible to have <b>C</b> ≠ <b>N</b> in this case.</p>\n<p>In Sample Case #3, the sample output sets the height of each building such that the first, third, and fourth buildings are visible to Andre, while the third, fourth, and fifth buildings are visible to Sule. Therefore, the third and fourth buildings are visible to both Andre and Sule. Note that there exist other correct solutions.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2020, Round E",
   "level": 8,
-  "tags": [
-    "case_work",
-    "constructive"
-  ],
+  "tags": ["case_work", "constructive"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3.5

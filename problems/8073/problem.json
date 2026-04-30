@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1997/1998, Stage 2",
   "level": 7,
-  "tags": [
-    "graphs",
-    "bruteforcing"
-  ],
+  "tags": ["graphs", "bruteforcing"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.3950999975204468

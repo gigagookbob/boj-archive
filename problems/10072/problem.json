@@ -15,11 +15,7 @@
   "hint": "<table class=\"table table-bordered\" style=\"width:50%\">\r\n\t<thead>\r\n\t\t<tr>\r\n\t\t\t<th>서브태스크</th>\r\n\t\t\t<th>inputSeq</th>\r\n\t\t\t<th>리턴 값</th>\r\n\t\t\t<th>비고</th>\r\n\t\t</tr>\r\n\t</thead>\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>(1, 2, 3, 4, 5, 6, 7)</td>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>&nbsp;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>(3, 4, 5, 6, 1, 2)</td>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>&nbsp;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>(1, 5, 3, 4, 2, 7, 6)</td>\r\n\t\t\t<td>0</td>\r\n\t\t\t<td>1이 5의 직전에 나오는 것은 불가능</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>(4, 3, 2, 1)</td>\r\n\t\t\t<td>0</td>\r\n\t\t\t<td>4가 3의 직전에 나오는 것은 불가능</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>2</td>\r\n\t\t\t<td>(1, 2, 3, 4, 5, 6, 5)</td>\r\n\t\t\t<td>0</td>\r\n\t\t\t<td>5번 곤돌라가 두 개</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>3</td>\r\n\t\t\t<td>(2, 3, 4, 9, 6, 7, 1)</td>\r\n\t\t\t<td>1</td>\r\n\t\t\t<td>교체 수열 (5, 8)로 가능</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>3</td>\r\n\t\t\t<td>(10, 4, 3, 11, 12)</td>\r\n\t\t\t<td>0</td>\r\n\t\t\t<td>4가 3의 직전에 나오는 것은 불가능</td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n",
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2014, Day 2, portableangel",
   "level": 13,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["implementation", "ad_hoc", "case_work"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 2.6612000465393066

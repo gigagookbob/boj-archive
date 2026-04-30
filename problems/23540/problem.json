@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 20: Grand Prix of Ural",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["data_structures", "disjoint_set", "game_theory", "sprague_grundy"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2023 성균관대학교 프로그래밍 경진대회, ansol4328, dontsaymyid, hibye1217, jthis, junseo, mjhmjh1104",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop", "coordinate_compression"],
   "accepted_user_count": 46,
   "submission_count": null,
   "average_tries": 4.13040018081665

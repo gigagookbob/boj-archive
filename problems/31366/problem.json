@@ -19,10 +19,7 @@
   "hint": "<p>In the first example the person with the first rank takes all the oranges and votes &lt;&lt;for&gt;&gt;.</p>\n<p>In the second example the person ranked 1 has to give the orange to the person of third rank. If the first one takes one orange then the rest of the members will vote &lt;&lt;against&gt;&gt;. If the first gives the orange to the second then the second will also be &lt;&lt;against&gt;&gt; as he knows that by ostracizing the first they will also get an orange but there will be less people left in the community. Because the third one will also be &lt;&lt;against&gt;&gt; this is not an option for the first one.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 11: Grand Prix of Tatarstan, Division 1, Contest, Open Cup, 2014/2015 Season, Stage 11: Grand Prix of Tatarstan, Division 2",
   "level": 22,
-  "tags": [
-    "case_work",
-    "game_theory"
-  ],
+  "tags": ["case_work", "game_theory"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 11.5

@@ -23,13 +23,7 @@
   "hint": "<p>In the first sample, if you block the doorway between the rooms $(1, 1)$ and $(1, 2)$ and construct a new doorway between the rooms $(2, 1)$ and $(2, 2)$, then the unique route from $(1, 1)$ to $(2, 3)$ passes all of the $6$ rooms, which is obviously the maximum.</p>\n<p>In the second sample, any remodeling keeps the length of the unique route from $(1, 1)$ to $(2, 3)$ to be exactly $4$.</p>\n<p>In the third sample, one of the optimal ways is blocking the doorway between the rooms $(4, 2)$ and $(4, 3)$ and constructing a new doorway between the rooms $(2, 4)$ and $(3, 4)$.</p>\n<p>The configurations after the remodeling described above are as follows.</p>\n<pre>\n+-+-+-+    +-+-+-+    +-+-+-+-+-+\n|.|...|    |...|.|    |...|...|.|\n+.+.+.+    +.+.+.+    +-+.+.+.+.+\n|...|.|    |.|...|    |...|.|.|.|\n+-+-+-+    +-+-+-+    +.+.+.+.+.+\n                      |.|...|.|.|\n                      +.+.+-+.+.+\n                      |.|.|...|.|\n                      +-+.+.+-+.+\n                      |...|.....|\n                      +-+-+-+-+-+</pre>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Summer 2023, Day 1: Starting Contest",
   "level": 19,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.482100009918213

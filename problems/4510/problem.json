@@ -15,10 +15,7 @@
   "hint": "<p>Latitude and Longitude are angular measurements. Lines of Latitude are the horizontal lines on the globe. The Equator has a Latitude of <code>0°</code>, the North Pole has a Latitude of <code>90°</code>, and the South Pole has a Latitude of <code>-90°</code>. Lines of Longitude, called ‘Meridians’ wrap vertically around the globe, always starting and ending at the poles. The Prime Meridian, which passes through Greenwich England, has a Longitude of <code>0°</code>. Longitude values ‘wrap around’ at the opposite Meridian at <code>±180</code>. Longitude decreases as you go west of the Prime Meridian until it ‘wraps around’ at <code>-180</code> (for example, New Orleans is at Longitude <code>-90</code>). Longitude increases as you go east of the Prime Meridian, again until it wraps around at <code>180</code> (Beijing is at Longitude <code>116</code>).</p>\n<p>Both Query and Data Boxes can wrap ‘around the middle’ of the globe, but may not wrap ‘over the top’ of the globe.</p>",
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2011 South Central USA  Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "geometry",
-    "implementation"
-  ],
+  "tags": ["geometry", "implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.857100009918213

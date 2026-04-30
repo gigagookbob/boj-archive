@@ -15,9 +15,7 @@
   "hint": "<p>The sample output shows one possible set of valid answers. Other valid answers are possible.</p>\n<p>In Sample Case #1, one acceptable arrangement is to have friend 1 deliver news with value 1 to friend 2, and vice versa.</p>\n<p>In Sample Case #2, whatever value of news friend 1 gives to friend 2, it must be nonzero. So, the sum of news values given to friend 2 is not equal to zero. However, friend 2 cannot give any news and so that value is 0. Therefore, the sums of given and received news for friend 2 cannot match, and the case is <code>IMPOSSIBLE</code>.</p>\n<p>In Sample Case #3, each of friends 1, 2, and 3 can deliver news with value -1 to the one other friend they can talk to — an unfortunate circle of bad news! Note that there is a friend 4 who does not give or receive any news; this still obeys the rules.</p>\n<p>In Sample Case #4, note that <code>-5 5 5 -10</code> would not have been an acceptable answer, because there are 3 friends, and |-10| &gt; 3<sup>2</sup>.</p>\n<p>In Sample Case #5, note that the case cannot be solved without using at least one negative value.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Round 3",
   "level": 13,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.4285999536514282

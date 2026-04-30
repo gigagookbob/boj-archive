@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, 카카오 코드 페스티벌, 카카오 코드 페스티벌 2018, Camp, Petrozavodsk Programming Camp, Winter 2023, Day 2: GP of ainta, ainta",
   "level": 13,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 384,
   "submission_count": null,
   "average_tries": 2.6849000453948975

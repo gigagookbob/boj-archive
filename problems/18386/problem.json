@@ -15,10 +15,7 @@
   "hint": "<p>There are four tellers, and ten customers in this case.</p>\n<ul>\n<li>Teller 01, processed 4 customers. Three of them were processed in 08AM timeframe, one of them processed in 10AM timeframe.</li>\n<li>Teller 02, processed 2 customers. Both of them were processed in 10AM timeframe.</li>\n<li>Teller 03, processed 3 customers. One of them processed in 02PM timeframe, and the two others were processed in 03PM timeframe.</li>\n<li>Teller 04, had one customer in queue but left the queue.</li>\n</ul>\n<p>So, the teller with most processed customer is T01 with four customers, T03 is the second most busiest teller with three customers, and then T02 that processed two.</p>\n<p>Customer 01 (CUST01) stands in the teller 01 (T01) queue at [T01 CUST01 08:18:55AM], and was processed at [T01 CUST01 08:22:00AM]</p>",
   "source": "ICPC, Regionals, Asia West Continent, Afghanistan, Asia-Kabul ICPC Regional Contest 2018",
   "level": 9,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.5455000400543213

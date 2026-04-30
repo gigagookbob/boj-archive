@@ -23,9 +23,7 @@
   "hint": "<p>예제 1의 경우에 영선이가 처음 두 음을 부르고, 효빈이가 뒤의 세 음을 부르면 최소가 된다.</p>\n<p>예제 2의 경우에는 영선-효빈-효빈-영선-영선 순서대로 노래를 부르면 최소가 된다.</p>",
   "source": "baekjoon",
   "level": 16,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 171,
   "submission_count": null,
   "average_tries": 1.5321999788284302

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2009 Japan Domestic Contest",
   "level": 17,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean",
-    "bipartite_matching"
-  ],
+  "tags": ["math", "number_theory", "euclidean", "bipartite_matching"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.4234999418258667

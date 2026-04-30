@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, HotSpot 2010",
   "level": 7,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "euclidean"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.3214000463485718

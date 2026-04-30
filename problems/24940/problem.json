@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2022 SciCom Qualification Test, 79brue, andyjung2104, qwerasdfzxcl",
   "level": 13,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 1.4544999599456787

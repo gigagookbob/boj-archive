@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter), qawbecrdtey, cologne, dohoon, heeda0528, hjroh0315, leo020630, lky7674, mjhmjh1104, whqkrkt04",
   "level": 19,
-  "tags": [
-    "sorting",
-    "geometry",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "angle_sorting"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 3.56820011138916

@@ -15,12 +15,7 @@
   "hint": "<h4>Output Details</h4><p>For the first flight, the only feasible route is 1-&gt;2-&gt;3, costing 20. There are no flights leaving farm 3, so the poor cows are stranded there.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO December 2013 Contest, Gold",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "dijkstra"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.3877999782562256

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제2회 네블컵, rdd6584",
   "level": 15,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 393,
   "submission_count": null,
   "average_tries": 2.9491000175476074

@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2014",
   "level": 17,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "crt"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "crt"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 9.058799743652344

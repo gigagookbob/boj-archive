@@ -15,11 +15,7 @@
   "hint": "<p>첫 번째 꽃 집에서 꽃 다발 1개, 두 번째 꽃 집에서 2개를 구매한다.</p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2012 연습 세션, baekjoon",
   "level": 13,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 412,
   "submission_count": null,
   "average_tries": 5.5243000984191895

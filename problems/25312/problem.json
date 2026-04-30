@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022 예선 연습 세션, ho94949, bnb2011, doju, jh05013, lky7674, man_of_learning, myungwoo, quickn, shiftpsh",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "greedy", "sorting", "number_theory", "euclidean"],
   "accepted_user_count": 216,
   "submission_count": null,
   "average_tries": 3.8610999584198

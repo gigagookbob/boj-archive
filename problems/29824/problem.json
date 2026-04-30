@@ -15,11 +15,7 @@
   "hint": "<p>Siin pööratakse kõigepealt ümber 4. kuni 7. pliiats, tulemus on \\verb'tttttntttt'. Siis tuleb 6. pliiats uuesti ümber pöörata ja ongi kõik pliiatsid samapidi. Pane tähele, et see ei ole ainus viis kõik pliiatsid samapidi saada, kuid ei ole ühtegi väiksema liigutuste arvuga viisi.</p>",
   "source": "Olympiad, Estonian Informatics Olympiad, 2022-23, Open Competition",
   "level": 6,
-  "tags": [
-    "greedy",
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "string", "two_pointer"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.708299994468689

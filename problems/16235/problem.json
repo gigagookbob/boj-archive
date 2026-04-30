@@ -43,11 +43,7 @@
   "hint": "<p>나무 재테크와 관련된 내용은 <a href=\"http://www.samsungfundblog.com/archives/29818\">이 링크</a>를 참고했다.</p>",
   "source": "baekjoon, hamcom1212, jh05013",
   "level": 13,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation"
-  ],
+  "tags": ["implementation", "data_structures", "simulation"],
   "accepted_user_count": 11207,
   "submission_count": null,
   "average_tries": 4.308599948883057

@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2020",
   "level": 15,
-  "tags": [
-    "constructive",
-    "game_theory"
-  ],
+  "tags": ["constructive", "game_theory"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.515199899673462

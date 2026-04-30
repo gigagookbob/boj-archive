@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 네블컵, 제2회 네블컵, khj94811, rdd6584",
   "level": 21,
-  "tags": [
-    "string",
-    "binary_search",
-    "hashing"
-  ],
+  "tags": ["string", "binary_search", "hashing"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 6.482800006866455

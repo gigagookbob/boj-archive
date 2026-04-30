@@ -10,13 +10,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2018, Day 2",
   "level": 20,
-  "tags": [
-    "convex_hull",
-    "data_structures",
-    "deque",
-    "geometry",
-    "sorting"
-  ],
+  "tags": ["convex_hull", "data_structures", "deque", "geometry", "sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.736799955368042

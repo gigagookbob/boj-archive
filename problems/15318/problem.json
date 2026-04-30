@@ -19,10 +19,7 @@
   "hint": "<p>예제1에서 의 B는 다음과 같이 구해진다.</p>\n<ul>\n<li>b<sub>0</sub> = 4 – 2 + (-9) = -7</li>\n<li>b<sub>1</sub> = 1 – (-6) + 12 = 19</li>\n<li>b<sub>2</sub> = (-3) – 8 + 3 = -8</li>\n</ul>",
   "source": "University, 경인지역 대학 연합, shake! 2017, kajebiii",
   "level": 16,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.8241000175476074

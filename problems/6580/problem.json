@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 1999, vumbumy",
   "level": 9,
-  "tags": [
-    "divide_and_conquer",
-    "parsing",
-    "recursion",
-    "string"
-  ],
+  "tags": ["divide_and_conquer", "parsing", "recursion", "string"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 2.8703999519348145

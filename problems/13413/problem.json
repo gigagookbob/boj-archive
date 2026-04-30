@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2016 국민대학교 교내 경시대회, kookmin20103324, QuqqU",
   "level": 7,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 2711,
   "submission_count": null,
   "average_tries": 1.6794999837875366

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "jh05013",
   "level": 14,
-  "tags": [
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "two_pointer"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 3.6442999839782715

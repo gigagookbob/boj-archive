@@ -15,12 +15,7 @@
   "hint": "<p>In the first case, the constable and his hound can discover, on turn 7, the space where the thief had stood on turn 4. The hound is loosed and overtakes the thief on turn 10 (or earlier if the thief doubles back).</p>\n<p>In the second case, the thief can reach the city gate in 13 turns, at which point the constable and hound hit his trail. However, the thief is still able to get out of the city before the hound catches him.</p>",
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2015 South Central USA Regional Programming Contest, ICPC, Regionals, North America, Mid-Atlantic Regional, 2015 Mid-Atlantic Regional Programming Contest",
   "level": 17,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

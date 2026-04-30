@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #6, baekjoon, kdy312, occidere",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 9596,
   "submission_count": null,
   "average_tries": 1.6713999509811401

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Summer Algorithm Camp Contest, 초급, dlguq0107, cologne, cozyyg, kipa00, lky7674, yunny_world",
   "level": 11,
-  "tags": [
-    "divide_and_conquer",
-    "math",
-    "recursion"
-  ],
+  "tags": ["divide_and_conquer", "math", "recursion"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.4362000226974487

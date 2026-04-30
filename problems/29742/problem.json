@@ -10,9 +10,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2023, Day 1",
   "level": 20,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.3499999046325684

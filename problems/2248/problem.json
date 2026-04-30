@@ -15,10 +15,7 @@
   "hint": null,
   "source": "junie",
   "level": 13,
-  "tags": [
-    "math",
-    "dp"
-  ],
+  "tags": ["math", "dp"],
   "accepted_user_count": 1033,
   "submission_count": null,
   "average_tries": 3.2874999046325684

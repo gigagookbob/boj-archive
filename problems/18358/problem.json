@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2014/2015, Stage 1",
   "level": 18,
-  "tags": [
-    "constructive",
-    "dp"
-  ],
+  "tags": ["constructive", "dp"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.68179988861084

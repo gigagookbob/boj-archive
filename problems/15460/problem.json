@@ -15,9 +15,7 @@
   "hint": "<p>If Bessie eats the first two questions, then the remaining scores are 9, 2, and 7. Removing the minimum and averaging, we get a final grade of 8, which is the highest possible.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2017 December Contest, Silver, ZZangZZang",
   "level": 9,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 454,
   "submission_count": null,
   "average_tries": 3.486799955368042

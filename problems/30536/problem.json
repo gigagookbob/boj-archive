@@ -15,12 +15,7 @@
   "hint": null,
   "source": "jhnah917",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "geometry",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "geometry", "bfs"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 2.955899953842163

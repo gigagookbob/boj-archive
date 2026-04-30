@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 서강대학교, CSE4152 문제해결프로그래밍실습, 2025-2학기 중간고사 코딩 테스트, hulahula3247, dong_gas, wbcho0504",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "prefix_sum",
-    "stack"
-  ],
+  "tags": ["data_structures", "prefix_sum", "stack"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.9412000179290771

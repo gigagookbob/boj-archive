@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2023",
   "level": 22,
-  "tags": [
-    "convex_hull",
-    "dp",
-    "geometry"
-  ],
+  "tags": ["convex_hull", "dp", "geometry"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5

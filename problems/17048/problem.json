@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2018/2019, Contest #5",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "set"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 1.1734999418258667

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 February Contest, Gold",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lca",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lca", "hld"],
   "accepted_user_count": 403,
   "submission_count": null,
   "average_tries": 1.9404000043869019

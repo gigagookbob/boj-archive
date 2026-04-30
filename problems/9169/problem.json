@@ -15,11 +15,7 @@
   "hint": "<p>첫째 테스트 케이스의 경우에 첫 번째 사람이 자신의 생각과&nbsp;반대로 투표를 하면 되며, 두 번째 경우에는 자신의 생각대로 투표를 하면 된다.</p>\r\n",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 2006 Pacific Northwest Region Programming Contest, baekjoon, YunGoon",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 2.789900064468384

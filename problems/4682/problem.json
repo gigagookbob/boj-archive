@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1996 Mid-Central Regional Programming Contest, jung2381187, powerkim417, reversing",
   "level": 7,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.7376999855041504

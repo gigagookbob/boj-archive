@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Offline)",
   "level": 21,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "mitm"
-  ],
+  "tags": ["bruteforcing", "geometry", "mitm"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.2221999168395996

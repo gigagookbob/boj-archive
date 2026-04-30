@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2019",
   "level": 14,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "set",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["graphs", "data_structures", "set", "disjoint_set", "mst"],
   "accepted_user_count": 88,
   "submission_count": null,
   "average_tries": 1.6023000478744507

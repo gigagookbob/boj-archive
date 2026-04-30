@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2015",
   "level": 8,
-  "tags": [
-    "implementation",
-    "sorting",
-    "set"
-  ],
+  "tags": ["implementation", "sorting", "set"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 2.469099998474121

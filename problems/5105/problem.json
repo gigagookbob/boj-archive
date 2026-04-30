@@ -15,10 +15,7 @@
   "hint": "<p>Joe makes 16 deliveries, missing these 4 houses.</p>\n<p>The 7th delivery (D4) is to house 1 which received the 2nd delivery.</p>",
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, New Zealand Programming Contest, NZPC 2010",
   "level": 5,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 83,
   "submission_count": null,
   "average_tries": 3.253000020980835

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 임스의 메이플컵, 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup), lms0806, amsminn, anfidthtn, chansol, cologne, r4pidstart, shiftpsh, tony9402, utilforever",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 676,
   "submission_count": null,
   "average_tries": 2.5887999534606934

@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 31, 2009, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, October 31, 2009, Advanced",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["bruteforcing", "math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 2.3333001136779785

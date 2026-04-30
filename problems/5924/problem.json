@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>There are three potential obstacles. The first is a horizontal segment connecting (4, 5) to (10, 5); the second and third are vertical segments connecting (6, 2) to (6, 12) and (8, 3) to (8, 5).</p>\n<h4>Output Details</h4>\n<p>The optimal solution is to choose both vertical segments.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO November 2011 Contest, Gold",
   "level": 18,
-  "tags": [
-    "geometry",
-    "bipartite_matching"
-  ],
+  "tags": ["geometry", "bipartite_matching"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.549299955368042

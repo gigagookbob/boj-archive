@@ -15,12 +15,7 @@
   "hint": "<h4>Output Details</h4><p>One possible solution is to divide the teams as follows: (12,1,7), (9,8,3), (10,5,4), and (11,2,6).  The first two have skill 20 and the second two have skill 19.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO January 2014 Contest, Bronze",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics",
-    "backtracking"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics", "backtracking"],
   "accepted_user_count": 162,
   "submission_count": null,
   "average_tries": 1.6358000040054321

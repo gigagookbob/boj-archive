@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Philippines, Philippines Multi-Provincial Programming Contest, Philippines Multi-Provincial Programming Contest 2013, baekjoon",
   "level": 11,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "parsing",
-    "euclidean"
-  ],
+  "tags": ["math", "string", "number_theory", "parsing", "euclidean"],
   "accepted_user_count": 268,
   "submission_count": null,
   "average_tries": 2.6157000064849854

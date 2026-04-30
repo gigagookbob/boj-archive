@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, PLU High School Programming Contest, PLU 2016, Advanced",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory",
-    "arithmetic",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "arithmetic", "euclidean"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.4881000518798828

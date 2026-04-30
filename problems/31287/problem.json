@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 01., heeda0528, pjshwa, chogahui05, cologne, hibye1217, lky7674, tony9402, utilforever",
   "level": 9,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "simulation"
-  ],
+  "tags": ["implementation", "bruteforcing", "simulation"],
   "accepted_user_count": 377,
   "submission_count": null,
   "average_tries": 4.862100124359131

@@ -15,9 +15,7 @@
   "hint": "<p>Byteasar can take the taxis no. 4, 5, 1, and 2, in this order.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 1",
   "level": 18,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 4.382999897003174

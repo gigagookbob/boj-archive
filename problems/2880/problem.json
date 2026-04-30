@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2010/2011, Contest #1, baekjoon",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["ad_hoc", "math", "number_theory"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

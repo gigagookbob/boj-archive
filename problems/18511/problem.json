@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ndb796",
   "level": 6,
-  "tags": [
-    "bruteforcing",
-    "recursion"
-  ],
+  "tags": ["bruteforcing", "recursion"],
   "accepted_user_count": 2658,
   "submission_count": null,
   "average_tries": 3.0982000827789307

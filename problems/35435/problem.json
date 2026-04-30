@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2026 IamCoder Qualification Test, 28trillion, gs22059, jalapen0_p1ckle, lunarlity, minchan_bae, mj1000j, realpsdoingdamyoo, ryanson, woohyun_jng",
   "level": 21,
-  "tags": [
-    "math",
-    "data_structures",
-    "greedy",
-    "segtree",
-    "case_work"
-  ],
+  "tags": ["math", "data_structures", "greedy", "segtree", "case_work"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.1851999759674072

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2024, gi1dong2, bsyun0571, hellogaon, iccodly, khj20006, putdata, rasauq1122, rhdqor213, thdwlsdn030818, tony9402, tyoungs, yijw0930",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2.9166998863220215

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, September 24, 2011",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "bitmask",
-    "game_theory"
-  ],
+  "tags": ["bruteforcing", "bitmask", "game_theory"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4

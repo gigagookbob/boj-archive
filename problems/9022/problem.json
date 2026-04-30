@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2011",
   "level": 18,
-  "tags": [
-    "dp",
-    "sorting",
-    "cht"
-  ],
+  "tags": ["dp", "sorting", "cht"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.25

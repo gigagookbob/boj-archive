@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2016",
   "level": 20,
-  "tags": [
-    "dag",
-    "graphs",
-    "scc",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "scc", "topological_sorting"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 4.823500156402588

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제6회 고려대학교 MatKor Cup: 2025 Winter, alex04, yijw0930, eoaud0108, jinhan814, kidw0124, midoria, utilforever",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "trees",
-    "hld",
-    "splay_tree"
-  ],
+  "tags": ["data_structures", "trees", "hld", "splay_tree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 11.5

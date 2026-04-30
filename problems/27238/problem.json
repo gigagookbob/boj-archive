@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2023!, queued_q, jhwest2, kyo20111, ryute",
   "level": 24,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "pst",
-    "segtree",
-    "stack"
-  ],
+  "tags": ["ad_hoc", "data_structures", "pst", "segtree", "stack"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

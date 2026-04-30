@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ndb796",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 5364,
   "submission_count": null,
   "average_tries": 2.153599977493286

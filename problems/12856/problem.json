@@ -15,11 +15,7 @@
   "hint": null,
   "source": null,
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 4.8846001625061035

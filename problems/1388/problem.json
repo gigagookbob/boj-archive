@@ -31,12 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 7,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "grid_graph"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "grid_graph"],
   "accepted_user_count": 6155,
   "submission_count": null,
   "average_tries": 1.4385000467300415

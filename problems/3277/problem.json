@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2001, Regional Competition - Juniors",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "tree_set",
-    "parsing"
-  ],
+  "tags": ["data_structures", "string", "set", "tree_set", "parsing"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 1.3389999866485596

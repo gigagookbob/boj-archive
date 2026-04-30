@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2015 Preliminaries",
   "level": 13,
-  "tags": [
-    "arbitrary_precision",
-    "binary_search",
-    "geometry",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "binary_search", "geometry", "math"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.0625

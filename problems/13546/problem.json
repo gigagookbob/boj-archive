@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, thak00, zych1751",
   "level": 22,
-  "tags": [
-    "offline_queries",
-    "sqrt_decomposition",
-    "mo"
-  ],
+  "tags": ["offline_queries", "sqrt_decomposition", "mo"],
   "accepted_user_count": 986,
   "submission_count": null,
   "average_tries": 5.537499904632568

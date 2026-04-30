@@ -15,12 +15,7 @@
   "hint": "<p>この例は図 2 のような「よい正三角形」の囲い方に対応している．この例において，(1, 1), (4, 4), (5, 5)以外の 12 本の釘が 1 本以上の輪ゴムで囲われている．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2011/2012",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum",
-    "sweeping",
-    "difference_array"
-  ],
+  "tags": ["ad_hoc", "prefix_sum", "sweeping", "difference_array"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 2.0129001140594482

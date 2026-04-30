@@ -19,14 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 · 세종대학교, 제 2회 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC), Intermediate, University, 한양대학교 · 세종대학교, 제 2회 한양대학교 · 세종대학교 연합 프로그래밍 대회 (HSPC), Beginner, bsheep0304, gggkik, gs22123, gunwookim, iccodly, infikei, ingyu1008, opusdeisong, wjdclgns12",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.2618999481201172

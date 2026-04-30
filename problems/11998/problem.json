@@ -15,11 +15,7 @@
   "hint": "<p>In two steps FJ can be left with the following quanities in his pails</p>\n<pre>\n(0, 0) = 0 units\n(14, 0) = 14 units\n(0, 50) = 50 units\n(0, 14) = 14 units\n(14, 36) = 50 units\n(14, 50) = 64 units\n</pre>\n<p>The closest we can come to 32 units is 14 for a difference of 18. Note that it would require an extra step to pour out the first pail to end up with (0, 36).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO February 2016 Contest, Silver",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 228,
   "submission_count": null,
   "average_tries": 2.521899938583374

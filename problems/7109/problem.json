@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Latvian olympiad in informatics, 10th Latvian olympiad in informatics, Stage III (Country)",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["bruteforcing", "data_structures", "hash_set", "set"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 6.599999904632568

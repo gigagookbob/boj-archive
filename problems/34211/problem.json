@@ -10,10 +10,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2025, Practice",
   "level": 22,
-  "tags": [
-    "constructive",
-    "backtracking"
-  ],
+  "tags": ["constructive", "backtracking"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 4.5

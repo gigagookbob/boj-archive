@@ -15,13 +15,7 @@
   "hint": "<ul>\n<li>Years will be treated as 365 days.</li>\n<li>Playtime will never be 0 minutes</li>\n</ul>",
   "source": "School, PLU High School Programming Contest, PLU 2020, Advanced",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "arithmetic",
-    "parsing"
-  ],
+  "tags": ["math", "implementation", "string", "arithmetic", "parsing"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 1.4737000465393066

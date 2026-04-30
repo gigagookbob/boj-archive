@@ -19,10 +19,7 @@
   "hint": "<p>Ниже перечислены все решения уравнения $x + y + xy = 5$</p>\n<ol>\n<li>$x = 0$, $y = 5$</li>\n<li>$x = 1$, $y = 2$</li>\n<li>$x = 2$, $y = 1$</li>\n<li>$x = 5$, $y = 0$</li>\n</ol>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2013",
   "level": 6,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 1.766700029373169

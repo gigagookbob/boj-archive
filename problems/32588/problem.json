@@ -27,9 +27,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Freshmen Programming Contest 2024",
   "level": 8,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.5

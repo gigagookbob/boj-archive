@@ -19,9 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2006/2007, Contest #3, baekjoon, sunsal0704",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 1211,
   "submission_count": null,
   "average_tries": 1.454200029373169

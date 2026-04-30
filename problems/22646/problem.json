@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2009 Day 3",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "graphs",
-    "heuristics"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "graphs", "heuristics"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

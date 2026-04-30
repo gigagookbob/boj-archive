@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 보드게임컵, 보드게임컵, cologne, cozyyg, qwerasdfzxcl, shiftpsh",
   "level": 23,
-  "tags": [
-    "case_work",
-    "game_theory",
-    "graphs",
-    "implementation"
-  ],
+  "tags": ["case_work", "game_theory", "graphs", "implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.5714000463485718

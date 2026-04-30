@@ -15,11 +15,7 @@
   "hint": "<p>In the sample case, the other players will always choose 1 and 1 in the first round, and 2 and 3 in the second round.</p>\n<p>There are 100 non-sample test cases in this problem.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 7: Petr Mitrichev Contest 15",
   "level": 6,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["greedy", "ad_hoc", "constructive"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 2.0420000553131104

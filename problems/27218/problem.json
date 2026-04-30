@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2022",
   "level": 13,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "backtracking"
-  ],
+  "tags": ["math", "prefix_sum", "backtracking"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.5

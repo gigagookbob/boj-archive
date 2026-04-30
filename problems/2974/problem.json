@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2008, Croatian Olympiad in Informatics 2008, baekjoon",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "bruteforcing",
-    "dp_digit"
-  ],
+  "tags": ["math", "dp", "bruteforcing", "dp_digit"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.7441999912261963

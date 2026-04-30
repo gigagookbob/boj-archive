@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2008, 초등부, ploffer11",
   "level": 10,
-  "tags": [
-    "math",
-    "dp",
-    "bruteforcing"
-  ],
+  "tags": ["math", "dp", "bruteforcing"],
   "accepted_user_count": 5518,
   "submission_count": null,
   "average_tries": 1.8779000043869019

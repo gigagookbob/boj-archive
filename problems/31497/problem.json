@@ -15,10 +15,7 @@
   "hint": "<p>예제의 입출력은 입출력이 어떤 방식으로 이루어지는지 이해를 돕기 위해 의도적으로 개행 간격 등을 조절한 것으로, 실제 입출력과는 다르다.</p>",
   "source": "Contest, BOJ User Contest, 카툰컵, 카툰컵 Zero: ~Prologue~, dbrua1222, djeleanor2, eric00513, index, ingyu1008, kiwiyou, nflight11, sorohue, starbucks_americano, toycartoon, utilforever, ychangseok",
   "level": 4,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 324,
   "submission_count": null,
   "average_tries": 2.2005999088287354

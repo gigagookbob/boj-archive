@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2023",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "bruteforcing",
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "bruteforcing", "dp", "game_theory"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.240000009536743

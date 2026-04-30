@@ -19,10 +19,7 @@
   "hint": "<p>I exempel 1 uppfyller behöver Johanna bara fylla på med tre extra spikar av längderna $13$, $28$ och $77$.</p>\n<p>I exempel 2 behöver Johanna köpa en till spik av längd $11$, och dessutom kapa en spik av längd $100$ till $50$. Hon skulle kunnat köpa en spik av längd $50$ och kapa spiken av längd $100$ till längd $11$, men då behöver hon köpa spikar av längre total längd.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Qualification",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.114300012588501

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "hibye1217, minjunnick, mujigae, pyb1031, utilforever",
   "level": 8,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["math", "greedy", "sorting"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.3521000146865845

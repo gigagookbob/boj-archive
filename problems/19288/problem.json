@@ -15,10 +15,7 @@
   "hint": "<p>In the sample test there are four fixed stacks of size 2:</p>\n<pre>\n1  2  3  4\n5  6  7  8\n</pre>\n<p>Next we describe the interaction example as shown in \"Example\" section. Note that, although the stacks are fixed, the interactor in the system may behave not exactly in this way even if you ask the same queries.</p>\n<p>In the first query $x = 2$ and $R =$ \"$\\leq$\". After the query numbers $1$ and $2$ are removed and stacks look like this:</p>\n<pre>\n      3  4\n5  6  7  8\n</pre>\n<p>In the second query $x = 4$ and $R =$ \"$\\geq$\". Numbers $5$, $6$ and $4$ are removed, and the stacks' state is:</p>\n<pre>\n      3 \n      7  8\n</pre>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 4: Yandex Cup 2018, Contest, Open Cup, 2017/2018 Season, Stage 11: Grand Prix of Khamovniki",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "math"
-  ],
+  "tags": ["ad_hoc", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 3.5455000400543213

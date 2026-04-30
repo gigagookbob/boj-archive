@@ -15,12 +15,7 @@
   "hint": "<p>In Case #1, you can run to the left and catch all three quail at the same time, 12 meters to the left of the starting position, which takes 3 seconds.<br/>\n<br/>\nIn Case #2, one optimal strategy is to run to the left until the second quail is caught at -2 m, which takes one second, and then run to the right in pursuit of the first quail, which you will catch at 6 m, taking four more seconds.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2015, Round 3",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "dp",
-    "knapsack",
-    "math"
-  ],
+  "tags": ["ad_hoc", "dp", "knapsack", "math"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.9230999946594238

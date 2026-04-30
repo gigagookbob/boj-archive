@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, wkd48632",
   "level": 9,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 8182,
   "submission_count": null,
   "average_tries": 3.110100030899048

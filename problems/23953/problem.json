@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, the integer initially displayed on the calculator has no odd digits, so no button presses are needed.</p>\n<p>In Sample Case #2, pressing the minus button three times will cause the calculator to display <code>8</code>. There is no way to satisfy the requirements with fewer than three button presses.</p>\n<p>In Sample Case #3, either pressing the minus button once (causing the calculator to display <code>0</code>) or pressing the plus button once will cause the calculator to display an integer without an odd digit.</p>\n<p>In Sample Case #4, pressing the plus button twice will cause the calculator to display <code>2020</code>. There is no way to satisfy the requirements with fewer than two button presses.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2018, Round A",
   "level": 12,
-  "tags": [
-    "greedy",
-    "math"
-  ],
+  "tags": ["greedy", "math"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.5

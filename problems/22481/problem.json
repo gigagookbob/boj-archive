@@ -23,14 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2012 Day 3B",
   "level": 18,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "set",
-    "hashing",
-    "rabin_karp"
-  ],
+  "tags": ["math", "string", "number_theory", "set", "hashing", "rabin_karp"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.8261001110076904

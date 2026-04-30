@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2012",
   "level": 15,
-  "tags": [
-    "dag",
-    "graphs",
-    "greedy",
-    "topological_sorting"
-  ],
+  "tags": ["dag", "graphs", "greedy", "topological_sorting"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

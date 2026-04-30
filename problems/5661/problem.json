@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2009 ACM-ICPC Asia Phuket Regional Programming Contest",
   "level": 11,
-  "tags": [
-    "dp",
-    "greedy",
-    "math"
-  ],
+  "tags": ["dp", "greedy", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.5556000471115112

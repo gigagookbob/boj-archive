@@ -15,14 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2024, Open Contest, Coxie, akim9905, bnb2011, hamuim, ibm2006, jk410, lky7674, overnap, pani, rustiebeats, shjohw12, swoon, tlsdydaud1, utilforever",
   "level": 20,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "lca",
-    "rerooting",
-    "tree_compression"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "lca", "rerooting", "tree_compression"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3.3243000507354736

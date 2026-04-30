@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, kyma123, f52985",
   "level": 10,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 37374,
   "submission_count": null,
   "average_tries": 2.228300094604492

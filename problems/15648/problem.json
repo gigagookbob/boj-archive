@@ -15,11 +15,7 @@
   "hint": null,
   "source": "moonrabbit2, jh05013",
   "level": 17,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["dp", "data_structures", "segtree"],
   "accepted_user_count": 288,
   "submission_count": null,
   "average_tries": 2.0278000831604004

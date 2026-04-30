@@ -15,12 +15,7 @@
   "hint": null,
   "source": "portableangel",
   "level": 13,
-  "tags": [
-    "implementation",
-    "dp",
-    "prefix_sum",
-    "backtracking"
-  ],
+  "tags": ["implementation", "dp", "prefix_sum", "backtracking"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 3.267899990081787

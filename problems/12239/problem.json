@@ -15,13 +15,7 @@
   "hint": "<p>Here are visual representations of the two test cases in the sample input:</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:202px; width:202px\"/>    <img alt=\"\" src=\"2.png\" style=\"height:352px; width:302px\"/></p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Round 2",
   "level": 21,
-  "tags": [
-    "dijkstra",
-    "flow",
-    "graphs",
-    "mfmc",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "flow", "graphs", "mfmc", "shortest_path"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.9412000179290771

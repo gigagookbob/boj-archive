@@ -15,12 +15,7 @@
   "hint": "<p>올바른 괄호 문자열은 다음과 같이 정의된다.</p>\r\n\r\n<ul>\r\n\t<li>빈 문자열은 올바른 괄호 문자열이다.</li>\r\n\t<li><code>S</code>가 올바른 괄호 문자열이라면, <code>(S)</code>도 올바른 괄호 문자열이다.</li>\r\n\t<li><code>S</code>와 <code>T</code>가 올바른 괄호 문자열이라면, 두 문자열을 이어 붙인 괄호 문자열 <code>ST</code>도 올바른 괄호 문자열이다.</li>\r\n</ul>\r\n",
   "source": "University, UNIST-DGIST-POSTECH, 2025 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2025 UDPC), Junior Division, leo020630, 99asdfg, ekwoo, jinhan814, jthis, kwoncycle, playsworld16, queued_q, slah007, tony9402",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "string",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "string", "stack"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.4957000017166138

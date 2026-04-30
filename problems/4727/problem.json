@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2008 Mid-Atlantic Regional Programming Contest, ICPC, Regionals, North America, Rocky Mountain Regional, 2008 Rocky Mountain Regional Contest",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 3.521399974822998

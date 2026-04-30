@@ -19,12 +19,7 @@
   "hint": "<p>아래 그림은 $N=5, M=2$ 일 때, 두부 게임을 하는 각설탕들이 자신의 모 수를 파악하는 모습이다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height: 400px; width: 500px; border-width: 1px; border-style: solid;\"/></p>",
   "source": "University, 서강대학교, 청정수컵, 2022 서강대학교 청정수컵, 새내기 Round, p_jun, rhdqor213, bnb2011, cheetose, djs100201, dong_gas, gumgood, jh05013, jinhan814, lky7674, tony9402",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 1051,
   "submission_count": null,
   "average_tries": 2.2588000297546387

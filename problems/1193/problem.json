@@ -51,10 +51,7 @@
   "hint": null,
   "source": "author6, deadlylaid, mj2park, djm03178",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 68668,
   "submission_count": null,
   "average_tries": 1.910099983215332

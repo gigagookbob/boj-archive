@@ -15,10 +15,7 @@
   "hint": "<p>이 문제를 풀고 시간이 남는다면 꿍이 여자친구도 찾을 수 있도록 도와주어라.</p>\r\n",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC Semi-Final 2010, seok9311",
   "level": 6,
-  "tags": [
-    "math",
-    "calculus"
-  ],
+  "tags": ["math", "calculus"],
   "accepted_user_count": 584,
   "submission_count": null,
   "average_tries": 1.9247000217437744

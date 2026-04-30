@@ -23,13 +23,7 @@
   "hint": "<p>Clarification of the first example: The remainder of dividing 5 + 3 + x with 10 for x = 0 is 8, and the remainder of division for x = 1 is 9, which is the solution.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2015/2016, Contest #3",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "math",
-    "number_theory",
-    "stack",
-    "string"
-  ],
+  "tags": ["data_structures", "math", "number_theory", "stack", "string"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 3.5555999279022217

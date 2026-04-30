@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are 4 piles around a circle.  Initially, the piles contain 7, 3, 9, and 1 bales of hay.  Farmer John would like to move them so the piles contain 1, 4, 2, and 13 bales of hay.</p><h4>Output Details</h4><p>A minimum of 13 units of work is required (move 6 bales from pile 1 to pile 4, move 1 bale from pile 3 to pile 2, and move 6 bales from pile 3 to pile 4).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO March 2012 Contest, Gold",
   "level": 18,
-  "tags": [
-    "math",
-    "sorting"
-  ],
+  "tags": ["math", "sorting"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.4444000720977783

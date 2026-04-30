@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, HotSpot 2010",
   "level": 8,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 1.24590003490448

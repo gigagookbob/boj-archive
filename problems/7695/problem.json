@@ -15,9 +15,7 @@
   "hint": "<p>Given the initial sequence ([([]])], the longest regular brackets subsequence is [([])].</p>",
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2004",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.4443999528884888

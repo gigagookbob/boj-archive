@@ -15,10 +15,7 @@
   "hint": "<p>In order to reach farm 2, Bessie travels along a road of length 23. To reach farm 3, Bessie travels along a road of length 43. With capacity 43, she can travel along these roads provided that she refills her tank to maximum capacity before she starts down a road.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO March 2005 Contest, Silver",
   "level": 12,
-  "tags": [
-    "graphs",
-    "mst"
-  ],
+  "tags": ["graphs", "mst"],
   "accepted_user_count": 103,
   "submission_count": null,
   "average_tries": 1.2913000583648682

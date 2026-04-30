@@ -19,10 +19,7 @@
   "hint": "<p>First example: If there can be between 1 and 6 children, then Santa needs at least 60 presents (as this is the smallest number that is divisible by all of 1, 2, 3, 4, 5 and 6), and the number 60 has a single zero at the end.</p>\n<p>Second example: If there can be either 10 or 11 children, Santa will buy 110 presents.</p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2021, Day 1",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.512200117111206

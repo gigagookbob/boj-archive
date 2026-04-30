@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, FunctionCup, FunctionCup 2017",
   "level": 16,
-  "tags": [
-    "constructive",
-    "backtracking",
-    "precomputation"
-  ],
+  "tags": ["constructive", "backtracking", "precomputation"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.6538000106811523

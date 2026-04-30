@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2006 in Yokohama",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "dp", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 634,
   "submission_count": null,
   "average_tries": 1.589900016784668

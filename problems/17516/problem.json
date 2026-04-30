@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2019 KAIST 9th ICPC Mock Competition, Contest, Open Cup, 2019/2020 Season, Stage 5: Grand Prix of Korea, koosaga, tncks0121",
   "level": 25,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall",
-    "traceback"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall", "traceback"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.523799896240234

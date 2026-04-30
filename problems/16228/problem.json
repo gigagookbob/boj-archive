@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 웰노운컵, 제2회 웰노운컵 Day 2, jung2381187",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "string",
-    "parsing",
-    "stack"
-  ],
+  "tags": ["data_structures", "string", "parsing", "stack"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.2525999546051025

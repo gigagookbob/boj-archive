@@ -15,9 +15,7 @@
   "hint": "<p>The Straight Flush of the first test case has two cards which are the card 5-1 and the card 6-1. Even though there are three copies of the card 5-1, we still count the card 5-1 as one single card. For the second test case, The Straight Flush consists of 96-10, 97-10, 98-10 and 99-10, with the size of four cards. For the last test case, there is no straight flush.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2013",
   "level": 9,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.2000000476837158

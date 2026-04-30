@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2018 SCCC Programming Contest, choiking10, hayman42",
   "level": 16,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 133,
   "submission_count": null,
   "average_tries": 3.5713999271392822

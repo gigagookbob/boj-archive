@@ -15,13 +15,7 @@
   "hint": "<p>The cows possess 4 objects in total: first they trade object 1 for object 3, then object 3 for object 2, then object 2 for object 5.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO February 2005 Contest, Silver",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "traceback"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "traceback"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.588200092315674

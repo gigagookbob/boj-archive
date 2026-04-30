@@ -27,11 +27,7 @@
   "hint": "<p>The first example is the situation discussed in the statement. The statement shows how the illusion can last for one second. It can be shown that it cannot last longer.</p>\n<p>In the second example, additionally, the second and fifth (left vertical) indicators in the first digit are broken. The answer of $1$ is still achieved in the same way ($39$ looks like $35$, and $38$ looks like $36$).</p>\n<p>In the third example, the answer is $0$. Note that $90$ on such a traffic light looks like $51$, and $89$ looks like $61$, which is greater than $51$. However, these two consecutive displays of the traffic light do <strong>not</strong> form an illusion of length $1$, as the numbers $51$ and $61$ are not consecutive.</p>\n<p>In the fourth example, all indicators are broken, and therefore, the traffic light never displays a correctly written number. According to the statement, in this case, the output should be $0$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Qualification",
   "level": 12,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "precomputation"
-  ],
+  "tags": ["implementation", "ad_hoc", "precomputation"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.375

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2022 ICPC Sinchon Winter Algorithm Camp Contest, 초급, wnstjd13245, gratus907, Green55, gumgood, kyo20111, lky7674, mjhmjh1104, swoon, tony9402",
   "level": 15,
-  "tags": [
-    "math",
-    "binary_search",
-    "prefix_sum"
-  ],
+  "tags": ["math", "binary_search", "prefix_sum"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 2.606100082397461

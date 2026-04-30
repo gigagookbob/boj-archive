@@ -23,9 +23,7 @@
   "hint": "<p>I första exemplet finns det två öar, med avstånd 7 häxameter, vilket motsvarar $7\\cdot H = 7\\cdot 10=70$ meter. Med varje paddel kan han ta max 5 paddeltag, så $70/5 = 14$ paddlar krävs.</p>\n<p>I andra exemplet finns tre öar, med 200 meter mellan den första och den andra, och 100 meter mellan den andra och den tredje. Varje paddel kan ta 7 paddeltag. Om Lav börjar med 31 paddlar, använder 14 av dem fullt, och tar 6 paddeltag med de resterande 17 paddlarna, så kommer kan han ta sig $14\\cdot 7+6\\cdot 17=200$ meter, tillräckligt för att komma till andra ön. Då har han 17 paddlar kvar som han lagar med trollformeln, vilket räcker för att ta sig mellan andra och tredje ön. Det hade inte gått med färre än 31 paddlar.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2021, Qualification",
   "level": 14,
-  "tags": [
-    "parametric_search"
-  ],
+  "tags": ["parametric_search"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

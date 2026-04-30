@@ -27,12 +27,7 @@
   "hint": "<p>길이가 $N$인 순열은 $1$부터 $N$까지 정수가 한 번씩만 사용되는 유한수열이다. 예를 들어 $\\{1, 2, 4, 3\\}$은 순열이지만 $\\{1, 4, 2\\}$, $\\{1, 3, 3, 2\\}$ 등은 순열이 아니다.</p>",
   "source": "University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 1, University, 부산대학교, 2024 부산대학교 프로그래밍 대회 (PNUPC), Division 2, null_nullptr, heeda0528, mbae059, qvixnh22, skeep194, swoon, tony9402, utilforever, vkdldjvkdnj",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "math",
-    "pigeonhole_principle"
-  ],
+  "tags": ["ad_hoc", "case_work", "math", "pigeonhole_principle"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 3.8559000492095947

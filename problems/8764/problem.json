@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, FallSpot 2011",
   "level": 16,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

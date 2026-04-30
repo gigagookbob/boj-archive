@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1997 연습 세션",
   "level": 6,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "tree_set"
-  ],
+  "tags": ["implementation", "data_structures", "tree_set"],
   "accepted_user_count": 123,
   "submission_count": null,
   "average_tries": 1.788599967956543

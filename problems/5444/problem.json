@@ -15,11 +15,7 @@
   "hint": "<p><iframe allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"1.png\" width=\"560\"></iframe></p>\r\n",
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2010 Preliminaries, baekjoon",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack",
-    "sliding_window"
-  ],
+  "tags": ["dp", "knapsack", "sliding_window"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 2.6029000282287598

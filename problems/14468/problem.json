@@ -15,10 +15,7 @@
   "hint": "<p>A와 B의 경로는 무조건 만난다.<br></p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 February Contest, Bronze, jh05013",
   "level": 7,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1429,
   "submission_count": null,
   "average_tries": 1.7690999507904053

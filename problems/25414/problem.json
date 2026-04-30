@@ -15,10 +15,7 @@
   "hint": "<p>$K = 1$: [2, 3]의 한 구간을 잡으면 최적이다.</p>\n<p>$K = 2$: [1, 2], [4, 5]의 두 구간을 잡으면 최적이다.</p>\n<p>$K = 3$: [1, 2], [3, 4], [5, 6]의 세 구간을 잡으면 최적이다.</p>",
   "source": "august14",
   "level": 20,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 3.7906999588012695

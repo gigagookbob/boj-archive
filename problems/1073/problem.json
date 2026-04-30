@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "math",
-    "graphs",
-    "combinatorics",
-    "eulerian_path"
-  ],
+  "tags": ["math", "graphs", "combinatorics", "eulerian_path"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 1.851199984550476

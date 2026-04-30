@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, eric00513",
   "level": 22,
-  "tags": [
-    "dp",
-    "kmp",
-    "string"
-  ],
+  "tags": ["dp", "kmp", "string"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4

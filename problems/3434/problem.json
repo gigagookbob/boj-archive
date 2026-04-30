@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2010",
   "level": 18,
-  "tags": [
-    "case_work",
-    "data_structures",
-    "implementation",
-    "stack",
-    "string"
-  ],
+  "tags": ["case_work", "data_structures", "implementation", "stack", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.1666998863220215

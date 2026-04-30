@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 대전과학고등학교, 제1회 대전과학고등학교 프로그래밍 경진대회 DSHStack, ohwphil, hyperbolic, iktk, koi312500, sjhi00",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting",
-    "sweeping",
-    "difference_array"
-  ],
+  "tags": ["greedy", "sorting", "sweeping", "difference_array"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 1.5587999820709229

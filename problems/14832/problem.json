@@ -15,10 +15,7 @@
   "hint": "<p>In sample case #1, a straight of length 4 can be formed by taking the 2 from the fourth die, the 3 from the third die, the 4 from the first die, and the 5 from the second die.</p>\n<p>In sample case #2, there is no way to form a straight larger than the trivial straight of length 1.</p>\n<p>In sample case #3, you can take a 1 from one die, a 2 from another, and a 3 from the remaining unused die. Notice that this case demonstrates that there can be multiple dice with the same set of values on their faces.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, World Finals",
   "level": 21,
-  "tags": [
-    "two_pointer",
-    "bipartite_matching"
-  ],
+  "tags": ["two_pointer", "bipartite_matching"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.1563000679016113

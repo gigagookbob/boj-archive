@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 중등부, Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 고등부, koosaga",
   "level": 24,
-  "tags": [
-    "divide_and_conquer",
-    "cht"
-  ],
+  "tags": ["divide_and_conquer", "cht"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 3.382999897003174

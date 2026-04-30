@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2021-2022",
   "level": 23,
-  "tags": [
-    "geometry",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "ternary_search"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 4.371399879455566

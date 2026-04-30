@@ -15,12 +15,7 @@
   "hint": "<p>Once the leftmost and the rightmost apples are discarded, Bytea can order a salad out of all remaining fruits.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 1",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping",
-    "stack"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping", "stack"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 3.2551000118255615

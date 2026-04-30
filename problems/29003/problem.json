@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 178px; height: 248px;\"/></p>\n<p>На этой картинке показаны места, на которые садились пассажиры в примере.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, March 19, 2017",
   "level": 13,
-  "tags": [
-    "two_pointer"
-  ],
+  "tags": ["two_pointer"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 2

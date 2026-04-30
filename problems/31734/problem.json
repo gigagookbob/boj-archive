@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, JOI Spring Training Camp, JOI 2023/2024 Spring Training Camp",
   "level": 25,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lazyprop"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "binary_search", "lazyprop"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 12.600000381469727

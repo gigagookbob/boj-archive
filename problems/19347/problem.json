@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 1: Jagiellonian U Contest",
   "level": 18,
-  "tags": [
-    "math",
-    "binary_search",
-    "physics"
-  ],
+  "tags": ["math", "binary_search", "physics"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 5.153800010681152

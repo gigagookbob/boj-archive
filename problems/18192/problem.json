@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2019 송년대회, sebinkim",
   "level": 15,
-  "tags": [
-    "sorting",
-    "randomization"
-  ],
+  "tags": ["sorting", "randomization"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 2.71589994430542

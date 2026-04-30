@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2019",
   "level": 17,
-  "tags": [
-    "coordinate_compression",
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["coordinate_compression", "dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

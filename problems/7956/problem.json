@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2005",
   "level": 10,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "ad_hoc", "arbitrary_precision"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 4.25

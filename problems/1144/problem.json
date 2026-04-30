@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, myungwoo",
   "level": 23,
-  "tags": [
-    "dp",
-    "dp_connection_profile"
-  ],
+  "tags": ["dp", "dp_connection_profile"],
   "accepted_user_count": 274,
   "submission_count": null,
   "average_tries": 3.2190001010894775

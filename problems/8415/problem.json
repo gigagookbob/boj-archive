@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p style=\"text-align: center;\">The illustration of all possible configurations of rooks for the first board from the example input.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2006",
   "level": 20,
-  "tags": [
-    "math",
-    "graphs",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "graphs", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.3636000156402588

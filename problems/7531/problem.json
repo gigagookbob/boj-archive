@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2005",
   "level": 10,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.31820011138916

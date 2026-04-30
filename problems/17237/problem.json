@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, POSTECH, 2019 PPC, ufolion, jh05013",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "game_theory"
-  ],
+  "tags": ["math", "greedy", "game_theory"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 2.027400016784668

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 국민대학교, 2026 KPSC Spring Algorithm Challenge, saywoo, chan120714, kevinlys00, playsworld16, sjhi00, skuru",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "constructive", "primality_test", "sieve"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.18179988861084

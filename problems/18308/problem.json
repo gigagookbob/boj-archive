@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2019 연습 세션",
   "level": 19,
-  "tags": [
-    "flow",
-    "mfmc",
-    "sorting",
-    "graphs"
-  ],
+  "tags": ["flow", "mfmc", "sorting", "graphs"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.2857000827789307

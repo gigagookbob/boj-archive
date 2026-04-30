@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 충남대학교, 제4회 생각하는 프로그래밍 대회, siontama",
   "level": 7,
-  "tags": [
-    "math",
-    "game_theory"
-  ],
+  "tags": ["math", "game_theory"],
   "accepted_user_count": 866,
   "submission_count": null,
   "average_tries": 1.6500999927520752

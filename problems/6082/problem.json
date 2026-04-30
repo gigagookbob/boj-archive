@@ -15,12 +15,7 @@
   "hint": "<p>Pasture 2 is damaged, resulting in cows in pastures 2, 3, 4 not being able to return to the barn.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2008-2009 Season, USACO January 2009 Contest, Gold",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "flood_fill"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.809499979019165

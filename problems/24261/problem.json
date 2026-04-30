@@ -15,11 +15,7 @@
   "hint": "<p>a[1] + a[2] + a[4] = 3 + 3 + 3 = 9</p>\n<p>b[0] + b[1] = 4 + 5 = 9.</p>\n<p>Another possible solution is: a[2] +a[3] = 3 + 2 = 5 = b[1].</p>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2021, Group B (Juniors)",
   "level": 22,
-  "tags": [
-    "math",
-    "two_pointer",
-    "pigeonhole_principle"
-  ],
+  "tags": ["math", "two_pointer", "pigeonhole_principle"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 2.915299892425537

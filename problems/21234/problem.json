@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2020-2021 Season, USACO 2021 February Contest, Silver",
   "level": 16,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["dp", "prefix_sum", "sweeping"],
   "accepted_user_count": 127,
   "submission_count": null,
   "average_tries": 1.7086999416351318

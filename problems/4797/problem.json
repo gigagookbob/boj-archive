@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2012 Rocky Mountain Regional Contest, baekjoon, bupjae",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "parsing",
-    "stack",
-    "string"
-  ],
+  "tags": ["data_structures", "implementation", "parsing", "stack", "string"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.733299970626831

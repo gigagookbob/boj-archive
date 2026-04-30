@@ -15,9 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2011 (Beginner Group)",
   "level": 2,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 1864,
   "submission_count": null,
   "average_tries": 1.9565000534057617

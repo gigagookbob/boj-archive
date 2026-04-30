@@ -19,12 +19,7 @@
   "hint": "<p>$x_1$행 $y_1$열에 있는 보도블록과 $x_2$행 $y_2$열에 있는 보도블록 사이의 맨해튼 거리는 $\\lvert x_1 - x_2 \\rvert + \\lvert y_1 - y_2 \\rvert$로 정의한다.</p>",
   "source": "University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Division 2, University, 서울대학교, 서울대학교 SCSC 프로그래밍 경시대회, 2024 서울대학교 SCSC 프로그래밍 경시대회, Open Contest, ksi4495, blackking26, kaorin, kep1er07, lky7674, lycoris1600, mujigae, qvixnh22, sjh1224, sungjae0506",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 362,
   "submission_count": null,
   "average_tries": 2.411600112915039

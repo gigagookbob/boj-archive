@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BOJ Bundle, BOJ Bundle in Math. Vol 1, jh05013, kaorin, kiwiyou, utilforever, wider93",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 5.699999809265137

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["bruteforcing", "geometry"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 2.898699998855591

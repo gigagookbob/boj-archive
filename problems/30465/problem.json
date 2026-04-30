@@ -31,11 +31,7 @@
   "hint": "<p>$\\lfloor x\\rfloor$는 $x$의 소수점 이하를 버림한 값이다. 예를 들어, $\\lfloor 2.5\\rfloor$는 $2$이다.</p>",
   "source": "University, 건국대학교, 2023 건국대학교 프로그래밍 경진대회 (KUPC), Division 1, University, 건국대학교, 2023 건국대학교 프로그래밍 경진대회 (KUPC), Division 2, University, 건국대학교, 2023 건국대학교 프로그래밍 경진대회 (KUPC), Open Contest, aru0504, dldyou, riroan, asz2325, creampuffshu, keunbum, naeby, pizzaroot, shiftpsh, solvedac, utilforever",
   "level": 19,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["greedy", "ad_hoc", "permutation_cycle_decomposition"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 2.626699924468994

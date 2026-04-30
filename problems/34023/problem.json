@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2025 Spring Automata 창하컵, eric00513, davidkim0, edward3378, flakepowders, mythofys, parkky, raehwan0418, sooahn07",
   "level": 7,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 1.6538000106811523

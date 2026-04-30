@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2012",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "greedy", "arithmetic"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.263200044631958

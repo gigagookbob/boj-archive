@@ -19,14 +19,7 @@
   "hint": null,
   "source": "School, 한국디지털미디어고등학교, 제4회 디미고 프로그래밍 챌린지, rumi348, hibye1217, ibasic, jihoojh09, sorohue, utilforever, woohyun_jng",
   "level": 19,
-  "tags": [
-    "graphs",
-    "trees",
-    "shortest_path",
-    "dijkstra",
-    "mst",
-    "lca"
-  ],
+  "tags": ["graphs", "trees", "shortest_path", "dijkstra", "mst", "lca"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.5

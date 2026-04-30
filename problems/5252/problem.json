@@ -15,10 +15,7 @@
   "hint": "<p>Pairs of players who have similar skills are: (6,7), (7,3), (3,4), (4,1), (1,2), (2,5), and they can’t be in the same team. The best team for the first tournament contains players (1,3,6), for the second: (1,5) and for the third: (1,3,5,6). For the fourth tournament Srba can’t choose any player because everyone is older than 10.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 2012",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.736799955368042

@@ -19,10 +19,7 @@
   "hint": "<p>Как вертикальные, так и горизонтальные улицы пронумерованы целыми числами. Можно считать, что и тех, и других улиц бесконечное число. Вертикальные улицы пронумерованы слева направо, горизонтальные --- снизу вверх. Любая пара ближайших друг к другу параллельных улиц имеет номера, различающиеся на один.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, November 10, 2013, Basic",
   "level": 7,
-  "tags": [
-    "case_work",
-    "math"
-  ],
+  "tags": ["case_work", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.7777999639511108

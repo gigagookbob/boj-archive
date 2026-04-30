@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2013, 초등부, mwy3055, tncks0121, david02324, hck5209, kki5150",
   "level": 11,
-  "tags": [
-    "bfs",
-    "graphs",
-    "graph_traversal",
-    "grid_graph",
-    "shortest_path"
-  ],
+  "tags": ["bfs", "graphs", "graph_traversal", "grid_graph", "shortest_path"],
   "accepted_user_count": 40392,
   "submission_count": null,
   "average_tries": 2.24180006980896

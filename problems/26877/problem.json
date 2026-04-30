@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Final",
   "level": 9,
-  "tags": [
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "two_pointer"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.3142999410629272

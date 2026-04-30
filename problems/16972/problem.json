@@ -15,11 +15,7 @@
   "hint": null,
   "source": "august14",
   "level": 5,
-  "tags": [
-    "geometry",
-    "constructive",
-    "randomization"
-  ],
+  "tags": ["geometry", "constructive", "randomization"],
   "accepted_user_count": 411,
   "submission_count": null,
   "average_tries": 4.464700222015381

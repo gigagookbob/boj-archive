@@ -23,11 +23,7 @@
   "hint": "<p>В первом примере подходящие количества грибов, собранных каждым участником: $ 6 $, $ 3 $, $ 7 $, $ 1 $, $ 2 $.</p>\n<p>Во третьем примере каждый участник собрал по одному грибу.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, October 17, 2015, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2015-2016 Season, October 17, 2015, Advanced",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "bruteforcing", "arithmetic"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.34879994392395

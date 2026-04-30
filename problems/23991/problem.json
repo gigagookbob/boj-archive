@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, one solution is to place two cubes with an edge length of 3 such that their corners with minimum (x, y, z) coordinates are at (0, 0, 0) and (3, 3, 3).</p>\n<p>In the second test case, one solution is to place two cubes with an edge length of 5 such that their corners with minimum (x, y, z) coordinates are at (-1, -1, -1) and (1, 2, 3).</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2017, Round A",
   "level": 14,
-  "tags": [
-    "implementation",
-    "parametric_search"
-  ],
+  "tags": ["implementation", "parametric_search"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1

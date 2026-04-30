@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, November 12, 2011, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2011-2012 Season, November 12, 2011, Advanced",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "sorting"
-  ],
+  "tags": ["math", "number_theory", "sorting"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.6521999835968018

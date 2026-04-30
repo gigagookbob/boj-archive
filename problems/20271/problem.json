@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, Télécom ParisTech Internal Selection, Concours interne de programmation Télécom ParisTech 2019",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "hashing",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["bruteforcing", "data_structures", "hashing", "hash_set", "set"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.5

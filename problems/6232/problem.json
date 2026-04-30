@@ -15,12 +15,7 @@
   "hint": "<p>FJ is comparing 5 cows and has already determined that cow 2 &gt; cow 1, cow 1 &gt; cow 5, cow 2 &gt; cow 3, cow 1 &gt; cow 4, and cow 3 &gt; cow 4 (where the '&gt;' notation means \"produces milk more quickly\").</p>\n<p>From the information in the 5 test results, Farmer John knows that since cow 2 &gt; cow 1 &gt; cow 5 and cow 2 &gt; cow 3 &gt; cow 4, cow 2 has the highest rank. However, he needs to know whether cow 1 &gt; cow 3 to determine the cow with the second highest rank. Also, he will need one more question to determine the ordering between cow 4 and cow 5. After that, he will need to know if cow 5 &gt; cow 3 if cow 1 has higher rank than cow 3. He will have to ask three questions in order to be sure he has the rankings: \"Is cow 1 &gt; cow 3?  Is cow 4 &gt; cow 5? Is cow 5 &gt; cow 3?\"</p>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO March 2007 Contest, Gold",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "dfs"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.5676000118255615

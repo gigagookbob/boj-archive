@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, CodeRace 2018, dlstj0923, njw1204",
   "level": 10,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 1893,
   "submission_count": null,
   "average_tries": 2.1024999618530273

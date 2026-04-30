@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 초콜릿컵, 제3회 초콜릿컵, bubbler, index, ingyu1008, jamesoh1201, quickn, solvedac, sorohue, tlsdydaud1, utilforever, vkdldjvkdnj",
   "level": 17,
-  "tags": [
-    "set",
-    "constructive"
-  ],
+  "tags": ["set", "constructive"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.1563000679016113

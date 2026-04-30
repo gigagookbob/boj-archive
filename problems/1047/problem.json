@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, koosaga",
   "level": 16,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 531,
   "submission_count": null,
   "average_tries": 2.7797000408172607

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2019 1차대회, 초등부, gkwhdtn95, gkwlsrnjs12, gyunghoe",
   "level": 11,
-  "tags": [
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["string", "two_pointer"],
   "accepted_user_count": 8304,
   "submission_count": null,
   "average_tries": 3.3427000045776367

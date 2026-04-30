@@ -19,11 +19,7 @@
   "hint": null,
   "source": "moonrabbit2",
   "level": 5,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["bruteforcing", "geometry", "pythagoras"],
   "accepted_user_count": 281,
   "submission_count": null,
   "average_tries": 1.4448000192642212

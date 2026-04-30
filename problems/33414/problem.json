@@ -19,11 +19,7 @@
   "hint": "<p>In the first example, the answer is achieved after two casts: </p>\n<p>$\\{1, 2, 3, 4\\} \\rightarrow \\{1, 2, 3, 5, 6, 7\\} \\rightarrow \\{1, 2, 3, 4, 5, 6, 7\\}$.</p>\n<p>In the second example, the first cast turns the set $\\{1, 2, 4, 7\\}$ into $\\{3, 5, 6\\}$, and it never changes after.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 7: Kazakhstan Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "xor_basis"
-  ],
+  "tags": ["math", "linear_algebra", "xor_basis"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.3333001136779785

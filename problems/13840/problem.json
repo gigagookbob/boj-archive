@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest 2006",
   "level": 17,
-  "tags": [
-    "math",
-    "sweeping",
-    "calculus"
-  ],
+  "tags": ["math", "sweeping", "calculus"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

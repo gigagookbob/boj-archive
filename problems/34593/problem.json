@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2025",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "trees",
-    "dp_tree",
-    "parametric_search"
-  ],
+  "tags": ["dp", "greedy", "trees", "dp_tree", "parametric_search"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.8717999458312988

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2019/2020, Contest #4",
   "level": 15,
-  "tags": [
-    "string",
-    "two_pointer"
-  ],
+  "tags": ["string", "two_pointer"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.6060999631881714

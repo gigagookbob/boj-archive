@@ -15,12 +15,7 @@
   "hint": "<p>In the example, the largest souvenir box that fits in each of the packing boxes has dimensions $2 \\times 4 \\times 6$. It fits in the first two packing boxes without rotation, and it can be rotated to become $2 \\times 6 \\times 4$ to fit in the third packing box.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2025-2026 Northwestern Russia Regional Contest",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "sorting", "arithmetic"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.0644999742507935

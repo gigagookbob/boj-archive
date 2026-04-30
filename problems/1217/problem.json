@@ -15,11 +15,7 @@
   "hint": null,
   "source": "author5, jh05013",
   "level": 17,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 263,
   "submission_count": null,
   "average_tries": 2.4828999042510986

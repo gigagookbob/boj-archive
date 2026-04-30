@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2012",
   "level": 9,
-  "tags": [
-    "combinatorics",
-    "implementation",
-    "math"
-  ],
+  "tags": ["combinatorics", "implementation", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

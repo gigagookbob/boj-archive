@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2000/2001, Stage 1",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "precomputation"
-  ],
+  "tags": ["math", "number_theory", "precomputation"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.384600043296814

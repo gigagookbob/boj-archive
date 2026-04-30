@@ -15,12 +15,7 @@
   "hint": "<p>To reach 5 points it is enough to throw at least one worm. The optimal strategy in this case is therefore to stop as soon as you have a worm. If you did not throw a worm, you should put aside as few dice as possible to maximize the chance of throwing a worm in a later throw.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2012",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "probability",
-    "precomputation"
-  ],
+  "tags": ["math", "dp", "probability", "precomputation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

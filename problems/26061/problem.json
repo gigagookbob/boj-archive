@@ -23,10 +23,7 @@
   "hint": "<p>В первом примере компания могла начать с версии номер $12$, и восемь месяцев спустя номер версии будет равен $100$. Тогда у них идёт девятый месяц работы.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Qualification",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.125

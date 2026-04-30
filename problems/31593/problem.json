@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2024 ICPC Asia Pacific Championship",
   "level": 25,
-  "tags": [
-    "math",
-    "implementation",
-    "constructive",
-    "invariant"
-  ],
+  "tags": ["math", "implementation", "constructive", "invariant"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 4.25

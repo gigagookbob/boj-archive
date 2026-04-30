@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2015 AIPO National Finals - Junior, Olympiad, All-Ireland Programming Olympiad, 2015 AIPO National Finals - Senior",
   "level": 13,
-  "tags": [
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["implementation", "greedy"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 2.559299945831299

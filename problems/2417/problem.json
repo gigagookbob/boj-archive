@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2006, baekjoon, Acka, doju, powergee, xkdlaldfjtnl, YunGoon",
   "level": 7,
-  "tags": [
-    "math",
-    "binary_search"
-  ],
+  "tags": ["math", "binary_search"],
   "accepted_user_count": 4232,
   "submission_count": null,
   "average_tries": 3.6180999279022217

@@ -23,9 +23,7 @@
   "hint": "<p>각 사분면은 아래 그림과 같이 위치한다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>",
   "source": "University, 인하대학교, 2022 인하대학교 프로그래밍 경진대회 (IUPC), 39dll, gumgood, jh05013, jhnah917, wjdclgns12, yooshnn, yuja",
   "level": 14,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 75,
   "submission_count": null,
   "average_tries": 2.8132998943328857

@@ -19,10 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładów: W pierwszym przykładzie budynki o numerach $p = 4$ oraz $p = 10$ są najbliższymi do szkoły, wolnymi budynkami. Zatem odpowiedź to $p = 4$, ponieważ z wielu wartości $p$ minimalizujących $|s - p|$ mamy wybrać tę najmniejszą.</p>\n<p>W drugim przykładzie jedyny wolny budynek osiągający najmniejszą odległość do szkoły (równą $5$) to budynek o numerze $14$.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2025",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "sorting"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.5

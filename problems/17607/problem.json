@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 24,
-  "tags": [
-    "trees",
-    "maximum_subarray",
-    "splay_tree"
-  ],
+  "tags": ["trees", "maximum_subarray", "splay_tree"],
   "accepted_user_count": 163,
   "submission_count": null,
   "average_tries": 3.748500108718872

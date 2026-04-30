@@ -19,10 +19,7 @@
   "hint": "<p>I det första exemplet är medelvärdena $2$ respektive $4$ innan flyttning. Efter att talet $3$ flyttats över från B till A är medelvärdena $2.25$ respektive $4.333\\ldots$.</p>\n<p>I det andra exemplet kan fenomenet inte uppkomma. Om man t.ex. flyttar talet $5$ från A till B så ökar visserligen medelvärdet i grupp A men medelvärdet i grupp B förblir oförändrat.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2007, Qualification",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing"
-  ],
+  "tags": ["math", "bruteforcing"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.5199999809265137

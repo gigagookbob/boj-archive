@@ -19,13 +19,7 @@
   "hint": null,
   "source": "School, 대구과학고등학교, DSPC 2024, iansong, h0ngjun7, kwoncycle, lky7674, tony9402, utilforever, vkdldjvkdnj",
   "level": 17,
-  "tags": [
-    "math",
-    "string",
-    "prefix_sum",
-    "calculus",
-    "kmp"
-  ],
+  "tags": ["math", "string", "prefix_sum", "calculus", "kmp"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 3.9784998893737793

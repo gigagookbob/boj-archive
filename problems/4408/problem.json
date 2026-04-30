@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 19 June, 1999",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "sorting",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "sorting", "set"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 2

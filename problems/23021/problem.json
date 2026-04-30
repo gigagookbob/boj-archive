@@ -19,12 +19,7 @@
   "hint": null,
   "source": null,
   "level": 17,
-  "tags": [
-    "math",
-    "binary_search",
-    "combinatorics",
-    "bitmask"
-  ],
+  "tags": ["math", "binary_search", "combinatorics", "bitmask"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.7894999980926514

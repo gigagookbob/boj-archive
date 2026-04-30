@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North Central North America Regional, NCNA 2014",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "divide_and_conquer",
-    "stack",
-    "recursion"
-  ],
+  "tags": ["data_structures", "divide_and_conquer", "stack", "recursion"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 3

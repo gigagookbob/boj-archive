@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2015",
   "level": 22,
-  "tags": [
-    "heuristics",
-    "math"
-  ],
+  "tags": ["heuristics", "math"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.4286000728607178

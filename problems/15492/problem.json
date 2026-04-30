@@ -15,12 +15,7 @@
   "hint": "<p>2 1 3 1 2 1 // 3 1 3 1 로 나누고 각각 뒤집으면 1 2 1 3 1 2 // 1 3 1 3 -&gt; 1 2 1 3 1 2 1 3 1 3 이 되는데 이것이 가능한 것들 중 사전 순으로 첫 번째인 수열이다.</p>",
   "source": "Contest, koi4u, koi4u 2008년 5월 모의고사, kcm1700, cgiosy, doju, functionx",
   "level": 21,
-  "tags": [
-    "string",
-    "binary_search",
-    "hashing",
-    "kmp"
-  ],
+  "tags": ["string", "binary_search", "hashing", "kmp"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 5.75439977645874

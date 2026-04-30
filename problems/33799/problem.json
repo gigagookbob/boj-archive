@@ -15,10 +15,7 @@
   "hint": "<p>In the first sample case, the subsequences of $70$ are $7$, $0$, and $70$, and the $\\operatorname{MEX}$ of $\\{0, 7, 70\\}$ is $1$.</p>\n<p>In the second sample case, $12836880457$ contains every digit except $9$, and therefore the $\\operatorname{MEX}$ of its subsequences is $9$.</p>",
   "source": "University, Rutgers University, Rutgers University Programming Contest Spring 2025",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["ad_hoc", "constructive"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 3

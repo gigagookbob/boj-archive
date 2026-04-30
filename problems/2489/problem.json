@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2009, 고등부",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "graphs",
-    "greedy",
-    "implementation",
-    "trees"
-  ],
+  "tags": ["ad_hoc", "graphs", "greedy", "implementation", "trees"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 5.18179988861084

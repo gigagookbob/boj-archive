@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2024",
   "level": 11,
-  "tags": [
-    "implementation",
-    "math",
-    "recursion"
-  ],
+  "tags": ["implementation", "math", "recursion"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 1.2726999521255493

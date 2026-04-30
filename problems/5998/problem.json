@@ -15,12 +15,7 @@
   "hint": "<p>There are 5 lights. Lights 1, 4, and 5 are each connected to both lights 2 and 3.</p>\n<p>Toggle the switches on lights 1, 4, and 5.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO November 2009 Contest, Gold",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "set",
-    "bitmask",
-    "mitm"
-  ],
+  "tags": ["data_structures", "set", "bitmask", "mitm"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.6744000911712646

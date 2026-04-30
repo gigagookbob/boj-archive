@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 20 September, 2014",
   "level": 22,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "rotating_calipers"
-  ],
+  "tags": ["convex_hull", "geometry", "rotating_calipers"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 3

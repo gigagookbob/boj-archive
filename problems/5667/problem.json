@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2012 연습 세션, ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2005",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.7804999351501465

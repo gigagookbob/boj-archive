@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2003",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["dp", "data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.4000000953674316

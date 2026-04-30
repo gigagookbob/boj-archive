@@ -31,10 +31,7 @@
   "hint": null,
   "source": "haden",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["bruteforcing", "ad_hoc"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 8

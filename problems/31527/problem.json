@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2023 Mid-Central USA Programming Contest",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "bitmask",
-    "bipartite_matching"
-  ],
+  "tags": ["bruteforcing", "bitmask", "bipartite_matching"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.523800015449524

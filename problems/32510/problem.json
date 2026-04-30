@@ -15,11 +15,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "sorting", "priority_queue"],
   "accepted_user_count": 74,
   "submission_count": null,
   "average_tries": 2.4189000129699707

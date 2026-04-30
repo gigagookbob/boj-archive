@@ -15,12 +15,7 @@
   "hint": "<p>실제 기출문제의 문제 제목은 \"이진트리의 너비\" 이다.</p>",
   "source": "Olympiad, 한국정보올림피아드, KOI 2003, 고등부, insu_nym, pknu1535",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 5294,
   "submission_count": null,
   "average_tries": 3.434299945831299

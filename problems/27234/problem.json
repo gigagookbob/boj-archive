@@ -23,11 +23,7 @@
   "hint": "<p>$3$개의 컵을 쌓는 방법은 다음 그림과 같이 $14$가지가 있다.<img alt=\"\" src=\"3.png\" style=\"display: block; margin-left: auto; margin-right: auto; width: 100%; max-width: 600px;\"/></p>",
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2023!, queued_q, edenooo, jhwest2, kyo20111, ryute",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.3720999956130981

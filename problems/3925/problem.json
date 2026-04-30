@@ -15,11 +15,7 @@
   "hint": "<p>원문으로 볼 시 스포일러 주의</p>\r\n",
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2004 in Ehime, pichulia",
   "level": 12,
-  "tags": [
-    "math",
-    "implementation",
-    "bitmask"
-  ],
+  "tags": ["math", "implementation", "bitmask"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.2264000177383423

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Bangladesh, Dhaka Regional Contest 2002",
   "level": 19,
-  "tags": [
-    "graphs",
-    "dag",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "dag", "bipartite_matching"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.733299970626831

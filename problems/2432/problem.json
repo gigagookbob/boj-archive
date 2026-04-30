@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2007, baekjoon, onjo0127",
   "level": 25,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.3333001136779785

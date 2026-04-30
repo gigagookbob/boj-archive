@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Zhautykov Olympiad, IZhO 2013",
   "level": 26,
-  "tags": [
-    "dp",
-    "string",
-    "bitset",
-    "lcs",
-    "bitset_lcs"
-  ],
+  "tags": ["dp", "string", "bitset", "lcs", "bitset_lcs"],
   "accepted_user_count": 198,
   "submission_count": null,
   "average_tries": 2.727299928665161

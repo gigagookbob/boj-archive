@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, he falls down after 3 steps.</p>\n<p>In the second test case, he falls down before making any steps.</p>\n<p>In the third test case, he doesn’t fall down at all.</p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2017 Arab Collegiate Programming Contest",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1457,
   "submission_count": null,
   "average_tries": 1.4592000246047974

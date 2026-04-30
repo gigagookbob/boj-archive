@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, COSS Division, University, 한양대학교 ERICA 캠퍼스, 2025 한양대학교 ERICA 프로그래밍 경시대회 HEPC, Open Contest, rhdqor213, bsyun0571, bumsoo0515, gi1dong2, hellogaon, jaemkim01, khj20006, kjmin622, putdata, qsccsq22, rasauq1122, sjhi00, skeep194, tony9402",
   "level": 14,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "shortest_path", "dijkstra"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 3.146199941635132

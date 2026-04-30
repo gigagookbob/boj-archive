@@ -19,11 +19,7 @@
   "hint": "<p>아주대학교의 50살을 축하합니다! 그렇다면 APC는 몇살일까요?</p>",
   "source": "University, 아주대학교, 2023 아주대학교 프로그래밍 경시대회 APC, Div.2, gbe0808, akim9905, eaststar, hsh8086, jthis, pani, pjshwa, tlsdydaud1, utilforever",
   "level": 3,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 901,
   "submission_count": null,
   "average_tries": 1.7901999950408936

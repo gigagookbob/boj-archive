@@ -23,13 +23,7 @@
   "hint": "<p>예제 2의 경우에 ab, abab, ababab, abababab가 있다.</p>",
   "source": "baekjoon, dotorya",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set",
-    "kmp"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set", "kmp"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 3.9214000701904297

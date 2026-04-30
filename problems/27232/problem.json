@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Hello, BOJ 2023!, kyo20111, ahgus89, cgiosy, edenooo, gustjwkd1007, hibye1217, jhnah917, jhwest2, junseo, leejseo, man_of_learning, ryute, serin, sharaelong",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "set",
-    "tree_set",
-    "sliding_window"
-  ],
+  "tags": ["data_structures", "set", "tree_set", "sliding_window"],
   "accepted_user_count": 155,
   "submission_count": null,
   "average_tries": 2.0515999794006348

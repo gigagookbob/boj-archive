@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2010 Greater New York Programming Contest, baekjoon",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 3620,
   "submission_count": null,
   "average_tries": 1.8753999471664429

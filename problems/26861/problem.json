@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2021 ICPC Asia Jakarta Regional Contest",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "dp",
-    "segtree",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "dp", "segtree", "sqrt_decomposition"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 4.478300094604492

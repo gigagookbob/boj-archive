@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2022 중앙대학교 프로그래밍 경진대회 (CPC), Division 1, wapas, hibye1217, jh05013, jthis, kclee2172, njw1204, smmaker118, tony9402",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "trees",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "ad_hoc", "trees", "bfs"],
   "accepted_user_count": 60,
   "submission_count": null,
   "average_tries": 3.483299970626831

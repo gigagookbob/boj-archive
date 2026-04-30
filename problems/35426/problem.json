@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2026 SciCom Qualification Test, phoenixrafael, dinojaemin, kdy40929, kky085437, lunarlity, oh040411, pk661, yigzo",
   "level": 17,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.9458999633789062

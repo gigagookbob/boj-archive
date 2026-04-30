@@ -23,12 +23,7 @@
   "hint": "<p>Opis prvog test podatka: Približan primjer onome sa slike u tekstu zadatka. Minimalno rješenje se postiže na sljedećem prolazu: 0 -&gt; 5 na prvoj razini (5 * 3 = 15 jedinica vremena), prelazak na razinu ispod, 5 -&gt; 6 na drugoj razini (1 * 4 = 4 jedinica vremena), prelazak na posljednju razinu, 6 -&gt; 10 (4*3=12 jedinica vremena). Ukupno je to 15+4+12=31 jedinica vremena.</p>\n<p>Opis drugog test podatka: Primjer gdje vrijedi prvo ograničenje iz sekcije bodovanja.</p>\n<p>Opis trećeg test podatka: Primjer gdje vrijedi drugo ograničenje iz sekcije bodovanja.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2016, Junior Croatian Olympiad in Informatics 2016",
   "level": 14,
-  "tags": [
-    "coordinate_compression",
-    "dp",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["coordinate_compression", "dp", "greedy", "sorting"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4.3333001136779785

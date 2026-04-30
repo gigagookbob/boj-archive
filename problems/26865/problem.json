@@ -27,12 +27,7 @@
   "hint": "<p>In the first example test, Cupa should connect computers $2$ and $3$ to the hub, and connect computer $1$ to computer $3$. In this case, $t_1 = 20 + 10 = 30$, $t_2 = 30$, and $t_3 = 10$. The answer is $t_1 + t_2 + t_3 = 70$.</p>\n<p>In the second example test, the computers should be connected in a chain leading to the hub in arbitrary order. The total network latency is $10 + 20 + 30 + 40 + 50 = 150$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 10,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 1.0986000299453735

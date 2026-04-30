@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2013",
   "level": 25,
-  "tags": [
-    "math",
-    "combinatorics",
-    "probability",
-    "calculus"
-  ],
+  "tags": ["math", "combinatorics", "probability", "calculus"],
   "accepted_user_count": 219,
   "submission_count": null,
   "average_tries": 4.6529998779296875

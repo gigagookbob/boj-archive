@@ -19,12 +19,7 @@
   "hint": "<p>소수점 2,000자리 보다 많이 출력하면 출력 초과를 받을 수도 있다.</p>",
   "source": "baekjoon",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 2342,
   "submission_count": null,
   "average_tries": 2.6623001098632812

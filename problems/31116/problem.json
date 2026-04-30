@@ -15,10 +15,7 @@
   "hint": "<p>For the first test case, $c_1 = C_{3, 1} = 1$, $c_2 = C_{1, 2} = 0$, $c_3 = C_{2, 3} = 0$. Only when $i = 1$, $c_i \\neq c_{i + 1}$. Therefore, the permutation $3, 1, 2$ is an almost monochromatic permutation.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 18: Grand Prix of Beijing",
   "level": 22,
-  "tags": [
-    "graphs",
-    "constructive"
-  ],
+  "tags": ["graphs", "constructive"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 2

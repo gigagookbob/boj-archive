@@ -15,12 +15,7 @@
   "hint": "<p>균등분포의 의미는 <a href=\"https://terms.naver.com/entry.naver?docId=3338148\">여기</a>에서 확인하면 된다.</p>",
   "source": "Contest, BOJ User Contest, 미적확통컵, 2022 제1회 미적확통컵, jh05013, ai4youej, azberjibiou, eaststar, heeda0528, kiwiyou, parkky, wider93",
   "level": 10,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "probability",
-    "statistics"
-  ],
+  "tags": ["math", "ad_hoc", "probability", "statistics"],
   "accepted_user_count": 181,
   "submission_count": null,
   "average_tries": 6.8618998527526855

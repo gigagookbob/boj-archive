@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 7: Kazakhstan Contest",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "stack"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

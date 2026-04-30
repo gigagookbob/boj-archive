@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, we can sort the permutation in two swaps. We can make the first swap arbitrarily; for each of them, there’s exactly one optimal second swap. For example, one of the three shortest solutions is “swap p<sub>1</sub> with p<sub>2</sub> and then swap p<sub>1</sub> with p<sub>3</sub>”.</p>\n<p>In the second test case, the optimal solution involves swapping p<sub>1</sub> with p<sub>2</sub> and swapping p<sub>3</sub> with p<sub>4</sub>. We can do these two swaps in either order.</p>\n<p>The third sequence is already sorted. The optimal number of swaps is 0, and thus the only optimal solution is an empty sequence of swaps.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2016",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "combinatorics"
-  ],
+  "tags": ["math", "bruteforcing", "combinatorics"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.2222000360488892

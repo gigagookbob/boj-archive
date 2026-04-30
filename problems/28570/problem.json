@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2021-2022 Season, October 23, 2021",
   "level": 11,
-  "tags": [
-    "graphs",
-    "trees",
-    "degree_sequence"
-  ],
+  "tags": ["graphs", "trees", "degree_sequence"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.6875

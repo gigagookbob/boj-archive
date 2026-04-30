@@ -15,14 +15,7 @@
   "hint": "<p>In the first sample input, one possible password string is \"0ppop0\".<br/>\nIn the second sample input, one possible password string is \"goo0og00gle9o909l3\".</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2012, Round 3",
   "level": 25,
-  "tags": [
-    "euler_tour_technique",
-    "flow",
-    "graphs",
-    "greedy",
-    "mcmf",
-    "trees"
-  ],
+  "tags": ["euler_tour_technique", "flow", "graphs", "greedy", "mcmf", "trees"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3

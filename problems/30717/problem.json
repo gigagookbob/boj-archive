@@ -19,10 +19,7 @@
   "hint": "<p>В первом примере из условия изначально можно поехать только 3 раза. Но если добавить 1 бурль на первую, вторую или третью карточку, то Пафнутий сможет поехать на метро 4 раза.</p>\n<p>Во втором примере 1000 бурлей хватит только для того, чтобы сделать баланс обеих карточек равным 2000 бурлям.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Long Qualification 2018-19",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.2221999168395996

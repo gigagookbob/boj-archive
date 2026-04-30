@@ -19,11 +19,7 @@
   "hint": "<p>Clarification of the second test case:</p>\n<p>Mirko assigns the first task to employee 2, who then assigns it to employee 3, who then does it. For this, employee 3 gets 1 coin, employee 2 gets 2 coins, and employee 1 (Mirko) gets 3 coins. Employee 3 then quits.</p>\n<p>Mirko assigns the second task to employee 2, who then assigns it to employee 4 (because employee 3 quit), who then assigns it to employee 5, who then does it. For this, employee 5 gets 1 coin, employee 4 gets 2 coins, employee 2 gets 3 coins, and employee 1 gets 4 coins. Employee 5 then quits.</p>\n<p>The procedure is repeated for a total of 5 tasks.</p>\n<p>In total, Mirko gets 13 coins, employee 2 gets 8, employee 4 gets 3, and employee 3 and 5 each get 1 coin.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #5",
   "level": 12,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 1.6049000024795532

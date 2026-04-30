@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2022, deuslovelt, eaststar, jthis, tony9402",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "segtree",
-    "pigeonhole_principle"
-  ],
+  "tags": ["data_structures", "ad_hoc", "segtree", "pigeonhole_principle"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 17.111099243164062

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 1996",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "floyd_warshall",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "floyd_warshall", "bellman_ford"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.0464999675750732

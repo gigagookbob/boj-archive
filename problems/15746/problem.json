@@ -15,11 +15,7 @@
   "hint": "<p>This input describes the example directory structure given above.</p>\n<p>The best solution is to be in folder1. From this directory, the relative paths are:</p>\n<pre>\nfile1\nfolder2/file2\n../folder3/file3\n../file4\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 February Contest, Gold",
   "level": 17,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 107,
   "submission_count": null,
   "average_tries": 1.9625999927520752

@@ -23,9 +23,7 @@
   "hint": "<p>Clarification of the third example: If Vera cuts off six lights from the end and zero from the beginning, she obtains the sequence of lights <code>1 5 1 5</code>, in which the pattern <code>1 5</code> repeats twice in a row. If, on the other hand, she cuts off four lights from the beginning and zero from the end, she obtains the sequence of lights <code>2 5 6 2 5 6</code>, in which the pattern <code>2 5 6</code> repeats twice, so this is also a valid solution.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #3",
   "level": 8,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.1110999584197998

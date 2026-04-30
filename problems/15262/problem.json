@@ -15,13 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.png\" style=\"height:157px; width:294px\"/></p>\n<p style=\"text-align:center\">All 4 embeddings of the tree in the example input are given in the figure above.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2017, Contest, Open Cup, 2017/2018 Season, Stage 8: Grand Prix of Europe",
   "level": 26,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "dp_tree",
-    "math",
-    "trees"
-  ],
+  "tags": ["combinatorics", "dp", "dp_tree", "math", "trees"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2

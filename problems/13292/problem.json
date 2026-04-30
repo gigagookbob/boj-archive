@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2016",
   "level": 20,
-  "tags": [
-    "bipartite_matching",
-    "flow",
-    "implementation",
-    "graphs"
-  ],
+  "tags": ["bipartite_matching", "flow", "implementation", "graphs"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.1818000078201294

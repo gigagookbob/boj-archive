@@ -15,11 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:193px; width:209px\" /></p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2005, Day 1, koosaga",
   "level": 19,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["dp", "prefix_sum", "two_pointer"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 2.918600082397461

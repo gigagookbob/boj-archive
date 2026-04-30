@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2003/2004, Stage 3",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "hashing",
-    "hash_set",
-    "math",
-    "set"
-  ],
+  "tags": ["data_structures", "graphs", "hashing", "hash_set", "math", "set"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.625

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, WeissBlume",
   "level": 19,
-  "tags": [
-    "trees",
-    "lca"
-  ],
+  "tags": ["trees", "lca"],
   "accepted_user_count": 1071,
   "submission_count": null,
   "average_tries": 2.11299991607666

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, HotSpot 2011",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "two_pointer"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.299999952316284

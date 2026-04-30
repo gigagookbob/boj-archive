@@ -31,9 +31,7 @@
   "hint": null,
   "source": null,
   "level": 6,
-  "tags": [
-    "string"
-  ],
+  "tags": ["string"],
   "accepted_user_count": 3732,
   "submission_count": null,
   "average_tries": 2.010699987411499

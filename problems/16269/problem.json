@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Third Qualification Round",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "dag",
-    "randomization",
-    "scc"
-  ],
+  "tags": ["dp", "graphs", "dag", "randomization", "scc"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 9.18179988861084

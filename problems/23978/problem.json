@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2021, hyoseok, bsyun0571, hellogaon, hibye1217, jh05013, mksmk606, palilo, pjshwa",
   "level": 11,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "binary_search", "parametric_search"],
   "accepted_user_count": 273,
   "submission_count": null,
   "average_tries": 4.282100200653076

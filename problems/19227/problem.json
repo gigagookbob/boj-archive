@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case of the example, all the icons can be placed on three screens of size $4$: a screen with $4$ icons of the category $1$, a screen with $3$ icons of the category $1$, and a screen with $4$ icons of the category $5$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2019",
   "level": 14,
-  "tags": [
-    "math",
-    "data_structures",
-    "bruteforcing"
-  ],
+  "tags": ["math", "data_structures", "bruteforcing"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.4515999555587769

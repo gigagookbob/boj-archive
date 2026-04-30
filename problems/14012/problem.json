@@ -15,10 +15,7 @@
   "hint": "<p>Dudu starts with 100 money. He can proceed in the following way:</p>\n<ul>\n<li>Pay 80, get 90 back. Now Dudu has 110 money.</li>\n<li>Pay 50, get 70 back. Now Dudu has 130 money.</li>\n<li>Pay 110, get 150 back. Now Dudu has 170 money.</li>\n</ul>",
   "source": "School, Cornell University High School Programming Contest, Cornell University High School Programming Contest 2016",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.5217000246047974

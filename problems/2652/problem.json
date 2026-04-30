@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 1998, 초등부, jh05013, adh0463, jung2381187",
   "level": 15,
-  "tags": [
-    "implementation",
-    "flood_fill"
-  ],
+  "tags": ["implementation", "flood_fill"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 4.951200008392334

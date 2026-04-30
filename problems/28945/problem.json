@@ -19,12 +19,7 @@
   "hint": "<p>В первом тестовом примере из прямоугольника 3 на 4 можно вырезать 12 квадратов со стороной 1, два квадрата со стороной 2, и один квадрат со стороной 3. Итого, 12+2+1=15.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, October 15, 2016, Advanced",
   "level": 14,
-  "tags": [
-    "math",
-    "sorting",
-    "number_theory",
-    "harmonic_number"
-  ],
+  "tags": ["math", "sorting", "number_theory", "harmonic_number"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

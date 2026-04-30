@@ -15,10 +15,7 @@
   "hint": null,
   "source": "baekjoon, dantebald, djm03178, spotky1004",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 42243,
   "submission_count": null,
   "average_tries": 1.942199945449829

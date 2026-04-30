@@ -19,12 +19,7 @@
   "hint": "<p>В первом примере гарантированные результаты игр для всех квадратов выглядят так (квадраты с ловушками выделены):</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 115px; height: 118px;\"/></p>\n<p>Сумма результатов равна: $1 + 1 - 2 + 0 - 2 - 2 + 3 + 0 + 0 = -1$. Ответ равен $(-1) \\bmod 998\\,244\\,353 = -1 + 998\\,244\\,353 = 998\\,144\\,352$.</p>\n<p>В втором примере гарантированные результаты игр для всех квадратов выглядят так (квадраты с ловушками выделены):</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 145px; height: 89px;\"/></p>\n<p>Сумма результатов равна: $1 + 2 + 0 - 3 + 1 + 0 - 3 - 3 = -5$. Ответ равен $(-5) \\bmod 998\\,244\\,353 = 998\\,244\\,348$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2019",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "dp",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["data_structures", "dp", "hash_set", "set"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

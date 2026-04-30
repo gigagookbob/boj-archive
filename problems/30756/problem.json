@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample, one can choose integers $12$ and $16$. In the second sample, $1$ and $10$ form an optimal answer.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2016-17, Day 1",
   "level": 8,
-  "tags": [
-    "string",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["string", "ad_hoc", "constructive"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.25

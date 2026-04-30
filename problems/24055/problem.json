@@ -19,12 +19,7 @@
   "hint": null,
   "source": "MenOfPassion, dk10211, chansol, eric00513, hibye1217, jhnah917, palilo, tony9402",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "segtree",
-    "coordinate_compression"
-  ],
+  "tags": ["data_structures", "sorting", "segtree", "coordinate_compression"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.7635999917984009

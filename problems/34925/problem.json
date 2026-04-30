@@ -23,11 +23,7 @@
   "hint": "<p>답이 커질 수 있으므로 일부 프로그래밍 언어에서는 $64$비트 정수 변수(C/C++: <code>long long</code>, Java: <code>long</code>)를 사용해야 할 수도 있음에 유의하라.</p>",
   "source": "School, 마이폴학교, 슬기로운 마이폴 생활, oh040411, lighter, wizardrabbit, toycartoon, tony9402, terrasphere, qvixnh22, nflight11, mj1000j, lunarlity, amazingtt2, kdy40929, kaorin, hyperbolic, herdson, gs22059, gs18115, dkim110807, djeleanor2, corkd",
   "level": 7,
-  "tags": [
-    "math",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "arithmetic", "case_work"],
   "accepted_user_count": 150,
   "submission_count": null,
   "average_tries": 2.259999990463257

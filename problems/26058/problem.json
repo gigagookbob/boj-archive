@@ -15,12 +15,7 @@
   "hint": "<p>Обратите внимание, что ответ в примере неверен и приведён только для иллюстрации формата. В нём арифметическое выражение соответствует формату, но результат равен $96$, а не $100$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Qualification",
   "level": 9,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive",
-    "arithmetic"
-  ],
+  "tags": ["math", "ad_hoc", "constructive", "arithmetic"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.3889000415802002

@@ -15,11 +15,7 @@
   "hint": "<p>Note that the last sample case would not appear in the Small dataset.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2017, Qualification Round",
   "level": 10,
-  "tags": [
-    "math",
-    "greedy",
-    "string"
-  ],
+  "tags": ["math", "greedy", "string"],
   "accepted_user_count": 223,
   "submission_count": null,
   "average_tries": 1.7309000492095947

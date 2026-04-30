@@ -39,11 +39,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 10,
-  "tags": [
-    "math",
-    "number_theory",
-    "binary_search"
-  ],
+  "tags": ["math", "number_theory", "binary_search"],
   "accepted_user_count": 1006,
   "submission_count": null,
   "average_tries": 2.1689999103546143

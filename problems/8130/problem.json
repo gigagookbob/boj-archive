@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:218px; width:376px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2005/2006, Stage 2",
   "level": 21,
-  "tags": [
-    "constructive",
-    "eulerian_path",
-    "graphs",
-    "math"
-  ],
+  "tags": ["constructive", "eulerian_path", "graphs", "math"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 11.5

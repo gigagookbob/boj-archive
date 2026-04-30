@@ -27,11 +27,7 @@
   "hint": "<p>예제 2의 경우 아래와 같은 8가지 방법이 가능하다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 605px; height: 300px;\"/></p>",
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.191499948501587

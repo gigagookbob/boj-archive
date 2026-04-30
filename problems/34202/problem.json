@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 고등부",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "ad_hoc",
-    "constructive",
-    "stack"
-  ],
+  "tags": ["data_structures", "ad_hoc", "constructive", "stack"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 1.7791999578475952

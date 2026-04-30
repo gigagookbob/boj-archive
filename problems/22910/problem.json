@@ -15,13 +15,7 @@
   "hint": "<p>The first matrygon pictured in the problem statement is an optimal solution for Sample Case #1.</p>\n<p>In Sample Case #2, we can get to two polygons by fitting a regular pentagon (5 sides) inside a regular decagon (10 sides).</p>\n<p>In Sample Case #3, there is no way to create a matrygon with multiple regular polygons, so our only option is to use a single regular tetracontahenagon (41 sides).</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2021, Round 2",
   "level": 17,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["dp", "math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.375

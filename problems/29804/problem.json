@@ -15,13 +15,7 @@
   "hint": "<p>In Sample Case #1, simply repeating the west command until reaching the finish is a viable strategy. Each time there is a $1/2$ probability of reaching the finish and a $1/2$ probability of staying in the same place. Thus, the probability of not reaching the finish in $10^{101}$ or fewer steps is $2^{-10^{101}} \\lt 10^{-10^{100}}$.</p>\n<p>In Sample Case #2 a similar strategy as in Sample Case #1 can be used to get the car from any position in the top row (1) to any other with probability as high as desired, and similarly for all non-wall positions in the third row from the top (2). Analogously, but using the south command, the car can move between non-wall positions on the third column from the left (3). From both <code>a</code> and <code>c</code> we can use (1) to get to the third column from the left, then (3) to get right next to <code>Y</code> and then (2) to get to <code>Y</code> making both <code>aY</code> and <code>cY</code> drivable. Notice, however, that safely using the north or south commands from the third row can only be done in the third column, or otherwise the car may go into a hazard. Therefore, there is no safe way to move the car from the third to the fourth row, making <code>aX</code> and <code>cX</code> not drivable. From <code>b</code>, however, the car can use a similar strategy to get to <code>X</code>, and from <code>X</code> the car can get to <code>Y</code> by using the north or south command repeatedly (and stop when reaching <code>Y</code>, never risking going into the hazard above). Finally, the finish <code>Z</code> is completely isolated, so it cannot be part of a drivable pair.</p>\n<p>In Sample Case #3, every path from the interesting start to the interesting finish goes through a hazard, which makes the pair not drivable.</p>\n<p>In Sample Case #4, only the interesting start <code>d</code> has a viable strategy to get to the finish <code>F</code>.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round D",
   "level": 27,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "probability",
-    "grid_graph"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "probability", "grid_graph"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 4

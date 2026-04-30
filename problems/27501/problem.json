@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2023 ICPC Sinchon Winter Algorithm Camp Contest, 중급, dreami63, eaststar, man_of_learning, pinebananais, tae826, ystaeyoon113",
   "level": 15,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "traceback"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "traceback"],
   "accepted_user_count": 275,
   "submission_count": null,
   "average_tries": 2.276400089263916

@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2017",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bitmask", "dp_bitfield"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

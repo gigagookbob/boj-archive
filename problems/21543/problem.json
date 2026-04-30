@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2013",
   "level": 22,
-  "tags": [
-    "divide_and_conquer",
-    "prefix_sum"
-  ],
+  "tags": ["divide_and_conquer", "prefix_sum"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.142899990081787

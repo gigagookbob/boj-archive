@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, East Central North America Regional, 2016 East Central Regional Contest",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque", "queue"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.850000023841858

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Google's Coding Competitions, EuroPython 2011, EuroPython 2011",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "string"
-  ],
+  "tags": ["bruteforcing", "string"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.75

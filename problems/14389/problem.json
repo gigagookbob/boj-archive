@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, doju, jh05013",
   "level": 19,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 149,
   "submission_count": null,
   "average_tries": 2.302000045776367

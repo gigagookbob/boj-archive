@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2022 중앙대학교 프로그래밍 경진대회 (CPC), Division 1, saywoo, jh05013, jthis, kclee2172, smmaker118",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 215,
   "submission_count": null,
   "average_tries": 2.358099937438965

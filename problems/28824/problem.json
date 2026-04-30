@@ -23,10 +23,7 @@
   "hint": "<p>В первом примере каждый нюхль способен дотянуться до кнопки своего этажа, поэтому им не придется ходить по лестнице.</p>\n<p>Во втором примере нюхль может дотянуться только до кнопки третьего этажа, поэтому один этаж ему придется пройти пешком.</p>\n<p>В третьем примере первый нюхль может нажимать на кнопки, нужные остальным нюхлям, довезти их до нужных этажей, после чего сам доехать до нужного ему этажа.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 24, 2018, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, November 24, 2018, Advanced",
   "level": 11,
-  "tags": [
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["sorting", "prefix_sum"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.625

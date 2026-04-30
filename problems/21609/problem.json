@@ -23,13 +23,7 @@
   "hint": null,
   "source": "baekjoon, 16silver, Green55",
   "level": 15,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation", "bfs"],
   "accepted_user_count": 4259,
   "submission_count": null,
   "average_tries": 2.654099941253662

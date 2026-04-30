@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2020",
   "level": 17,
-  "tags": [
-    "math",
-    "string",
-    "exponentiation_by_squaring",
-    "kmp"
-  ],
+  "tags": ["math", "string", "exponentiation_by_squaring", "kmp"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.25

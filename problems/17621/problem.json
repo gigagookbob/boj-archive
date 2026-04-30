@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2019 2차대회, 중등부",
   "level": 19,
-  "tags": [
-    "implementation",
-    "data_structures"
-  ],
+  "tags": ["implementation", "data_structures"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 4.622399806976318

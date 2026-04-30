@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Southeast USA Regional, 2024 Southeast USA Regional Programming Contest, Division 1, ICPC, Regionals, North America, South Central USA Regional, 2024 South Central USA Regional Contest, Division 1, ICPC, Regionals, North America, Mid-Atlantic Regional, 2024 Mid-Atlantic USA Regional Contest, Division 1",
   "level": 16,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

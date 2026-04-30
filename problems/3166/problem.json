@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2006, National Competition #1 - Seniors",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "sparse_table"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "sparse_table"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 3

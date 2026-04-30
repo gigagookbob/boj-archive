@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2025",
   "level": 23,
-  "tags": [
-    "math",
-    "combinatorics",
-    "divide_and_conquer",
-    "probability",
-    "fft"
-  ],
+  "tags": ["math", "combinatorics", "divide_and_conquer", "probability", "fft"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1

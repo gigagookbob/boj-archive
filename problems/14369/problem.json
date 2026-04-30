@@ -15,11 +15,7 @@
   "hint": "<p>ZERO ONE TWO의 철자를 잘 배열하면 OZONETOWER가 나온다.</p>\r\n",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 1B, jh05013, jaehoo1",
   "level": 11,
-  "tags": [
-    "string",
-    "bruteforcing",
-    "ad_hoc"
-  ],
+  "tags": ["string", "bruteforcing", "ad_hoc"],
   "accepted_user_count": 490,
   "submission_count": null,
   "average_tries": 1.857100009918213

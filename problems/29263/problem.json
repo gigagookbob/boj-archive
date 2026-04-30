@@ -15,9 +15,7 @@
   "hint": "<p>Решения, работающие для $n = 1$, будут оцениваться в $60$ баллов.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, December 21, 2013",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.2352999448776245

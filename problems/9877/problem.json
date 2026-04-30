@@ -15,12 +15,7 @@
   "hint": "<h4>Input Details</h4><p>The ski course is described by a 3 x 5 grid of elevations.  The upper-left and lower-right cells are designated as starting points.  From each starting point, we must be able to reach at least 10 cells.</p><h4>Output Details</h4><p>The difficulty rating of the upper-left starting point is 4, and for the lower-right it is 20.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO January 2014 Contest, Gold",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "binary_search",
-    "disjoint_set",
-    "pbs"
-  ],
+  "tags": ["data_structures", "binary_search", "disjoint_set", "pbs"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 2.161799907684326

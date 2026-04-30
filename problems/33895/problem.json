@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2025 아주대학교 프로그래밍 경시대회 APC, Open Contest, pani, akim9905, bnb2011, golazcc83, js9028, jthis, lky7674, mujigae, silvester71, tlsdydaud1, ystaeyoon113",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["data_structures", "segtree", "game_theory", "sprague_grundy"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.300000190734863

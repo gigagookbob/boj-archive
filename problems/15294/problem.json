@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2017, lego0901",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "hld"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "hld"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 3.59089994430542

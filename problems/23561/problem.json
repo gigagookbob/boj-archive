@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 제주대학교, 2021 하반기 취업 알고리즘 집중특강 및 해커톤 대회, junie, cozyyg, gravekper",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 542,
   "submission_count": null,
   "average_tries": 1.669700026512146

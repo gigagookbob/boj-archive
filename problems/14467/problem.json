@@ -15,9 +15,7 @@
   "hint": "<p>3번 소는 위치 1, 0, 1에서 관찰되었으므로 길을 최소 두 번 건넜음을 확인할 수 있다. 4번 소도 길을 한 번 건넜으며, 나머지 소는 길을 건넌 기록이 확인되지 않는다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 February Contest, Bronze, jh05013",
   "level": 5,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 5520,
   "submission_count": null,
   "average_tries": 1.6130000352859497

@@ -23,10 +23,7 @@
   "hint": "<p>커피는 종류별로 하나씩 준비되어 있기 때문에, 동일한 커피를 여러 개 마실 수 없음에 유의하라.</p>",
   "source": "University, 연세대학교 미래캠퍼스, 2021 연세대학교 미래캠퍼스 제2회 슬기로운 코딩생활, wookje, jhnah917",
   "level": 11,
-  "tags": [
-    "dp",
-    "knapsack"
-  ],
+  "tags": ["dp", "knapsack"],
   "accepted_user_count": 872,
   "submission_count": null,
   "average_tries": 2.6031999588012695

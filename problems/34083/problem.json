@@ -19,11 +19,7 @@
   "hint": "<p>어떤 두 순서쌍 $(x_1, x_2, \\cdots, x_M)$과 $(y_1, y_2, \\cdots, y_M$)이 서로 다르다는 것은 $x_i \\neq y_i$인 $i$가 존재함과 동치이다.</p>",
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2기 -chinoaww는 피드백이 아니에요-, flakepowders, djm03178, hyperbolic, kdy40929, ksoosung77, oh040411, wizardrabbit",
   "level": 16,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.7027000188827515

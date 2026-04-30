@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2017, RCC 2017 Seconcd Qualification Round",
   "level": 22,
-  "tags": [
-    "prefix_sum",
-    "offline_queries",
-    "sqrt_decomposition",
-    "mo"
-  ],
+  "tags": ["prefix_sum", "offline_queries", "sqrt_decomposition", "mo"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 5.6458001136779785

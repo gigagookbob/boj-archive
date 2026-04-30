@@ -15,10 +15,7 @@
   "hint": "<p>Here are the 12 possible tilings for the first sample case:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 500px; height: 169px;\"/></p>",
   "source": "University, Rutgers University, Rutgers University Programming Contest Spring 2025",
   "level": 14,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.833299994468689

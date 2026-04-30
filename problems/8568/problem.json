@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2001",
   "level": 19,
-  "tags": [
-    "grid_graph",
-    "bipartite_matching"
-  ],
+  "tags": ["grid_graph", "bipartite_matching"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.2999999523162842

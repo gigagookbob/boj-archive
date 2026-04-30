@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, there are only two monsters, and they are equally strong. In this situation, MechaGodzilla’s monster is killed and the war ends.</p>\n<p>In the second test case, the war will consist of three battles, and in each of them one of Godzilla’s monsters dies.</p>",
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2008",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.2418999671936035

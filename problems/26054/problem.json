@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2022",
   "level": 13,
-  "tags": [
-    "coordinate_compression",
-    "dp",
-    "greedy",
-    "math",
-    "sorting"
-  ],
+  "tags": ["coordinate_compression", "dp", "greedy", "math", "sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.736799955368042

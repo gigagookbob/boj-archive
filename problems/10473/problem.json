@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ACM-ICPC North America Qualifier 2014, tae",
   "level": 14,
-  "tags": [
-    "graphs",
-    "geometry",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "geometry", "shortest_path", "dijkstra"],
   "accepted_user_count": 941,
   "submission_count": null,
   "average_tries": 1.9680999517440796

@@ -15,10 +15,7 @@
   "hint": "<p>Chores must be completed in at most 6 minutes. There are 3 chores available. The first chore takes 3 minutes. The second chore takes 6 minutes. The third chore takes 3 minutes. The answer is 2 since only 2 of these chores can be completed in 6 minutes of time. Specifically, the first and last chore can be completed in the allowable time. It is not possible to complete all 3 chores in 6 minutes.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2013, CCC 2013 Junior Division",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 169,
   "submission_count": null,
   "average_tries": 1.4200999736785889

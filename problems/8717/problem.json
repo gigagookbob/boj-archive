@@ -15,10 +15,7 @@
   "hint": "<p> </p>\n<p>Jaś może przeciąć taśmę po czwartej liczbie 1, 2, 3, 4|5, 6, czyli wartość bezwględna z różnicy pomiędzy dwoma kawałkami wynosi |(1 + 2 + 3 + 4) - (5 + 6)| = 1.</p>",
   "source": "Camp, ILOCAMP Science Camps, ILOCAMP 2010 (Beginner Group)",
   "level": 5,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 112,
   "submission_count": null,
   "average_tries": 2.1607000827789307

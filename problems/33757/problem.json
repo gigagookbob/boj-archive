@@ -15,12 +15,7 @@
   "hint": "<p>동작이 주어지기 전 논리식은 <strong><code>0&amp;1&amp;1|0|1|1&amp;1</code></strong> 입니다. 각 동작 후 논리식과 대응되는 논리값은 다음과 같습니다.</p>\n<ol>\n<li><strong><code>0&amp;1&amp;1|0|0|1&amp;1</code></strong>: 대응되는 논리값이 <strong><code>1</code></strong> 입니다.</li>\n<li><strong><code>0&amp;0&amp;1|0|0|1&amp;1</code></strong>: 대응되는 논리값이 <strong><code>1</code></strong> 입니다.</li>\n<li><strong><code>1&amp;0&amp;1|0|0|1&amp;1</code></strong>: 대응되는 논리값이 <strong><code>1</code></strong> 입니다.</li>\n<li><strong><code>1&amp;0&amp;1|0|0|0&amp;1</code></strong>: 대응되는 논리값이 <strong><code>0</code></strong> 입니다.</li>\n<li><strong><code>1&amp;0&amp;1|0|0|0&amp;0</code></strong>: 대응되는 논리값이 <strong><code>0</code></strong> 입니다.</li>\n<li><strong><code>1&amp;1&amp;1|0|0|0&amp;0</code></strong>: 대응되는 논리값이 <strong><code>1</code></strong> 입니다.</li>\n<li><strong><code>1&amp;1&amp;1|1|0|0&amp;0</code></strong>: 대응되는 논리값이 <strong><code>1</code></strong> 입니다.</li>\n</ol>",
   "source": "Contest, 한국정보기술진흥원, 제4회 청소년 IT경시대회, 초등부, Contest, 한국정보기술진흥원, 제4회 청소년 IT경시대회, 고등부, hjroh0315",
   "level": 13,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "bitmask"
-  ],
+  "tags": ["implementation", "data_structures", "set", "bitmask"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.885699987411499

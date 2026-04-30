@@ -15,10 +15,7 @@
   "hint": "<p>In this example, Bessie is clearly the cow of height 3. FJ return the cows to sorted order using three swaps as described below:</p>\n<pre>\n2 4 7 7 9 3 - Original Lineup\n2 4 7 7 3 9 - Swap the last two cows\n2 4 3 7 7 9 - Swap the first 7 and 3\n2 3 4 7 7 9 - Swap 4 and 3\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 January Contest, Bronze, tongnamuu",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 315,
   "submission_count": null,
   "average_tries": 2.3714001178741455

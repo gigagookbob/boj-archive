@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 정보 알고리즘경시대회, 2020 선린 정보 알고리즘경시대회, leejseo",
   "level": 21,
-  "tags": [
-    "graphs",
-    "constructive",
-    "heuristics"
-  ],
+  "tags": ["graphs", "constructive", "heuristics"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 5.2778000831604

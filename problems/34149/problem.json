@@ -10,10 +10,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Div.1, School, 경기과학고등학교, 나는코더다 반년대회, 나는코더다 2025 반년대회, Open Contest, dkim110807, sleepyknight, denniskim, gs22123, iccodly, kuhyaku, lighton, sadtreap",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "bitmask"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.125

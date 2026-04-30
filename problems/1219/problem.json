@@ -35,12 +35,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, typhoon, djm03178, gkgg123, sait2000",
   "level": 16,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "graph_traversal", "shortest_path", "bellman_ford"],
   "accepted_user_count": 3060,
   "submission_count": null,
   "average_tries": 4.971199989318848

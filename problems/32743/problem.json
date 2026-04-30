@@ -23,10 +23,7 @@
   "hint": "<p>In the first test case of the first test, $n=1$. Since there is only one distinct permutation of size $1$, there is no solution.</p>\n<p>In the second test case of the first test, $n=2$ and there are no restrictions that need to be satisfied. So $p = [1,\\, 2]$ and $q = [2,\\,1]$ is a valid solution.</p>",
   "source": "University, Rutgers University, Rutgers Programming Contest Fall 2024",
   "level": 15,
-  "tags": [
-    "graphs",
-    "ad_hoc"
-  ],
+  "tags": ["graphs", "ad_hoc"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.7778000831604004

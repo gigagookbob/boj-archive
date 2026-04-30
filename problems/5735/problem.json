@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2007, kks227",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "trees",
-    "trie",
-    "aho_corasick"
-  ],
+  "tags": ["data_structures", "trees", "trie", "aho_corasick"],
   "accepted_user_count": 181,
   "submission_count": null,
   "average_tries": 3.359100103378296

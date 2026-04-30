@@ -19,11 +19,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, kdr06006, dongwon0427",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "maximum_subarray"
-  ],
+  "tags": ["data_structures", "segtree", "maximum_subarray"],
   "accepted_user_count": 503,
   "submission_count": null,
   "average_tries": 3.5446999073028564

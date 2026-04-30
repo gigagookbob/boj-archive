@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2016 전북대 프로그래밍 경진대회, yukariko",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["math", "implementation", "bruteforcing"],
   "accepted_user_count": 725,
   "submission_count": null,
   "average_tries": 2.499300003051758

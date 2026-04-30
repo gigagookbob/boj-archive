@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2002/2003, Stage 2, koosaga",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "disjoint_set",
-    "graphs",
-    "segtree"
-  ],
+  "tags": ["data_structures", "disjoint_set", "graphs", "segtree"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.363600015640259

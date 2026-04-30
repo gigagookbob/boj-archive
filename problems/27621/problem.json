@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2021 연습 세션, ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2022 연습 세션, ICPC, Regionals, Asia Pacific, Asia Pacific Championship, The 2025 ICPC Asia Pacific Championship 연습 세션",
   "level": 3,
-  "tags": [
-    "implementation",
-    "precomputation"
-  ],
+  "tags": ["implementation", "precomputation"],
   "accepted_user_count": 213,
   "submission_count": null,
   "average_tries": 1.7934000492095947

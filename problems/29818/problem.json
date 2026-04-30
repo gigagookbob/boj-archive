@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2023 HPEC (Hanyang Programming Evaluation Contest), Intermediate, bsheep0304, hansoyo, hibye1217, jjaewon9, jrdora, myyh1234, opusdeisong",
   "level": 16,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.5555999279022217

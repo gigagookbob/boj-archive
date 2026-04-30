@@ -27,10 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, Asia Regional 2008 - Kuala Lumpur, baekjoon, gumgood, mwy3055, waylight3, doju, gilsu91, jane22th, nisroeld99, purpose, skynet",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 15087,
   "submission_count": null,
   "average_tries": 1.9779000282287598

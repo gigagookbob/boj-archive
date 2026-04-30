@@ -23,9 +23,7 @@
   "hint": null,
   "source": "edecudo",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 237921,
   "submission_count": null,
   "average_tries": 1.9991999864578247

@@ -19,12 +19,7 @@
   "hint": "<p>In the first input, we start with $x = 1$. Then, we can take the first integer from the first list and get $x = 0$ --- adding the next integer $2$ from the first list we get $x = 2$. After that, we can add the integers from the second list and obtain $x = 3$. Finally, we can add the integers from the third list and obtain $x = 4$.</p>\n<p>In the second input, we can add the first integer from the second list and get $x = 2$. Then, by adding the elements from the first list, we get $x = 4$. We cannot add more integers to increase $x$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2023",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue",
-    "queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue", "queue"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.5651999711990356

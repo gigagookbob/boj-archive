@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the third example: The numbers $3$, $4$, $6$, $10$ can be represented as $0011$, $0100$, $0110$, $1010$, in binary. Numbers $3$ and $4$ differ at $3$ places, same as numbers $4$ and $10$. On the other hand, the number $6$ differs in at most $2$ places with all other numbers.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2022/2023, Contest #5",
   "level": 19,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "bitmask"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "bitmask"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 1.7856999635696411

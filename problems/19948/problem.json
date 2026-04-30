@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2020 IGRUS Newbie Programming Contest, panda959595, chobe1, gsts007, gunwookim, rhs0266, saemy90, tyoungs, zxcvber",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 439,
   "submission_count": null,
   "average_tries": 3.8861000537872314

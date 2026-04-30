@@ -15,10 +15,7 @@
   "hint": "<p>Jedynymi liczbami naturalnymi n z przedziału [5000, 10000] spełniającymi równanie dla k = 51 są 7293, 7854 i 7905.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2015",
   "level": 11,
-  "tags": [
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["bruteforcing", "math"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.9565000534057617

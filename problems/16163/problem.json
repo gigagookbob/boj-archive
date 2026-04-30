@@ -15,10 +15,7 @@
   "hint": "<p>부분 문자열은 원래 문자열에서 연속해야 해요! 즉 <img alt=\"`\" src=\"4.png\" style=\"width: 0px; display: inline;\"/><code>AA</code><img alt=\"`\" src=\"4.png\" style=\"width: 0px; display: inline;\"/>는 <img alt=\"`\" src=\"4.png\" style=\"width: 0px; display: inline;\"/><code>ABCBA</code><img alt=\"`\" src=\"4.png\" style=\"width: 0px; display: inline;\"/>의 부분문자열이 아니에요.</p>\n<p>부분 문자열을 가져온 위치가 다르면 다른 문자열로 할게요! 그러니까 예제에서 회문 <img alt=\"`\" src=\"4.png\" style=\"width: 0px; display: inline;\"/><code>A</code><img alt=\"`\" src=\"4.png\" style=\"width: 0px; display: inline;\"/>는 두 번 세어졌어요.</p>\n<p>이 문제는 실화예요ㅠㅠㅠ</p>",
   "source": "kipa00",
   "level": 16,
-  "tags": [
-    "string",
-    "manacher"
-  ],
+  "tags": ["string", "manacher"],
   "accepted_user_count": 966,
   "submission_count": null,
   "average_tries": 2.3986001014709473

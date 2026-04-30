@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 플로우컵, 제1회 플로우컵, eric00513, kipa00, leejseo, rhs0266",
   "level": 19,
-  "tags": [
-    "math",
-    "geometry",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "geometry", "arbitrary_precision"],
   "accepted_user_count": 268,
   "submission_count": null,
   "average_tries": 6.026100158691406

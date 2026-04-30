@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2015 Mid-Atlantic Regional Programming Contest",
   "level": 11,
-  "tags": [
-    "case_work",
-    "implementation"
-  ],
+  "tags": ["case_work", "implementation"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.6363999843597412

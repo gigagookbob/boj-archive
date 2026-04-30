@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: OPG 1 osvojio je dva boda, OPG 2 tri boda i OPG 3 četiri boda. OPG 1 dao je OPG-u 2 jedan bod, isto koliko je i OPG 2 dao njemu. Isto tako je OPG 2 dao OPG-u 3 dva boda, koliko i OPG 3 njemu. Zbog toga su obrisani bodovi koje su dodijelila sva tri OPG-a i nakon toga svi OPG-ovi imaju nula bodova pa je, zbog pravila o u slučaju dijeljenja bodova, poredak 1, 2, 3.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2022, Junior Croatian Olympiad in Informatics 2022",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.0870000123977661

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2021 Asia Yokohama Regional",
   "level": 23,
-  "tags": [
-    "fft",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["fft", "math", "number_theory"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3

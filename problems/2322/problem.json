@@ -23,10 +23,7 @@
   "hint": null,
   "source": "kcan1416",
   "level": 20,
-  "tags": [
-    "greedy",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["greedy", "permutation_cycle_decomposition"],
   "accepted_user_count": 405,
   "submission_count": null,
   "average_tries": 1.9778000116348267

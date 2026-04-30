@@ -23,11 +23,7 @@
   "hint": "<p>치노의 생일은 12월 4일이다.</p>",
   "source": "Contest, BOJ User Contest, 아니메컵, 아니메컵 2기 -chinoaww는 피드백이 아니에요-, ibm2006, djm03178, flakepowders, hyperbolic, iluem100, kdy40929, ksoosung77, minchan_bae, oh040411, pyb1031, wizardrabbit",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy",
-    "combinatorics"
-  ],
+  "tags": ["math", "greedy", "combinatorics"],
   "accepted_user_count": 121,
   "submission_count": null,
   "average_tries": 2.272700071334839

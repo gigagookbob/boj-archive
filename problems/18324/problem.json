@@ -15,11 +15,7 @@
   "hint": "<p>When $X = 1$, an optimal solution is:</p>\n<ol>\n<li>Increase speed to 1 m/s, travel 1 meter</li>\n<li>Increase speed to 2 m/s, travel 2 meters, for a total of 3 meters</li>\n<li>Keep speed at 2 m/s, travel 5 meters total</li>\n<li>Keep speed at 2 m/s, travel 7 meters total</li>\n<li>Keep speed at 2 m/s, travel 9 meters total</li>\n<li>Decrease speed to 1 m/s, travel 10 meters total</li>\n</ol>\n<p>When $X = 3$, an optimal solution is:</p>\n<ol>\n<li>Increase speed to 1 m/s, travel 1 meter</li>\n<li>Increase speed to 2 m/s, travel 3 meters total</li>\n<li>Increase speed to 3 m/s, travel 6 meters total</li>\n<li>Keep speed at 3 m/s, travel 9 meters total</li>\n<li>Keep speed at 3 m/s, travel 12 meters total</li>\n</ol>\n<p>Note that the following is illegal when $X = 3$:</p>\n<ol>\n<li>Increase speed to 1 m/s, travel 1 meter</li>\n<li>Increase speed to 2 m/s, travel 3 meters total</li>\n<li>Increase speed to 3 m/s, travel 6 meters total</li>\n<li>Increase speed to 4 m/s, travel 10 meters total</li>\n</ol>\n<p>This is because at the instant when Bessie has finished running 10 meters, her speed is 4 m/s.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2019-2020 Season, USACO 2020 January Contest, Bronze",
   "level": 13,
-  "tags": [
-    "math",
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["math", "greedy", "binary_search"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 2.1231000423431396

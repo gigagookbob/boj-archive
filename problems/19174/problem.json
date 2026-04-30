@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 5: U of Wroclaw Contest",
   "level": 14,
-  "tags": [
-    "constructive",
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["constructive", "dfs", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

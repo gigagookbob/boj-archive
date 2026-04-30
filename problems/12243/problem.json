@@ -15,11 +15,7 @@
   "hint": "<p>Note that the fifth sample case does not meet the limits for the Small input. Even if you don't solve it correctly, you might still have solved the Small input correctly.</p>\n<p>Explanation of sample cases</p>\n<p>In the first sample case, Vida could have a 1/1 Elf parent and a 0/1 Elf parent. That means she could have had a 1/1 Elf one generation ago, so the answer is 1.</p>\n<p>In the second sample case, Vida could have had a 1/1 Elf parent and a 1/2 Elf parent. That means she could have had a 1/1 Elf one generation ago, so the answer is 1.</p>\n<p>In the third sample case, Vida could have had a 0/1 Elf parent and a 1/2 Elf parent. The 1/2 Elf parent could have had a 1/1 Elf parent and a 0/1 Elf parent. That means she could have had a 1/1 Elf two generations ago, so the answer is 2.</p>\n<p>In the fourth sample case, it's impossible to be exactly 2/23 Elf if your ancestors 40 generations ago were all 0/1 Elf or 1/1 Elf.</p>\n<p>Note</p>\n<p>Yes, Vida has a lot of ancestors. If that is the part of the problem that seems the most unrealistic to you, please re-read the part about Elves.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2014, Round 1C",
   "level": 9,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "euclidean"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7418999671936035

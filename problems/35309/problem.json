@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2026. 01-02., lunarlity, chogahui05, jthis, utilforever",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "greedy", "stack"],
   "accepted_user_count": 69,
   "submission_count": null,
   "average_tries": 2.1013998985290527

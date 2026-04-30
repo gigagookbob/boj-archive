@@ -15,14 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 139px; height: 38px;\"/></p>\n<p>In the first test case only replicas of service 2 run on directly connected machines, so the performance is 1. The performance can be increased to 2 by swapping replicas between machines 1 and 3.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 102px; height: 153px;\"/></p>\n<p>In the second test case no two replicas run on directly connected machines, so the performance is zero. The performance can be increased to 3 by performing swaps $1-5$, $8-3$, and $4-7$ so that replicas of services 2, 3, and 4 run on directly connected machines. It can be shown that it is impossible to get performance 4 here.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 102px; height: 116px;\"/></p>\n<p>In the third test case only replicas of service 1 run on directly connected machines, so the performance is 1. It is obvious that here the performance cannot be made any bigger.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2024",
   "level": 20,
-  "tags": [
-    "implementation",
-    "dp",
-    "greedy",
-    "ad_hoc",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["implementation", "dp", "greedy", "ad_hoc", "trees", "dp_tree"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.25

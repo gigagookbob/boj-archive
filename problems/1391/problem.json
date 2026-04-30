@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2003, baekjoon, doju",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "ad_hoc",
-    "stack"
-  ],
+  "tags": ["data_structures", "sorting", "ad_hoc", "stack"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.670199990272522

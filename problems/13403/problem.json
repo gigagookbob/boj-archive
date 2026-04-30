@@ -39,11 +39,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Asia Regional Contest 2016 in Tsukuba, Camp, Petrozavodsk Programming Camp, Winter 2017, Day 8: Japanese Contest",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "parsing",
-    "string"
-  ],
+  "tags": ["bruteforcing", "parsing", "string"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.5

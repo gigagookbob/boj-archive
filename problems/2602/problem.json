@@ -23,9 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2004, 고등부, jureaky, kdk8361, moonhi123, silvercube, 112224",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 2522,
   "submission_count": null,
   "average_tries": 1.9362000226974487

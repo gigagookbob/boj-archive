@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2007 Mid-Central Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "implementation",
-    "parsing",
-    "string"
-  ],
+  "tags": ["implementation", "parsing", "string"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.2000000476837158

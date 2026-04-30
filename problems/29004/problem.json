@@ -15,12 +15,7 @@
   "hint": "<p>Различные мегазорды из первого примера: $101+11+13$, $52+23+31$, $52+23+31$. Последний мегазорд встречается дважды, так как красный ренжер мог взять либо второй, либо третий зорд. Обратите внимание, что собрать мегазорд $11+11+13$ нельзя, так как при этом одна и та же модель будет использована дважны.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, March 19, 2017",
   "level": 19,
-  "tags": [
-    "math",
-    "combinatorics",
-    "case_work",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "combinatorics", "case_work", "inclusion_and_exclusion"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

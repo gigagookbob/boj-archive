@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2014/2015 Spring Training Camp",
   "level": 26,
-  "tags": [
-    "dp",
-    "greedy",
-    "string",
-    "case_work"
-  ],
+  "tags": ["dp", "greedy", "string", "case_work"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.4444000720977783

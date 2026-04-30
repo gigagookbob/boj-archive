@@ -23,10 +23,7 @@
   "hint": "<p>First, Heidi can buy the three items that cost $200$ in a single transaction for $400$ (she gets one of them for free). Then she can purchase the three items that cost $300$ for $600$ (again, one is free). Finally, she can purchase the last remaining item (with cost $100$) with a $10\\%$ discount.</p>\n<p>In the second example test, if Heidi buys all three items in a single transaction, she receives discount of $100$. However, if she buys each item individually, her discount will be $(1000 + 500 + 100) \\cdot 20 / 100 = 320$.</p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2021, Day 2",
   "level": 12,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 39,
   "submission_count": null,
   "average_tries": 1.7691999673843384

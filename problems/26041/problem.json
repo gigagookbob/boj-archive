@@ -23,10 +23,7 @@
   "hint": null,
   "source": "MenOfPassion, eric00513, lms0806, riroan, sait2000, tony9402",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 483,
   "submission_count": null,
   "average_tries": 1.635599970817566

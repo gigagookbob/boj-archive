@@ -15,10 +15,7 @@
   "hint": "<p>채점 서버는 libstdc++를 사용하여 지구이의 코드를 컴파일했다.</p>",
   "source": "Contest, BOJ User Contest, 꼬마컵, 꼬마컵, zlzmsrhak, kipa00",
   "level": 14,
-  "tags": [
-    "sorting",
-    "constructive"
-  ],
+  "tags": ["sorting", "constructive"],
   "accepted_user_count": 432,
   "submission_count": null,
   "average_tries": 2.585599899291992

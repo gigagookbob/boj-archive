@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제11회 한양대학교 프로그래밍 경시대회(HCPC), Advanced Division, myyh1234, gunwookim, heeda0528, ingyu1008, jk410, juneharold, junseo, mjhmjh1104, ramzxc, thak00, tlsdydaud1",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "lis"
-  ],
+  "tags": ["binary_search", "lis"],
   "accepted_user_count": 136,
   "submission_count": null,
   "average_tries": 1.8529000282287598

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, GENIUSainta.com - oj.uz Contest, GA4",
   "level": 13,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 3.3352999687194824

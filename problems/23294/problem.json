@@ -23,12 +23,7 @@
   "hint": "<p>아래 그림은 에제 입력 1을 나타내고 있다.</p>\n<p>파란색 도형 안에 괄호 밖 숫자는 페이지의 번호를, 괄호 안 숫자는 해당 페이지가 사용하는 캐시 공간의 크기이다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>",
   "source": "University, 아주대학교, 2021 아주대학교 프로그래밍 경시대회 APC, Div.1, hjhj97, rhs0266, spectaclehong, wjdclgns12, yjyj1027",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 323,
   "submission_count": null,
   "average_tries": 3.430299997329712

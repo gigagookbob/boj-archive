@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2011",
   "level": 12,
-  "tags": [
-    "math",
-    "constructive"
-  ],
+  "tags": ["math", "constructive"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.4544999599456787

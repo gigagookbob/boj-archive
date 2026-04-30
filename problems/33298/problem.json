@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case, the first meeting starts at the start of hour $1$ and goes on for one hour until the start of hour $2$. After that, your boss takes a break of one hour until he attends the third meeting from the start of hour $3$ to $4$. Then, he takes another one hour break until he finally attends the second meeting, which happens from the start of hour $5$ to $6$.</p>\n<p>Note that it is <strong>not</strong> possible to start the third meeting at the start of hour $4$ as this meeting would end at $5$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2024, Day 5: Der Kontest",
   "level": 26,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 5.5

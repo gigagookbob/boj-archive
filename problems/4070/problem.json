@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, East Central North America Regional, 2006 East Central Regional Contest",
   "level": 6,
-  "tags": [
-    "implementation",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["implementation", "greedy", "sorting"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.141200065612793

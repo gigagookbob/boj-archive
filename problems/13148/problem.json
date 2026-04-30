@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2016",
   "level": 22,
-  "tags": [
-    "bfs",
-    "bidirectional_search",
-    "graphs",
-    "graph_traversal",
-    "mitm"
-  ],
+  "tags": ["bfs", "bidirectional_search", "graphs", "graph_traversal", "mitm"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 6.296299934387207

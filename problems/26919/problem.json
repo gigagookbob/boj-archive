@@ -27,14 +27,7 @@
   "hint": "<p>I det första indataexemplet så är <code>1 2 1 3 3</code> en giltig lösning. Detta kan verifieras genom att se att alla tal ligger på intervallet $[1, 3]$, och att talen uppfyller de fyra relationerna $a_1 &lt; a_2$, $a_2 &lt; a_4$, $a_3 &lt; a_2$ och $a_2 &lt; a_5$.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2014, KATT",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "constructive",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["dp", "graphs", "constructive", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3.5

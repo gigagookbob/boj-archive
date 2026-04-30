@@ -15,11 +15,7 @@
   "hint": "<p>Bessie is twice as fast as Elsie on each path, but if Bessie takes the path 1-&gt;2-&gt;3 and Elsie takes the path 1-&gt;3 they will arrive at the same time.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO January 2015 Contest, Silver",
   "level": 13,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.308500051498413

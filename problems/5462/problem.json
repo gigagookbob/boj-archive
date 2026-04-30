@@ -15,10 +15,7 @@
   "hint": "<p>1번 문제를 풀지 못한 사람은 1명, 2번 문제를 풀지 못한 사람은 2명, 3번 문제를 풀지 못한 사람은 4명이기 때문에, 각 문제의 점수는 1,2,4점이다. 이에 따라 1번 참가자는 4점을 획득하고, 2번 참가자 (필립), 4번, 5번 참가자는 3점을 획득하고, 3번 참가자는 1점을 획득한다.</p>\r\n\r\n<p>필립보다 많은 점수를 획득한 사람은 1명, 필립과 점수가 같으며 많은 문제를 푼 사람은 0명이기 때문에, 필립의 등수는 2등이다.</p>\r\n",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2009, Day 1, koosaga, chan4928",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 326,
   "submission_count": null,
   "average_tries": 1.8833999633789062

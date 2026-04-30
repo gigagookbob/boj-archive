@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Fall 2008: It's a Zoo",
   "level": 12,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.4000000953674316

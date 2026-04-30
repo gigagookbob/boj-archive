@@ -31,13 +31,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2006, author11, gojib2002, ntopia, bupjae, harinboy",
   "level": 19,
-  "tags": [
-    "math",
-    "dp",
-    "bitmask",
-    "probability",
-    "dp_bitfield"
-  ],
+  "tags": ["math", "dp", "bitmask", "probability", "dp_bitfield"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 6.307700157165527

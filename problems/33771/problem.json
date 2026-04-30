@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2024-2025 Season, USACO 2025 US Open Contest, Bronze",
   "level": 17,
-  "tags": [
-    "dp",
-    "ad_hoc",
-    "binary_search"
-  ],
+  "tags": ["dp", "ad_hoc", "binary_search"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.5713999271392822

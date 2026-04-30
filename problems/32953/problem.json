@@ -19,12 +19,7 @@
   "hint": "<p>서울사이버대학교에서 한 반의 학생수는 최대 $240$명이고, 학부생의 학번은 $1$로 시작한다.</p>",
   "source": "University, 서울사이버대학교, 2024 서울사이버대학교 프로그래밍 경진대회 (SCUPC), oldos, cgiosy, cologne, junseo, jychun, kyo20111",
   "level": 5,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["implementation", "data_structures", "set", "hash_set"],
   "accepted_user_count": 573,
   "submission_count": null,
   "average_tries": 1.3402999639511108

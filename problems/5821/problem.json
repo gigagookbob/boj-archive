@@ -15,11 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 521px; height: 93px;\"/></p>\n<p style=\"text-align: center;\">쌀 창고</p>\n<p>이 경우에는 창고의 위치에 대한 여러 개의 최적 위치가 있다: 10 이상 14 이하의 어느 정수 위치에든지 쌀 창고를 둘 수 있다. 위의 그림은 최적 위치들 중의 하나를 보여준다. 이 경우 10 과 12, 14 의 위치에 있는 논으로부터 쌀들을 옮길 수 있다. 어떤 최적의 창고 위치에 대해서든지, 쌀의 총 수송 비용은 6 바트 이하이다. 세 개보다 많은 논으로부터 쌀을 모을 수 있는 창고의 위치는 존재하지 않으므로, 이 답이 최적이고, besthub 은 3 을 리턴 해야 한다.</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2011, Day 1",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "prefix_sum", "two_pointer"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 2.750999927520752

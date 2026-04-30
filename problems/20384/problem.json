@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 1993 Mid-Central Regional Programming Contest",
   "level": 7,
-  "tags": [
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["bruteforcing", "implementation"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.2799999713897705

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2019",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "exponentiation_by_squaring",
-    "berlekamp_massey"
-  ],
+  "tags": ["math", "dp", "exponentiation_by_squaring", "berlekamp_massey"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.2258000373840332

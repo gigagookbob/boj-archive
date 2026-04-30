@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2004, lonelycomputer94, joon_at_playground",
   "level": 7,
-  "tags": [
-    "implementation",
-    "set"
-  ],
+  "tags": ["implementation", "set"],
   "accepted_user_count": 926,
   "submission_count": null,
   "average_tries": 1.7353999614715576

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2023 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2023 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, aym506, 39dll, eaststar, gumgood, jthis, wjdclgns12, yooshnn",
   "level": 10,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "deque"],
   "accepted_user_count": 358,
   "submission_count": null,
   "average_tries": 3.371500015258789

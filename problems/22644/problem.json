@@ -19,12 +19,7 @@
   "hint": "<p>This problem statement is taken from \"How I Wonder What You Are!\" in ACM-ICPC Asia Regional Contest 2006, Yokohoma, with small but substantial changes.</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Camp, JAG Winter Camp 2009 Day 2",
   "level": 22,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "geometry_3d",
-    "min_enclosing_circle"
-  ],
+  "tags": ["bruteforcing", "geometry", "geometry_3d", "min_enclosing_circle"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

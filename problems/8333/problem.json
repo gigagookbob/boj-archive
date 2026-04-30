@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2009",
   "level": 25,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "geometry_3d"
-  ],
+  "tags": ["geometry", "convex_hull", "geometry_3d"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 3.875

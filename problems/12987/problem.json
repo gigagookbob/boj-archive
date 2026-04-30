@@ -15,10 +15,7 @@
   "hint": "<p>나머지 연산의 결과는 0 또는 양수이어야 한다.</p>",
   "source": null,
   "level": 15,
-  "tags": [
-    "math",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "exponentiation_by_squaring"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 3.1038999557495117

@@ -23,10 +23,7 @@
   "hint": "<p>Пояснение для последнего примера:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 331px; height: 295px;\"/></p>\n<p>Сплошными линиями обозначены расширения первого треугольника, пунктирными --- второго.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2009-2010 Season, March 20, 2010",
   "level": 14,
-  "tags": [
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["geometry", "line_intersection"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

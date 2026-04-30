@@ -19,12 +19,7 @@
   "hint": "<p>$\\operatorname{gcd}(d_1, \\cdots, d_K)$는 $d_1, \\cdots, d_K$의 공통된 약수 중 가장 큰 양의 정수를 뜻하고, $\\operatorname{lcm}(d_1, \\cdots, d_K)$는 공통된 배수 중 가장 작은 양의 정수를 뜻한다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2024, khj20006, bsyun0571, gi1dong2, hellogaon, hyoseok, iccodly, putdata, qsccsq22, rasauq1122, rhdqor213, thdwlsdn030818, tony9402, tyoungs, yijw0930",
   "level": 8,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "constructive"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 2.3099000453948975

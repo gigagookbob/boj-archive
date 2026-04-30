@@ -35,13 +35,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, JOI 2022/2023",
   "level": 27,
-  "tags": [
-    "case_work",
-    "data_structures",
-    "dp",
-    "implementation",
-    "segtree"
-  ],
+  "tags": ["case_work", "data_structures", "dp", "implementation", "segtree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 10.16670036315918

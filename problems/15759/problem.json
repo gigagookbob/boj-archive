@@ -15,11 +15,7 @@
   "hint": "<p>In this example, the best talent-to-weight ratio overall would be to use just the single cow with talent 11 and weight 10, but since we need at least 15 units of weight, the optimal solution ends up being to use this cow plus the cow with talent 21 and weight 20. This gives a talent-to-weight ratio of (11+21)/(10+20) = 32/30 = 1.0666666..., which when multiplied by 1000 and floored gives 1066.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2018 US Open Contest, Gold, jame0313",
   "level": 18,
-  "tags": [
-    "dp",
-    "parametric_search",
-    "knapsack"
-  ],
+  "tags": ["dp", "parametric_search", "knapsack"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 3.327399969100952

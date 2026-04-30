@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2019",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["data_structures", "greedy", "tree_set", "set"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.0655999183654785

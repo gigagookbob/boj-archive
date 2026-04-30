@@ -15,12 +15,7 @@
   "hint": "<p>Your friend takes two of the 100-calorie candies, for a total of 200 calories. You keep the remaining candies, which have 126 calories.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2008, CCO 2008",
   "level": 17,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "knapsack"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "knapsack"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 5.900000095367432

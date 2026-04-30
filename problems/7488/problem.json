@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, All-Ukrainian Collegiate Programming Contest, AUCPC Semi-Final 2010, pichulia",
   "level": 19,
-  "tags": [
-    "math",
-    "sorting",
-    "sweeping",
-    "difference_array",
-    "physics"
-  ],
+  "tags": ["math", "sorting", "sweeping", "difference_array", "physics"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.6666998863220215

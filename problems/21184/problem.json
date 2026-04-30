@@ -27,10 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North Central North America Regional, NCNA 2019",
   "level": 16,
-  "tags": [
-    "math",
-    "backtracking"
-  ],
+  "tags": ["math", "backtracking"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -27,11 +27,7 @@
   "hint": "<p><img alt=\"\" src=\"1.png\" style=\"height:148px; width:555px\"/></p>\n<p>Pictures show the first three examples. Marked circles denote original statues, empty circles denote new equidistant places, arrows denote movement plans for existing statues.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2006, koosaga",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy",
-    "ad_hoc"
-  ],
+  "tags": ["math", "greedy", "ad_hoc"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.3783999681472778

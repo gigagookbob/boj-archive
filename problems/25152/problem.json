@@ -23,10 +23,7 @@
   "hint": "<p>Pojašnjenje prvog test podatka: Ovo je jedan od mogućih labirinta unutar kojeg postoji samo jedan put opisan u tekstu zadatka. Primjerice, moguće je i sljedeće rješenje:</p>\n<pre>\n4 4\n0001\n0101\n1001\n0100</pre>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2017, Junior Croatian Olympiad in Informatics 2017",
   "level": 18,
-  "tags": [
-    "bitmask",
-    "constructive"
-  ],
+  "tags": ["bitmask", "constructive"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.8461999893188477

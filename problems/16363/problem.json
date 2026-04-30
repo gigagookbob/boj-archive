@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2018",
   "level": 19,
-  "tags": [
-    "calculus",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["calculus", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.830199956893921

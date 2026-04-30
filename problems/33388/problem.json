@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2023, Day 6: olmrgcsi And His Friends’ Contest",
   "level": 23,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield",
-    "difference_array"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield", "difference_array"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.7142999172210693

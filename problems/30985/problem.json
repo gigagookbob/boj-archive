@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 파댕이컵, 파댕이컵, invrtd_h, ksoosung77, qvixnh22, utilforever",
   "level": 13,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 179,
   "submission_count": null,
   "average_tries": 2.9049999713897705

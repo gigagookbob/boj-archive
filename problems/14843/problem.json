@@ -15,12 +15,7 @@
   "hint": null,
   "source": "hwangjemin, jh05013",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 220,
   "submission_count": null,
   "average_tries": 4.563600063323975

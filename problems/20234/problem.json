@@ -15,10 +15,7 @@
   "hint": "<p>Initial card ordering in the example was $3$ $1$ $2$ (that is, the card on position $1$ had number $3$ on it, the card on position $2$ had number $1$, and the card on position $3$ had number $2$).</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2020-2021 North-Western Russia Regional Contest",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "sorting"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 3.2142999172210693

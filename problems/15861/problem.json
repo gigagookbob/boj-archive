@@ -23,11 +23,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 441px; height: 250px;\"/></p>\n<p>The first example is illustrated in the figure above. The upper part shows the initial love situation, where an arrow pointing from s to t indicates that s initially loves t, and the pink color highlights the three characters that needs to be shot with love arrows in the unique optimal solution. The lower part shows the situation afterwards.</p>\n<p>In the second example (which satisfies the constraints of group 3), there are several optimal solutions. One of them is to shoot a, b and d with love arrows, and have them fall in love with b, a and c, respectively.</p>\n<p>In the third example, we have a love triangle, where no matter how many love arrows we shoot, someone will always be left out.</p>",
   "source": ", Olympiad, Baltic Olympiad in Informatics, BOI 2018",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.3889000415802

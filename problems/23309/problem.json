@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2021 연세대학교 프로그래밍 경진대회, lky7674, chogahui05, cs71107, Juno, Picasso, tony9402, yjyj1027, ystaeyoon113",
   "level": 12,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "linked_list"],
   "accepted_user_count": 872,
   "submission_count": null,
   "average_tries": 4.3566999435424805

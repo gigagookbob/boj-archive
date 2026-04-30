@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2021",
   "level": 23,
-  "tags": [
-    "geometry",
-    "graphs",
-    "line_intersection",
-    "planar_graph"
-  ],
+  "tags": ["geometry", "graphs", "line_intersection", "planar_graph"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3.5

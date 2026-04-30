@@ -15,12 +15,7 @@
   "hint": "<p>In Sample Case #1, <b>L</b> = 3, <b>A</b> = <code>ABB</code>, and <b>B</b> = <code>BAB</code> There are 6 substrings of <b>A</b>:</p>\n<ul>\n<li><code>A</code>. The substring <code>A</code> in <b>B</b> is (trivially) an anagram.</li>\n<li><code>B</code>. The substring <code>B</code> in <b>B</b> is (trivially) an anagram.</li>\n<li><code>B</code>. The substring <code>B</code> in <b>B</b> is (trivially) an anagram.</li>\n<li><code>AB</code>. The substring <code>AB</code> in <b>B</b> is (trivially) an anagram.</li>\n<li><code>BB</code>. There is no corresponding anagrammatic substring in <b>B</b>.</li>\n<li><code>ABB</code>. The substring <code>BAB</code> in <b>B</b> is an anagram.</li>\n</ul>\n<p>In total, there are 5 substrings with a corresponding anagrammatic substring in <b>B</b>, so the answer is 5.</p>\n<p>In Sample Case #2, note that it is the same as Sample Case #1, except that <b>A</b> and <b>B</b> are swapped. This changes the answer to 6!</p>\n<p>In Sample Case #3, note that the substring <code>CAT</code> in <b>A</b> has the corresponding substring <code>TAC</code> in <b>B</b> which is an anagram. This still counts, even though the strings are at different indices in their respective strings.</p>\n<p>In Sample Case #4, note that although the substring <code>SUB</code> in <b>A</b> has several corresponding substrings in <b>B</b> which are anagrams, it only counts once.</p>\n<p>In Sample Case #5, note that every substring of <b>A</b> has a corresponding anagrammatic substring in <b>B</b>, so the answer is 10.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2018, Round F",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["bruteforcing", "data_structures", "hash_set", "set"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.1713999509811401

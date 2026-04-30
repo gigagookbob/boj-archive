@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2022 SciCom Qualification Test, kyo20111, 79brue, andyjung2104, qwerasdfzxcl",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "geometry", "case_work"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.899999976158142

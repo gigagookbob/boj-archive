@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 1995/1996, Stage 2",
   "level": 15,
-  "tags": [
-    "arbitrary_precision",
-    "dp"
-  ],
+  "tags": ["arbitrary_precision", "dp"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.8333001136779785

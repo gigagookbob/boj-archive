@@ -15,10 +15,7 @@
   "hint": "<iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" src=\"1.png\" width=\"560\"></iframe>",
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 48274,
   "submission_count": null,
   "average_tries": 2.0971999168395996

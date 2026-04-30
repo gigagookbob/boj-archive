@@ -23,10 +23,7 @@
   "hint": "<p>Consider the first sample test. Note that 70 students want to take exam on the third day, but only 24 students can take exam on days 2, 3, and 4. So the answer is at least 2.</p>\n<p>One of the ways to move the students in the first sample test so that no student is moved more than 2 days from his desired day is the following.</p>\n<ul>\n<li>$6, 14, 70, 1$ --- initial schedule of students;</li>\n<li>$6, 70, 14, 1$ --- move all students from the third day to the second day, and all students from the second day to the third day;</li>\n<li>$70, 6, 14, 1$ --- move all students from the second day to the first day, and all students from the first day to the second day;</li>\n<li>$70, 6, 11, 4$ --- move three students from the third day to the fourth day;</li>\n<li>$70, 3, 14, 4$ --- move three students from the second day to the third day;</li>\n</ul>\n<p>Note that each student was moved no more than two days from their initial position in the schedule.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2021",
   "level": 17,
-  "tags": [
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["greedy", "binary_search"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

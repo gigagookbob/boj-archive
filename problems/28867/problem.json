@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2017-2018 Season, October 21, 2017, Advanced",
   "level": 11,
-  "tags": [
-    "math",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["math", "sorting", "two_pointer"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.2222000360488892

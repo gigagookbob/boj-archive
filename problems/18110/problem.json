@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 서강대학교, Sogang Programming Contest, 2019 Sogang Programming Contest, Champion, shiftpsh, hongjwan, sait2000, jh05013, kipa00",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["math", "implementation", "sorting"],
   "accepted_user_count": 15929,
   "submission_count": null,
   "average_tries": 3.887399911880493

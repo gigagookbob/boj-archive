@@ -15,9 +15,7 @@
   "hint": "<p>Na kartce Bajtusia mogła być jedna z następujących 50 par liczb: (0, 112), (1, 111), (2, 110), (3, 19), (4, 18), (5, 17), (6, 16), (7, 15), (8, 14), (9, 13), (10, 102), (11, 101), (12, 100), (13, 9), (14, 8), (15, 7), (16, 6), (17, 5), (18, 4), (19, 3), (20, 92), (21, 91), (22, 90), (30, 82), (31, 81), (32, 80), (40, 72), (41, 71), (42, 70), (50, 62), (51, 61), (52, 60), (60, 52), (61, 51), (62, 50), (70, 42), (71, 41), (72, 40), (80, 32), (81, 31), (82, 30), (90, 22), (91, 21), (92, 20), (100, 12), (101, 11), (102, 10), (110, 2), (111, 1) oraz (112, 0).</p>\n<p>Zauważ, że na przykład pary (3, 19) i (19, 3) liczą się oddzielnie, ponieważ interesują nas uporządkowane pary.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2019",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.7000000476837158

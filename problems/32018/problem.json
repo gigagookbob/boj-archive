@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2018 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, Southern California Regional, 2018 Southern California Regional",
   "level": 22,
-  "tags": [
-    "sweeping",
-    "parametric_search"
-  ],
+  "tags": ["sweeping", "parametric_search"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.3636000156402588

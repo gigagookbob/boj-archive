@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2010, Qualification",
   "level": 8,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "lca"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "lca"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 1.097599983215332

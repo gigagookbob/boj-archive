@@ -23,12 +23,7 @@
   "hint": null,
   "source": "wider93, bubbler, dhyang24, wapas",
   "level": 21,
-  "tags": [
-    "bitset",
-    "dp",
-    "knapsack",
-    "math"
-  ],
+  "tags": ["bitset", "dp", "knapsack", "math"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.899999976158142

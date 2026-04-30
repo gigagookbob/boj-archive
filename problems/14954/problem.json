@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Daejeon 2017, ten_ability",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "set",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "set", "arithmetic", "simulation"],
   "accepted_user_count": 1385,
   "submission_count": null,
   "average_tries": 1.739400029182434

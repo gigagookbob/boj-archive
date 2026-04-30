@@ -15,11 +15,7 @@
   "hint": "<p>Cases #1 and #2 are explained above.</p>\n<p>In Case #3, bulbs at odd indices are always blue, and bulbs at even indices are always red, so there are half a million blue bulbs between positions 1 and 10<sup>6</sup>.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round E APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round E",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 108,
   "submission_count": null,
   "average_tries": 1.4443999528884888

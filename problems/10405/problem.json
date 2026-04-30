@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2014",
   "level": 14,
-  "tags": [
-    "combinatorics",
-    "math",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["combinatorics", "math", "permutation_cycle_decomposition"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

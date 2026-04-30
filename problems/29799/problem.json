@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/></p>\n<p>In Sample Case #1, there is only one possible interesting triplet: $(5, 3, 4)$. Indeed, we can verify that:</p>\n<ol>\n<li>Species $b = 3$ is an ancestor of species $a = 5$.</li>\n<li>Species $b = 3$ is not an ancestor of species $c = 4$.</li>\n<li>The score of species $b = 3$ is more than $\\mathbf{K}$ times higher than the scores of both $a = 5$ and $c = 4$: $6 = \\mathbf{S_3} \\ge \\mathbf{K} \\times \\max(\\mathbf{S_4}, \\mathbf{S_5}) + 1 = 2 \\times \\max(2, 2) + 1 = 5$.</li>\n</ol>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p>In Sample Case #2, there are seven interesting triplets:</p>\n<ul>\n<li>$(4, 3, 1)$</li>\n<li>$(4, 3, 6)$</li>\n<li>$(4, 7, 1)$</li>\n<li>$(4, 7, 5)$</li>\n<li>$(4, 7, 6)$</li>\n<li>$(5, 3, 1)$</li>\n<li>$(5, 3, 6)$</li>\n</ul>",
   "source": "Contest, Google, Code Jam, Google Code Jam Farewell Round, Round C",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "euler_tour_technique"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "euler_tour_technique"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

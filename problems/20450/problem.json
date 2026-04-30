@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics 2018",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "binary_search",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "binary_search", "stack"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2143000364303589

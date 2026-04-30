@@ -15,10 +15,7 @@
   "hint": "<p>영어 대문자 알파벳 26개의 획수는 순서대로 3, 2, 1, 2, 3, 3, 2, 3, 3, 2, 2, 1, 2, 2, 1, 2, 2, 2, 1, 2, 1, 1, 1, 2, 2, 1 로 정한다. (출제자가 알파벳 대문자를 쓰는 방법이 기준이다)</p>",
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2017 송년대회, kdh9949",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 2441,
   "submission_count": null,
   "average_tries": 1.7226999998092651

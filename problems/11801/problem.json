@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, the only way to make the sum 10, is to use the following subset of coins (2, 2, 6), but this isn’t valid because there are 2 coins with value 2 and 1 coin with value 6.</p>\n<p>In the second test case, the following are the 5 different ways: (1, 1, 1, 1, 1, 1, 1, 1, 1, 1), (2, 2, 2, 2, 2), (2, 2, 3, 3), (1, 1, 4, 4), (1, 2, 3, 4).</p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2014 Arab Collegiate Programming Contest",
   "level": 15,
-  "tags": [
-    "dp",
-    "sorting",
-    "knapsack"
-  ],
+  "tags": ["dp", "sorting", "knapsack"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 1.8935999870300293

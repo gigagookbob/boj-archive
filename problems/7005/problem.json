@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 3 March, 2013, ICPC, Regionals, North America, East Central North America Regional, 2000 East Central Regional Contest",
   "level": 11,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["implementation", "ad_hoc", "geometry", "geometry_3d"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 3.1538000106811523

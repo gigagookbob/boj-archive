@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2014",
   "level": 19,
-  "tags": [
-    "calculus",
-    "implementation",
-    "math",
-    "ternary_search"
-  ],
+  "tags": ["calculus", "implementation", "math", "ternary_search"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 3

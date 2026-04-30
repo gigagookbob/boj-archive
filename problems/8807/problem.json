@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, FallSpot 2010",
   "level": 11,
-  "tags": [
-    "sorting",
-    "sweeping"
-  ],
+  "tags": ["sorting", "sweeping"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.7200000286102295

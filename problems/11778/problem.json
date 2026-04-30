@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon, kdh9949",
   "level": 16,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring", "euclidean"],
   "accepted_user_count": 1396,
   "submission_count": null,
   "average_tries": 2.401900053024292

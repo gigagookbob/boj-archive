@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제1회 보라매컵 본선, 99asdfg, asdarwin03, eaststar, eric00513, gangminson, kiwiyou, max804, mjhmjh1104, tony9402",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 131,
   "submission_count": null,
   "average_tries": 2.328200101852417

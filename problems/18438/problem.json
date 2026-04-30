@@ -19,13 +19,7 @@
   "hint": null,
   "source": "koosaga",
   "level": 25,
-  "tags": [
-    "dp",
-    "divide_and_conquer",
-    "traceback",
-    "lcs",
-    "hirschberg"
-  ],
+  "tags": ["dp", "divide_and_conquer", "traceback", "lcs", "hirschberg"],
   "accepted_user_count": 424,
   "submission_count": null,
   "average_tries": 2.7476000785827637

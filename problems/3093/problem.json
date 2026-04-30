@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2011, Final Exam #2, baekjoon",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "string",
-    "rope"
-  ],
+  "tags": ["data_structures", "string", "rope"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.8387000560760498

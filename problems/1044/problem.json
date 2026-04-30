@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "set",
-    "bitmask",
-    "mitm"
-  ],
+  "tags": ["set", "bitmask", "mitm"],
   "accepted_user_count": 381,
   "submission_count": null,
   "average_tries": 5.496099948883057

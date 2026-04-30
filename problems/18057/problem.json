@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2019",
   "level": 22,
-  "tags": [
-    "dfs",
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["dfs", "graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 7.400000095367432

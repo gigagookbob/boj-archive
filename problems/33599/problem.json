@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, European Championship, The 2025 ICPC European Championship",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "set"
-  ],
+  "tags": ["math", "greedy", "set"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.61899995803833

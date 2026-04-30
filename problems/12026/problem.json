@@ -35,9 +35,7 @@
   "hint": null,
   "source": "baekjoon, doju, jh05013, djm03178",
   "level": 10,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 2341,
   "submission_count": null,
   "average_tries": 1.5827000141143799

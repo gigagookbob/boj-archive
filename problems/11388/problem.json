@@ -15,11 +15,7 @@
   "hint": "<p>모든 물체를 먹는 것이 최선이다.</p>\n<ul>\n<li>세 번째 물체만 먹으면 5 × 1 = 5점</li>\n<li>두 번째, 세 번째 물체만 먹으면 ( - 1) × 1 + 5 × 2 = 9점</li>\n<li>모든 물체를 먹는다면 ( - 1) × 1 + ( - 1) × 2 + 5 × 3 = 12점</li>\n</ul>",
   "source": "Contest, kriiicon, 제3회 kriiicon, august14",
   "level": 18,
-  "tags": [
-    "dp",
-    "greedy",
-    "cht"
-  ],
+  "tags": ["dp", "greedy", "cht"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 2.8125

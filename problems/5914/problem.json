@@ -15,9 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>There are 5 cows, with IDs 10, 20, 30, 40, and 50. In each of the 5 photos, a different cow moves to the front of the line (at most one cow moves in each photo here, but it is possible in other inputs that multiple cows could move in a particular photo).</p>\n<h4>Output Details</h4>\n<p>The correct original ordering A[1..5] is 10, 20, 30, 40, 50.</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO December 2011 Contest, Gold, Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO December 2011 Contest, Silver",
   "level": 17,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 134,
   "submission_count": null,
   "average_tries": 1.8432999849319458

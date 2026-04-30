@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2011, baekjoon, corea, doju, jh05013",
   "level": 18,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 4.80649995803833

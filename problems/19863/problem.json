@@ -15,12 +15,7 @@
   "hint": "<p>В первых трех операциях $s_1$, $s_2$ и $s_3$ совпавдают с соответствующими строками во вводе. Поскольку $k_3 = 1$, то для четвертой операции $s_4$ получается из строки $x_4=\\mbox{&lt;&lt;<code>dabdab</code>&gt;&gt;}$ циклическим сдвигом влево на 1, таким образом, в четвертой операции в массив $D$ добавляется строка $s_4=\\mbox{&lt;&lt;<code>abdabd</code>&gt;&gt;}$. Наконец, $k_4 = 0$, поэтому $s_5 = x_5$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2016",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "string",
-    "trees",
-    "trie"
-  ],
+  "tags": ["data_structures", "string", "trees", "trie"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

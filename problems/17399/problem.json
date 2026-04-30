@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, Open Contest, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 중급반, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 고급반, windflower, WeissBlume",
   "level": 19,
-  "tags": [
-    "trees",
-    "lca"
-  ],
+  "tags": ["trees", "lca"],
   "accepted_user_count": 553,
   "submission_count": null,
   "average_tries": 2.6854000091552734

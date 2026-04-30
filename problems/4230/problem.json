@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 29 September, 2007, mitslll, khj94811, kks227",
   "level": 19,
-  "tags": [
-    "graphs",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "scc", "2_sat"],
   "accepted_user_count": 106,
   "submission_count": null,
   "average_tries": 5.839600086212158

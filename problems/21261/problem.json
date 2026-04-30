@@ -15,12 +15,7 @@
   "hint": "<p>For the first operation the players will play a game of stones consisting of $1$, $2$, $1$ and $1$ stone(s) in each pile respectively. The only winning play for Kotori is reduce the pile with $2$ stones to $1$ stone.</p>\n<p>After the second operation, number of stones in the candidate piles changes to $1$, $3$, $3$, $4$ and $1$ respectively.</p>\n<p>For the fourth operation the players will play a game of stones consisting of $1$, $3$, $3$, $4$ and $4$ stone(s) in each pile respectively. The winning plays for Kotori is to reduce the pile with $1$ stone to $0$ stone, or to reduce any pile with $3$ stones to $2$ stones.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 9: Grand Prix of Nanjing, Division 1",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "game_theory",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "game_theory", "lazyprop", "segtree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.333299994468689

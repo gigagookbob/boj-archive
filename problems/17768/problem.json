@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2016",
   "level": 14,
-  "tags": [
-    "constructive",
-    "dp",
-    "math",
-    "string"
-  ],
+  "tags": ["constructive", "dp", "math", "string"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 6

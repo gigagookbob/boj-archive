@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2016 Greater New York Programming Contest",
   "level": 13,
-  "tags": [
-    "backtracking"
-  ],
+  "tags": ["backtracking"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.3333001136779785

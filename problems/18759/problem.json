@@ -15,12 +15,7 @@
   "hint": "<p>Note that the sample output is incorrect.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 9: Yuhao Du Contest 7, Contest, Open Cup, 2019/2020 Season, Stage 12: Grand Prix of Zhejiang",
   "level": 24,
-  "tags": [
-    "math",
-    "geometry",
-    "constructive",
-    "linear_algebra"
-  ],
+  "tags": ["math", "geometry", "constructive", "linear_algebra"],
   "accepted_user_count": 44,
   "submission_count": null,
   "average_tries": 4.454500198364258

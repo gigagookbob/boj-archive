@@ -15,9 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2009, Online Qualification",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 1.1021000146865845

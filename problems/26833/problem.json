@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Robocik znajdzie się w punkcie (3, 2) po 6 i 22 sekundach od włączenia. Poniższy rysunek przedstawia trasę robocika:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 256px; height: 258px;\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2018/2019, Stage 1",
   "level": 19,
-  "tags": [
-    "math",
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "case_work"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

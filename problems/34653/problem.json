@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2025 KAIST 15th ICPC Mock Competition, University, MIT, The MIT Programming Contest, 2025-26, MIT Team Contest 2, flappybird, ai4youej, bnb2011, imeimi2000, johnny8337, koosaga, mon_de2738, qwerasdfzxcl, silverwolf, swoon",
   "level": 18,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "binary_search", "convex_hull"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.4909000396728516

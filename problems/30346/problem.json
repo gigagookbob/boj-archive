@@ -19,12 +19,7 @@
   "hint": null,
   "source": "byeongkeunahn, nflight11, ufshg, wider93, ychangseok",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "linear_algebra",
-    "gaussian_elimination"
-  ],
+  "tags": ["math", "graphs", "linear_algebra", "gaussian_elimination"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.416700005531311

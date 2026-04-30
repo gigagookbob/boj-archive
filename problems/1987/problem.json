@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2002, Regional Competition - Juniors, august14, doju, jh05013, xotjr5132",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs",
-    "backtracking",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs", "backtracking", "grid_graph"],
   "accepted_user_count": 30179,
   "submission_count": null,
   "average_tries": 3.411099910736084

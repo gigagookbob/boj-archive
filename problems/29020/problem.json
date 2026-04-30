@@ -15,10 +15,7 @@
   "hint": "<p>最初のデータセットでは，ゲーム 1，ゲーム 2，ゲーム 1 の順番で遊んだとき，楽しさの合計が <i>10 + 1 + 10 = 21</i> となる．</p>\n<p>二番目のデータセットでは，ゲーム 1 を三日連続で遊んだとき，楽しさの合計が <i>10 + 9 + 8 = 27</i> となる．</p>",
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2023",
   "level": 14,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 4

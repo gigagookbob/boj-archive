@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2008 Mid-Atlantic Regional Programming Contest",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "sorting",
-    "stack"
-  ],
+  "tags": ["data_structures", "priority_queue", "sorting", "stack"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, DGIST, 2024 DGIST 알고리즘 경진대회, 99asdfg, jinhan814, jyheo98, leo020630, sjhi00, tlsdydaud1, yyyy7089",
   "level": 18,
-  "tags": [
-    "greedy",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["greedy", "ad_hoc", "case_work"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.8333001136779785

@@ -27,11 +27,7 @@
   "hint": null,
   "source": "baekjoon, 79brue",
   "level": 19,
-  "tags": [
-    "dp",
-    "binary_search",
-    "set"
-  ],
+  "tags": ["dp", "binary_search", "set"],
   "accepted_user_count": 230,
   "submission_count": null,
   "average_tries": 4.039100170135498

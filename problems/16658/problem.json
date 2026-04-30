@@ -27,10 +27,7 @@
   "hint": "<p>In the first example, Kolya will remove keyboards 4 and 5 in any order, and Kostya will remove keyboards 1 and 2 in any order. Thus, keyboard 3 will be chosen.</p>\n<p>In the second example, both of them like keyboard 1, so they will remove all other keyboards in any order.</p>\n<p>In the third example, the only optimal move for Kolya is to remove keyboard 1 on his turn. Kostya will choose between keyboards 2 and 3, and since keyboard 3 is better for him, he will remove keyboard 2.</p>\n<p>In the fourth example, a simple search through all possible moves shows that Kolya cannot force keyboard 4 to be chosen, and the answer is 1.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2018",
   "level": 27,
-  "tags": [
-    "ad_hoc",
-    "game_theory"
-  ],
+  "tags": ["ad_hoc", "game_theory"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 4

@@ -15,12 +15,7 @@
   "hint": "<p>1번 학생 혼자 팀, 2, 4, 6번 학생 셋이서 팀, 3, 5번 학생 둘이서 팀일 때, 팀의 개수가 최대이다.</p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2003, author5, jugol, Green55",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "graph_traversal",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "graphs", "graph_traversal", "disjoint_set"],
   "accepted_user_count": 1223,
   "submission_count": null,
   "average_tries": 2.0416998863220215

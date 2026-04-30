@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2021, pentagon03, artichoke42, cgiosy, jyheo98",
   "level": 7,
-  "tags": [
-    "math",
-    "prefix_sum"
-  ],
+  "tags": ["math", "prefix_sum"],
   "accepted_user_count": 1024,
   "submission_count": null,
   "average_tries": 2.8915998935699463

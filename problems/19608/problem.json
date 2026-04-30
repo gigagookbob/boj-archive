@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2020, CCC 2020 Senior Division, kcm1700",
   "level": 18,
-  "tags": [
-    "hashing",
-    "rabin_karp",
-    "string"
-  ],
+  "tags": ["hashing", "rabin_karp", "string"],
   "accepted_user_count": 102,
   "submission_count": null,
   "average_tries": 5.5391998291015625

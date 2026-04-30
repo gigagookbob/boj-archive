@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 한양대학교, 제12회 한양대학교 프로그래밍 경시대회(HCPC), Beginner Division, jsj0412, 0xchaser, 79brue, hibye1217, jthis, leo020630, mathtw1030, myyh1234, pizzaroot, sadtreap, terrasphere, tlsdydaud1",
   "level": 10,
-  "tags": [
-    "graphs"
-  ],
+  "tags": ["graphs"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 1.6957000494003296

@@ -15,9 +15,7 @@
   "hint": "<h4>Input Details</h4><p>Four cows placed in positions: -2, -12, 3, and 7.</p><h4>Output Details</h4><p>The optimal visit order is -2, 3, 7, -12. FJ arrives at position -2 in 2 minutes for a total of 2 dollars in damage for that cow.</p><p>He then travels to position 3 (distance: 5) where the cumulative damage is 2 + 5 = 7 dollars for that cow.</p><p>He spends 4 more minutes to get to 7 at a cost of 7 + 4 = 11 dollars for that cow.</p><p>Finally, he spends 19 minutes to go to -12 with a cost of 11 + 19 = 30 dollars.</p><p>The total damage is 2 + 7 + 11 + 30 = 50 dollars.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO March 2013 Contest, Gold, Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO March 2013 Contest, Silver",
   "level": 18,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.3056000471115112

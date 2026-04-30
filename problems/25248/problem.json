@@ -23,11 +23,7 @@
   "hint": "<p>In the first sample the message can be encrypted by Caesar shifting each letter by four, resulting in <code>dshmeg</code>. After this, all letters match except for the second and sixth.</p>\n<p>In the second example we can Caesar shift by zero, then split the message in the middle and swap both halves. After this, there is only a single mismatch: <code>s</code>$\\leftrightarrow$<code>c</code>.</p>\n<p>In the third example the message can be encrypted by Caesar shifting by three in the first step, resulting in the message <code>wklvlvdvdpsoh</code>. Then, the first two letters can be cut off and swapped with the rest of the string to create <code>lvlvdvdpsohwk</code>. After this, only two letters will differ: <code>p</code>$\\leftrightarrow$<code>q</code> and <code>n</code>$\\leftrightarrow$<code>h</code>.</p>",
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, German Collegiate Programming Contest, GCPC 2021",
   "level": 22,
-  "tags": [
-    "math",
-    "string",
-    "fft"
-  ],
+  "tags": ["math", "string", "fft"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.6666998863220215

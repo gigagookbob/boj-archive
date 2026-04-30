@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 19,
-  "tags": [
-    "offline_queries",
-    "mo"
-  ],
+  "tags": ["offline_queries", "mo"],
   "accepted_user_count": 152,
   "submission_count": null,
   "average_tries": 1.4671000242233276

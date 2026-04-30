@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, UCIPC 2013",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "hashing",
-    "rabin_karp",
-    "string",
-    "suffix_array"
-  ],
+  "tags": ["binary_search", "hashing", "rabin_karp", "string", "suffix_array"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.727299928665161

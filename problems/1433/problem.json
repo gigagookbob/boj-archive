@@ -31,10 +31,7 @@
   "hint": "<p>20리터의 물과, 30리터의 물질이 있다. 50% 용액을 만들어야 하기 때문에, 20리터의 물질을 20리터의 물과 섞으면 된다.</p>",
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "greedy",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "two_pointer"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 4.531899929046631

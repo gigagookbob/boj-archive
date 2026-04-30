@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, POI Training Camp, ONTAK 2011",
   "level": 14,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "math"
-  ],
+  "tags": ["geometry", "geometry_3d", "math"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.4166998863220215

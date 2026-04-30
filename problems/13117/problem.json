@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 2: Nexon Arena 연습 세션, etaehyun4, jh05013",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "math",
-    "probability"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "math", "probability"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.4000000953674316

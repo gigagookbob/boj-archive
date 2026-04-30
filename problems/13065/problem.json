@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2015, kcm1700",
   "level": 23,
-  "tags": [
-    "bcc",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bcc", "graphs", "graph_traversal"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 1

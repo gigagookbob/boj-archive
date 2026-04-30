@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2020 KAIST 10th ICPC Mock Competition, etaehyun4",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 2.724100112915039

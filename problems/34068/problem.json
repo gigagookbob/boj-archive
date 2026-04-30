@@ -19,10 +19,7 @@
   "hint": "<p>정답이 32비트 정수 범위를 넘을 수 있으므로, C/C++에서는 <code>long long</code>, Java에서는 <code>long</code>과 같은 자료형을 사용하는 것을 권장한다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제9회 천하제일 코딩대회 본선, gubshig, iccodly, jhnah917",
   "level": 8,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 145,
   "submission_count": null,
   "average_tries": 2.13100004196167

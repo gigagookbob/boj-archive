@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 January Contest, Platinum, Acka",
   "level": 22,
-  "tags": [
-    "alien",
-    "binary_search",
-    "greedy",
-    "math",
-    "parametric_search"
-  ],
+  "tags": ["alien", "binary_search", "greedy", "math", "parametric_search"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 5.75

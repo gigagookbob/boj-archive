@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 충남대학교, 2025 충남대학교 SW-IT Contest, tjgus1668, ai4youej, gravekper, jinhan814, kaorin, kckyoung2, octane, utilforever, ygonepiece",
   "level": 16,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "parametric_search",
-    "mst"
-  ],
+  "tags": ["graphs", "binary_search", "parametric_search", "mst"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.705899953842163

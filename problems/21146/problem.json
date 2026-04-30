@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Southeast USA Regional, 2020 Southeast USA Regional Programming Contest, ICPC, Regionals, North America, Mid-Central Regional, 2020 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, Pacific Northwest Regional, 2020 ICPC Pacific Northwest Region, Division 2, ICPC, Regionals, North America, Mid-Atlantic Regional, 2020 Mid-Atlantic USA Regional Contest, ICPC, Regionals, North America, South Central USA Regional, 2020 South Central USA Regional Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "greedy",
-    "arithmetic"
-  ],
+  "tags": ["math", "greedy", "arithmetic"],
   "accepted_user_count": 376,
   "submission_count": null,
   "average_tries": 1.1648999452590942

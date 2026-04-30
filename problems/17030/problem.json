@@ -15,11 +15,7 @@
   "hint": "<p>The maximal probability results from selecting the interval from the 2nd to the 3rd cow.</p>\n<p>As a note, you should be somewhat careful with floating point precision when solving this problem. We advise using at least \"doubles\" (64-bit floating-point numbers) and not \"floats\" (32-bit floating point numbers).</p>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2019 February Contest, Platinum",
   "level": 21,
-  "tags": [
-    "math",
-    "probability",
-    "two_pointer"
-  ],
+  "tags": ["math", "probability", "two_pointer"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 2.4154000282287598

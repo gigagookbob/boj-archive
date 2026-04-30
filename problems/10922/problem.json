@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2015, Day 2",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set"
-  ],
+  "tags": ["data_structures", "segtree", "set"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 4.071400165557861

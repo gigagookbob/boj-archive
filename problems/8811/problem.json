@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, FallSpot 2010",
   "level": 21,
-  "tags": [
-    "graphs",
-    "flow",
-    "mfmc"
-  ],
+  "tags": ["graphs", "flow", "mfmc"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, Coder's High, Coder's high 2016 Round 1: Online, tncks0121",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 523,
   "submission_count": null,
   "average_tries": 1.5334999561309814

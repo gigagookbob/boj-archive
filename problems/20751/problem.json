@@ -15,12 +15,7 @@
   "hint": "<p>Illustration for the first test from the sample:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 399px; height: 200px;\"/></p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 1: XXI All-Siberian Programming Contest",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "ad_hoc", "case_work"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 2.0571000576019287

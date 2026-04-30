@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2008",
   "level": 20,
-  "tags": [
-    "math",
-    "data_structures",
-    "segtree",
-    "two_pointer"
-  ],
+  "tags": ["math", "data_structures", "segtree", "two_pointer"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.5385000705718994

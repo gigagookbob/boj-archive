@@ -23,11 +23,7 @@
   "hint": "<p>Explanation for the 1st sample case</p>\n<p><img alt=\"\" src=\"1.png\" style=\"width: 239px; height: 189px;\"/></p>\n<p>For the first sample, this forest is the only forest which satisfies all the requirements. There are 2 trees in this forest.</p>\n<p><img alt=\"\" src=\"2.png\" style=\"width: 212px; height: 252px;\"/></p>\n<p>On the other hand, this forest does not satisfy the requirements due to:</p>\n<ol>\n<li>Node b violates requirement #5 as (a,b).B = 3 is larger than (b,c).B = 1 and (b,d).B = 2.</li>\n<li>Node b violates requirement #6 as it has 3 children (note that M is 2).</li>\n<li>There are 6 edges in the forest while N = 5 (violates requirement #7).</li>\n</ol>\n<p>Note that violating even one requirement already makes the forest invalid.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, ACM-ICPC Regional Contest, Jakarta 2017",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["data_structures", "greedy", "sorting"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.840000033378601

@@ -15,10 +15,7 @@
   "hint": "<p>Ignoring everyone's strongest wish, there exists $x&gt;1$ in the test data, which means Team LGD won't always choose to ban Magnus from the beginning. </p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 6: Grand Prix of EDG",
   "level": 2,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 559,
   "submission_count": null,
   "average_tries": 2.010699987411499

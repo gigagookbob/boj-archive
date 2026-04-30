@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2024. 02. -겨울 운동회 편-, heeda0528, bnb2011, chogahui05, jyheo98, kiwiyou, lky7674, snrnsidy, utilforever",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.75

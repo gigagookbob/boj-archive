@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2013 South Central USA Regional Programming Contest",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["graphs", "graph_traversal"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.272700071334839

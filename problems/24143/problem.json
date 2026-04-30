@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2007/2008 Spring Training Camp",
   "level": 13,
-  "tags": [
-    "sweeping",
-    "parametric_search"
-  ],
+  "tags": ["sweeping", "parametric_search"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.833299994468689

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCON, wookje",
   "level": 20,
-  "tags": [
-    "greedy",
-    "trees",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "trees", "parametric_search"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 2.6963999271392822

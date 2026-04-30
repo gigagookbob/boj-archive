@@ -15,11 +15,7 @@
   "hint": "<p>Cow1 can bring cookies to at most 2 meetings, cow2 can bring 2, cow3 can bring 2, cow4 can bring 1, and cow5 can bring 1.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO November 2009 Contest, Gold",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.1723999977111816

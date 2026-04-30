@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2022 중앙대학교 프로그래밍 경진대회 (CPC), Division 2, xingxing2001, hibye1217, njw1204, smmaker118, tony9402",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 357,
   "submission_count": null,
   "average_tries": 2.529400110244751

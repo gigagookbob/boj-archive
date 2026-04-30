@@ -10,11 +10,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2021 Fall PPS Final Mock Exam, parkky, chansol, jh05013, tony9402",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "case_work"
-  ],
+  "tags": ["bruteforcing", "geometry", "case_work"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.2856999635696411

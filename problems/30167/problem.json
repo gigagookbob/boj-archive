@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, $123$ is one of the possible answers. However, $121$ can't be the answer, because there are multiple $1$s on different digits.</p>\n<p>In the second example, there is no valid answer.</p>",
   "source": "Contest, Codeforces, Codeforces Round 589 (Div. 2), spongbob9876",
   "level": 4,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 166,
   "submission_count": null,
   "average_tries": 1.1446000337600708

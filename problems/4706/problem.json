@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2011 Mid-Atlantic Regional Programming Contest, baekjoon, jaehoo1",
   "level": 3,
-  "tags": [
-    "arithmetic",
-    "math"
-  ],
+  "tags": ["arithmetic", "math"],
   "accepted_user_count": 431,
   "submission_count": null,
   "average_tries": 1.2158000469207764

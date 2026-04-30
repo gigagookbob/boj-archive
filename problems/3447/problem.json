@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2007 연습 세션, baekjoon, YunGoon",
   "level": 5,
-  "tags": [
-    "string",
-    "parsing"
-  ],
+  "tags": ["string", "parsing"],
   "accepted_user_count": 1096,
   "submission_count": null,
   "average_tries": 2.218100070953369

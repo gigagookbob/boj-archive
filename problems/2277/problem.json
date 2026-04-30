@@ -15,9 +15,7 @@
   "hint": "<ul>\n<li>초기상태: (9, 0, 1, 0, 3)</li>\n<li>1초 경과: (9, 0, 1, 1, 3)</li>\n<li>2초 경과: (0, 0, 1, 1, 3)</li>\n<li>3초 경과: (1, 1, 1, 1, 3)</li>\n<li>4초 경과: (2, 2, 2, 2, 3)</li>\n<li>5초 경과: (3, 3, 3, 3, 3)</li>\n<li>6초 경과. 작업 완료.</li>\n</ul>",
   "source": null,
   "level": 0,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 7

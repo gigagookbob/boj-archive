@@ -15,9 +15,7 @@
   "hint": null,
   "source": "apples1309, djm03178, hayman42, isac322, kory0711, paraworld, goodcrane3",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 21666,
   "submission_count": null,
   "average_tries": 3.2076001167297363

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, Stanford Local ACM Programming Contest, SLPC 2010 Round Two",
   "level": 20,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree", "sweeping"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 3

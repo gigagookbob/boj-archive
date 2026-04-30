@@ -19,11 +19,7 @@
   "hint": "<p>The picture below explains the first sample (only a relevant part of the grid is shown). To get exactly $K = 6$ combinations of toppings, Flora has to use the machine a minimum of $T = 3$ times. In the picture, the first topping applied by the machine is represented as a pineapple (★), the second as a cherry (■), and the third as a blueberry (●). The lists of pieces having each combination of toppings are as follows:</p>\n<ol>\n<li>Only topping $1$ (★): $(2, 3)$;</li>\n<li>Only topping $2$ (■): $(3, 2)$;</li>\n<li>Only topping $3$ (●): $(4, 4)$;</li>\n<li>Toppings $2$ (■) and $3$ (●): $(4, 3)$;</li>\n<li>All three toppings: $(3, 3)$;</li>\n<li>No toppings: rest of the pieces.</li>\n</ol>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"width: 141px; height: 141px;\"/></p>",
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2022",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "constructive", "bitmask"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 2.5999999046325684

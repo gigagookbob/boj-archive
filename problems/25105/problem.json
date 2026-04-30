@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2021",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "tree_set",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "set", "tree_set", "lazyprop"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.3333001136779785

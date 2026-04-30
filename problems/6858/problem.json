@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2006, CCC 2006 Junior Division",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "dag",
-    "graphs",
-    "topological_sorting"
-  ],
+  "tags": ["bruteforcing", "dag", "graphs", "topological_sorting"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.5937999486923218

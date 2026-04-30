@@ -23,10 +23,7 @@
   "hint": null,
   "source": "School, 경기과학고등학교, 나는코더다 송년대회, 나는코더다 2023 송년대회, flappybird, kclee2172, leinad2, lisifu",
   "level": 18,
-  "tags": [
-    "bruteforcing",
-    "permutation_cycle_decomposition"
-  ],
+  "tags": ["bruteforcing", "permutation_cycle_decomposition"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.523800015449524

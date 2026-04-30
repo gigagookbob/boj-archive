@@ -15,11 +15,7 @@
   "hint": "<p>1번 사람이 일을 2개하면, 1번 사람은 1, 2, 2번 사람은 3, 3번 사람이 5를 할 수 있다.</p>",
   "source": "baekjoon, yehyun, doju",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "flow", "bipartite_matching"],
   "accepted_user_count": 2700,
   "submission_count": null,
   "average_tries": 2.43149995803833

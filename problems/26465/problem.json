@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Practice Contest for ICPC Asia Regional, JAG Practice Contest for ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Winter 2024, Day 1: Welcome Contest",
   "level": 25,
-  "tags": [
-    "divide_and_conquer",
-    "fft",
-    "math"
-  ],
+  "tags": ["divide_and_conquer", "fft", "math"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.799999952316284

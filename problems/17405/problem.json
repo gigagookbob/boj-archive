@@ -27,11 +27,7 @@
   "hint": null,
   "source": "sait2000",
   "level": 27,
-  "tags": [
-    "math",
-    "number_theory",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "number_theory", "exponentiation_by_squaring"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.823499917984009

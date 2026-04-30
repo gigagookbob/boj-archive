@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 세종과학예술영재학교, SASA Programming Contest 2021, shpark061104, artichoke42, cgiosy, jhnah917, junseo, jyheo98",
   "level": 12,
-  "tags": [
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "parametric_search"],
   "accepted_user_count": 212,
   "submission_count": null,
   "average_tries": 3.481100082397461

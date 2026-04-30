@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2023, CCC 2023 Senior Division",
   "level": 19,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "mst"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "mst"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.25

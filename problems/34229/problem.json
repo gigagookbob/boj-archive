@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2025 숭고한 연합 알고리즘 경진대회, Div. 1, gggkik, jms020820, jthis, tlsdydaud1",
   "level": 23,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "ternary_search"
-  ],
+  "tags": ["ad_hoc", "binary_search", "ternary_search"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 8.17389965057373

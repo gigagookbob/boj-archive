@@ -15,9 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"2.png\" style=\"height:319px; width:350px\"/></p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2014 - 1st Round",
   "level": 11,
-  "tags": [
-    "case_work"
-  ],
+  "tags": ["case_work"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

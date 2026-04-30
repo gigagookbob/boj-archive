@@ -27,11 +27,7 @@
   "hint": "<p>첫 번째 테스트 케이스의 경우에는 (1,6) → (2,6) →  (3,6) →  (4,6) → (4,5) → (4,4) → (4,3) →  (4,2) → (4,1) → (3,1) → (2,1) → (2,2) →  (2,3) → (1,3) → (1,2) → (2,2) 의 순서로 가면 탈출이 가능하다.</p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2015 Sogang Programming Contest, Master, University, 서강대학교, Sogang Programming Contest, 2015 Sogang Programming Contest, Champion, nsjpys, hello70825, hello70825",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 256,
   "submission_count": null,
   "average_tries": 3.0664000511169434

@@ -27,12 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2024",
   "level": 22,
-  "tags": [
-    "dp",
-    "regex",
-    "string",
-    "sweeping"
-  ],
+  "tags": ["dp", "regex", "string", "sweeping"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

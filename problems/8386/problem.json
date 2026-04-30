@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2007",
   "level": 20,
-  "tags": [
-    "dfs",
-    "dp",
-    "dp_tree",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["dfs", "dp", "dp_tree", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.8214000463485718

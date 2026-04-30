@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2005, ntopia",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "case_work"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

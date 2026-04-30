@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2020-21, Open Competition",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["dp", "graphs", "greedy", "dag", "topological_sorting"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 2

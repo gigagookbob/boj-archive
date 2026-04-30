@@ -19,12 +19,7 @@
   "hint": "<p>In the second sample, the satisfying boards are exactly the boards with $3$ black cells.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 2: SPb SU LOUD ENOUGH Contest, Contest, Open Cup, 2020/2021 Season, Stage 2: SPb SU LOUD ENOUGH Contest",
   "level": 21,
-  "tags": [
-    "math",
-    "graphs",
-    "exponentiation_by_squaring",
-    "linear_algebra"
-  ],
+  "tags": ["math", "graphs", "exponentiation_by_squaring", "linear_algebra"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.4737000465393066

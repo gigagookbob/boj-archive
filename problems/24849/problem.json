@@ -15,12 +15,7 @@
   "hint": "<p>In the example after the swap the arrays are $A = [2, 1]$ and $B = [1, 2]$.</p>\n<p>$X(A) = 2 \\oplus 1 = 10_2 \\oplus 1_2 = 11_2 = 3$, $X(B) = 3$, $X(A) + X(B) = 6$.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2021",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "gaussian_elimination",
-    "linear_algebra",
-    "math"
-  ],
+  "tags": ["bitmask", "gaussian_elimination", "linear_algebra", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.3333001136779785

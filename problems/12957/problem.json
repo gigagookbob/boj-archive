@@ -31,13 +31,7 @@
   "hint": "<p>예제 1의 경우에 길이가 L인 보행의 개수 3*2^L이다. 이 값은 O(L<sup>K</sup>)로 나타낼 수 없다.</p>\n<p>예제 2의 경우에 L이 크면, 보행의 개수가 0이 된다.</p>\n<p>예제 3의 모든 L에 대해서, 보행의 개수가 5이다.</p>",
   "source": "kcm1700",
   "level": 18,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "combinatorics",
-    "scc"
-  ],
+  "tags": ["math", "dp", "graphs", "combinatorics", "scc"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.899999976158142

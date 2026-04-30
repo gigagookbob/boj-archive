@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, 보라매컵, 제1회 보라매컵 본선, 99asdfg, eaststar, max804, mjhmjh1104",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "case_work",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["bruteforcing", "case_work", "combinatorics", "math"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.8824000358581543

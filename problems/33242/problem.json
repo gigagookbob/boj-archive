@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, Delft University of Technology, Freshmen Programming Contest 2020",
   "level": 14,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.1110999584198

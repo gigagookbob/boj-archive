@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, Hong Kong, 2023 ICPC Hong Kong Regional, Camp, Petrozavodsk Programming Camp, Winter 2023, Day 3: 2023 ICPC Asia Hong Kong Regional",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work",
-    "bitmask"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work", "bitmask"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.7916998863220215

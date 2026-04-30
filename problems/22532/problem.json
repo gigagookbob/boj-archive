@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Winter Contest, JAG Winter Contest 2012",
   "level": 21,
-  "tags": [
-    "dp",
-    "string",
-    "binary_search"
-  ],
+  "tags": ["dp", "string", "binary_search"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 6

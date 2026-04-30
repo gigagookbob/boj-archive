@@ -15,13 +15,7 @@
   "hint": "<p>6 towns.  There are roads between town 1 and town 2, town 3 and town 4, and town 5 and town 6 with costs 5, 5 and 10; there are planes from town 3 to town 5, from town 4 to town 6, and from town 1 to town 3 with costs -100, -100 and -10.  FJ is based in town 4.</p>\n<p>FJ's cows begin at town 4, and can get to town 3 on the road.  They can get to towns 5 and 6 using planes from towns 3 and 4.  However, there is no way to get to towns 1 and 2, since they cannot go backwards on the plane from 1 to 3.</p>\n<p> </p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2010-2011 Season, USACO January 2011 Contest, Gold",
   "level": 19,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra", "dag", "topological_sorting"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 3.736799955368042

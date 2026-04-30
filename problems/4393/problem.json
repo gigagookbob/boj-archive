@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 29 January, 2000",
   "level": 16,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "ad_hoc",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "ad_hoc", "bfs", "dfs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

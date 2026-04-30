@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ho94949",
   "level": 15,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "set"
-  ],
+  "tags": ["implementation", "ad_hoc", "set"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 1.2023999691009521

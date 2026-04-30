@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2005 Mid-Central Regional Programming Contest, baekjoon, hyakintoss",
   "level": 8,
-  "tags": [
-    "math",
-    "number_theory",
-    "arithmetic"
-  ],
+  "tags": ["math", "number_theory", "arithmetic"],
   "accepted_user_count": 92,
   "submission_count": null,
   "average_tries": 2.2934999465942383

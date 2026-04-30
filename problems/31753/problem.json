@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Championship, The 2024 ICPC Latin America Championship",
   "level": 23,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "game_theory",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "graph_traversal", "game_theory", "bipartite_matching"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 1.5

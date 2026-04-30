@@ -15,10 +15,7 @@
   "hint": "<p>One possible solution that results in the least amount of money spent is to select those that cool the intervals $[2, 9]$, $[1, 2]$, and $[6, 9]$, for a cost of $3 + 2 + 5 = 10$.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Bronze",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 232,
   "submission_count": null,
   "average_tries": 1.3878999948501587

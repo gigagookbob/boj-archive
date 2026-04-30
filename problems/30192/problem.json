@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 서울대학교, 서울대학교 프로그래밍 경시대회, 2023 서울대학교 프로그래밍 경시대회, Division 2, sharaelong, 16silver, azberjibiou, cs71107, grace0068, jhwest2, kdh9949, whqkrkt04",
   "level": 15,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "harmonic_number"
-  ],
+  "tags": ["math", "bruteforcing", "harmonic_number"],
   "accepted_user_count": 56,
   "submission_count": null,
   "average_tries": 4.553599834442139

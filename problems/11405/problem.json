@@ -15,11 +15,7 @@
   "hint": "<p>서점 1은 책 4권을 3에게, 1권을 2에게 보내고, 서점 2는 1, 2, 4에게 1권씩, 서점 3은 1에게 2권, 서점 4는 4에게 1권을 보내면 배송비의 합은 30이다.</p>",
   "source": "baekjoon, inspire12",
   "level": 18,
-  "tags": [
-    "graphs",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "mcmf"],
   "accepted_user_count": 1220,
   "submission_count": null,
   "average_tries": 1.5442999601364136

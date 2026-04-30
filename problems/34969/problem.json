@@ -19,12 +19,7 @@
   "hint": null,
   "source": "School, GSHS x SASA, 제1회 GSHS x SASA 프로그래밍 경시대회, dkim110807, denniskim, kidw0124, k_san, sorohue, utilforever",
   "level": 22,
-  "tags": [
-    "math",
-    "combinatorics",
-    "game_theory",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "combinatorics", "game_theory", "inclusion_and_exclusion"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.5384999513626099

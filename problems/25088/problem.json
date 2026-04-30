@@ -15,9 +15,7 @@
   "hint": "<p>Sample Case #1 is the one described in the problem statement. Sample Cases #2 and #3 are additional examples. Notice that the output for each case contains exactly $R⋅C+3$ periods.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2022, Qualification Round",
   "level": 4,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 197,
   "submission_count": null,
   "average_tries": 1.1319999694824219

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Domestic Contest, JAG Domestic Contest 2010",
   "level": 8,
-  "tags": [
-    "arithmetic",
-    "math",
-    "sorting"
-  ],
+  "tags": ["arithmetic", "math", "sorting"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.583299994468689

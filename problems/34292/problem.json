@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2025",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "simulation",
-    "physics"
-  ],
+  "tags": ["math", "implementation", "greedy", "simulation", "physics"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.1600000858306885

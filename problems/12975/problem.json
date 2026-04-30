@@ -15,9 +15,7 @@
   "hint": "<p>힘이 7인 첫 번째 학생이 한 팀, 힘이 3인 두 번째 학생이 한 팀, 힘이 5인 3번째 학생과 힘이 2인 4번째 학생이 한 팀을 하면 굉장함이 17이 됩니다.</p>",
   "source": null,
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.105299949645996

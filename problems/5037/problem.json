@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2009, baekjoon, myungwoo",
   "level": 18,
-  "tags": [
-    "backtracking",
-    "bruteforcing",
-    "implementation"
-  ],
+  "tags": ["backtracking", "bruteforcing", "implementation"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.3076999187469482

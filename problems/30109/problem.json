@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 09., bnb2011, djs100201, hibye1217, kiwiyou, snrnsidy, tony9402, utilforever",
   "level": 19,
-  "tags": [
-    "dp",
-    "data_structures",
-    "sweeping",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "data_structures", "sweeping", "coordinate_compression"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 4.275000095367432

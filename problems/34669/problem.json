@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 8회 코딩 테스트, chogahui05, dongwook7, mujigae, utilforever",
   "level": 9,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 2.4932000637054443

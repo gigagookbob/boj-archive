@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 경북대학교, 2020 Goricon, exqt",
   "level": 8,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "physics"
-  ],
+  "tags": ["math", "prefix_sum", "physics"],
   "accepted_user_count": 531,
   "submission_count": null,
   "average_tries": 2.742000102996826

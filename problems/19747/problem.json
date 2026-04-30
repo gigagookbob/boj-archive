@@ -19,12 +19,7 @@
   "hint": "<p>In the first example, initially the fighters stand opposite each other in the following way:</p>\n<p>$$ \\begin{matrix} \\text{Martians:}&amp;1&amp;4&amp;2&amp;3&amp;5\\\\ \\text{People:}    &amp;1&amp;2&amp;3&amp;4&amp;5\\\\ \\end{matrix} $$</p>\n<p>People lose, as the Martians number $1$ and $5$ win their fights. After the first move, the line of the fighters changes to this line:</p>\n<p>$$ \\begin{matrix} \\text{Martians:}&amp;1&amp;4&amp;2&amp;3&amp;5\\\\ \\text{People:}    &amp;5&amp;1&amp;2&amp;3&amp;4\\\\ \\end{matrix} $$</p>\n<p>Now the Martians $2$ and $3$ win their battle, so commander need to move the last person to the beginning of the line again. After it, the line of the fighters becomes such that all people win their fight.</p>\n<p>$$ \\begin{matrix} \\text{Martians:}&amp;1&amp;4&amp;2&amp;3&amp;5\\\\ \\text{People:}    &amp;4&amp;5&amp;1&amp;2&amp;3\\\\ \\end{matrix} $$</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2017",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "ad_hoc",
-    "set"
-  ],
+  "tags": ["math", "implementation", "ad_hoc", "set"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.835800051689148

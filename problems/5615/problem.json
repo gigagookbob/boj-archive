@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2005/2006 모의고사 2, baekjoon, eric00513, august14, chowder0018, doju, sangyulism, sharaelong",
   "level": 20,
-  "tags": [
-    "miller_rabin",
-    "number_theory",
-    "math",
-    "primality_test"
-  ],
+  "tags": ["miller_rabin", "number_theory", "math", "primality_test"],
   "accepted_user_count": 1673,
   "submission_count": null,
   "average_tries": 4.7621002197265625

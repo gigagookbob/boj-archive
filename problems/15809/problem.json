@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 전북대학교, 2018 전북대학교 프로그래밍 경진대회, yukariko, eric00513, sjh931125",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "disjoint_set"],
   "accepted_user_count": 673,
   "submission_count": null,
   "average_tries": 3.2644999027252197

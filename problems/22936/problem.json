@@ -15,12 +15,7 @@
   "hint": "<p>요일은 상관없다. </p>",
   "source": "University, 중앙대학교, 2021 NPC (Newbie Programming Challenge), tngus5851, 9507ym, artichoke42, byeop24, dkvltmxhf, dlstj0923, gojib2002, gratus907, omjin7n, pjh6792, shieldnet, smmaker118, soljin8122, tngus5851, tony9402",
   "level": 12,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["implementation", "bruteforcing", "prefix_sum", "difference_array"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 3.109800100326538

@@ -27,10 +27,7 @@
   "hint": "<p>어떤 수열의 부분 수열이라는 것은 그 수열에서 순서를 바꾸지 않고 몇 개의 원소를 제거해서 만들 수 있는 수열이다.</p>",
   "source": "University, 서강대학교, K512컵, 2025 서강대학교 K512컵, djs100201, jthis, tony9402, utilforever",
   "level": 17,
-  "tags": [
-    "dp",
-    "coordinate_compression"
-  ],
+  "tags": ["dp", "coordinate_compression"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.200000047683716

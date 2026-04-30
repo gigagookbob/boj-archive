@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 부산일과학고, BSIS배 Code Festival, jh05013, dotorya",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 720,
   "submission_count": null,
   "average_tries": 2.7681000232696533

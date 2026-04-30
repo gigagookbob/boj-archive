@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, 2006 Rocky Mountain Regional Contest",
   "level": 15,
-  "tags": [
-    "dp",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["dp", "math", "number_theory"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.700000047683716

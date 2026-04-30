@@ -27,14 +27,7 @@
   "hint": "<p>In the second example, this is the fastest method:</p>\n<ul>\n<li>Immerse the ball into the third paint can.</li>\n<li>Equip the first piece of equipment.</li>\n<li>Immerse it into the second paint can.</li>\n<li>Equip the second piece of equipment.</li>\n<li>Immerse it into the first paint can.</li>\n<li>Unequip both pieces of equipment.</li>\n</ul>",
   "source": "University, KAIST, KAIST RUN Spring Contest, 2021 KAIST RUN Spring Contest, Contest, Open Cup, 2021/2022 Season, Stage 17: Grand Prix of Seoul, jh05013, aeren, ainta, cs71107, jwvg0425, koosaga, taeyeon_ss",
   "level": 18,
-  "tags": [
-    "bfs",
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "bitmask", "dp", "dp_bitfield", "graphs", "graph_traversal"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.614000082015991

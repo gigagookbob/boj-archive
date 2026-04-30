@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 초급, songfox00, shjohw12, djs100201, gumgood, gunwookim, kyo20111, lky7674, pichulia, whaeun25",
   "level": 6,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 273,
   "submission_count": null,
   "average_tries": 1.644700050354004

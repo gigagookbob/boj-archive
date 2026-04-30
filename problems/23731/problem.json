@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, UNIST, 3rd UNIST Algorithm Programming Contest Uni-CODE 2021, leejseo, chunghan, jh05013, koosaga, queued_q",
   "level": 7,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy"
-  ],
+  "tags": ["math", "implementation", "greedy"],
   "accepted_user_count": 156,
   "submission_count": null,
   "average_tries": 1.6794999837875366

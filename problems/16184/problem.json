@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2018 KAIST 8th ACM-ICPC Mock Competition, Contest, Open Cup, 2018/2019 Season, Stage 5: Grand Prix of Korea, koosaga",
   "level": 16,
-  "tags": [
-    "constructive",
-    "recursion"
-  ],
+  "tags": ["constructive", "recursion"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 2.6026999950408936

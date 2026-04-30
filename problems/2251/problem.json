@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2000-2001 Season, USACO Winter 2001 Contest, Orange, kesakiyo, methylene",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs"],
   "accepted_user_count": 8431,
   "submission_count": null,
   "average_tries": 1.8451999425888062

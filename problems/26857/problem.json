@@ -23,13 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2021 ICPC Asia Jakarta Regional Contest, ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2022 ICPC Asia Jakarta Regional Contest 연습 세션",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "dp",
-    "game_theory",
-    "knapsack"
-  ],
+  "tags": ["ad_hoc", "constructive", "dp", "game_theory", "knapsack"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.3076999187469482

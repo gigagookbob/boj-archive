@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2023 성균관대학교 프로그래밍 경진대회, deuslovelt, ansol4328, gunwookim, hibye1217, jthis, max804, mjhmjh1104, prarie, shjohw12",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "prefix_sum", "two_pointer"],
   "accepted_user_count": 244,
   "submission_count": null,
   "average_tries": 4.274600028991699

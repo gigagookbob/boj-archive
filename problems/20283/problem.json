@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2020",
   "level": 18,
-  "tags": [
-    "math",
-    "greedy",
-    "sorting",
-    "combinatorics"
-  ],
+  "tags": ["math", "greedy", "sorting", "combinatorics"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.384600043296814

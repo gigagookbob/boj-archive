@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2015",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "euler_phi"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum", "euler_phi"],
   "accepted_user_count": 274,
   "submission_count": null,
   "average_tries": 1.55840003490448

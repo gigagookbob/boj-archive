@@ -15,10 +15,7 @@
   "hint": "<p>In Sample Case #1, the whole array is an arithmetic array, thus the longest arithmetic subarray is the whole array.</p>\n<p>In Sample Case #2, if Sarasvati changes the number at third position to 5, the array will become [5,5,5,5,5,5,4,5,6]. The subarray from first position to sixth position is the longest arithmetic subarray.</p>\n<p>In Sample Case #3, Sarasvati can change the number at the last position to −1, to get [8,5,2,−1]. This resulting array is arithmetic.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2021, Round B",
   "level": 15,
-  "tags": [
-    "dp",
-    "case_work"
-  ],
+  "tags": ["dp", "case_work"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.0625

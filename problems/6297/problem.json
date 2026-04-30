@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2002, ICPC, Regionals, Europe, Central European Regional Contest, CERC 2002",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "lazyprop"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.19350004196167

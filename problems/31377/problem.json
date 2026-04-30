@@ -15,10 +15,7 @@
   "hint": "<p>In each test, the special square is selected in advance and does not change during the contest.</p>",
   "source": "Contest, Open Cup, 2014/2015 Season, Stage 13: Grand Prix of Three Capitals",
   "level": 5,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 47,
   "submission_count": null,
   "average_tries": 4.170199871063232

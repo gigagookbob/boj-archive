@@ -15,9 +15,7 @@
   "hint": "<p>In the first example Byteman may set the starting point in the fourth checkpoint (i.e., at the end of the stage with difficulty 10) and the competitors can start the race going towards the third checkpoint. The consecutive stages on their way will have difficulties equal to 10, 8, 3, 3 and 1. In the second example no solution exists.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 160px; height: 108px;\"/></p>\n<p style=\"text-align: center;\">The route of the orienteering competition in the first example. The circles contain the numbers of checkpoints, and the numbers next to the edges represent the difficulties of the stages in the route. The arrows in the picture show valid starting point and race direction.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2010",
   "level": 9,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.8260999917984009

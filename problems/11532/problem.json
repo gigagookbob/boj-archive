@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2015 Mid-Central Regional Programming Contest",
   "level": 16,
-  "tags": [
-    "geometry",
-    "implementation",
-    "simulation",
-    "ternary_search"
-  ],
+  "tags": ["geometry", "implementation", "simulation", "ternary_search"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.166700005531311

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2013-14, Day 1",
   "level": 13,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "deque"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "deque"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

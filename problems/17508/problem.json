@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2019 KAIST 9th ICPC Mock Competition, Contest, Open Cup, 2019/2020 Season, Stage 5: Grand Prix of Korea, ainta",
   "level": 6,
-  "tags": [
-    "implementation",
-    "case_work"
-  ],
+  "tags": ["implementation", "case_work"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 2.484999895095825

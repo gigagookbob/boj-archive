@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2022 ICPC Sinchon Winter Algorithm Camp Contest, 초급, songfox00, gratus907, Green55, gumgood, kyo20111, lky7674, mjhmjh1104, swoon, tony9402",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 516,
   "submission_count": null,
   "average_tries": 2.8682000637054443

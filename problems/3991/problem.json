@@ -15,10 +15,7 @@
   "hint": "<p>최대 81점을 얻을 수 있다.&nbsp;</p>\r\n\r\n<table class=\"table table-bordered th-center td-center\" style=\"width:100%;\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td><img alt=\"\" src=\"5.png\" style=\"width: 120px; height: 82px;\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"6.png\" style=\"width: 102px; height: 82px;\" /></td>\r\n\t\t\t<td><img alt=\"\" src=\"7.png\" style=\"width: 99px; height: 82px;\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n\t<tfoot>\r\n\t\t<tr>\r\n\t\t\t<th>16점</th>\r\n\t\t\t<th>16점</th>\r\n\t\t\t<th>49점</th>\r\n\t\t</tr>\r\n\t</tfoot>\r\n</table>\r\n",
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2012, baekjoon",
   "level": 8,
-  "tags": [
-    "implementation",
-    "constructive"
-  ],
+  "tags": ["implementation", "constructive"],
   "accepted_user_count": 326,
   "submission_count": null,
   "average_tries": 1.5214999914169312

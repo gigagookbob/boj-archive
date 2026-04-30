@@ -19,11 +19,7 @@
   "hint": null,
   "source": "School, 부산일과학고, BSIS배 Code Festival, jh05013, rhdqor213",
   "level": 1,
-  "tags": [
-    "arithmetic",
-    "math",
-    "implementation"
-  ],
+  "tags": ["arithmetic", "math", "implementation"],
   "accepted_user_count": 24828,
   "submission_count": null,
   "average_tries": 1.8365000486373901

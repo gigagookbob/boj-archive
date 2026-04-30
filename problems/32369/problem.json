@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 인천대학교, INU 코드페스티벌 2024, kimyh9797, aeren, dabbler1, gs22123, iccodly, leedongbin, penguin1234, sk14cj",
   "level": 2,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 1478,
   "submission_count": null,
   "average_tries": 1.2862000465393066

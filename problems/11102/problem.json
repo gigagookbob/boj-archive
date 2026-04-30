@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, IDI Open Contest, IDI Open 2007",
   "level": 18,
-  "tags": [
-    "binary_search",
-    "flow",
-    "implementation",
-    "simulation",
-    "graphs"
-  ],
+  "tags": ["binary_search", "flow", "implementation", "simulation", "graphs"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.7777999639511108

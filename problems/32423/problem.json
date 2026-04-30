@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2024",
   "level": 19,
-  "tags": [
-    "greedy",
-    "sweeping"
-  ],
+  "tags": ["greedy", "sweeping"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.09089994430542

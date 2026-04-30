@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, March 12, 2011",
   "level": 7,
-  "tags": [
-    "greedy",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "string", "ad_hoc"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.600000023841858

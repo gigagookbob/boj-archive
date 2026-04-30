@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가지컵, 2024 가지컵, bnb2011, jhuni, kiwiyou, sait2000, utilforever, yup0927",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "extended_euclidean",
-    "math",
-    "number_theory"
-  ],
+  "tags": ["ad_hoc", "extended_euclidean", "math", "number_theory"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 1.7777999639511108

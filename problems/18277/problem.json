@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2019",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "set",
-    "offline_queries",
-    "mo"
-  ],
+  "tags": ["data_structures", "segtree", "set", "offline_queries", "mo"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 3.8499999046325684

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 2023 중앙대학교 CHAC (ChAOS Hello2023 Algorithm Contest), dkvltmxhf, heeda0528, njw1204, pjshwa, smmaker118, tlsdydaud1, tony9402, wapas",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "number_theory",
-    "game_theory"
-  ],
+  "tags": ["math", "dp", "number_theory", "game_theory"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 4.58489990234375

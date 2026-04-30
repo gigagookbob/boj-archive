@@ -27,9 +27,7 @@
   "hint": "<p>예제 2의 경우 아래와 같은 파란색 길을 지나갈 수 있다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"6.png\" style=\"width: 338px; height: 338px;\"/></p>\n<p>예제 3의  경우에는 아래와 같은 파란색 길이 지나갈 수 있는 길이다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"7.png\" style=\"width: 338px; height: 338px;\"/></p>\n<p>마지막으로, 예제 4의 경우에는 아래와 같은 파란색 길이 지나갈 수 있는 길이다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"8.png\" style=\"width: 338px; height: 338px;\"/></p>",
   "source": "baekjoon, byon26, da3107, kimyh0316, qkrjh0904",
   "level": 13,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 15867,
   "submission_count": null,
   "average_tries": 1.7101000547409058

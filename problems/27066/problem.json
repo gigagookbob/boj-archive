@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2022!, kyo20111, cgiosy, chansol, edenooo, gustjwkd1007, hibye1217, jhnah917, junseo, man_of_learning, ryute, stonejjun03",
   "level": 12,
-  "tags": [
-    "greedy",
-    "sorting",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "sorting", "ad_hoc"],
   "accepted_user_count": 284,
   "submission_count": null,
   "average_tries": 1.9119999408721924

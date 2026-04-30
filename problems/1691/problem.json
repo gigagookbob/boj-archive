@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2004, Day 2, author6, artichoke42",
   "level": 15,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 156,
   "submission_count": null,
   "average_tries": 1.6089999675750732

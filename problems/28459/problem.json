@@ -47,12 +47,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 유틸컵, 제1회 유틸컵 - Chapter 1, artichoke42, chogahui05, index, kiwiyou, snrnsidy, tony9402, utilforever",
   "level": 19,
-  "tags": [
-    "implementation",
-    "simulation",
-    "case_work",
-    "backtracking"
-  ],
+  "tags": ["implementation", "simulation", "case_work", "backtracking"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 3.478300094604492

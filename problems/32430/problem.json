@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ICPC World Finals 2024",
   "level": 26,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "case_work"
-  ],
+  "tags": ["implementation", "ad_hoc", "case_work"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1

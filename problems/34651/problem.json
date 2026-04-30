@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2025 KAIST 15th ICPC Mock Competition, University, MIT, The MIT Programming Contest, 2025-26, MIT Team Contest 2, flappybird, ai4youej, imeimi2000, koosaga, qwerasdfzxcl, silverwolf",
   "level": 22,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["implementation", "data_structures", "segtree"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 2.25

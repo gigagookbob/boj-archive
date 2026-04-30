@@ -15,10 +15,7 @@
   "hint": "<p>В примере возможна ситуация, что ошибки происходят только в функциях 1 и 3, а в приведенном файле содержится пять записанных подряд распечаток стеков вызовов. Ниже приведены те же распечатки, но разделенные пустой строкой.</p>\n<pre>\n1\n \n3\n \n3\n2\n \n3\n2\n \n1\n</pre>\n<p>В этом случае только функция 2 вызывает функцию 3, следовательно сложность графа вызовов равна 1.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2015",
   "level": 9,
-  "tags": [
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "bruteforcing"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.833299994468689

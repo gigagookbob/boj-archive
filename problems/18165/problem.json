@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 키파컵, 제2회 키파컵, kipa00",
   "level": 0,
-  "tags": [
-    "heuristics",
-    "randomization"
-  ],
+  "tags": ["heuristics", "randomization"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 5.1666998863220215

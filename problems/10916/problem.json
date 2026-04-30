@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제2회 kriiICPC, august14",
   "level": 22,
-  "tags": [
-    "math",
-    "number_theory",
-    "mobius_inversion",
-    "harmonic_number"
-  ],
+  "tags": ["math", "number_theory", "mobius_inversion", "harmonic_number"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 4.823500156402588

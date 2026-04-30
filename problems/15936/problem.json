@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Romanian Master of Informatics, Romanian Master of Informatics 2014",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["bitmask", "combinatorics", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2

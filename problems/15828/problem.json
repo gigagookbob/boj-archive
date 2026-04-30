@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 아주대학교, 2018 Ajou Programming Contest, Division 2, luke0201, jh05013",
   "level": 7,
-  "tags": [
-    "data_structures",
-    "queue"
-  ],
+  "tags": ["data_structures", "queue"],
   "accepted_user_count": 3277,
   "submission_count": null,
   "average_tries": 1.6704000234603882

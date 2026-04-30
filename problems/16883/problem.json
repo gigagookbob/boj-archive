@@ -27,13 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "implementation",
-    "dp",
-    "game_theory",
-    "parity",
-    "sprague_grundy"
-  ],
+  "tags": ["implementation", "dp", "game_theory", "parity", "sprague_grundy"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.6470999717712402

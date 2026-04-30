@@ -15,11 +15,7 @@
   "hint": "<p>chogahui05는 처음에 2가 적혀져 있는 카드를 가지고 있다. 첫 번째 턴에 정수 u로 1을 골라 2 xor 1의 결과값인 3이 적힌 카드와 교체하는 경우를 제외하고 다른 경우는 존재하지 않는다.</p>",
   "source": "Contest, BOJ User Contest, 네블컵, 제1회 네블컵, chogahui05, rdd6584",
   "level": 11,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "ad_hoc", "exponentiation_by_squaring"],
   "accepted_user_count": 297,
   "submission_count": null,
   "average_tries": 2.1953001022338867

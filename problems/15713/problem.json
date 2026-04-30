@@ -15,14 +15,7 @@
   "hint": "<p>1번째, 3번째, 4번째 트램펄린을 순서대로 밟으면 된다.</p>\n<p>오리는 (0~7), (7~6), (6~9), (9~10) 구간을 이동하므로 정답은 12이다.</p>\n<p>10에 닿는 순간 오리는 하늘에 도착한 것으로 간주함에 유의하라.</p>",
   "source": "Contest, BOJ User Contest, 네블컵, 제1회 네블컵, rdd6584",
   "level": 18,
-  "tags": [
-    "dp",
-    "graphs",
-    "data_structures",
-    "segtree",
-    "set",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "data_structures", "segtree", "set", "dijkstra"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 3.839099884033203

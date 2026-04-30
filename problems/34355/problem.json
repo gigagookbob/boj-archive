@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2025, Day 1",
   "level": 18,
-  "tags": [
-    "ad_hoc",
-    "binary_search",
-    "bitmask",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "binary_search", "bitmask", "parity"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.5

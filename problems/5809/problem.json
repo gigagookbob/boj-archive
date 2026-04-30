@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 2011 ACM South Pacific Programming Contest",
   "level": 17,
-  "tags": [
-    "graphs",
-    "bipartite_matching"
-  ],
+  "tags": ["graphs", "bipartite_matching"],
   "accepted_user_count": 48,
   "submission_count": null,
   "average_tries": 1.916700005531311

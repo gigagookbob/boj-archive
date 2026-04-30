@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/></p>\n<p><b>Wyjaśnienie do przykładu:</b> Pierwszy wydział nie może działać poprawnie, ponieważ wprawienie w ruch koła numer $1$ w prawą stronę spowodowałoby wprawienie w ruch koła numer $2$ w prawą i lewą stronę równocześnie, a taki ruch jest niepoprawny. W drugim wydziale nie ma żadnych pasów i jest to poprawna konfiguracja.</p>",
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2010, Stage 3",
   "level": 13,
-  "tags": [
-    "bfs",
-    "dfs",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["bfs", "dfs", "graphs", "graph_traversal"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.625

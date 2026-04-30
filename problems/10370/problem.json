@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Malaysia, ACM ICPC Asia Kuala Lumpur Regional Contest 2014",
   "level": 19,
-  "tags": [
-    "ad_hoc",
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["ad_hoc", "combinatorics", "math"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 1.6897000074386597

@@ -15,12 +15,7 @@
   "hint": "<h4>Output Details</h4><p>The optimal solution is to remove the 7 and 8, leaving 5, 1, and 2, whose average is 8/3.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2013-2014 Season, USACO March 2014 Contest, Gold",
   "level": 18,
-  "tags": [
-    "dp",
-    "binary_search",
-    "prefix_sum",
-    "parametric_search"
-  ],
+  "tags": ["dp", "binary_search", "prefix_sum", "parametric_search"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 2.746500015258789

@@ -15,11 +15,7 @@
   "hint": "<p>For the first sample test case, follow the strategy below.</p>\n<ul>\n<li>During the $0$-th second\n\t<ul>\n<li>Paimon arrives at vertex $1$;</li>\n<li>Paimon catches $1$ crystalfly;</li>\n<li>Crystalflies in vertices $2$ and $3$ are disturbed.</li>\n</ul>\n</li>\n<li>During the $1$-st second\n\t<ul>\n<li>Paimon arrives at vertex $3$;</li>\n<li>Paimon catches $100$ crystalflies.</li>\n</ul>\n</li>\n<li>During the $2$-nd second\n\t<ul>\n<li>Paimon arrives at vertex $1$;</li>\n<li>Crystalflies in vertex $2$ disappears.</li>\n</ul>\n</li>\n<li>During the $3$-rd second\n\t<ul>\n<li>Paimon arrives at vertex $2$;</li>\n<li>Crystalflies in vertices $4$ and $5$ are disturbed.</li>\n</ul>\n</li>\n<li>During the $4$-th second\n\t<ul>\n<li>Paimon arrives at vertex $5$;</li>\n<li>Paimon catches $10000$ crystalflies;</li>\n<li>Crystalflies in vertex $4$ disappears.</li>\n</ul>\n</li>\n</ul>\n<p>For the second sample test case, the optimal strategy is the same with the first sample test case. Crystalflies in vertex $2$ are scheduled to disappear at the end of the $3$-rd (instead of the $2$-nd) second, allowing Paimon to catch them.</p>",
   "source": "Contest, Open Cup, 2021/2022 Season, Stage 9: Grand Prix of Nanjing",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.18179988861084

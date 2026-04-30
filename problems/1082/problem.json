@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, jcs1110, kcm1700",
   "level": 13,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 2580,
   "submission_count": null,
   "average_tries": 2.841099977493286

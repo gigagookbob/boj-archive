@@ -15,12 +15,7 @@
   "hint": "<p>예제 출력에 쓰여 있는 해답은 출력 형식을 설명하기 위한 용도이며, 이외의 해답이 존재할 수도 존재하지 않을 수도 있다.</p>",
   "source": "University, POSTECH, PPC 2018, zynyste, bupjae",
   "level": 12,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "backtracking"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 2.7679998874664307

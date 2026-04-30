@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2021 December Contest, Platinum",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "deque",
-    "deque_trick",
-    "dp",
-    "dp_deque"
-  ],
+  "tags": ["data_structures", "deque", "deque_trick", "dp", "dp_deque"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.5

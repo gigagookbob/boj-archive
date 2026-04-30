@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2008/2009 Spring Training Camp",
   "level": 22,
-  "tags": [
-    "dual_graph",
-    "geometry",
-    "graphs",
-    "planar_graph",
-    "polygon_area"
-  ],
+  "tags": ["dual_graph", "geometry", "graphs", "planar_graph", "polygon_area"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 4.714300155639648

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2020 KAIST 10th ICPC Mock Competition, jh05013",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "binary_search"
-  ],
+  "tags": ["data_structures", "binary_search"],
   "accepted_user_count": 245,
   "submission_count": null,
   "average_tries": 2.0327000617980957

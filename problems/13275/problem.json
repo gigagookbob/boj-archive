@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon, apjw6112, golazcc83, yup0927",
   "level": 16,
-  "tags": [
-    "string",
-    "manacher"
-  ],
+  "tags": ["string", "manacher"],
   "accepted_user_count": 1160,
   "submission_count": null,
   "average_tries": 1.8482999801635742

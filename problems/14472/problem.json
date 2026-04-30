@@ -19,11 +19,7 @@
   "hint": "<p>入出力例 1 では，下の図に示すように，休憩スペースを設ける方法は全部で 12 通りある．</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"height:207px; width:1024px\"/></p>\n<p>※各入出力例のデータは，右クリック等によりファイルに保存して利用可能です．</p>",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2016/2017 예선",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "string", "bruteforcing"],
   "accepted_user_count": 225,
   "submission_count": null,
   "average_tries": 1.1155999898910522

@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<ul>\n<li>For at least 20% of test cases, N &lt;= 20.</li>\n<li>For at least 60% of test cases, N &lt;= 1000, M &lt;= 100.</li>\n<li>For all test cases, N &lt;= 10000, M &lt;= 1000.</li>\n<li>For all test cases, M &lt;= N.</li>\n</ul>\n<h4>Output Details</h4>\n<p>The modified necklace should be \"abbaa\".</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO March 2013 Contest, Gold",
   "level": 20,
-  "tags": [
-    "dp",
-    "string",
-    "kmp"
-  ],
+  "tags": ["dp", "string", "kmp"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2015, 중등부, baemin0103, suhgyuho, Lawali",
   "level": 15,
-  "tags": [
-    "trees",
-    "lca"
-  ],
+  "tags": ["trees", "lca"],
   "accepted_user_count": 548,
   "submission_count": null,
   "average_tries": 3.906899929046631

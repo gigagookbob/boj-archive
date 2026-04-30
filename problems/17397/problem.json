@@ -15,9 +15,7 @@
   "hint": "<p>flex는 본디 구부리다, (준비 운동으로) 몸을 풀다의 뜻을 가지고 있는 영단어인데, 운동하며 나오는 근육을 과시함을 뜻하는 관용구 'flex your muscles'로도 쓰인다.</p>\n<p>최근에는 몸풀기로 근육을 자랑하는 게 아니라 돈 등의 물질적인 자원을 자랑하는 은어로 사용되고 있다.</p>",
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, Open Contest, Camp, 숭고한 연합 Algorithm Camp, 2019 숭고한 연합 Algorithm Camp Contest, 중급반, inh212",
   "level": 14,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 125,
   "submission_count": null,
   "average_tries": 2.9600000381469727

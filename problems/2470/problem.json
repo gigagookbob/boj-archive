@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2010, 중등부, eric00513, djm03178, ggoh, gunwookim, kipa00",
   "level": 11,
-  "tags": [
-    "sorting",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "binary_search", "two_pointer"],
   "accepted_user_count": 20658,
   "submission_count": null,
   "average_tries": 3.0390000343322754

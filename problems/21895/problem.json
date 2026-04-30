@@ -15,11 +15,7 @@
   "hint": "<p>In the sample input, Dasha can win all three rounds. To achieve that, in the first round she chooses Rock (and wins the round together with the first robot), in the second round she chooses Scissors (and wins the round together with the second robot), in the third round she chooses Paper (winning both robots).</p>",
   "source": "Contest, Innopolis Open in Informatics, Innopolis Open, Elimination round, 2016-2017",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string",
-    "case_work"
-  ],
+  "tags": ["implementation", "string", "case_work"],
   "accepted_user_count": 119,
   "submission_count": null,
   "average_tries": 1.1345000267028809

@@ -15,11 +15,7 @@
   "hint": "<p>In the first case, you don't have to conquer anything, and you're already threatening the A.I.'s home planet.</p>\n<p>In the third case, you can threaten the A.I.'s home planet after conquering only one planet. You end up threatening two planets, and there's an extra planet that isn't connected to anything.</p>\n<p>In the fourth case, you can threaten the A.I.'s home planet by conquering planets 4 and 5. You end up threatening planets 6, 2, 3 and 1 (the A.I.'s home planet).</p>\n<h3>Note</h3>\n<p>Arcen Games is the creator of A.I. War. Arcen Games does not endorse and has no involvement with Google Code Jam.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 2",
   "level": 15,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dag"
-  ],
+  "tags": ["graphs", "shortest_path", "dag"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.076900005340576

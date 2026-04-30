@@ -19,14 +19,7 @@
   "hint": "<ul>\n<li>차는 다음과 같이 정의된다: $x$와 $y$의 차는 $x-y$와 $y-x$중 작지 않은 수이다.</li>\n</ul>",
   "source": "School, 경기과학고등학교, IamCoder Qualification Test, 2024 IamCoder Qualification Test, hwanhwan, denniskim, flappybird, gs20036, gs22123, ibm2006, jk410, junwoojune, lighton, mjhmjh1104, sonamoo",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "dp_tree"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dfs", "dp_tree"],
   "accepted_user_count": 154,
   "submission_count": null,
   "average_tries": 1.7143000364303589

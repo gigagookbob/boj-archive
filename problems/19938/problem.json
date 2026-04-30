@@ -10,13 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2020, Day 2",
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs",
-    "euler_tour_technique"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs", "euler_tour_technique"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 2.7339999675750732

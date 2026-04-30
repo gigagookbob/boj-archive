@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Estonian Informatics Olympiad, 2023-24, Open Competition",
   "level": 0,
-  "tags": [
-    "implementation",
-    "graphs",
-    "bruteforcing",
-    "geometry"
-  ],
+  "tags": ["implementation", "graphs", "bruteforcing", "geometry"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 3

@@ -15,10 +15,7 @@
   "hint": "<p>If the last letter is both odd and repeated, treat it as repeated and put the 'Q' before it, not afterward.  That is, ALL becomes ALQL for encoding purposes.</p>\n<p>In the unlikely case of two Qs in a row, insert a Z between them. Also, augment odd-length messages ending with a Q by using a Z.  Thus, FAQQAD becomes FAQZQADQ and HUQ becomes HUQZ for encoding.</p>",
   "source": "ICPC, Regionals, North America, Pacific Northwest Regional, 1999 Pacific Northwest Region Programming Contest, Olympiad, International Autumn Tournament in Informatics, 2018, Group D",
   "level": 12,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.25

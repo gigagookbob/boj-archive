@@ -19,14 +19,7 @@
   "hint": null,
   "source": ", Camp, JOI Spring Training Camp, JOI 2009/2010 Spring Training Camp",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "trees",
-    "dp_tree",
-    "parametric_search"
-  ],
+  "tags": ["dp", "greedy", "sorting", "trees", "dp_tree", "parametric_search"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.4515999555587769

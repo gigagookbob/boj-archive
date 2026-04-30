@@ -23,11 +23,7 @@
   "hint": "<p>Pojašnjenje probnih primjera:</p>\n<table class=\"table table-bordered td-center\">\n<tbody>\n<tr>\n<td><img alt=\"\" src=\"3.png\" style=\"width: 200px; height: 200px;\"/></td>\n<td><img alt=\"\" src=\"4.png\" style=\"width: 199px; height: 200px;\"/></td>\n</tr>\n<tr>\n<td>(a) Primjer odabira puteva prvog primjera</td>\n<td>(b) Primjer odabira puteva drugog primjera</td>\n</tr>\n</tbody>\n</table>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2024, Croatian Olympiad in Informatics 2024",
   "level": 18,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "flood_fill"
-  ],
+  "tags": ["graphs", "graph_traversal", "flood_fill"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 5

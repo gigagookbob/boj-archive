@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 1996",
   "level": 12,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.8333001136779785

@@ -15,11 +15,7 @@
   "hint": "<p>Here, if the cows with outputs 8+2 are paired up, and those with outputs 5+5 are paired up, the both stalls take 10 units of time for milking. Since milking takes place simultaneously, the entire process would therefore complete after 10 units of time. Any other pairing would be sub-optimal, resulting in a stall taking more than 10 units of time to milk.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2016-2017 Season, USACO 2017 US Open Contest, Silver, rdd6584",
   "level": 11,
-  "tags": [
-    "greedy",
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["greedy", "sorting", "two_pointer"],
   "accepted_user_count": 314,
   "submission_count": null,
   "average_tries": 1.9936000108718872

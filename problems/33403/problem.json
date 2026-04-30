@@ -19,9 +19,7 @@
   "hint": "<p>In the first example, Aizhan can use the forward button at moment $0$, watch the time interval $[1, 2)$ of the video, then rewind it to watch the time interval $[1, 2)$ again.</p>\n<p>Note that Aizhan watched time interval $[1, 2)$ twice, and the area under this interval on the graph is $1.5$. Thus, the cumulative interest is $3.0$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2024, Day 7: Kazakhstan Contest",
   "level": 19,
-  "tags": [
-    "cht"
-  ],
+  "tags": ["cht"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -23,11 +23,7 @@
   "hint": "<p>В первом примере среднее арифметическое округляется до &lt;&lt;B&gt;&gt;.</p>\n<p>Во втором примере, несмотря на среднее арифметическое, нельзя получить оценку более чем на балл превосходящую &lt;&lt;Z&gt;&gt;.</p>\n<p>В третьем примере одинаковое количество оценок &lt;&lt;A&gt;&gt; и &lt;&lt;B&gt;&gt;, что округлится к &lt;&lt;A&gt;&gt;.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 26, 2016, Basic",
   "level": 5,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic"
-  ],
+  "tags": ["math", "string", "arithmetic"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.0833001136779785

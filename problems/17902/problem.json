@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, Bergen Open, Bergen Open 2018",
   "level": 14,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.066699981689453

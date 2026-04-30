@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, kriiicon, 제2회 kriiICPC, august14",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["ad_hoc", "constructive", "implementation"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 3.733299970626831

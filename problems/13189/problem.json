@@ -23,11 +23,7 @@
   "hint": "<p>The three samples represent the three runs.</p>\n<p>The trick is performed twice. For the first test case, the first assistant receives the cards 1, 2, 5, 6, 7 and 10 and shows the magician, in order, the cards 1 and 2. The second assistant receives the cards 0, 3, 4, 8, 9 and 12 and shows the magician, in order, the cards 4 and 3. After he saw the four cards, the magician uses his magical abilities and guesses that Dracula's hidden card is 11.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2016, Day 1",
   "level": 27,
-  "tags": [
-    "ad_hoc",
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["ad_hoc", "bruteforcing", "math"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 6.400000095367432

@@ -19,12 +19,7 @@
   "hint": "<p>In the first sample, there is a single possession. The expected number of points scored in that possession is $2 \\cdot \\frac{50}{100} \\cdot \\frac{40}{100} + 3 \\cdot \\frac{30}{100} \\cdot \\frac{20}{100} = 0.58$</p>",
   "source": ", School, CS@Mines, CS@Mines HSPC 2023, Advanced",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "probability",
-    "linearity_of_expectation"
-  ],
+  "tags": ["math", "dp", "probability", "linearity_of_expectation"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1

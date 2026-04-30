@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, January 28, 2023",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "data_structures",
-    "tree_set",
-    "set"
-  ],
+  "tags": ["bruteforcing", "data_structures", "tree_set", "set"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

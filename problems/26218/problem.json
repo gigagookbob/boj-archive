@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 겨울 숲의 초대, 겨울 숲의 초대, frozenca, flappybird, hibye1217, kiwiyou, sait2000, wider93",
   "level": 15,
-  "tags": [
-    "dp",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "knapsack", "traceback"],
   "accepted_user_count": 87,
   "submission_count": null,
   "average_tries": 2.149399995803833

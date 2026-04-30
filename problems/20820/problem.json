@@ -19,11 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 500px; height: 147px;\"/></p>\n<p style=\"text-align: center;\">Figure 1: Exempelfall 1</p>\n<p>I exempelfall 1 tar det 2 sekunder att gå en meter när laget inte går på något rullband. Det snabbaste sättet att ta sig till slutet är att gå till rullbandet som tar 5 sekunder, åka på det, gå till det som tar 2 sekunder och sen åka på det. Totala tiden detta tar är $4+5+2+2=13$ sekunder.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 486px; height: 133px;\"/></p>\n<p style=\"text-align: center;\">Figure 2: Exempelfall 2</p>\n<p>I exempelfall 2 tar det istället 5 sekunder att gå en meter när laget inte går på något rullband. Det snabbaste sättet att ta sig till slutet är att gå till rullbandet som tar 8 sekunder, åka på det, gå tillbaka en meter och åka på rullbandet som tar 2 sekunder, och sen gå sista metern. Totala tiden detta tar är $5+8+5+2+5=25$ sekunder.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2020, Online Qualification",
   "level": 13,
-  "tags": [
-    "dijkstra",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "graphs", "shortest_path"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

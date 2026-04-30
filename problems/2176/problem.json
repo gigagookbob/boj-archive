@@ -15,12 +15,7 @@
   "hint": null,
   "source": "leehosu01",
   "level": 14,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 690,
   "submission_count": null,
   "average_tries": 2.9941999912261963

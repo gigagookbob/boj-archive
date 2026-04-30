@@ -27,12 +27,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 15,
-  "tags": [
-    "math",
-    "number_theory",
-    "euclidean",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "number_theory", "euclidean", "inclusion_and_exclusion"],
   "accepted_user_count": 275,
   "submission_count": null,
   "average_tries": 2.7126998901367188

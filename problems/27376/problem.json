@@ -15,12 +15,7 @@
   "hint": "<p>신호등이 초록 불에서 빨간 불로 바뀌는 시점에 해당 신호등 위치에 있는 차는 출발할 수 없다.</p>",
   "source": "University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2022 고려대학교 프로그래밍 경시대회 (KCPC mini), Div. 2, University, 고려대학교, 고려대학교 프로그래밍 경시대회, 2022 고려대학교 프로그래밍 경시대회 (KCPC mini), Open Contest, chansol, edwardblue, gs18115, moonrabbit",
   "level": 8,
-  "tags": [
-    "math",
-    "implementation",
-    "sorting",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "sorting", "simulation"],
   "accepted_user_count": 214,
   "submission_count": null,
   "average_tries": 3.4346001148223877

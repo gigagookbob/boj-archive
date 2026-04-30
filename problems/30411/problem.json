@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 춘배컵, 2023 제1회 춘배컵, fs_edge, gggkik, ksoosung77, naeby, nflight11, pjshwa, pyb1031, qvixnh22, rustiebeats, shinm0819, utilforever, wider93, wizardrabbit, ychangseok",
   "level": 13,
-  "tags": [
-    "graphs",
-    "ad_hoc",
-    "constructive",
-    "bipartite_graph"
-  ],
+  "tags": ["graphs", "ad_hoc", "constructive", "bipartite_graph"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 1.8841999769210815

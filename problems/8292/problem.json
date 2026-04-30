@@ -15,12 +15,7 @@
   "hint": "<p style=\"text-align:center\"><img alt=\"\" src=\"1.gif\" style=\"height:84px; width:495px\"/></p>\n<p>In the figure above black rectangles show seconds during which a meteor is visible. If Byteasar wants to see 6 meteors, he should insert his coins in moments -2, 2 and 9 in the following order of values: 1, 5 and 2 bythalers.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2011",
   "level": 22,
-  "tags": [
-    "bitmask",
-    "dp",
-    "dp_bitfield",
-    "greedy"
-  ],
+  "tags": ["bitmask", "dp", "dp_bitfield", "greedy"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 3.0525999069213867

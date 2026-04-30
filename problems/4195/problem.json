@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 27 September, 2008, baekjoon, chinjja, jh05013, tlsdydaud1, stilltime",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "disjoint_set"],
   "accepted_user_count": 11558,
   "submission_count": null,
   "average_tries": 3.440000057220459

@@ -15,14 +15,7 @@
   "hint": null,
   "source": "xhark, jh05013",
   "level": 21,
-  "tags": [
-    "math",
-    "graphs",
-    "greedy",
-    "shortest_path",
-    "dijkstra",
-    "0_1_bfs"
-  ],
+  "tags": ["math", "graphs", "greedy", "shortest_path", "dijkstra", "0_1_bfs"],
   "accepted_user_count": 181,
   "submission_count": null,
   "average_tries": 3.4254000186920166

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2014, myungwoo, WeissBlume",
   "level": 22,
-  "tags": [
-    "dp",
-    "backtracking"
-  ],
+  "tags": ["dp", "backtracking"],
   "accepted_user_count": 52,
   "submission_count": null,
   "average_tries": 4.28849983215332

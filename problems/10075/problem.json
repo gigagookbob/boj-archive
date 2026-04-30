@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2014, Day 2",
   "level": 26,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 246,
   "submission_count": null,
   "average_tries": 3.1545000076293945

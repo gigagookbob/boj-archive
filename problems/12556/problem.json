@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2010, Round 3",
   "level": 14,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory",
-    "flt"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory", "flt"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.603800058364868

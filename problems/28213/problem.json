@@ -19,10 +19,7 @@
   "hint": null,
   "source": "kiwiyou, hjroh0315, mingyu331, sukh1222",
   "level": 0,
-  "tags": [
-    "implementation",
-    "offline_queries"
-  ],
+  "tags": ["implementation", "offline_queries"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 13.125

@@ -15,11 +15,7 @@
   "hint": "<p>Fields/distances like this:</p>\n<pre>\n          6\n      4------5\n      |      |\n     2|      |\n      |      |\n7-----1      |5\n   9  |      |\n     1|      |\n      |      |\n      2------3\n</pre>\n<p>Any cow except cow 5 could have done it. Cow 5 would take 9 seconds to get to the barn.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO March 2005 Contest, Silver",
   "level": 11,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "dijkstra"
-  ],
+  "tags": ["graphs", "shortest_path", "dijkstra"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 1.611899971961975

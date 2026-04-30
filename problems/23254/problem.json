@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 선린 가을맞이 알고리즘 챌린지, Beginner Division, myyh1234, hibye1217, jhnah917, quickn, tony9402",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "priority_queue"],
   "accepted_user_count": 602,
   "submission_count": null,
   "average_tries": 1.9833999872207642

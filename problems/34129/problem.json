@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ohwphil, sksms1375, iktk, nflight11, saywoo, sharaelong, wapas",
   "level": 15,
-  "tags": [
-    "dp",
-    "greedy",
-    "sorting",
-    "knapsack",
-    "traceback"
-  ],
+  "tags": ["dp", "greedy", "sorting", "knapsack", "traceback"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.9200000762939453

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 건국대학교, 2023 건국대학교 프로그래밍 경진대회 (KUPC), Division 2, University, 건국대학교, 2023 건국대학교 프로그래밍 경진대회 (KUPC), Open Contest, aru0504, dldyou, asz2325, creampuffshu, keunbum, naeby, pizzaroot, riroan, shiftpsh, solvedac, utilforever",
   "level": 5,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 700,
   "submission_count": null,
   "average_tries": 1.2157000303268433

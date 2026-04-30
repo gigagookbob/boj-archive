@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, ICPC Sinchon Algorithm Camp, 2021 ICPC Sinchon Summer Algorithm Camp Contest, 중급, seastar105, djs100201, gumgood, gunwookim, kyo20111, lky7674, pichulia",
   "level": 18,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting",
-    "scc"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting", "scc"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.0332999229431152

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Google, Code Jam, Google Code Jam 2011, Round 3",
   "level": 20,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "scc",
-    "2_sat"
-  ],
+  "tags": ["graphs", "graph_traversal", "scc", "2_sat"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1

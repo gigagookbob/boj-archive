@@ -19,11 +19,7 @@
   "hint": "<p><iframe allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen=\"\" frameborder=\"0\" height=\"315\" referrerpolicy=\"strict-origin-when-cross-origin\" src=\"1.png\" title=\"YouTube video player\" width=\"560\"></iframe></p>\n<p>'Sequence'는 IZ*ONE의 마지막 앨범 One-reeler/ActIV의 수록곡이다.</p>",
   "source": "School, 한국디지털미디어고등학교, 제2회 디미고 프로그래밍 챌린지, ian0704, 99asdfg, deom, dkim110807, ldhhello, qvixnh22, seungchan0325, tlsdydaud1, utilforever",
   "level": 15,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 3.064500093460083

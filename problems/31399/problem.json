@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #4, Division 1, queued_q, solvedac, cologne, gs18115, seonah, shiftpsh",
   "level": 19,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "disjoint_set"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "disjoint_set"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 5.662499904632568

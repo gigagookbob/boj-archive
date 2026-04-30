@@ -15,14 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2025!, ibm2006, cki86201, cs71107, jhnah917, leejseo, serin, silverwolf",
   "level": 15,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "sorting",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "sorting", "trees", "dfs"],
   "accepted_user_count": 82,
   "submission_count": null,
   "average_tries": 2.390199899673462

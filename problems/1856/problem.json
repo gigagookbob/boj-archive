@@ -15,10 +15,7 @@
   "hint": "<p>browndcodw에서 두 개의 d를 제거하면, brown과 cow 두 개의 단어로 표현할 수 있다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO February 2007 Contest, Silver, author10",
   "level": 15,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 98,
   "submission_count": null,
   "average_tries": 2.1122000217437744

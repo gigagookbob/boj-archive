@@ -31,10 +31,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제2회 고려대학교 MatKor Cup: 2023 Winter, coo001, kidw0124, alex04, amel, eoaud0108, stonejjun03, yijw0930",
   "level": 1,
-  "tags": [
-    "math",
-    "implementation"
-  ],
+  "tags": ["math", "implementation"],
   "accepted_user_count": 7075,
   "submission_count": null,
   "average_tries": 1.4697999954223633

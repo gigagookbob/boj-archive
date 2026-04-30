@@ -15,11 +15,7 @@
   "hint": "<p>In the first sample, $s=[3,13,183,905]$ and $t=[731,565,303]$.</p>\n<p>In the second sample, $s=[0,0,0]$ and $t=[0,0,0,0]$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 6: Heltion Contest",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["data_structures", "hash_set", "set"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5713999271392822

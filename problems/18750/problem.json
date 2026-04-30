@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, one possible set of triples is {(1, 0, 1),(0, 1, 1),(−1, 0, 1),(0, −1, 1)}.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 7: Gennady Korotkevich Contest 5, Contest, Open Cup, 2019/2020 Season, Stage 11: Grand Prix of Gomel",
   "level": 19,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "pick"
-  ],
+  "tags": ["geometry", "convex_hull", "pick"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5713999271392822

@@ -15,11 +15,7 @@
   "hint": "<p>Rebecca can send two emails, the first containing the integers $(2, 6, 7)$ and the second containing the integers $(1, 2, 5)$. The first email costs $5$ cents and increases $h_6$ by $1$, while the second email costs $9$ cents and increases $h_2$ by $1$.</p>\n<p>The $h_i$ values in the final picture will be $[3, 3, 4, 5, 4, 2, 2, 1]$. Her readers will believe this final picture contains a real mountain.</p>",
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2023, CCO 2023",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "sweeping"
-  ],
+  "tags": ["data_structures", "segtree", "sweeping"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 1.4500000476837158

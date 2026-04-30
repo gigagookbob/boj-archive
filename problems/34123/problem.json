@@ -19,12 +19,7 @@
   "hint": null,
   "source": "pk661, gs22059, kdy40929, mj1000j, woohyun_jng",
   "level": 20,
-  "tags": [
-    "graphs",
-    "data_structures",
-    "disjoint_set",
-    "offline_queries"
-  ],
+  "tags": ["graphs", "data_structures", "disjoint_set", "offline_queries"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

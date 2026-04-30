@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Russian Code Cup, 2015, RCC 2015 Third Qualification Round",
   "level": 10,
-  "tags": [
-    "math",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "simulation"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.6666998863220215

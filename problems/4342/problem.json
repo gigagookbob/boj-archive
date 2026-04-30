@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Waterloo's local Programming Contests, 28 September, 2002, baekjoon, dlaud5379, doju",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "game_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "number_theory", "game_theory", "euclidean"],
   "accepted_user_count": 525,
   "submission_count": null,
   "average_tries": 2.6989998817443848

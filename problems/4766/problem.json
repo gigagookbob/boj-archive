@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 2003 Mid-Atlantic Regional Programming Contest, ICPC, Regionals, North America, Mid-Atlantic Regional, 2002 Mid-Atlantic Regional Programming Contest, baekjoon",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 3313,
   "submission_count": null,
   "average_tries": 1.4778000116348267

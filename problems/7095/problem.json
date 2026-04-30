@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Balkan Olympiad in Informatics, BOI 1997",
   "level": 8,
-  "tags": [
-    "math",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "arbitrary_precision"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 2.3059000968933105

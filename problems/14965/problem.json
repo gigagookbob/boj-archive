@@ -23,12 +23,7 @@
   "hint": "<p>Clarification​ ​of​ ​the​ ​second​ ​test​ ​case:</p>\n<p>The first user can login as the second user, the second user can login as the first, and the third user can login as both the first and the second user.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2017/2018, Contest #1",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "string", "set", "hash_set"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.5849000215530396

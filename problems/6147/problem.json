@@ -15,10 +15,7 @@
   "hint": "<p>One way to reach 40 with 3 cows is 18+11+13; many others exist</p>\n<p> </p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO December 2007 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 275,
   "submission_count": null,
   "average_tries": 1.3381999731063843

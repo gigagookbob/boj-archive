@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 미적확통컵, 2022 제1회 미적확통컵, azberjibiou, ai4youej, jh05013, kiwiyou, qwerasdfzxcl, wider93",
   "level": 24,
-  "tags": [
-    "math",
-    "implementation",
-    "sweeping",
-    "calculus",
-    "cht"
-  ],
+  "tags": ["math", "implementation", "sweeping", "calculus", "cht"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 7

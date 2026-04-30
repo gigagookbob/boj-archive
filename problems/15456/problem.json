@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2017-2018 Season, USACO 2017 December Contest, Platinum",
   "level": 19,
-  "tags": [
-    "binary_search",
-    "greedy"
-  ],
+  "tags": ["binary_search", "greedy"],
   "accepted_user_count": 110,
   "submission_count": null,
   "average_tries": 2.036400079727173

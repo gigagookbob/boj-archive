@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2020 Local Programming Contest (Final Round)",
   "level": 11,
-  "tags": [
-    "trees",
-    "constructive"
-  ],
+  "tags": ["trees", "constructive"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.5

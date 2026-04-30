@@ -15,12 +15,7 @@
   "hint": "<ul>\n<li>$a$와 $b$의 bitwise XOR인 $a \\oplus b$는, 2진법으로 표현했을 때 $a$와 $b$의 $i$ 번째 자리가 같으면 $a \\oplus b$의 $i$ 번째 자리가 $0$이고, 서로 다르면 $1$이 되도록 계산한다.</li>\n<li>수열 $A_1, A_2, \\cdots, A_K$가 $B_1, B_2, \\cdots, B_K$보다 사전 순으로 앞선다는 의미는, $1$ 이상 $K$ 이하의 정수 $i$가 존재해서, $A_1 = B_1, A_2 = B_2, \\cdots, A_{i-1} = B_{i-1}$이고, $A_i &lt; B_i$임을 의미한다.</li>\n</ul>",
   "source": "Contest, BOJ User Contest, Good Bye, BOJ, Good Bye, BOJ 2021!, cs71107, cheetose, dennisstar, ho94949, jhhope1, jhnah917, shiftpsh",
   "level": 18,
-  "tags": [
-    "math",
-    "bitmask",
-    "linear_algebra",
-    "xor_basis"
-  ],
+  "tags": ["math", "bitmask", "linear_algebra", "xor_basis"],
   "accepted_user_count": 140,
   "submission_count": null,
   "average_tries": 2.0143001079559326

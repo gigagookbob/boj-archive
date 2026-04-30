@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, October 9, 2022, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2022-2023 Season, October 9, 2022, Advanced",
   "level": 0,
-  "tags": [
-    "graphs",
-    "sorting"
-  ],
+  "tags": ["graphs", "sorting"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 17

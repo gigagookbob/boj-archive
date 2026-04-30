@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO December 2009 Contest, Silver",
   "level": 15,
-  "tags": [
-    "math",
-    "sorting",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["math", "sorting", "prefix_sum", "sweeping"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 3.9721999168395996

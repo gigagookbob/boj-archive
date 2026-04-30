@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Championship, North America Championship 2025",
   "level": 18,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "calculus",
-    "pythagoras"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "calculus", "pythagoras"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 3.6110999584198

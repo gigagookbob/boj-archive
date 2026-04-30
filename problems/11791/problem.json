@@ -15,10 +15,7 @@
   "hint": "<p>//a = 10 d = 10 lowest = 2.88 nslab = 8 wslab = 14</p>\n<p>One possible solution to the sample input above is</p>\n<table class=\"table table-bordered\" style=\"width:50%\">\n<thead>\n<tr>\n<th>CGPARange</th>\n<th># of students</th>\n<th>Waiver %</th>\n<th>Total Units needed</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>3.93-4.00</td>\n<td>2</td>\n<td>80</td>\n<td>160</td>\n</tr>\n<tr>\n<td>3.78-3.92</td>\n<td>0</td>\n<td>70</td>\n<td> </td>\n</tr>\n<tr>\n<td>3.63-3.77</td>\n<td>3</td>\n<td>60</td>\n<td>180</td>\n</tr>\n<tr>\n<td>3.48-3.62</td>\n<td>0</td>\n<td>50</td>\n<td> </td>\n</tr>\n<tr>\n<td>3.33-3.47</td>\n<td>0</td>\n<td>40</td>\n<td> </td>\n</tr>\n<tr>\n<td>3.18-3.32</td>\n<td>2</td>\n<td>30</td>\n<td>60</td>\n</tr>\n<tr>\n<td>3.03-3.17</td>\n<td>0</td>\n<td>20</td>\n<td> </td>\n</tr>\n<tr>\n<td>2.88-3.02</td>\n<td>1</td>\n<td>10</td>\n<td>10</td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td>Total Units</td>\n<td>410</td>\n</tr>\n</tbody>\n</table>\n<p>There is another 79553 different allocation which uses up all 410 units exactly. </p>",
   "source": "ICPC, Regionals, Asia Pacific, Thailand, 2015 ACM-ICPC Asia Phuket Regional Programming Contest",
   "level": 13,
-  "tags": [
-    "implementation",
-    "prefix_sum"
-  ],
+  "tags": ["implementation", "prefix_sum"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.7221999168395996

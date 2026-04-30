@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 구데기컵, EtvycAuRLZpb6hhe86x0, kipa00",
   "level": 26,
-  "tags": [
-    "arbitrary_precision",
-    "implementation",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "implementation", "math"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 24.7273006439209

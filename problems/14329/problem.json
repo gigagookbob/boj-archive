@@ -15,14 +15,7 @@
   "hint": "<p>In sample case #1, you can upgrade the first 4 cards to level 3, upgrade the 5th and 6th card to level 2, keep the last 2 cards level 1. This will cost you (1+2)+(1+3)+(1+4)+(1+5)+1+1=20 coins and the total attack power is 100+100+100+100+10+10+1+1=422 which is the maximal possible we can get. </p>\n<p>Sample case #2 would only appear in Large dataset.</p>",
   "source": "Contest, Google, Google's Coding Competitions, Google APAC 2017 University Test, Round A APAC Test 2017, Contest, Google, Kick Start, Google Kick Start 2016, Round A",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "dp",
-    "hash_set",
-    "mitm",
-    "two_pointer",
-    "set"
-  ],
+  "tags": ["data_structures", "dp", "hash_set", "mitm", "two_pointer", "set"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 4.3333001136779785

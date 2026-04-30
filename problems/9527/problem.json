@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2013, myungwoo",
   "level": 14,
-  "tags": [
-    "math",
-    "prefix_sum",
-    "bitmask"
-  ],
+  "tags": ["math", "prefix_sum", "bitmask"],
   "accepted_user_count": 4210,
   "submission_count": null,
   "average_tries": 2.340100049972534

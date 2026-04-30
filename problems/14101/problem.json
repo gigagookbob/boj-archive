@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, The Croatian Programming Contest, CPC 2013",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "min_enclosing_circle"
-  ],
+  "tags": ["bruteforcing", "geometry", "min_enclosing_circle"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

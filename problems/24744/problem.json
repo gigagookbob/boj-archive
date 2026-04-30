@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2021 Greater New York Programming Contest, ICPC, Regionals, North America, Greater New York Region, 2023 Greater New York Programming Contest",
   "level": 23,
-  "tags": [
-    "math",
-    "geometry",
-    "binary_search",
-    "geometry_3d"
-  ],
+  "tags": ["math", "geometry", "binary_search", "geometry_3d"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.3600000143051147

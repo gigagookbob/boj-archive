@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2014",
   "level": 19,
-  "tags": [
-    "bruteforcing",
-    "dp"
-  ],
+  "tags": ["bruteforcing", "dp"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.9333000183105469

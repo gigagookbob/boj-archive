@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2014, functionx",
   "level": 25,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "recursion"
-  ],
+  "tags": ["ad_hoc", "constructive", "recursion"],
   "accepted_user_count": 230,
   "submission_count": null,
   "average_tries": 2.469599962234497

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2022 SKKU 프로그래밍 대회 in 소프트의 밤, st42597, bnb2011, deuslovelt, heeda0528, jthis, jyheo98, leeh18, leo020630, max804, palilo",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "hash_set",
-    "parametric_search"
-  ],
+  "tags": ["data_structures", "greedy", "set", "hash_set", "parametric_search"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 3.5455000400543213

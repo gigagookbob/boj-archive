@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, The USC Programming Contest, Spring 2011: Famous Computer Scientists",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "priority_queue",
-    "sorting"
-  ],
+  "tags": ["data_structures", "priority_queue", "sorting"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.1110999584197998

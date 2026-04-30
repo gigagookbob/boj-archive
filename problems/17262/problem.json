@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 숭실대학교, 2019 SCON, king7282",
   "level": 7,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 1014,
   "submission_count": null,
   "average_tries": 1.9437999725341797

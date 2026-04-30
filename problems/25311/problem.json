@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2022 예선 연습 세션, University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2024 예선 연습 세션, ho94949, bnb2011, djm03178, doju, lky7674, myungwoo, queued_q, quickn, shiftpsh",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 7552,
   "submission_count": null,
   "average_tries": 1.0954999923706055

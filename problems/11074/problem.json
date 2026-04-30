@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Western Division, ACM South Pacific Western Division 2015, ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Eastern Division, ACM South Pacific Eastern Division 2015, ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Central Division, ACM South Pacific Central Division 2015",
   "level": 9,
-  "tags": [
-    "implementation",
-    "constructive",
-    "simulation"
-  ],
+  "tags": ["implementation", "constructive", "simulation"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.6842000484466553

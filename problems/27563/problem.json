@@ -15,11 +15,7 @@
   "hint": "<p>A sequence of $4$ operations transforming the first string into \"MOO\" is as follows:</p>\n<pre>\nReplace the last character with O (operation 1)\nDelete the first character (operation 2)\nDelete the first character (operation 2)\nDelete the first character (operation 2)\n</pre>\n<p>The second string cannot be transformed into \"MOO.\" The third string is already \"MOO,\" so no operations need to be performed.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2022-2023 Season, USACO 2023 January Contest, Bronze",
   "level": 6,
-  "tags": [
-    "greedy",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["greedy", "string", "bruteforcing"],
   "accepted_user_count": 374,
   "submission_count": null,
   "average_tries": 2.09089994430542

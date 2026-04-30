@@ -19,13 +19,7 @@
   "hint": "<p>Clarification of the first example: The only word Tarzan has shown is abca. The answer to the first question is, of course, 1 because the word a is a substring of the word abca. The answer to the second question is also 1 because the word abc is a substring of the word abca.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #5",
   "level": 25,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "trie",
-    "aho_corasick"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "trie", "aho_corasick"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 4.230800151824951

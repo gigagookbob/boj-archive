@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 양갈래컵, 제 1회 양갈래컵, gubshig, ibm2006, jyheo98, mingyu331, pretty_pi",
   "level": 16,
-  "tags": [
-    "dp",
-    "trees",
-    "prefix_sum",
-    "difference_array"
-  ],
+  "tags": ["dp", "trees", "prefix_sum", "difference_array"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 2.0464999675750732

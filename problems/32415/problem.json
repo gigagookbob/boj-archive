@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2024, CCO 2024",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "set",
-    "tree_set",
-    "lis"
-  ],
+  "tags": ["data_structures", "greedy", "set", "tree_set", "lis"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.5385000705718994

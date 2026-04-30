@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2023",
   "level": 22,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "inclusion_and_exclusion",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "inclusion_and_exclusion", "math"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.5

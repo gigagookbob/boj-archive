@@ -15,11 +15,7 @@
   "hint": "<p>(1,1), (2,2), (3,3), (3,2), (4,2), (4,1) 순서로 방문하면 된다.</p>\r\n",
   "source": ", Olympiad, Japanese Olympiad in Informatics, Japanese Olympiad in Informatics Qualification Round, JOI 2013/2014 예선, baekjoon, cokcjswo, YunGoon",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "arithmetic", "case_work"],
   "accepted_user_count": 391,
   "submission_count": null,
   "average_tries": 2.1303999423980713

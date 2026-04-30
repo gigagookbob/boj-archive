@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2022, Day 4: Ivan Kazmenko Contest 3",
   "level": 18,
-  "tags": [
-    "hashing",
-    "randomization"
-  ],
+  "tags": ["hashing", "randomization"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 8.307700157165527

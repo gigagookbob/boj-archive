@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Camp, 숭고한 연합 Algorithm Camp, 2020 숭고한 연합 Algorithm Camp, Advanced, lobo_prix",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["math", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 4.7316999435424805

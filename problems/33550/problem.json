@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", University, Delft University of Technology, Sjaars Kampioenschap Programmeren 2015",
   "level": 13,
-  "tags": [
-    "math",
-    "graphs",
-    "number_theory",
-    "primality_test",
-    "mst"
-  ],
+  "tags": ["math", "graphs", "number_theory", "primality_test", "mst"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 3.764699935913086

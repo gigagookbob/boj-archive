@@ -19,13 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, The UK & Ireland Programming Contest, UKIEPC 2016",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "backtracking",
-    "bruteforcing",
-    "dp",
-    "graphs"
-  ],
+  "tags": ["ad_hoc", "backtracking", "bruteforcing", "dp", "graphs"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.894700050354004

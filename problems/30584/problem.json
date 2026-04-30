@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Qualification",
   "level": 5,
-  "tags": [
-    "math",
-    "arithmetic",
-    "case_work"
-  ],
+  "tags": ["math", "arithmetic", "case_work"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.5090999603271484

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2019",
   "level": 12,
-  "tags": [
-    "bitmask",
-    "greedy"
-  ],
+  "tags": ["bitmask", "greedy"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.2414000034332275

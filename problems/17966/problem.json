@@ -19,10 +19,7 @@
   "hint": "<p>Let’s enumerate each edge in the same way as they appear in the input. I will use ei to represent the edge that appears i-th in the input.</p>\n<p>The only possible cycle-split in the first sample is S = {[e<sub>1</sub>, e<sub>2</sub>, e<sub>3</sub>]}. f(e<sub>1</sub>, e<sub>2</sub>)+f(e<sub>2</sub>, e<sub>3</sub>)+f(e<sub>3</sub>, e1) = 1+1+1 = 3.</p>\n<p>The optimal cycle-split in the second sample is S = {[e<sub>3</sub>, e<sub>8</sub>, e<sub>9</sub>], [e<sub>2</sub>, e<sub>4</sub>, e<sub>7</sub>, e<sub>10</sub>, e<sub>5</sub>, e<sub>1</sub>, e<sub>6</sub>]}. The price of [e<sub>3</sub>, e<sub>8</sub>, e<sub>9</sub>] is equal to 12, the price of [e<sub>2</sub>, e<sub>4</sub>, e<sub>7</sub>, e<sub>10</sub>, e<sub>5</sub>, e<sub>1</sub>, e<sub>6</sub>] is equal to 23, thus the price of the split is equal to 35.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2019, Contest, Open Cup, 2019/2020 Season, Stage 6: Grand Prix of Southeastern Europe",
   "level": 17,
-  "tags": [
-    "graphs",
-    "greedy"
-  ],
+  "tags": ["graphs", "greedy"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 1.034500002861023

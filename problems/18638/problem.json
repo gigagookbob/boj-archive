@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 6: MIPT Contest",
   "level": 21,
-  "tags": [
-    "dp",
-    "dp_tree",
-    "greedy",
-    "sorting",
-    "trees"
-  ],
+  "tags": ["dp", "dp_tree", "greedy", "sorting", "trees"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 2.4000000953674316

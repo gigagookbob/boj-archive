@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, Northern Eurasia Finals 2020 (Online)",
   "level": 20,
-  "tags": [
-    "combinatorics",
-    "geometry",
-    "implementation",
-    "math"
-  ],
+  "tags": ["combinatorics", "geometry", "implementation", "math"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.9333000183105469

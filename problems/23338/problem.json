@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Taiwan, Taiwan Online Programming Contest, TOPC 2021",
   "level": 15,
-  "tags": [
-    "math",
-    "binary_search",
-    "parametric_search",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "binary_search", "parametric_search", "arbitrary_precision"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.736799955368042

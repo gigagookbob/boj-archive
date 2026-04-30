@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, ACM-ICPC Asia Tsukuba Regional Contest 2017",
   "level": 17,
-  "tags": [
-    "ad_hoc",
-    "case_work",
-    "geometry"
-  ],
+  "tags": ["ad_hoc", "case_work", "geometry"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 2.1154000759124756

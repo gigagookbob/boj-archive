@@ -15,11 +15,7 @@
   "hint": "<p>좋은 날은 IU 미니 3집 Real의 타이틀 곡이고 싫은 날은 IU 정규 3집 Modern Times의 수록곡이다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, ROOKIE League, University, 한양대학교 ERICA 캠퍼스, 2019 HEPC, MAVEN League, TheKinGoD, cheetose, jh05013, jh05013",
   "level": 6,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 938,
   "submission_count": null,
   "average_tries": 1.8657000064849854

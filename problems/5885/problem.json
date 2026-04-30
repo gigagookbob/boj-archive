@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>The sample input matches the figure above.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO US Open 2012 Contest, Bronze",
   "level": 11,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 2.3085999488830566

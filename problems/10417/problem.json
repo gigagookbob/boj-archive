@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2014 Rocky Mountain Regional Contest, ICPC, Regionals, North America, North Central North America Regional, NCNA 2014",
   "level": 12,
-  "tags": [
-    "combinatorics",
-    "math"
-  ],
+  "tags": ["combinatorics", "math"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.0644999742507935

@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, dhdh6190, djm03178",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "deque"
-  ],
+  "tags": ["data_structures", "deque"],
   "accepted_user_count": 28896,
   "submission_count": null,
   "average_tries": 1.5942000150680542

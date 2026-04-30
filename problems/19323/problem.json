@@ -19,13 +19,7 @@
   "hint": "<p>For the first sample, there are three possible configurations:</p>\n<ol>\n<li>Dog $1$ is sick while dog $2$ is not. Villager $1$ finds no dogs other than his are sick, so he shoots his own dog on day $1$.</li>\n<li>Dog $2$ is sick while dog $1$ is not. On day $1$, villager $1$ is not sure about his dog, so he does nothing. On day $2$, villager $2$ knows his dog must be sick, or villager $1$ would shoot his own dog on day $1$.</li>\n<li>Both dogs are sick. This case is similar to the second case.</li>\n</ol>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 7: Ruyi Ji Contest 3",
   "level": 27,
-  "tags": [
-    "math",
-    "graphs",
-    "ad_hoc",
-    "combinatorics",
-    "bitset"
-  ],
+  "tags": ["math", "graphs", "ad_hoc", "combinatorics", "bitset"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 2.25

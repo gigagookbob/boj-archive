@@ -15,12 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2014",
   "level": 16,
-  "tags": [
-    "hashing",
-    "implementation",
-    "recursion",
-    "simulation"
-  ],
+  "tags": ["hashing", "implementation", "recursion", "simulation"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.6666998863220215

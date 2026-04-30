@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, KBTU Open, KBTU Open 2008",
   "level": 3,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 374,
   "submission_count": null,
   "average_tries": 1.2245999574661255

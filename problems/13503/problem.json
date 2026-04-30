@@ -15,9 +15,7 @@
   "hint": "<p>예제: 2-&gt;7-&gt;3-&gt;6, 1-&gt;5-&gt;4</p>",
   "source": "baekjoon, dohoon",
   "level": 19,
-  "tags": [
-    "bipartite_matching"
-  ],
+  "tags": ["bipartite_matching"],
   "accepted_user_count": 105,
   "submission_count": null,
   "average_tries": 1.61899995803833

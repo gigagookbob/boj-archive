@@ -15,14 +15,7 @@
   "hint": "<pre>\r\n4 5\r\n1 0 0 0 0\r\n3 0 0 0 0\r\n0 0 2 0 0\r\n0 0 0 4 0</pre>\r\n\r\n<p>입출력 예시의 세 가지 경우는 다음과 같다. X표 친 곳에 방석을 놓으면 된다.</p>\r\n\r\n<pre>\r\n1 0 0 0 0     1 0 X 0 0     1 0 X 0 0\r\n3 0 X 0 0     3 0 0 0 0     3 0 0 0 X\r\n0 0 2 0 0     0 X 2 0 0     0 0 2 0 0\r\n0 X 0 4 0     0 0 0 4 0     0 0 0 4 0</pre>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO February 2007 Contest, Gold",
   "level": 20,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "set",
-    "bfs",
-    "dijkstra"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "set", "bfs", "dijkstra"],
   "accepted_user_count": 172,
   "submission_count": null,
   "average_tries": 4.465099811553955

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, NEERC Northern Subregional 2007",
   "level": 4,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "parity"
-  ],
+  "tags": ["math", "bruteforcing", "parity"],
   "accepted_user_count": 329,
   "submission_count": null,
   "average_tries": 2.2188000679016113

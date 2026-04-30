@@ -23,10 +23,7 @@
   "hint": "<p>올해 2022 APC에서도 어김없이 의찬이와 지수는 트롤링을 저질렀다!</p>",
   "source": "University, 아주대학교, 2022 아주대학교 프로그래밍 경시대회 APC, gbe0808, kipa00, tony9402, wider93",
   "level": 7,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 504,
   "submission_count": null,
   "average_tries": 1.7102999687194824

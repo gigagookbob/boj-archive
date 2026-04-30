@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 소프트콘, 제3회 소프트콘, jwvg0425, cheetose, cs71107, kyo20111",
   "level": 19,
-  "tags": [
-    "dp",
-    "sorting",
-    "geometry",
-    "set"
-  ],
+  "tags": ["dp", "sorting", "geometry", "set"],
   "accepted_user_count": 66,
   "submission_count": null,
   "average_tries": 4.3333001136779785

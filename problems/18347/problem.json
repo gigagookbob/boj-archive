@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 전시관, 제1 전시관, ho94949",
   "level": 23,
-  "tags": [
-    "math",
-    "number_theory",
-    "constructive"
-  ],
+  "tags": ["math", "number_theory", "constructive"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 4.1666998863220215

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Regional Contest",
   "level": 19,
-  "tags": [
-    "math",
-    "number_theory",
-    "precomputation"
-  ],
+  "tags": ["math", "number_theory", "precomputation"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2856999635696411

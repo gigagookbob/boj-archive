@@ -23,13 +23,7 @@
   "hint": "<p>In the first example, f(0) = 2, f(1) = 0.</p>\n<p>In the second example, f(0) = 1, f(1) = 1, f(2) = 2, f(3) = 0.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 3: 300iq Petrozavodsk Contest III, 300iq",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "combinatorics",
-    "bitmask"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum", "combinatorics", "bitmask"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.6818000078201294

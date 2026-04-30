@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 15,
-  "tags": [
-    "graphs",
-    "constructive",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "constructive", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 3.6614999771118164

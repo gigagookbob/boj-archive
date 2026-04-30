@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, Algorithmic Engagements, PA 2002.05",
   "level": 7,
-  "tags": [
-    "arbitrary_precision",
-    "bitmask",
-    "math"
-  ],
+  "tags": ["arbitrary_precision", "bitmask", "math"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 2.8261001110076904

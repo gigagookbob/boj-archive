@@ -19,13 +19,7 @@
   "hint": null,
   "source": "University, 가톨릭대학교, 제4회 가톨릭대학교 프로그래밍 경진대회 (CCPC), chan120317, geon08, gjdms611, kimcoding, main_dbstn, rhs0266, tony9402, tyoungs",
   "level": 15,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation", "bfs"],
   "accepted_user_count": 135,
   "submission_count": null,
   "average_tries": 6.429599761962891

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2001",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "sorting",
-    "set"
-  ],
+  "tags": ["implementation", "string", "sorting", "set"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.0625

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2019 Overflow Programming Contest (OPC), hojoon0205",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "euler_tour_technique"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "euler_tour_technique"],
   "accepted_user_count": 874,
   "submission_count": null,
   "average_tries": 2.4737000465393066

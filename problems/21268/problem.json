@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 14: Grand Prix of Tokyo",
   "level": 27,
-  "tags": [
-    "math",
-    "divide_and_conquer",
-    "fft",
-    "generating_function"
-  ],
+  "tags": ["math", "divide_and_conquer", "fft", "generating_function"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 2.3333001136779785

@@ -31,14 +31,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2022, Day 3: Kazakhstan Contest",
   "level": 24,
-  "tags": [
-    "graphs",
-    "greedy",
-    "ad_hoc",
-    "flow",
-    "lis",
-    "mfmc"
-  ],
+  "tags": ["graphs", "greedy", "ad_hoc", "flow", "lis", "mfmc"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.894700050354004

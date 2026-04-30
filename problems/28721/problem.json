@@ -15,11 +15,7 @@
   "hint": "<p>В первом тесте друзья могут сначала перейти два раза в клетку сверху, и потом два раза в клетку справа. Тогда, сначала температура увеличится на 2, а после --- уменьшится на 2. В итоге, отличие от исходной будет $0$ градусов.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, October 5, 2019",
   "level": 11,
-  "tags": [
-    "ad_hoc",
-    "graphs",
-    "graph_traversal"
-  ],
+  "tags": ["ad_hoc", "graphs", "graph_traversal"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.2856999635696411

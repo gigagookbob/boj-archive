@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2020, Day 5: JAG Summer+ Opening Contest, Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2019 Day 1",
   "level": 19,
-  "tags": [
-    "math",
-    "geometry",
-    "ternary_search",
-    "gradient_descent"
-  ],
+  "tags": ["math", "geometry", "ternary_search", "gradient_descent"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.7778000831604004

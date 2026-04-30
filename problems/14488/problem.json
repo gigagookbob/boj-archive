@@ -23,11 +23,7 @@
   "hint": null,
   "source": "School, 선린인터넷고등학교, 2017 선린 봄맞이 교내대회, wookje, kks227, simm4256",
   "level": 11,
-  "tags": [
-    "math",
-    "sweeping",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "sweeping", "arbitrary_precision"],
   "accepted_user_count": 248,
   "submission_count": null,
   "average_tries": 3.165299892425537

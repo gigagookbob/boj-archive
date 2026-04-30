@@ -31,10 +31,7 @@
   "hint": null,
   "source": "Contest, JOI Open Contest, JOI Open Contest 2024",
   "level": 27,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 6.6666998863220215

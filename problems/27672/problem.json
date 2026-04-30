@@ -15,10 +15,7 @@
   "hint": "<p>In the first test case there are five triplets: each column and both main diagonals of the 3 × 3 square. The sum of each triplet must be 1, which means that each triplet must contain two 0s and a 1. These are the five solutions:</p>\n<pre>\n<code>111   000   000   101   010\n000   111   000   000   000\n000   000   111   010   101</code></pre>\n<p>In the second test case one of the 34 valid solutions is a 3 × 4 rectangle full of 1s.</p>",
   "source": "Contest, Internet Problem Solving Contest, IPSC 2016 연습 세션",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["bruteforcing", "math"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.75

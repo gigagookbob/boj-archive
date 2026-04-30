@@ -31,12 +31,7 @@
   "hint": "<p>결과 리스트가 [2, 1, 2, 2, 3, 4, 2, 3]으로 주어졌다고 생각해 보겠습니다.</p>\n<p style=\"text-align: center;\"> </p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\"/><br/>\n<strong>[그림 1] 유효한 결과 리스트</strong></p>\n<p>결과 리스트에서 두 번 이상 등장한 수는 2, 3입니다. 2가 등장한 횟수는 4번, 3이 등장한 횟수는 2번입니다.</p>\n<p>결과 리스트에서 2번 이상 나오는 수가 나오는 횟수를 합하면 6입니다.</p>\n<p> </p>\n<p>아래는 결과 리스트가 [2, 1, 2, 2, 3, 3, 2, 3]인 경우입니다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\"/><br/>\n<strong>[그림 2] 유효하지 않은 결과 리스트</strong></p>\n<p>결과 리스트에서 2번 이상 나오는 수는 2, 3입니다. 2가 나온 횟수는 4번, 3이 나온 횟수는 3번으로, 이 둘을 합하면 7입니다.</p>\n<p>7은 6보다 크므로, <strong>결과 리스트에 2번 이상 나오는 수가 나오는 횟수</strong>를 합하면 최대 6번이라는 제한을 만족하지 않습니다.</p>\n<p>이러한 입력은 주어지지 않습니다.</p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 2회 코딩 테스트, chogahui05, melon940925, rhs0266",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "backtracking"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "backtracking"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2.5

@@ -19,13 +19,7 @@
   "hint": "<p><em>Explanation of Sample 1:</em> You can also output the following edges and get a correct answer: $(1, 5), (5, 2), (2, 3), (3, 5), (2, 4), (5, 4)$.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2025",
   "level": 16,
-  "tags": [
-    "graphs",
-    "greedy",
-    "graph_traversal",
-    "constructive",
-    "bfs"
-  ],
+  "tags": ["graphs", "greedy", "graph_traversal", "constructive", "bfs"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

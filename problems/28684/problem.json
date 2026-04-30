@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Div. 2, University, 고려대학교, MatKor Cup, 제3회 고려대학교 MatKor Cup: 2023 Summer, Open Contest - Phase 1, kidw0124, sshs29hanul, yijw0930, azberjibiou, cologne, shiftpsh, utilforever",
   "level": 19,
-  "tags": [
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["geometry", "convex_hull"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.8437999486923218

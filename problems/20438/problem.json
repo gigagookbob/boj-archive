@@ -19,9 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2020, bsyun0571, dlstj0923, hellogaon, high092, rasauq1122, rhs0266, tony9402",
   "level": 9,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 1075,
   "submission_count": null,
   "average_tries": 3.33489990234375

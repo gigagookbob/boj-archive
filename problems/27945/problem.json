@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 가지컵, 2023 가지컵, kiwiyou, functionx, jihwan_0319, wapas, WeissBlume, wider93, yup0927",
   "level": 13,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "greedy",
-    "disjoint_set",
-    "mst"
-  ],
+  "tags": ["data_structures", "graphs", "greedy", "disjoint_set", "mst"],
   "accepted_user_count": 362,
   "submission_count": null,
   "average_tries": 2.0441999435424805

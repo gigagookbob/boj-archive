@@ -23,12 +23,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Rocky Mountain Regional, 2024 Rocky Mountain Regional Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "greedy", "string", "bruteforcing"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.5

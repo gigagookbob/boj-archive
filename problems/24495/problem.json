@@ -15,10 +15,7 @@
   "hint": "<p>The first test case corresponds to the example given above.  In the second test\ncase, there is no die C that can make the set of dice non-transitive.  The\nanswer is no for the same reason for the third test case.\n\n\t\t\t\t</p>",
   "source": "Olympiad, USA Computing Olympiad, 2021-2022 Season, USACO 2022 January Contest, Bronze",
   "level": 8,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 325,
   "submission_count": null,
   "average_tries": 2.0553998947143555

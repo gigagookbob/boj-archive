@@ -19,12 +19,7 @@
   "hint": "<p>Пример №1</p>\n<ol>\n<li>(2,8) → (4,4)</li>\n<li>(6,72) → (36,12)</li>\n<li>Числата не се променят.</li>\n</ol>\n<p>Пример №2</p>\n<ol>\n<li>(2,32) → (8,8)</li>\n<li>(9,8) → (3,24) → (6,12)</li>\n</ol>",
   "source": "Olympiad, International Autumn Tournament in Informatics, 2021, Group D",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "sieve"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.5

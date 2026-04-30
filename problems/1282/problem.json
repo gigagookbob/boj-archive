@@ -23,12 +23,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 20,
-  "tags": [
-    "math",
-    "dp",
-    "data_structures",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "data_structures", "combinatorics"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 2.857100009918213

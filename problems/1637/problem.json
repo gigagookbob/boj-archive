@@ -15,11 +15,7 @@
   "hint": "<p>예제로 주어진 정수더미안에는 4가 3개, 4를 제외한 나머지 수들은 각각 2개씩 들어있다. 따라서 답은 &ldquo;4 3&rdquo; 이 된다.</p>",
   "source": "ICPC, Regionals, Europe, Southeastern European Regional Contest, SEERC 2007, ntopia, jinhan814, magenta, pichulia",
   "level": 17,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "parity"
-  ],
+  "tags": ["binary_search", "parametric_search", "parity"],
   "accepted_user_count": 794,
   "submission_count": null,
   "average_tries": 3.24180006980896

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, Latin America Regional Contests 2020",
   "level": 17,
-  "tags": [
-    "bitmask",
-    "bruteforcing",
-    "data_structures",
-    "hash_set",
-    "set"
-  ],
+  "tags": ["bitmask", "bruteforcing", "data_structures", "hash_set", "set"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.4375

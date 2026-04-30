@@ -19,12 +19,7 @@
   "hint": "<p>In the first sample input, if your tire did not have a leak then the shortest path home would have a distance of 9, going from the school through intersections 3 and 5. However, due to the leak, you can only travel a distance of 4 before you need to refill the tire, requiring you to use the repair stations at intersections 2 and 5, for a total distance of 12.</p>\n<p>In the second sample input, if your tire did not have a leak, then the shortest path home would have a distance of 12. But since your tire only lasts for a distance of 10, there’s no path where your bike tire will not go flat somewhere along the way. Even when using repair station at intersection 2, you get stuck before you can reach either your home or the repair station at intersection 5.</p>",
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2019",
   "level": 14,
-  "tags": [
-    "dijkstra",
-    "floyd_warshall",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dijkstra", "floyd_warshall", "graphs", "shortest_path"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 2.7894999980926514

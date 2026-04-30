@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2023-2024 Season, USACO 2024 February Contest, Bronze",
   "level": 11,
-  "tags": [
-    "implementation",
-    "ad_hoc"
-  ],
+  "tags": ["implementation", "ad_hoc"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 2.637200117111206

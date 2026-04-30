@@ -23,11 +23,7 @@
   "hint": null,
   "source": "baekjoon, doju, ntopia",
   "level": 21,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "cht"
-  ],
+  "tags": ["dp", "prefix_sum", "cht"],
   "accepted_user_count": 157,
   "submission_count": null,
   "average_tries": 2.8598999977111816

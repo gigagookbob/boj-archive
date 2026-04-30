@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Basic",
   "level": 4,
-  "tags": [
-    "implementation",
-    "bruteforcing",
-    "case_work"
-  ],
+  "tags": ["implementation", "bruteforcing", "case_work"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 2.3951001167297363

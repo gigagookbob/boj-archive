@@ -23,11 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Latin America, Sub-Regional Brasil do ACM ICPC, Maratona de Programação SBC 2021",
   "level": 16,
-  "tags": [
-    "backtracking",
-    "dp",
-    "math"
-  ],
+  "tags": ["backtracking", "dp", "math"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 5.6666998863220215

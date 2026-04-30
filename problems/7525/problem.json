@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, Tu-Darmstadt Programming Contest, TUD Contest 2006 (Single), dustmqdyd01",
   "level": 14,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test",
-    "prime_factorization"
-  ],
+  "tags": ["math", "number_theory", "primality_test", "prime_factorization"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.4800000190734863

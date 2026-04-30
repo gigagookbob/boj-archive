@@ -27,9 +27,7 @@
   "hint": null,
   "source": ", Olympiad, Junior Polish Olympiad in Informatics, JPOI 2022, Stage 2",
   "level": 0,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

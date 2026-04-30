@@ -15,11 +15,7 @@
   "hint": null,
   "source": "xhark",
   "level": 18,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "rotating_calipers"
-  ],
+  "tags": ["geometry", "convex_hull", "rotating_calipers"],
   "accepted_user_count": 655,
   "submission_count": null,
   "average_tries": 1.8488999605178833

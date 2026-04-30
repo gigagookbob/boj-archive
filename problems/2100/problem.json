@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2005",
   "level": 17,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "geometry",
-    "angle_sorting"
-  ],
+  "tags": ["bruteforcing", "sorting", "geometry", "angle_sorting"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 9.0556001663208

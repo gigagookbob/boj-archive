@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Czech, Polish and Slovak Preparation Camp, CPSPC 2017",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "parametric_search",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["binary_search", "parametric_search", "inclusion_and_exclusion"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 2.323499917984009

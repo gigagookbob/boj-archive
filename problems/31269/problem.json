@@ -23,10 +23,7 @@
   "hint": "<p>Clarification of the first example: <code>Kod03</code> and <code>Kod02</code> have the same number of points, but <code>Kod03</code> has more votes from the members of the association, so it is better ranked.</p>\n<p>Clarification of the second example: The president ranked the <code>Kod05</code> as the most beautiful, so it won $n = 5$ points.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #3",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 1.2074999809265137

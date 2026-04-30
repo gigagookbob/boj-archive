@@ -15,10 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:87px; width:86px\"/></p>\n<p>There are three ways of partitioning these people into the groups. The group of conspirators can be formed by either those numbered 1 and 4, those numbered 2 and 4, or the one numbered 4 alone.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 1",
   "level": 22,
-  "tags": [
-    "math",
-    "graphs"
-  ],
+  "tags": ["math", "graphs"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 5.1315999031066895

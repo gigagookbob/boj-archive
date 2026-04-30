@@ -23,13 +23,7 @@
   "hint": "<p>첫 번째 예제의 경우 아래 아래 아래 오른쪽 오른쪽 오른쪽 아래와 같이 움직이면 수아는 보물을 얻을 수 있다.</p>\r\n",
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2011, baekjoon, jh05013",
   "level": 17,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "simulation",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "simulation", "bfs"],
   "accepted_user_count": 260,
   "submission_count": null,
   "average_tries": 3.6268999576568604

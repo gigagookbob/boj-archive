@@ -19,13 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 7: Petr Mitrichev Contest 15",
   "level": 22,
-  "tags": [
-    "math",
-    "implementation",
-    "geometry",
-    "constructive",
-    "geometry_3d"
-  ],
+  "tags": ["math", "implementation", "geometry", "constructive", "geometry_3d"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 7.25

@@ -23,10 +23,7 @@
   "hint": "<p>수열 $A_1, \\cdots, A_N$이 오름차순으로 정렬되어 있다는 것은, $A_1 \\le A_2$, $A_2 \\le A_3$, $\\cdots$, $A_{N-1} \\le A_N$이라는 뜻이다.</p>",
   "source": "School, 선린인터넷고등학교, 천하제일 코딩대회, 제5회 천하제일 코딩대회 본선, junie, Coxie, chansol, jhnah917, kyo20111",
   "level": 15,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 184,
   "submission_count": null,
   "average_tries": 4.603300094604492

@@ -15,10 +15,7 @@
   "hint": null,
   "source": null,
   "level": 9,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 546,
   "submission_count": null,
   "average_tries": 2.576900005340576

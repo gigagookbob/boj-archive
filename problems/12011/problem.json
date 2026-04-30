@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2015-2016 Season, USACO US Open 2016 Contest, Gold",
   "level": 16,
-  "tags": [
-    "geometry",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["geometry", "prefix_sum", "sweeping"],
   "accepted_user_count": 148,
   "submission_count": null,
   "average_tries": 2.283799886703491

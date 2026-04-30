@@ -35,12 +35,7 @@
   "hint": null,
   "source": null,
   "level": 15,
-  "tags": [
-    "constructive",
-    "data_structures",
-    "implementation",
-    "stack"
-  ],
+  "tags": ["constructive", "data_structures", "implementation", "stack"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.666700005531311

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2010-2011 Season, February 11, 2011",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "prefix_sum",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "prefix_sum", "hash_set"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.4666999578475952

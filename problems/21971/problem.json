@@ -19,10 +19,7 @@
   "hint": "<p>In both examples, the output is correct since it has 4 elements, is a subset of the input, and since we can form teams of two of equal table tennis skill (one team with skills 1 and 4, and one team with skills 2 and 3).</p>\n<p>In the first example, it would also be correct to output 1, 3, 8, 10 or 2, 4, 8, 10.</p>\n<p>In the second example, it would also be correct to output 2, 3, 4, 5 or 3, 4, 5, 6.</p>",
   "source": "Contest, infO(1) Cup, infO(1) Cup 2020, koosaga",
   "level": 18,
-  "tags": [
-    "randomization",
-    "two_pointer"
-  ],
+  "tags": ["randomization", "two_pointer"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 10.399999618530273

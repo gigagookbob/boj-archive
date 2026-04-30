@@ -15,11 +15,7 @@
   "hint": "<p>В примере красивыми являются последовательности $[1, 1, 1]$, $[1, 1, 2]$, $[1, 2, 1]$, $[2, 1, 1]$, $[2, 1, 2]$.</p>\n<p>Последовательности $[2, 2, 2]$, $[1, 2, 2]$, $[2, 2, 1]$ красивыми не являются, так как в каждой из них существуют два элемента со значением $2$, находящиеся на расстоянии $1$ друг от друга.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad in Informatics Regional, Russian Olympiad in Informatics Regional 2023",
   "level": 14,
-  "tags": [
-    "dp",
-    "data_structures",
-    "hash_set"
-  ],
+  "tags": ["dp", "data_structures", "hash_set"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.7999999523162842

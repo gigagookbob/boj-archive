@@ -15,13 +15,7 @@
   "hint": "<p>For the first case,</p>\n<table class=\"table table-bordered th-center td-center table-center-30\">\n<tbody>\n<tr>\n<th>$i$</th>\n<th>$\\delta_i(1, 2)$</th>\n<th>$\\delta_i(2, 3)$</th>\n</tr>\n<tr>\n<td>1</td>\n<td>2</td>\n<td>1</td>\n</tr>\n<tr>\n<td>2</td>\n<td>1</td>\n<td>2</td>\n</tr>\n<tr>\n<td>3</td>\n<td>1</td>\n<td>1</td>\n</tr>\n</tbody>\n</table>\n<p>Choosing $i = 3$ yields the minimum value $1$.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 18: Grand Prix of Beijing",
   "level": 15,
-  "tags": [
-    "data_structures",
-    "set",
-    "sweeping",
-    "tree_set",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "set", "sweeping", "tree_set", "priority_queue"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

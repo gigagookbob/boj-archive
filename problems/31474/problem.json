@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 양갈래컵, 제 1회 양갈래컵, amylo, ibm2006, index, iseol421, jyheo98, martinok1103, mingyu331, mymasterpark2, naeby, pretty_pi, sksms1375",
   "level": 7,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 354,
   "submission_count": null,
   "average_tries": 1.5140999555587769

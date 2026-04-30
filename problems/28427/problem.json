@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2023. 07., rustiebeats, chogahui05, heeda0528, hibye1217, jyheo98, kiwiyou, kongum, pjshwa, tony9402, utilforever",
   "level": 13,
-  "tags": [
-    "math",
-    "number_theory",
-    "prefix_sum",
-    "primality_test",
-    "sieve"
-  ],
+  "tags": ["math", "number_theory", "prefix_sum", "primality_test", "sieve"],
   "accepted_user_count": 146,
   "submission_count": null,
   "average_tries": 1.9795000553131104

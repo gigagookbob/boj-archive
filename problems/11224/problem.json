@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2015, Contest, Open Cup, 2014/2015 Season, Stage 12: Grand Prix of America",
   "level": 22,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "dp_digit",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "dp_digit", "math"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

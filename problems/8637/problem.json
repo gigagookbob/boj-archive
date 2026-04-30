@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, Junior Polish Olympiad in Informatics, JPOI 2007, Stage 2",
   "level": 9,
-  "tags": [
-    "geometry",
-    "binary_search",
-    "two_pointer"
-  ],
+  "tags": ["geometry", "binary_search", "two_pointer"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.90910005569458

@@ -15,11 +15,7 @@
   "hint": "<p>Wyjaśnienie przykładu: Ciąg <code>(()(()))</code> ma głębokość 3. Odwrócenie piątego i szóstego nawiasu da nam ciąg <code>(()()())</code> o głębokości 2.</p>\n<p>Jedno odwrócenie nawiasu nie wystarczy, bo nie uzyskamy w ten sposób poprawnego nawiasowania.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2022/2023, Stage 1",
   "level": 14,
-  "tags": [
-    "greedy",
-    "prefix_sum",
-    "string"
-  ],
+  "tags": ["greedy", "prefix_sum", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.583299994468689

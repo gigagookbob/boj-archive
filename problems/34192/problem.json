@@ -19,13 +19,7 @@
   "hint": "<p>정점 $a$에서 정점 $b$로의 최단 경로란 정점 $a$에서 정점 $b$로 가는 경로 중 가중치의 합이 가장 작은 경로를 의미한다.</p>",
   "source": "University, 신촌지역 대학생 프로그래밍 대회 동아리 연합, 2025 신촌지역 대학교 프로그래밍 동아리 연합 여름 대회 (SUAPC 2025 Summer), Coxie, coconut99, ez_code, jinhan814, lky7674, playsworld16, ystaeyoon113",
   "level": 22,
-  "tags": [
-    "graphs",
-    "trees",
-    "shortest_path",
-    "dijkstra",
-    "dominator_tree"
-  ],
+  "tags": ["graphs", "trees", "shortest_path", "dijkstra", "dominator_tree"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.4544999599456787

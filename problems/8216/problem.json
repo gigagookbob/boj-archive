@@ -15,11 +15,7 @@
   "hint": "<p>1. The sequence of bits x<sub>1</sub>x<sub>2</sub>…x<sub>k</sub> is lexicographically smaller than the sequence of bits y<sub>1</sub>y<sub>2</sub>…y<sub>k</sub> if for some i, 1 ≤ i ≤ k, we have x<sub>i</sub> &lt; y<sub>i</sub> and for all j=1,…,i-1 we have x<sub>j</sub>=y<sub>j</sub>.</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2010/2011, Stage 3",
   "level": 23,
-  "tags": [
-    "greedy",
-    "kmp",
-    "string"
-  ],
+  "tags": ["greedy", "kmp", "string"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 3.8333001136779785

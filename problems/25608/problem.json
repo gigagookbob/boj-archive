@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 한국항공대학교, 제2회 한국항공대학교 프로그래밍 경진대회(KAUPC), gojib2002, bnb2011, dlehgns011, hello70825, leo020630, minjea917, rhs0266, tlsdydaud1",
   "level": 14,
-  "tags": [
-    "bruteforcing",
-    "prefix_sum"
-  ],
+  "tags": ["bruteforcing", "prefix_sum"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 2.7407000064849854

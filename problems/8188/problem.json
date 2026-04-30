@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2009/2010, Stage 1",
   "level": 15,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 2.1547999382019043

@@ -19,13 +19,7 @@
   "hint": "<p style=\"text-align: center;\">This is the picture for the first example. $1$, $5$, $7$ also can be a valid answer. <img alt=\"\" src=\"1.png\" style=\"width: 304px; height: 272px;\"/></p>\n<p>This is the picture for the second example. You can see that it's impossible to find such root vertex.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 400px; height: 197px;\"/></p>",
   "source": "Contest, Codeforces, Codeforces Round 566 (Div. 2), spongbob9876",
   "level": 19,
-  "tags": [
-    "bfs",
-    "centroid",
-    "graphs",
-    "graph_traversal",
-    "trees"
-  ],
+  "tags": ["bfs", "centroid", "graphs", "graph_traversal", "trees"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 3.200000047683716

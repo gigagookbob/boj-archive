@@ -15,12 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 19,
-  "tags": [
-    "graphs",
-    "flow",
-    "grid_graph",
-    "mcmf"
-  ],
+  "tags": ["graphs", "flow", "grid_graph", "mcmf"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.1538000106811523

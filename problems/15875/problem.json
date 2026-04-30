@@ -15,12 +15,7 @@
   "hint": "<p>회색으로 칠한 부분이 최대 크기의 웅덩이다.</p>\n<table class=\"table table-bordered\" style=\"width: 15%;\">\n<tbody>\n<tr>\n<td style=\"text-align: center;\">8</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">6</td>\n<td style=\"text-align: center;\">6</td>\n<td style=\"text-align: center;\">8</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">9</td>\n<td style=\"text-align: center;\">8</td>\n<td style=\"text-align: center; background-color: #d3d3d3;\">5</td>\n<td style=\"text-align: center; background-color: #d3d3d3;\">4</td>\n<td style=\"text-align: center;\">9</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center; background-color: #d3d3d3;\">2</td>\n<td style=\"text-align: center; background-color: #d3d3d3;\">3</td>\n<td style=\"text-align: center;\">7</td>\n<td style=\"text-align: center;\">5</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">9</td>\n<td style=\"text-align: center; background-color: #d3d3d3;\">5</td>\n<td style=\"text-align: center;\">6</td>\n<td style=\"text-align: center;\">2</td>\n<td style=\"text-align: center;\">3</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">9</td>\n<td style=\"text-align: center;\">9</td>\n<td style=\"text-align: center;\">6</td>\n<td style=\"text-align: center;\">4</td>\n<td style=\"text-align: center;\">1</td>\n</tr>\n</tbody>\n</table>",
   "source": "University, POSTECH, PPC 2018, hyperbolic, doju",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "shortest_path",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "sorting", "shortest_path", "disjoint_set"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 4.8333001136779785

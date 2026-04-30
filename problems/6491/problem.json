@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Atlantic Regional, 1996 Mid-Atlantic Regional Programming Contest, maki90",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "number_theory"],
   "accepted_user_count": 457,
   "submission_count": null,
   "average_tries": 2.536099910736084

@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Jakarta, The 2025 ICPC Asia Jakarta Regional Contest",
   "level": 10,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory",
-    "constructive",
-    "euclidean"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory", "constructive", "euclidean"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 1.8889000415802002

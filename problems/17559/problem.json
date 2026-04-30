@@ -15,13 +15,7 @@
   "hint": "<p>Morgane was so precise at locating every monument that no three monuments are on a same straight line.</p>",
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2018",
   "level": 19,
-  "tags": [
-    "sorting",
-    "geometry",
-    "sweeping",
-    "two_pointer",
-    "angle_sorting"
-  ],
+  "tags": ["sorting", "geometry", "sweeping", "two_pointer", "angle_sorting"],
   "accepted_user_count": 34,
   "submission_count": null,
   "average_tries": 1.7647000551223755

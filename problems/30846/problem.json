@@ -15,11 +15,7 @@
   "hint": "<p>Подпоследовательностью {x<sub>n<sub>k</sub></sub>} называется числовая последовательность, которая составлена из членов последовательности {x<sub>n</sub>} и в которой порядок следования ее элементов совпадает с их порядком следования в исходной последовательности {x<sub>n</sub>}.</p>\n<p>В тесте из условия Михаил может найти следующие 13 различных подпоследовательностей: {1}, {1, 1}, {1, 1, 3}, {1, 2}, {1, 2, 1}, {1, 2, 1, 3}, {1, 2, 3}, {1, 3}, {2}, {2, 1}, {2, 1, 3}, {2, 3}, {3}.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics Qualification 2013-14",
   "level": 13,
-  "tags": [
-    "combinatorics",
-    "dp",
-    "math"
-  ],
+  "tags": ["combinatorics", "dp", "math"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.600000023841858

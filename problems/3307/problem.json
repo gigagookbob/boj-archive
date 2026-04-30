@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2011, Day 1, pty115",
   "level": 17,
-  "tags": [
-    "math",
-    "data_structures",
-    "geometry",
-    "stack"
-  ],
+  "tags": ["math", "data_structures", "geometry", "stack"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 3.851900100708008

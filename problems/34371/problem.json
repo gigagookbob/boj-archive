@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2023, Beginner, School, CS@Mines, CS@Mines HSPC 2023, Advanced",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "stack"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.1332999467849731

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Contest, Calgary Collegiate Programming Contest, CCPC 2013",
   "level": 11,
-  "tags": [
-    "implementation",
-    "string",
-    "binary_search",
-    "set",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "binary_search", "set", "parsing"],
   "accepted_user_count": 36,
   "submission_count": null,
   "average_tries": 2.5278000831604004

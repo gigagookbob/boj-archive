@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, DGIST, 2025 DGIST 알고리즘 경진대회, 99asdfg, ksoosung77, leo020630, tlsdydaud1, tony9402",
   "level": 14,
-  "tags": [
-    "dp",
-    "binary_search",
-    "parametric_search",
-    "knapsack"
-  ],
+  "tags": ["dp", "binary_search", "parametric_search", "knapsack"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.906999945640564

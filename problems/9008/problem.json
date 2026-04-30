@@ -15,14 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2012, doju",
   "level": 20,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "sorting",
-    "ad_hoc",
-    "dfs",
-    "sweeping"
-  ],
+  "tags": ["graphs", "graph_traversal", "sorting", "ad_hoc", "dfs", "sweeping"],
   "accepted_user_count": 67,
   "submission_count": null,
   "average_tries": 2.283600091934204

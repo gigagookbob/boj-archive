@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2015",
   "level": 18,
-  "tags": [
-    "implementation",
-    "graphs"
-  ],
+  "tags": ["implementation", "graphs"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 4.476200103759766

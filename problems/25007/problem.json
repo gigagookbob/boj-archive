@@ -19,11 +19,7 @@
   "hint": "<p>Johnny can be dropped off at the house no. $1$, deliver the letter (on time, so $0$ compensation), then walk to the house no. $2$, deliver the letter (at % compensation of $1$), then walk to the house no. $3$ and deliver the letter (at compensation of $2$). Next, he can return to the house no. $2$, then walk further to the house no. $4$ and deliver a letter there (at compensation of $4$), again return to the house no. $2$, walk to the house no. $5$ and deliver the final letter there (at compensation of $6$).</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2015",
   "level": 18,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "dp_tree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 2.3333001136779785

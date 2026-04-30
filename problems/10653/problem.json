@@ -15,9 +15,7 @@
   "hint": "<p>젖소 박승원이 2번째 와 4번째 체크포인트를 건너뛸경우 경로는 (0,0) -&gt; (1,1) -&gt; (2,2) 로 4가 된다. 이보다 더 짧게 달릴수는 없다.</p>\r\n",
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO December 2014 Contest, Silver, koosaga, Acka",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 744,
   "submission_count": null,
   "average_tries": 2.5390000343322754

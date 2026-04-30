@@ -27,12 +27,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2023 HPEC (Hanyang Programming Evaluation Contest), Beginner, University, 한양대학교, 2023 HPEC (Hanyang Programming Evaluation Contest), Intermediate, opusdeisong, bsheep0304, hansoyo, hibye1217, jjaewon9, jrdora, myyh1234",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "set",
-    "priority_queue",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "priority_queue", "tree_set"],
   "accepted_user_count": 141,
   "submission_count": null,
   "average_tries": 1.652500033378601

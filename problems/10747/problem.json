@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2014-2015 Season, USACO February 2015 Contest, Silver",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "string",
-    "stack",
-    "kmp"
-  ],
+  "tags": ["data_structures", "string", "stack", "kmp"],
   "accepted_user_count": 241,
   "submission_count": null,
   "average_tries": 3.539400100708008

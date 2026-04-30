@@ -15,12 +15,7 @@
   "hint": "<p><img alt=\"\" src=\"1.gif\" style=\"height:222px; width:222px\"/></p>",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2001",
   "level": 0,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "constructive",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "constructive", "dfs"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 9.5

@@ -15,10 +15,7 @@
   "hint": null,
   "source": "20210805, tonixx",
   "level": 11,
-  "tags": [
-    "prefix_sum",
-    "two_pointer"
-  ],
+  "tags": ["prefix_sum", "two_pointer"],
   "accepted_user_count": 1181,
   "submission_count": null,
   "average_tries": 2.3538999557495117

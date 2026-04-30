@@ -15,10 +15,7 @@
   "hint": null,
   "source": "pos10022, recoma, sy46, ntopia",
   "level": 11,
-  "tags": [
-    "sorting",
-    "two_pointer"
-  ],
+  "tags": ["sorting", "two_pointer"],
   "accepted_user_count": 8696,
   "submission_count": null,
   "average_tries": 3.161900043487549

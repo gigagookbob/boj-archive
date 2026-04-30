@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Daejeon Nationalwide Internet Competition 2013, BaaaaaaaaaaarkingDog, fullcrescent, jh05013, Nada, baekjoon",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "set",
-    "priority_queue",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "priority_queue", "tree_set"],
   "accepted_user_count": 17058,
   "submission_count": null,
   "average_tries": 4.239500045776367

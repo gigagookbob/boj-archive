@@ -15,11 +15,7 @@
   "hint": "<p>In the first example test case, one possible sequence with $b(a) = 3$ is $a = \\langle 1, 4, 1, 1 \\rangle$.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 6: Gennady Korotkevich Contest 3, Grand Prix of Gomel, Contest, Open Cup, 2017/2018 Season, Stage 12: Grand Prix of Gomel",
   "level": 18,
-  "tags": [
-    "greedy",
-    "math",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "math", "parametric_search"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.166700005531311

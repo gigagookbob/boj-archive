@@ -27,11 +27,7 @@
   "hint": "<p>For Sample Input 1, the trees that can be generated from the two expressions are shown in Figure D.2. The top six trees correspond to the first expression and the bottom four correspond to the second. Only the leftmost tree in each row can be generated from both.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 637px; height: 200px;\"/></p>\n<p style=\"text-align: center;\">Figure D.2. Illustration of Sample Input 1</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, 2024 ICPC Asia Yokohama Regional Contest",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "combinatorics"
-  ],
+  "tags": ["math", "ad_hoc", "combinatorics"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 1.4323999881744385

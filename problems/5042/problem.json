@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2008, baekjoon, yukariko",
   "level": 16,
-  "tags": [
-    "dp",
-    "sorting",
-    "geometry"
-  ],
+  "tags": ["dp", "sorting", "geometry"],
   "accepted_user_count": 77,
   "submission_count": null,
   "average_tries": 2.246799945831299

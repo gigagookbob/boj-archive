@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2012, Final Exam #2, baekjoon",
   "level": 22,
-  "tags": [
-    "prefix_sum",
-    "sweeping",
-    "two_pointer",
-    "difference_array"
-  ],
+  "tags": ["prefix_sum", "sweeping", "two_pointer", "difference_array"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3.4000000953674316

@@ -31,10 +31,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 제1회 하이콘, dicohy27, Green55, gs18115, pjshwa, swoon",
   "level": 9,
-  "tags": [
-    "dp",
-    "grid_graph"
-  ],
+  "tags": ["dp", "grid_graph"],
   "accepted_user_count": 259,
   "submission_count": null,
   "average_tries": 2.0734000205993652

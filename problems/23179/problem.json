@@ -23,10 +23,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2021 KAIST 11th ICPC Mock Competition, Contest, Open Cup, 2021/2022 Season, Stage 4: Grand Prix of Korea, queued_q, ainta, evenharder, koosaga, xiaowuc1",
   "level": 18,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.2439000606536865

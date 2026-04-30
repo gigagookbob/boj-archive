@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2001, 중등부, Martian",
   "level": 12,
-  "tags": [
-    "dp",
-    "lis"
-  ],
+  "tags": ["dp", "lis"],
   "accepted_user_count": 9478,
   "submission_count": null,
   "average_tries": 1.4967999458312988

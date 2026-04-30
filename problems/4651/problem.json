@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2001 Mid-Central Regional Programming Contest, Contest, CTU FEE Local Contest, CTU FEE 2004",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "sorting",
-    "geometry",
-    "two_pointer"
-  ],
+  "tags": ["bruteforcing", "sorting", "geometry", "two_pointer"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1

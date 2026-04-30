@@ -19,11 +19,7 @@
   "hint": "<p>Here is one optimal way to place the sticks on the plane for the first example:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 320px; height: 273px;\"/></p>\n<p>The enclosed area is shaded in gray.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2023-2024 Northwestern Russia Regional Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic"
-  ],
+  "tags": ["math", "geometry", "arithmetic"],
   "accepted_user_count": 317,
   "submission_count": null,
   "average_tries": 1.2491999864578247

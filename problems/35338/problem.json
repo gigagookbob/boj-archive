@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2025-2026 Season, USACO 2026 Second Contest, Bronze",
   "level": 8,
-  "tags": [
-    "string",
-    "constructive"
-  ],
+  "tags": ["string", "constructive"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.2273000478744507

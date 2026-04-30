@@ -23,12 +23,7 @@
   "hint": "<p>Clarification of the first example: If Bobi pours 8 liters of liquid into the root of the tree, node 3 will get 4 liters, node 4 will get 1 liter and node 5 will get 9 liters. These nodes are leaves (they have ants in them) and this is the exact minimum amount the ants need to get. Also, 8 liters is the minimum amount of liquid that satisfies the “ant” conditions.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2014/2015, Contest #4, portableangel",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "binary_search"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "binary_search"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 1.3777999877929688

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2019",
   "level": 11,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "case_work"
-  ],
+  "tags": ["math", "greedy", "number_theory", "case_work"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 2.5555999279022217

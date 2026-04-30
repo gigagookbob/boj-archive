@@ -15,10 +15,7 @@
   "hint": "<p>Byteasar will produce four solar panels of the following sizes: 8x8(a single cell), 7x14(two cells), 4x22 or 6x22 (22 or 33 cells respectively), and 5x20 (four cells).</p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2013/2014, Stage 3",
   "level": 21,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 79,
   "submission_count": null,
   "average_tries": 3.683500051498413

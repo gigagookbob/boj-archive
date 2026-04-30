@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 전시관, 제1 전시관, august14",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "kinetic_segtree"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "kinetic_segtree"],
   "accepted_user_count": 27,
   "submission_count": null,
   "average_tries": 10.33329963684082

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2008, koosaga",
   "level": 25,
-  "tags": [
-    "geometry",
-    "set",
-    "voronoi"
-  ],
+  "tags": ["geometry", "set", "voronoi"],
   "accepted_user_count": 93,
   "submission_count": null,
   "average_tries": 5.408599853515625

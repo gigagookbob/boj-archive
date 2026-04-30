@@ -15,10 +15,7 @@
   "hint": null,
   "source": "University, 홍익대학교, 2017 홍익대학교 컴퓨터공학과 코딩대회, wonjaek36",
   "level": 12,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 1165,
   "submission_count": null,
   "average_tries": 2.4790000915527344

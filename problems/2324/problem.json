@@ -15,12 +15,7 @@
   "hint": null,
   "source": null,
   "level": 21,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "heuristics"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "heuristics"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 2.774199962615967

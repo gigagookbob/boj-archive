@@ -23,11 +23,7 @@
   "hint": "<p>Wyjaśnienie przykładów: W pierwszym przykładzie optymalną strategią jest odpowiedzieć na pierwsze $4$ pytania, a ostatnie zostawić bez odpowiedzi. W ten sposób nawet przy jednej błędnej odpowiedzi Marysia uzyska $2$ punkty.</p>\n<p>W drugim przykładzie optymalną strategią jest odpowiedzieć na pierwsze, trzecie i czwarte pytanie. Marysia uzyska $3$ punkty, jeśli wszystkie te odpowiedzi będą poprawne. Ponieważ te zdarzenia są niezależne, prawdopodobieństwo wynosi $0,3 \\cdot 0,2 \\cdot 0,15 = 0,009$.</p>\n<p>W ostatnim przykładzie prawdopodobieństwo sukcesu to $10^{-18}$, możemy je zaokrąglić do $0$.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2025",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "probability"
-  ],
+  "tags": ["math", "dp", "probability"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 1

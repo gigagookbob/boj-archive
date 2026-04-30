@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 한국디지털미디어고등학교, 제2회 디미고 프로그래밍 챌린지, seungchan0325, 99asdfg, deom, dkim110807, ian0704, ldhhello, qvixnh22, tlsdydaud1, utilforever",
   "level": 13,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 112,
   "submission_count": null,
   "average_tries": 3.5892999172210693

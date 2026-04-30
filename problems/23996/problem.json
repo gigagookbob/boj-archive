@@ -15,9 +15,7 @@
   "hint": "<p>In Sample Case #1, one winning strategy is:</p>\n<ol>\n<li>Swap the top row with the middle row.</li>\n<li>Swap the rightmost column with the middle column.</li>\n</ol>\n<pre>\n ..X    XX.    X.X\n XX. -&gt; ..X -&gt; .X.\n XX.    XX.    X.X\n</pre>\n<p>In Sample Case #2, no sequence of moves can turn the grid into the desired final configuration.</p>",
   "source": "Contest, Google, Kick Start, Google Kick Start 2017, Round C",
   "level": 16,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 3.1621999740600586

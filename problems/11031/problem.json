@@ -15,10 +15,7 @@
   "hint": null,
   "source": "School, Vietnam High School Programming Contest, HSPC 2014",
   "level": 12,
-  "tags": [
-    "dp",
-    "arbitrary_precision"
-  ],
+  "tags": ["dp", "arbitrary_precision"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 3.2857000827789307

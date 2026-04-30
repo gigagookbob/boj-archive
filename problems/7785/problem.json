@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, KBTU Open, KBTU Open 2008, baekjoon, jh05013, haja, lyzqm",
   "level": 6,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set"],
   "accepted_user_count": 29572,
   "submission_count": null,
   "average_tries": 2.375200033187866

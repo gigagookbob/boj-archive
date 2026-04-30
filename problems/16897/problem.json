@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, cakelemon, dyk777",
   "level": 19,
-  "tags": [
-    "case_work",
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["case_work", "game_theory", "sprague_grundy"],
   "accepted_user_count": 122,
   "submission_count": null,
   "average_tries": 3.180299997329712

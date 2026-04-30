@@ -15,12 +15,7 @@
   "hint": "<p>2000년부터 2020년까지 연도 중에, 윤년인 것은 2000, 2004, 2008, 2012, 2016, 2020년 입니다.</p>",
   "source": "Contest, BOJ User Contest, 가희와 함께 하는 코딩 테스트, 가희와 함께 하는 1회 코딩 테스트, chogahui05, melon940925, rhs0266",
   "level": 13,
-  "tags": [
-    "implementation",
-    "string",
-    "binary_search",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "binary_search", "parsing"],
   "accepted_user_count": 180,
   "submission_count": null,
   "average_tries": 3.322200059890747

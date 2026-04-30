@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 4: Yandex Cup 2020",
   "level": 19,
-  "tags": [
-    "bitmask",
-    "dp"
-  ],
+  "tags": ["bitmask", "dp"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.142899990081787

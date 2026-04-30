@@ -23,9 +23,7 @@
   "hint": "<p>The first sample is explained in the problem description above.</p>\n<p>In the second sample, it's better to take the first speed up instead of the third one listed because taking the third speed up prevents you from taking the second speed up. Thus, after 25 seconds, if you take the first speed up, you'll travel at 3 meters per second for 25 seconds, arriving at the 100 meter mark 50 seconds into the race. Then, you can take the second speed up (had it been located at x = 99 you would not have been able to take it) and travel at 2 meters/second for 400 seconds, ending up at the 900 meter mark 450 seconds into the race. You have to then finish the race running 1 meter/second for the last 100 seconds.</p>\n<p>In the last sample, when you take the first speed up after 7 seconds, you travel at 4 meters per second for the rest of the race (43 meters) which will take 10.75 more seconds. This sample illustrates the situation where the race ends before the entire duration of the speed up taken.</p>",
   "source": "University, University of Central Florida, 2024 Local Programming Contest (Final Round)",
   "level": 13,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

@@ -10,9 +10,7 @@
   "hint": "<p>실제 IOI 문제와는 다르게 파일 하나에 모두 모아서 제출해야 한다.</p>",
   "source": "Olympiad, International Olympiad in Informatics, IOI 2012, Day 2",
   "level": 24,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 2.0416998863220215

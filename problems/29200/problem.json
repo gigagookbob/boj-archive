@@ -23,10 +23,7 @@
   "hint": "<p>음이 아닌 두 정수 $A$와 $B$의 bitwise XOR, 즉 $A \\oplus B$는 다음과 같이 정의된다:</p>\r\n\r\n<ul>\r\n\t<li>$A \\oplus B$를 이진수로 나타냈을때 $2^k$의 자리 숫자($k \\geq 0$)는 $A$와 $B$에서 그 자리에 있는 숫자 중 정확히 하나가 $1$이면 $1$이고, 그렇지 않다면 $0$이다.</li>\r\n</ul>\r\n\r\n<p>예를 들어, $3 \\oplus 5 = 6$이다. (이진수로 나타내면: $011 \\oplus 101 = 110$).</p>\r\n",
   "source": "School, 한국과학영재학교, 2023 KSA Automata Summer Contest, mickeyjung, ai4youej, cologne, eric00513, flakepowders, gs20036, hjroh0315, jjkmk1013, jk410, kiwiyou, leo020630, parkky, utilforever, yongwhan",
   "level": 16,
-  "tags": [
-    "dp",
-    "ad_hoc"
-  ],
+  "tags": ["dp", "ad_hoc"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 3.408900022506714

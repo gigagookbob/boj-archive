@@ -15,10 +15,7 @@
   "hint": "<p>bitwise 연산자들은 비트 단위로 연산을 시행한다.</p>\n<ul>\n<li>bitwise $\\textrm{AND}$ 연산($\\&amp;$)은 두 수의 각 비트마다 다음과 같은 연산을 진행한다.\n\t<ul>\n<li>같은 자릿수의 비트를 비교해 두 비트 다 $1$일 때만 $1$, 나머지의 경우는 $0$이다.</li>\n<li>다음은 예시이다. $\\ \\begin{array}{rcl} 0101_2 &amp; = &amp; 5 \\\\ \\&amp; \\ 0011_2 &amp; = &amp; 3 \\\\ \\hline 0001_2 &amp; = &amp; 1 \\end{array} $</li>\n</ul>\n</li>\n<li>bitwise $\\textrm{OR}$ 연산($|$)은 두 수의 각 비트마다 다음과 같은 연산을 진행한다.\n\t<ul>\n<li>같은 자릿수의 비트를 비교해 두 비트 다 $0$일 때만 $0$, 나머지의 경우는 $1$이다.</li>\n<li>다음은 예시이다. $\\ \\begin{array}{rcl} 0110_2 &amp; = &amp; 6 \\\\ \\ | \\ 1100_2 &amp; = &amp; 12 \\\\ \\hline 1110_2 &amp; = &amp; 14 \\end{array} $</li>\n</ul>\n</li>\n</ul>",
   "source": "University, 경인지역 대학 연합, shake! 2024, Contest, University, 경인지역 대학 연합, shake! 2024, Open Contest, rustiebeats, akim9905, bnb2011, Coxie, hamuim, ibm2006, jk410, lky7674, overnap, pani, shjohw12, swoon, tlsdydaud1, utilforever",
   "level": 16,
-  "tags": [
-    "greedy",
-    "bitmask"
-  ],
+  "tags": ["greedy", "bitmask"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 2.274199962615967

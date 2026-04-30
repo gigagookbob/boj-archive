@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Rocky Mountain Regional, Alberta Collegiate Programming Contest, ACPC 2012, jb_cubedr",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "implementation"
-  ],
+  "tags": ["graphs", "graph_traversal", "implementation"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 1.7674000263214111

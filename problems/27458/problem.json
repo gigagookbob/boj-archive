@@ -31,11 +31,7 @@
   "hint": null,
   "source": null,
   "level": 16,
-  "tags": [
-    "dp",
-    "binary_search",
-    "dp_digit"
-  ],
+  "tags": ["dp", "binary_search", "dp_digit"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.2856999635696411

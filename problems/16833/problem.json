@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2018 Day 3",
   "level": 23,
-  "tags": [
-    "duality",
-    "flow",
-    "linear_programming",
-    "mcmf",
-    "graphs"
-  ],
+  "tags": ["duality", "flow", "linear_programming", "mcmf", "graphs"],
   "accepted_user_count": 33,
   "submission_count": null,
   "average_tries": 2.697000026702881

@@ -15,11 +15,7 @@
   "hint": "<p>S = \"<code>()()()()</code>\"에 예제 1의 쿼리를 수행한 결과는 다음과 같다.</p>\n<ul>\n<li><code>((()()()</code></li>\n<li><code>((()()))</code></li>\n<li><code>((((()))</code></li>\n<li><code>(((())))</code></li>\n<li><code>(()())))</code></li>\n<li><code>(()())()</code></li>\n<li><code>)()())()</code></li>\n<li><code>)))())()</code></li>\n</ul>",
   "source": "baekjoon",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "lazyprop"],
   "accepted_user_count": 296,
   "submission_count": null,
   "average_tries": 2.216200113296509

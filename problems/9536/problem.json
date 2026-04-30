@@ -15,12 +15,7 @@
   "hint": "<p><iframe frameborder=\"0\" height=\"480\" src=\"//www.youtube.com/embed/jofNR_WkoCE?rel=0\" width=\"853\"></iframe></p>\r\n",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2013, jh05013, vumbumy, jh05013",
   "level": 8,
-  "tags": [
-    "data_structures",
-    "string",
-    "set",
-    "parsing"
-  ],
+  "tags": ["data_structures", "string", "set", "parsing"],
   "accepted_user_count": 2581,
   "submission_count": null,
   "average_tries": 2.0762999057769775

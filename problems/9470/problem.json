@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Greater New York Region, 2013 Greater New York Programming Contest, baekjoon, Hibbah, orihehe, sg1774, YunGoon, djm03178, sait2000",
   "level": 13,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 1770,
   "submission_count": null,
   "average_tries": 2.4277000427246094

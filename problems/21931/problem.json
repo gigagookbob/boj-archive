@@ -15,11 +15,7 @@
   "hint": "<p>For the first set pair of this test case, the solar car is placed at (7, 0) and the flag is placed at (0, 7). Then, Bob places the baggage at (−7, 0). The length of the shortest route from (−7, 0) to (0, 7) is 10, because the straight path from (−7, 0) to (0, 7) crosses the shadow of pole 4. The length of the shortest route from (7, 0) to (−7, 0) is 14, so the total length is 24.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 608px; height: 402px;\"/></p>\n<p style=\"text-align: center;\">Figure F.1. Shortest routes for the first five set pairs of Sample Input 1. Black dots are the positions of the poles and gray lines are their shadows. The yellowish brown dots are the positions of the point lights. For each figure, the red lines indicate the shortest route from the initial car position to the destination.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2020 Asia Yokohama Regional",
   "level": 23,
-  "tags": [
-    "dp",
-    "geometry",
-    "convex_hull"
-  ],
+  "tags": ["dp", "geometry", "convex_hull"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.7000000476837158

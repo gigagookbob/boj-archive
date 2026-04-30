@@ -15,12 +15,7 @@
   "hint": "<p>In the first test case, the only value for N which gives a winning state is 3, the state will be (3, 6, 9).</p>",
   "source": "ICPC, Regionals, Africa and Arab, Arab Collegiate Programming Contest, 2017 Arab Collegiate Programming Contest",
   "level": 19,
-  "tags": [
-    "dp",
-    "game_theory",
-    "math",
-    "sprague_grundy"
-  ],
+  "tags": ["dp", "game_theory", "math", "sprague_grundy"],
   "accepted_user_count": 29,
   "submission_count": null,
   "average_tries": 2.5517001152038574

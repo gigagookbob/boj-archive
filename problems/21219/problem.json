@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2020-2021",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stable_marriage"
-  ],
+  "tags": ["data_structures", "greedy", "stable_marriage"],
   "accepted_user_count": 43,
   "submission_count": null,
   "average_tries": 4.6743998527526855

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Asia Regional - Seoul 2019",
   "level": 22,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "geometry",
-    "geometry_3d"
-  ],
+  "tags": ["math", "bruteforcing", "geometry", "geometry_3d"],
   "accepted_user_count": 189,
   "submission_count": null,
   "average_tries": 6.460299968719482

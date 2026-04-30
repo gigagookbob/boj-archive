@@ -15,9 +15,7 @@
   "hint": "<p>Case 1:</p>\n<p>The animal \"1500 1500\" must be within the ranges for birds, since we know that the ranges for height and weight each include 1000 and 2000.</p>\n<p>The animal \"900 900\" may or may not be a bird; we don't know if the ranges for height and weight include 900.</p>\n<p>The animal \"1400 2020\" is within the height range for birds, but if 2020 was in the weight range, then the animal \"1500 2010\", which we know is not a bird, would also have to be within the weight range.</p>\n<p>Case 2:</p>\n<p>In this case we know that birds must have a height of 501. But we don't know what the weight range for a bird is, other than that it includes weight 700.</p>\n<p>Case 3:</p>\n<p>In this case, we know that anything with height 100 and weight 100 is not a bird, but we just don't know what birds are.</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2008, APAC Semifinal",
   "level": 14,
-  "tags": [
-    "geometry"
-  ],
+  "tags": ["geometry"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.8125

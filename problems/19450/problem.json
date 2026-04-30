@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2016, Day 2: Pavel Khaustov Contest 2",
   "level": 16,
-  "tags": [
-    "backtracking",
-    "bruteforcing",
-    "constructive",
-    "implementation"
-  ],
+  "tags": ["backtracking", "bruteforcing", "constructive", "implementation"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.5713999271392822

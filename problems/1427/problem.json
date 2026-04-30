@@ -27,10 +27,7 @@
   "hint": null,
   "source": "baekjoon, bvba, djm03178",
   "level": 6,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 68179,
   "submission_count": null,
   "average_tries": 1.510599970817566

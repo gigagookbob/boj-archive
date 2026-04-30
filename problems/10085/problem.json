@@ -15,10 +15,7 @@
   "hint": "<p>Gray code of numbers consisting of 3 bits constructed using the method described in problem statement is: [000, 001, 011, 010, 110, 111, 101, 100], and the 5th in this sequence is 110. Note that the sequence is indexed from 1.</p>",
   "source": "Olympiad, Balkan Olympiad in Informatics, Junior Balkan Olympiad in Informatics, JBOI 2014",
   "level": 8,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 23,
   "submission_count": null,
   "average_tries": 1.2609000205993652

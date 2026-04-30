@@ -15,10 +15,7 @@
   "hint": "<p>대회 이름이 실제로 바뀌지는 않을 예정입니다.</p>\r\n",
   "source": "University, UNIST-DGIST-POSTECH, 2025 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2025 UDPC), Junior Division, University, UNIST-DGIST-POSTECH, 2025 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2025 UDPC), Senior Division, leo020630, 99asdfg, bnb2011, ekwoo, jinhan814, jthis, kwoncycle, minsung05, playsworld16, queued_q, slah007, tony9402",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1002,
   "submission_count": null,
   "average_tries": 1.1267000436782837

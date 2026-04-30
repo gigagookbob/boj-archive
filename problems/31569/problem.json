@@ -15,12 +15,7 @@
   "hint": "<p>$A$를 음이 아닌 정수, $B$를 양의 정수라 할 때, $A \\bmod B$는 $A$를 $B$로 나눈 나머지를 의미한다. 이 값은 음이 아닌 정수이다.</p>",
   "source": "University, 전남대학교, 2024 상반기 전남대학교 PIMM 알고리즘 파티, jh01533, dohoon, kiwiyou, ksoosung77, lycoris1600, measurezero, tony9402, utilforever, vkdldjvkdnj",
   "level": 21,
-  "tags": [
-    "bitmask",
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["bitmask", "data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 3.4688000679016113

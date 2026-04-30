@@ -23,14 +23,7 @@
   "hint": null,
   "source": "University, 전국 대학생 프로그래밍 대회 동아리 연합, UCPC 2019, Contest, Open Cup, 2019/2020 Season, Stage 5: Grand Prix of Korea, august14",
   "level": 27,
-  "tags": [
-    "dp",
-    "graphs",
-    "greedy",
-    "ad_hoc",
-    "flow",
-    "mcmf"
-  ],
+  "tags": ["dp", "graphs", "greedy", "ad_hoc", "flow", "mcmf"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 2.4286000728607178

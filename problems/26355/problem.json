@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2011 Local Programming Contest",
   "level": 5,
-  "tags": [
-    "math",
-    "number_theory",
-    "primality_test"
-  ],
+  "tags": ["math", "number_theory", "primality_test"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 1.308500051498413

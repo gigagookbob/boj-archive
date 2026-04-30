@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, South Central USA Regional, 2006 South Central USA  Regional Programming Contest",
   "level": 17,
-  "tags": [
-    "geometry",
-    "line_intersection",
-    "point_in_non_convex_polygon"
-  ],
+  "tags": ["geometry", "line_intersection", "point_in_non_convex_polygon"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.5

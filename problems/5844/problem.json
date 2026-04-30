@@ -15,10 +15,7 @@
   "hint": "<h4>Input Details</h4><p>There are three sites on the left side of the Amoozon with values 1, 1, and 5.  There are two sites on the right side of the Amoozon with values 2 and 2.  There are four routes connecting sites on both sides of the river.</p><h4>Output Details</h4><p>The optimal tour goes from site 1 on the left, site 1 on the right, and ends at site 3 on the left.  These respectively have values 1, 2, and 5 giving a total value of the trip of 8.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO February 2013 Contest, Gold",
   "level": 17,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.7894999980926514

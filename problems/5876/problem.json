@@ -15,13 +15,7 @@
   "hint": "<h4>Output Details</h4>\n<p>The sequence of steps Bessie takes to obtain a balanced string of length 8 is as follows:</p>\n<pre>\n1())\n2)((\n345(\n876)</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2012-2013 Season, USACO November 2012 Contest, Bronze",
   "level": 11,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "dfs",
-    "backtracking"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "dfs", "backtracking"],
   "accepted_user_count": 91,
   "submission_count": null,
   "average_tries": 1.8681000471115112

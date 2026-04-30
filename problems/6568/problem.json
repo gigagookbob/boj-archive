@@ -15,10 +15,7 @@
   "hint": "<p>누산기의 값은 8비트이므로 그 범위를 초과하면 하위 8비트만 남겨두고 잘린다. 2번째 명령어인 INC를 수행하기 직전 가산기 값은 11111111이었는데, INC 수행 후 00000000이 된다.</p>\r\n",
   "source": "Contest, University of Ulm Local Contest, University of Ulm Local Contest 2000, kks227",
   "level": 11,
-  "tags": [
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["implementation", "simulation"],
   "accepted_user_count": 411,
   "submission_count": null,
   "average_tries": 4.328499794006348

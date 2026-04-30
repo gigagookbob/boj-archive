@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, North American Invitational Programming Contest, NAIPC 2017, Contest, Open Cup, 2016/2017 Season, Stage 16: Grand Prix of America, jwpassion1",
   "level": 24,
-  "tags": [
-    "graphs",
-    "binary_search",
-    "mst",
-    "alien"
-  ],
+  "tags": ["graphs", "binary_search", "mst", "alien"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 5.763199806213379

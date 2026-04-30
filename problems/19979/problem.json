@@ -15,11 +15,7 @@
   "hint": "<p>В третьем примере следует играть следующим образом. Исходно у Пети в руках 4 и 2. Петя сбрасывает 4, берет из колоды 1. Теперь у него в руках 2 и 1. Петя выкладывает 1, затем 2. Теперь у него в руке нет карт. Он берет из колоды 4, затем берет из колоды 3. Теперь у него в руке 4 и 3, он выкладывает 3 и затем выкладывает 4.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia Team High School Programming Contest, Russia Team High School Programming Contest 2014",
   "level": 16,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "greedy", "parametric_search"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2003, National Competition #1 - Juniors",
   "level": 13,
-  "tags": [
-    "bruteforcing",
-    "floyd_warshall",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["bruteforcing", "floyd_warshall", "graphs", "shortest_path"],
   "accepted_user_count": 21,
   "submission_count": null,
   "average_tries": 1.9048000574111938

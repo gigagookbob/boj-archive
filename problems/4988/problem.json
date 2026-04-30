@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Japan, Japan Domestic Contest, 2005 Japan Domestic Contest",
   "level": 7,
-  "tags": [
-    "math",
-    "string",
-    "arithmetic",
-    "case_work",
-    "parsing"
-  ],
+  "tags": ["math", "string", "arithmetic", "case_work", "parsing"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 1.0285999774932861

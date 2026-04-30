@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2022 KAIST 12th ICPC Mock Competition, gs18115, cs71107, junhopark, kclee2172, moonrabbit2, queued_q",
   "level": 16,
-  "tags": [
-    "sorting",
-    "prefix_sum",
-    "sweeping"
-  ],
+  "tags": ["sorting", "prefix_sum", "sweeping"],
   "accepted_user_count": 62,
   "submission_count": null,
   "average_tries": 1.9677000045776367

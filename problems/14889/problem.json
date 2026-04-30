@@ -23,10 +23,7 @@
   "hint": "<p>예제 2의 경우에 (1, 3, 6), (2, 4, 5)로 팀을 나누면 되고, 예제 3의 경우에는 (1, 2, 4, 5), (3, 6, 7, 8)로 팀을 나누면 된다.</p>",
   "source": "baekjoon, jh05013, sait2000, sc613",
   "level": 10,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 37641,
   "submission_count": null,
   "average_tries": 2.1124000549316406

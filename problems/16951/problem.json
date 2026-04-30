@@ -19,9 +19,7 @@
   "hint": null,
   "source": "baekjoon, jh05013, portableangel",
   "level": 7,
-  "tags": [
-    "bruteforcing"
-  ],
+  "tags": ["bruteforcing"],
   "accepted_user_count": 444,
   "submission_count": null,
   "average_tries": 3.112600088119507

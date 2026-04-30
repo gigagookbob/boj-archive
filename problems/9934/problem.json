@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #5, baekjoon, rhs0266",
   "level": 10,
-  "tags": [
-    "trees",
-    "recursion"
-  ],
+  "tags": ["trees", "recursion"],
   "accepted_user_count": 6850,
   "submission_count": null,
   "average_tries": 1.4327000379562378

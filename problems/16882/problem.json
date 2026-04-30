@@ -19,9 +19,7 @@
   "hint": "<p>예제 1의 경우에 구사과가 7을 고르면 모든 카드가 제거되기 때문에, 큐브러버가 이길 수 없다. 예제 2의 경우에는 어떤 카드를 제거해도 카드 한 장이 남는다. 따라서, 큐브러버가 이긴다.</p>",
   "source": "baekjoon, shiftpsh",
   "level": 13,
-  "tags": [
-    "game_theory"
-  ],
+  "tags": ["game_theory"],
   "accepted_user_count": 177,
   "submission_count": null,
   "average_tries": 1.802299976348877

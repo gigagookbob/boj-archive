@@ -23,10 +23,7 @@
   "hint": "<p>Opis prvog probnog primjera: Cijepit će se prva i druga osoba, a treća će osoba biti poslana kući zbog nestanka cjepiva. Nijedna osoba neće biti poslana kući dok cjepiva još ima.</p>\n<p>Opis drugog probnog primjera: Cijepit će se samo treća osoba, a prve će dvije osobe biti poslane kući dok cjepiva još ima.</p>\n<p>Opis trećeg probnog primjera: Cijepit će se prva i treća osoba, a druga i četvrta osoba bit će poslane kući, no samo druga dok cjepiva još ima. Četvrta će osoba biti poslana kući zbog nestanka cjepiva.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2021, Junior Croatian Olympiad in Informatics 2021",
   "level": 9,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2

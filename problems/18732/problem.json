@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 6: Lviv NU Contest",
   "level": 22,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["ad_hoc", "constructive", "parity", "invariant"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.0332999229431152

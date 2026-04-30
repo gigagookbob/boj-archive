@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2021, 2차 선발고사",
   "level": 16,
-  "tags": [
-    "dp",
-    "sorting",
-    "dag"
-  ],
+  "tags": ["dp", "sorting", "dag"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 2.8333001136779785

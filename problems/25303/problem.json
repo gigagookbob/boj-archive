@@ -23,12 +23,7 @@
   "hint": null,
   "source": "topology, jh05013, jhnah917, koosaga",
   "level": 30,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "segtree",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "greedy", "segtree", "disjoint_set"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 2.2105000019073486

@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, KTH Challenge, KTH Challenge 2015",
   "level": 18,
-  "tags": [
-    "combinatorics",
-    "divide_and_conquer",
-    "math"
-  ],
+  "tags": ["combinatorics", "divide_and_conquer", "math"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 1.631600022315979

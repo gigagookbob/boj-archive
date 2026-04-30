@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, Centroid 연합, 2025 Centroid Cup, plan_pt, chan120714, chlwnsgud7, hjkim9911, jh01533, kangsm02, mujigae, oh040411, sendol, sjhi00, tony9402, usb9245, utilforever, wapas, yup0927",
   "level": 13,
-  "tags": [
-    "math",
-    "implementation",
-    "recursion"
-  ],
+  "tags": ["math", "implementation", "recursion"],
   "accepted_user_count": 53,
   "submission_count": null,
   "average_tries": 2.5471999645233154

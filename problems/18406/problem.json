@@ -19,10 +19,7 @@
   "hint": null,
   "source": "ndb796",
   "level": 4,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 6490,
   "submission_count": null,
   "average_tries": 1.3806999921798706

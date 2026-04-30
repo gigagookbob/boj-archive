@@ -15,12 +15,7 @@
   "hint": "<p>The original moves cancel each other out. At the end of the original sequence of moves, the cube is back in its initial state.</p>\n<p>After we make the four changes described in the input, we obtain a sequence of moves that flips everything except for the centers of all sides.</p>",
   "source": "Camp, Visegrad Programming Contests Preparation Camp, VPCPC 2014",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "data_structures",
-    "implementation",
-    "segtree"
-  ],
+  "tags": ["ad_hoc", "data_structures", "implementation", "segtree"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

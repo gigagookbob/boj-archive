@@ -19,10 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 571px; height: 307px;\"/></p>\n<p style=\"text-align: center;\">Figure 1: Illustration of the game from Sample Input 1</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2019",
   "level": 18,
-  "tags": [
-    "game_theory",
-    "sprague_grundy"
-  ],
+  "tags": ["game_theory", "sprague_grundy"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 2.7316999435424805

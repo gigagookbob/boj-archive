@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ehay, hg5312",
   "level": 8,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 39149,
   "submission_count": null,
   "average_tries": 2.3685998916625977

@@ -23,10 +23,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, 한국정보올림피아드시․도지역본선, 지역본선 2015, 중등부, august14, baekjoon",
   "level": 19,
-  "tags": [
-    "dp",
-    "greedy"
-  ],
+  "tags": ["dp", "greedy"],
   "accepted_user_count": 800,
   "submission_count": null,
   "average_tries": 3.572499990463257

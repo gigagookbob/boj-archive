@@ -19,10 +19,7 @@
   "hint": null,
   "source": "hibye1217, minjunnick, mujigae, sorohue, utilforever",
   "level": 19,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 1.7143000364303589

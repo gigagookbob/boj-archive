@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2008, CCO 2008",
   "level": 14,
-  "tags": [
-    "bipartite_graph",
-    "graphs"
-  ],
+  "tags": ["bipartite_graph", "graphs"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

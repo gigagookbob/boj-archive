@@ -31,13 +31,7 @@
   "hint": "<p>예제 1: 탑4 -&gt; 탑3 10 전송 탑3 -&gt; 탑2 15 전송 탑2 -&gt; 탑1 17.5 전송 탑1 -&gt; 적 18.75 공격</p>",
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "geometry",
-    "bfs",
-    "shortest_path"
-  ],
+  "tags": ["graphs", "graph_traversal", "geometry", "bfs", "shortest_path"],
   "accepted_user_count": 335,
   "submission_count": null,
   "average_tries": 2.0836000442504883

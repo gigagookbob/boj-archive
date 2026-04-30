@@ -15,10 +15,7 @@
   "hint": "<p><em>Explanation of Sample 1:</em> After the first replacement, the modules are: <code>+</code> $3$, <code>+</code> $8$, <code>x</code> $9$, <code>+</code> $15$</p>\n<p>The output of module $N$ is then $(((0 + 3) + 8) \\oplus 9) + 15)$ is $1$.</p>\n<p>After the second replacement, the modules are: <code>x</code> $10$, <code>+</code> $8$, <code>x</code> $9$, <code>+</code> $15$</p>\n<p>The output of module $N$ is then $(((0 \\oplus 10) + 8) \\oplus 9) + 15)$ is $10$.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2025",
   "level": 19,
-  "tags": [
-    "data_structures",
-    "segtree"
-  ],
+  "tags": ["data_structures", "segtree"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.833299994468689

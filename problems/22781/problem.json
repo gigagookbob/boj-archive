@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2005 Day 2",
   "level": 20,
-  "tags": [
-    "convex_hull",
-    "geometry",
-    "geometry_3d",
-    "ternary_search"
-  ],
+  "tags": ["convex_hull", "geometry", "geometry_3d", "ternary_search"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 5.75

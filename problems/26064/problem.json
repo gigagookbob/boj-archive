@@ -15,12 +15,7 @@
   "hint": "<p>В примере Вадиму нужно подкатить валун к первой куче, затем убрать один валун из второй кучи. Тогда в кучах будет соответственно $22$ и $33$ валуна, что удовлетворяет пропорции $2:3$.</p>",
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2022-2023 North-Western Russia Qualification",
   "level": 14,
-  "tags": [
-    "euclidean",
-    "math",
-    "number_theory",
-    "ternary_search"
-  ],
+  "tags": ["euclidean", "math", "number_theory", "ternary_search"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 3

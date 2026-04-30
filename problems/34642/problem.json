@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, North America Qualification Contest, ICPC North America Qualifier 2025, University, MIT, The MIT Programming Contest, 2025-26, MIT Team Contest 1",
   "level": 16,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "disjoint_set"
-  ],
+  "tags": ["data_structures", "greedy", "disjoint_set"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 2.272700071334839

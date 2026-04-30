@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, 한국과학영재학교, 2025 KSA Automata Winter Contest, mythofys, edward3378, eric00513, flakepowders, hjroh0315, parkky, raehwan0418, utilforever",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "sorting",
-    "binary_search",
-    "sqrt_decomposition"
-  ],
+  "tags": ["data_structures", "sorting", "binary_search", "sqrt_decomposition"],
   "accepted_user_count": 41,
   "submission_count": null,
   "average_tries": 7.463399887084961

@@ -10,12 +10,7 @@
   "hint": null,
   "source": ", Olympiad, International Olympiad in Informatics, IOI 2020, Day 2",
   "level": 27,
-  "tags": [
-    "implementation",
-    "ad_hoc",
-    "case_work",
-    "sqrt_decomposition"
-  ],
+  "tags": ["implementation", "ad_hoc", "case_work", "sqrt_decomposition"],
   "accepted_user_count": 35,
   "submission_count": null,
   "average_tries": 9.057100296020508

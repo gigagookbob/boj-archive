@@ -31,12 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 11,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "shortest_path",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "bruteforcing", "shortest_path", "floyd_warshall"],
   "accepted_user_count": 620,
   "submission_count": null,
   "average_tries": 2.1031999588012695

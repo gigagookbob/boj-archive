@@ -15,10 +15,7 @@
   "hint": null,
   "source": ", School, CS@Mines, CS@Mines HSPC 2022, Advanced",
   "level": 9,
-  "tags": [
-    "dp",
-    "string"
-  ],
+  "tags": ["dp", "string"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 1.2856999635696411
