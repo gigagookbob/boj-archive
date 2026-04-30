@@ -19,12 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 373px; height: 168px;\"/></p>\n<p>Dessa tre är de enda möjliga konfigurationerna för det första exemplet. Båda de två första har totalt 14 kuber och den tredje har totalt 15 kuber. Svaret blir alltså att det minsta möjliga totala antalet kuber är 14, och det största möjliga är 15.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2019, Qualification",
   "level": 9,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["ad_hoc", "constructive", "greedy", "sorting"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.1175999641418457

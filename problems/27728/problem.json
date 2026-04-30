@@ -15,9 +15,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2022, deuslovelt, eaststar, jthis, tony9402",
   "level": 14,
-  "tags": [
-    "prefix_sum"
-  ],
+  "tags": ["prefix_sum"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 1.876099944114685

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "School, 서울과학고등학교, 2024 SciCom Qualification Test, physics07, 79brue, jimini23, math_rabbit_1028, turgon314",
   "level": 2,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 1404,
   "submission_count": null,
   "average_tries": 1.2308000326156616

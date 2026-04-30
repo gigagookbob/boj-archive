@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2010, CCO 2010",
   "level": 9,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "set"
-  ],
+  "tags": ["math", "implementation", "string", "set"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.035099983215332

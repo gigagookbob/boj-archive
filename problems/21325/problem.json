@@ -19,11 +19,7 @@
   "hint": "<p>In the first sample person 1 and person 2 can pay. Person 3 can't pay because person 1 is at the table.</p>\n<p>In the second sample person 5 is the CEO and at the table. Therefore only person 5 can pay.</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2016, Final",
   "level": 9,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 64,
   "submission_count": null,
   "average_tries": 1.9219000339508057

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Africa and Arab, South Africa Regional Contest, Beninese Collegiate Programming Contest, The 2016 Beninese Collegiate Programming Contest, jaehoo1, jh05013",
   "level": 10,
-  "tags": [
-    "math",
-    "string",
-    "parsing",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "string", "parsing", "arbitrary_precision"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 5.906300067901611

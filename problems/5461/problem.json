@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 2009, Day 1, koosaga, rdd6584",
   "level": 18,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "sorting",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "greedy", "sorting", "priority_queue"],
   "accepted_user_count": 113,
   "submission_count": null,
   "average_tries": 4.645999908447266

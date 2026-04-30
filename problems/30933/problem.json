@@ -19,9 +19,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 501px; height: 150px;\"/></p>\n<p style=\"text-align: center;\">Figure F.1. Illustration of Sample Input 1</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2023 Asia Yokohama Regional",
   "level": 13,
-  "tags": [
-    "ad_hoc"
-  ],
+  "tags": ["ad_hoc"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 1.4185999631881714

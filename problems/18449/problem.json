@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 1: 300iq Contest, 300iq",
   "level": 19,
-  "tags": [
-    "greedy",
-    "sorting",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "constructive"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.5

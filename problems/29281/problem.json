@@ -15,11 +15,7 @@
   "hint": "<p>Одним из возможных оптимальных расположений роботов может быть следующий: $4, 5, 1, 2, 3$. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, March 1, 2014",
   "level": 18,
-  "tags": [
-    "dp",
-    "bitmask",
-    "dp_bitfield"
-  ],
+  "tags": ["dp", "bitmask", "dp_bitfield"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 1

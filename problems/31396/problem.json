@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #4, Division 1, Contest, solved.ac, solved.ac Grand Arena #4, Division 2, queued_q, shiftpsh, solvedac, cologne, gs18115, havana723, ryute, seonah",
   "level": 17,
-  "tags": [
-    "greedy",
-    "sorting",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["greedy", "sorting", "binary_search", "parametric_search"],
   "accepted_user_count": 112,
   "submission_count": null,
   "average_tries": 2.0713999271392822

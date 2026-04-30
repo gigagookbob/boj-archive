@@ -19,11 +19,7 @@
   "hint": "<p>1 일째의 경우 번호를 붙일 방법은 다음과 같이 2가지가 있다.</p>\n<p><img alt=\"\" src=\"1.png\" style=\"height:100px; width:191px\"/></p>",
   "source": "University, 서강대학교, Sogang Programming Contest, 2016 Sogang Programming Contest, Master, Telcontar",
   "level": 15,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 202,
   "submission_count": null,
   "average_tries": 2.123800039291382

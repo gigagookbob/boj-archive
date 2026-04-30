@@ -31,11 +31,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2021 Preliminaries",
   "level": 16,
-  "tags": [
-    "dp",
-    "knapsack",
-    "bitset"
-  ],
+  "tags": ["dp", "knapsack", "bitset"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 2.489799976348877

@@ -15,10 +15,7 @@
   "hint": "<p>In the first example, the only move for Alice is to change the second digit from 2 to 9. Any other move is invalid because it doesn't change the difference pattern or because it would result in a superstitious pattern. Bob doesn't have a valid move, therefore Alice wins.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2022",
   "level": 23,
-  "tags": [
-    "game_theory",
-    "bipartite_matching"
-  ],
+  "tags": ["game_theory", "bipartite_matching"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.4285999536514282

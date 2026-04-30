@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, solved.ac, solved.ac Grand Arena #4, Division 2, cologne, solvedac, gs18115, seonah, shiftpsh",
   "level": 17,
-  "tags": [
-    "implementation",
-    "dp"
-  ],
+  "tags": ["implementation", "dp"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 3.450000047683716

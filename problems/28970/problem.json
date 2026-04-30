@@ -19,11 +19,7 @@
   "hint": "<p>Пояснение к первому тесту</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 539px; height: 139px;\"/></p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Basic, Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2016-2017 Season, November 5, 2016, Advanced",
   "level": 19,
-  "tags": [
-    "implementation",
-    "simulation",
-    "sqrt_decomposition"
-  ],
+  "tags": ["implementation", "simulation", "sqrt_decomposition"],
   "accepted_user_count": 2,
   "submission_count": null,
   "average_tries": 8

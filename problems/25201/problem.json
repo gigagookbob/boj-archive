@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 곰곰컵, 제1회 곰곰컵, pjshwa, chogahui05, pichulia, tony9402",
   "level": 16,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "parity",
-    "invariant"
-  ],
+  "tags": ["math", "ad_hoc", "parity", "invariant"],
   "accepted_user_count": 176,
   "submission_count": null,
   "average_tries": 1.4375

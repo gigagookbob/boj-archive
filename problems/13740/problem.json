@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, North America, Mid-Central Regional, 2016 Mid-Central Regional Programming Contest, ICPC, Regionals, North America, Pacific Northwest Regional, 2016 Pacific Northwest Region Programming Contest, Division 1",
   "level": 20,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "geometry",
-    "greedy"
-  ],
+  "tags": ["ad_hoc", "constructive", "geometry", "greedy"],
   "accepted_user_count": 49,
   "submission_count": null,
   "average_tries": 1.4490000009536743

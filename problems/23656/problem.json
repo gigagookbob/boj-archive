@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, Jack says numbers $1$, $2$, $3$, and so on. In the second example, Jack says numbers $1000$, $999$, $998$, and so on. He is guaranteed to follow these two strategies in the first two tests.</p>\n<p>In both examples, Jill just chose $30$ as the secret number in advance. Your solution may of course use any other strategy.</p>",
   "source": "Contest, Open Cup, 2018/2019 Season, Stage 9: Grand Prix of Peterhof",
   "level": 9,
-  "tags": [
-    "greedy",
-    "binary_search"
-  ],
+  "tags": ["greedy", "binary_search"],
   "accepted_user_count": 161,
   "submission_count": null,
   "average_tries": 4.78879976272583

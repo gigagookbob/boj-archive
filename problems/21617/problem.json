@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2021, CCC 2021 Senior Division",
   "level": 4,
-  "tags": [
-    "math",
-    "geometry"
-  ],
+  "tags": ["math", "geometry"],
   "accepted_user_count": 167,
   "submission_count": null,
   "average_tries": 1.3952000141143799

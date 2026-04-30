@@ -19,12 +19,7 @@
   "hint": "<p>The followings illustrate the $4$ candidates (the regular edges) of the branch network in the first sample test.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"2.png\" style=\"width: 329px; height: 184px;\"/><img alt=\"\" src=\"3.png\" style=\"width: 327px; height: 196px;\"/></p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"width: 331px; height: 178px;\"/><img alt=\"\" src=\"5.png\" style=\"width: 327px; height: 192px;\"/></p>",
   "source": "Camp, Osijek Competitive Programming Camp, Winter 2023, Day 9: Magical Story of LaLa, aeren",
   "level": 24,
-  "tags": [
-    "case_work",
-    "dp",
-    "graphs",
-    "sqrt_decomposition"
-  ],
+  "tags": ["case_work", "dp", "graphs", "sqrt_decomposition"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 1.399999976158142

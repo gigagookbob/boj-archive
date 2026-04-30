@@ -15,12 +15,7 @@
   "hint": "<p>The constant evaluates as \\(\\phi\\) = 0.890010099998999 . . .</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Summer 2019, Day 4: Oleksandr Kulkov Contest 2",
   "level": 20,
-  "tags": [
-    "math",
-    "number_theory",
-    "binary_search",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "number_theory", "binary_search", "arbitrary_precision"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 1.7143000364303589

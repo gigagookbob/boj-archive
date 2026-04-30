@@ -15,10 +15,7 @@
   "hint": "<p>1부터 4동안 지속되는 프로그램과 6부터 4동안 진행되는 프로그램을 보면 선호도의 총합은 6+5=11이 되고 이것이 가족이 얻을 수 있는 선호도의 합의 최대가 된다.</p>\r\n",
   "source": "Contest, IDI Open Contest, IDI Open 2008, petil777, goooora, Green55",
   "level": 13,
-  "tags": [
-    "dp",
-    "sorting"
-  ],
+  "tags": ["dp", "sorting"],
   "accepted_user_count": 115,
   "submission_count": null,
   "average_tries": 2.330399990081787

@@ -15,11 +15,7 @@
   "hint": "<p>In the first test case, the strings are abbabb, bababb, babbab, bbaabb, bbabab, bbabba. In each of these strings, the length of the longest substring consisting of equal letters is 2, and there are no strings consisting of 2 letters ‘a’ and 4 letters ‘b’ with a smaller value.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2020, Day 7: Gennady Korotkevich Contest 5, Contest, Open Cup, 2019/2020 Season, Stage 11: Grand Prix of Gomel",
   "level": 22,
-  "tags": [
-    "math",
-    "dp",
-    "harmonic_number"
-  ],
+  "tags": ["math", "dp", "harmonic_number"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.227299928665161

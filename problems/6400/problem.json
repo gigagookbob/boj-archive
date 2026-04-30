@@ -15,10 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, 1992 ACM South Pacific Programming Contest, jung2381187",
   "level": 19,
-  "tags": [
-    "parsing",
-    "string"
-  ],
+  "tags": ["parsing", "string"],
   "accepted_user_count": 7,
   "submission_count": null,
   "average_tries": 3.4286000728607178

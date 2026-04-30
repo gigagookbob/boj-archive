@@ -19,11 +19,7 @@
   "hint": "<p>Clarification of the second example: So far, Ante has a sum of 1375, and Mate has 875. If Mate were to win 500 points on the last round, and Ante 0, the result would be tied and they would both have 1375 points. However, since Ante is lexicographically smaller than Mate, Ante will still be ahead on the ranking.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #6",
   "level": 8,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["bruteforcing", "implementation", "sorting"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 1.2187999486923218

@@ -15,13 +15,7 @@
   "hint": null,
   "source": "Olympiad, Russian Olympiad in Informatics, Russian Olympiad for Schoolchildren in Informatics, Russian Olympiad for Schoolchildren in Informatics 2018",
   "level": 15,
-  "tags": [
-    "math",
-    "data_structures",
-    "number_theory",
-    "segtree",
-    "euclidean"
-  ],
+  "tags": ["math", "data_structures", "number_theory", "segtree", "euclidean"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.416700005531311

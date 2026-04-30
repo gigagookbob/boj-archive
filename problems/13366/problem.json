@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2016",
   "level": 3,
-  "tags": [
-    "math",
-    "number_theory",
-    "arithmetic",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "number_theory", "arithmetic", "arbitrary_precision"],
   "accepted_user_count": 307,
   "submission_count": null,
   "average_tries": 2.1106998920440674

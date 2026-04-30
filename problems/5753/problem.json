@@ -15,9 +15,7 @@
   "hint": "<ul>\n<li>Alumna: a former female student of a particular school, college or university.</li>\n<li>Alumnus: a former male student of a particular school, college or university.</li>\n<li>Alumni: former students of either sex of a particular school, college or university.</li>\n</ul>",
   "source": "ICPC, Regionals, Latin America, Latin America Regional Contests, South America Regional Contests 2005",
   "level": 3,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 368,
   "submission_count": null,
   "average_tries": 1.6901999711990356

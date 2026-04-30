@@ -27,10 +27,7 @@
   "hint": null,
   "source": "University, University of Central Florida, 2018 Local Programming Contest",
   "level": 3,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 303,
   "submission_count": null,
   "average_tries": 1.260699987411499

@@ -23,11 +23,7 @@
   "hint": "<p>The set of chosen people is shown in the output of each test case.</p>\n<p>The first example is a valid test case for the first subtask and for the second subtask.</p>\n<p>The second example is not a valid test case for the first subtask, but it is valid for the second subtask.</p>\n<p>The third example is not a valid test case for the first subtask nor for the second subtask.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2022, Croatian Olympiad in Informatics 2022",
   "level": 23,
-  "tags": [
-    "bipartite_graph",
-    "graphs",
-    "scc"
-  ],
+  "tags": ["bipartite_graph", "graphs", "scc"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.6666998863220215

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "University, 이화여자대학교, 2025 이화여자대학교 컴퓨터공학과 프로그래밍 대회 (ECPC), swoon, celina324, jinhan814, jthis, jungh150, tony9402, ystaeyoon113",
   "level": 8,
-  "tags": [
-    "greedy",
-    "bruteforcing",
-    "sorting",
-    "prefix_sum"
-  ],
+  "tags": ["greedy", "bruteforcing", "sorting", "prefix_sum"],
   "accepted_user_count": 173,
   "submission_count": null,
   "average_tries": 2.0346999168395996

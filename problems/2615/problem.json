@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2003, 초등부, ICPC, Regionals, Asia West Continent, Iran, Iran Internet Programming Contest, IIPC 2005, shinsy11, Apple_Cplus, tncks0121, riroan, skynet",
   "level": 11,
-  "tags": [
-    "implementation",
-    "bruteforcing"
-  ],
+  "tags": ["implementation", "bruteforcing"],
   "accepted_user_count": 7075,
   "submission_count": null,
   "average_tries": 5.157299995422363

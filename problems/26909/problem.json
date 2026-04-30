@@ -23,11 +23,7 @@
   "hint": "<p>Förklaring av exempelfall 1: det spelar ingen roll vilken av konsonanterna som Oskar väljer att applicera rövarspråkstranform på - så länge han väljer precis ett av de <code>j</code> som finns. Låt säga att Oskar glömde att omvandla alla <code>j</code> utom det första - då förvandlas <code>ojojoj</code> till <code>ojojojoj</code>. Svaret är alltså \"<code>ja</code>\".</p>\n<p>Förklaring av exempelfall 2: det är omöjligt att omvandla den första strängen till den andra. Ett sätt att visa detta på är att observera att det i den första strängen finns två <code>j</code> intill varandra, vilket innebär att det alltid kommer finnas två <code>j</code> intill varandra. Alltså går det inte att omvandla den första strängen till den andra, och svaret är \"<code>nej</code>\".</p>",
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2014, Online Qualification",
   "level": 13,
-  "tags": [
-    "dp",
-    "string",
-    "lcs"
-  ],
+  "tags": ["dp", "string", "lcs"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 2.200000047683716

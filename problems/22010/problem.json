@@ -15,11 +15,7 @@
   "hint": "<p>If John starts by buying lantern $1$ on peak $3$, he can then perform the following sequence of actions:</p>\n<ul>\n<li>walk left twice to peak $1$</li>\n<li>buy lantern $2$</li>\n<li>walk right to peak $4$</li>\n<li>buy lantern $3$</li>\n<li>walk right to peak $7$</li>\n</ul>\n<p>At this point, John has visited each peak at least once and he spent a total of $1 + 2 + 4 = 7$ francs.</p>\n<p>John can't start by buying lantern $2$, $6$, or $7$, since they don't function at the altitude at which they can be bought. Thus, the answers for each of these lanterns is $-1$.</p>\n<p>If John starts by buying lantern $3$ or $4$, he can then visit all peaks without buying additional lanterns.</p>\n<p>If John starts by buying lantern $5$, he must also buy lantern $4$ later.</p>\n<p>If John starts by buying lantern $8$, he will be stuck at peak $7$. Even if he also purchases lantern $7$ as well, he still won't be able to walk from peak $7$ to peak $6$.</p>",
   "source": "Olympiad, European Girls' Olympiad in Informatics, EGOI 2021, Day 1",
   "level": 24,
-  "tags": [
-    "data_structures",
-    "dp",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "segtree"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 3

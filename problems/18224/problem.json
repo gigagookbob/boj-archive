@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 성균관대학교, 2019 Overflow Programming Contest (OPC), gun1120, hojoon0205",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 189,
   "submission_count": null,
   "average_tries": 5.767199993133545

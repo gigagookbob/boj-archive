@@ -19,11 +19,7 @@
   "hint": "<p>In the first test case, Makar eats ice cream for 30 seconds. During this time he manages to eat 60 grams and 30 grams melt, after that there is no ice cream left.</p>\n<p>In the second test case, the optimal order is to eat from the second cone during first $\\frac{10}{3}$ seconds and then eat from the first cone during next $\\frac{40}{3}$ seconds. </p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2020",
   "level": 13,
-  "tags": [
-    "binary_search",
-    "greedy",
-    "parametric_search"
-  ],
+  "tags": ["binary_search", "greedy", "parametric_search"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 5.31820011138916

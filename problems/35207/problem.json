@@ -19,9 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Benelux Algorithm Programming Contest, BAPC 2025",
   "level": 20,
-  "tags": [
-    "sqrt_decomposition"
-  ],
+  "tags": ["sqrt_decomposition"],
   "accepted_user_count": 11,
   "submission_count": null,
   "average_tries": 1.4544999599456787

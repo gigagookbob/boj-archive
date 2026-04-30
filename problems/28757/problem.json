@@ -23,12 +23,7 @@
   "hint": "<p>В первом тесте можно переставить $2$ в начало, а затем $1$ в начало и массив будет отсортирован за две операции.</p>\n<p>Во втором тесте можно оставить $5$ на месте, а все остальные элементы по очереди переставить в начало. А можно оставить $1$ на месте, а все остальные элементы переставить в конец. В обоих случаях придется потратить минимум четыре операции.</p>\n<p>В третьем тесте достаточно переставить $1$ в начало, а $6$  в конец. Итого две операции.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2019-2020 Season, January 26, 2020",
   "level": 14,
-  "tags": [
-    "binary_search",
-    "coordinate_compression",
-    "dp",
-    "two_pointer"
-  ],
+  "tags": ["binary_search", "coordinate_compression", "dp", "two_pointer"],
   "accepted_user_count": 5,
   "submission_count": null,
   "average_tries": 4.599999904632568

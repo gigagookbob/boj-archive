@@ -19,11 +19,7 @@
   "hint": null,
   "source": "author10, nick832, kcm1700",
   "level": 16,
-  "tags": [
-    "graphs",
-    "shortest_path",
-    "bellman_ford"
-  ],
+  "tags": ["graphs", "shortest_path", "bellman_ford"],
   "accepted_user_count": 1265,
   "submission_count": null,
   "average_tries": 5.328100204467773

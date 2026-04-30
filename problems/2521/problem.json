@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Internet Problem Solving Contest, IPSC 2011 연습 세션, doju",
   "level": 15,
-  "tags": [
-    "math",
-    "greedy",
-    "bruteforcing"
-  ],
+  "tags": ["math", "greedy", "bruteforcing"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 3

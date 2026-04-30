@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 10: Grand Prix of Xi’An",
   "level": 8,
-  "tags": [
-    "math",
-    "combinatorics"
-  ],
+  "tags": ["math", "combinatorics"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

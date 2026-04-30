@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2022 IGRUS Newbie Programming Contest, yuja, 39dll, aym506, chlwnsgud7, gumgood, wjdclgns12, yooshnn",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "pigeonhole_principle"
-  ],
+  "tags": ["bruteforcing", "pigeonhole_principle"],
   "accepted_user_count": 361,
   "submission_count": null,
   "average_tries": 2.952899932861328

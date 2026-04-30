@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1997 연습 세션, baekjoon, rootcucu, waylight3",
   "level": 3,
-  "tags": [
-    "math",
-    "geometry",
-    "arithmetic",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "arithmetic", "pythagoras"],
   "accepted_user_count": 2370,
   "submission_count": null,
   "average_tries": 2.734999895095825

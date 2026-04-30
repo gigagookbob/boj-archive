@@ -19,11 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, 2018 ERICA Software-Up Programming Contest, League A, leehosu01",
   "level": 15,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["bruteforcing", "geometry", "line_intersection"],
   "accepted_user_count": 220,
   "submission_count": null,
   "average_tries": 2.227299928665161

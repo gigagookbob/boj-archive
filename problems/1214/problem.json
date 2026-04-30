@@ -31,11 +31,7 @@
   "hint": null,
   "source": "baekjoon, ahmg1216, portableangel",
   "level": 16,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 1571,
   "submission_count": null,
   "average_tries": 4.332300186157227

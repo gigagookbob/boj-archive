@@ -15,10 +15,7 @@
   "hint": "<p>Here are the first 20 codes:</p>\n<pre>\n 1 ACFB    5 ADFC    9 AEFB   13 ALCB   17 ALHC\n 2 ACHB    6 ADHB   10 AEFC   14 ALFB   18 AQCB\n 3 ADCB    7 ADHC   11 AEHB   15 ALFC   19 AQFB\n 4 ADFB    8 AECB   12 AEHC   16 ALHB   20 AQFC</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2006-2007 Season, USACO November 2006 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 58,
   "submission_count": null,
   "average_tries": 2.069000005722046

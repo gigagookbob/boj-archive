@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Olympiad, Canadian Computing Competition & Olympiad, 2021, CCO 2021",
   "level": 21,
-  "tags": [
-    "data_structures",
-    "dp",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "dp", "lazyprop", "segtree"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.7741999626159668

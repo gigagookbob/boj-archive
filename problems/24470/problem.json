@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the examples:</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 544px; height: 133px;\"/></p>\n<p>The answer to the first query from each example is marked on the graph.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2021/2022, Contest #4",
   "level": 15,
-  "tags": [
-    "dp",
-    "graphs",
-    "shortest_path"
-  ],
+  "tags": ["dp", "graphs", "shortest_path"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 2.200000047683716

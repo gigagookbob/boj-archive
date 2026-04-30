@@ -19,11 +19,7 @@
   "hint": "<p>참가자는 본인이 뽑은 상대와 한 경기, 본인을 뽑은 상대와 경기를 진행하게 된다.</p>\n<p>서로를 뽑았을 경우, 같은 상대와 두 경기를 진행하게 된다.</p>",
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2020, bsyun0571, dlstj0923, hellogaon, high092, rasauq1122, rhs0266, tony9402",
   "level": 13,
-  "tags": [
-    "math",
-    "dp",
-    "combinatorics"
-  ],
+  "tags": ["math", "dp", "combinatorics"],
   "accepted_user_count": 151,
   "submission_count": null,
   "average_tries": 1.7682000398635864

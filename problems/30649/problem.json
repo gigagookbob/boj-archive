@@ -23,11 +23,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p>There is no mistake, so the output is OK.</p>\n<p>Clarification of the second example:</p>\n<p>There is a mistake in the ninth column: the digit 5 appears twice; and there is also a mistake in the lower right 3 × 3 subgrid: the digit 5 appears twice.</p>\n<p>Clarification of the third example:</p>\n<p>There are two mistakes: the digit 2 appears twice in the second column, and the digit 6 appears twice in the seventh column.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #1",
   "level": 8,
-  "tags": [
-    "implementation",
-    "string",
-    "parsing"
-  ],
+  "tags": ["implementation", "string", "parsing"],
   "accepted_user_count": 42,
   "submission_count": null,
   "average_tries": 1.2856999635696411

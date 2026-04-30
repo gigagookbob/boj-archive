@@ -19,13 +19,7 @@
   "hint": "<p>The figure on the left is the input configuration for the first sample. The figure on the right is a possible final configuration: the label of each parent is strictly greater than that of its child.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.png\" style=\"width: 93px; height: 130px;\"/><img alt=\"\" src=\"2.png\" style=\"width: 93px; height: 130px;\"/></p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2017, Day 3: Japanese Contest, Head of Republic of Karelia Cup, Round I",
   "level": 23,
-  "tags": [
-    "dp",
-    "trees",
-    "dp_tree",
-    "smaller_to_larger",
-    "slope_trick"
-  ],
+  "tags": ["dp", "trees", "dp_tree", "smaller_to_larger", "slope_trick"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.0810999870300293

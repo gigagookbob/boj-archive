@@ -10,11 +10,7 @@
   "hint": null,
   "source": ", Olympiad, 국제정보올림피아드 대표학생 선발고사, 2020, 1차 선발고사",
   "level": 19,
-  "tags": [
-    "string",
-    "hashing",
-    "kmp"
-  ],
+  "tags": ["string", "hashing", "kmp"],
   "accepted_user_count": 81,
   "submission_count": null,
   "average_tries": 3.1851999759674072

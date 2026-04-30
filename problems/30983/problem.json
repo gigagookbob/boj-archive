@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 파댕이컵, 파댕이컵, qvixnh22, ksoosung77, naeby, utilforever",
   "level": 17,
-  "tags": [
-    "math",
-    "graphs",
-    "exponentiation_by_squaring"
-  ],
+  "tags": ["math", "graphs", "exponentiation_by_squaring"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 2.606600046157837

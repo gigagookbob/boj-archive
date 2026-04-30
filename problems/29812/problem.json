@@ -19,10 +19,7 @@
   "hint": null,
   "source": "University, 한양대학교, 2023 HPEC (Hanyang Programming Evaluation Contest), Beginner, jrdora, bsheep0304, hansoyo, hibye1217, jjaewon9, myyh1234, opusdeisong",
   "level": 6,
-  "tags": [
-    "greedy",
-    "string"
-  ],
+  "tags": ["greedy", "string"],
   "accepted_user_count": 278,
   "submission_count": null,
   "average_tries": 2.575500011444092

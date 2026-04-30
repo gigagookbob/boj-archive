@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, International Olympiad in Informatics, IOI 1995, Day 1",
   "level": 14,
-  "tags": [
-    "dp",
-    "implementation"
-  ],
+  "tags": ["dp", "implementation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1

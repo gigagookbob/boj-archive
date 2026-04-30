@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, Spot, CoolSpot 2011",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "arithmetic"],
   "accepted_user_count": 221,
   "submission_count": null,
   "average_tries": 1.7647000551223755

@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, All-Ireland Programming Olympiad, 2017 AIPO Preliminary Round, tncks0121",
   "level": 1,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 4949,
   "submission_count": null,
   "average_tries": 1.2280999422073364

@@ -15,10 +15,7 @@
   "hint": "<p>Consider bull 1 and cow 1:</p>\n<pre>\n    b1: TGAAAAAAAAAAAAAAAAAAAAAAA\n    c1: ATAAAAAAAAAAAAAAAAAAAAAAA</pre>\n<p>One might express the important part of their DNA as {T|A} followed by {G|T}</p>\n<p>Here's the 'matching' tests for bull 0 and cow 0:</p>\n<pre>\n    b1: TGAAAAAAAAAAAAAAAAAAAAAAA -- parent, can't be offspring\n    b2: AGAAAAAAAAAAAAAAAAAAAAAAA offspring! Matches [TA][GT]\n    c1: ATAAAAAAAAAAAAAAAAAAAAAAA -- parent, can't be offspring\n    c2: AAAAAAAAAAAAAAAAAAAAAAAAA -- second character is 'A'; must be G or T\n    c3: TTAAAAAAAAAAAAAAAAAAAAAAA offspring! Matches [TA][GT]</pre>\n<p>Thus, the first element of the result matrix is 2. Other elements derived similarly.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2009-2010 Season, USACO January 2010 Contest, Bronze",
   "level": 6,
-  "tags": [
-    "implementation",
-    "string"
-  ],
+  "tags": ["implementation", "string"],
   "accepted_user_count": 200,
   "submission_count": null,
   "average_tries": 1.5549999475479126

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "hibye1217, iktk, mujigae, pyb1031, utilforever",
   "level": 12,
-  "tags": [
-    "math",
-    "implementation",
-    "string",
-    "number_theory"
-  ],
+  "tags": ["math", "implementation", "string", "number_theory"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.600000023841858

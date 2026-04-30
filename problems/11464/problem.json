@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2015",
   "level": 12,
-  "tags": [
-    "arithmetic",
-    "implementation",
-    "math",
-    "parsing",
-    "string"
-  ],
+  "tags": ["arithmetic", "implementation", "math", "parsing", "string"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 2.076900005340576

@@ -19,11 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Korea, Nationwide Internet Competition, Seoul Nationalwide Internet Competition 2024",
   "level": 14,
-  "tags": [
-    "math",
-    "geometry",
-    "line_intersection"
-  ],
+  "tags": ["math", "geometry", "line_intersection"],
   "accepted_user_count": 118,
   "submission_count": null,
   "average_tries": 1.864400029182434

@@ -19,12 +19,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northern Eurasia Finals, NEERC 2006, baekjoon",
   "level": 19,
-  "tags": [
-    "dp",
-    "linearity_of_expectation",
-    "math",
-    "probability"
-  ],
+  "tags": ["dp", "linearity_of_expectation", "math", "probability"],
   "accepted_user_count": 12,
   "submission_count": null,
   "average_tries": 1.833299994468689

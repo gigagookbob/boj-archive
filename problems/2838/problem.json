@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2011, Croatian Olympiad in Informatics 2011, baekjoon",
   "level": 18,
-  "tags": [
-    "dp",
-    "implementation"
-  ],
+  "tags": ["dp", "implementation"],
   "accepted_user_count": 4,
   "submission_count": null,
   "average_tries": 1.5

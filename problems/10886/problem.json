@@ -15,11 +15,7 @@
   "hint": "<p>팀 내에서 설문조사를 진행하면 아마 위와 같은 결과를 얻게 될 것이다.</p>",
   "source": "Contest, kriiicon, 제1회 kriiICPC, august14",
   "level": 3,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 17310,
   "submission_count": null,
   "average_tries": 1.5199999809265137

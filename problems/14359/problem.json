@@ -15,11 +15,7 @@
   "hint": "<p>In Case #3, the following pairs of courtiers are lovers: (8, 1), (4, 5), (2, 3), (7, 6). Here is an illustration of our sample output:</p>\n<p><img src=\"1.png\" style=\"height:165px; width:153px\"/></p>\n<p>For Case #3, note that this would also be a valid maze:</p>\n<p><code>/\\<br/>\n\\/</code></p>\n<p>In Case #4, the courtyard consists of only one cell, so the courtiers living around it, starting from the top and reading clockwise, are 1, 2, 3, and 4. There are only two possible options to put in the one cell: <code>/</code> or <code>\\</code>. The first of these choices would form paths from 1 to 4, and from 2 to 3. The second of these choices would form paths from 1 to 2, and from 3 to 4. However, neither of these helps our lovesick courtiers, since in this case, 1 loves 3 and 2 loves 4. So this case is <code>IMPOSSIBLE</code>, and the opera will be full of unhappy arias!</p>",
   "source": "Contest, Google, Code Jam, Google Code Jam 2016, Round 2, xiaowuc1",
   "level": 12,
-  "tags": [
-    "bruteforcing",
-    "implementation",
-    "simulation"
-  ],
+  "tags": ["bruteforcing", "implementation", "simulation"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 1.100000023841858

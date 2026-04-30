@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, NWERC 2020",
   "level": 16,
-  "tags": [
-    "math",
-    "geometry",
-    "randomization",
-    "pythagoras"
-  ],
+  "tags": ["math", "geometry", "randomization", "pythagoras"],
   "accepted_user_count": 96,
   "submission_count": null,
   "average_tries": 4.57289981842041

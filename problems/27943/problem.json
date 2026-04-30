@@ -19,9 +19,7 @@
   "hint": "<p>예제는 입출력이 어떤 방식으로 이루어지는지 알기 쉽도록 의도적으로 줄 간격을 조정한 것으로, 실제 입출력과는 다르다.</p>\n<p>언어별로 표준 출력 버퍼를 비우는 방법은 다음과 같다.</p>\n<ul>\n<li>C: <code>fflush(stdout)</code></li>\n<li>C++: <code>std::cout &lt;&lt; std::flush</code></li>\n<li>Java: <code>System.out.flush()</code></li>\n<li>Python: <code>sys.stdout.flush()</code></li>\n</ul>",
   "source": "Contest, BOJ User Contest, 가지컵, 2023 가지컵, wider93, jihwan_0319, kiwiyou, mingyu331, sait2000, wapas, WeissBlume, yup0927",
   "level": 11,
-  "tags": [
-    "binary_search"
-  ],
+  "tags": ["binary_search"],
   "accepted_user_count": 137,
   "submission_count": null,
   "average_tries": 4.291999816894531

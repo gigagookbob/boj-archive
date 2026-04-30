@@ -31,12 +31,7 @@
   "hint": "<p><span style=\"color:#c0392b;\">PARENT_ORIGIN</span>, <span style=\"color:#c0392b;\">ANCHOR_POINT</span>, <span style=\"color:#c0392b;\">POSITION </span>에 대한 설명은 <a href=\"https://dalihub.github.io/docs/native-tutorials/actor\" target=\"_blank\">https://dalihub.github.io/docs/native-tutorials/actor</a> 나<a href=\"https://docs.tizen.org/application/dotnet/guides/user-interface/nui/view/\">https://docs.tizen.org/application/dotnet/guides/user-interface/nui/view/</a> 의 이미지를 참고하면 좋다.</p>",
   "source": "Contest, BOJ User Contest, 곰곰컵, 제2회 곰곰컵, pichulia, pjshwa, tony9402",
   "level": 17,
-  "tags": [
-    "data_structures",
-    "implementation",
-    "string",
-    "trees"
-  ],
+  "tags": ["data_structures", "implementation", "string", "trees"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 3.0416998863220215

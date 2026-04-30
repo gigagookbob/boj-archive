@@ -19,13 +19,7 @@
   "hint": null,
   "source": "ICPC, World Finals, ACM-ICPC World Finals 2017",
   "level": 10,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "dfs",
-    "floyd_warshall"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "dfs", "floyd_warshall"],
   "accepted_user_count": 130,
   "submission_count": null,
   "average_tries": 1.3615000247955322

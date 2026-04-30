@@ -23,12 +23,7 @@
   "hint": "<p>이 게임은 다운받아서 직접해 볼 수 있다.</p>\n<p><a href=\"http://www.quento.com/\">http://quento.com/</a></p>",
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "dfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "dfs"],
   "accepted_user_count": 237,
   "submission_count": null,
   "average_tries": 1.9155999422073364

@@ -19,10 +19,7 @@
   "hint": "<p>In the first example, Varya can place three boxes on the shelf: for example, the second box lying on side of length $4$ on the left, the fourth box lying on side of length $2$ at the center, and the first box lying on side $3$ on the right.</p>\n<p>In the second example, if all three boxes are placed on the shelf symmetrically, they will fall off, as the centers of left and right boxes will be located exactly above the ends of the shelf.</p>",
   "source": "Contest, Open Cup, 2019/2020 Season, Stage 3: Grand Prix of SPb",
   "level": 10,
-  "tags": [
-    "greedy",
-    "sorting"
-  ],
+  "tags": ["greedy", "sorting"],
   "accepted_user_count": 32,
   "submission_count": null,
   "average_tries": 2.9688000679016113

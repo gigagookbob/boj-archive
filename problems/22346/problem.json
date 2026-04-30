@@ -15,9 +15,7 @@
   "hint": "<p>부분문자열의 정의 길이가 l인 문자열 s와 1 ≤ i ≤ j ≤ l인 두 정수 i와 j에 대해, s[i..j]는 s의 i번째 문자에서부터 j번째 문자까지를 모두 순서대로 포함하는 문자열이며, 이러한 문자열들을 문자열 s의 <strong>부분문자열</strong>이라고 한다.</p>\n<p>예를 들어 s가 <code>0100101</code>이라면, s[3..5]는 <code>001</code>이고, s[4..7]은 <code>0101</code>이다. 따라서 <code>001</code>과 <code>0101</code>은 문자열 <code>0100101</code>의 부분문자열이다. 하지만 <code>1010</code>은 문자열 <code>0100101</code>의 부분문자열이 아니다.</p>",
   "source": ", Olympiad, 한국정보올림피아드, KOI 2021 2차대회, 중등부",
   "level": 20,
-  "tags": [
-    "divide_and_conquer"
-  ],
+  "tags": ["divide_and_conquer"],
   "accepted_user_count": 71,
   "submission_count": null,
   "average_tries": 5.098599910736084

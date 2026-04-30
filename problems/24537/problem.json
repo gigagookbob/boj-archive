@@ -15,12 +15,7 @@
   "hint": null,
   "source": "jwvg0425, Green55, jhnah917, jthis, kyo20111, tlsdydaud1, wider93",
   "level": 14,
-  "tags": [
-    "math",
-    "greedy",
-    "number_theory",
-    "euclidean"
-  ],
+  "tags": ["math", "greedy", "number_theory", "euclidean"],
   "accepted_user_count": 78,
   "submission_count": null,
   "average_tries": 2.1154000759124756

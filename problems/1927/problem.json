@@ -15,10 +15,7 @@
   "hint": null,
   "source": "developer_p, djm03178, leethyun",
   "level": 9,
-  "tags": [
-    "data_structures",
-    "priority_queue"
-  ],
+  "tags": ["data_structures", "priority_queue"],
   "accepted_user_count": 46400,
   "submission_count": null,
   "average_tries": 1.9972000122070312

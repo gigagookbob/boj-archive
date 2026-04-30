@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 09., pyb1031, jthis, kiwiyou, pjshwa, snrnsidy, tony9402, utilforever",
   "level": 19,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 1.3157999515533447

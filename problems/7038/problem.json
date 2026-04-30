@@ -15,10 +15,7 @@
   "hint": "<p>The sample input corresponds to the example given in the problem statement. </p>\n<p>There is only one match, at position 3 within FJ's sequence of N cows.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO December 2005 Contest, Gold",
   "level": 19,
-  "tags": [
-    "string",
-    "kmp"
-  ],
+  "tags": ["string", "kmp"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.933300018310547

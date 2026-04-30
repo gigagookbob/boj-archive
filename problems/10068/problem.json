@@ -15,12 +15,7 @@
   "hint": "<p>예제의 경우에 아래와 같이 연결하면, 60점을 얻을 수 있다. 시작은 3번 구슬로 시작한다.</p>\r\n\r\n<ul>\r\n\t<li>5와 3을 연결한다. (선의 길이는 상관없다)</li>\r\n\t<li>1을 3-5 사이에 넣는다. (길이 40, 20 선을 이용)</li>\r\n\t<li>2와 1을 길이가 10인 선을 이용해 연결한다.</li>\r\n\t<li>4와 1을 길이가 15인 선으로 연결한다.</li>\r\n</ul>\r\n\r\n<p>연결은 아래와 같아지고, 이 방법보다 더 큰 점수를 얻을 수 있는 방법은 없다.</p>\r\n\r\n<p><img alt=\"\" src=\"1.png\" style=\"height:227px; width:240px\" /></p>\r\n",
   "source": "Olympiad, Asia-Pacific Informatics Olympiad, APIO 2014, baekjoon, namnamseo",
   "level": 23,
-  "tags": [
-    "dp",
-    "trees",
-    "set",
-    "dp_tree"
-  ],
+  "tags": ["dp", "trees", "set", "dp_tree"],
   "accepted_user_count": 61,
   "submission_count": null,
   "average_tries": 4.590199947357178

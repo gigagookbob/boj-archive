@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 1997 연습 세션",
   "level": 5,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 85,
   "submission_count": null,
   "average_tries": 1.7411999702453613

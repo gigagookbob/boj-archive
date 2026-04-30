@@ -19,11 +19,7 @@
   "hint": null,
   "source": "tjdwo5313, lhs456852, siyamaki, wlstn6278, indioindio",
   "level": 13,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 28771,
   "submission_count": null,
   "average_tries": 1.6965999603271484

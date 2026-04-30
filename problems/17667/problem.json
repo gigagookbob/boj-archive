@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2019",
   "level": 26,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "randomization"
-  ],
+  "tags": ["graphs", "graph_traversal", "randomization"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 1.375

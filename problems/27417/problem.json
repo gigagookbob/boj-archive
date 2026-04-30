@@ -15,12 +15,7 @@
   "hint": "<p>In this example, the secret number $x$ is $75$. In response to the first query, $15$ is returned because $x + a = 75 + 3 = 78$ and its digit sum is $7 + 8 = 15$. After the second response, you can conclude that the only possible secret number is $75$.</p>",
   "source": "ICPC, Regionals, Asia Pacific, Japan, ICPC 2022 Asia Yokohama Regional, Camp, Petrozavodsk Programming Camp, Summer 2023, Day 1: Starting Contest",
   "level": 13,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "binary_search",
-    "parametric_search"
-  ],
+  "tags": ["math", "ad_hoc", "binary_search", "parametric_search"],
   "accepted_user_count": 95,
   "submission_count": null,
   "average_tries": 2.6105000972747803

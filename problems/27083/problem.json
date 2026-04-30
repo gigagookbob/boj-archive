@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2001-2002 Season, USACO February 2002 Contest, Green or Orange, Olympiad, USA Computing Olympiad, 1999-2000 Season, USACO Fall 1999 Contest, Gold",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 2.705899953842163

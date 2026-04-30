@@ -15,13 +15,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 27,
-  "tags": [
-    "data_structures",
-    "trees",
-    "segtree",
-    "lazyprop",
-    "splay_tree"
-  ],
+  "tags": ["data_structures", "trees", "segtree", "lazyprop", "splay_tree"],
   "accepted_user_count": 18,
   "submission_count": null,
   "average_tries": 23.777799606323242

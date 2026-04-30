@@ -19,11 +19,7 @@
   "hint": null,
   "source": ", Olympiad, Swedish Olympiad in Informatics, 2022, Final",
   "level": 17,
-  "tags": [
-    "greedy",
-    "sorting",
-    "constructive"
-  ],
+  "tags": ["greedy", "sorting", "constructive"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 3.4444000720977783

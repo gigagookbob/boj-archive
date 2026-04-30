@@ -15,13 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Northern Eurasia, Northwestern Russia Regional Contest, ICPC 2024-2025 Northwestern Russia Regional Contest",
   "level": 25,
-  "tags": [
-    "bcc",
-    "dp",
-    "dp_tree",
-    "trees",
-    "two_pointer"
-  ],
+  "tags": ["bcc", "dp", "dp_tree", "trees", "two_pointer"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2

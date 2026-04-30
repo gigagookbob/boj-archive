@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 실버컵, 제1회 실버컵, cozyyg, cs71107, jh05013",
   "level": 19,
-  "tags": [
-    "case_work",
-    "game_theory"
-  ],
+  "tags": ["case_work", "game_theory"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 4.694900035858154

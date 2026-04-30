@@ -15,9 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Vietnam, 2016 Nha Trang Regional Contest, jh05013",
   "level": 7,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 2.566699981689453

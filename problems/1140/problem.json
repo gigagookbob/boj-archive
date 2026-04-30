@@ -43,13 +43,7 @@
   "hint": null,
   "source": "baekjoon, 79brue",
   "level": 18,
-  "tags": [
-    "math",
-    "implementation",
-    "greedy",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "implementation", "greedy", "bruteforcing", "number_theory"],
   "accepted_user_count": 59,
   "submission_count": null,
   "average_tries": 5.220300197601318

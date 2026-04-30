@@ -19,10 +19,7 @@
   "hint": "<p>Решения, работающие в случаях, в которых длина послания не превосходит $200$, будут оцениваться в $30$ баллов.</p>\n<p>Решения, работающие в случаях, в которых длина послания не превосходит $5000$, будут оцениваться в $60$ баллов.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2013-2014 Season, December 21, 2013",
   "level": 12,
-  "tags": [
-    "string",
-    "prefix_sum"
-  ],
+  "tags": ["string", "prefix_sum"],
   "accepted_user_count": 16,
   "submission_count": null,
   "average_tries": 2.0625

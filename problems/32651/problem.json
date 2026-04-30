@@ -23,11 +23,7 @@
   "hint": null,
   "source": "University, 연세대학교, 2024 연세대학교 프로그래밍 경진대회, plast, dabbler1, hamuim, leo020630, lky7674, playsworld16, ystaeyoon113, yup0927",
   "level": 2,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 1549,
   "submission_count": null,
   "average_tries": 1.5985000133514404

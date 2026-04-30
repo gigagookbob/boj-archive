@@ -15,12 +15,7 @@
   "hint": "<p>In this example, the milk in each bucket is as follows during the sequence of pours:</p>\n<pre>\nInitial State: 3  4  5\n1. Pour 1-&gt;2:  0  7  5\n2. Pour 2-&gt;3:  0  0  12\n3. Pour 3-&gt;1:  10 0  2\n4. Pour 1-&gt;2:  0  10 2\n5. Pour 2-&gt;3:  0  0  12\n(The last three states then repeat in a cycle ...)\n</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2018-2019 Season, USACO 2018 December Contest, Bronze",
   "level": 4,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic",
-    "simulation"
-  ],
+  "tags": ["math", "implementation", "arithmetic", "simulation"],
   "accepted_user_count": 1568,
   "submission_count": null,
   "average_tries": 1.4305000305175781

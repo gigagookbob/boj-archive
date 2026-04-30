@@ -39,10 +39,7 @@
   "hint": null,
   "source": "baekjoon, jh05013",
   "level": 17,
-  "tags": [
-    "dp",
-    "prefix_sum"
-  ],
+  "tags": ["dp", "prefix_sum"],
   "accepted_user_count": 308,
   "submission_count": null,
   "average_tries": 2.9123001098632812

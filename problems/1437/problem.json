@@ -31,10 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 12,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 758,
   "submission_count": null,
   "average_tries": 2.1847000122070312

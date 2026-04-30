@@ -15,9 +15,7 @@
   "hint": "<p>In week 1, produce 200 units of yogurt and deliver all of it. In week 2, produce 700 units: deliver 400 units while storing 300 units. In week 3, deliver the 300 units that were stored. In week 4, produce and deliver 500 units.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO March 2005 Contest, Gold, Olympiad, USA Computing Olympiad, 2004-2005 Season, USACO March 2005 Contest, Silver",
   "level": 10,
-  "tags": [
-    "greedy"
-  ],
+  "tags": ["greedy"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 1.105299949645996

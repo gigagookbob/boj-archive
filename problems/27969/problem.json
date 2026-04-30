@@ -23,13 +23,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 와쿠(AGCU)컵, 제1회 와쿠(AGCU)컵, invrtd_h, bnb2011, cgiosy, eaststar, jyheo98, parkky, pjshwa, surung9898, tony9402, yooyou7",
   "level": 8,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "string",
-    "parsing",
-    "stack"
-  ],
+  "tags": ["implementation", "data_structures", "string", "parsing", "stack"],
   "accepted_user_count": 286,
   "submission_count": null,
   "average_tries": 1.1993000507354736

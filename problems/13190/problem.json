@@ -19,12 +19,7 @@
   "hint": "<p>Another valid bracket sequence is (())(), but this is not the smallest lexicographic solution.</p>\n<p>There is no valid bracket sequence that matches the given string.</p>",
   "source": "Olympiad, Central European Olympiad in Informatics, CEOI 2016, Day 2",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "dp",
-    "sparse_table",
-    "string"
-  ],
+  "tags": ["data_structures", "dp", "sparse_table", "string"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.666700005531311

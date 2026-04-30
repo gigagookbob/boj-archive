@@ -19,12 +19,7 @@
   "hint": "<p>Note that it is possible that some of the brothers will not get any cities at all. Oh well, no one said it should be fair.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2015, Day 9: Michael Tikhomirov Contest 1",
   "level": 19,
-  "tags": [
-    "math",
-    "linear_algebra",
-    "gaussian_elimination",
-    "xor_basis"
-  ],
+  "tags": ["math", "linear_algebra", "gaussian_elimination", "xor_basis"],
   "accepted_user_count": 24,
   "submission_count": null,
   "average_tries": 1.75

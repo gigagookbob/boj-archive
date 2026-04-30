@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", Contest, JOI Open Contest, JOI Open Contest 2022",
   "level": 22,
-  "tags": [
-    "math",
-    "binary_search",
-    "set",
-    "two_pointer"
-  ],
+  "tags": ["math", "binary_search", "set", "two_pointer"],
   "accepted_user_count": 25,
   "submission_count": null,
   "average_tries": 1.4800000190734863

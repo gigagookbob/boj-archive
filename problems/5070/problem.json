@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia East Continent, China, Shanghai, Shanghai Regional Contest 2004",
   "level": 18,
-  "tags": [
-    "backtracking",
-    "heuristics",
-    "implementation"
-  ],
+  "tags": ["backtracking", "heuristics", "implementation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 4.1666998863220215

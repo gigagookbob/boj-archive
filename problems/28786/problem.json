@@ -15,10 +15,7 @@
   "hint": "<p>В тесте из условия Джонни должен один раз полностью зарядить пистолет, два раза выстрелить, потом доложить один патрон и выстрелить его.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Internet Olympiads in Informatics, 2018-2019 Season, October 14, 2018",
   "level": 4,
-  "tags": [
-    "math",
-    "arithmetic"
-  ],
+  "tags": ["math", "arithmetic"],
   "accepted_user_count": 51,
   "submission_count": null,
   "average_tries": 1.4706000089645386

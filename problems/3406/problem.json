@@ -15,10 +15,7 @@
   "hint": "<p>The first example universe will never become a sequence of zeros (it will continue flipping: 01 10 01 ...). The second one will die in a few steps (0010100 0100010 1010101 0000000). The third one does not change.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CERC 2012",
   "level": 21,
-  "tags": [
-    "divide_and_conquer",
-    "math"
-  ],
+  "tags": ["divide_and_conquer", "math"],
   "accepted_user_count": 45,
   "submission_count": null,
   "average_tries": 2.6666998863220215

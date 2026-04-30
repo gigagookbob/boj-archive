@@ -19,9 +19,7 @@
   "hint": "<p>Consider the first sample test. In the first query the only two available skyscrapers have heights $3$ and $1$ but they are not valid since $3 \\geq 1$. In the second query the pair consisting of the first and the second skyscrapers is valid since they have heights $2$ and $3$.</p>\n<p>Consider the second sample test. In the first query the pair of skyscrapers with heights $2$ and $3$, and the pair of skyscrapers with heights $2$ and $4$ are valid. The distance between first two of them is greater so this pair produces the answer for this query.</p>",
   "source": "Olympiad, Moscow Open Olympiad in Informatics, Moscow Open Olympiad in Informatics 2015-16, Day 2",
   "level": 22,
-  "tags": [
-    "sqrt_decomposition"
-  ],
+  "tags": ["sqrt_decomposition"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 30

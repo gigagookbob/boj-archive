@@ -15,11 +15,7 @@
   "hint": "<p>언어별로 정답인 <span style=\"color:#e74c3c;\"><code>ans</code></span>를 소숫점 아래 $12$자리까지 출력하는 방법은 다음과 같다. 이외의 언어는 각 언어의 레퍼런스 페이지를 참고하여라.</p>\n<ul>\n<li>C: <code>printf(\"%.12f\\n\", ans);</code></li>\n<li>C++: <code>std::cout &lt;&lt; std::fixed &lt;&lt; std::setprecision(12) &lt;&lt; ans &lt;&lt; std::endl;</code></li>\n<li>C#: <code>Console.WriteLine(String.Format(\"{0:F12}\", ans));</code></li>\n<li>Java: <code>System.out.printf(\"%.12f\\n\", ans);</code></li>\n<li>Python: <code>print(f'{ans:.12f}')</code></li>\n</ul>",
   "source": "University, KAIST, KAIST HAJE 프로그래밍 대회, cologne, kaistray, gs20036, harnel_tngn, juneharold, mathking1021, shortcakesweets",
   "level": 5,
-  "tags": [
-    "math",
-    "implementation",
-    "arithmetic"
-  ],
+  "tags": ["math", "implementation", "arithmetic"],
   "accepted_user_count": 186,
   "submission_count": null,
   "average_tries": 1.462399959564209

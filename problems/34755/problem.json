@@ -23,12 +23,7 @@
   "hint": null,
   "source": "University, 한양대학교 ERICA 캠퍼스, Zero One Algorithm Contest 2025, rabbit007, firework72, gi1dong2, hyoseok, jaemkim01, kjmin622, putdata, rasauq1122, rhdqor213, sjhi00, tony9402, utilforever",
   "level": 14,
-  "tags": [
-    "data_structures",
-    "set",
-    "hash_set",
-    "tree_set"
-  ],
+  "tags": ["data_structures", "set", "hash_set", "tree_set"],
   "accepted_user_count": 28,
   "submission_count": null,
   "average_tries": 2

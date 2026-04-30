@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, KAIST, KAIST ICPC Mock Competition, 2017 KAIST 7th ACM-ICPC Mock Competition, Contest, Open Cup, 2018/2019 Season, Stage 5: Grand Prix of Korea, jh05013",
   "level": 15,
-  "tags": [
-    "implementation",
-    "simulation",
-    "harmonic_number"
-  ],
+  "tags": ["implementation", "simulation", "harmonic_number"],
   "accepted_user_count": 57,
   "submission_count": null,
   "average_tries": 2.3684000968933105

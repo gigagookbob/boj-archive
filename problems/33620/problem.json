@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, 피갤컵, 제2회 피갤컵, pyb1031, kdh9949, plast",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "segtree",
-    "binary_search",
-    "lazyprop"
-  ],
+  "tags": ["data_structures", "segtree", "binary_search", "lazyprop"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.8636000156402588

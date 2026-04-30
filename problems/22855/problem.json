@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Semi-Game Cup, Semi-Game Cup 2, jhwest2, aeren, jh05013, stonejjun03",
   "level": 19,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "two_pointer",
-    "deque_trick"
-  ],
+  "tags": ["dp", "prefix_sum", "two_pointer", "deque_trick"],
   "accepted_user_count": 19,
   "submission_count": null,
   "average_tries": 8.263199806213379

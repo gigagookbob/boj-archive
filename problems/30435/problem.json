@@ -27,12 +27,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2023",
   "level": 6,
-  "tags": [
-    "math",
-    "implementation",
-    "bruteforcing",
-    "probability"
-  ],
+  "tags": ["math", "implementation", "bruteforcing", "probability"],
   "accepted_user_count": 89,
   "submission_count": null,
   "average_tries": 1.292099952697754

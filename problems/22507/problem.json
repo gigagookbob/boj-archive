@@ -27,13 +27,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2011 Day 3",
   "level": 14,
-  "tags": [
-    "math",
-    "dp",
-    "bruteforcing",
-    "combinatorics",
-    "probability"
-  ],
+  "tags": ["math", "dp", "bruteforcing", "combinatorics", "probability"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1.4443999528884888

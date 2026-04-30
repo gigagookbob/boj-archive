@@ -15,12 +15,7 @@
   "hint": "<p id=\"euclid\"><a href=\"#r-euclid\">[1]</a> $xy$평면 위에서 $(a, b)$와 $(c, d)$의 유클리드 거리는 $\\sqrt{(a-c)^2 + (b-d)^2}$이다.</p>",
   "source": "Contest, BOJ User Contest, 월간 향유회, 월간 향유회 2025. 04-05., wapas, chogahui05, heeda0528, jthis, kiwiyou, pjshwa, pyb1031, snrnsidy, swoon, tony9402, utilforever",
   "level": 5,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "geometry",
-    "pythagoras"
-  ],
+  "tags": ["math", "ad_hoc", "geometry", "pythagoras"],
   "accepted_user_count": 256,
   "submission_count": null,
   "average_tries": 1.7577999830245972

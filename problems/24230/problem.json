@@ -19,12 +19,7 @@
   "hint": null,
   "source": "University, 경인지역 대학 연합, shake! 2021, tony9402, jh05013, rhs0266, spectaclehong",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "trees", "dfs"],
   "accepted_user_count": 803,
   "submission_count": null,
   "average_tries": 2.4284000396728516

@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, CTU Open Contest, CTU Open Contest 2013, baekjoon",
   "level": 20,
-  "tags": [
-    "bruteforcing",
-    "geometry",
-    "convex_hull",
-    "rotating_calipers"
-  ],
+  "tags": ["bruteforcing", "geometry", "convex_hull", "rotating_calipers"],
   "accepted_user_count": 86,
   "submission_count": null,
   "average_tries": 2.1278998851776123

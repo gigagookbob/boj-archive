@@ -47,12 +47,7 @@
   "hint": null,
   "source": "baekjoon, hoxymola",
   "level": 14,
-  "tags": [
-    "implementation",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["implementation", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 2021,
   "submission_count": null,
   "average_tries": 4.1296000480651855

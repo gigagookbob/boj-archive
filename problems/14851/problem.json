@@ -19,10 +19,7 @@
   "hint": null,
   "source": "baekjoon, edenooo",
   "level": 18,
-  "tags": [
-    "offline_queries",
-    "bitset"
-  ],
+  "tags": ["offline_queries", "bitset"],
   "accepted_user_count": 38,
   "submission_count": null,
   "average_tries": 5.5

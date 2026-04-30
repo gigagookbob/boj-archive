@@ -15,9 +15,7 @@
   "hint": "<p>In the first sample, a = [1031463378] after all the operations.</p>\n<p>In the second sample, a = [1036205629, 1064909195, 1044643689, 1062944339, 1062944339, 1062944339, 1062944339, 1057472915, 1057472915, 1030626924] after all the operations.</p>",
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2019, Day 2: Jingzhe Tang Contest",
   "level": 22,
-  "tags": [
-    "sqrt_decomposition"
-  ],
+  "tags": ["sqrt_decomposition"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

@@ -19,11 +19,7 @@
   "hint": "<p>Clarification of the first example:</p>\n<p><img alt=\"\" src=\"2.png\" style=\"width: 221px; height: 250px; float: left;\"/>Marin is first, and he draws an ornament of color $1$ from the left end of the box. Marin scores a point.</p>\n<p>Josip draws an ornament of color $1$ from the right end of the box, but he does not score a point because a ball of color $1$ has already been drawn.</p>\n<p>Marin draws an ornament of color $1$ from the left end of the box. He does not score a point either because a ball of color $1$ has already been drawn.</p>\n<p>Josip draws an ornament of color $2$ from the left end of the box. This is the first ball of color $2$ drawn, so Josip scores a point.</p>\n<p>Marin draws the last ornament (color $1$) from the left end of the box, but it does not earn him a point, and the game ends.</p>\n<p>Marin has a total of $1$ point (he drew the ornament of color $1$ first), and Josip also has a total of $1$ point (he drew the ornament of color $2$ first).</p>\n<p>The final result is $1$ : $1$.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2023/2024, Contest #2",
   "level": 14,
-  "tags": [
-    "dp",
-    "prefix_sum",
-    "game_theory"
-  ],
+  "tags": ["dp", "prefix_sum", "game_theory"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2

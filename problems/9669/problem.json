@@ -19,12 +19,7 @@
   "hint": null,
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2013/2014, Contest #4, jh05013",
   "level": 23,
-  "tags": [
-    "data_structures",
-    "graphs",
-    "sparse_table",
-    "floyd_warshall"
-  ],
+  "tags": ["data_structures", "graphs", "sparse_table", "floyd_warshall"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 2.4544999599456787

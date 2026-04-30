@@ -27,12 +27,7 @@
   "hint": null,
   "source": "University, 서강대학교, 청정수컵, 2022 서강대학교 청정수컵, 청정수 Round, gumgood, bnb2011, cheetose, djs100201, dong_gas, lky7674, meque98, tony9402, wbcho0504",
   "level": 15,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs", "grid_graph"],
   "accepted_user_count": 142,
   "submission_count": null,
   "average_tries": 5.056300163269043

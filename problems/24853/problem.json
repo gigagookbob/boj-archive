@@ -23,10 +23,7 @@
   "hint": "<p>In the first test case, the maximum amount of the work that could be done if Oleg sleeps for eight hours. In the second test case, Oleg needs to sleep for four hours to maximize his amount of work.</p>",
   "source": "Olympiad, Russian Olympiad in Informatics, Russia High School Programming Contest, Russia High School Programming Contest 2021",
   "level": 11,
-  "tags": [
-    "math",
-    "calculus"
-  ],
+  "tags": ["math", "calculus"],
   "accepted_user_count": 31,
   "submission_count": null,
   "average_tries": 1.2903000116348267

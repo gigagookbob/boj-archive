@@ -35,11 +35,7 @@
   "hint": "<p>예제 5의 경우에 다음과 같이 오리 3마리가 울었다고 할 수 있다.</p>\n<pre>\n  녹음: quqaquuacakcqckkuaquckqauckack\n오리 1: ____q_u__a___ck_______________\n오리 2: __q__u_ac_k_q___ua__ckq_u__ack\n오리 3: qu_a_______c___k__qu___a_ck___\n</pre>",
   "source": "baekjoon, jh05013",
   "level": 9,
-  "tags": [
-    "implementation",
-    "greedy",
-    "string"
-  ],
+  "tags": ["implementation", "greedy", "string"],
   "accepted_user_count": 2160,
   "submission_count": null,
   "average_tries": 2.8921000957489014

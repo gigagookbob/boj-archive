@@ -15,12 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 1999",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "string",
-    "parsing",
-    "stack"
-  ],
+  "tags": ["data_structures", "string", "parsing", "stack"],
   "accepted_user_count": 26,
   "submission_count": null,
   "average_tries": 1.3077000379562378

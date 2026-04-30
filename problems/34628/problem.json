@@ -15,10 +15,7 @@
   "hint": "<p><strong>Explanation of the first test case, first query (1 12):</strong></p>\n<p>The subarray is $[0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0]$. There are six $0$s and six $1$s. A possible optimal sequence of operations is:</p>\n<ol>\n<li>Remove the three $1$s at indices $3$, $4$, $6$. The cost is $\\min(6-4, 4-3) = \\min(2, 1) = 1$. The array becomes $[0, 0, 0, 0, 1, 0, 1, 1, 0]$.</li>\n<li>Remove the three $0$s at indices $1$, $2$, $3$. The cost is $\\min(3-2, 2-1) = \\min(1, 1) = 1$. The array becomes $[0, 1, 0, 1, 1, 0]$.</li>\n<li>Remove the three $1$s at indices $2$, $4$, $5$. The cost is $\\min(5-4, 4-2) = \\min(1, 2) = 1$. The array becomes $[0, 0, 0]$.</li>\n<li>Remove the three $0$s at indices $1$, $2$, $3$. The cost is $\\min(3-2, 2-1) = \\min(1, 1) = 1$. The array is now empty.</li>\n</ol>\n<p>The total cost is $1+1+1+1=4$.</p>",
   "source": "Contest, Codeforces, Squarepoint Challenge (Codeforces Round 1055, Div. 1 + Div. 2), flappybird, aerae, ainta, djm03178, gs20036, kckyoung2, ncy09, qwerasdfzxcl, sadtreap, urd05, we12223, wizardrabbit",
   "level": 14,
-  "tags": [
-    "ad_hoc",
-    "prefix_sum"
-  ],
+  "tags": ["ad_hoc", "prefix_sum"],
   "accepted_user_count": 80,
   "submission_count": null,
   "average_tries": 1.024999976158142

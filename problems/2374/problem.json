@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Coxie",
   "level": 12,
-  "tags": [
-    "data_structures",
-    "greedy",
-    "stack"
-  ],
+  "tags": ["data_structures", "greedy", "stack"],
   "accepted_user_count": 788,
   "submission_count": null,
   "average_tries": 2.8324999809265137

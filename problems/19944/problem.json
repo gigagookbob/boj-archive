@@ -23,9 +23,7 @@
   "hint": "<p>TLE은 Time Limit Exceeded의 약자입니다.</p>",
   "source": "University, 인하대학교, 2020 IGRUS Newbie Programming Contest, tyoungs, chobe1, gsts007, gunwookim, panda959595, rhs0266, saemy90, zxcvber",
   "level": 2,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 6315,
   "submission_count": null,
   "average_tries": 1.4797999858856201

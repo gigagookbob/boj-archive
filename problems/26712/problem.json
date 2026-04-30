@@ -19,11 +19,7 @@
   "hint": "<p>Wyjaśnienie przykładu: W pierwszym teście przykładowym Bajtek może (na przykład) wykonać ciąg zmian <code>abbaaab</code> → <code><u>ba</u>baaab</code> → <code>ba<u>ab</u>aab</code>, który poprawnie zamieni jego słowo w palindrom, co zajmie mu dwie sekundy. Można wykazać, że nie da się zamienić jego słowa w palindrom szybciej.</p>\n<p>W drugim teście przykładowym słowo Bajtka może być postaci <code>ab</code> i <code>ba</code>. Żadne z tych słów nie jest palindromem, przez co chłopak nie będzie mógł wykonać zadania.</p>",
   "source": "Contest, Algorithmic Engagements, PA 2022",
   "level": 12,
-  "tags": [
-    "greedy",
-    "string",
-    "ad_hoc"
-  ],
+  "tags": ["greedy", "string", "ad_hoc"],
   "accepted_user_count": 22,
   "submission_count": null,
   "average_tries": 1.40910005569458

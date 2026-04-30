@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Contest, 카카오 코드 페스티벌, 카카오 코드 페스티벌 2018 예선",
   "level": 10,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "arbitrary_precision"
-  ],
+  "tags": ["math", "bruteforcing", "arbitrary_precision"],
   "accepted_user_count": 1954,
   "submission_count": null,
   "average_tries": 5.382800102233887

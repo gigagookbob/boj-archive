@@ -15,11 +15,7 @@
   "hint": "<p>예제는 입출력이 어떤 방식으로 이루어지는지 이해를 돕기 위해, 의도적으로 줄 간격을 조절하였습니다. 실제 입출력과 다름에 유의하세요.</p>\n<p>예제에서 사용한 전략은 이해를 돕기 위한 것이며, 문제의 정답이 아닙니다.</p>",
   "source": "University, 건국대학교, Hello, AlKon! 2025, motsuni04, aru0504, ohwphil, pizzaroot, riroan, yookwi",
   "level": 12,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "parity"
-  ],
+  "tags": ["ad_hoc", "constructive", "parity"],
   "accepted_user_count": 114,
   "submission_count": null,
   "average_tries": 2.078900098800659

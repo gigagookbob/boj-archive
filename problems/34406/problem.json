@@ -15,11 +15,7 @@
   "hint": "<p>$\\oplus$는 <a href=\"https://en.wikipedia.org/wiki/Bitwise_operation#XOR\">Bitwise XOR</a>을 나타내는 기호이다.</p>\n<p>$1 \\lt k_i$인 이유는, 만약 $1 \\le k_i$로 조건을 설정할 경우 $n=1, k_1=1$이 항상 답이 되어 게임이 재미 없어지기 때문이다.</p>\n<p>$k_i \\lt 2^{31}$인 이유는, 이 조건이 없으면 채점기를 만들기 힘들기 때문이다.</p>",
   "source": "University, 전남대학교, 2025 하반기 전남대학교 PIMM 알고리즘 파티, lycoris1600, dongwook7, eric00513, kolorvxl, mujigae, sjh1224, sjhi00, utilforever",
   "level": 12,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "constructive"
-  ],
+  "tags": ["math", "ad_hoc", "constructive"],
   "accepted_user_count": 84,
   "submission_count": null,
   "average_tries": 2.4642999172210693

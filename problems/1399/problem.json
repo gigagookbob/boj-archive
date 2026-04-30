@@ -15,11 +15,7 @@
   "hint": null,
   "source": "baekjoon, ho94949",
   "level": 16,
-  "tags": [
-    "math",
-    "ad_hoc",
-    "number_theory"
-  ],
+  "tags": ["math", "ad_hoc", "number_theory"],
   "accepted_user_count": 213,
   "submission_count": null,
   "average_tries": 4.046899795532227

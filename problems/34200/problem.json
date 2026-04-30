@@ -23,10 +23,7 @@
   "hint": null,
   "source": ", Olympiad, 한국정보올림피아드, KOI 2025 2차대회, 초등부, kyo20111",
   "level": 5,
-  "tags": [
-    "math",
-    "greedy"
-  ],
+  "tags": ["math", "greedy"],
   "accepted_user_count": 488,
   "submission_count": null,
   "average_tries": 1.823799967765808

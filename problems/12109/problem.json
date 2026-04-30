@@ -19,10 +19,7 @@
   "hint": "<p>The scientist has two papers with citation scores larger than or equal to 2 (the papers with citation scores 4 and 8).</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #6",
   "level": 6,
-  "tags": [
-    "implementation",
-    "sorting"
-  ],
+  "tags": ["implementation", "sorting"],
   "accepted_user_count": 164,
   "submission_count": null,
   "average_tries": 1.695099949836731

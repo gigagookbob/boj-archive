@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia West Continent, Iran, Tehran Site 2015",
   "level": 16,
-  "tags": [
-    "geometry",
-    "convex_hull",
-    "angle_sorting"
-  ],
+  "tags": ["geometry", "convex_hull", "angle_sorting"],
   "accepted_user_count": 72,
   "submission_count": null,
   "average_tries": 1.6389000415802002

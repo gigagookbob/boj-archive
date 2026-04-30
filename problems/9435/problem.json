@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Mid-Central Regional, 2013 Mid-Central Regional Programming Contest",
   "level": 11,
-  "tags": [
-    "dp",
-    "bruteforcing",
-    "bitmask"
-  ],
+  "tags": ["dp", "bruteforcing", "bitmask"],
   "accepted_user_count": 37,
   "submission_count": null,
   "average_tries": 2.2432000637054443

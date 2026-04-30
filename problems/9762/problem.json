@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Thailand, Thailand Central Group-A Programming Contest, Thailand Central Group-A Programming Contest 2013",
   "level": 6,
-  "tags": [
-    "implementation",
-    "trees",
-    "simulation"
-  ],
+  "tags": ["implementation", "trees", "simulation"],
   "accepted_user_count": 54,
   "submission_count": null,
   "average_tries": 1.0741000175476074

@@ -19,12 +19,7 @@
   "hint": null,
   "source": ", ICPC, Regionals, Europe, Northwestern European Regional Contest, Nordic Collegiate Programming Contest, NCPC 2021, Camp, Petrozavodsk Programming Camp, Winter 2022, Day 4: NCPC+BAPC+CTU 2021 Selection",
   "level": 18,
-  "tags": [
-    "gaussian_elimination",
-    "linear_algebra",
-    "math",
-    "probability"
-  ],
+  "tags": ["gaussian_elimination", "linear_algebra", "math", "probability"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.166700005531311

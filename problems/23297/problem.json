@@ -39,13 +39,7 @@
   "hint": "<p style=\"text-align: center;\"><img alt=\"\" src=\"3.png\" style=\"height: 279px; width: 1050px;\"/></p>\n<p style=\"text-align: center;\">&lt;그림 8&gt;</p>\n<p>1. &lt;그림 8&gt;는 셀 병합의 잘못된 예시이다. 셀 병합을 이루기 위해서는 <strong>완전한 직사각형 </strong>형태이어야 한다.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"4.png\" style=\"height: 313px; width: 600px;\"/></p>\n<p style=\"text-align: center;\">&lt;그림 9&gt;</p>\n<p>2. &lt;그림 9&gt;은 <em>R </em>= 99, <em>C </em>= 702 일 때 스프레드 시트의 셀의 좌표를 나타낸 것이다.</p>\n<p>3. 이 문제에서 정의하는 <strong>사전 순</strong>의 원칙은 다음과 같다.</p>\n<ul>\n<li>알파벳 대문자는 A가 가장 앞에 오며, 그 이후로 B,C,D...Z와 같이 알파벳 순서를 따른다. 예를 들어 A999 는 B1 보다 앞에 와야 한다.</li>\n<li>숫자는 0이 가장 앞에 오며, 그 이후로 1,2,...9와 같이 오름차순을 따른다. 예를 들어 A11 은 A2 보다 앞에 와야 한다.</li>\n<li>임의의 두 문자열에서 같은 자릿수에 하나는 알파벳, 다른 하나는 숫자가 있다면, 숫자가 있는 문자열이 앞에 와야한다. 예를 들어 A11 은 AA1 보다 앞에 와야 한다.</li>\n<li>임의의 두 문자열에서 하나의 문자열이 다른 하나의 문자열의 부분 문자열이라면, 길이가 짧은 부분 문자열이 앞에 와야한다. 예를 들어 A1 은 A11 보다 앞에 와야 한다.</li>\n</ul>\n<p>위 규칙을 모두 적용하여 [ A11, AA1, A2, A1, B1 ] 의 문자열을 사전 순으로 정렬한 결과는 [ A1, A11, A2, AA1, B1 ]이다.</p>",
   "source": "University, 아주대학교, 2021 아주대학교 프로그래밍 경시대회 APC, Div.1, hjhj97, rhs0266, spectaclehong, wjdclgns12, yjyj1027",
   "level": 18,
-  "tags": [
-    "graphs",
-    "implementation",
-    "parsing",
-    "scc",
-    "string"
-  ],
+  "tags": ["graphs", "implementation", "parsing", "scc", "string"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 2.857100009918213

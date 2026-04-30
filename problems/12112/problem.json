@@ -19,10 +19,7 @@
   "hint": "<p>1 + 1 + 2 + 1 + 4 + 0 + 6 + 1 + 5.</p>",
   "source": "Contest, Croatian Open Competition in Informatics, COCI 2016/2017, Contest #6",
   "level": 12,
-  "tags": [
-    "math",
-    "number_theory"
-  ],
+  "tags": ["math", "number_theory"],
   "accepted_user_count": 65,
   "submission_count": null,
   "average_tries": 1.5537999868392944

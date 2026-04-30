@@ -15,9 +15,7 @@
   "hint": "<p>There are five cows. Farmer John takes 10 minutes to cross the river alone, 13 with one cow, 17 with two cows, 23 with three, 123 with four, and 124 with all five.</p>\n<p>Farmer John can first cross with three cows (23 minutes), then return (10 minutes), and then cross with the last two (17 minutes). 23+10+17 = 50 minutes total.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2007-2008 Season, USACO March 2008 Contest, Silver",
   "level": 12,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 73,
   "submission_count": null,
   "average_tries": 1.4931999444961548

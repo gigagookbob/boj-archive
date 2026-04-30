@@ -19,9 +19,7 @@
   "hint": "<p>In the first example, the optimum is provided by the construction of one building of type $2$ and one building of type $3$.</p>\n<p>In the second example, it is most profitable to construct one building of type $1$ and two buildings of type $3$.</p>",
   "source": "Contest, Open Cup, 2020/2021 Season, Stage 16: Grand Prix of Urals",
   "level": 11,
-  "tags": [
-    "dp"
-  ],
+  "tags": ["dp"],
   "accepted_user_count": 15,
   "submission_count": null,
   "average_tries": 1.0666999816894531

@@ -23,12 +23,7 @@
   "hint": null,
   "source": "School, 대구과학고등학교, DSPC 2024, byunsanghoon1025, h0ngjun7, iansong, kes0716, kwoncycle, lky7674, tony9402, utilforever, vkdldjvkdnj",
   "level": 12,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 214,
   "submission_count": null,
   "average_tries": 1.8691999912261963

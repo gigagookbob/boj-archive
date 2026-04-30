@@ -19,10 +19,7 @@
   "hint": null,
   "source": ", Contest, Swedish Coding Cup, LTH Challenge 2017",
   "level": 12,
-  "tags": [
-    "geometry",
-    "math"
-  ],
+  "tags": ["geometry", "math"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 2.5999999046325684

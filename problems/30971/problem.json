@@ -19,10 +19,7 @@
   "hint": "<p>Python 3 사용자는 PyPy3로 제출할 것을 권장한다.</p>",
   "source": "Contest, BOJ User Contest, 나들이, 첫 번째 나들이, vkdldjvkdnj, ibm2006, iktk, measurezero, mujigae, ufshg, utilforever, w8385",
   "level": 9,
-  "tags": [
-    "bruteforcing",
-    "backtracking"
-  ],
+  "tags": ["bruteforcing", "backtracking"],
   "accepted_user_count": 189,
   "submission_count": null,
   "average_tries": 1.7777999639511108

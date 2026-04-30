@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, BOJ Bundle, BOJ Bundle in Math. Vol 1, wider93, jh05013, kaorin, kiwiyou, sorohue, utilforever",
   "level": 17,
-  "tags": [
-    "math",
-    "geometry",
-    "polygon_area"
-  ],
+  "tags": ["math", "geometry", "polygon_area"],
   "accepted_user_count": 70,
   "submission_count": null,
   "average_tries": 1.871399998664856

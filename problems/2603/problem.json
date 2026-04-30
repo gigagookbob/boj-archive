@@ -15,11 +15,7 @@
   "hint": null,
   "source": "Olympiad, 한국정보올림피아드, KOI 2004, 고등부",
   "level": 17,
-  "tags": [
-    "constructive",
-    "greedy",
-    "implementation"
-  ],
+  "tags": ["constructive", "greedy", "implementation"],
   "accepted_user_count": 14,
   "submission_count": null,
   "average_tries": 5.428599834442139

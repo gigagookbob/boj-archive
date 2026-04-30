@@ -15,10 +15,7 @@
   "hint": null,
   "source": "author5",
   "level": 6,
-  "tags": [
-    "string",
-    "sorting"
-  ],
+  "tags": ["string", "sorting"],
   "accepted_user_count": 82006,
   "submission_count": null,
   "average_tries": 2.411600112915039

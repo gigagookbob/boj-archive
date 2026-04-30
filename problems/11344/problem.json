@@ -15,12 +15,7 @@
   "hint": null,
   "source": "School, Cornell University High School Programming Contest, 2nd Annual Cornell University High School Programming Contest",
   "level": 7,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "queue"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "queue"],
   "accepted_user_count": 55,
   "submission_count": null,
   "average_tries": 1.399999976158142

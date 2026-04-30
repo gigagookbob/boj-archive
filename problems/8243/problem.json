@@ -15,13 +15,7 @@
   "hint": "<p>On the first day, triumphal arches need to be erected in towns 2, 3, 4. On the second day, they should be erected in towns 5, 6, 7.</p>\n<p style=\"text-align: center;\"><img alt=\"\" src=\"1.gif\" style=\"height:247px; width:200px\"/></p>",
   "source": "Olympiad, Polish Olympiad in Informatics, POI 2012/2013, Stage 2",
   "level": 19,
-  "tags": [
-    "dp",
-    "trees",
-    "binary_search",
-    "dp_tree",
-    "parametric_search"
-  ],
+  "tags": ["dp", "trees", "binary_search", "dp_tree", "parametric_search"],
   "accepted_user_count": 76,
   "submission_count": null,
   "average_tries": 3.3815999031066895

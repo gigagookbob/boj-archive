@@ -27,11 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Asia Pacific, Indonesia, Indonesia National Contest, INC 2020",
   "level": 10,
-  "tags": [
-    "string",
-    "prefix_sum",
-    "sliding_window"
-  ],
+  "tags": ["string", "prefix_sum", "sliding_window"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.350000023841858

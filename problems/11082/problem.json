@@ -27,13 +27,7 @@
   "hint": null,
   "source": "ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Eastern Division, ACM South Pacific Eastern Division 2015, ICPC, Regionals, South Pacific, South Pacific Region, ACM South Pacific Central Division, ACM South Pacific Central Division 2015",
   "level": 11,
-  "tags": [
-    "math",
-    "string",
-    "number_theory",
-    "parsing",
-    "euclidean"
-  ],
+  "tags": ["math", "string", "number_theory", "parsing", "euclidean"],
   "accepted_user_count": 203,
   "submission_count": null,
   "average_tries": 2.837399959564209

@@ -19,10 +19,7 @@
   "hint": null,
   "source": "Contest, koi4u, koi4u 2008년 5월 모의고사, kcm1700",
   "level": 16,
-  "tags": [
-    "dp",
-    "game_theory"
-  ],
+  "tags": ["dp", "game_theory"],
   "accepted_user_count": 94,
   "submission_count": null,
   "average_tries": 3.54259991645813

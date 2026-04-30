@@ -23,9 +23,7 @@
   "hint": null,
   "source": "ICPC, Regionals, Europe, Southwestern European Regional Contest, SWERC 2022-2023",
   "level": 13,
-  "tags": [
-    "math"
-  ],
+  "tags": ["math"],
   "accepted_user_count": 40,
   "submission_count": null,
   "average_tries": 1.350000023841858

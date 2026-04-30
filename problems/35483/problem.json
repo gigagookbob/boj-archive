@@ -15,12 +15,7 @@
   "hint": null,
   "source": "Contest, BOJ User Contest, Happy Birthday Lumi!, Happy Birthday Lumi! 2026, bubbler, dinojaemin, djeleanor2, kuhyaku, sjhi00, toycartoon",
   "level": 11,
-  "tags": [
-    "data_structures",
-    "bruteforcing",
-    "set",
-    "two_pointer"
-  ],
+  "tags": ["data_structures", "bruteforcing", "set", "two_pointer"],
   "accepted_user_count": 30,
   "submission_count": null,
   "average_tries": 1.100000023841858

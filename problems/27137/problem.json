@@ -15,9 +15,7 @@
   "hint": null,
   "source": "Olympiad, USA Computing Olympiad, 2000-2001 Season, USACO Spring 2001 Contest, Orange",
   "level": 6,
-  "tags": [
-    "implementation"
-  ],
+  "tags": ["implementation"],
   "accepted_user_count": 50,
   "submission_count": null,
   "average_tries": 2.3399999141693115

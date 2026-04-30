@@ -23,12 +23,7 @@
   "hint": null,
   "source": "Olympiad, Lithuanian Olympiad in Informatics, Lithuanian Olympiad in Informatics 2018/2019, National Round, 10-12 Classes",
   "level": 18,
-  "tags": [
-    "implementation",
-    "data_structures",
-    "simulation",
-    "linked_list"
-  ],
+  "tags": ["implementation", "data_structures", "simulation", "linked_list"],
   "accepted_user_count": 1,
   "submission_count": null,
   "average_tries": 6

@@ -23,11 +23,7 @@
   "hint": null,
   "source": "Contest, ICPC Japanese Alumni Group, JAG Summer Camp, JAG Summer Camp 2009 Day 3",
   "level": 9,
-  "tags": [
-    "arithmetic",
-    "bruteforcing",
-    "math"
-  ],
+  "tags": ["arithmetic", "bruteforcing", "math"],
   "accepted_user_count": 20,
   "submission_count": null,
   "average_tries": 2.25

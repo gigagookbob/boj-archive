@@ -15,10 +15,7 @@
   "hint": null,
   "source": "BaaaaaaaaaaarkingDog, rhckdrnr123",
   "level": 16,
-  "tags": [
-    "graphs",
-    "scc"
-  ],
+  "tags": ["graphs", "scc"],
   "accepted_user_count": 5630,
   "submission_count": null,
   "average_tries": 2.192199945449829

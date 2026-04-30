@@ -15,10 +15,7 @@
   "hint": null,
   "source": "Olympiad, Baltic Olympiad in Informatics, BOI 2003, jjwdi0, kcm1700",
   "level": 20,
-  "tags": [
-    "math",
-    "ad_hoc"
-  ],
+  "tags": ["math", "ad_hoc"],
   "accepted_user_count": 216,
   "submission_count": null,
   "average_tries": 2.3657000064849854

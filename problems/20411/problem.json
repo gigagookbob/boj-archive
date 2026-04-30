@@ -23,11 +23,7 @@
   "hint": "<p>c언어에서의 rand() 함수는 위와 비슷하지만 <em>X<sub>n</sub></em> 의 상위 16개 비트를 반환하도록 구현되어있다.</p>",
   "source": "University, 아주대학교, 2020 아주대학교 프로그래밍 경시대회 APC, Div.1, University, 아주대학교, 2020 아주대학교 프로그래밍 경시대회 APC, Div.2, hjhj97, spectaclehong, edenooo, jwvg0425, kyo20111, xtalxlr",
   "level": 6,
-  "tags": [
-    "math",
-    "bruteforcing",
-    "number_theory"
-  ],
+  "tags": ["math", "bruteforcing", "number_theory"],
   "accepted_user_count": 263,
   "submission_count": null,
   "average_tries": 2.414400100708008

@@ -19,11 +19,7 @@
   "hint": "<p>In Sample 1, the following sequences are interesting: all length-1 sequences, three sequences of length 2: only (6, 6) is not interesting, all three length-3 sequences, one length-4 sequence--(6, 1, 6, 6). Among them the sequences (1, 6, 6) and (6, 1, 6, 6) are not very interesting.</p>\n<p>In Sample 2, only the full sequence $(1, 2, 3, 1, 2, 3)$ is not very interesting.</p>",
   "source": "ICPC, Regionals, Europe, Central European Regional Contest, Poland Collegiate Programming Contest, AMPPZ 2017",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "lazyprop",
-    "segtree"
-  ],
+  "tags": ["data_structures", "lazyprop", "segtree"],
   "accepted_user_count": 17,
   "submission_count": null,
   "average_tries": 1.3529000282287598

@@ -31,13 +31,7 @@
   "hint": null,
   "source": "baekjoon",
   "level": 21,
-  "tags": [
-    "math",
-    "dp",
-    "graphs",
-    "combinatorics",
-    "inclusion_and_exclusion"
-  ],
+  "tags": ["math", "dp", "graphs", "combinatorics", "inclusion_and_exclusion"],
   "accepted_user_count": 9,
   "submission_count": null,
   "average_tries": 1

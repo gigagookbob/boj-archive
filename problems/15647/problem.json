@@ -15,14 +15,7 @@
   "hint": null,
   "source": "moonrabbit2, jh05013",
   "level": 16,
-  "tags": [
-    "dp",
-    "graphs",
-    "graph_traversal",
-    "trees",
-    "dp_tree",
-    "rerooting"
-  ],
+  "tags": ["dp", "graphs", "graph_traversal", "trees", "dp_tree", "rerooting"],
   "accepted_user_count": 627,
   "submission_count": null,
   "average_tries": 2.275899887084961

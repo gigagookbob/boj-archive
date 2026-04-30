@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Contest, Waterloo's local Programming Contests, 5 February, 2005",
   "level": 20,
-  "tags": [
-    "geometry",
-    "geometry_3d",
-    "math"
-  ],
+  "tags": ["geometry", "geometry_3d", "math"],
   "accepted_user_count": 10,
   "submission_count": null,
   "average_tries": 4.800000190734863

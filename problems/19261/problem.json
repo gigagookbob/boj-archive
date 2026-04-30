@@ -19,11 +19,7 @@
   "hint": null,
   "source": "Camp, Petrozavodsk Programming Camp, Winter 2018, Day 2: ITMO U 1 Contest",
   "level": 22,
-  "tags": [
-    "exponentiation_by_squaring",
-    "math",
-    "precomputation"
-  ],
+  "tags": ["exponentiation_by_squaring", "math", "precomputation"],
   "accepted_user_count": 6,
   "submission_count": null,
   "average_tries": 1.333299994468689

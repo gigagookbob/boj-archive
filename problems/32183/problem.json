@@ -15,13 +15,7 @@
   "hint": null,
   "source": "University, 중앙대학교, 중앙대학교 프로그래밍 경진대회 (CPC), 2024 중앙대학교 프로그래밍 경진대회 (CPC), Open Contest, dlaud5379, jk410, mujigae, utilforever, wapas",
   "level": 22,
-  "tags": [
-    "data_structures",
-    "string",
-    "segtree",
-    "lazyprop",
-    "regex"
-  ],
+  "tags": ["data_structures", "string", "segtree", "lazyprop", "regex"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

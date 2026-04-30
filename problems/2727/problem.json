@@ -15,11 +15,7 @@
   "hint": null,
   "source": "ICPC, Regionals, North America, Greater New York Region, 2006 Greater New York Programming Contest, baekjoon, doju, gunwookim",
   "level": 16,
-  "tags": [
-    "math",
-    "greedy",
-    "constructive"
-  ],
+  "tags": ["math", "greedy", "constructive"],
   "accepted_user_count": 194,
   "submission_count": null,
   "average_tries": 1.7680000066757202

@@ -15,11 +15,7 @@
   "hint": null,
   "source": "University, 인하대학교, 2024 인하대학교 프로그래밍 경진대회 (IUPC), Contest, University, 인하대학교, 2024 인하대학교 프로그래밍 경진대회 (IUPC), Open Contest, jinik9903, 39dll, aym506, chlwnsgud7, dabbler1, dongggle, gumgood, jinhan814, lky7674, ths101, wjdclgns12, yooshnn",
   "level": 13,
-  "tags": [
-    "graphs",
-    "dag",
-    "topological_sorting"
-  ],
+  "tags": ["graphs", "dag", "topological_sorting"],
   "accepted_user_count": 144,
   "submission_count": null,
   "average_tries": 1.4027999639511108

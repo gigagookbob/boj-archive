@@ -15,11 +15,7 @@
   "hint": null,
   "source": ", Olympiad, European Girls' Olympiad in Informatics, EGOI 2023, Day 1",
   "level": 21,
-  "tags": [
-    "ad_hoc",
-    "constructive",
-    "case_work"
-  ],
+  "tags": ["ad_hoc", "constructive", "case_work"],
   "accepted_user_count": 8,
   "submission_count": null,
   "average_tries": 1.75

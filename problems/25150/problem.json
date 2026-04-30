@@ -23,9 +23,7 @@
   "hint": "<p>Opis prvog test podatka: Na prvenstvu sudjeluju četiri tima, tri će proći u drugi krug. Rezultati prvog kruga su: T1(Hrvatska):T2=4:7, T1(Hrvatska):T3=8:2, T1(Hrvatska):T4=5:2, T2:T3=7:1, T2:T4=6:2, T3:T4=3:7. Nakon prvog kruga tim T2 bio je na prvom mjestu sa 6 bodova, T1(Hrvatska) na drugom s 5 bodova, T4 na trećem s 4 boda i T3 na posljednjem mjestu s 3 boda.</p>\n<p>U drugi krug prošli su timovi T2, T1 i T4. Svatko od njih prenio je bodove koje je u prvom krugu osvojio protiv tih timova, dok su se bodovi osvojeni protiv T3 brisali. Pa je tako T1 prenio 3 boda, T2 je prenio 4 boda, a T4 2 boda. Ukupan broj bodova koje su timovi prenijeli u drugi krug je 9 bodova.</p>",
   "source": "Olympiad, Croatian Highschool Competitions in Informatics, 2017, Junior Croatian Olympiad in Informatics 2017",
   "level": 8,
-  "tags": [
-    "sorting"
-  ],
+  "tags": ["sorting"],
   "accepted_user_count": 13,
   "submission_count": null,
   "average_tries": 1.0769000053405762

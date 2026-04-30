@@ -15,11 +15,7 @@
   "hint": "<h4>Input Details</h4>\n<p>The pattern in the input shows a cow hide with two distinct spots, labeled 1 and 2 below:</p>\n<pre>\n................\n..1111....222...\n...1111....22...\n.1111......222..\n........22222...\n.........222....\n</pre>\n<h4>Output Details</h4>\n<p>Three 'X's suffice to join the two spots into one:</p>\n<pre>\n................\n..1111....222...\n...1111X...22...\n.1111..XX..222..\n........22222...\n.........222....</pre>",
   "source": "Olympiad, USA Computing Olympiad, 2011-2012 Season, USACO November 2011 Contest, Bronze",
   "level": 11,
-  "tags": [
-    "graphs",
-    "graph_traversal",
-    "bfs"
-  ],
+  "tags": ["graphs", "graph_traversal", "bfs"],
   "accepted_user_count": 253,
   "submission_count": null,
   "average_tries": 1.513800024986267

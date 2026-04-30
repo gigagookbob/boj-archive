@@ -15,14 +15,7 @@
   "hint": "<p>{1}, {2}, {3}, {4}, {1, 2}, {1, 3}, {3, 4}, {1, 3, 4}</p>",
   "source": null,
   "level": 25,
-  "tags": [
-    "combinatorics",
-    "hld",
-    "math",
-    "sweeping",
-    "top_tree",
-    "trees"
-  ],
+  "tags": ["combinatorics", "hld", "math", "sweeping", "top_tree", "trees"],
   "accepted_user_count": 3,
   "submission_count": null,
   "average_tries": 2.3333001136779785

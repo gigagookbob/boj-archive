@@ -15,13 +15,7 @@
   "hint": "<p>111111, 111112, 111121, 111211, 111212, 112111, 112121, 121111, 121112, 121211, 121212, 211111, 211121, 212111, 212121 이 가능한 경우들이다.</p>",
   "source": "Olympiad, USA Computing Olympiad, 2005-2006 Season, USACO November 2005 Contest, Bronze",
   "level": 9,
-  "tags": [
-    "graphs",
-    "bruteforcing",
-    "graph_traversal",
-    "dfs",
-    "grid_graph"
-  ],
+  "tags": ["graphs", "bruteforcing", "graph_traversal", "dfs", "grid_graph"],
   "accepted_user_count": 7289,
   "submission_count": null,
   "average_tries": 1.3413000106811523
